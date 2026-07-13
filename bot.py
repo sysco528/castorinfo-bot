@@ -26,7 +26,8 @@ import anthropic
 # ============================================================
 # RÉGLAGES — c'est ici qu'on ajuste le comportement du bot
 # ============================================================
-COMPTES_SOURCES = ["CerfiaFR", "AlertesInfos", "ImpactMediaFR"]
+COMPTES_SOURCES = ["CerfiaFR", "Mediavenir", "AlertesInfos", "Brevesdepresse",
+                   "Actu17", "BFMTV", "franceinfo", "ActuFoot_"]
 
 MAX_POSTS_PAR_RUN = 2     # dépêches max publiées par passage (toutes les 15 min)
 MAX_POSTS_PAR_JOUR = 10   # plafond quotidien — MONTÉE EN CHARGE :
