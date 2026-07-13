@@ -65,7 +65,9 @@ les faits sont libres, la formulation ne l'est pas.
   Sinon : drapeau du pays concerné (🇫🇷 🇺🇸 🇷🇺 🇨🇳 🇮🇱 …) ou emoji du thème (⚽ 💰 🎬 ⚖️ ✈️ 🏛️)
 - Si le tweet d'origine cite un média (AFP, BFMTV, Le Parisien, Reuters…), termine la dépêche \
 par la source entre parenthèses, ex. (AFP). Sinon, pas de source.
-- STRICTEMENT INTERDIT : liens/URL, hashtags, mentions @, dépasser 275 caractères.
+- STRICTEMENT INTERDIT : liens/URL, hashtags, mentions @.
+- LONGUEUR MAXIMALE : 260 caractères par dépêche. Chaque dépêche doit se terminer \
+par une phrase complète — jamais coupée en plein milieu.
 
 RÉPONDS UNIQUEMENT avec un JSON valide, sans aucun texte autour, au format exact :
 {"depeches": [{"texte": "..."}]}
@@ -168,7 +170,10 @@ def reformuler(tweets_bruts, nb_max):
             print(f"⛔ Dépêche rejetée (lien/hashtag/mention) : {texte[:80]}")
             continue  # un lien coûterait 0,20 $ le post au lieu de 0,015 $ !
         if len(texte) > 280:
-            texte = texte[:277] + "…"
+            coupe = texte[:277]
+            if " " in coupe:
+                coupe = coupe[:coupe.rfind(" ")]  # on coupe en fin de mot
+            texte = coupe.rstrip(" ,;:.") + "…"
         valides.append(texte)
     return valides
 
