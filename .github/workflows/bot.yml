@@ -1,0 +1,51 @@
+# ============================================================
+# Castor Info — planificateur GitHub Actions
+# Ce fichier doit être placé EXACTEMENT ici dans le dépôt :
+#     .github/workflows/bot.yml
+# ============================================================
+name: Castor Info Bot
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # toutes les 15 minutes (GitHub peut décaler de quelques minutes)
+  workflow_dispatch:          # ajoute un bouton "Run workflow" pour lancer à la main
+
+concurrency:
+  group: castor-bot
+  cancel-in-progress: false   # jamais deux passages en même temps
+
+permissions:
+  contents: write             # nécessaire pour sauvegarder state.json
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer les dépendances
+        run: pip install --quiet requests tweepy anthropic
+
+      - name: Lancer le bot
+        env:
+          TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python bot.py
+
+      - name: Sauvegarder l'état
+        run: |
+          git config user.name "castor-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || (git commit -m "màj état du bot" && git push)
