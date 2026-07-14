@@ -48,7 +48,9 @@ APPELS = []
 class _Bloc:
     def __init__(self, t): self.text = t
 class _Msg:
-    def __init__(self, t): self.content = [_Bloc(t)]
+    def __init__(self, t):
+        self.content = [_Bloc(t)]
+        self.stop_reason = "end_turn"
 class _Messages:
     def create(self, model=None, max_tokens=None, system="", messages=None):
         APPELS.append({"system": system[:40], "user": messages[0]["content"]})

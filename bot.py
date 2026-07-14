@@ -55,7 +55,8 @@ FLUX_RSS = [
 MAX_POSTS_PAR_RUN = 2      # dépêches max publiées par passage
 MAX_POSTS_PAR_JOUR = 10    # plafond quotidien (montée en charge progressive)
 MAX_ENTREES_PAR_FLUX = 12  # entrées RSS lues par flux et par passage
-MAX_ENTREES_EXTRACTION = 30  # entrées envoyées au modèle par passage (borne de coût)
+MAX_ENTREES_EXTRACTION = 20  # entrées envoyées au modèle par passage (borne de coût
+                             # et de taille de réponse — le surplus attend le run suivant)
 
 SEUIL_PUBLICATION = 75     # score >= 75  -> publiable
 SEUIL_ATTENTE = 55         # 55-74        -> mis en attente (confirmation possible)
@@ -288,10 +289,12 @@ def extraire(client_ia, entrees):
                       f'    resume: {proteger(e["resume"])}')
     demande = "<entrees>\n" + "\n".join(lignes) + "\n</entrees>"
     msg = client_ia.messages.create(
-        model=MODELE_CLAUDE, max_tokens=3000,
+        model=MODELE_CLAUDE, max_tokens=8000,
         system=SYSTEME_EXTRACTION,
         messages=[{"role": "user", "content": demande}],
     )
+    if msg.stop_reason == "max_tokens":
+        raise ValueError("réponse d'extraction tronquée (max_tokens)")
     donnees = json_du_modele(msg.content[0].text)
     evenements = []
     for evt in donnees.get("evenements", []):
