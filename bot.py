@@ -143,8 +143,15 @@ Vérifie et RÉPONDS UNIQUEMENT en JSON strict :
  "signal_justifie": true/false,
  "publiable": true/false
 }
-Sois sévère : au moindre doute, "publiable": false. Un faux positif coûte une
-dépêche ; un faux négatif coûte la réputation du média."""
+Critères pour "signal_justifie" (ne juge QUE le préfixe, pas le fond) :
+- « 🔴 ALERTE » : justifié seulement pour un fait majeur en cours (mort confirmée,
+  attentat, catastrophe, vigilance rouge, décision historique) ;
+- « ⚡ FLASH » ou « emoji + MOT — » : justifié pour toute information chaude ou
+  importante du jour — sois tolérant ;
+- un simple emoji de thème ou un drapeau est TOUJOURS justifié.
+Sois sévère sur les faits ("faits_exacts", "invention", "diffamation_possible" :
+au moindre doute, "publiable": false) mais pas sur le style. Un faux positif
+coûte une dépêche ; un faux négatif coûte la réputation du média."""
 
 
 # ------------------------------------------------------------
@@ -427,7 +434,9 @@ def rediger_et_controler(client_ia, evt, entrees_sources):
     if not ctrl.get("signal_justifie"):
         # Les faits sont bons, seul le signal est trop fort : rétrogradation
         # déterministe vers l'emoji du thème (aucun appel IA supplémentaire).
-        texte_calme = re.sub(r"^(🔴|⚡|🚨)\s*[A-ZÀ-Ü\s\-–—]*—\s*", "", texte).strip()
+        # Couvre « 🔴 ALERTE — », « ⚡ FLASH — », « ⚽ FLASH — », « 🔥 TITRE — »…
+        texte_calme = re.sub(r"^[^\w\s]{1,8}\s*[A-ZÀ-Ü][A-ZÀ-Ü\s\-–]{1,20}—\s*",
+                             "", texte).strip()
         if texte_calme and texte_calme != texte:
             texte = f"{EMOJI_CATEGORIE.get(evt.get('categorie'), '📌')} {texte_calme}"
             if len(texte) > 280:

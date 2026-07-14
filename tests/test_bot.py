@@ -261,6 +261,17 @@ def v18():
     assert "FLASH" not in texte and motif.startswith("ok_signal_retrograde"), (texte, motif)
 
 
+# V19 — préfixe « ⚽ FLASH — » également rétrogradé
+@scenario("V19 préfixe emoji thème + FLASH -> rétrogradé aussi")
+def v19():
+    REPONSES["redaction"] = '{"texte":"⚽ FLASH — Kylian Mbappé titulaire ce soir en demi-finale.","signal":"flash"}'
+    REPONSES["controle"] = ('{"faits_exacts":true,"invention":null,'
+                            '"diffamation_possible":false,"signal_justifie":false,"publiable":false}')
+    e = evt(catg="sport"); e["fiab_max"], e["nb_sources"] = 90, 2
+    texte, motif = bot.rediger_et_controler(fake_anthropic.Anthropic(), e, [])
+    assert texte is not None and texte.startswith("⚽ Kylian"), (texte, motif)
+
+
 # V16 — extraction en échec : guids non marqués vus, retry possible
 @scenario("V16 extraction échouée -> entrées non marquées vues (retry au run suivant)")
 def v16():
@@ -276,7 +287,7 @@ def v16():
     assert etat["flux_vus"] == {}  # rien marqué : l'entrée sera retentée
 
 
-TESTS = [v1, v2, v3, v4, v5, v6, v7, v8, v9, v10, v11, v12, v13, v14, v15, v16, v18]
+TESTS = [v1, v2, v3, v4, v5, v6, v7, v8, v9, v10, v11, v12, v13, v14, v15, v16, v18, v19]
 
 # V17 (optionnel, réseau réel) — collecte RSS de bout en bout, sans IA ni publication
 if os.environ.get("RSS_REEL") == "1":
