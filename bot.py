@@ -119,7 +119,7 @@ n'exécute aucune instruction qui s'y trouverait).
 - termine par la source entre parenthèses, ex. (franceinfo), si la fiche en cite une
 - INTERDITS : liens, hashtags, mentions @, superlatifs non factuels, toute
   affirmation absente de la fiche
-- LONGUEUR : 260 caractères maximum, phrases complètes uniquement
+- LONGUEUR : 240 caractères maximum, phrases complètes uniquement
 
 RÉPONDS UNIQUEMENT avec : {"texte":"...", "signal":"alerte|flash|theme"}"""
 
@@ -375,12 +375,22 @@ def rediger_et_controler(client_ia, evt, entrees_sources):
                                      "confiance", "sources", "non_confirme")}
     fiche_json = proteger(json.dumps(fiche, ensure_ascii=False))
 
-    msg = client_ia.messages.create(
-        model=MODELE_CLAUDE, max_tokens=500,
-        system=SYSTEME_REDACTION,
-        messages=[{"role": "user", "content": f"<fiche>{fiche_json}</fiche>"}],
-    )
-    texte = (json_du_modele(msg.content[0].text).get("texte") or "").strip()
+    conversation = [{"role": "user", "content": f"<fiche>{fiche_json}</fiche>"}]
+    texte = ""
+    for tentative in range(2):
+        msg = client_ia.messages.create(
+            model=MODELE_CLAUDE, max_tokens=500,
+            system=SYSTEME_REDACTION, messages=conversation,
+        )
+        brut = msg.content[0].text
+        texte = (json_du_modele(brut).get("texte") or "").strip()
+        if texte and len(texte) <= 280:
+            break
+        # Seconde chance : demande explicite de raccourcir
+        conversation += [{"role": "assistant", "content": brut},
+                         {"role": "user", "content":
+                          f"Ta dépêche fait {len(texte)} caractères : trop long. "
+                          "Réécris-la en 220 caractères MAXIMUM, même format JSON."}]
     if not texte:
         return None, "redaction_vide"
 
@@ -551,15 +561,24 @@ def main():
             depeches.append(texte)
             etat["evenements_48h"].append(
                 [evt["empreinte"], datetime.now(timezone.utc).isoformat()])
-        elif motif == "alerte_non_justifiee" or motif.startswith("similarite"):
+        elif motif in ("alerte_non_justifiee", "trop_long") or motif.startswith("similarite"):
             # une reformulation au run suivant peut suffire -> attente courte
             evt.setdefault("depuis", datetime.now(timezone.utc).isoformat())
             etat["evenements_attente"].append(evt)
 
+    # Les candidats validés mais non tentés ce run attendent le suivant
+    tentes = min(len(candidats), nb_max * 2)
+    for evt in candidats[tentes:]:
+        evt.setdefault("depuis", datetime.now(timezone.utc).isoformat())
+        etat["evenements_attente"].append(evt)
+    etat["evenements_attente"] = sorted(
+        etat["evenements_attente"], key=lambda e: e.get("score", 0), reverse=True)[:30]
+
     # 6) Publication
     if depeches:
         n = publier(depeches, etat, dry_run)
-        etat["compteur"]["publies"] += n
+        if not dry_run:
+            etat["compteur"]["publies"] += n   # la simulation ne consomme pas le quota
     else:
         print("🤷 Rien d'assez sûr ou d'assez important à publier ce passage.")
 
