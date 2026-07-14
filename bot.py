@@ -73,6 +73,13 @@ UA = "CastorInfoBot/2.0 (+https://x.com/castorinfo)"
 
 FIABILITE = {nom: fiab for _, nom, fiab, _ in FLUX_RSS}
 
+EMOJI_CATEGORIE = {
+    "politique": "🏛️", "international": "🌍", "faits_divers": "🚨",
+    "justice": "⚖️", "economie": "💰", "sport": "⚽", "culture": "🎬",
+    "sciences": "🔬", "meteo_catastrophe": "🌡️", "sante": "🏥",
+    "deces_personnalite": "🕯️", "autre": "📌",
+}
+
 # ============================================================
 # PROMPTS — données toujours encadrées de balises et déclarées non fiables,
 # sorties toujours en JSON strict validé par le code.
@@ -413,9 +420,21 @@ def rediger_et_controler(client_ia, evt, entrees_sources):
                    f"<fiche>{fiche_json}</fiche>\n<depeche>{proteger(texte)}</depeche>"}],
     )
     ctrl = json_du_modele(ctrl_msg.content[0].text)
-    if not (ctrl.get("publiable") and ctrl.get("faits_exacts")
-            and ctrl.get("signal_justifie")
-            and not ctrl.get("diffamation_possible")):
+    fond_ok = (ctrl.get("faits_exacts") and not ctrl.get("invention")
+               and not ctrl.get("diffamation_possible"))
+    if not fond_ok:
+        return None, f"controle_refuse:{json.dumps(ctrl, ensure_ascii=False)[:120]}"
+    if not ctrl.get("signal_justifie"):
+        # Les faits sont bons, seul le signal est trop fort : rétrogradation
+        # déterministe vers l'emoji du thème (aucun appel IA supplémentaire).
+        texte_calme = re.sub(r"^(🔴|⚡|🚨)\s*[A-ZÀ-Ü\s\-–—]*—\s*", "", texte).strip()
+        if texte_calme and texte_calme != texte:
+            texte = f"{EMOJI_CATEGORIE.get(evt.get('categorie'), '📌')} {texte_calme}"
+            if len(texte) > 280:
+                return None, "trop_long"
+            return texte, f"ok_signal_retrograde_sim_{sim:.2f}"
+        return None, f"controle_refuse:{json.dumps(ctrl, ensure_ascii=False)[:120]}"
+    if not ctrl.get("publiable"):
         return None, f"controle_refuse:{json.dumps(ctrl, ensure_ascii=False)[:120]}"
     return texte, f"ok_sim_{sim:.2f}"
 

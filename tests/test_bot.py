@@ -249,6 +249,18 @@ def v15():
     e2 = evt(sources=("Le Monde",))
     assert bot.empreinte_evenement(e1) == bot.empreinte_evenement(e2)
 
+# V18 — signal jugé trop fort par le contrôle -> rétrogradé par le code, pas rejeté
+@scenario("V18 signal trop fort -> rétrogradation déterministe vers l'emoji du thème")
+def v18():
+    REPONSES["redaction"] = '{"texte":"⚡ FLASH — Vingt-six départements en vigilance rouge canicule mardi.","signal":"flash"}'
+    REPONSES["controle"] = ('{"faits_exacts":true,"invention":null,'
+                            '"diffamation_possible":false,"signal_justifie":false,"publiable":false}')
+    e = evt(catg="meteo_catastrophe"); e["fiab_max"], e["nb_sources"] = 90, 2
+    texte, motif = bot.rediger_et_controler(fake_anthropic.Anthropic(), e, [])
+    assert texte is not None and texte.startswith("🌡️"), (texte, motif)
+    assert "FLASH" not in texte and motif.startswith("ok_signal_retrograde"), (texte, motif)
+
+
 # V16 — extraction en échec : guids non marqués vus, retry possible
 @scenario("V16 extraction échouée -> entrées non marquées vues (retry au run suivant)")
 def v16():
@@ -264,7 +276,7 @@ def v16():
     assert etat["flux_vus"] == {}  # rien marqué : l'entrée sera retentée
 
 
-TESTS = [v1, v2, v3, v4, v5, v6, v7, v8, v9, v10, v11, v12, v13, v14, v15, v16]
+TESTS = [v1, v2, v3, v4, v5, v6, v7, v8, v9, v10, v11, v12, v13, v14, v15, v16, v18]
 
 # V17 (optionnel, réseau réel) — collecte RSS de bout en bout, sans IA ni publication
 if os.environ.get("RSS_REEL") == "1":
