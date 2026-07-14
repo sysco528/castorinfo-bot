@@ -70,6 +70,30 @@
    "804503be-7f38-11f1-b087-552a703408cf",
    "82bd7cd0-7f19-11f1-980b-3194a8eaba1e",
    "49970cc4-7f13-11f1-a693-075d24e898bd"
+  ],
+  "https://www.ouest-france.fr/rss/une": [
+   "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://sante.ouest-france.fr/bien-etre/que-vaut-vraiment-la-clean-beauty-ce-concept-tres-flou-qui-cartonne-en-cosmetiques-f5c796a2-7497-11f1-847f-0515a70d2189?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/angleterre/a-jersey-decouvrez-le-sentier-des-marees-un-circuit-de-77-km-le-long-du-littoral-84bcb500-6010-11f1-b0fc-ddf25559701c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/high-tech/numerique/fred24-robot1er-les-nouvelles-vies-du-fondateur-de-blablacar-frederic-mazzella-avec-lintelligence-artificielle-ce69c65c-7a0a-11f1-b6b9-5740d58e7caf?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-tadej-pogacar-revanchard-face-a-jonas-vingegaard-pour-larrivee-au-lioran-2c61ab98-7ed5-11f1-b616-dddac7a26294?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-pourquoi-la-polemique-sur-la-gestion-du-detroit-dormuz-est-relancee-f52660d2-7eb7-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/cyclisme/tadej-pogacar/un-double-tour-de-france-vuelta-tadej-pogacar-envisage-de-prendre-le-depart-du-tour-despagne-2026-0019515a-7f46-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/angleterre-argentine-larbitre-de-la-demi-finale-connu-et-il-a-deja-dirige-un-match-tendu-dans-cette-coupe-du-monde-ee45a40a-7f41-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/securite-routiere/departs-en-vacances/camping-car-ces-astuces-pour-partir-sans-exploser-son-budget-246cdcf8-79d7-11f1-ae95-49be6b75151e?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tourisme/cet-ete-entrez-en-immersion-dans-la-culture-equestre-au-haras-de-la-vendee-7fc7091e-52d3-11f1-bdc7-d41f8cb55a03?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+  ],
+  "https://www.20minutes.fr/feeds/rss-une.xml": [
+   "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/canicule/4234319-20260713-direct-canicule-incendies-canadair-envoyes-lutter-contre-feu-foret-fontainebleau?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4234453-20260713-14-juillet-justice-annule-obligation-presenter-qr-code-assister-defile?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/4234322-20260713-direct-guerre-moyen-orient-etats-unis-frappent-nouveau-iran-lequel-attaque-bases-americaines-etranger?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4234460-20260713-guerre-ukraine-sait-bouclier-antimissiles-lance-neuf-pays-europeens-dont-france?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/football/4234484-20260714-direct-coupe-monde-2026-revanche-deschamps-estime-espagne-favorite-suivez-journee?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/diaporama/diaporama-4234381-images-sam-neill-alan-grant-jurassic-park-preuve-douze-roles?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4234376-20260713-guerre-ukraine-europe-degaine-bouclier-contre-missiles-russes-kremlin-ironise?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4234467-20260714-etats-unis-partent-guerre-contre-cour-penale-internationale-bete-noire?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/diaporama/diaporama-4233956-images-coupe-monde-2026-scarface-infantino-mbappe-superstar-supporters-quarts-folie?at_medium=display&at_campaign=149"
   ]
  },
  "en_attente_publication": [],
@@ -353,6 +377,28 @@
   },
   {
    "faits": [
+    "Neuf pays européens, dont la France, ont annoncé le lancement d'un « bouclier » antimissile avec l'Ukraine",
+    "Le projet s'appelle Freya",
+    "La France prévoit de livrer 16 avions Rafale à Kiev"
+   ],
+   "qui": "France, Ukraine, neuf pays européens",
+   "ou": "Ukraine",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "cc89f392fbad0285",
+   "score": 80,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:02.876101+00:00"
+  },
+  {
+   "faits": [
     "Mali : six proches de l'ancien président de transition Bah N'Daw jugés",
     "Accusation de 'tentative de complot'",
     "Jugement devant les chambres criminelles de la cour d'appel de Bamako le 14 juillet",
@@ -400,6 +446,50 @@
   },
   {
    "faits": [
+    "Une demi-finale de Coupe du monde 2026 opposera l'Angleterre et l'Argentine mercredi 15 juillet",
+    "L'arbitre américain Ismail Elfath a été désigné pour diriger le match",
+    "Elfath a déjà dirigé un match tendu dans cette Coupe du monde"
+   ],
+   "qui": "Équipe d'Angleterre, Équipe d'Argentine, Ismail Elfath",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "e840ad2c4686ae47",
+   "score": 80,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:08.183490+00:00"
+  },
+  {
+   "faits": [
+    "Le détroit d'Ormuz, couloir maritime stratégique, est au cœur de nouvelles tensions",
+    "Donald Trump affirme que les États-Unis prendront le contrôle du détroit et taxeront les navires qui le franchissent",
+    "Cela intervient en contexte de regain de tensions avec l'Iran"
+   ],
+   "qui": "Donald Trump, États-Unis, Iran",
+   "ou": "Détroit d'Ormuz",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "c3d3024906eaf9e4",
+   "score": 79,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:02.875921+00:00"
+  },
+  {
+   "faits": [
     "Dix membres de la 'flottille terrestre pour Gaza' arrêtés fin mai en Libye",
     "Détenus durant un mois",
     "Libérés depuis trois semaines",
@@ -420,6 +510,49 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-14T07:19:07.453927+00:00"
+  },
+  {
+   "faits": [
+    "La défense de l'Ukraine et de l'Europe contre la Russie s'est organisée à Paris le 13 juillet 2026",
+    "Un « bouclier » antimissile européen a été mis en place",
+    "Le Kremlin ironise sur cette initiative"
+   ],
+   "qui": "France, Europe, Ukraine, Russie",
+   "ou": "Paris, Ukraine",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 78,
+   "empreinte": "99da44cd2e1ebc44",
+   "score": 78,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:02.876125+00:00"
+  },
+  {
+   "faits": [
+    "Le 14 juillet 2026, une nouvelle promotion de la Légion d'honneur a été publiée au Journal officiel",
+    "Serge Haroche (prix Nobel de physique), Natalie Portman (actrice), Philippe Besson (écrivain) et Christine Lagarde (ancienne ministre) figurent parmi les décorés"
+   ],
+   "qui": "Serge Haroche, Natalie Portman, Philippe Besson, Christine Lagarde",
+   "ou": "France",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "0e054f20742ee8ff",
+   "score": 78,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:08.183493+00:00"
   },
   {
    "faits": [
@@ -446,6 +579,98 @@
   },
   {
    "faits": [
+    "La France dispute une demi-finale de Coupe du monde 2026 contre l'Espagne mardi",
+    "Didier Deschamps estime que l'Espagne est favorite",
+    "Deschamps déclare qu'il n'y a « pas de revanche » à prendre"
+   ],
+   "qui": "Équipe de France, Équipe d'Espagne, Didier Deschamps",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "3d41724703b8c047",
+   "score": 77,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:08.183498+00:00"
+  },
+  {
+   "faits": [
+    "Environ 1 300 hectares ont brûlé à Fontainebleau lors d'une vague de chaleur",
+    "Deux suspects ont été interpellés concernant les incendies",
+    "Une nouvelle vague de canicule sévit en France"
+   ],
+   "qui": null,
+   "ou": "Fontainebleau",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "199a5ba4faf50fd6",
+   "score": 76,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:02.876029+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump estime qu'un accord avec Téhéran est « encore possible » malgré les frappes",
+    "Les tensions entre les États-Unis et l'Iran se sont accentuées",
+    "Des tensions vives existent également entre Israël et le Hezbollah au Liban"
+   ],
+   "qui": "Donald Trump, États-Unis, Iran, Israël, Hezbollah",
+   "ou": "Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "Trump estime qu'un accord est encore possible"
+   ],
+   "importance": 78,
+   "empreinte": "3cd3fd4e64fca3db",
+   "score": 76,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:02.876077+00:00"
+  },
+  {
+   "faits": [
+    "Tadej Pogacar envisage de disputer le Tour d'Espagne 2026 après le Tour de France",
+    "Pogacar est en quête d'un cinquième Tour de France en juillet 2026",
+    "La Vuelta est le seul Grand Tour qui manque au palmarès de Pogacar"
+   ],
+   "qui": "Tadej Pogacar",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "Pogacar envisagerait sérieusement de se présenter au départ du Tour d'Espagne selon le média espagnol AS"
+   ],
+   "importance": 65,
+   "empreinte": "b261115633b8ce86",
+   "score": 75,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:02.875955+00:00"
+  },
+  {
+   "faits": [
     "Fédération sénégalaise de football critique Pape Thiaw",
     "Président de la fédération tient conférence de presse le 14 juillet",
     "Évaluation des mauvais résultats de Thiaw à la Coupe du monde 2026",
@@ -466,6 +691,49 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-14T07:19:07.453955+00:00"
+  },
+  {
+   "faits": [
+    "La justice a annulé l'obligation de présenter un QR code pour assister au défilé du 14-Juillet",
+    "C'était la première fois que les autorités tentaient d'imposer un QR code pour assister au défilé militaire"
+   ],
+   "qui": "Autorités françaises",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "effd1e5b9603684e",
+   "score": 73,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:02.876053+00:00"
+  },
+  {
+   "faits": [
+    "Les États-Unis préparent de nouvelles sanctions contre la Cour pénale internationale",
+    "Les États-Unis appellent les États membres de la CPI à s'en retirer",
+    "La CPI est décrite comme la « bête noire » des États-Unis"
+   ],
+   "qui": "États-Unis, Cour pénale internationale",
+   "ou": null,
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "797c36ad8426bdbb",
+   "score": 73,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:22:02.876148+00:00"
   }
  ],
  "publies_48h": [],
