@@ -2,3 +2,4 @@ feedparser==6.0.12
 tweepy==4.17.0
 anthropic==0.116.0
 requests==2.34.2
+pillow==12.3.0

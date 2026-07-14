@@ -14,8 +14,23 @@ v1 qui lisait les tweets d'autres comptes via un service de scraping tiers
 RSS (9 médias notés) → extraction factuelle (Claude, JSON strict)
   → scoring + politique sensible (code) → rédaction (Claude)
   → contrôle secrétaire de rédaction (Claude) + filtres Python
-  → publication idempotente sur X (ou DRY_RUN)
+  → carte-image de marque + publication idempotente sur X (ou DRY_RUN)
+  → chaque soir ~19h : fil « 🦫 Le récap du jour »
 ```
+
+**Cartes-images** : chaque dépêche est accompagnée d'une carte PNG générée à la
+volée (police DejaVu bundlée dans `fonts/`, template CastorInfo). Média que le
+compte possède → gain de portée, zéro risque de droits. Si l'upload échoue
+(niveau d'accès API insuffisant), la dépêche part quand même **en texte seul**
+(repli automatique, jamais de perte). Désactivable via `CARTES_ACTIVES` dans `bot.py`.
+
+**Récap du soir** : au premier run à partir de 19h (heure de Paris), un fil
+condense les 5-6 infos marquantes du jour. Hors quota, non soumis à la dédup.
+Réglages : `HEURE_RECAP`, `MIN_DEPECHES_RECAP` dans `bot.py`.
+
+**Auto-test image** : *Run workflow* → cocher `selftest` = tente un upload
+d'image avec tes clés et s'arrête sans rien publier. À utiliser une fois pour
+confirmer que ton niveau d'accès API autorise les images.
 
 Règles clés (modifiables en tête de `bot.py`) :
 - publication automatique si score ≥ 75 ; mise en attente 55–74 ; rejet < 55 ;

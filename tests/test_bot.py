@@ -24,25 +24,42 @@ ECHEC_PUBLICATION = {"actif": False}
 class TooManyRequests(Exception): ...
 class TweepyException(Exception): ...
 
+MEDIA_UPLOADS = []
+FIL_RECAP = []            # tweets postés avec in_reply_to_tweet_id (fil récap)
+
 class _Rep:
-    def __init__(self): self.data = {"id": str(9000 + len(TWEETS_PUBLIES))}
+    def __init__(self): self.data = {"id": str(9000 + len(TWEETS_PUBLIES) + len(FIL_RECAP))}
 
 class FakeClientX:
     def __init__(self, **kw): ...
-    def create_tweet(self, text=None):
+    def create_tweet(self, text=None, media_ids=None, in_reply_to_tweet_id=None):
         if ECHEC_PUBLICATION["actif"]:
             raise TweepyException("panne simulée")
-        TWEETS_PUBLIES.append(text)
+        est_recap = in_reply_to_tweet_id is not None or (text and text.startswith("🦫 Le récap"))
+        if est_recap:
+            FIL_RECAP.append(text)
+        else:
+            TWEETS_PUBLIES.append({"text": text, "media": media_ids})
         return _Rep()
 
+class _Media:
+    media_id_string = "555"
+class FakeAPIv1:
+    def __init__(self, auth=None): ...
+    def media_upload(self, filename=None):
+        MEDIA_UPLOADS.append(filename)
+        return _Media()
+
 fake_tweepy.Client = FakeClientX
+fake_tweepy.API = FakeAPIv1
+fake_tweepy.OAuth1UserHandler = lambda *a, **k: object()
 fake_tweepy.TooManyRequests = TooManyRequests
 fake_tweepy.TweepyException = TweepyException
 sys.modules["tweepy"] = fake_tweepy
 
 # --- Faux anthropic : réponses scriptées selon le prompt système -----------
 fake_anthropic = types.ModuleType("anthropic")
-REPONSES = {"extraction": None, "redaction": None, "controle": None}
+REPONSES = {"extraction": None, "redaction": None, "controle": None, "recap": None}
 APPELS = []
 
 class _Bloc:
@@ -58,6 +75,8 @@ class _Messages:
             rep = REPONSES["extraction"]
         elif "secrétaire de rédaction" in system:
             rep = REPONSES["controle"]
+        elif "Récap du soir" in system:
+            rep = REPONSES["recap"]
         else:
             rep = REPONSES["redaction"]
         if isinstance(rep, Exception):
@@ -94,12 +113,14 @@ def scenario(nom):
                 if os.path.exists(f):
                     os.remove(f)
             TWEETS_PUBLIES.clear(); APPELS.clear()
+            MEDIA_UPLOADS.clear(); FIL_RECAP.clear()
             ECHEC_PUBLICATION["actif"] = False
             REPONSES.update({"extraction": '{"evenements":[]}',
                              "redaction": '{"texte":"","signal":"theme"}',
                              "controle": '{"faits_exacts":true,"invention":null,'
                                          '"diffamation_possible":false,'
-                                         '"signal_justifie":true,"publiable":true}'})
+                                         '"signal_justifie":true,"publiable":true}',
+                             "recap": '{"items":[]}'})
             os.environ.update({k: "FAKE" for k in
                                ("ANTHROPIC_API_KEY", "X_API_KEY", "X_API_SECRET",
                                 "X_ACCESS_TOKEN", "X_ACCESS_SECRET")})
@@ -195,11 +216,11 @@ def v9():
     etat = bot.charger_etat()
     ECHEC_PUBLICATION["actif"] = True
     n1 = bot.publier(["⚽ Résultat du match test."], etat, dry_run=False)
-    assert n1 == 0 and etat["en_attente_publication"] == ["⚽ Résultat du match test."]
+    assert n1 == 0 and len(etat["en_attente_publication"]) == 1, etat["en_attente_publication"]
     ECHEC_PUBLICATION["actif"] = False
     file_ = etat["en_attente_publication"]; etat["en_attente_publication"] = []
     n2 = bot.publier(file_, etat, dry_run=False)
-    assert n2 == 1 and TWEETS_PUBLIES == ["⚽ Résultat du match test."]
+    assert n2 == 1 and TWEETS_PUBLIES[0]["text"] == "⚽ Résultat du match test."
 
 # V10 — DRY_RUN : aucune publication réelle
 @scenario("V10 DRY_RUN : simulation sans aucun appel de publication")
@@ -288,7 +309,57 @@ def v16():
     assert etat["flux_vus"] == {}  # rien marqué : l'entrée sera retentée
 
 
-TESTS = [v1, v2, v3, v4, v5, v6, v7, v8, v9, v10, v11, v12, v13, v14, v15, v16, v18, v19]
+# V20 — carte-image : générée, uploadée, attachée au tweet
+@scenario("V20 carte-image générée et jointe au tweet")
+def v20():
+    etat = bot.charger_etat()
+    n = bot.publier([{"texte": "🌡️ Vigilance rouge canicule sur 26 départements.",
+                      "categorie": "meteo_catastrophe", "sources": ["franceinfo"]}],
+                    etat, dry_run=False)
+    assert n == 1
+    assert len(MEDIA_UPLOADS) == 1, MEDIA_UPLOADS          # carte uploadée
+    assert TWEETS_PUBLIES[0]["media"] == ["555"], TWEETS_PUBLIES  # média joint
+    assert os.path.exists(MEDIA_UPLOADS[0])                # le PNG existe
+
+# V21 — carte : le PNG produit est un vrai fichier image non vide
+@scenario("V21 génération de carte -> PNG valide")
+def v21():
+    chemin = bot.generer_carte("⚽ La France affronte l'Espagne en demi-finale.",
+                               "sport", ["L'Équipe", "RFI"])
+    assert os.path.exists(chemin) and os.path.getsize(chemin) > 5000
+    with open(chemin, "rb") as f:
+        assert f.read(8) == b"\x89PNG\r\n\x1a\n"           # signature PNG
+
+# V22 — upload média échoue -> fallback texte seul, dépêche quand même publiée
+@scenario("V22 upload carte échoué -> publication en texte seul")
+def v22():
+    orig = bot.creer_api_v1
+    bot.creer_api_v1 = lambda: (_ for _ in ()).throw(RuntimeError("média non autorisé"))
+    try:
+        etat = bot.charger_etat()
+        n = bot.publier([{"texte": "🇫🇷 Test fallback.", "categorie": "autre", "sources": []}],
+                        etat, dry_run=False)
+    finally:
+        bot.creer_api_v1 = orig
+    assert n == 1 and TWEETS_PUBLIES[0]["media"] is None, TWEETS_PUBLIES
+
+# V23 — récap du soir : fil intro + items chaînés
+@scenario("V23 récap du soir -> fil intro + points")
+def v23():
+    REPONSES["recap"] = ('{"items":["La Banque de France abaisse sa prévision de croissance à 1,1 %.",'
+                         '"Incendie maîtrisé en forêt de Fontainebleau après 1 900 hectares brûlés.",'
+                         '"La France se qualifie pour la demi-finale de la Coupe du monde."]}')
+    etat = bot.charger_etat()
+    etat["depeches_du_jour"] = ["d1", "d2", "d3", "d4"]
+    ok = bot.publier_recap(fake_anthropic.Anthropic(), etat, dry_run=False)
+    assert ok is True
+    assert len(FIL_RECAP) == 4, FIL_RECAP                  # 1 intro + 3 points
+    assert FIL_RECAP[0].startswith("🦫 Le récap")
+    assert FIL_RECAP[1].startswith("1. ") and FIL_RECAP[3].startswith("3. ")
+
+
+TESTS = [v1, v2, v3, v4, v5, v6, v7, v8, v9, v10, v11, v12, v13, v14, v15,
+         v16, v18, v19, v20, v21, v22, v23]
 
 # V17 (optionnel, réseau réel) — collecte RSS de bout en bout, sans IA ni publication
 if os.environ.get("RSS_REEL") == "1":

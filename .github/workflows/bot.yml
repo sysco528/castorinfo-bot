@@ -13,13 +13,17 @@ name: Castor Info Bot
 
 on:
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: '7,22,37,52 * * * *'   # ~toutes les 15 min, hors heures pleines (actif en production depuis le 14/07/2026)
   workflow_dispatch:
     inputs:
       dry_run:
         description: "Simulation : tout faire SAUF publier sur X"
         type: boolean
         default: true
+      selftest:
+        description: "Auto-test : tenter un upload d'image puis s'arrêter (ne publie rien)"
+        type: boolean
+        default: false
 
 concurrency:
   group: castor-bot
@@ -59,6 +63,7 @@ jobs:
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+          SELFTEST_MEDIA: ${{ github.event_name == 'workflow_dispatch' && inputs.selftest }}
         run: python bot.py
 
       - name: Sauvegarder l'état et le journal
