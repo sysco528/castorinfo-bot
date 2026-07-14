@@ -61,7 +61,13 @@
    "https://www.lefigaro.fr/actualite-france/visualisez-en-carte-les-feux-en-cours-dans-la-foret-de-fontainebleau-20260713",
    "https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260713",
    "https://www.lefigaro.fr/actualite-france/14-juillet-2026-quelles-sont-les-troupes-qui-vont-defiler-20260713",
-   "https://www.lefigaro.fr/international/franc-avec-le-president-et-lucide-sur-l-etat-des-forces-fabien-mandon-le-general-qui-prepare-les-armees-francaises-au-choc-20260714"
+   "https://www.lefigaro.fr/international/franc-avec-le-president-et-lucide-sur-l-etat-des-forces-fabien-mandon-le-general-qui-prepare-les-armees-francaises-au-choc-20260714",
+   "https://sante.lefigaro.fr/social/sante-publique/incendie-a-marseille-quelles-consequences-pour-la-sante-des-riverains-20250708",
+   "https://www.lefigaro.fr/culture/incendies-la-fondation-de-france-et-la-fondation-du-patrimoine-lancent-des-appels-aux-dons-en-faveur-des-forets-20260714",
+   "https://www.lefigaro.fr/conjoncture/incendies-trains-supprimes-et-retardes-a6-potentiellement-coupee-jusqu-au-week-end-les-transports-toujours-perturbes-ce-mardi-20260714",
+   "https://www.lefigaro.fr/politique/il-deteste-qu-on-parle-des-dernieres-fois-le-14-juillet-debut-du-clap-de-fin-pour-emmanuel-macron-20260713",
+   "https://www.lefigaro.fr/international/on-est-toujours-meilleurs-que-nos-ennemis-en-immersion-avec-les-parachutistes-des-forces-speciales-20260710",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-apres-un-jour-de-repos-les-cadors-attendus-en-montagne-suivez-la-10e-etape-20260714"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -75,7 +81,19 @@
    "a6f46ecc-7f20-11f1-9709-1d324c86494a",
    "9a27730c-7f01-11f1-9620-c1c9b595e168",
    "cc1cfe7c-7f1f-11f1-a676-1d324c86494a",
-   "b121632a-7f0f-11f1-a159-f7f6ccbec7bf"
+   "b121632a-7f0f-11f1-a159-f7f6ccbec7bf",
+   "67214116-7f44-11f1-b164-f769d31876e8",
+   "64aa122a-7f5b-11f1-8a4b-318e9371d6ce",
+   "6ecc3ee0-7c59-11f1-b0cc-d78813e4e836",
+   "865911d4-7f63-11f1-8738-7d6ed4daf13c",
+   "1e54977a-7f63-11f1-8175-abb95eb81370",
+   "47942070-7f62-11f1-a304-318e9371d6ce",
+   "03af9ba0-7f62-11f1-a5ea-318e9371d6ce",
+   "9a40e822-7f61-11f1-ba3b-b921d25d6d37",
+   "b1ac6752-7f4d-11f1-8e2c-8711df3fd8b3",
+   "9c87952e-7edd-11f1-ae74-a5c33930dc62",
+   "923d09c4-7f5e-11f1-8e62-318e9371d6ce",
+   "7098c280-7ec9-11f1-b601-b799b35bfd8b"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -89,7 +107,9 @@
    "290f0404-7ef3-11f1-a463-bd95cf1bd1c7",
    "804503be-7f38-11f1-b087-552a703408cf",
    "82bd7cd0-7f19-11f1-980b-3194a8eaba1e",
-   "49970cc4-7f13-11f1-a693-075d24e898bd"
+   "49970cc4-7f13-11f1-a693-075d24e898bd",
+   "9fc402e4-7f6a-11f1-a01c-01014d2074c2",
+   "b4237600-7f6c-11f1-a2d2-01014d2074c2"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -142,6 +162,33 @@
  },
  "en_attente_publication": [],
  "evenements_attente": [
+  {
+   "faits": [
+    "Le défilé du 14-Juillet 2026 se déroule le 14 juillet avec une participation massive de militaires",
+    "Près de 6 700 troupes à pied, 98 avions, 31 hélicoptères et 315 véhicules défilent sur les Champs-Élysées",
+    "Des militaires ukrainiens et des contingents de 35 pays de la « coalition des volontaires » ouvrent le défilé",
+    "Le défilé met en avant le « réarmement de la France, l'autonomie stratégique de la France et le réveil stratégique européen »",
+    "C'est le plus important défilé militaire jamais organisé sur les Champs-Élysées"
+   ],
+   "qui": "Emmanuel Macron, gouvernement français",
+   "ou": "Paris, Champs-Élysées",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "BFMTV",
+    "France 24",
+    "Le Figaro",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 90,
+   "empreinte": "caca7ff2526b8f86",
+   "score": 100,
+   "fiab_max": 85,
+   "nb_sources": 4,
+   "depuis": "2026-07-14T11:11:16.952586+00:00"
+  },
   {
    "faits": [
     "Nouvelle vague de frappes américaines contre des installations militaires iraniennes",
@@ -275,6 +322,30 @@
   },
   {
    "faits": [
+    "Des feux de forêt ont touché plus de forêts et d'espaces naturels à la mi-juillet 2026 que sur l'ensemble de l'année précédente",
+    "La respiration de fumées émises par les feux de forêt représente un risque sanitaire comparable à un pic de pollution intense",
+    "La Fondation de France et la Fondation du patrimoine lancent des appels aux dons en faveur des forêts",
+    "L'autoroute A6 (Autoroute du Soleil) reste inaccessible aux voitures dans les deux sens à partir des sorties 13 et 15",
+    "Des trains sont supprimés et retardés en raison des incendies"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "fbf188010e048c67",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T11:11:16.951745+00:00"
+  },
+  {
+   "faits": [
     "Incendie en forêt de Fontainebleau, près de Paris",
     "Plus de 1 300 hectares parcourus en 24 heures",
     "Deux feux sur la zone",
@@ -300,32 +371,6 @@
   },
   {
    "faits": [
-    "Le défilé du 14-Juillet se déroule le 14 juillet 2026 sur les Champs-Élysées",
-    "C'est le dernier défilé présidé par Emmanuel Macron en tant que président",
-    "Près de 6.700 troupes au sol vont défiler",
-    "Une centaine d'avions et 315 véhicules participeront",
-    "Il y aura 30% de véhicules et d'aéronefs supplémentaires par rapport à l'an passé",
-    "Pour la première fois, une centaine de réservistes salariés d'Airbus, de MBDA et d'ArianeGroup vont défiler",
-    "Le dernier avion du défilé aérien sera un C-130"
-   ],
-   "qui": "Emmanuel Macron, gouvernement français",
-   "ou": "Paris, Champs-Élysées",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "caca7ff2526b8f86",
-   "score": 85,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T07:24:36.557444+00:00"
-  },
-  {
-   "faits": [
     "L'équipe de France affronte l'Espagne en demi-finale de la Coupe du monde",
     "Le match se joue à Dallas",
     "Les Bleus espèrent devenir la 2e nation à atteindre 3 finales consécutives de Coupe du monde"
@@ -345,6 +390,51 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-14T07:15:40.478508+00:00"
+  },
+  {
+   "faits": [
+    "L'armée ukrainienne a frappé plus d'une centaine de bateaux russes en mer d'Azov",
+    "11 bateaux russes ont été frappés dans la nuit de lundi à mardi",
+    "La mer d'Azov est un passage de transport stratégique pour les produits agricoles à destination de la Crimée",
+    "Le Kremlin étudie des routes alternatives pour son trafic maritime"
+   ],
+   "qui": "Ukraine, Russie",
+   "ou": "Mer d'Azov",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "2a6f4b4286be8ff5",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T11:11:16.951863+00:00"
+  },
+  {
+   "faits": [
+    "La dixième étape du Tour de France 2026 se déroule le 14 juillet",
+    "L'étape relie Aurillac au Lioran",
+    "Elle intervient après un jour de repos pour les coureurs"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "72ad87b822b64386",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T11:11:16.952595+00:00"
   },
   {
    "faits": [
@@ -393,26 +483,25 @@
   },
   {
    "faits": [
-    "97 départements ont imposé des restrictions d'eau",
-    "41 départements ont atteint le niveau de crise",
-    "Un quart des petits cours d'eau est à sec",
-    "La situation est inédite"
+    "Au Soudan, la justice a condamné à mort par contumace le général Hemedti, chef des Forces de Soutien Rapide",
+    "Il est condamné pour crimes de guerre, crimes contre humanité et génocide",
+    "Les accusations portent notamment sur la région du Darfour Occidental"
    ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
+   "qui": "Général Hemedti (Forces de Soutien Rapide), justice soudanaise",
+   "ou": "Soudan",
+   "categorie": "justice",
+   "sensible": true,
    "confiance": 85,
    "sources": [
-    "Le Figaro"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 78,
-   "empreinte": "fbf188010e048c67",
-   "score": 84,
+   "importance": 75,
+   "empreinte": "09bcb50dffa1cf78",
+   "score": 83,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-14T07:15:40.478515+00:00"
+   "depuis": "2026-07-14T11:11:16.951894+00:00"
   },
   {
    "faits": [
@@ -438,6 +527,50 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-14T07:19:07.453756+00:00"
+  },
+  {
+   "faits": [
+    "La France affronte l'Espagne en Coupe du monde à Dallas le 14 juillet",
+    "Kylian Mbappé est capitaine de l'équipe de France",
+    "Une tendance sur les réseaux sociaux associe Mbappé à l'image d'un dictateur"
+   ],
+   "qui": "Kylian Mbappé, équipe de France",
+   "ou": "Dallas",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "2c96742f20d53d38",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T11:11:16.952599+00:00"
+  },
+  {
+   "faits": [
+    "Au Cameroun, le ministre de l'Administration territoriale annonce la fermeture de 1 400 églises de réveil",
+    "Cette annonce intervient suite au meurtre d'une fillette de 11 ans à Yaoundé",
+    "L'auteure présumée du crime est fidèle d'une église de réveil et a déclaré avoir agi sous l'influence d'un responsable religieux"
+   ],
+   "qui": "Ministre de l'Administration territoriale du Cameroun",
+   "ou": "Cameroun",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "3fc50f4db7dc875a",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T11:11:16.951914+00:00"
   },
   {
    "faits": [
@@ -553,6 +686,50 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-14T07:19:07.453785+00:00"
+  },
+  {
+   "faits": [
+    "Au Sénégal, le sélectionneur national Pape Thiaw a été limogé après la Coupe du monde 2026",
+    "La Fédération Sénégalaise de Football a invoqué des raisons sportives",
+    "Cette décision intervient suite à l'élimination controversée des Lions de la Teranga"
+   ],
+   "qui": "Pape Thiaw, Fédération Sénégalaise de Football",
+   "ou": "Sénégal",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "9aa76705feb056cb",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T11:11:16.952603+00:00"
+  },
+  {
+   "faits": [
+    "La marque « Le Slip français » fait son entrée en bourse le 14 juillet 2026",
+    "C'est une marque emblématique du fabriqué en France",
+    "L'entrée en bourse symbolise une tentative de réinvention du secteur textile français face à la concurrence asiatique"
+   ],
+   "qui": "Le Slip français",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "8011d081611393cf",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T11:11:16.952604+00:00"
   },
   {
    "faits": [
@@ -687,161 +864,6 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-14T07:22:08.183490+00:00"
-  },
-  {
-   "faits": [
-    "Le détroit d'Ormuz, couloir maritime stratégique, est au cœur de nouvelles tensions",
-    "Donald Trump affirme que les États-Unis prendront le contrôle du détroit et taxeront les navires qui le franchissent",
-    "Cela intervient en contexte de regain de tensions avec l'Iran"
-   ],
-   "qui": "Donald Trump, États-Unis, Iran",
-   "ou": "Détroit d'Ormuz",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "c3d3024906eaf9e4",
-   "score": 79,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T07:22:02.875921+00:00"
-  },
-  {
-   "faits": [
-    "Dix membres de la 'flottille terrestre pour Gaza' arrêtés fin mai en Libye",
-    "Détenus durant un mois",
-    "Libérés depuis trois semaines",
-    "Témoignent de conditions insalubres et pressions psychologiques"
-   ],
-   "qui": "Dix membres de la flottille terrestre pour Gaza",
-   "ou": "Libye",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "f0b984c23ef78e68",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T07:19:07.453927+00:00"
-  },
-  {
-   "faits": [
-    "La défense de l'Ukraine et de l'Europe contre la Russie s'est organisée à Paris le 13 juillet 2026",
-    "Un « bouclier » antimissile européen a été mis en place",
-    "Le Kremlin ironise sur cette initiative"
-   ],
-   "qui": "France, Europe, Ukraine, Russie",
-   "ou": "Paris, Ukraine",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "99da44cd2e1ebc44",
-   "score": 78,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T07:22:02.876125+00:00"
-  },
-  {
-   "faits": [
-    "Le 14 juillet 2026, une nouvelle promotion de la Légion d'honneur a été publiée au Journal officiel",
-    "Serge Haroche (prix Nobel de physique), Natalie Portman (actrice), Philippe Besson (écrivain) et Christine Lagarde (ancienne ministre) figurent parmi les décorés"
-   ],
-   "qui": "Serge Haroche, Natalie Portman, Philippe Besson, Christine Lagarde",
-   "ou": "France",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "0e054f20742ee8ff",
-   "score": 78,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T07:22:08.183493+00:00"
-  },
-  {
-   "faits": [
-    "RDC alerte à l'ONU sur le lien entre ressources naturelles et conflits armés",
-    "RDC préside le Conseil de sécurité",
-    "Kinshasa souhaite ouvrir une réflexion sur un cadre normatif international",
-    "Profondes divergences entre les grandes puissances"
-   ],
-   "qui": "République démocratique du Congo ; ONU",
-   "ou": "ONU",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "65d4b322dea65a3b",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T07:19:13.116080+00:00"
-  },
-  {
-   "faits": [
-    "La France dispute une demi-finale de Coupe du monde 2026 contre l'Espagne mardi",
-    "Didier Deschamps estime que l'Espagne est favorite",
-    "Deschamps déclare qu'il n'y a « pas de revanche » à prendre"
-   ],
-   "qui": "Équipe de France, Équipe d'Espagne, Didier Deschamps",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "3d41724703b8c047",
-   "score": 77,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T07:22:08.183498+00:00"
-  },
-  {
-   "faits": [
-    "Environ 1 300 hectares ont brûlé à Fontainebleau lors d'une vague de chaleur",
-    "Deux suspects ont été interpellés concernant les incendies",
-    "Une nouvelle vague de canicule sévit en France"
-   ],
-   "qui": null,
-   "ou": "Fontainebleau",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "199a5ba4faf50fd6",
-   "score": 76,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T07:22:02.876029+00:00"
   }
  ],
  "publies_48h": [
