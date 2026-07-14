@@ -15,3 +15,10 @@
 {"decision": "publier", "evt": "2ef9057636619c96", "score": 84, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-14T07:11:56+00:00"}
 {"decision": "controle", "evt": "97d7c7aa50eff3d2", "motif": "trop_long", "ts": "2026-07-14T07:11:57+00:00"}
 {"decision": "controle", "evt": "24a4a6497b9b9423", "motif": "trop_long", "ts": "2026-07-14T07:11:59+00:00"}
+{"decision": "publier", "evt": "a845c7611aebd18e", "score": 87, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-14T07:15:31+00:00"}
+{"decision": "attente", "evt": "287ddf03fc59609d", "score": 86, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-14T07:15:31+00:00"}
+{"decision": "publier", "evt": "11faded20143bc06", "score": 94, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Le Figaro", "France 24"], "ts": "2026-07-14T07:15:31+00:00"}
+{"decision": "publier", "evt": "fbf188010e048c67", "score": 84, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-14T07:15:31+00:00"}
+{"decision": "publier", "evt": "8ba2535b40f093a9", "score": 85, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-14T07:15:31+00:00"}
+{"decision": "controle", "evt": "11faded20143bc06", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-14T07:15:37+00:00"}
+{"decision": "controle", "evt": "a845c7611aebd18e", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-14T07:15:40+00:00"}

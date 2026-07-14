@@ -23,11 +23,110 @@
    "https://www.lemonde.fr/disparitions/article/2026/07/13/sam-neill-celebre-pour-son-role-dans-jurassic-park-est-mort_6723059_3382.html",
    "https://www.lemonde.fr/sport/article/2026/07/13/france-espagne-pourquoi-les-bleus-se-sont-surnommes-les-mechants-a-la-coupe-du-monde-2026_6723057_3242.html",
    "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-font-trois-morts-dans-la-region-de-moscou_6722853_3210.html",
-   "https://www.lemonde.fr/international/article/2026/07/13/etats-unis-l-administration-trump-multiplie-les-procedures-judiciaires-a-l-encontre-des-journalistes_6723052_3210.html"
+   "https://www.lemonde.fr/international/article/2026/07/13/etats-unis-l-administration-trump-multiplie-les-procedures-judiciaires-a-l-encontre-des-journalistes_6723052_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/13/incendie-en-andalousie-la-mort-d-une-britannique-a-l-hopital-porte-a-13-le-nombre-de-victimes-le-feu-est-desormais-stabilise_6723031_3210.html",
+   "https://www.lemonde.fr/musiques/article/2026/07/13/nos-albums-coups-de-c-ur-sasha-stychkina-vince-staples-dj-seinfeld-slift_6722997_1654986.html",
+   "https://www.lemonde.fr/argent/article/2026/07/13/les-frais-de-saisies-sur-compte-preleves-par-les-banques-alourdissent-le-budget-des-plus-modestes_6723035_1657007.html",
+   "https://www.lemonde.fr/m-perso/article/2026/07/13/dans-le-cher-l-art-du-clown-contre-le-fleau-de-la-mort-sociale_6723046_4497916.html"
+  ],
+  "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
+   "https://www.lefigaro.fr/actualite-france/plus-de-6000-troupes-a-pied-98-avions-militaires-ukrainiens-decouvrez-le-programme-du-defile-militaire-du-14-juillet-sur-les-champs-elysees-20260714",
+   "https://www.lefigaro.fr/actualite-france/14-juillet-fete-nationale-defile-militaire-macron-armee-champs-elysees-paris-20260714",
+   "https://www.lefigaro.fr/international/ceremonie-du-14-juillet-les-europeens-a-l-heure-du-reveil-strategique-defilent-aux-cotes-de-l-ukraine-20260713",
+   "https://www.lefigaro.fr/actualite-france/14-juillet-a-paris-la-justice-administrative-annule-la-presentation-obligatoire-d-un-qr-code-pour-assister-au-defile-20260713",
+   "https://www.lefigaro.fr/actualite-france/fete-nationale-et-demi-finale-de-la-coupe-du-monde-de-football-la-police-en-alerte-maximale-20260713",
+   "https://www.lefigaro.fr/actualite-france/14-juillet-a-paris-un-qr-code-sera-necessaire-pour-assister-au-defile-20260709",
+   "https://tvmag.lefigaro.fr/programme-tv/actu-tele/14-juillet-ou-et-a-quelle-heure-suivre-le-defile-a-la-television-20260713",
+   "https://www.lefigaro.fr/meteo/en-direct-canicule-feux-forets-incendies-fontainebleau-chaleur-20260714",
+   "https://www.lefigaro.fr/actualite-france/dans-la-foret-de-fontainebleau-les-secours-luttent-contre-des-incendies-exceptionnels-20260713",
+   "https://www.lefigaro.fr/actualite-france/face-a-la-secheresse-des-restrictions-d-eau-sont-imposees-dans-tout-le-pays-20260713",
+   "https://www.lefigaro.fr/actualite-france/visualisez-en-carte-les-feux-en-cours-dans-la-foret-de-fontainebleau-20260713",
+   "https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260713"
+  ],
+  "https://www.france24.com/fr/rss": [
+   "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
+   "bb864ffa-7f1f-11f1-ac42-5f999cfde5c0",
+   "8c26b8f4-7f41-11f1-a24d-b337f98f8275",
+   "392374e2-7ec1-11f1-9a03-57616e3956d1"
   ]
  },
  "en_attente_publication": [],
- "evenements_attente": [],
+ "evenements_attente": [
+  {
+   "faits": [
+    "Emmanuel Macron préside mardi le défilé militaire du 14 juillet pour la dernière fois",
+    "L'édition 2026 est voulue « massive »",
+    "Plus de 6000 troupes à pied participeront",
+    "98 avions participeront",
+    "Des militaires ukrainiens participeront",
+    "25 chefs d'État et de gouvernement assisteront au défilé, dont Volodymyr Zelensky",
+    "Des soldats ukrainiens participeront au défilé",
+    "Le Conseil d'État a rétabli le QR code obligatoire pour accéder aux Champs-Élysées",
+    "La mesure est justifiée par la présence de nombreux dirigeants étrangers",
+    "Environ 70 000 policiers et gendarmes seront mobilisés pour sécuriser l'événement et la demi-finale de Coupe du monde"
+   ],
+   "qui": "Emmanuel Macron, Volodymyr Zelensky, chefs d'État et gouvernements européens",
+   "ou": "Paris, Champs-Élysées",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 88,
+   "empreinte": "287ddf03fc59609d",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:15:31.761135+00:00"
+  },
+  {
+   "faits": [
+    "L'équipe de France affronte l'Espagne en demi-finale de la Coupe du monde",
+    "Le match se joue à Dallas",
+    "Les Bleus espèrent devenir la 2e nation à atteindre 3 finales consécutives de Coupe du monde"
+   ],
+   "qui": "Équipe de France, Équipe d'Espagne",
+   "ou": "Dallas",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "8ba2535b40f093a9",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:15:40.478508+00:00"
+  },
+  {
+   "faits": [
+    "97 départements ont imposé des restrictions d'eau",
+    "41 départements ont atteint le niveau de crise",
+    "Un quart des petits cours d'eau est à sec",
+    "La situation est inédite"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 78,
+   "empreinte": "fbf188010e048c67",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:15:40.478515+00:00"
+  }
+ ],
  "publies_48h": [],
  "evenements_48h": [],
  "echecs_extraction": 0,
