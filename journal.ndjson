@@ -22,3 +22,22 @@
 {"decision": "publier", "evt": "8ba2535b40f093a9", "score": 85, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-14T07:15:31+00:00"}
 {"decision": "controle", "evt": "11faded20143bc06", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-14T07:15:37+00:00"}
 {"decision": "controle", "evt": "a845c7611aebd18e", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-14T07:15:40+00:00"}
+{"decision": "publier", "evt": "47b11460a121ecea", "score": 100, "categorie": "sport", "sensible": false, "confiance": 95, "sources": ["France 24", "RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "attente", "evt": "7ced25c2bafd8afe", "score": 88, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 95, "sources": ["France 24"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "attente", "evt": "0d9894d2cbb7e8f9", "score": 85, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["France 24"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "publier", "evt": "bdba52162122f239", "score": 96, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["France 24", "RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "publier", "evt": "032812f549538903", "score": 86, "categorie": "politique", "sensible": false, "confiance": 92, "sources": ["France 24"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "publier", "evt": "3bc1bab5afe0b4ff", "score": 96, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["France 24", "RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "attente", "evt": "a38aed5b9a4350d4", "score": 83, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "attente", "evt": "a4c57a716c0d3a3c", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "attente", "evt": "0ea6a2c3c655a861", "score": 80, "categorie": "justice", "sensible": true, "confiance": 82, "sources": ["RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "attente", "evt": "eaa515c0e3f9cec4", "score": 80, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "publier", "evt": "65d4b322dea65a3b", "score": 78, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "attente", "evt": "3cb4b8d0372aecb3", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "attente", "evt": "f0b984c23ef78e68", "score": 79, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "attente", "evt": "9aa76705feb056cb", "score": 74, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["RFI"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "attente", "evt": "287ddf03fc59609d", "score": 86, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "publier", "evt": "8ba2535b40f093a9", "score": 85, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "publier", "evt": "fbf188010e048c67", "score": 84, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-14T07:19:07+00:00"}
+{"decision": "controle", "evt": "47b11460a121ecea", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-14T07:19:10+00:00"}
+{"decision": "controle", "evt": "bdba52162122f239", "motif": "alerte_non_justifiee", "ts": "2026-07-14T07:19:13+00:00"}

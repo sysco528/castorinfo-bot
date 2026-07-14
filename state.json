@@ -47,11 +47,118 @@
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
    "bb864ffa-7f1f-11f1-ac42-5f999cfde5c0",
    "8c26b8f4-7f41-11f1-a24d-b337f98f8275",
-   "392374e2-7ec1-11f1-9a03-57616e3956d1"
+   "392374e2-7ec1-11f1-9a03-57616e3956d1",
+   "94b766f2-7f42-11f1-89e7-b337f98f8275",
+   "50786f1e-7f37-11f1-bee4-29b1f5d6bfc2",
+   "a09f7428-7f33-11f1-9fbc-ff817859d76b",
+   "e7c719be-7f33-11f1-adcd-ff817859d76b",
+   "a6f46ecc-7f20-11f1-9709-1d324c86494a",
+   "9a27730c-7f01-11f1-9620-c1c9b595e168",
+   "cc1cfe7c-7f1f-11f1-a676-1d324c86494a",
+   "b121632a-7f0f-11f1-a159-f7f6ccbec7bf"
+  ],
+  "https://www.rfi.fr/fr/rss": [
+   "634f91dc-7f4e-11f1-a8e1-b182ab756299",
+   "780dd0d8-7f4a-11f1-b4e8-a77c9583ac13",
+   "96055e68-7f3f-11f1-928c-c1a76b80ac80",
+   "2629867a-7f06-11f1-bdbe-efb5d1056042",
+   "22ba1834-7f3c-11f1-bfb3-ffea10d8d637",
+   "a212b0cc-7c72-11f1-9800-e107db1ef8df",
+   "52673a9a-7f36-11f1-b90e-316dba4b7f7c",
+   "94a32782-7ec5-11f1-94d8-dbb701fa6098",
+   "290f0404-7ef3-11f1-a463-bd95cf1bd1c7",
+   "804503be-7f38-11f1-b087-552a703408cf",
+   "82bd7cd0-7f19-11f1-980b-3194a8eaba1e",
+   "49970cc4-7f13-11f1-a693-075d24e898bd"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
+  {
+   "faits": [
+    "Deuxième vague de chaleur en Europe",
+    "Données officielles sur les décès provoqués par la canicule",
+    "Incendies à travers la France",
+    "En France, 98 départements sous surveillance pour restrictions d'eau",
+    "Consommation d'eau potable fortement augmentée",
+    "Réserves souterraines et fluviales affaiblies",
+    "Troisième épisode de fortes chaleurs en moins de deux mois",
+    "Nombre record de départements sous surveillance depuis 2013"
+   ],
+   "qui": null,
+   "ou": "Europe, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "bdba52162122f239",
+   "score": 96,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-14T07:19:13.116061+00:00"
+  },
+  {
+   "faits": [
+    "Nouvelle vague de frappes américaines contre des installations militaires iraniennes",
+    "Troisième nuit consécutive de frappes",
+    "Ciblage de la capacité iranienne à contourner le blocus du détroit d'Ormuz",
+    "Voies ferrées et nœuds routiers vers le Baloutchistan pakistanais visés",
+    "Rétablissement du blocus naval des ports iraniens prévu",
+    "Donald Trump suggère qu'un accord avec Téhéran est encore possible",
+    "Attaques de missiles iraniens contre deux tankers dans le détroit d'Ormuz",
+    "Un membre d'équipage indien tué selon les Émirats arabes unis"
+   ],
+   "qui": "États-Unis ; Iran ; Donald Trump",
+   "ou": "Détroit d'Ormuz, Iran, Baloutchistan",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [
+    "Un accord entre les États-Unis et l'Iran"
+   ],
+   "importance": 85,
+   "empreinte": "3bc1bab5afe0b4ff",
+   "score": 96,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-14T07:19:13.116069+00:00"
+  },
+  {
+   "faits": [
+    "Incendie meurtrier en Andalousie (Espagne)",
+    "13 victimes identifiées, dont 9 étrangers (5 Britanniques, 3 Belges, 1 Française, 1 Espagnol)",
+    "Le feu est maîtrisé",
+    "Bilan provisoire, risque d'augmentation du nombre de victimes",
+    "Pedro Sanchez aux côtés des équipes de secours",
+    "L'incendie parmi les plus meurtriers de l'histoire récente de l'Espagne"
+   ],
+   "qui": "Victimes de l'incendie ; Pedro Sanchez (Premier ministre espagnol)",
+   "ou": "Andalousie, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Bilan final des victimes"
+   ],
+   "importance": 80,
+   "empreinte": "7ced25c2bafd8afe",
+   "score": 88,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:07.453586+00:00"
+  },
   {
    "faits": [
     "Emmanuel Macron préside mardi le défilé militaire du 14 juillet pour la dernière fois",
@@ -80,6 +187,53 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-14T07:15:31.761135+00:00"
+  },
+  {
+   "faits": [
+    "Emmanuel Macron préside le défilé du 14-Juillet pour la dernière fois",
+    "Édition 2026 voulue 'massive'",
+    "Honneur rendu à l'Ukraine et ses alliés européens"
+   ],
+   "qui": "Emmanuel Macron",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "032812f549538903",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:13.116073+00:00"
+  },
+  {
+   "faits": [
+    "Incendie en forêt de Fontainebleau, près de Paris",
+    "Plus de 1 300 hectares parcourus en 24 heures",
+    "Deux feux sur la zone",
+    "Un millier d'évacuations",
+    "Dégâts matériels limités, un entrepôt d'une mairie aurait pris feu",
+    "Importants dispositifs mobilisés"
+   ],
+   "qui": null,
+   "ou": "Forêt de Fontainebleau, près de Paris, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "0d9894d2cbb7e8f9",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:07.453626+00:00"
   },
   {
    "faits": [
@@ -125,6 +279,193 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-14T07:15:40.478515+00:00"
+  },
+  {
+   "faits": [
+    "Journaliste Ali Lmrabet en détention au Maroc",
+    "Interpellé le 12 juillet à son entrée au Maroc en provenance d'Espagne",
+    "Figure de la presse indépendante vivant en exil depuis plusieurs années",
+    "Accusé de 'diffusion présumée de fausses informations'",
+    "Transféré à la Brigade nationale de la police judiciaire",
+    "Association nationale des droits humains s'insurge"
+   ],
+   "qui": "Ali Lmrabet (journaliste) ; Association nationale des droits humains ; Reporters sans frontières",
+   "ou": "Maroc",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "a38aed5b9a4350d4",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:07.453756+00:00"
+  },
+  {
+   "faits": [
+    "Avocats de victimes et organisations de la société civile déposent plainte contre la RDC",
+    "Plainte au parquet fédéral belge le 10 juillet 2026",
+    "Communication (article 15) à la Cour pénale internationale à La Haye",
+    "Motif : crime contre l'humanité commis régulièrement depuis six ans",
+    "Victimes d'enlèvements ou de massacres"
+   ],
+   "qui": "Avocats de victimes ; Organisations de la société civile en RDC ; République démocratique du Congo",
+   "ou": "RDC, Belgique, La Haye",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "3cb4b8d0372aecb3",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:07.453899+00:00"
+  },
+  {
+   "faits": [
+    "Double séisme au Venezuela",
+    "Vétérinaires soignent les animaux de compagnie dans les décombres",
+    "Nombreux chiens et chats victimes de traumatisme"
+   ],
+   "qui": null,
+   "ou": "La Guaira, Venezuela",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "a4c57a716c0d3a3c",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:07.453785+00:00"
+  },
+  {
+   "faits": [
+    "Mali : six proches de l'ancien président de transition Bah N'Daw jugés",
+    "Accusation de 'tentative de complot'",
+    "Jugement devant les chambres criminelles de la cour d'appel de Bamako le 14 juillet",
+    "En six années de transition, nombreuses accusations similaires contre personnalités politiques et militaires"
+   ],
+   "qui": "Six proches de Bah N'Daw ; Régime de transition malien",
+   "ou": "Mali, Bamako",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "0ea6a2c3c655a861",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:07.453813+00:00"
+  },
+  {
+   "faits": [
+    "Condamnation d'un doyen du barreau béninois par la Criet",
+    "Me Yansunu Magloire condamné lundi à Cotonou",
+    "Sept ans de prison ferme pour 'abus de confiance et blanchiment de capitaux'",
+    "Amende d'environ 29 millions de francs CFA et 3,6 millions à verser au plaignant",
+    "Contentieux autour d'une indemnité de licenciement abusif"
+   ],
+   "qui": "Me Yansunu Magloire ; Criet (Cour de répression des infractions économiques et du terrorisme)",
+   "ou": "Cotonou, Bénin",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "eaa515c0e3f9cec4",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:07.453842+00:00"
+  },
+  {
+   "faits": [
+    "Dix membres de la 'flottille terrestre pour Gaza' arrêtés fin mai en Libye",
+    "Détenus durant un mois",
+    "Libérés depuis trois semaines",
+    "Témoignent de conditions insalubres et pressions psychologiques"
+   ],
+   "qui": "Dix membres de la flottille terrestre pour Gaza",
+   "ou": "Libye",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "f0b984c23ef78e68",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:07.453927+00:00"
+  },
+  {
+   "faits": [
+    "RDC alerte à l'ONU sur le lien entre ressources naturelles et conflits armés",
+    "RDC préside le Conseil de sécurité",
+    "Kinshasa souhaite ouvrir une réflexion sur un cadre normatif international",
+    "Profondes divergences entre les grandes puissances"
+   ],
+   "qui": "République démocratique du Congo ; ONU",
+   "ou": "ONU",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "65d4b322dea65a3b",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:13.116080+00:00"
+  },
+  {
+   "faits": [
+    "Fédération sénégalaise de football critique Pape Thiaw",
+    "Président de la fédération tient conférence de presse le 14 juillet",
+    "Évaluation des mauvais résultats de Thiaw à la Coupe du monde 2026",
+    "Critique également de son attitude autour de son contrat"
+   ],
+   "qui": "Pape Thiaw ; Fédération sénégalaise de football",
+   "ou": "Sénégal",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "9aa76705feb056cb",
+   "score": 74,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:19:07.453955+00:00"
   }
  ],
  "publies_48h": [],
