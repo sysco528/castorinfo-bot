@@ -93,39 +93,35 @@
    "https://www.20minutes.fr/diaporama/diaporama-4234381-images-sam-neill-alan-grant-jurassic-park-preuve-douze-roles?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/ukraine/4234376-20260713-guerre-ukraine-europe-degaine-bouclier-contre-missiles-russes-kremlin-ironise?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4234467-20260714-etats-unis-partent-guerre-contre-cour-penale-internationale-bete-noire?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/diaporama/diaporama-4233956-images-coupe-monde-2026-scarface-infantino-mbappe-superstar-supporters-quarts-folie?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/diaporama/diaporama-4233956-images-coupe-monde-2026-scarface-infantino-mbappe-superstar-supporters-quarts-folie?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/football/4233910-20260713-coupe-monde-vivre-pendant-age-or-bleus-gamins-rendent-compte-chance?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4234343-20260713-incendie-fontainebleau-feu-peut-atteindre-paris?at_medium=display&at_campaign=149"
+  ],
+  "https://www.bfmtv.com/rss/news-24-7/": [
+   "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-de-fontainebleau-les-importants-feux-de-foret-vus-du-ciel_VN-202607140274.html",
+   "https://www.bfmtv.com/environnement/climat/direct-feu-en-foret-de-fontainebleau-plus-de-1-300-hectares-parcourus-par-les-flammes-les-sapeurs-pompiers-toujours-a-pied-d-uvre-pour-lutter-contre-l-incendie_LN-202607140073.html",
+   "https://www.bfmtv.com/societe/direct-14-juillet-record-de-troupes-defilants-soldats-de-la-coalition-des-volontaires-le-dernier-defile-militaire-d-emmanuel-macron-marque-par-le-reveil-strategique-europeen_LN-202607140110.html",
+   "https://www.bfmtv.com/societe/video-mondial-2026-les-supporters-francais-a-dallas-confiants-avant-le-match-des-bleus-contre-l-espagne_VN-202607140268.html",
+   "https://www.bfmtv.com/societe/video-14-juillet-les-retrouvailles-de-l-eleve-officier-de-la-marine-cheyenne-apres-cinq-mois-sans-avoir-vu-sa-famille-a-toulon_VN-202607140264.html",
+   "https://www.bfmtv.com/international/moyen-orient/iran/direct-guerre-au-moyen-orient-les-etats-unis-frappent-l-iran-pour-la-troisieme-nuit-de-suite-donald-trump-suggere-qu-un-accord-est-encore-possible_LN-202607140092.html",
+   "https://www.bfmtv.com/societe/video-emmanuel-macron-assistera-a-son-dernier-defile-du-14-juillet-en-tant-que-president-de-la-republique_VN-202607140261.html",
+   "https://www.bfmtv.com/economie/video-14-juillet-les-industriels-invites-a-defiler_VN-202607140257.html",
+   "https://www.bfmtv.com/societe/video-le-dernier-avion-du-defile-aerien-du-14-juillet-sera-un-c-130_VN-202607140256.html",
+   "https://www.bfmtv.com/societe/video-14-juillet-apres-cinq-mois-en-mer-les-eleve-officiers-de-la-marine-vont-retrouver-leur-famille-a-toulon_VN-202607140255.html",
+   "https://www.bfmtv.com/politique/video-incendies-pour-fontainebleau-la-brigade-des-sapeurs-pompiers-marins-de-marseille-a-fait-venir-des-personnes-qui-gerent-les-sinistres-declare-catherine-vautrin-ministre-des-armees_VN-202607140254.html"
+  ],
+  "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
+   "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
+   "https://www.lequipe.fr/Football/Article/Decryptage-ces-trois-zones-de-vigilance-pour-les-bleus-face-a-l-espagne-en-demi-finales-de-la-coupe-du-monde/1704220",
+   "https://www.lequipe.fr/Football/Actualites/Mercato-libre-apres-son-depart-de-l-inter-yann-sommer-s-engage-avec-le-club-bruges/1704218",
+   "https://www.lequipe.fr/Football/Article/La-folie-1998-le-coup-de-boule-de-zidane-en-2006-le-chambrage-avec-les-journalistes-argentins-en-2022-comment-les-journalistes-de-l-equipe-couvrent-les-finales-de-coupe-du-monde/1704025",
+   "https://www.lequipe.fr/Football/Actualites/Comment-les-nicois-vont-concilier-demi-finale-de-coupe-du-monde-et-hommage-aux-victimes-de-l-attentat-du-14-juillet-2016/1704162",
+   "https://www.lequipe.fr/Football/Article/Jeu-metamorphose-role-cle-de-michael-olise-zinedine-zidane-conquis-par-les-prestations-de-la-france-a-la-coupe-du-monde/1704159"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Deuxième vague de chaleur en Europe",
-    "Données officielles sur les décès provoqués par la canicule",
-    "Incendies à travers la France",
-    "En France, 98 départements sous surveillance pour restrictions d'eau",
-    "Consommation d'eau potable fortement augmentée",
-    "Réserves souterraines et fluviales affaiblies",
-    "Troisième épisode de fortes chaleurs en moins de deux mois",
-    "Nombre record de départements sous surveillance depuis 2013"
-   ],
-   "qui": null,
-   "ou": "Europe, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "bdba52162122f239",
-   "score": 96,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-14T07:19:13.116061+00:00"
-  },
   {
    "faits": [
     "Nouvelle vague de frappes américaines contre des installations militaires iraniennes",
@@ -155,6 +151,33 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-14T07:19:13.116069+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie s'est déclaré en forêt de Fontainebleau à 70 km au sud de Paris",
+    "L'incendie a parcouru 1.900 hectares",
+    "Deux personnes suspectées d'être à l'origine du feu ont été interpellées",
+    "600 sapeurs-pompiers restent mobilisés",
+    "La brigade des sapeurs-pompiers marins de Marseille a été déployée"
+   ],
+   "qui": null,
+   "ou": "Fontainebleau (Île-de-France)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "20 Minutes",
+    "BFMTV"
+   ],
+   "non_confirme": [
+    "Le feu pourrait-il atteindre Paris ?"
+   ],
+   "importance": 75,
+   "empreinte": "4ede747a9cd95a17",
+   "score": 92,
+   "fiab_max": 75,
+   "nb_sources": 2,
+   "depuis": "2026-07-14T07:24:36.557438+00:00"
   },
   {
    "faits": [
@@ -261,6 +284,32 @@
   },
   {
    "faits": [
+    "Le défilé du 14-Juillet se déroule le 14 juillet 2026 sur les Champs-Élysées",
+    "C'est le dernier défilé présidé par Emmanuel Macron en tant que président",
+    "Près de 6.700 troupes au sol vont défiler",
+    "Une centaine d'avions et 315 véhicules participeront",
+    "Il y aura 30% de véhicules et d'aéronefs supplémentaires par rapport à l'an passé",
+    "Pour la première fois, une centaine de réservistes salariés d'Airbus, de MBDA et d'ArianeGroup vont défiler",
+    "Le dernier avion du défilé aérien sera un C-130"
+   ],
+   "qui": "Emmanuel Macron, gouvernement français",
+   "ou": "Paris, Champs-Élysées",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "caca7ff2526b8f86",
+   "score": 85,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:24:36.557444+00:00"
+  },
+  {
+   "faits": [
     "L'équipe de France affronte l'Espagne en demi-finale de la Coupe du monde",
     "Le match se joue à Dallas",
     "Les Bleus espèrent devenir la 2e nation à atteindre 3 finales consécutives de Coupe du monde"
@@ -355,6 +404,29 @@
   },
   {
    "faits": [
+    "Yann Sommer s'engage avec le Club Bruges",
+    "Le gardien suisse quitte l'Inter Milan où son contrat s'est terminé fin juin",
+    "Sommer a 37 ans",
+    "Le Club Bruges est champion de Belgique"
+   ],
+   "qui": "Yann Sommer, Club Bruges",
+   "ou": "Belgique",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "6f2f6ae23e4eba63",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:24:36.557450+00:00"
+  },
+  {
+   "faits": [
     "Double séisme au Venezuela",
     "Vétérinaires soignent les animaux de compagnie dans les décombres",
     "Nombreux chiens et chats victimes de traumatisme"
@@ -374,6 +446,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-14T07:19:07.453785+00:00"
+  },
+  {
+   "faits": [
+    "Pour la troisième nuit consécutive, les États-Unis ont lancé des frappes contre des cibles militaires dans plusieurs villes portuaires du sud de l'Iran",
+    "Téhéran a répliqué en visant des pays voisins, notamment Bahreïn",
+    "Donald Trump suggère qu'un accord est encore possible"
+   ],
+   "qui": "États-Unis, Iran, Donald Trump",
+   "ou": "Iran (villes portuaires du sud), Bahreïn",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "f51945afc4417a65",
+   "score": 80,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:24:32.719598+00:00"
   },
   {
    "faits": [
@@ -647,6 +741,28 @@
   },
   {
    "faits": [
+    "Le Conseil d'État a rétabli le QR code obligatoire pour accéder au défilé du 14-Juillet aux Champs-Élysées",
+    "Le tribunal administratif avait précédemment annulé cette obligation",
+    "Le Conseil d'État a annulé l'ordonnance du tribunal administratif après saisine"
+   ],
+   "qui": "Conseil d'État, tribunal administratif, association (plaignante)",
+   "ou": "Paris",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "7b207131e3cf4aa9",
+   "score": 76,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T07:24:36.557460+00:00"
+  },
+  {
+   "faits": [
     "Tadej Pogacar envisage de disputer le Tour d'Espagne 2026 après le Tour de France",
     "Pogacar est en quête d'un cinquième Tour de France en juillet 2026",
     "La Vuelta est le seul Grand Tour qui manque au palmarès de Pogacar"
@@ -712,32 +828,15 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-14T07:22:02.876053+00:00"
-  },
-  {
-   "faits": [
-    "Les États-Unis préparent de nouvelles sanctions contre la Cour pénale internationale",
-    "Les États-Unis appellent les États membres de la CPI à s'en retirer",
-    "La CPI est décrite comme la « bête noire » des États-Unis"
-   ],
-   "qui": "États-Unis, Cour pénale internationale",
-   "ou": null,
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "797c36ad8426bdbb",
-   "score": 73,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T07:22:02.876148+00:00"
   }
  ],
  "publies_48h": [],
- "evenements_48h": [],
+ "evenements_48h": [
+  [
+   "055eb83b15ca86a0",
+   "2026-07-14T07:24:36.557425+00:00"
+  ]
+ ],
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-14",
