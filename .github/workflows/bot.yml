@@ -1,21 +1,32 @@
 # ============================================================
-# Castor Info — planificateur GitHub Actions
-# Ce fichier doit être placé EXACTEMENT ici dans le dépôt :
-#     .github/workflows/bot.yml
+# Castor Info v2 — planificateur GitHub Actions
+# Emplacement obligatoire : .github/workflows/bot.yml
+# Durci suite à l'audit du 13/07/2026 :
+#   - cron décalé hors début d'heure (moins de retards GitHub)
+#   - kill-switch : un fichier STOP à la racine arrête tout
+#   - mode simulation : Run workflow -> dry_run = true
+#   - actions épinglées par SHA (recommandation GitHub)
+#   - un échec du bot rend le run ROUGE (notification GitHub)
+#   - l'état est sauvegardé même si le bot a échoué en cours de route
 # ============================================================
 name: Castor Info Bot
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'   # toutes les 15 minutes (GitHub peut décaler de quelques minutes)
-  workflow_dispatch:          # ajoute un bouton "Run workflow" pour lancer à la main
+  # schedule:                    # cron désactivé le temps des dry-runs — réactivation sur GO
+  #   - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Simulation : tout faire SAUF publier sur X"
+        type: boolean
+        default: true
 
 concurrency:
   group: castor-bot
-  cancel-in-progress: false   # jamais deux passages en même temps
+  cancel-in-progress: false        # jamais deux passages en même temps
 
 permissions:
-  contents: write             # nécessaire pour sauvegarder state.json
+  contents: write                  # nécessaire pour commiter state.json + journal
 
 jobs:
   publier:
@@ -23,29 +34,42 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Récupérer le code
-        uses: actions/checkout@v4
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0   # v7.0.0
+
+      - name: Kill-switch
+        run: |
+          if [ -f STOP ]; then
+            echo "🛑 Fichier STOP présent à la racine du dépôt — arrêt volontaire."
+            exit 1
+          fi
 
       - name: Installer Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1  # v6.3.0
         with:
           python-version: '3.12'
 
-      - name: Installer les dépendances
-        run: pip install --quiet requests tweepy anthropic
+      - name: Installer les dépendances (versions épinglées)
+        run: pip install --quiet -r requirements.txt
 
       - name: Lancer le bot
         env:
-          TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           X_API_KEY: ${{ secrets.X_API_KEY }}
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
         run: python bot.py
 
-      - name: Sauvegarder l'état
+      - name: Sauvegarder l'état et le journal
+        if: always()
         run: |
           git config user.name "castor-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add state.json
-          git diff --cached --quiet || (git commit -m "màj état du bot" && git push)
+          git add state.json || true
+          git add journal.ndjson || true
+          if ! git diff --cached --quiet; then
+            git commit -m "màj état du bot"
+            git pull --rebase origin main || true
+            git push
+          fi
