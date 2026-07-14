@@ -1,11 +1,36 @@
 {
  "version": 2,
- "flux_vus": {},
+ "flux_vus": {
+  "https://www.franceinfo.fr/titres.rss": [
+   "https://www.franceinfo.fr/france/14-juillet/direct-l-incendie-en-foret-de-fontainebleau-pres-de-paris-a-parcouru-plus-de-1-300-hectares-en-24-heures_8106995.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/emmanuel-macron/ce-sera-massif-emmanuel-macron-promet-un-defile-historique-pour-le-dernier-14-juillet-de-son-double-quinquennat_8105954.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/temoignages-ces-images-sont-dans-mon-sac-a-dos-de-vie-d-infirmiere-dix-ans-apres-l-attentat-du-14-juillet-a-nice-soignants-et-secouristes-se-confient_8101274.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/coupe-du-monde/enquete-franceinfo-rien-n-est-mis-en-scene-tout-est-authentique-comment-sont-fabriquees-les-videos-coulisses-de-l-equipe-de-france-qui-cartonnent-sur-les-reseaux-sociaux_8106110.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/coupe-du-monde/pourquoi-cette-demi-finale-france-espagne-est-consideree-comme-la-finale-avant-l-heure-de-cette-coupe-du-monde-2026_8106263.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sante/la-ligue-contre-le-cancer-veut-introduire-le-principe-de-precaution-sanitaire-dans-la-constitution-francaise-qui-empecherait-de-voter-des-lois-pouvant-nuire-a-la-sante_8107217.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/france/14-juillet/video-explosions-de-lumiere-statue-de-la-liberte-et-drones-equipes-de-led-revivez-le-traditionnel-feu-d-artifice-du-14-juillet-a-paris_8107178.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/une-remuneration-correspondant-a-20-de-la-valeur-des-cargaisons-en-quoi-consiste-le-peage-dans-le-detroit-d-ormuz-decrete-par-donald-trump_8107163.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pour-securiser-l-alimentation-electrique-de-la-corse-cet-ete-edf-appelle-les-habitants-a-la-sobriete-pendant-la-canicule_8107208.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-le-gouvernement-attal-a-t-il-coupe-dans-le-budget-de-la-securite-civile-entrainant-l-annulation-de-la-commande-de-deux-canadair_8063753.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/coupe-du-monde/gestion-de-lamine-yamal-bataille-du-milieu-impact-des-remplacants-les-cles-de-la-demi-finale-de-coupe-du-monde-entre-la-france-et-l-espagne_8105981.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/emploi/metiers/armee-et-securite/reportage-au-lieu-d-exposer-120-a-130-soldats-au-combat-on-enverra-nos-robots-et-nos-drones-comment-l-armee-francaise-prepare-les-combats-de-demain_8107196.html#xtor=RSS-3-[lestitres]"
+  ],
+  "https://www.lemonde.fr/rss/une.xml": [
+   "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
+   "https://www.lemonde.fr/politique/article/2026/07/13/emmanuel-macron-et-les-armees-dix-ans-de-relations-entre-defiance-espoirs-et-non-dits_6723032_823448.html",
+   "https://www.lemonde.fr/planete/article/2026/07/13/des-traces-d-acetamipride-et-d-autres-neonicotinoides-dans-le-nutella-et-des-miels-importes_6723039_3244.html",
+   "https://www.lemonde.fr/international/article/2026/07/13/la-diplomatie-americaine-impuissante-face-a-la-reprise-des-hostilites-entre-l-iran-et-les-etats-unis_6723050_3210.html",
+   "https://www.lemonde.fr/disparitions/article/2026/07/13/sam-neill-celebre-pour-son-role-dans-jurassic-park-est-mort_6723059_3382.html",
+   "https://www.lemonde.fr/sport/article/2026/07/13/france-espagne-pourquoi-les-bleus-se-sont-surnommes-les-mechants-a-la-coupe-du-monde-2026_6723057_3242.html",
+   "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-font-trois-morts-dans-la-region-de-moscou_6722853_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/13/etats-unis-l-administration-trump-multiplie-les-procedures-judiciaires-a-l-encontre-des-journalistes_6723052_3210.html"
+  ]
+ },
  "en_attente_publication": [],
  "evenements_attente": [],
  "publies_48h": [],
  "evenements_48h": [],
- "echecs_extraction": 1,
+ "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-14",
   "publies": 9

@@ -1,1 +1,17 @@
 {"decision": "echec_extraction", "erreur": "Expecting ',' delimiter: line 250 column 6 (char 8787)", "ts": "2026-07-14T07:08:26+00:00"}
+{"decision": "publier", "evt": "24a4a6497b9b9423", "score": 99, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "032812f549538903", "score": 96, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "fc2441fc3ab0a838", "score": 88, "categorie": "deces_personnalite", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "97d7c7aa50eff3d2", "score": 100, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "c3d3024906eaf9e4", "score": 85, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "cf5f31f8c16e7a0c", "score": 85, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "30dcb1c552d02e1a", "score": 86, "categorie": "politique", "sensible": false, "confiance": 89, "sources": ["franceinfo"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "9799eace3b6f8003", "score": 85, "categorie": "sante", "sensible": false, "confiance": 87, "sources": ["franceinfo"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "c3d1f10708ae858b", "score": 86, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "8e16f9e10b8cc80b", "score": 86, "categorie": "sante", "sensible": false, "confiance": 89, "sources": ["Le Monde"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "0fcd8c820ab2f98e", "score": 87, "categorie": "international", "sensible": true, "confiance": 87, "sources": ["Le Monde"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "ecdb178a73b3688d", "score": 86, "categorie": "deces_personnalite", "sensible": true, "confiance": 92, "sources": ["Le Monde"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "916d3be71218ca7d", "score": 87, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "publier", "evt": "2ef9057636619c96", "score": 84, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-14T07:11:56+00:00"}
+{"decision": "controle", "evt": "97d7c7aa50eff3d2", "motif": "trop_long", "ts": "2026-07-14T07:11:57+00:00"}
+{"decision": "controle", "evt": "24a4a6497b9b9423", "motif": "trop_long", "ts": "2026-07-14T07:11:59+00:00"}
