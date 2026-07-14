@@ -162,13 +162,14 @@ def v5():
     texte, motif = bot.rediger_et_controler(FakeAnthropic().__class__() if False else fake_anthropic.Anthropic(), e, entrees)
     assert texte is None and motif.startswith("similarite"), (texte, motif)
 
-# V6 — ALERTE non justifiée (source moyenne) -> rejetée par le code
-@scenario("V6 signal ALERTE avec source moyenne -> rejeté par le code")
+# V6 — ALERTE avec source moyenne -> rétrogradée en FLASH par le code
+@scenario("V6 signal ALERTE avec source moyenne -> rétrogradé en FLASH")
 def v6():
     REPONSES["redaction"] = '{"texte":"🔴 ALERTE — Explosion signalée en centre-ville.","signal":"alerte"}'
     e = evt(sources=("BFMTV",)); e["fiab_max"], e["nb_sources"] = 75, 1
     texte, motif = bot.rediger_et_controler(fake_anthropic.Anthropic(), e, [])
-    assert texte is None and motif == "alerte_non_justifiee", (texte, motif)
+    assert texte == "⚡ FLASH — Explosion signalée en centre-ville." , (texte, motif)
+    assert "alerte_retrogradee" in motif, motif
 
 # V7 — le contrôle refuse (diffamation possible) -> pas de publication
 @scenario("V7 contrôle : diffamation possible -> refus")

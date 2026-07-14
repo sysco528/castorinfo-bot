@@ -413,8 +413,14 @@ def rediger_et_controler(client_ia, evt, entrees_sources):
         return None, "lien_hashtag_mention"
     if len(texte) > 280:
         return None, "trop_long"
+    note = ""
     if texte.startswith("🔴") and not (evt["fiab_max"] >= 90 and evt["confiance"] >= 90):
-        return None, "alerte_non_justifiee"
+        # ALERTE réservée aux sources les plus fiables : on rétrograde en FLASH
+        # plutôt que de perdre l'information.
+        retro = re.sub(r"^🔴\s*[A-ZÀ-Ü\s\-–]*—\s*", "⚡ FLASH — ", texte).strip()
+        if retro.startswith("🔴") or len(retro) > 280:
+            return None, "alerte_non_justifiee"
+        texte, note = retro, "+alerte_retrogradee"
     sim = max((similarite_trigrammes(texte, f'{e["titre"]} {e["resume"]}')
                for e in entrees_sources if e["source"] in evt["sources"]), default=0.0)
     if sim > SEUIL_SIMILARITE:
@@ -441,11 +447,11 @@ def rediger_et_controler(client_ia, evt, entrees_sources):
             texte = f"{EMOJI_CATEGORIE.get(evt.get('categorie'), '📌')} {texte_calme}"
             if len(texte) > 280:
                 return None, "trop_long"
-            return texte, f"ok_signal_retrograde_sim_{sim:.2f}"
+            return texte, f"ok_signal_retrograde_sim_{sim:.2f}{note}"
         return None, f"controle_refuse:{json.dumps(ctrl, ensure_ascii=False)[:120]}"
     if not ctrl.get("publiable"):
         return None, f"controle_refuse:{json.dumps(ctrl, ensure_ascii=False)[:120]}"
-    return texte, f"ok_sim_{sim:.2f}"
+    return texte, f"ok_sim_{sim:.2f}{note}"
 
 
 # ------------------------------------------------------------
