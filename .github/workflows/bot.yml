@@ -12,8 +12,8 @@
 name: Castor Info Bot
 
 on:
-  # schedule:                    # cron désactivé le temps des dry-runs — réactivation sur GO
-  #   - cron: '7,22,37,52 * * * *'
+  schedule:
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
     inputs:
       dry_run:
