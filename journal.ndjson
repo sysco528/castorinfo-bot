@@ -518,3 +518,42 @@
 {"decision": "controle", "evt": "f44325049b16ec43", "motif": "ok_sim_0.32", "ts": "2026-07-14T22:27:03+00:00"}
 {"decision": "publie", "empreinte": "997c145096c52664", "post_id": "2077157962770956352", "carte": true, "texte": "⚽ L'Équipe de France est éliminée de la Coupe du monde après sa défaite 2-0 contre l'Espagne en demi-finale mardi à Dallas. Le sélectionneur Didier Deschamps évoque un « vestiaire anéanti ». (Le Figaro, France 24)", "ts": "2026-07-14T22:27:04+00:00"}
 {"decision": "publie", "empreinte": "2e0e06729fe280b7", "post_id": "2077157979384586388", "carte": true, "texte": "⚽ La France s'incline 0-2 face à l'Espagne en demi-finale de la Coupe du monde 2026 à Dallas. Les Bleus ne disputeront pas une troisième finale consécutive et joueront samedi pour la troisième place.", "ts": "2026-07-14T22:27:08+00:00"}
+{"decision": "abandon_attente", "evt": "6e2a8d4a758326de", "categorie": "sport", "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "abandon_attente", "evt": "4459eaffe484f5d5", "categorie": "deces_personnalite", "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "abandon_attente", "evt": "e12b52a75240a3d6", "categorie": "faits_divers", "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "abandon_attente", "evt": "832d434eadfb66ce", "categorie": "international", "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "abandon_attente", "evt": "a7c82602a6d794ff", "categorie": "politique", "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "abandon_attente", "evt": "7ee207d5f2acaaa2", "categorie": "international", "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "abandon_attente", "evt": "f0b27f406895d3fe", "categorie": "meteo_catastrophe", "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "dc35ca00ea819136", "score": 100, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["France 24", "Ouest-France", "20 Minutes", "BFMTV", "L'Équipe"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "attente", "evt": "3942994112d51dff", "score": 73, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "attente", "evt": "26948e681a6a35c9", "score": 80, "categorie": "deces_personnalite", "sensible": true, "confiance": 88, "sources": ["BFMTV"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "attente", "evt": "194669af845ee12a", "score": 76, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "attente", "evt": "d65a895219be2e5b", "score": 73, "categorie": "culture", "sensible": false, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "4d8feb22302fcacd", "score": 98, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Le Figaro", "Ouest-France", "20 Minutes"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "6dbef778c8280dfd", "score": 97, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo", "20 Minutes"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "4280c5356fecbc77", "score": 96, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo", "RFI"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "794709d300b42894", "score": 96, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["franceinfo", "France 24"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "df4f7515ff5c26c8", "score": 96, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["Le Figaro", "France 24"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "437eebd26e0868d2", "score": 96, "categorie": "sante", "sensible": true, "confiance": 90, "sources": ["France 24", "RFI"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "adf239aafdb387ee", "score": 88, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 95, "sources": ["franceinfo"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "58092432ceabc814", "score": 88, "categorie": "international", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "69fa4fae3015850a", "score": 88, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["franceinfo"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "80dd10d6fb39d0d8", "score": 87, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 92, "sources": ["franceinfo"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "1888394948f33f42", "score": 87, "categorie": "politique", "sensible": false, "confiance": 92, "sources": ["France 24"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "599706c2b2e5ba2b", "score": 86, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "a1056e2d7b972485", "score": 86, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "42e927a9da47dfaf", "score": 85, "categorie": "sport", "sensible": false, "confiance": 95, "sources": ["Ouest-France"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "3e3f3682301e56fd", "score": 84, "categorie": "politique", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "attente", "evt": "324f6209603b4cfe", "score": 83, "categorie": "sante", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "attente", "evt": "8ff919ab0d14a0aa", "score": 83, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "46dcc5cc4ad1c564", "score": 82, "categorie": "faits_divers", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "attente", "evt": "05126f13315e1539", "score": 81, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["franceinfo"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "attente", "evt": "265595daeea812e3", "score": 81, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "ec3611608211a5ea", "score": 78, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "publier", "evt": "6dd1b2b1d23aec2a", "score": 78, "categorie": "culture", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "attente", "evt": "da21821dea49902c", "score": 77, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-14T23:28:50+00:00"}
+{"decision": "controle", "evt": "dc35ca00ea819136", "motif": "ok_sim_0.38", "ts": "2026-07-14T23:28:56+00:00"}
+{"decision": "controle", "evt": "4d8feb22302fcacd", "motif": "ok_sim_0.33", "ts": "2026-07-14T23:29:02+00:00"}
+{"decision": "publie", "empreinte": "7eb98202a7ac3d34", "post_id": "2077173562721669161", "carte": true, "texte": "⚽ L'équipe de France s'est inclinée 0-2 face à l'Espagne en demi-finale de la Coupe du monde 2026. Les Bleus disputeront la petite finale. Rayan Cherki a exprimé la frustration du groupe, estimant qu'ils ont été « battus par eux-mêmes ». (France 24, L'Équipe)", "ts": "2026-07-14T23:29:04+00:00"}
+{"decision": "publie", "empreinte": "ddc244d140bca975", "post_id": "2077173579339509929", "carte": true, "texte": "⚽ La France s'incline face à l'Espagne en demi-finale de Coupe du monde 2026 à Dallas le 14 juillet. Oyarzabal transforme un penalty suite à une intervention de Digne sur Yamal (0-1). Deschamps devient le sélectionneur le plus capé. (Le Figaro)", "ts": "2026-07-14T23:29:08+00:00"}

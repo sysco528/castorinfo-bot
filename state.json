@@ -189,7 +189,9 @@
    "3f0aba2c-7fbc-11f1-bab1-53c2522f1d6a",
    "5cd96b66-7fb7-11f1-8b0b-7772b74bfb79",
    "c58e8812-7fd0-11f1-9861-f35b30fd7bc6",
-   "081a887e-7fcd-11f1-a2cb-df0225476930"
+   "081a887e-7fcd-11f1-a2cb-df0225476930",
+   "e2c0efd2-7fd6-11f1-9532-93acd208debe",
+   "7d951bca-7fd0-11f1-a5e0-f35b30fd7bc6"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -270,7 +272,8 @@
    "https://www.ouest-france.fr/sport/coupe-du-monde/en-images-les-bleus-seffondrent-mbappe-rumine-les-espagnols-exultent-la-deception-dune-equipe-de-france-battue-48a109f0-7fb3-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/royaume-uni/reseaux-sociaux-le-gouvernement-britannique-annonce-un-couvre-feu-pour-les-adolescents-d5a06ee6-7fcb-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/on-avait-tout-pour-aller-au-bout-je-ne-mexplique-pas-ce-soir-rayan-cherki-sonne-apres-france-espagne-732b81d4-7fca-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/video-larbitre-avait-il-le-niveau-la-reaction-de-didier-deschamps-frustre-de-lelimination-f9182e22-7fc6-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/coupe-du-monde/video-larbitre-avait-il-le-niveau-la-reaction-de-didier-deschamps-frustre-de-lelimination-f9182e22-7fc6-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-a-paris-des-supporters-degoutes-apres-la-defaite-des-bleus-9184384e-7fcd-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -295,7 +298,10 @@
    "https://www.20minutes.fr/monde/ukraine/4234511-20260714-guerre-ukraine-zelensky-militaires-kiev-champs-elysees-russie-bien-embetee-mer-azov?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/arts-stars/culture/4233146-20260714-coluche-tchernobyl-main-dieu-top-gun-1986?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4234534-20260714-etats-unis-epidemie-record-infections-intestinales-frappe-pays-plus-7-000-cas-recenses?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/faits_divers/faits-divers-paris/4234519-20260714-six-suspects-interpelles-departs-feux-foret-fontainebleau?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/faits_divers/faits-divers-paris/4234519-20260714-six-suspects-interpelles-departs-feux-foret-fontainebleau?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/israel/4234535-20260715-guerre-moyen-orient-rome-israel-dit-pret-avancer-retrait-sud-liban?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/football/4234537-20260715-direct-coupe-monde-2026-equipe-france-battue-regrette-cherki-suivez-actu-nuit?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4234478-20260714-direct-guerre-moyen-orient-explosions-bahrein-missile-frappe-navire-large-oman?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -309,7 +315,19 @@
    "https://www.bfmtv.com/economie/video-14-juillet-les-industriels-invites-a-defiler_VN-202607140257.html",
    "https://www.bfmtv.com/societe/video-le-dernier-avion-du-defile-aerien-du-14-juillet-sera-un-c-130_VN-202607140256.html",
    "https://www.bfmtv.com/societe/video-14-juillet-apres-cinq-mois-en-mer-les-eleve-officiers-de-la-marine-vont-retrouver-leur-famille-a-toulon_VN-202607140255.html",
-   "https://www.bfmtv.com/politique/video-incendies-pour-fontainebleau-la-brigade-des-sapeurs-pompiers-marins-de-marseille-a-fait-venir-des-personnes-qui-gerent-les-sinistres-declare-catherine-vautrin-ministre-des-armees_VN-202607140254.html"
+   "https://www.bfmtv.com/politique/video-incendies-pour-fontainebleau-la-brigade-des-sapeurs-pompiers-marins-de-marseille-a-fait-venir-des-personnes-qui-gerent-les-sinistres-declare-catherine-vautrin-ministre-des-armees_VN-202607140254.html",
+   "https://www.bfmtv.com/cote-d-azur/patrouille-de-france-discours-d-emmanuel-macron-faisceaux-lumineux-a-nice-une-journee-de-commemorations-de-l-attentat-du-14-juillet_AV-202607140697.html",
+   "https://www.bfmtv.com/societe/video-mondial-2026-la-joie-des-supporters-espagnols-apres-la-qualification-de-la-roja-en-finale_VN-202607140685.html",
+   "https://www.bfmtv.com/international/europe/espagne/incendie-en-espagne-l-identification-des-victimes-est-terminee-12-etrangers-parmi-les-13-morts_AD-202607140678.html",
+   "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-ormuz-trump-retablit-le-blocus-et-frappe-l-iran-14-07_VN-202607140679.html",
+   "https://www.bfmtv.com/culture/cinema-series/l-odyssee-christopher-nolan-tire-de-l-epopee-d-homere-une-uvre-somme-spectaculaire-et-emouvante_AV-202607140672.html",
+   "https://www.bfmtv.com/societe/video-mondial-fin-de-l-aventure-pour-les-bleus-apres-leur-defaite-en-demi-finale-face-a-l-espagne_VN-202607140673.html",
+   "https://www.bfmtv.com/societe/video-mondial-petites-mines-et-espoirs-envoles-pour-cette-famille-de-supporters_VN-202607140665.html",
+   "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-iran-bombardements-us-en-cours-ce-soir-14-07_VN-202607140666.html",
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-fontainebleau-il-y-aura-des-reprises-de-feu-14-07_VN-202607140668.html",
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-fontainebleau-les-feux-fixes-mais-pas-etait-14-07_VN-202607140661.html",
+   "https://www.bfmtv.com/loto/resultats-euro-millions-le-tirage-du-mardi-14-juillet-2026_AN-202607140032.html",
+   "https://www.bfmtv.com/societe/video-catastrophique-a-dallas-les-supporters-de-l-equipe-de-france-repartent-du-stade-frustres-apres-la-defaite-face-a-l-espagne_VN-202607140657.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -317,89 +335,13 @@
    "https://www.lequipe.fr/Football/Actualites/Mercato-libre-apres-son-depart-de-l-inter-yann-sommer-s-engage-avec-le-club-bruges/1704218",
    "https://www.lequipe.fr/Football/Article/La-folie-1998-le-coup-de-boule-de-zidane-en-2006-le-chambrage-avec-les-journalistes-argentins-en-2022-comment-les-journalistes-de-l-equipe-couvrent-les-finales-de-coupe-du-monde/1704025",
    "https://www.lequipe.fr/Football/Actualites/Comment-les-nicois-vont-concilier-demi-finale-de-coupe-du-monde-et-hommage-aux-victimes-de-l-attentat-du-14-juillet-2016/1704162",
-   "https://www.lequipe.fr/Football/Article/Jeu-metamorphose-role-cle-de-michael-olise-zinedine-zidane-conquis-par-les-prestations-de-la-france-a-la-coupe-du-monde/1704159"
+   "https://www.lequipe.fr/Football/Article/Jeu-metamorphose-role-cle-de-michael-olise-zinedine-zidane-conquis-par-les-prestations-de-la-france-a-la-coupe-du-monde/1704159",
+   "https://www.lequipe.fr/Football/Article/Assimilation-de-la-methode-genesio-et-sejour-intense-en-cote-d-ivoire-l-om-entre-dans-le-vif-de-sa-preparation/1704349",
+   "https://www.lequipe.fr/Football/Actualites/Luis-de-la-fuente-savoure-la-qualification-en-finale-de-la-coupe-du-monde-l-une-des-meilleures-selections-au-monde-contre-la-meilleure-equipe/1704439"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Demi-finale de Coupe du monde 2026 entre la France et l'Espagne, le 14 juillet",
-    "Match disputé à Dallas",
-    "Penalty pour l'Espagne transformé par Oyarzabal (0-1)",
-    "Le penalty a suivi une intervention de Lucas Digne sur Lamine Yamal",
-    "Didier Deschamps est devenu le sélectionneur le plus capé de l'histoire de la Coupe du monde"
-   ],
-   "qui": "Équipe de France, Équipe d'Espagne, Oyarzabal, Lucas Digne, Lamine Yamal, Didier Deschamps",
-   "ou": "Dallas",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro",
-    "Ouest-France",
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "Légitimité de l'appel au penalty sur l'action Digne-Yamal"
-   ],
-   "importance": 88,
-   "empreinte": "4d8feb22302fcacd",
-   "score": 98,
-   "fiab_max": 85,
-   "nb_sources": 3,
-   "depuis": "2026-07-14T20:01:15.350835+00:00"
-  },
-  {
-   "faits": [
-    "Incendies dans la forêt de Fontainebleau : situation 'fixée' mais non 'éteinte'",
-    "Les pompiers devraient intervenir pendant des jours, voire des semaines",
-    "Quatre gardes à vue en cours dans l'enquête",
-    "Six personnes au total interpellées pour les départs de feux",
-    "Deux suspects ont reconnu être à l'initiative d'un incendie, dont un pompier volontaire"
-   ],
-   "qui": "Préfet Pierre Ory (Seine-et-Marne), pompiers, six suspects interpellés",
-   "ou": "Forêt de Fontainebleau, Seine-et-Marne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "6dbef778c8280dfd",
-   "score": 97,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-14T22:27:03.783324+00:00"
-  },
-  {
-   "faits": [
-    "Incendie en Andalousie (Espagne) : 13 morts identifiés",
-    "Une Française parmi les victimes",
-    "Autres victimes : 7 Britanniques, 3 Belges, 1 Américaine, 1 Espagnol",
-    "Incendie survenu jeudi 9 juillet",
-    "La Française était en vacances et avait fui la zone en voiture"
-   ],
-   "qui": "Victimes : une ressortissante française et 12 étrangers",
-   "ou": "Andalousie, Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "4280c5356fecbc77",
-   "score": 96,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-14T22:27:03.783327+00:00"
-  },
   {
    "faits": [
     "Attaques contre des navires dans le détroit d'Ormuz",
@@ -597,32 +539,6 @@
   },
   {
    "faits": [
-    "Tadej Pogacar a remporté la 10e étape du Tour de France",
-    "C'est sa troisième victoire d'étape dans cette édition",
-    "Il s'est imposé en solitaire",
-    "L'étape s'est déroulée mardi 14 juillet",
-    "L'arrivée était à la station de ski du Lioran dans le Massif Central",
-    "Il a augmenté son avance en tête du classement général",
-    "C'est la 113e édition du Tour de France"
-   ],
-   "qui": "Tadej Pogacar",
-   "ou": "Lioran, Massif Central, France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "6e2a8d4a758326de",
-   "score": 87,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T17:24:57.460330+00:00"
-  },
-  {
-   "faits": [
     "Donald Trump a versé 5 millions de dollars à E. Jean Carroll",
     "Trump a été reconnu responsable au civil d'agression sexuelle",
     "E. Jean Carroll, 82 ans, ancienne chroniqueuse, accuse Trump de l'avoir agressée en 1996",
@@ -669,31 +585,6 @@
   },
   {
    "faits": [
-    "Le sénateur républicain Lindsey Graham est décédé",
-    "Il était élu de Caroline du Sud",
-    "Il était proche de Donald Trump",
-    "Il avait 71 ans",
-    "Il est décédé samedi 11 juillet",
-    "Sa sœur Darline Graham Nordone a été désignée pour lui succéder"
-   ],
-   "qui": "Lindsey Graham, Darline Graham Nordone",
-   "ou": "Caroline du Sud, États-Unis",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "4459eaffe484f5d5",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T17:24:57.459333+00:00"
-  },
-  {
-   "faits": [
     "Mason Greenwood a quitté l'Olympique de Marseille",
     "Il s'engage avec le club turc de Fenerbahçe",
     "Le transfert est évalué à 42 millions d'euros",
@@ -714,134 +605,6 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-14T21:11:39.351850+00:00"
-  },
-  {
-   "faits": [
-    "Un salarié a eu un malaise vers 17 heures lors du démontage des 24 Heures du Mans",
-    "Le malaise s'est produit dix jours après la fin de l'édition 2026 des 24 Heures du Mans",
-    "Le salarié est décédé",
-    "Une enquête est en cours",
-    "Le contexte était une période de canicule"
-   ],
-   "qui": null,
-   "ou": "Circuit des 24 Heures du Mans",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "e12b52a75240a3d6",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T17:24:57.460337+00:00"
-  },
-  {
-   "faits": [
-    "Environ 40 personnes ont été enlevées en Colombie",
-    "Les auteurs sont les guérilleros de l'Armée de libération nationale (ELN)",
-    "Le rapt a eu lieu dans la région de Choco",
-    "L'ELN se finance par le trafic de drogue et l'exploitation illégale de mines",
-    "La guérilla est très présente dans cette région reculée"
-   ],
-   "qui": "Armée de libération nationale (ELN)",
-   "ou": "Région de Choco, Colombie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "832d434eadfb66ce",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T17:24:57.460338+00:00"
-  },
-  {
-   "faits": [
-    "Une proposition de loi créant un droit à l'aide à mourir doit être adoptée par l'Assemblée nationale mercredi",
-    "Le Premier ministre Sébastien Lecornu saisira le Conseil constitutionnel",
-    "Le Conseil constitutionnel examinera des aspects controversés du texte",
-    "L'une des critiques porte sur le délai de réflexion jugé trop court par les opposants"
-   ],
-   "qui": "Sébastien Lecornu, Assemblée nationale, Conseil constitutionnel",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "Adoption définitive du vote par l'Assemblée nationale mercredi"
-   ],
-   "importance": 78,
-   "empreinte": "a7c82602a6d794ff",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T17:24:57.459300+00:00"
-  },
-  {
-   "faits": [
-    "Le Parlement israélien a adopté une loi sur l'étude de la Torah",
-    "L'adoption a eu lieu lundi 13 juillet en deuxième et troisième lecture",
-    "Le vote était 63 pour et 52 contre",
-    "La loi est dite fondamentale et fait office de Constitution",
-    "Elle accorde un traitement de faveur à ceux qui se soustraient au service militaire",
-    "Elle concerne l'exemption militaire des ultra-orthodoxes",
-    "Les opposants craignent qu'elle soit utilisée comme argument pour échapper à la conscription",
-    "Ce sujet est au cœur de vifs débats en Israël"
-   ],
-   "qui": "Parlement israélien, ultra-orthodoxes",
-   "ou": "Israël",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "7ee207d5f2acaaa2",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T17:24:57.459546+00:00"
-  },
-  {
-   "faits": [
-    "Plus de 2 000 hectares ont brûlé en forêt de Fontainebleau",
-    "Les incendies se sont produits entre dimanche 12 et mardi 14 juillet 2026",
-    "La piste criminelle est privilégiée",
-    "Trois canicules successives ont créé un terreau favorable à la propagation des flammes",
-    "Le risque d'incendie reste élevé",
-    "Météo France maintient de nombreux départements en vigilance rouge",
-    "Des feux d'artifice du 14-Juillet ont été annulés en raison de la canicule et des risques"
-   ],
-   "qui": null,
-   "ou": "Forêt de Fontainebleau, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "Détails sur la nature criminelle de l'incendie de Fontainebleau"
-   ],
-   "importance": 80,
-   "empreinte": "f0b27f406895d3fe",
-   "score": 84,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-14T17:24:57.459577+00:00"
   },
   {
    "faits": [
@@ -990,6 +753,29 @@
   },
   {
    "faits": [
+    "Nice a commémoré le 10e anniversaire de l'attentat du 14 juillet 2016",
+    "L'attentat du 14 juillet 2016 a fait 86 morts et plus de 400 blessés sur la Promenade des Anglais",
+    "Emmanuel Macron a participé à la cérémonie de commémoration",
+    "La cérémonie a inclus un passage de la Patrouille de France et un spectacle de drones"
+   ],
+   "qui": "Emmanuel Macron, victimes de l'attentat du 14 juillet 2016",
+   "ou": "Nice, Promenade des Anglais",
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "26948e681a6a35c9",
+   "score": 80,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T23:28:50.962650+00:00"
+  },
+  {
+   "faits": [
     "Royaume-Uni : gouvernement annonce couvre-feu sur réseaux sociaux pour adolescents",
     "Mesure : restriction entre minuit et 6h pour jeunes 16-17 ans",
     "Entrée en vigueur prévue début 2027",
@@ -1058,6 +844,75 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-14T22:26:54.168850+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie mortel s'est produit en Andalousie (Espagne)",
+    "13 personnes sont mortes dans cet incendie, dont 12 étrangères",
+    "Une Française figure parmi les victimes",
+    "Les autopsies des victimes sont terminées"
+   ],
+   "qui": "Victimes (dont une Française)",
+   "ou": "Andalousie, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "194669af845ee12a",
+   "score": 76,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T23:28:50.962684+00:00"
+  },
+  {
+   "faits": [
+    "Des négociations entre Israël et le Liban ont eu lieu à Rome le 14 juillet 2026",
+    "Des avancées ont été réalisées sur le retrait israélien de deux zones du sud du Liban",
+    "Les discussions doivent reprendre le 15 juillet"
+   ],
+   "qui": "Israël, Liban",
+   "ou": "Rome, sud du Liban",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "Portée réelle et détails précis des avancées négociées"
+   ],
+   "importance": 65,
+   "empreinte": "3942994112d51dff",
+   "score": 73,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T23:28:50.962610+00:00"
+  },
+  {
+   "faits": [
+    "Christopher Nolan a réalisé un film intitulé 'L'Odyssée' adapté de l'épépée d'Homère",
+    "Ce film est un spectacle de grand envergure qui embrasse la violence de l'épopée",
+    "Christopher Nolan a remporté l'Oscar du meilleur film pour 'Oppenheimer' il y a quatre ans"
+   ],
+   "qui": "Christopher Nolan",
+   "ou": null,
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "d65a895219be2e5b",
+   "score": 73,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-14T23:28:50.962746+00:00"
   }
  ],
  "publies_48h": [
@@ -1072,6 +927,14 @@
   [
    "2e0e06729fe280b7",
    "2026-07-14T22:27:08.936469+00:00"
+  ],
+  [
+   "7eb98202a7ac3d34",
+   "2026-07-14T23:29:04.268900+00:00"
+  ],
+  [
+   "ddc244d140bca975",
+   "2026-07-14T23:29:08.245632+00:00"
   ]
  ],
  "evenements_48h": [
@@ -1090,16 +953,26 @@
   [
    "f44325049b16ec43",
    "2026-07-14T22:27:03.783309+00:00"
+  ],
+  [
+   "dc35ca00ea819136",
+   "2026-07-14T23:28:56.137860+00:00"
+  ],
+  [
+   "4d8feb22302fcacd",
+   "2026-07-14T23:29:02.093039+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚽ L'Équipe de France est éliminée de la Coupe du monde après sa défaite 2-0 contre l'Espagne en demi-finale mardi à Dallas. Le sélectionneur Didier Deschamps évoque un « vestiaire anéanti ». (Le Figaro, France 24)",
-  "⚽ La France s'incline 0-2 face à l'Espagne en demi-finale de la Coupe du monde 2026 à Dallas. Les Bleus ne disputeront pas une troisième finale consécutive et joueront samedi pour la troisième place."
+  "⚽ La France s'incline 0-2 face à l'Espagne en demi-finale de la Coupe du monde 2026 à Dallas. Les Bleus ne disputeront pas une troisième finale consécutive et joueront samedi pour la troisième place.",
+  "⚽ L'équipe de France s'est inclinée 0-2 face à l'Espagne en demi-finale de la Coupe du monde 2026. Les Bleus disputeront la petite finale. Rayan Cherki a exprimé la frustration du groupe, estimant qu'ils ont été « battus par eux-mêmes ». (France 24, L'Équipe)",
+  "⚽ La France s'incline face à l'Espagne en demi-finale de Coupe du monde 2026 à Dallas le 14 juillet. Oyarzabal transforme un penalty suite à une intervention de Digne sur Yamal (0-1). Deschamps devient le sélectionneur le plus capé. (Le Figaro)"
  ],
  "recap_date": "",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-15",
-  "publies": 2
+  "publies": 4
  }
 }
