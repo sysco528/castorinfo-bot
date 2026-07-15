@@ -97,7 +97,8 @@
    "https://www.franceinfo.fr/societe/euthanasie/ce-droit-a-l-aide-a-mourir-met-en-peril-des-gens-fragiles-regrette-le-president-d-honneur-du-comite-consultatif-national-d-ethique_8109347.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/emmanuel-macron-se-rendra-jeudi-matin-a-fontainebleau-gravement-touche-par-deux-incendies_8109356.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/l-argentine-defendra-son-titre-face-a-l-espagne-en-finale-de-la-coupe-du-monde-apres-une-nouvelle-victoire-renversante-face-a-l-angleterre_8109428.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/alimentation/le-cout-d-une-alimentation-saine-a-augmente-de-25-en-cinq-ans-selon-l-onu_8109410.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sante/alimentation/le-cout-d-une-alimentation-saine-a-augmente-de-25-en-cinq-ans-selon-l-onu_8109410.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/plus-aucun-departement-en-vigilance-orange-aux-orages-69-departements-encore-en-alerte-orange-canicule_8109452.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -242,7 +243,9 @@
    "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608360/angleterre-argentine",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-chants-sifflets-les-hymnes-anglais-et-argentins-perturbees-par-les-supporters-en-video-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-portee-par-son-eternel-messi-l-argentine-renverse-l-angleterre-et-defiera-l-espagne-en-finale-20260715",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/angleterre-argentine-centre-de-rogers-gordon-conclue-l-ouverture-du-score-des-anglais-en-video-20260715"
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/angleterre-argentine-centre-de-rogers-gordon-conclue-l-ouverture-du-score-des-anglais-en-video-20260715",
+   "https://www.lefigaro.fr/secteur/high-tech/allah-nous-a-aides-l-ia-nous-aidera-aussi-l-intelligence-artificielle-nouvelle-obsession-des-groupes-terroristes-20260715",
+   "https://www.lefigaro.fr/international/l-armee-americaine-annonce-qu-elle-va-desormais-mesurer-le-taux-de-testosterone-de-ses-soldats-20260715"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -365,7 +368,9 @@
    "b108ead4-8090-11f1-b406-597803de63eb",
    "9dc2628e-807c-11f1-a448-491f0793bab8",
    "0232c44c-808d-11f1-8307-d9bde5df6ee0",
-   "fe947e18-8080-11f1-a82a-55a92e4b8138"
+   "fe947e18-8080-11f1-a82a-55a92e4b8138",
+   "fbc90268-8093-11f1-9884-597803de63eb",
+   "4c75ea8c-808a-11f1-a30a-0ddb5d36c064"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -432,7 +437,8 @@
    "eba1eac2-8074-11f1-9231-0fe1f9aaa4ae",
    "39281f2a-8069-11f1-8bc1-1dd3a32f23a0",
    "cf3014c0-808f-11f1-bfb2-7fba828116a9",
-   "ef6721ea-808d-11f1-b08f-7fba828116a9"
+   "ef6721ea-808d-11f1-b08f-7fba828116a9",
+   "5322e8de-8086-11f1-aa71-410918c23dcc"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -498,7 +504,15 @@
    "https://www.ouest-france.fr/sport/football/ligue-1/om-psg-lyon-tous-les-resultats-des-matchs-amicaux-des-clubs-de-ligue-1-f369d2b8-6659-11f1-99fc-6db54956824f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/incendie/incendies-de-fontainebleau-le-pompier-volontaire-suspecte-dun-depart-de-feu-place-en-detention-provisoire-fcabbae6-8088-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/video-le-but-danthony-gordon-qui-permet-a-langleterre-de-mener-contre-largentine-en-demi-finale-de-la-coupe-du-monde-fff3ff64-8089-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/meteo/orage/orages-en-sarthe-une-centaine-dinterventions-des-pompiers-dans-le-secteur-de-la-fleche-aucun-blesse-a-deplorer-527c6c86-8070-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/meteo/orage/orages-en-sarthe-une-centaine-dinterventions-des-pompiers-dans-le-secteur-de-la-fleche-aucun-blesse-a-deplorer-527c6c86-8070-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/video-jen-ai-reve-les-larmes-de-joie-de-lautaro-martinez-apres-la-qualification-argentine-en-finale-du-mondial-0d152802-809a-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/angleterre-argentine-nous-etions-en-train-de-subir-tuchel-se-justifie-apres-ses-changements-defensifs-contestes-e6f9889c-8095-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/angleterre-argentine-je-suis-ecure-la-deception-dharry-kane-apres-lelimination-anglaise-en-demi-finale-0e956aaa-8097-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/espagne-argentine-une-premiere-la-finale-du-mondial-opposera-le-vainqueur-de-leuro-a-celui-de-la-copa-america-82109444-8094-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/pays-bas/plus-de-900-morts-excedentaires-pendant-la-vague-de-chaleur-aux-pays-bas-8933a464-8094-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-ce-groupe-ne-cesse-de-me-surprendre-dit-scaloni-apres-la-qualification-de-largentine-en-finale-8a37a144-8094-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/angleterre-argentine-les-tops-et-les-flops-de-la-demi-finale-de-coupe-du-monde-messi-eternel-scaloni-etale-tuchel-8218294a-807e-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/palestine/colloque-sur-la-palestine-annule-la-justice-donne-tort-au-college-de-france-86fcdeda-8090-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -530,7 +544,13 @@
    "https://www.20minutes.fr/sport/football/4234642-20260715-direct-angleterre-argentine-defier-espagne-finale-mondial-suivez-demie-fond-grosse-rivalite-20-heures?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/justice/4234684-20260715-affaire-lyhanna-jerome-barella-mis-examen-meurtre-viol-fillette?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/diaporama/diaporama-4234646-images-avant-voir-odyssee-cinema-testez-connaissances-mythologie-grecque?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/high-tech/by-the-web/4234427-20260715-coupe-monde-2026-influenceurs-autres-vainqueurs-competition?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/high-tech/by-the-web/4234427-20260715-coupe-monde-2026-influenceurs-autres-vainqueurs-competition?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/football/4234537-20260715-direct-coupe-monde-2026-aucune-maitrise-bleus-cubarsi-heureux-avoir-ferme-beaucoup-bouches-actu-jour?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/canicule/4234554-20260715-direct-canicule-incendies-france-encore-chaud-va-enfin-respirer-orages-menacent?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4234628-20260715-incendie-fontainebleau-passe-tete-pompiers-pyromanes-jouent-feu?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4234617-20260715-guerre-ukraine-pays-otan-alerte-sabotages-russes-sursis-financier-moscou?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4234553-20260715-direct-guerre-moyen-orient-frappes-americaines-iran-trump-menace-detruire-centrales-electriques?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sante/4234691-20260715-fin-vie-droit-aide-mourir-definitivement-adopte-deputes?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -582,114 +602,6 @@
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "L'Argentine a battu l'Angleterre 2-1 en demi-finale de la Coupe du monde 2026",
-    "Le match s'est déroulé à Atlanta (Géorgie, États-Unis) le mercredi 15 juillet 2026",
-    "Anthony Gordon a ouvert le score pour l'Angleterre",
-    "Enzo Fernandez a égalisé pour l'Argentine",
-    "Lautaro Martinez a marqué le but de la victoire sur une passe de Lionel Messi",
-    "L'Argentine défendra son titre en finale contre l'Espagne dimanche 19 juillet"
-   ],
-   "qui": "Argentine, Angleterre, Lionel Messi, Enzo Fernandez, Anthony Gordon, Lautaro Martinez",
-   "ou": "Atlanta, Géorgie, États-Unis",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "France 24",
-    "RFI",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "e3ed5aa66a6a0a8a",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 5,
-   "depuis": "2026-07-15T21:12:25.484457+00:00"
-  },
-  {
-   "faits": [
-    "L'Assemblée nationale a adopté une proposition de loi sur l'aide à mourir le 15 juillet 2026",
-    "Olivier Falorni, auteur de la loi, se félicite du vote",
-    "Didier Sicard, président d'honneur du Comité consultatif national d'éthique, exprime des réserves sur les risques pour les personnes fragiles"
-   ],
-   "qui": "Assemblée nationale, Olivier Falorni, Didier Sicard",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 90,
-   "empreinte": "aadf1d68b3a339bc",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-15T19:57:54.035192+00:00"
-  },
-  {
-   "faits": [
-    "L'Assemblée nationale a définitivement adopté la loi sur la fin de vie le 15 juillet 2026",
-    "Le vote a eu lieu avec 291 voix pour, 241 contre et 29 abstentions",
-    "La loi instaure un droit sur l'aide à mourir sous conditions strictes",
-    "Elle autorise le suicide assisté pour les malades incurables en grande souffrance atteints de pathologies graves",
-    "Le Premier ministre Sébastien Lecornu a annoncé une saisine du Conseil constitutionnel",
-    "Le président du Sénat Gérard Larcher a également annoncé saisir le Conseil constitutionnel",
-    "L'Église de France a dénoncé une 'rupture grave dans l'histoire de notre pays'",
-    "Un observatoire de la fin de vie a été annoncé par Emmanuel Hirsch et Laurent Frémont"
-   ],
-   "qui": "Assemblée nationale, Emmanuel Macron, Sébastien Lecornu, Gérard Larcher, Église de France",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "459d664d8d983e8d",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-15T18:44:35.068269+00:00"
-  },
-  {
-   "faits": [
-    "Le Parlement français a adopté définitivement la loi sur l'aide à mourir",
-    "Le vote s'est déroulé mercredi 15 juillet 2026",
-    "291 députés ont voté pour, 241 contre",
-    "La loi légalise l'euthanasie et le suicide assisté",
-    "Ce texte représente une réforme majeure du quinquennat d'Emmanuel Macron",
-    "L'adoption intervient deux mois après un texte sur l'amélioration de l'accès aux soins palliatifs"
-   ],
-   "qui": "Parlement français, Emmanuel Macron",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 90,
-   "empreinte": "2e1a7bdf8d21f9af",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-15T17:37:17.597286+00:00"
-  },
   {
    "faits": [
     "Jérôme Barella a été mis en examen pour meurtre et viol sur mineure de moins de 15 ans",
@@ -818,54 +730,6 @@
   },
   {
    "faits": [
-    "Les Girondins de Bordeaux ont été exclus des compétitions nationales par la DNCG",
-    "Le club évoluera au mieux en Régional 1 la saison prochaine, équivalent de la sixième division française",
-    "Le club s'achemine vers une liquidation judiciaire",
-    "Les dirigeants n'ont pas trouvé les fonds pour éviter cette exclusion lors d'une appel"
-   ],
-   "qui": "Girondins de Bordeaux, DNCG",
-   "ou": "Bordeaux",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "b713d90db137600d",
-   "score": 96,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-15T16:07:09.276861+00:00"
-  },
-  {
-   "faits": [
-    "Pogacar a conservé son maillot jaune au Tour de France",
-    "Vingegaard reste loin au classement",
-    "Seixas joue le podium",
-    "Soren Waerenskjold (Uno-X) a remporté la onzième étape avec une moyenne de 50,91 km/h, la plus rapide de l'histoire du Tour de France"
-   ],
-   "qui": "Pogacar, Vingegaard, Seixas, Soren Waerenskjold",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "4206c9aa6e362e07",
-   "score": 94,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-15T16:07:09.276862+00:00"
-  },
-  {
-   "faits": [
     "Deux incendies ont ravagé la forêt de Fontainebleau",
     "Les incendies ont parcouru plus de 2 000 hectares",
     "Les incendies sont fixés mais pas encore éteints",
@@ -911,28 +775,28 @@
   },
   {
    "faits": [
-    "Des incendies ont ravagé 2000 hectares de forêt en forêt de Fontainebleau",
-    "L'autoroute A6 est fermée depuis dimanche et ne rouvrira pas avant vendredi selon le concessionnaire APRR",
-    "Deux suspects ont reconnu avoir mis le feu volontairement : un étudiant et un pompier volontaire, tous deux âgés de 18 ans",
-    "Une mesure de placement en détention provisoire sera requise par le parquet pour chacun d'eux",
-    "Le gouvernement veut lancer un grand plan d'investissement pour la forêt française",
-    "Les professionnels du tourisme redoutent un été noir mais le château et les villages de Fontainebleau restent ouverts"
+    "L'Argentine a battu l'Angleterre en demi-finale de Coupe du monde 2026",
+    "Le score était 2-1",
+    "Lautaro Martinez a marqué le but de la qualification dans le temps additionnel",
+    "L'Argentine affrontera l'Espagne en finale dimanche 19 juillet au MetLife Stadium de New York",
+    "Ce sera la première fois de l'histoire que la finale du Mondial opposera le champion d'Europe au vainqueur de la Copa America",
+    "Lionel Messi a été décisif"
    ],
-   "qui": "Deux suspects (étudiant et pompier volontaire de 18 ans), ministre Monique Barbut",
-   "ou": "Forêt de Fontainebleau, Seine-et-Marne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
+   "qui": "Argentine, Angleterre, Lautaro Martinez, Lionel Messi, Thomas Tuchel, Lionel Scaloni",
+   "ou": "Coupe du monde 2026",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
    "sources": [
-    "Le Figaro"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 81,
-   "empreinte": "c6cd3d2157465628",
+   "importance": 85,
+   "empreinte": "fa8b2d9c32b584ef",
    "score": 86,
-   "fiab_max": 85,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-15T16:07:09.276008+00:00"
+   "depuis": "2026-07-15T22:26:32.557431+00:00"
   },
   {
    "faits": [
@@ -960,48 +824,25 @@
   },
   {
    "faits": [
-    "Au moins 158 Français ont eu recours à l'euthanasie ou au suicide assisté en Belgique et en Suisse en 2025",
-    "Un vote final sur une proposition de loi introduisant une aide à mourir en France est attendu mercredi 15 juillet 2026"
+    "911 morts excédentaires ont été enregistrées pendant la vague de chaleur aux Pays-Bas",
+    "La période couverte est entre le 22 juin et le 5 juillet",
+    "La surmortalité a touché tous les groupes d'âges mais de façon plus significative la catégorie des 80 ans et plus"
    ],
-   "qui": "Parlement français",
-   "ou": "France",
-   "categorie": "politique",
+   "qui": "Autorités sanitaires néerlandaises",
+   "ou": "Pays-Bas",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
-   "confiance": 85,
+   "confiance": 90,
    "sources": [
-    "franceinfo"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 78,
-   "empreinte": "168b26d4fdc50c0b",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-15T16:07:09.276870+00:00"
-  },
-  {
-   "faits": [
-    "L'épidémie d'Ebola en RDC pourrait représenter deux à quatre fois les estimations officielles selon l'OMS",
-    "Le dernier bilan officiel des autorités congolaises fait état de 719 morts et 1 963 personnes contaminées",
-    "Au centre de traitement Ebola de Rwampara en Ituri, des soignants dénoncent leurs conditions de travail et des salaires impayés"
-   ],
-   "qui": "OMS, autorités congolaises",
-   "ou": "RDC (République Démocratique du Congo), Ituri",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "L'ampleur réelle de l'épidémie selon l'OMS"
-   ],
-   "importance": 79,
-   "empreinte": "86c296c074e35435",
+   "importance": 80,
+   "empreinte": "1714db7894964ce1",
    "score": 84,
-   "fiab_max": 85,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-15T16:07:09.276188+00:00"
+   "depuis": "2026-07-15T22:26:12.556651+00:00"
   },
   {
    "faits": [
@@ -1097,6 +938,28 @@
   },
   {
    "faits": [
+    "Le ministre de la Défense ukrainien Mykhaïlo Fedorov a démissionné",
+    "Le président ukrainien a débuté un remaniement gouvernemental pour engager un changement de stratégie politique",
+    "Fedorov a été l'un des premiers avocats de l'utilisation croissante des drones sur le front"
+   ],
+   "qui": "Mykhaïlo Fedorov, président ukrainien",
+   "ou": "Ukraine",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "ee479a6e700f0625",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T22:26:32.557437+00:00"
+  },
+  {
+   "faits": [
     "Le coût d'une alimentation saine a augmenté de 25% en cinq ans",
     "Selon la FAO (Organisation des Nations unies pour l'alimentation et l'agriculture)",
     "La production locale réduirait le coût d'une alimentation saine de 34% à l'échelle mondiale"
@@ -1141,48 +1004,89 @@
   },
   {
    "faits": [
-    "Les démocrates ont bloqué l'examen du budget de la défense au Sénat américain",
-    "Le budget est un texte record de plus de 1 150 milliards de dollars",
-    "Les démocrates dénoncent la stratégie militaire de Donald Trump en Iran",
-    "Ils réclament un contrôle renforcé du Congrès sur les opérations armées"
+    "Les députés ont adopté en dernière lecture la proposition de loi créant un droit à l'aide à mourir"
    ],
-   "qui": "Démocrates américains, Donald Trump",
-   "ou": "États-Unis",
-   "categorie": "international",
+   "qui": "Parlement français, députés",
+   "ou": "France",
+   "categorie": "politique",
    "sensible": false,
    "confiance": 85,
    "sources": [
-    "France 24"
+    "20 Minutes"
    ],
    "non_confirme": [],
-   "importance": 72,
-   "empreinte": "90d52d9a21cf5c7f",
-   "score": 82,
-   "fiab_max": 85,
+   "importance": 80,
+   "empreinte": "ac935c574c4cad13",
+   "score": 80,
+   "fiab_max": 75,
    "nb_sources": 1,
-   "depuis": "2026-07-15T16:07:09.276875+00:00"
+   "depuis": "2026-07-15T22:26:32.557442+00:00"
   },
   {
    "faits": [
-    "L'ex-président sénégalais Macky Sall est candidat au poste de secrétaire général des Nations Unies",
-    "Il a annoncé sa venue vendredi à Dakar pour une rencontre avec son successeur Bassirou Diomaye Faye",
-    "Bassirou Diomaye Faye ne lui a jusqu'ici pas manifesté son soutien"
+    "L'armée américaine va désormais mesurer le taux de testostérone de ses soldats",
+    "Pete Hegseth, ministre de la Défense de Donald Trump, a imposé aux militaires des normes physiques plus exigeantes",
+    "Ces normes sont calquées sur des standards masculins"
    ],
-   "qui": "Macky Sall, Bassirou Diomaye Faye",
-   "ou": "Sénégal",
-   "categorie": "international",
+   "qui": "Pete Hegseth, armée américaine",
+   "ou": "États-Unis",
+   "categorie": "politique",
    "sensible": false,
    "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "9d0745f15b6a07b5",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T22:26:32.557444+00:00"
+  },
+  {
+   "faits": [
+    "Le secrétaire d'État américain Marco Rubio espérait un retrait des troupes rwandaises de l'Est de la RDC avant la mi-juillet",
+    "Cet ultimatum n'a pas été atteint",
+    "La situation reste tendue et les combats se sont même intensifiés"
+   ],
+   "qui": "Marco Rubio, Rwanda, RDC",
+   "ou": "Est de la République Démocratique du Congo",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
    "sources": [
     "France 24"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "1cd28095617adf88",
-   "score": 82,
+   "importance": 60,
+   "empreinte": "6256f6f0152e836c",
+   "score": 78,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-15T16:07:09.276876+00:00"
+   "depuis": "2026-07-15T22:26:12.556527+00:00"
+  },
+  {
+   "faits": [
+    "Un pompier volontaire de Fontainebleau a été arrêté",
+    "Il a avoué avoir causé un départ de feu",
+    "2.000 hectares sont partis en fumée"
+   ],
+   "qui": "Pompier volontaire de Fontainebleau",
+   "ou": "Fontainebleau, France",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "e75f14f946a86bec",
+   "score": 78,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T22:26:12.556731+00:00"
   },
   {
    "faits": [
@@ -1283,6 +1187,50 @@
   },
   {
    "faits": [
+    "La justice kényane a rejeté le 15 juillet la demande de la communauté rastafarie d'utiliser le cannabis dans son culte religieux"
+   ],
+   "qui": "Communauté rastafarie, justice kényane",
+   "ou": "Kenya",
+   "categorie": "justice",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "fcb9c2740e0d9961",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T22:26:32.557446+00:00"
+  },
+  {
+   "faits": [
+    "Groupes terroristes islamistes surexploitent l'IA",
+    "L'IA était autrefois cantonnée à la génération de visuels de propagande",
+    "L'IA permet désormais aux djihadistes de former des commandos et d'apprendre des techniques de combat"
+   ],
+   "qui": "Groupes terroristes islamistes",
+   "ou": null,
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 70,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "Affirmation basée sur « de tout récents rapports » sans source détaillée"
+   ],
+   "importance": 75,
+   "empreinte": "041d6531e6c10a57",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T22:26:12.556398+00:00"
+  },
+  {
+   "faits": [
     "Les États-Unis ont frappé l'Iran avec 90 minutes de bombardements",
     "Les cibles sont des installations iraniennes à l'entrée du détroit d'Ormuz",
     "L'Iran déclare que le détroit d'Ormuz restera fermé tant que l'agression américaine continuera",
@@ -1306,6 +1254,48 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-15T21:12:25.483335+00:00"
+  },
+  {
+   "faits": [
+    "Le tribunal administratif de Paris a estimé que l'annulation par le Collège de France d'un colloque sur la Palestine en novembre dernier était disproportionnée"
+   ],
+   "qui": "Collège de France, tribunal administratif de Paris",
+   "ou": "Paris, France",
+   "categorie": "justice",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "99b07dd9ea845e4f",
+   "score": 76,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T22:26:32.557448+00:00"
+  },
+  {
+   "faits": [
+    "La Lettonie et la Lituanie affirment que Moscou se prépare à attaquer des infrastructures dans des pays de l'Otan"
+   ],
+   "qui": "Russie, Lettonie, Lituanie, Otan",
+   "ou": "Pays baltes, Otan",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "Affirmation basée sur des déclarations de la Lettonie et la Lituanie, non confirmée officiellement"
+   ],
+   "importance": 75,
+   "empreinte": "353cc217625bce8a",
+   "score": 75,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T22:26:12.556773+00:00"
   }
  ],
  "publies_48h": [
@@ -1352,6 +1342,14 @@
   [
    "1315604cdef6acf5",
    "2026-07-15T06:33:35.046903+00:00"
+  ],
+  [
+   "2c8cfe9777fbac01",
+   "2026-07-15T22:26:33.702210+00:00"
+  ],
+  [
+   "c142c3fdb0a3d3d2",
+   "2026-07-15T22:26:37.671825+00:00"
   ]
  ],
  "evenements_48h": [
@@ -1402,24 +1400,24 @@
   [
    "43cf924c69d4fa53",
    "2026-07-15T06:33:29.648259+00:00"
+  ],
+  [
+   "e3ed5aa66a6a0a8a",
+   "2026-07-15T22:26:24.638645+00:00"
+  ],
+  [
+   "aadf1d68b3a339bc",
+   "2026-07-15T22:26:32.557406+00:00"
   ]
  ],
  "depeches_du_jour": [
-  "⚽ L'Équipe de France est éliminée de la Coupe du monde après sa défaite 2-0 contre l'Espagne en demi-finale mardi à Dallas. Le sélectionneur Didier Deschamps évoque un « vestiaire anéanti ». (Le Figaro, France 24)",
-  "⚽ La France s'incline 0-2 face à l'Espagne en demi-finale de la Coupe du monde 2026 à Dallas. Les Bleus ne disputeront pas une troisième finale consécutive et joueront samedi pour la troisième place.",
-  "⚽ L'équipe de France s'est inclinée 0-2 face à l'Espagne en demi-finale de la Coupe du monde 2026. Les Bleus disputeront la petite finale. Rayan Cherki a exprimé la frustration du groupe, estimant qu'ils ont été « battus par eux-mêmes ». (France 24, L'Équipe)",
-  "⚽ La France s'incline face à l'Espagne en demi-finale de Coupe du monde 2026 à Dallas le 14 juillet. Oyarzabal transforme un penalty suite à une intervention de Digne sur Yamal (0-1). Deschamps devient le sélectionneur le plus capé. (Le Figaro)",
-  "⚽ La France s'incline 0-2 face à l'Espagne en demi-finale de la Coupe du monde 2026 à Dallas. C'est la troisième défaite consécutive contre l'Espagne en demi-finales. Didier Deschamps quitte son poste après 14 ans.",
-  "🌍 Attaques contre des navires dans le détroit d'Ormuz : au moins deux morts. L'Iran annonce la fermeture du détroit, les États-Unis bombardent des dizaines de cibles en réponse.",
-  "⚽ L'Espagne élimine la France en demi-finale de la Coupe du monde 2026. Les Espagnols l'ont emporté 2-0 mardi 14 juillet à Dallas. Didier Deschamps a commenté cette défaite en conférence de presse. (Le Figaro, Ouest-France)",
-  "⚽ L'Espagne se qualifie pour la finale de la Coupe du monde 2026. Pedro Porro a marqué contre la France lors de la demi-finale. Les Espagnols affronteront soit l'Angleterre, soit l'Argentine en finale. (France 24)",
-  "⚽ La France s'incline en demi-finale de la Coupe du monde 2026 face à l'Espagne (2-0) et ne jouera pas une 3e finale consécutive. L'équipe disputera samedi la petite finale. (franceinfo)",
-  "🇫🇷 Météo-France lève la vigilance rouge canicule en France. Soixante-neuf départements restent cependant en vigilance orange, tandis que onze sont menacés par des orages. Une dégradation orageuse progressera sur le territoire jusqu'à vendredi. (franceinfo, Le Figaro)"
+  "⚽ L'Argentine s'est qualifiée pour la finale de la Coupe du monde 2026 en battant l'Angleterre 2-1 en demi-finale à Atlanta. Lautaro Martinez a marqué le but décisif sur une passe de Lionel Messi. L'Argentine affrontera l'Espagne dimanche. (franceinfo)",
+  "L'Assemblée nationale a adopté le 15 juillet une proposition de loi sur l'aide à mourir. Son auteur Olivier Falorni se réjouit du vote, tandis que Didier Sicard du Comité consultatif d'éthique exprime des réserves. (franceinfo, Ouest-France)"
  ],
  "recap_date": "2026-07-15",
  "echecs_extraction": 0,
  "compteur": {
-  "date": "2026-07-15",
-  "publies": 10
+  "date": "2026-07-16",
+  "publies": 2
  }
 }
