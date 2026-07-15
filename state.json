@@ -550,7 +550,9 @@
    "https://www.20minutes.fr/societe/4234628-20260715-incendie-fontainebleau-passe-tete-pompiers-pyromanes-jouent-feu?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/ukraine/4234617-20260715-guerre-ukraine-pays-otan-alerte-sabotages-russes-sursis-financier-moscou?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4234553-20260715-direct-guerre-moyen-orient-frappes-americaines-iran-trump-menace-detruire-centrales-electriques?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/sante/4234691-20260715-fin-vie-droit-aide-mourir-definitivement-adopte-deputes?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/sante/4234691-20260715-fin-vie-droit-aide-mourir-definitivement-adopte-deputes?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4232040-20260715-tombee-cactus-manque-eau-cheville-vrac-vacances-rando-laura-vire-cauchemar?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/politique/assemblee_nationale/4232114-20260630-aide-mourir-conditions-votees-deputes?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -577,7 +579,19 @@
    "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-fontainebleau-les-feux-fixes-mais-pas-etait-14-07_VN-202607140661.html",
    "https://www.bfmtv.com/loto/resultats-euro-millions-le-tirage-du-mardi-14-juillet-2026_AN-202607140032.html",
    "https://www.bfmtv.com/societe/video-catastrophique-a-dallas-les-supporters-de-l-equipe-de-france-repartent-du-stade-frustres-apres-la-defaite-face-a-l-espagne_VN-202607140657.html",
-   "https://www.bfmtv.com/economie/replay-emissions/01-business/video-emission-du-14-juillet-2026_VN-202607140714.html"
+   "https://www.bfmtv.com/economie/replay-emissions/01-business/video-emission-du-14-juillet-2026_VN-202607140714.html",
+   "https://www.bfmtv.com/environnement/climat/direct-la-vigilance-rouge-canicule-levee-partout-en-france-11-departements-en-orange-pour-des-risques-d-orages-violents_LN-202607150104.html",
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/guerre-au-moyen-orient-l-armee-americaine-annonce-avoir-tire-sur-un-navire-qui-tentait-de-forcer-le-blocus-des-ports-iraniens_AD-202607150839.html",
+   "https://www.bfmtv.com/societe/video-l-explosion-de-joie-des-supporters-argentins-apres-la-qualification-en-finale-de-l-albiceleste_VN-202607150823.html",
+   "https://www.bfmtv.com/international/moyen-orient/iran/video-guerre-au-moyen-orient-l-analyse-de-dominique-de-villepin-ancien-premier-ministre_VN-202607150822.html",
+   "https://www.bfmtv.com/culture/cinema-series/sexe-drogue-et-meurtre-la-nouvelle-serie-de-ryan-murphy-the-shards-se-devoile-dans-une-bande-annonce_AN-202607150820.html",
+   "https://www.bfmtv.com/international/moyen-orient/iran/video-donald-trump-sur-l-iran-ils-seront-bientot-vaincus_VN-202607150819.html",
+   "https://www.bfmtv.com/police-justice/video-incendie-a-fontainebleau-le-deuxieme-suspect-implique-dans-les-feux-est-egalement-place-en-detention-provisoire_VN-202607150812.html",
+   "https://www.bfmtv.com/international/afrique/maroc/video-sebastien-lecornu-en-visite-a-rabat-pour-une-rencontre-de-haut-niveau_VN-202607150811.html",
+   "https://www.bfmtv.com/politique/parlement/video-aide-a-mourir-falorni-salue-l-adoption-definitive-du-texte-une-loi-eminemment-republicaine_VN-202607150810.html",
+   "https://www.bfmtv.com/politique/parlement/video-loi-sur-la-fin-de-vie-definitivement-adoptee-il-ne-faut-jamais-avoir-peur-de-la-democratie-reagit-yael-braun-pivet_VN-202607150807.html",
+   "https://www.bfmtv.com/grand-lille/un-reseau-de-trafic-d-armes-entre-le-nord-de-la-france-et-la-suisse-demantele-un-policier-mis-en-examen_AD-202607150804.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendies-emmanuel-macron-sera-a-fontainebleau-jeudi-pour-apporter-son-soutien-a-ceux-qui-luttent-contre-ce-feu-de-foret_VN-202607150803.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -597,87 +611,17 @@
    "https://www.lequipe.fr/Football/Actualites/Euro-ligue-des-nations-et-maintenant-coupe-du-monde-l-espagne-bourreau-de-la-france-en-demi-finales/1704427",
    "https://www.lequipe.fr/Football/Actualites/Deschamps-apres-la-defaite-contre-l-espagne-en-demi-finales-de-la-coupe-du-monde-une-enorme-deception/1704425",
    "https://www.lequipe.fr/Football/Actualites/Olivier-giroud-apres-l-elimination-de-la-france-contre-l-espagne-a-la-coupe-du-monde-nos-meilleurs-joueurs-n-ont-pas-joue-comme-d-habitude/1704422",
-   "https://www.lequipe.fr/Football/Actualites/Elimine-en-demies-comme-eusebio-et-michel-platini-ousmane-dembele-perpetue-la-malediction-du-ballon-d-or-en-coupe-du-monde/1704421"
+   "https://www.lequipe.fr/Football/Actualites/Elimine-en-demies-comme-eusebio-et-michel-platini-ousmane-dembele-perpetue-la-malediction-du-ballon-d-or-en-coupe-du-monde/1704421",
+   "https://www.lequipe.fr/Football/Article/Scenario-defavorable-denouement-formidable-pour-se-qualifier-en-finale-de-la-coupe-du-monde-l-argentine-est-restee-fidele-a-sa-recette/1704681",
+   "https://www.lequipe.fr/Football/Actualites/Jude-bellingham-et-harry-kane-la-faillite-des-heros-de-l-angleterre/1704687",
+   "https://www.lequipe.fr/Football/Actualites/Lionel-messi-va-devenir-le-deuxieme-joueur-a-disputer-trois-finales-de-coupe-du-monde-apres-cafu/1704686",
+   "https://www.lequipe.fr/Football/Actualites/Une-banderole-les-iles-malouines-sont-argentines-deployee-par-giovanni-lo-celso-et-ses-coequipiers-apres-leur-victoire-contre-l-angleterre-a-la-coupe-du-monde/1704685",
+   "https://www.lequipe.fr/Football/Actualites/Les-argentins-envahissent-la-rue-dauphine-apres-la-qualification-pour-la-finale-de-la-coupe-du-monde/1704684",
+   "https://www.lequipe.fr/Football/Actualites/Les-chiffres-de-la-faillite-de-l-angleterre-apres-l-ouverture-du-score-en-demies-de-coupe-du-monde/1704682"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Jérôme Barella a été mis en examen pour meurtre et viol sur mineure de moins de 15 ans",
-    "Il est principal suspect du meurtre de Lyhanna, collégienne de 11 ans",
-    "Lyhanna a été retrouvée morte le 4 juin dans le Gers",
-    "Il encourt la prison à perpétuité",
-    "Le même jour, le ministre de la Justice a révélé qu'un millier de plaintes concernant des enfants étaient considérées prioritaires"
-   ],
-   "qui": "Jérôme Barella, Lyhanna (victime)",
-   "ou": "Gers, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "France 24",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 90,
-   "empreinte": "7b11a5c9c2529d92",
-   "score": 98,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-15T19:57:54.035202+00:00"
-  },
-  {
-   "faits": [
-    "Sécheresse exceptionnelle en France",
-    "Tous les départements font l'objet de mesures de restrictions d'eau",
-    "Réunion de crise tenue par le gouvernement",
-    "Baisse de rendement jusqu'à -20% pour les cultures de blé dans certaines régions",
-    "Baisse de rendement jusqu'à -60% pour le houblon",
-    "Baisse moyenne de 3% sur le territoire national par rapport à la moyenne quinquennale 2021/2025"
-   ],
-   "qui": "Gouvernement français",
-   "ou": "France",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "2a38e3876c3d0f8b",
-   "score": 98,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-15T17:37:17.597292+00:00"
-  },
-  {
-   "faits": [
-    "Demi-finale de Coupe du monde 2026 entre l'Angleterre et l'Argentine le 15 juillet 2026 à Atlanta",
-    "L'hymne anglais a été chanté par-dessus par les supporters argentins",
-    "L'hymne argentin a été sifflé par les supporters anglais",
-    "Le vainqueur affrontera l'Espagne en finale, qui a éliminé la France le 14 juillet",
-    "Peu d'occasions à la mi-temps, pas un tir en 30 minutes"
-   ],
-   "qui": "Angleterre, Argentine, Espagne",
-   "ou": "Atlanta",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "223099d7832c1b00",
-   "score": 97,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-15T19:57:54.035206+00:00"
-  },
   {
    "faits": [
     "Soren Waerenskjold (Uno-X, Norvège) a remporté l'étape 11 du Tour de France au sprint",
@@ -727,6 +671,29 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-15T18:44:35.068286+00:00"
+  },
+  {
+   "faits": [
+    "Le Parlement a définitivement adopté la proposition de loi créant un droit à l'aide à mourir",
+    "Vote de 291 voix pour et 241 contre lors du 4e et dernier vote à l'Assemblée",
+    "Le texte encadre un droit à l'aide à mourir en France, soumis à de nombreuses conditions"
+   ],
+   "qui": "Parlement français, députés",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "20 Minutes",
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 88,
+   "empreinte": "ac935c574c4cad13",
+   "score": 95,
+   "fiab_max": 75,
+   "nb_sources": 2,
+   "depuis": "2026-07-15T23:36:06.379420+00:00"
   },
   {
    "faits": [
@@ -1004,23 +971,69 @@
   },
   {
    "faits": [
-    "Les députés ont adopté en dernière lecture la proposition de loi créant un droit à l'aide à mourir"
+    "Emmanuel Macron se rendra à Fontainebleau jeudi pour apporter son soutien aux pompiers",
+    "Les pompiers continuent de combattre les reprises de feux dans la forêt de Fontainebleau"
    ],
-   "qui": "Parlement français, députés",
-   "ou": "France",
-   "categorie": "politique",
+   "qui": "Emmanuel Macron",
+   "ou": "Fontainebleau",
+   "categorie": "meteo_catastrophe",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 90,
    "sources": [
-    "20 Minutes"
+    "BFMTV"
    ],
    "non_confirme": [],
-   "importance": 80,
-   "empreinte": "ac935c574c4cad13",
+   "importance": 70,
+   "empreinte": "44c552dd12e24dba",
+   "score": 81,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T23:36:06.379438+00:00"
+  },
+  {
+   "faits": [
+    "Un pompier volontaire suspecté d'un départ de feu à Fontainebleau a été mis en examen et placé en détention provisoire",
+    "Un deuxième suspect, étudiant en droit de 18 ans, a également été mis en examen et placé en détention provisoire",
+    "Le deuxième suspect a reconnu avoir déclenché un incendie en jetant une cigarette",
+    "Le deuxième suspect affirme être 'engagé en politique pour l'écologie'"
+   ],
+   "qui": "Pompier volontaire (non nommé), étudiant en droit de 18 ans (non nommé)",
+   "ou": "Fontainebleau",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "35531140a30024f8",
    "score": 80,
    "fiab_max": 75,
    "nb_sources": 1,
-   "depuis": "2026-07-15T22:26:32.557442+00:00"
+   "depuis": "2026-07-15T23:35:57.823397+00:00"
+  },
+  {
+   "faits": [
+    "L'armée américaine a tiré sur un navire tentant de forcer le blocus des ports iraniens",
+    "Le Centcom a redirigé deux navires commerciaux",
+    "Le blocus des ports iraniens a été rétabli mardi"
+   ],
+   "qui": "Armée américaine, Centcom, Iran",
+   "ou": "Ports iraniens, Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 78,
+   "empreinte": "c092016e58339be1",
+   "score": 80,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T23:35:57.823440+00:00"
   },
   {
    "faits": [
@@ -1043,6 +1056,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-15T22:26:32.557444+00:00"
+  },
+  {
+   "faits": [
+    "Un réseau de trafic d'armes entre le nord de la France et la Suisse a été démantelé",
+    "Neuf personnes ont été mises en examen",
+    "Un policier fait partie des personnes mises en examen"
+   ],
+   "qui": "Neuf personnes dont un policier (non nommés)",
+   "ou": "Nord de la France, Suisse",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "f1f78c448b55a22f",
+   "score": 78,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T23:35:57.823513+00:00"
   },
   {
    "faits": [
@@ -1137,6 +1172,27 @@
   },
   {
    "faits": [
+    "Donald Trump déclare que l'Iran 'sera bientôt vaincu'",
+    "Trump participe à une table ronde à l'Army War College"
+   ],
+   "qui": "Donald Trump",
+   "ou": "Carlisle, Army War College",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "a52267260dfaa205",
+   "score": 78,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T23:36:06.379441+00:00"
+  },
+  {
+   "faits": [
     "Un pompier volontaire de 18 ans est suspecté d'avoir provoqué un incendie en forêt de Fontainebleau",
     "Il a d'abord avoué avoir mis le feu à des brindilles",
     "Il a ensuite revenu sur ses déclarations",
@@ -1187,6 +1243,27 @@
   },
   {
    "faits": [
+    "Sébastien Lecornu et plusieurs ministres français en visite à Rabat",
+    "Rencontre de 'haut niveau' pour renforcer les liens franco-marocains"
+   ],
+   "qui": "Sébastien Lecornu, ministres français",
+   "ou": "Rabat, Maroc",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "66db9527ffe1a464",
+   "score": 77,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-15T23:36:06.379443+00:00"
+  },
+  {
+   "faits": [
     "La justice kényane a rejeté le 15 juillet la demande de la communauté rastafarie d'utiliser le cannabis dans son culte religieux"
    ],
    "qui": "Communauté rastafarie, justice kényane",
@@ -1228,74 +1305,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-15T22:26:12.556398+00:00"
-  },
-  {
-   "faits": [
-    "Les États-Unis ont frappé l'Iran avec 90 minutes de bombardements",
-    "Les cibles sont des installations iraniennes à l'entrée du détroit d'Ormuz",
-    "L'Iran déclare que le détroit d'Ormuz restera fermé tant que l'agression américaine continuera",
-    "Donald Trump menace de bombarder des centrales électriques iraniennes la semaine prochaine sans accord"
-   ],
-   "qui": "États-Unis, Iran, Donald Trump",
-   "ou": "Détroit d'Ormuz",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 70,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Les conditions exactes d'un accord potentiel",
-    "Le calendrier précis des menaces de bombardement"
-   ],
-   "importance": 75,
-   "empreinte": "b47c013f97001356",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-15T21:12:25.483335+00:00"
-  },
-  {
-   "faits": [
-    "Le tribunal administratif de Paris a estimé que l'annulation par le Collège de France d'un colloque sur la Palestine en novembre dernier était disproportionnée"
-   ],
-   "qui": "Collège de France, tribunal administratif de Paris",
-   "ou": "Paris, France",
-   "categorie": "justice",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "99b07dd9ea845e4f",
-   "score": 76,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-15T22:26:32.557448+00:00"
-  },
-  {
-   "faits": [
-    "La Lettonie et la Lituanie affirment que Moscou se prépare à attaquer des infrastructures dans des pays de l'Otan"
-   ],
-   "qui": "Russie, Lettonie, Lituanie, Otan",
-   "ou": "Pays baltes, Otan",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "Affirmation basée sur des déclarations de la Lettonie et la Lituanie, non confirmée officiellement"
-   ],
-   "importance": 75,
-   "empreinte": "353cc217625bce8a",
-   "score": 75,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-15T22:26:12.556773+00:00"
   }
  ],
  "publies_48h": [
@@ -1350,6 +1359,14 @@
   [
    "c142c3fdb0a3d3d2",
    "2026-07-15T22:26:37.671825+00:00"
+  ],
+  [
+   "b357f12ab8bcae11",
+   "2026-07-15T23:36:07.620354+00:00"
+  ],
+  [
+   "07c3352e00285225",
+   "2026-07-15T23:36:11.590422+00:00"
   ]
  ],
  "evenements_48h": [
@@ -1408,16 +1425,26 @@
   [
    "aadf1d68b3a339bc",
    "2026-07-15T22:26:32.557406+00:00"
+  ],
+  [
+   "537e9248300c357e",
+   "2026-07-15T23:36:01.363620+00:00"
+  ],
+  [
+   "7b11a5c9c2529d92",
+   "2026-07-15T23:36:06.379405+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚽ L'Argentine s'est qualifiée pour la finale de la Coupe du monde 2026 en battant l'Angleterre 2-1 en demi-finale à Atlanta. Lautaro Martinez a marqué le but décisif sur une passe de Lionel Messi. L'Argentine affrontera l'Espagne dimanche. (franceinfo)",
-  "L'Assemblée nationale a adopté le 15 juillet une proposition de loi sur l'aide à mourir. Son auteur Olivier Falorni se réjouit du vote, tandis que Didier Sicard du Comité consultatif d'éthique exprime des réserves. (franceinfo, Ouest-France)"
+  "L'Assemblée nationale a adopté le 15 juillet une proposition de loi sur l'aide à mourir. Son auteur Olivier Falorni se réjouit du vote, tandis que Didier Sicard du Comité consultatif d'éthique exprime des réserves. (franceinfo, Ouest-France)",
+  "⚽ L'Argentine se qualifie pour la finale de la Coupe du monde après sa victoire 2-1 contre l'Angleterre en demi-finales. Lionel Messi disputera sa troisième finale mondiale, rejoignant le Brésilien Cafu au palmarès. L'Espagne l'attend dimanche. (BFMTV, L'Équipe)",
+  "⚡ FLASH — Jérôme Barella a été mis en examen pour le meurtre de Lyhanna, collégienne de 11 ans retrouvée morte le 4 juin dans le Gers. Il encourt la perpétuité. (France 24, Ouest-France)"
  ],
  "recap_date": "2026-07-15",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-16",
-  "publies": 2
+  "publies": 4
  }
 }
