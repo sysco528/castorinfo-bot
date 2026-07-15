@@ -590,3 +590,42 @@
 {"decision": "controle", "evt": "794709d300b42894", "motif": "ok_sim_0.20", "ts": "2026-07-15T00:56:33+00:00"}
 {"decision": "publie", "empreinte": "269f3a4cae514038", "post_id": "2077195581978808815", "carte": true, "texte": "⚽ La France s'incline 0-2 face à l'Espagne en demi-finale de la Coupe du monde 2026 à Dallas. C'est la troisième défaite consécutive contre l'Espagne en demi-finales. Didier Deschamps quitte son poste après 14 ans.", "ts": "2026-07-15T00:56:34+00:00"}
 {"decision": "publie", "empreinte": "fb4acc56e01e1adb", "post_id": "2077195598873444389", "carte": true, "texte": "🌍 Attaques contre des navires dans le détroit d'Ormuz : au moins deux morts. L'Iran annonce la fermeture du détroit, les États-Unis bombardent des dizaines de cibles en réponse.", "ts": "2026-07-15T00:56:38+00:00"}
+{"decision": "abandon_attente", "evt": "80dd10d6fb39d0d8", "categorie": "meteo_catastrophe", "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "abandon_attente", "evt": "1888394948f33f42", "categorie": "politique", "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "abandon_attente", "evt": "42e927a9da47dfaf", "categorie": "sport", "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "abandon_attente", "evt": "3e3f3682301e56fd", "categorie": "politique", "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "abandon_attente", "evt": "8ff919ab0d14a0aa", "categorie": "international", "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "abandon_attente", "evt": "46dcc5cc4ad1c564", "categorie": "faits_divers", "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "1ab8966f5d8f22b1", "score": 100, "categorie": "sport", "sensible": false, "confiance": 95, "sources": ["Le Figaro", "Ouest-France"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "733358f150257f42", "score": 87, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["France 24"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "4f1861798771e367", "score": 89, "categorie": "international", "sensible": true, "confiance": 92, "sources": ["Le Figaro"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "8a1c5018100aafa8", "score": 85, "categorie": "international", "sensible": false, "confiance": 90, "sources": ["Le Figaro"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "df10abe1d0ba02ea", "score": 85, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "75d64b0485291269", "score": 81, "categorie": "economie", "sensible": false, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "2d4d7b65ee6cba91", "score": 80, "categorie": "justice", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "93b43da0ab92e74e", "score": 81, "categorie": "faits_divers", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "2887ea45baa0a350", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "9cbe4ea2242a916d", "score": 81, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "a274915d63d94252", "score": 84, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "839471212a218d2e", "score": 82, "categorie": "faits_divers", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "7b1d0d0e18365601", "score": 85, "categorie": "sante", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "112e5245e2b197d1", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "0f809adce4b5565b", "score": 84, "categorie": "politique", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "740c775bfd7bad05", "score": 85, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "b42cccdbd2934ec1", "score": 84, "categorie": "justice", "sensible": false, "confiance": 90, "sources": ["France 24"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "324f6209603b4cfe", "score": 83, "categorie": "sante", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "05126f13315e1539", "score": 81, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["franceinfo"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "265595daeea812e3", "score": 81, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "26948e681a6a35c9", "score": 80, "categorie": "deces_personnalite", "sensible": true, "confiance": 88, "sources": ["BFMTV"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "9a5928873a18f46e", "score": 79, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "cd36409d162133b0", "score": 79, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "ec3611608211a5ea", "score": 78, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "publier", "evt": "6dd1b2b1d23aec2a", "score": 78, "categorie": "culture", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "da21821dea49902c", "score": 77, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "194669af845ee12a", "score": 76, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "3942994112d51dff", "score": 73, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "attente", "evt": "d65a895219be2e5b", "score": 73, "categorie": "culture", "sensible": false, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-15T04:14:56+00:00"}
+{"decision": "controle", "evt": "1ab8966f5d8f22b1", "motif": "ok_sim_0.44", "ts": "2026-07-15T04:14:59+00:00"}
+{"decision": "controle", "evt": "733358f150257f42", "motif": "ok_sim_0.29", "ts": "2026-07-15T04:15:04+00:00"}
+{"decision": "publie", "empreinte": "e78bb8fd36393460", "post_id": "2077245540459487240", "carte": true, "texte": "⚽ L'Espagne élimine la France en demi-finale de la Coupe du monde 2026. Les Espagnols l'ont emporté 2-0 mardi 14 juillet à Dallas. Didier Deschamps a commenté cette défaite en conférence de presse. (Le Figaro, Ouest-France)", "ts": "2026-07-15T04:15:05+00:00"}
+{"decision": "publie", "empreinte": "6026eaa5ee199482", "post_id": "2077245557341581631", "carte": true, "texte": "⚽ L'Espagne se qualifie pour la finale de la Coupe du monde 2026. Pedro Porro a marqué contre la France lors de la demi-finale. Les Espagnols affronteront soit l'Angleterre, soit l'Argentine en finale. (France 24)", "ts": "2026-07-15T04:15:09+00:00"}
