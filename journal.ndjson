@@ -1204,3 +1204,50 @@
 {"decision": "controle", "evt": "ba5a3c1876c8520b", "motif": "ok_sim_0.38+alerte_retrogradee", "ts": "2026-07-16T04:24:00+00:00"}
 {"decision": "publie", "empreinte": "ed36c7ef4dd2a161", "post_id": "2077610176694153422", "carte": true, "texte": "L'Argentine se qualifie pour la finale de la Coupe du monde 2026 en battant l'Angleterre 2-1. Lionel Messi a délivré deux passes décisives. Les Argentins affronteront l'Espagne le 19 juillet au MetLife Stadium à New York.", "ts": "2026-07-16T04:24:01+00:00"}
 {"decision": "publie", "empreinte": "cb6216f49507f097", "post_id": "2077610193307758756", "carte": true, "texte": "⚡ FLASH — Un incendie ravage la forêt de Fontainebleau près de Paris. Fixé le 16 juillet mais non éteint, les pompiers combattent toujours les reprises. Deux jeunes de 18 ans ont reconnu avoir déclenché le feu. Macron s'est rendu sur place.", "ts": "2026-07-16T04:24:05+00:00"}
+{"decision": "abandon_attente", "evt": "fa8b2d9c32b584ef", "categorie": "sport", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "1714db7894964ce1", "categorie": "meteo_catastrophe", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "ee479a6e700f0625", "categorie": "politique", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "d33eaaf9bdfa7a27", "categorie": "international", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "2dcd789f49db0a0b", "categorie": "meteo_catastrophe", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "44c552dd12e24dba", "categorie": "meteo_catastrophe", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "35531140a30024f8", "categorie": "justice", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "c092016e58339be1", "categorie": "international", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "72e08266f5655f63", "categorie": "politique", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "9d0745f15b6a07b5", "categorie": "politique", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "f1f78c448b55a22f", "categorie": "justice", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "6256f6f0152e836c", "categorie": "international", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "e75f14f946a86bec", "categorie": "faits_divers", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "a52267260dfaa205", "categorie": "international", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "66db9527ffe1a464", "categorie": "politique", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "fcb9c2740e0d9961", "categorie": "justice", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "abandon_attente", "evt": "041d6531e6c10a57", "categorie": "international", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "doublon_evenement", "evt": "43cf924c69d4fa53", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "doublon_evenement", "evt": "ba5a3c1876c8520b", "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "228ed7dc32678e51", "score": 99, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["franceinfo", "France 24"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "618599905bcf274b", "score": 87, "categorie": "politique", "sensible": false, "confiance": 93, "sources": ["franceinfo"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "c5cb9bf290983a42", "score": 86, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "ad87c5d3a2a89803", "score": 86, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "ddb4cbe36e3ef5e8", "score": 89, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "f0e2f0143ed4e73e", "score": 85, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "5f445df69ac316e3", "score": 84, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 90, "sources": ["Le Figaro"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "9eb23beaa155035b", "score": 84, "categorie": "sante", "sensible": false, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "attente", "evt": "e0a94c01dcceb695", "score": 82, "categorie": "sport", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "d8364e569153dd7e", "score": 99, "categorie": "sport", "sensible": false, "confiance": 93, "sources": ["Le Figaro", "France 24"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "b6c13a07a9453f69", "score": 85, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "attente", "evt": "b3ebaa93a8ff40ad", "score": 83, "categorie": "international", "sensible": true, "confiance": 82, "sources": ["France 24"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "168b26d4fdc50c0b", "score": 89, "categorie": "politique", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "attente", "evt": "13b1c3ab2d97f9f4", "score": 83, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "attente", "evt": "628ceea0fd8fd24f", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "5cad3e86b0c34090", "score": 82, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "a5369772b6d23cda", "score": 80, "categorie": "politique", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "108c03955bf2ead9", "score": 80, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "attente", "evt": "5f5f03dcade125e0", "score": 79, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "attente", "evt": "e59586631e2d31aa", "score": 79, "categorie": "politique", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "publier", "evt": "09f2f2eb54144020", "score": 79, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "attente", "evt": "2cec257c5a9a0ff6", "score": 77, "categorie": "international", "sensible": true, "confiance": 78, "sources": ["RFI"], "ts": "2026-07-16T07:06:36+00:00"}
+{"decision": "controle", "evt": "228ed7dc32678e51", "motif": "similarite_0.60", "ts": "2026-07-16T07:06:42+00:00"}
+{"decision": "controle", "evt": "d8364e569153dd7e", "motif": "ok_sim_0.50", "ts": "2026-07-16T07:06:48+00:00"}
+{"decision": "controle", "evt": "ddb4cbe36e3ef5e8", "motif": "similarite_0.59", "ts": "2026-07-16T07:06:52+00:00"}
+{"decision": "controle", "evt": "168b26d4fdc50c0b", "motif": "ok_sim_0.22", "ts": "2026-07-16T07:06:58+00:00"}
+{"decision": "publie", "empreinte": "96b7e9805972cb62", "post_id": "2077651191056539946", "carte": true, "texte": "⚽ L'Argentine se qualifie pour une deuxième finale consécutive de Coupe du monde en éliminant l'Angleterre en demi-finales. Lionel Messi a été décisif dans cette victoire. « C'est fou de jouer deux finales de suite », déclare l'attaquant argentin. (Le Figaro, France 24)", "ts": "2026-07-16T07:06:59+00:00"}
+{"decision": "publie", "empreinte": "a4d93bcb41050a43", "post_id": "2077651207699546197", "carte": true, "texte": "Le Parlement français a adopté définitivement le texte sur la fin de vie. La loi sur l'aide à mourir ne s'appliquera pas avant début 2027, des décrets et recommandations sanitaires étant nécessaires au préalable. Ces dernières sont attendues pour fin 2026. (franceinfo)", "ts": "2026-07-16T07:07:03+00:00"}
