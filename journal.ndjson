@@ -1685,3 +1685,44 @@
 {"decision": "controle", "evt": "748e789b7704ccaf", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": false}", "ts": "2026-07-16T22:43:26+00:00"}
 {"decision": "controle", "evt": "58c2929660df56ca", "motif": "controle_refuse:{\"faits_exacts\": false, \"invention\": \"Nogent-sur-Marne (la fiche indique Nogent en Haute-Marne, pas Nogent-sur-Marne qui", "ts": "2026-07-16T22:43:32+00:00"}
 {"decision": "publie", "empreinte": "b6882b0900da98e2", "post_id": "2077886883233706429", "carte": true, "texte": "⚖️ Disparue en 2020, l'infirmière Delphine Jubillar a été retrouvée à Cagnac-les-Mines (Tarn). Son mari Cédric Jubillar, principal suspect, a avoué le meurtre dans une lettre à ses avocats et a conduit les enquêteurs au lieu de dissimulation du corps. (franceinfo, Le Figaro)", "ts": "2026-07-16T22:43:33+00:00"}
+{"decision": "abandon_attente", "evt": "480d232999ec1ab8", "categorie": "justice", "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "abandon_attente", "evt": "1d38a74532c69911", "categorie": "justice", "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "abandon_attente", "evt": "2706e73757393ce2", "categorie": "politique", "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "abandon_attente", "evt": "c035462aed34b449", "categorie": "economie", "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "abandon_attente", "evt": "dcea83e1ab5e4845", "categorie": "meteo_catastrophe", "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "abandon_attente", "evt": "18eb3a645deb9bb2", "categorie": "international", "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "9fb848674da6357c", "score": 87, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "f69800af7706deea", "score": 79, "categorie": "politique", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "f7e0aa1422c439a8", "score": 77, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "339cd87ecff75058", "score": 74, "categorie": "culture", "sensible": false, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "c106a5c27b36bca0", "score": 82, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "f584ba8e690138a1", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "5dd1b2f55d8348bf", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "014e7f63ed831224", "score": 96, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["franceinfo", "BFMTV"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "a6ddff49ecfb9451", "score": 96, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["franceinfo", "Ouest-France"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "f7b933a26496f971", "score": 95, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["franceinfo", "BFMTV"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "ba2b09d5c68f83c6", "score": 95, "categorie": "international", "sensible": false, "confiance": 90, "sources": ["France 24", "RFI"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "f92803720fef621a", "score": 94, "categorie": "justice", "sensible": true, "confiance": 87, "sources": ["Le Figaro", "Ouest-France", "20 Minutes", "BFMTV"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "56b3f57ad68cb493", "score": 92, "categorie": "sport", "sensible": false, "confiance": 83, "sources": ["20 Minutes", "L'Équipe"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "7d35a410a83637c3", "score": 92, "categorie": "justice", "sensible": true, "confiance": 86, "sources": ["Ouest-France", "BFMTV"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "3341041514bfde50", "score": 88, "categorie": "sport", "sensible": false, "confiance": 93, "sources": ["France 24"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "707db39e9b17a28f", "score": 87, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "8daf4729760418f1", "score": 86, "categorie": "politique", "sensible": true, "confiance": 92, "sources": ["Le Figaro"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "323b044105c37b89", "score": 86, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "4fec014f80f4f586", "score": 84, "categorie": "economie", "sensible": false, "confiance": 87, "sources": ["RFI"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "53d10b4f628144e8", "score": 83, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["20 Minutes"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "50b51c4b4d3d27cb", "score": 83, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "6148ab15313962c7", "score": 83, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "40a218683452cf8c", "score": 82, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "12e5ccca88f43ee9", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "013acaa03746fd63", "score": 82, "categorie": "justice", "sensible": true, "confiance": 75, "sources": ["franceinfo"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "437237485a243a01", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "508290a5ac504b4b", "score": 82, "categorie": "economie", "sensible": false, "confiance": 90, "sources": ["20 Minutes"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "34ef09cb5204f032", "score": 82, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "ae91167d672e3c83", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "attente", "evt": "9501d71209272690", "score": 80, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "publier", "evt": "f60794057f054271", "score": 80, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["Le Figaro"], "ts": "2026-07-16T23:43:27+00:00"}
+{"decision": "controle", "evt": "014e7f63ed831224", "motif": "ok_sim_0.00", "ts": "2026-07-16T23:43:32+00:00"}
+{"decision": "controle", "evt": "a6ddff49ecfb9451", "motif": "ok_sim_0.13", "ts": "2026-07-16T23:43:37+00:00"}
+{"decision": "publie", "empreinte": "ec546fdb656b9ebc", "post_id": "2077902007248302251", "carte": true, "texte": "⚡ FLASH — Une salve orageuse affecte la France jeudi soir du centre au Grand-Est. Huit départements en vigilance orange. Une tornade observée près de Saint-Étienne. Les orages, débutés dans les Landes, peuvent être intenses. (franceinfo, BFMTV)", "ts": "2026-07-16T23:43:39+00:00"}
+{"decision": "publie", "empreinte": "7701a03c270e9cf9", "post_id": "2077902023920603589", "carte": true, "texte": "Un incendie ravage la région de Saragosse en Aragon. Le feu a consumé 7 600 hectares et compte parmi les plus graves de ces dernières années. Cinq villes évacuées. Aucune victime signalée. (franceinfo, Ouest-France)", "ts": "2026-07-16T23:43:42+00:00"}

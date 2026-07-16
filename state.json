@@ -522,7 +522,9 @@
    "3e76779a-8124-11f1-9708-734d52a072cd",
    "c374a4d2-813b-11f1-b881-7d73eb1711b7",
    "0ae21002-8132-11f1-8c63-4bab7b0c19c7",
-   "44cfd960-8138-11f1-90b4-c5f319ad9514"
+   "44cfd960-8138-11f1-90b4-c5f319ad9514",
+   "882b3d00-8159-11f1-ac5c-cf7c83649bc4",
+   "ea9351fa-8157-11f1-83a7-ffddeb2b2c7f"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -615,7 +617,8 @@
    "f31888cc-8143-11f1-9f36-f7fd154e08aa",
    "f1697966-8150-11f1-985a-a5d30a9a4f90",
    "f30d69d0-8155-11f1-9c7e-a5d30a9a4f90",
-   "6e31a4ba-8155-11f1-82a7-a5d30a9a4f90"
+   "6e31a4ba-8155-11f1-82a7-a5d30a9a4f90",
+   "35abffe2-8163-11f1-88fb-6d057b234032"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -726,7 +729,9 @@
    "https://www.ouest-france.fr/sport/football/d3-feminine/football-les-groupes-de-d3f-devoiles-avec-un-groupe-a-tres-a-louest-ce065f42-8151-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/argentine-angleterre-suspension-amende-que-risque-lalbiceleste-apres-le-deploiement-dune-banderole-politique-ceb461ba-813c-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/police/le-maire-dales-recoit-chez-lui-deux-balles-de-9-mm-signees-dz-mafia-a57715dc-815e-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/football-les-groupes-des-championnats-u17-u19-u19f-nationaux-pour-la-saison-2026-2027-dd7cfae0-815a-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/football/football-les-groupes-des-championnats-u17-u19-u19f-nationaux-pour-la-saison-2026-2027-dd7cfae0-815a-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/pedocriminalite/protection-des-mineurs-les-deputes-votent-pour-etendre-les-controles-dhonorabilite-a72a2ee2-816c-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendies-a-fontainebleau-deux-ouvriers-dune-societe-de-travaux-mis-en-examen-0505e2e0-812c-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -780,7 +785,8 @@
    "https://www.20minutes.fr/justice/4234911-20260716-maine-loire-maire-condamne-detention-images-pedopornographiques?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sante/4234904-20260716-claude-halmos-psychanalyste-mediatique-specialiste-enfants-morte-80-ans?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/faits_divers/4234915-20260716-affaire-jubillar-ossements-acte-abominable-soulagement-retour-journee-decisive?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/sport/football/4234916-20260717-direct-coupe-monde-2026-trump-finale-milei-yamine-lamal-blesse-suivez-nuit?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/sport/football/4234916-20260717-direct-coupe-monde-2026-trump-finale-milei-yamine-lamal-blesse-suivez-nuit?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/arts-stars/culture/4234917-20260717-tapisserie-bayeux-londres-uvre-subi-aucune-alteration-visible-pendant-transfert?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -871,145 +877,19 @@
    "https://www.lequipe.fr/Football/Actualites/Thomas-tuchel-aurait-demande-a-ses-remplacants-de-jouer-plus-haut-lors-de-la-demi-finale-perdue-par-l-angleterre-a-la-coupe-du-monde/1704957",
    "https://www.lequipe.fr/Football/Actualites/Pour-giannis-antetokounmpo-lionel-messi-est-l-un-des-plus-grands-sportifs-de-tous-les-temps/1704954",
    "https://www.lequipe.fr/Football/Actualites/La-fumee-des-feux-de-foret-reporte-la-premiere-de-robert-lewandowski-avec-le-chicago-fire-pour-la-reprise-de-la-mls/1704952",
-   "https://www.lequipe.fr/Football/Article/Quelques-accrochages-beaucoup-de-tension-mais-peu-de-fautes-dans-cette-coupe-du-monde-l-argentine-est-elle-une-equipe-violente/1704837"
+   "https://www.lequipe.fr/Football/Article/Quelques-accrochages-beaucoup-de-tension-mais-peu-de-fautes-dans-cette-coupe-du-monde-l-argentine-est-elle-une-equipe-violente/1704837",
+   "https://www.lequipe.fr/Football/Article/L-autre-remontada-de-lionel-messi-avec-sa-coupe-du-monde-stratospherique-la-star-de-l-argentine-s-est-replacee-dans-la-course-au-ballon-d-or/1704769",
+   "https://www.lequipe.fr/Football/Actualites/Fabian-ruiz-dans-le-cercle-tres-ferme-des-joueurs-ayant-gagne-la-ligue-des-champions-et-la-coupe-du-monde-la-meme-annee/1704838",
+   "https://www.lequipe.fr/Football/Article/Jurgen-sparwasser-buteur-du-match-des-deux-allemagnes-a-la-coupe-du-monde-1974-je-ne-me-suis-pas-laisse-utiliser/1703441",
+   "https://www.lequipe.fr/Football/Actualites/L-ivoirien-et-ancien-nicois-jean-michael-seri-prend-sa-retraite-internationale/1704942",
+   "https://www.lequipe.fr/Football/Article/La-sortie-d-adrien-rabiot-et-le-maintien-d-aurelien-tchouameni-lors-de-la-demi-finale-de-la-coupe-du-monde-font-parler-dans-le-vestiaire/1704930",
+   "https://www.lequipe.fr/Football/Article/Michael-olise-l-obsession-real-madrid/1704934",
+   "https://www.lequipe.fr/Football/Actualites/Le-gardien-du-cap-vert-vozinha-s-exprime-sur-sa-notoriete-nouvelle-a-l-issue-de-la-coupe-du-monde-pour-moi-c-est-aussi-un-peu-complique/1704933",
+   "https://www.lequipe.fr/Football/Article/-ayyoub-devrait-rester-une-saison-de-plus-avec-nous-le-president-du-losc-olivier-letang-evoque-l-avenir-d-ayyoub-bouaddi-convoite-par-arsenal-et-manchester-city/1704808"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Une salve orageuse affecte la France du centre du pays au Grand-Est jeudi soir, puis du Massif Central aux Alpes en nuit de jeudi à vendredi",
-    "Huit départements sont en vigilance orange",
-    "17 départements sont en alerte orange canicule",
-    "Une tornade a été observée près de Saint-Étienne",
-    "Les orages ont débuté dans les Landes et les Pyrénées-Atlantiques",
-    "Les orages peuvent être intenses par endroits",
-    "Une ligne orageuse doit se former du Limousin à l'Auvergne et jusqu'aux Alpes"
-   ],
-   "qui": "Météo France",
-   "ou": "France (centre, Grand-Est, Massif Central, Alpes, Saint-Étienne, Loire)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo",
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "014e7f63ed831224",
-   "score": 96,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-16T22:43:32.006310+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie ravage la région de Saragosse en Aragon, en Espagne",
-    "7 600 hectares ont été brûlés",
-    "Il s'agit de l'un des feux de forêt les plus graves et complexes que l'Aragon ait connus depuis des années",
-    "L'incendie mettra des jours à être maîtrisé",
-    "Cinq villes ont dû être évacuées",
-    "Aucune victime n'est à signaler pour le moment"
-   ],
-   "qui": "Autorités régionales d'Aragon",
-   "ou": "Région de Saragosse, Aragon, Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "a6ddff49ecfb9451",
-   "score": 96,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-16T21:41:06.775039+00:00"
-  },
-  {
-   "faits": [
-    "Des ossements ont été retrouvés lors de fouilles à une quinzaine de kilomètres de Cagnac-les-Mines dans le Tarn",
-    "Cédric Jubillar, condamné à 30 ans de prison en 2025 pour le meurtre de son épouse Delphine, a reconnu être à l'origine de la mort de sa femme selon son avocat",
-    "Des fémurs ont été retrouvés parmi les ossements découverts",
-    "Le procès en appel de Cédric Jubillar initialement prévu le 21 septembre 2026 ne pourra probablement pas se tenir dans les délais prévus",
-    "L'avocate d'une amie de Delphine Aussaguel qualifie cette découverte comme le démarrage d'une deuxième affaire"
-   ],
-   "qui": "Cédric Jubillar",
-   "ou": "Cagnac-les-Mines, Tarn",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo",
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Identité formelle des ossements retrouvés",
-    "Lien exact entre les ossements découverts et Delphine Jubillar"
-   ],
-   "importance": 78,
-   "empreinte": "f7b933a26496f971",
-   "score": 95,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-16T22:43:32.006320+00:00"
-  },
-  {
-   "faits": [
-    "14 accords de coopération sont signés le 16 juillet entre les gouvernements français et marocain",
-    "La rencontre a lieu entre le Premier ministre français Sébastien Lecornu et le Premier ministre marocain Aziz Akhannouch",
-    "Lecornu est accompagné d'une délégation de 12 membres de son gouvernement",
-    "C'est le premier format de réunion de haut niveau depuis sept ans",
-    "Selon Lecornu, un partenariat pourrait déboucher sur une visite de Mohamed VI en France et la signature d'un « traité d'amitié »",
-    "Cette visite intervient alors que plusieurs médias français révèlent que le Maroc aurait espionné des citoyens et dirigeants français via le logiciel Pegasus"
-   ],
-   "qui": "Sébastien Lecornu, Aziz Akhannouch",
-   "ou": "Rabat, Maroc",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [
-    "visite de Mohamed VI en France",
-    "signature d'un « traité d'amitié »"
-   ],
-   "importance": 76,
-   "empreinte": "ba2b09d5c68f83c6",
-   "score": 95,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-16T17:57:17.263635+00:00"
-  },
-  {
-   "faits": [
-    "Trente-deux accusés ont été condamnés jeudi 16 juillet à des peines de prison ferme pour leur rôle dans l'effondrement du pont Morandi en 2018",
-    "Les peines vont jusqu'à 12 ans de prison ferme",
-    "Le procès a duré quatre ans avec 283 audiences au tribunal de Gênes",
-    "L'effondrement du pont Morandi a fait 43 morts"
-   ],
-   "qui": "32 accusés (noms non spécifiés)",
-   "ou": "Gênes, Italie",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "480d232999ec1ab8",
-   "score": 95,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-16T16:46:26.195632+00:00"
-  },
   {
    "faits": [
     "Des ossements ont été découverts dans une zone agricole du Tarn à Cagnac-les-Mines",
@@ -1093,32 +973,6 @@
   },
   {
    "faits": [
-    "Des ossements ont été retrouvés jeudi 16 juillet dans le Tarn",
-    "L'emplacement a été désigné par Cédric Jubillar",
-    "Cette découverte intervient dix jours après les aveux de Cédric Jubillar",
-    "Cédric Jubillar a reconnu être à l'origine de la mort de son épouse Delphine",
-    "Delphine Jubillar a disparu fin 2020"
-   ],
-   "qui": "Cédric Jubillar, Delphine Jubillar",
-   "ou": "Tarn, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "identification formelle des ossements"
-   ],
-   "importance": 85,
-   "empreinte": "1d38a74532c69911",
-   "score": 89,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-16T16:46:26.195636+00:00"
-  },
-  {
-   "faits": [
     "La finale de la Coupe du monde 2026 oppose l'Espagne et l'Argentine",
     "La finale se tiendra dimanche 19 juillet à New York",
     "Lionel Messi joue pour l'Argentine",
@@ -1142,26 +996,29 @@
   },
   {
    "faits": [
-    "Bernard Cazeneuve présente sa candidature pour la présidentielle 2027",
-    "Cette candidature est annoncée dans une lettre aux Français",
-    "Cazeneuve regrette que les agendas personnels de François Hollande et Raphaël Glucksmann n'aient pas permis de constituer un pôle de stabilité",
-    "Cazeneuve est un ancien premier ministre"
+    "L'Argentine a battu l'Angleterre en demi-finale de la Coupe du monde 2026",
+    "L'Argentine était menée jusqu'à cinq minutes de la fin du temps réglementaire",
+    "Lionel Messi a été double passeur décisif dans ce match",
+    "L'Argentine affrontera l'Espagne en finale de la Coupe du monde 2026",
+    "C'est la première fois que l'Argentine et l'Espagne s'affrontent en finale de Coupe du monde",
+    "L'Espagne est championne d'Europe",
+    "L'Argentine est tenante du titre"
    ],
-   "qui": "Bernard Cazeneuve",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
+   "qui": "Argentine, Espagne, Lionel Messi",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
    "sources": [
-    "Le Figaro"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 82,
-   "empreinte": "2706e73757393ce2",
+   "importance": 95,
+   "empreinte": "9fb848674da6357c",
    "score": 87,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-16T16:46:26.194319+00:00"
+   "depuis": "2026-07-16T23:43:37.919544+00:00"
   },
   {
    "faits": [
@@ -1234,50 +1091,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-16T19:32:06.002156+00:00"
-  },
-  {
-   "faits": [
-    "Le régulateur de l'énergie propose une hausse de 2,5% des tarifs réglementés de l'électricité",
-    "Cette hausse est prévue pour le 1er août 2026",
-    "Cela correspondrait à une augmentation nette d'environ 26 euros par an en moyenne pour les foyers concernés"
-   ],
-   "qui": "Régulateur de l'énergie français",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "c035462aed34b449",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-16T16:46:26.195640+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie a ravagé un orphelinat en Algérie près de la banlieue d'Alger",
-    "Onze corps calcinés ont été retrouvés",
-    "Plusieurs enfants sont parmi les victimes"
-   ],
-   "qui": null,
-   "ou": "Algérie, banlieue d'Alger",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "dcea83e1ab5e4845",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-16T16:46:26.194488+00:00"
   },
   {
    "faits": [
@@ -1370,31 +1183,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-16T17:57:17.263650+00:00"
-  },
-  {
-   "faits": [
-    "Les États-Unis vont limiter la durée des séjours des journalistes et étudiants étrangers",
-    "Les ressortissants étrangers détenteurs d'un visa étudiant ne seront pas autorisés à rester plus de quatre ans sur le territoire américain",
-    "Ces nouvelles règles sont prévues pour entrer en vigueur dans deux mois environ",
-    "Le Congrès peut potentiellement bloquer ces règles"
-   ],
-   "qui": "Gouvernement des États-Unis",
-   "ou": "États-Unis",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "blocage éventuel au Congrès"
-   ],
-   "importance": 65,
-   "empreinte": "18eb3a645deb9bb2",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-16T16:46:26.195646+00:00"
   },
   {
    "faits": [
@@ -1493,6 +1281,29 @@
   },
   {
    "faits": [
+    "Macky Sall est attendu à Dakar le 17 juillet 2026",
+    "Il s'agit de sa première visite au Sénégal depuis qu'il a quitté le pouvoir en avril 2024",
+    "Macky Sall cherche le soutien de Bassirou Diomaye Faye et du Sénégal pour sa candidature au poste de secrétaire général de l'ONU",
+    "Bassirou Diomaye Faye est le successeur de Macky Sall à la présidence du Sénégal"
+   ],
+   "qui": "Macky Sall, Bassirou Diomaye Faye",
+   "ou": "Dakar, Sénégal",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "c106a5c27b36bca0",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T23:43:37.919557+00:00"
+  },
+  {
+   "faits": [
     "Le gouvernement français a validé une augmentation des tarifs de l'électricité de 2,5 % au 1er août",
     "Cette mesure représentera environ 26 euros supplémentaires par an pour un foyer"
    ],
@@ -1586,6 +1397,30 @@
   },
   {
    "faits": [
+    "Jean Michaël Seri a annoncé sa retraite internationale le 16 juillet 2026",
+    "Il quitte après 11 ans de carrière internationale avec la Côte d'Ivoire",
+    "Il a remporté la Coupe d'Afrique des nations 2024 avec les Éléphants",
+    "Il a disputé la Coupe du monde 2026",
+    "Il est un ancien joueur de l'OGC Nice"
+   ],
+   "qui": "Jean Michaël Seri",
+   "ou": "Côte d'Ivoire",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "f584ba8e690138a1",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T23:43:37.919564+00:00"
+  },
+  {
+   "faits": [
     "Donald Trump doit s'adresser aux Américains dans la nuit de jeudi à vendredi lors d'une allocution",
     "L'allocution est consacrée notamment aux failles présumées du système électoral",
     "Trump promet des révélations sur les ingérences chinoises, les machines à voter et l'élection de 2020"
@@ -1607,17 +1442,101 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-16T22:43:32.006350+00:00"
+  },
+  {
+   "faits": [
+    "L'Assemblée nationale a adopté une mesure du projet de loi sur la protection de l'enfance le 16 juillet 2026",
+    "Cette mesure prévoit un contrôle de l'honorabilité pour toute personne exerçant une activité auprès d'enfants ou de personnes vulnérables",
+    "Cette disposition doit encore être débattue au Sénat",
+    "Le gouvernement avait promis cette mesure en réaction aux scandales dans le secteur périscolaire"
+   ],
+   "qui": "Assemblée nationale, gouvernement français",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "f69800af7706deea",
+   "score": 79,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T23:43:27.829097+00:00"
+  },
+  {
+   "faits": [
+    "Deux ouvriers d'une société de travaux ont été mis en examen le 16 juillet 2026",
+    "Ils sont poursuivis pour destruction involontaire par incendie par manquement à une obligation de sécurité ou de prudence",
+    "Ils sont impliqués dans le déclenchement du premier incendie en forêt de Fontainebleau"
+   ],
+   "qui": "Deux ouvriers d'une société de travaux",
+   "ou": "Fontainebleau",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "f7e0aa1422c439a8",
+   "score": 77,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T23:43:27.829128+00:00"
+  },
+  {
+   "faits": [
+    "Vozinha, gardien du Cap-Vert, a connu une notoriété nouvelle suite à la Coupe du monde 2026",
+    "Il s'est exprimé jeudi à ce sujet",
+    "Il admet que cette nouvelle notoriété n'est pas toujours facile à gérer"
+   ],
+   "qui": "Vozinha",
+   "ou": "Cap-Vert",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "5dd1b2f55d8348bf",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T23:43:37.919570+00:00"
+  },
+  {
+   "faits": [
+    "La tapisserie de Bayeux a été transférée au British Museum de Londres",
+    "Elle a été déployée jeudi au British Museum",
+    "La tapisserie ne présente aucune altération visible après son transport",
+    "Un examen plus détaillé doit encore être réalisé"
+   ],
+   "qui": "British Museum",
+   "ou": "Londres, Bayeux",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "résultats de l'examen détaillé"
+   ],
+   "importance": 70,
+   "empreinte": "339cd87ecff75058",
+   "score": 74,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T23:43:27.829156+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "7eb98202a7ac3d34",
-   "2026-07-14T23:29:04.268900+00:00"
-  ],
-  [
-   "ddc244d140bca975",
-   "2026-07-14T23:29:08.245632+00:00"
-  ],
   [
    "269f3a4cae514038",
    "2026-07-15T00:56:34.127802+00:00"
@@ -1685,17 +1604,17 @@
   [
    "b6882b0900da98e2",
    "2026-07-16T22:43:33.190564+00:00"
+  ],
+  [
+   "ec546fdb656b9ebc",
+   "2026-07-16T23:43:39.016433+00:00"
+  ],
+  [
+   "7701a03c270e9cf9",
+   "2026-07-16T23:43:42.999724+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "dc35ca00ea819136",
-   "2026-07-14T23:28:56.137860+00:00"
-  ],
-  [
-   "4d8feb22302fcacd",
-   "2026-07-14T23:29:02.093039+00:00"
-  ],
   [
    "80ee92b9d09d5956",
    "2026-07-15T00:56:28.646540+00:00"
@@ -1763,15 +1682,25 @@
   [
    "69afaac9c1ecf87d",
    "2026-07-16T22:43:15.925258+00:00"
+  ],
+  [
+   "014e7f63ed831224",
+   "2026-07-16T23:43:32.839082+00:00"
+  ],
+  [
+   "a6ddff49ecfb9451",
+   "2026-07-16T23:43:37.919520+00:00"
   ]
  ],
  "depeches_du_jour": [
-  "⚖️ Disparue en 2020, l'infirmière Delphine Jubillar a été retrouvée à Cagnac-les-Mines (Tarn). Son mari Cédric Jubillar, principal suspect, a avoué le meurtre dans une lettre à ses avocats et a conduit les enquêteurs au lieu de dissimulation du corps. (franceinfo, Le Figaro)"
+  "⚖️ Disparue en 2020, l'infirmière Delphine Jubillar a été retrouvée à Cagnac-les-Mines (Tarn). Son mari Cédric Jubillar, principal suspect, a avoué le meurtre dans une lettre à ses avocats et a conduit les enquêteurs au lieu de dissimulation du corps. (franceinfo, Le Figaro)",
+  "⚡ FLASH — Une salve orageuse affecte la France jeudi soir du centre au Grand-Est. Huit départements en vigilance orange. Une tornade observée près de Saint-Étienne. Les orages, débutés dans les Landes, peuvent être intenses. (franceinfo, BFMTV)",
+  "Un incendie ravage la région de Saragosse en Aragon. Le feu a consumé 7 600 hectares et compte parmi les plus graves de ces dernières années. Cinq villes évacuées. Aucune victime signalée. (franceinfo, Ouest-France)"
  ],
  "recap_date": "2026-07-16",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-17",
-  "publies": 1
+  "publies": 3
  }
 }
