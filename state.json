@@ -134,7 +134,10 @@
    "https://www.franceinfo.fr/tour-de-france/videos/video-tour-de-france-2026-le-resume-de-la-12e-etape-mouvementee-qui-a-mene-a-la-troisieme-victoire-de-tim-merlier_8110631.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/usa/les-etats-unis-vont-limiter-la-duree-des-sejours-des-journalistes-et-etudiants-etrangers_8110547.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/elections/presidentielle/si-je-peux-etre-utile-je-le-serai-bernard-cazeneuve-s-adresse-aux-francais-mais-maintient-le-suspense-sur-une-candidature-a-la-presidentielle-2027_8110241.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/des-signalements-qui-visaient-jerome-barella-jamais-parvenus-a-la-justice-en-raison-d-un-dysfonctionnement-informatique-pointe-le-deuxieme-pre-rapport-apres-l-affaire-lyhanna_8110613.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/des-signalements-qui-visaient-jerome-barella-jamais-parvenus-a-la-justice-en-raison-d-un-dysfonctionnement-informatique-pointe-le-deuxieme-pre-rapport-apres-l-affaire-lyhanna_8110613.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-crois-que-je-ne-realise-pas-le-choc-a-cagnac-les-mines-apres-la-decouverte-des-ossements_8110784.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/affaire-cedric-jubillar-des-temoignages-au-c-ur-de-l-enquete_8110763.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/meurtre-d-une-surveillante-par-un-collegien-en-haute-marne/meurtre-d-une-surveillante-a-nogent-un-collegien-de-15-ans-condamne-a-18-ans-de-reclusion-criminelle_8110745.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -333,7 +336,12 @@
    "https://www.lefigaro.fr/elections/presidentielles/il-faut-se-mefier-des-gens-qui-ne-veulent-pas-y-aller-l-hypothese-lecornu-recours-du-bloc-central-20260716",
    "https://www.lefigaro.fr/politique/guillaume-tabard-presidentielle-2027-un-trop-plein-de-candidats-qui-trahit-la-faiblesse-de-l-offre-20260716",
    "https://www.lefigaro.fr/faits-divers/un-collegien-condamne-a-18-ans-de-reclusion-pour-le-meurtre-d-une-surveillante-en-haute-marne-20260716",
-   "https://www.lefigaro.fr/meteo/26-departements-en-vigilance-orange-orages-des-fortes-pluies-et-des-rafales-jusqu-a-130-km-h-decouvrez-la-meteo-du-vendredi-17-juillet-20260716"
+   "https://www.lefigaro.fr/meteo/26-departements-en-vigilance-orange-orages-des-fortes-pluies-et-des-rafales-jusqu-a-130-km-h-decouvrez-la-meteo-du-vendredi-17-juillet-20260716",
+   "https://www.lefigaro.fr/actualite-france/fin-de-vie-ce-que-contiennent-les-saisines-au-conseil-constitutionnel-20260716",
+   "https://www.lefigaro.fr/actualite-france/loi-fin-de-vie-au-conseil-constitutionnel-une-course-contre-la-montre-et-des-soupcons-de-parti-pris-20260716",
+   "https://www.lefigaro.fr/actualite-france/fin-de-vie-les-membres-du-conseil-constitutionnel-qui-se-sont-prononces-en-faveur-de-l-euthanasie-et-du-suicide-assiste-doivent-ils-se-recuser-20260716",
+   "https://www.lefigaro.fr/faits-divers/ensevelissement-rudimentaire-ossements-eparpilles-ce-que-revelent-les-fouilles-pour-retrouver-le-corps-de-delphine-jubillar-20260716",
+   "https://www.lefigaro.fr/conjoncture/les-orages-perturbent-les-aeroports-parisiens-20-des-vols-supprimes-a-orly-ce-jeudi-soir-20260716"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -501,7 +509,8 @@
    "19c9acdc-8124-11f1-865a-6939abb0c9d6",
    "3e76779a-8124-11f1-9708-734d52a072cd",
    "c374a4d2-813b-11f1-b881-7d73eb1711b7",
-   "0ae21002-8132-11f1-8c63-4bab7b0c19c7"
+   "0ae21002-8132-11f1-8c63-4bab7b0c19c7",
+   "44cfd960-8138-11f1-90b4-c5f319ad9514"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -588,7 +597,10 @@
    "4ef57fae-8100-11f1-9b6e-6937b7331399",
    "8f337ffc-8101-11f1-beb5-6937b7331399",
    "c04c3a90-80eb-11f1-b68a-dd5865de8b9a",
-   "e9fbce60-8103-11f1-a6ed-3b320ade56d6"
+   "e9fbce60-8103-11f1-a6ed-3b320ade56d6",
+   "e2f57746-8140-11f1-87a5-2da9af0349ed",
+   "7bc0a956-8140-11f1-82d5-2da9af0349ed",
+   "f31888cc-8143-11f1-9f36-f7fd154e08aa"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -676,7 +688,15 @@
    "https://www.ouest-france.fr/politique/bernard-cazeneuve/presidentielle-2027-bernard-cazeneuve-presente-sa-candidature-mais-ne-participera-pas-a-la-primaire-socialiste-6272ffbc-8131-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/justice/le-collegien-accuse-davoir-tue-une-surveillante-en-haute-marne-est-condamne-a-18-ans-de-reclusion-df763a30-812a-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-16/cheminees-strates-bombes-volcaniques-en-france-ce-volcan-mis-a-nu-par-une-carriere-se-visite-de-l-interieur-66d7d29d-0b7b-4aef-8265-d16e98888b6d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-une-opportunite-magnifique-les-premiers-mots-de-davide-ancelotti-fils-de-carlo-nouvel-entraineur-du-losc-f4b8cf52-8139-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-une-opportunite-magnifique-les-premiers-mots-de-davide-ancelotti-fils-de-carlo-nouvel-entraineur-du-losc-f4b8cf52-8139-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-16/comment-les-ruines-vertigineuses-de-ce-village-francais-racontent-la-chute-d-une-cite-autrefois-puissante-5cb3235f-1ad7-4f75-b8da-6bc31e3bcbf9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-les-etats-unis-annoncent-une-nouvelle-salve-de-frappes-en-iran-caafe170-8146-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-16/voici-l-histoire-de-la-plus-grande-pirate-au-monde-qui-a-fait-trembler-les-flottes-europeennes-et-son-propre-pays-b08f3a7e-5e0a-45f5-a627-a10df8d829a0?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-mohamed-ouahbi-confirme-sur-le-banc-du-maroc-21e370f8-8145-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/meteo/orage/ca-a-souffle-tellement-fort-quun-arbre-sest-couche-sur-ma-cloture-son-assurance-refuse-de-lindemniser-d1f656fe-8122-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-16/michael-olise-et-miro-mbappe-en-napoleon-ce-compte-instagram-relie-les-plus-belles-actions-sportives-aux-oeuvres-d-art-a28abf67-9d4f-4760-b371-fe49e3071c43?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-superstitieux-javier-milei-nira-pas-assister-a-la-finale-argentine-espagne-0ec2930e-8141-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/prison/pourquoi-ne-peut-on-pas-les-extraire-de-prison-des-detenus-plus-rares-sur-les-bancs-du-tribunal-de-saint-nazaire-6589fb92-805a-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -798,6 +818,31 @@
  "evenements_attente": [
   {
    "faits": [
+    "Delphine Jubillar, infirmière de 33 ans disparue en 2020, a été retrouvée",
+    "Cédric Jubillar, principal suspect, a avoué le meurtre dans une lettre à ses avocats",
+    "Cédric Jubillar a conduit les enquêteurs au lieu de dissimulation du corps",
+    "Les ossements ont été découverts à Cagnac-les-Mines (Tarn)",
+    "Le corps avait été enseveli de manière rudimentaire avec ossements éparpillés"
+   ],
+   "qui": "Delphine Jubillar (victime), Cédric Jubillar (suspect)",
+   "ou": "Cagnac-les-Mines (Tarn)",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "69afaac9c1ecf87d",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-16T19:32:06.002134+00:00"
+  },
+  {
+   "faits": [
     "Bernard Cazeneuve publie un texte de 86 pages sur son site internet détaillant ses pistes pour redresser le pays",
     "Cazeneuve déclare « Si je peux être utile, je le serai »",
     "Cazeneuve appelle à un « large rassemblement » « au-delà des périmètres des primaires étriquées »",
@@ -876,59 +921,6 @@
   },
   {
    "faits": [
-    "Cédric Jubillar a avoué avoir tué sa femme Delphine Aussaguel en 2020",
-    "Dix jours après son aveu, Cédric Jubillar a indiqué aux enquêteurs l'emplacement du corps",
-    "Des ossements ont été découverts à cet emplacement le 16 juillet 2026",
-    "Le lieu se trouve non loin du village de Cagnac-les-Mines où Delphine a été vue pour la dernière fois fin 2020"
-   ],
-   "qui": "Cédric Jubillar; Delphine Aussaguel (épouse disparue)",
-   "ou": "Cagnac-les-Mines, Tarn",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "France 24"
-   ],
-   "non_confirme": [
-    "identification formelle des ossements"
-   ],
-   "importance": 78,
-   "empreinte": "d1862a54a959e7ec",
-   "score": 98,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-16T12:57:24.785506+00:00"
-  },
-  {
-   "faits": [
-    "Environ 11 000 feux ont été enregistrés en France à mi-juillet 2026",
-    "Environ 35 000 hectares ont été brûlés",
-    "La surface brûlée à mi-juillet a déjà dépassé le total de la saison passée",
-    "Une cinquantaine de départements figurent sur la liste des bois et forêts classés à risque d'incendie",
-    "Des départements non-méditerranéens sont affectés, dont les Côtes-d'Armor et la Seine-et-Marne",
-    "La forêt de Fontainebleau a connu un des pires incendies de son histoire",
-    "Emmanuel Macron déclare que la France n'a jamais été confrontée à autant d'épisodes de feu depuis la fin de la Seconde Guerre mondiale"
-   ],
-   "qui": null,
-   "ou": "France; Fontainebleau; Côtes-d'Armor; Seine-et-Marne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 87,
-   "empreinte": "1ed8b203bccab199",
-   "score": 98,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-16T12:57:24.785508+00:00"
-  },
-  {
-   "faits": [
     "Un collégien est condamné à 18 ans de réclusion pour le meurtre d'une surveillante",
     "La victime, Mélanie, 31 ans, assistante d'éducation, a été tuée de coups de couteau le 10 juin 2025",
     "Le meurtre a eu lieu devant le collège Françoise-Dolto de Nogent en Haute-Marne",
@@ -951,35 +943,6 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-16T17:57:17.263632+00:00"
-  },
-  {
-   "faits": [
-    "Volodymyr Zelensky a annoncé un remaniement gouvernemental",
-    "Le ministre de la Défense Mykhaïlo Fedorov quitte ses fonctions après six mois en poste",
-    "La Première ministre Ioulia Svyrydenko a également démissionné",
-    "Des manifestations se sont déroulées à Kiev et plusieurs villes d'Ukraine contre le départ de Fedorov",
-    "Des journalistes réputés proches du pouvoir ont rejoint les manifestations",
-    "Le colonel Pavlo Elizarov, numéro deux de l'armée de l'air, a démissionné en protestation",
-    "Mykhaïlo Fedorov a dénoncé un différend avec le commandant de l'armée General Syrsky",
-    "Serguiï Koretsky, chef du groupe énergétique Naftogaz, a été nommé Premier ministre avec 289 voix sur 318 au Parlement"
-   ],
-   "qui": "Volodymyr Zelensky; Mykhaïlo Fedorov; Ioulia Svyrydenko; Colonel Pavlo Elizarov; Serguiï Koretsky; General Syrsky",
-   "ou": "Ukraine; Kiev",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "37c8aace13dbfdf1",
-   "score": 96,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-16T12:57:24.785509+00:00"
   },
   {
    "faits": [
@@ -1087,6 +1050,29 @@
   },
   {
    "faits": [
+    "La finale de la Coupe du monde 2026 oppose l'Espagne et l'Argentine",
+    "La finale se tiendra dimanche 19 juillet à New York",
+    "Lionel Messi joue pour l'Argentine",
+    "L'Espagne cherche à remporter sa deuxième étoile mondiale"
+   ],
+   "qui": "Espagne, Argentine, Lionel Messi",
+   "ou": "New York",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 93,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "3341041514bfde50",
+   "score": 88,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T19:32:06.002151+00:00"
+  },
+  {
+   "faits": [
     "Bernard Cazeneuve présente sa candidature pour la présidentielle 2027",
     "Cette candidature est annoncée dans une lettre aux Français",
     "Cazeneuve regrette que les agendas personnels de François Hollande et Raphaël Glucksmann n'aient pas permis de constituer un pôle de stabilité",
@@ -1156,30 +1142,30 @@
   },
   {
    "faits": [
-    "Emmanuel Macron répond aux critiques du RN et de LFI sur les commandes de Canadair",
-    "Le gouvernement Gabriel Attal aurait annulé en 2024 plus de 50 millions d'euros de crédits de la sécurité civile",
-    "Cela aurait contraint l'Etat à renoncer à deux Canadair supplémentaires",
-    "Macron assure avoir relancé la production de Canadair depuis 2017",
-    "Cette relance s'est faite en mobilisant d'autres pays européens et en mettant six pays ensemble"
+    "Une saisine du Conseil constitutionnel a été déposée par Gérard Larcher",
+    "60 députés et 60 sénateurs vont déposer des saisines",
+    "Les saisines pointent le manque de garanties sur le consentement libre et éclairé",
+    "Les saisines portent sur la protection des personnes vulnérables",
+    "Trois membres du Conseil constitutionnel s'étaient déjà prononcés en faveur de l'aide à mourir",
+    "Des questions se posent sur la récusation de ces trois membres"
    ],
-   "qui": "Emmanuel Macron; RN; LFI; Gabriel Attal",
-   "ou": "France",
+   "qui": "Gérard Larcher, 60 députés, 60 sénateurs, Conseil constitutionnel",
+   "ou": null,
    "categorie": "politique",
-   "sensible": false,
-   "confiance": 78,
+   "sensible": true,
+   "confiance": 92,
    "sources": [
-    "Le Figaro",
-    "France 24"
+    "Le Figaro"
    ],
    "non_confirme": [
-    "circonstances exactes de l'annulation des crédits en 2024"
+    "Dépôt des saisines par 60 députés et 60 sénateurs (décrit comme 'bientôt')"
    ],
-   "importance": 62,
-   "empreinte": "33ee3e42455144d1",
-   "score": 87,
+   "importance": 75,
+   "empreinte": "8daf4729760418f1",
+   "score": 86,
    "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-16T12:57:24.785518+00:00"
+   "nb_sources": 1,
+   "depuis": "2026-07-16T19:32:06.000767+00:00"
   },
   {
    "faits": [
@@ -1202,6 +1188,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-16T15:11:23.810459+00:00"
+  },
+  {
+   "faits": [
+    "Mélanie Grapinet, assistante d'éducation de 31 ans, a été mortellement blessée à l'arme blanche le 10 juin 2025",
+    "Le crime a eu lieu devant un collège à Nogent",
+    "Un adolescent de 15 ans a été condamné à 18 ans de réclusion criminelle"
+   ],
+   "qui": "Mélanie Grapinet (victime), adolescent de 15 ans (condamné)",
+   "ou": "Nogent",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "323b044105c37b89",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T19:32:06.002156+00:00"
   },
   {
    "faits": [
@@ -1272,28 +1280,6 @@
   },
   {
    "faits": [
-    "L'Assemblée nationale a voté pour rendre imprescriptibles les crimes commis sur les mineurs",
-    "Cette imprescriptibilité était jusqu'à présent réservée aux crimes contre l'humanité",
-    "Le vote s'est déroulé lors de l'examen du projet de loi sur la protection des enfants"
-   ],
-   "qui": "Assemblée nationale",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 71,
-   "empreinte": "8ea44c1b7a95ac39",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-16T12:57:24.784454+00:00"
-  },
-  {
-   "faits": [
     "Washington annonce que certains produits brésiliens seront taxés à 25% à compter du 22 juillet",
     "Cet épisode relance la guerre commerciale entre les États-Unis et le Brésil",
     "La plupart des précédentes surtaxes douanières imposées par les États-Unis ont été annulées en février par la Cour suprême",
@@ -1315,6 +1301,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-16T17:57:17.263648+00:00"
+  },
+  {
+   "faits": [
+    "Mykhaïlo Fedorov, ministre de la Défense ukrainien, a été limogé le 15 juillet 2026",
+    "Volodymyr Zelensky a annoncé un remaniement gouvernemental complet",
+    "Des milliers de personnes ont manifesté contre ce renvoi le 16 juillet",
+    "Fedorov est très populaire en Ukraine"
+   ],
+   "qui": "Volodymyr Zelensky, Mykhaïlo Fedorov",
+   "ou": "Ukraine",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "50b51c4b4d3d27cb",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T19:32:06.000982+00:00"
   },
   {
    "faits": [
