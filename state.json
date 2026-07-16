@@ -245,7 +245,10 @@
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-portee-par-son-eternel-messi-l-argentine-renverse-l-angleterre-et-defiera-l-espagne-en-finale-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/angleterre-argentine-centre-de-rogers-gordon-conclue-l-ouverture-du-score-des-anglais-en-video-20260715",
    "https://www.lefigaro.fr/secteur/high-tech/allah-nous-a-aides-l-ia-nous-aidera-aussi-l-intelligence-artificielle-nouvelle-obsession-des-groupes-terroristes-20260715",
-   "https://www.lefigaro.fr/international/l-armee-americaine-annonce-qu-elle-va-desormais-mesurer-le-taux-de-testosterone-de-ses-soldats-20260715"
+   "https://www.lefigaro.fr/international/l-armee-americaine-annonce-qu-elle-va-desormais-mesurer-le-taux-de-testosterone-de-ses-soldats-20260715",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-c-est-facile-de-dire-que-mes-decisions-etaient-les-mauvaises-assure-tuchel-apres-l-elimination-anglaise-face-a-l-argentine-20260716",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/angleterre-argentine-messi-eternel-la-porte-pour-tuchel-les-tops-et-les-flops-de-la-demi-finale-20260716",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/au-coeur-du-mondial-espagne-angleterre-la-loi-du-plus-fort-20260716"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -370,7 +373,11 @@
    "0232c44c-808d-11f1-8307-d9bde5df6ee0",
    "fe947e18-8080-11f1-a82a-55a92e4b8138",
    "fbc90268-8093-11f1-9884-597803de63eb",
-   "4c75ea8c-808a-11f1-a30a-0ddb5d36c064"
+   "4c75ea8c-808a-11f1-a30a-0ddb5d36c064",
+   "83a4c99e-80ab-11f1-beed-1b46822264cd",
+   "9aae1aa6-8096-11f1-96d1-79dce49c5562",
+   "c276b23a-8098-11f1-a628-0dc7afa07adf",
+   "b972b454-8098-11f1-96fe-597803de63eb"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -438,7 +445,8 @@
    "39281f2a-8069-11f1-8bc1-1dd3a32f23a0",
    "cf3014c0-808f-11f1-bfb2-7fba828116a9",
    "ef6721ea-808d-11f1-b08f-7fba828116a9",
-   "5322e8de-8086-11f1-aa71-410918c23dcc"
+   "5322e8de-8086-11f1-aa71-410918c23dcc",
+   "0ca7cd48-80a9-11f1-b109-a1c831ecdb1d"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -617,129 +625,17 @@
    "https://www.lequipe.fr/Football/Actualites/Lionel-messi-va-devenir-le-deuxieme-joueur-a-disputer-trois-finales-de-coupe-du-monde-apres-cafu/1704686",
    "https://www.lequipe.fr/Football/Actualites/Une-banderole-les-iles-malouines-sont-argentines-deployee-par-giovanni-lo-celso-et-ses-coequipiers-apres-leur-victoire-contre-l-angleterre-a-la-coupe-du-monde/1704685",
    "https://www.lequipe.fr/Football/Actualites/Les-argentins-envahissent-la-rue-dauphine-apres-la-qualification-pour-la-finale-de-la-coupe-du-monde/1704684",
-   "https://www.lequipe.fr/Football/Actualites/Les-chiffres-de-la-faillite-de-l-angleterre-apres-l-ouverture-du-score-en-demies-de-coupe-du-monde/1704682"
+   "https://www.lequipe.fr/Football/Actualites/Les-chiffres-de-la-faillite-de-l-angleterre-apres-l-ouverture-du-score-en-demies-de-coupe-du-monde/1704682",
+   "https://www.lequipe.fr/Football/Video/Coupe-du-monde-2026-lionel-scaloni-ils-jouent-comme-s-ils-avaient-sept-ou-huit-ans/20237711",
+   "https://www.lequipe.fr/Football/Video/Coupe-du-monde-2026-lautaro-martinez-apres-la-qualification-de-l-argentine-en-finale-du-mondial-cette-equipe-continue-de-montrer-de-quel-bois-elle-est-fait/20237709",
+   "https://www.lequipe.fr/Football/Article/Double-passeur-decisif-dans-les-dernieres-minutes-face-a-l-angleterre-lionel-messi-assure-aussi-le-service/1704679",
+   "https://www.lequipe.fr/Football/Video/Bordeaux-johan-micoud-une-chute-annoncee-depuis-que-lopez-a-repris-le-club/20237702",
+   "https://www.lequipe.fr/Football/Actualites/Lautaro-martinez-auteur-du-but-de-la-victoire-lors-d-angleterre-argentine-ils-ont-arrete-de-presser-apres-leur-but/1704674",
+   "https://www.lequipe.fr/Football/Article/Les-notes-d-angleterre-argentine-enzo-fernandez-puissant-harry-kane-inexistant/1704670"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Soren Waerenskjold (Uno-X, Norvège) a remporté l'étape 11 du Tour de France au sprint",
-    "La victoire a eu lieu mercredi 15 juillet 2026 à Nevers",
-    "Il s'agit de la première victoire de Waerenskjold au Tour de France",
-    "L'étape est la plus rapide de l'histoire du Tour avec une moyenne de 50,91 km/h",
-    "Olav Kooij (Pays-Bas) est arrivé deuxième, Milan Fretin (Belgique) troisième"
-   ],
-   "qui": "Soren Waerenskjold",
-   "ou": "Nevers, France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "e562d82b7cfdb554",
-   "score": 97,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-15T17:37:17.597295+00:00"
-  },
-  {
-   "faits": [
-    "L'Angleterre et l'Argentine s'affrontent en demi-finale de la Coupe du monde 2026 le 15 juillet à 21h",
-    "Les deux équipes ont dû passer par la prolongation pour se qualifier",
-    "La France a été éliminée mardi soir contre l'Espagne",
-    "Lionel Messi, 39 ans, capitaine de l'Argentine, dispute cette demi-finale",
-    "Jude Bellingham joue pour l'Angleterre"
-   ],
-   "qui": "Angleterre, Argentine, Lionel Messi, Jude Bellingham",
-   "ou": "Atlanta",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "f1abc8def2a7e0d7",
-   "score": 96,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-15T18:44:35.068286+00:00"
-  },
-  {
-   "faits": [
-    "Le Parlement a définitivement adopté la proposition de loi créant un droit à l'aide à mourir",
-    "Vote de 291 voix pour et 241 contre lors du 4e et dernier vote à l'Assemblée",
-    "Le texte encadre un droit à l'aide à mourir en France, soumis à de nombreuses conditions"
-   ],
-   "qui": "Parlement français, députés",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "20 Minutes",
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 88,
-   "empreinte": "ac935c574c4cad13",
-   "score": 95,
-   "fiab_max": 75,
-   "nb_sources": 2,
-   "depuis": "2026-07-15T23:36:06.379420+00:00"
-  },
-  {
-   "faits": [
-    "Deux incendies ont ravagé la forêt de Fontainebleau",
-    "Les incendies ont parcouru plus de 2 000 hectares",
-    "Les incendies sont fixés mais pas encore éteints",
-    "Emmanuel Macron se rendra à Fontainebleau le 16 juillet 2026"
-   ],
-   "qui": "Emmanuel Macron",
-   "ou": "Fontainebleau, Île-de-France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "be43a141b84af164",
-   "score": 89,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-15T19:57:54.035218+00:00"
-  },
-  {
-   "faits": [
-    "Bilan des violences sexuelles sur mineurs dressé par le ministre de l'Intérieur Gérald Darmanin",
-    "69 626 dossiers de crimes et délits de nature sexuelle ont été revus",
-    "85 047 plaintes ont été recensées par les procureurs"
-   ],
-   "qui": "Gérald Darmanin",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "b26c22387f5d1591",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-15T17:37:17.597305+00:00"
-  },
   {
    "faits": [
     "L'Argentine a battu l'Angleterre en demi-finale de Coupe du monde 2026",
@@ -813,98 +709,6 @@
   },
   {
    "faits": [
-    "Projet de loi Ripost sur la sécurité du quotidien adopté en première lecture à l'Assemblée",
-    "366 députés ont voté en faveur mercredi 15 juillet 2026",
-    "Le texte porte sur le protoxyde d'azote, les rodéos urbains et les free parties",
-    "Le texte doit faire l'objet d'une commission mixte paritaire"
-   ],
-   "qui": "Assemblée nationale",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "14c16abc33256164",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-15T17:37:17.597310+00:00"
-  },
-  {
-   "faits": [
-    "Huit pourvois en cassation déposés dans l'affaire des assistants d'eurodéputés FN",
-    "Marine Le Pen, Julien Odoul et le député de l'Yonne sont concernés"
-   ],
-   "qui": "Marine Le Pen, Julien Odoul, Rassemblement national",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "9053cf2bc87db7b9",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-15T17:37:17.597311+00:00"
-  },
-  {
-   "faits": [
-    "Jérôme Barella, 41 ans, a été mis en examen pour le meurtre et le viol de Lyhanna",
-    "Il s'agit d'une collégienne disparue fin mai",
-    "Barella est un intérimaire",
-    "Il a été interpellé le lendemain de la disparition",
-    "Il était entendu mercredi 15 juillet par un juge d'instruction à Agen"
-   ],
-   "qui": "Jérôme Barella",
-   "ou": "Agen",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "282b4487394c2e7c",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-15T18:44:35.066898+00:00"
-  },
-  {
-   "faits": [
-    "Tensions diplomatiques Iran-États-Unis",
-    "Une banderole représentant Donald Trump dans un cercueil a été installée à Téhéran",
-    "Washington a lancé de nouvelles frappes contre l'Iran",
-    "Washington a rétabli son blocus des ports iraniens",
-    "Téhéran maintient la fermeture du détroit d'Ormuz"
-   ],
-   "qui": "Iran, États-Unis, Donald Trump",
-   "ou": "Téhéran, Iran, détroit d'Ormuz",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "d5509122734e6dc4",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-15T17:37:17.596387+00:00"
-  },
-  {
-   "faits": [
     "Le ministre de la Défense ukrainien Mykhaïlo Fedorov a démissionné",
     "Le président ukrainien a débuté un remaniement gouvernemental pour engager un changement de stratégie politique",
     "Fedorov a été l'un des premiers avocats de l'utilisation croissante des drones sur le front"
@@ -949,25 +753,53 @@
   },
   {
    "faits": [
-    "La présidente de la Commission européenne Ursula von der Leyen a annoncé un partenariat entre l'UE et l'Ukraine",
-    "Ce partenariat vise à renforcer la production commune de drones",
-    "L'annonce a été faite à Kiev le 15 juillet 2026"
+    "Bombardements américains contre des installations iraniennes en cours",
+    "L'Iran riposte en ciblant des installations américaines dans la région",
+    "Les États-Unis ont tiré sur un pétrolier qui tentait de forcer le blocus",
+    "Le détroit d'Ormuz reste paralysé",
+    "Les frappes se poursuivent dans la nuit"
    ],
-   "qui": "Union européenne, Ukraine, Ursula von der Leyen",
-   "ou": "Kiev",
+   "qui": [
+    "États-Unis",
+    "Iran"
+   ],
+   "ou": "Détroit d'Ormuz / Côtes iraniennes",
    "categorie": "international",
-   "sensible": false,
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "d33eaaf9bdfa7a27",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T01:06:00.511524+00:00"
+  },
+  {
+   "faits": [
+    "Feux de forêt actifs dans le nord-ouest de l'Ontario au Canada",
+    "125 ordres d'évacuation ont été émis par la police",
+    "La majorité des évacuations concernent des communautés autochtones",
+    "Les feux sont aggravés par les vents violents et la sécheresse"
+   ],
+   "qui": null,
+   "ou": "Ontario (nord-ouest), Canada",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
    "confiance": 85,
    "sources": [
     "France 24"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "1326654bfb44e63b",
-   "score": 82,
+   "importance": 65,
+   "empreinte": "2dcd789f49db0a0b",
+   "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-15T18:44:35.068310+00:00"
+   "depuis": "2026-07-16T01:06:00.511577+00:00"
   },
   {
    "faits": [
@@ -1034,6 +866,34 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-15T23:35:57.823440+00:00"
+  },
+  {
+   "faits": [
+    "Le Premier ministre français Sébastien Lecornu est arrivé au Maroc mercredi soir",
+    "Visite de deux jours prévue au Maroc",
+    "Objectif : sceller un nouveau traité bilatéral France-Maroc",
+    "Une délégation de 12 membres du gouvernement français accompagne le Premier ministre",
+    "Une réunion de haut niveau avec l'exécutif marocain est prévue"
+   ],
+   "qui": [
+    "Sébastien Lecornu",
+    "Gouvernement français",
+    "Gouvernement marocain"
+   ],
+   "ou": "Maroc (Rabat)",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "72e08266f5655f63",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-16T01:06:08.745440+00:00"
   },
   {
    "faits": [
@@ -1367,6 +1227,14 @@
   [
    "07c3352e00285225",
    "2026-07-15T23:36:11.590422+00:00"
+  ],
+  [
+   "6e46e1866c0d920d",
+   "2026-07-16T01:06:09.787269+00:00"
+  ],
+  [
+   "99a83e111ddc40f6",
+   "2026-07-16T01:06:13.702950+00:00"
   ]
  ],
  "evenements_48h": [
@@ -1433,18 +1301,28 @@
   [
    "7b11a5c9c2529d92",
    "2026-07-15T23:36:06.379405+00:00"
+  ],
+  [
+   "066e4b1a6b150531",
+   "2026-07-16T01:06:05.112956+00:00"
+  ],
+  [
+   "ac935c574c4cad13",
+   "2026-07-16T01:06:08.745419+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚽ L'Argentine s'est qualifiée pour la finale de la Coupe du monde 2026 en battant l'Angleterre 2-1 en demi-finale à Atlanta. Lautaro Martinez a marqué le but décisif sur une passe de Lionel Messi. L'Argentine affrontera l'Espagne dimanche. (franceinfo)",
   "L'Assemblée nationale a adopté le 15 juillet une proposition de loi sur l'aide à mourir. Son auteur Olivier Falorni se réjouit du vote, tandis que Didier Sicard du Comité consultatif d'éthique exprime des réserves. (franceinfo, Ouest-France)",
   "⚽ L'Argentine se qualifie pour la finale de la Coupe du monde après sa victoire 2-1 contre l'Angleterre en demi-finales. Lionel Messi disputera sa troisième finale mondiale, rejoignant le Brésilien Cafu au palmarès. L'Espagne l'attend dimanche. (BFMTV, L'Équipe)",
-  "⚡ FLASH — Jérôme Barella a été mis en examen pour le meurtre de Lyhanna, collégienne de 11 ans retrouvée morte le 4 juin dans le Gers. Il encourt la perpétuité. (France 24, Ouest-France)"
+  "⚡ FLASH — Jérôme Barella a été mis en examen pour le meurtre de Lyhanna, collégienne de 11 ans retrouvée morte le 4 juin dans le Gers. Il encourt la perpétuité. (France 24, Ouest-France)",
+  "⚽ L'Argentine élimine l'Angleterre 2-1 en demi-finale de Coupe du monde 2026. Messi fournit deux passes décisives et se qualifie pour sa troisième finale mondiale. Lautaro Martinez inscrit le but décisif (85e). Finale le 19 juillet à New York contre l'Espagne. (Le Figaro)",
+  "🇫🇷 Le Parlement a définitivement adopté la proposition de loi créant un droit à l'aide à mourir en France. Lors du dernier vote à l'Assemblée, le texte a recueilli 291 voix pour et 241 contre. Ce droit sera soumis à de nombreuses conditions strictes. (20 Minutes, BFMTV)"
  ],
  "recap_date": "2026-07-15",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-16",
-  "publies": 4
+  "publies": 6
  }
 }

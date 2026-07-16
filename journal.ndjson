@@ -1124,3 +1124,42 @@
 {"decision": "controle", "evt": "7b11a5c9c2529d92", "motif": "ok_sim_0.00+alerte_retrogradee", "ts": "2026-07-15T23:36:06+00:00"}
 {"decision": "publie", "empreinte": "b357f12ab8bcae11", "post_id": "2077537725532520455", "carte": true, "texte": "⚽ L'Argentine se qualifie pour la finale de la Coupe du monde après sa victoire 2-1 contre l'Angleterre en demi-finales. Lionel Messi disputera sa troisième finale mondiale, rejoignant le Brésilien Cafu au palmarès. L'Espagne l'attend dimanche. (BFMTV, L'Équipe)", "ts": "2026-07-15T23:36:07+00:00"}
 {"decision": "publie", "empreinte": "07c3352e00285225", "post_id": "2077537742682980393", "carte": true, "texte": "⚡ FLASH — Jérôme Barella a été mis en examen pour le meurtre de Lyhanna, collégienne de 11 ans retrouvée morte le 4 juin dans le Gers. Il encourt la perpétuité. (France 24, Ouest-France)", "ts": "2026-07-15T23:36:11+00:00"}
+{"decision": "abandon_attente", "evt": "e562d82b7cfdb554", "categorie": "sport", "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "abandon_attente", "evt": "f1abc8def2a7e0d7", "categorie": "sport", "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "abandon_attente", "evt": "b26c22387f5d1591", "categorie": "justice", "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "abandon_attente", "evt": "14c16abc33256164", "categorie": "politique", "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "abandon_attente", "evt": "9053cf2bc87db7b9", "categorie": "justice", "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "abandon_attente", "evt": "282b4487394c2e7c", "categorie": "justice", "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "abandon_attente", "evt": "d5509122734e6dc4", "categorie": "international", "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "abandon_attente", "evt": "1326654bfb44e63b", "categorie": "international", "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "066e4b1a6b150531", "score": 100, "categorie": "sport", "sensible": false, "confiance": 95, "sources": ["Le Figaro", "France 24", "L'Équipe"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "8ff1ba7779c3760a", "score": 86, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["France 24"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "d33eaaf9bdfa7a27", "score": 81, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["France 24"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "2dcd789f49db0a0b", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "72e08266f5655f63", "score": 80, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "ac935c574c4cad13", "score": 95, "categorie": "politique", "sensible": true, "confiance": 92, "sources": ["20 Minutes", "BFMTV"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "be43a141b84af164", "score": 89, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "fa8b2d9c32b584ef", "score": 86, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "a6704ff4b65cb42d", "score": 85, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "1714db7894964ce1", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "ee479a6e700f0625", "score": 82, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "ee9c824d53ab528d", "score": 82, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "44c552dd12e24dba", "score": 81, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 90, "sources": ["BFMTV"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "35531140a30024f8", "score": 80, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["BFMTV"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "c092016e58339be1", "score": 80, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "9d0745f15b6a07b5", "score": 79, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "f1f78c448b55a22f", "score": 78, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "6256f6f0152e836c", "score": 78, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["France 24"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "e75f14f946a86bec", "score": 78, "categorie": "faits_divers", "sensible": true, "confiance": 85, "sources": ["20 Minutes"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "3675ca6043e5402b", "score": 78, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "0cb69a263e93544e", "score": 78, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["20 Minutes"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "a52267260dfaa205", "score": 78, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "4e999293cb9a4201", "score": 77, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "5f25714f2f861dae", "score": 77, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "66db9527ffe1a464", "score": 77, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["BFMTV"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "publier", "evt": "fcb9c2740e0d9961", "score": 77, "categorie": "justice", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "attente", "evt": "041d6531e6c10a57", "score": 76, "categorie": "international", "sensible": true, "confiance": 70, "sources": ["Le Figaro"], "ts": "2026-07-16T01:06:00+00:00"}
+{"decision": "controle", "evt": "066e4b1a6b150531", "motif": "ok_sim_0.40", "ts": "2026-07-16T01:06:05+00:00"}
+{"decision": "controle", "evt": "ac935c574c4cad13", "motif": "ok_sim_0.00", "ts": "2026-07-16T01:06:08+00:00"}
+{"decision": "publie", "empreinte": "6e46e1866c0d920d", "post_id": "2077560384471580910", "carte": true, "texte": "⚽ L'Argentine élimine l'Angleterre 2-1 en demi-finale de Coupe du monde 2026. Messi fournit deux passes décisives et se qualifie pour sa troisième finale mondiale. Lautaro Martinez inscrit le but décisif (85e). Finale le 19 juillet à New York contre l'Espagne. (Le Figaro)", "ts": "2026-07-16T01:06:09+00:00"}
+{"decision": "publie", "empreinte": "99a83e111ddc40f6", "post_id": "2077560400863015033", "carte": true, "texte": "🇫🇷 Le Parlement a définitivement adopté la proposition de loi créant un droit à l'aide à mourir en France. Lors du dernier vote à l'Assemblée, le texte a recueilli 291 voix pour et 241 contre. Ce droit sera soumis à de nombreuses conditions strictes. (20 Minutes, BFMTV)", "ts": "2026-07-16T01:06:13+00:00"}
