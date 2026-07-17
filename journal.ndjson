@@ -2305,3 +2305,49 @@
 {"decision": "controle", "evt": "0c30f982966f13ab", "motif": "ok_sim_0.00+alerte_retrogradee", "ts": "2026-07-17T22:28:22+00:00"}
 {"decision": "publie", "empreinte": "3ad2640382b54b4d", "post_id": "2078245457554554887", "carte": true, "texte": "Une violente séquence orageuse a traversé plusieurs départements français avec plus de 20 000 éclairs en 24 heures. Elle a provoqué grêle, tornades et vents puissants. Le 17 juillet, 11 000 foyers restaient sans électricité. (franceinfo)", "ts": "2026-07-17T22:28:23+00:00"}
 {"decision": "publie", "empreinte": "7bbb0333f155388e", "post_id": "2078245474004578669", "carte": true, "texte": "⚡ FLASH — L'Iran a mené des attaques contre le Qatar, le Koweït et Bahreïn, visant la base aérienne américaine d'Al-Udeid et une centrale électrique. Les Gardiens de la révolution invoquent des bombardements américains en Iran. (France 24, RFI)", "ts": "2026-07-17T22:28:27+00:00"}
+{"decision": "abandon_attente", "evt": "42c1d02d571a1566", "categorie": "meteo_catastrophe", "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "abandon_attente", "evt": "8c9ea00bcc22f3bc", "categorie": "international", "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "abandon_attente", "evt": "7de26c6f358c892e", "categorie": "politique", "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "abandon_attente", "evt": "90a2e457bbe07f9e", "categorie": "deces_personnalite", "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "080abfd90c3e321f", "score": 85, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "attente", "evt": "b96d32fd545120d8", "score": 80, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "fa169b0079b21c7d", "score": 81, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "7fd1442b153dd5a0", "score": 75, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "attente", "evt": "b3d12c6c702a1fea", "score": 74, "categorie": "international", "sensible": true, "confiance": 70, "sources": ["20 Minutes"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "492716bc800bde9b", "score": 76, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["20 Minutes"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "attente", "evt": "e19af2dc642d4e6b", "score": 70, "categorie": "international", "sensible": true, "confiance": 65, "sources": ["BFMTV"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "103899c3fc0ee637", "score": 76, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "267ac686dc9a72c8", "score": 78, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "859c1e28a453d84a", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "attente", "evt": "250dd5f072c7c5dd", "score": 74, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["L'Équipe"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "f8bb8edf729a9f9a", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "e24c498813042b42", "score": 97, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["franceinfo", "Ouest-France", "BFMTV"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "79d71b60fd273253", "score": 97, "categorie": "politique", "sensible": false, "confiance": 92, "sources": ["20 Minutes", "France 24", "RFI", "franceinfo"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "b9e0193e9af4d830", "score": 97, "categorie": "sport", "sensible": false, "confiance": 93, "sources": ["RFI", "Ouest-France"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "90c4bfe49188ffc9", "score": 95, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["franceinfo", "Le Figaro"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "4ca49a5a21298cfc", "score": 94, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["L'Équipe", "Le Figaro"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "99a2a562354ee787", "score": 94, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 87, "sources": ["Le Figaro", "20 Minutes"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "c209cd53b2d863b4", "score": 93, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["Le Figaro", "Ouest-France", "20 Minutes"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "90f7028234d55a03", "score": 93, "categorie": "sante", "sensible": true, "confiance": 98, "sources": ["franceinfo"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "8d63eb253d7d52cb", "score": 90, "categorie": "politique", "sensible": true, "confiance": 92, "sources": ["franceinfo"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "446ea765d81478ea", "score": 89, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 95, "sources": ["franceinfo"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "323cdd4d5bf11464", "score": 88, "categorie": "politique", "sensible": false, "confiance": 92, "sources": ["France 24"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "a5ee06b2870b631d", "score": 87, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "1dc616769b002ff5", "score": 87, "categorie": "sport", "sensible": false, "confiance": 93, "sources": ["Ouest-France"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "199a5ba4faf50fd6", "score": 87, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "attente", "evt": "c8a360295a16e395", "score": 86, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "e390577ad9e46b64", "score": 86, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "59ea429ba4e1b50c", "score": 86, "categorie": "politique", "sensible": false, "confiance": 92, "sources": ["RFI"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "808d5c2125d837f4", "score": 85, "categorie": "politique", "sensible": false, "confiance": 92, "sources": ["RFI"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "7e522abcb4a1a1da", "score": 85, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "627f5270bb7e35ba", "score": 85, "categorie": "international", "sensible": false, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "3324992c6c9bf88e", "score": 85, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["Ouest-France"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "publier", "evt": "6fd7412b535fb833", "score": 81, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "attente", "evt": "5658dc89ed6bd44b", "score": 80, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "attente", "evt": "490b5060252c2b5e", "score": 77, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "attente", "evt": "35805da0f1ad8547", "score": 74, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "attente", "evt": "3a0e719c2768109b", "score": 74, "categorie": "sport", "sensible": false, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-17T23:30:35+00:00"}
+{"decision": "controle", "evt": "e24c498813042b42", "motif": "ok_sim_0.08+alerte_retrogradee", "ts": "2026-07-17T23:30:41+00:00"}
+{"decision": "controle", "evt": "79d71b60fd273253", "motif": "ok_sim_0.17", "ts": "2026-07-17T23:30:45+00:00"}
+{"decision": "publie", "empreinte": "260c2be88053f38c", "post_id": "2078261157530357961", "carte": true, "texte": "⚡ FLASH — Un double séisme a frappé le Venezuela le 24 juin 2026, faisant au moins 5 069 morts et 16 740 blessés selon les autorités. L'ONU avait estimé que le bilan pouvait atteindre 50 000 morts. (franceinfo)", "ts": "2026-07-17T23:30:47+00:00"}
+{"decision": "publie", "empreinte": "1978cee295169314", "post_id": "2078261174240440654", "carte": true, "texte": "Des milliers de personnes manifestent à Kiev contre l'éviction du ministre de la Défense Mykhaïlo Fedorov, décidée par le président Zelensky. Le ministre populaire affirme être en conflit avec le commandant en chef de l'armée. (franceinfo)", "ts": "2026-07-17T23:30:51+00:00"}

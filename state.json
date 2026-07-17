@@ -473,7 +473,9 @@
    "https://www.lefigaro.fr/flash-actu/donald-trump-s-emporte-contre-le-canada-pour-la-pollution-de-l-air-aux-etats-unis-causee-par-les-feux-de-foret-20260717",
    "https://www.lefigaro.fr/international/canada-plus-de-200-feux-hors-de-controle-situation-particulierement-critique-dans-l-ontario-20260717",
    "https://www.lefigaro.fr/flash-actu/venezuela-le-bilan-du-double-seisme-depasse-les-5000-morts-20260717",
-   "https://www.lefigaro.fr/flash-actu/norvege-un-incendie-detruit-plus-d-une-centaine-de-logements-20260717"
+   "https://www.lefigaro.fr/flash-actu/norvege-un-incendie-detruit-plus-d-une-centaine-de-logements-20260717",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-ne-pas-tomber-dans-la-provocation-rodri-se-mefie-du-comportement-de-l-albiceleste-20260718",
+   "https://www.lefigaro.fr/flash-actu/viols-filmes-en-milieu-libertin-cinq-hommes-supplementaires-mis-en-examen-19-au-total-20260717"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -689,7 +691,8 @@
    "84690d4c-8207-11f1-a50c-d754a57bdb4f",
    "a0f98fec-8219-11f1-b1d3-4b666086fb39",
    "0d4788ac-821f-11f1-9d9f-8d17914052f0",
-   "7abe4634-821d-11f1-aada-4b666086fb39"
+   "7abe4634-821d-11f1-aada-4b666086fb39",
+   "63982f38-8227-11f1-9eaf-4ba013b1d5db"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1018,7 +1021,10 @@
    "https://www.20minutes.fr/monde/ukraine/4235010-20260717-guerre-ukraine-remaniement-zelensky-inquiete-ue-russie-met-detracteurs?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4235100-20260717-etats-unis-trump-prend-canada-fumees-incendies-geants?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/4235098-20260717-perou-enquete-ouverte-apres-disparition-inquietante-boris-poyer-touriste-francais-30-ans?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/4234937-20260717-direct-affaire-jubillar-accuse-enferre-mensonge-fouilles-repris-tarn?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/4234937-20260717-direct-affaire-jubillar-accuse-enferre-mensonge-fouilles-repris-tarn?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/football/4235102-20260718-direct-coupe-monde-2026-der-deschamps-trump-blame-canada-pollution-air?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4234929-20260717-direct-guerre-moyen-orient-etats-unis-frappent-infrastructures-iran-koweit-qatar-cibles-drones?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235105-20260718-etats-unis-duree-sejours-etudiants-etrangers-journalistes-va-etre-reduite?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1085,7 +1091,8 @@
    "https://www.bfmtv.com/police-justice/video-cedric-jubillar-les-zones-d-ombre-dans-son-recit_VN-202607170743.html",
    "https://www.bfmtv.com/police-justice/direct-affaire-jubillar-les-fouilles-reprennent-ce-vendredi-matin-pres-de-cagnac-les-mines_LN-202607170262.html",
    "https://www.bfmtv.com/loto/retrouvez-les-resultats-du-tirage-de-l-euro-millions-du-vendredi-17-juillet-2026_AN-202607170551.html",
-   "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-koweit-qatar-riposte-iranienne-sur-des-bases-us-17-07_VN-202607170744.html"
+   "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-koweit-qatar-riposte-iranienne-sur-des-bases-us-17-07_VN-202607170744.html",
+   "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-cinq-explosions-entendues-dans-le-centre-de-l-iran-17-07_VN-202607170766.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -1131,145 +1138,20 @@
    "https://www.lequipe.fr/Football/Actualites/Le-gardien-du-cap-vert-vozinha-s-exprime-sur-sa-notoriete-nouvelle-a-l-issue-de-la-coupe-du-monde-pour-moi-c-est-aussi-un-peu-complique/1704933",
    "https://www.lequipe.fr/Football/Article/-ayyoub-devrait-rester-une-saison-de-plus-avec-nous-le-president-du-losc-olivier-letang-evoque-l-avenir-d-ayyoub-bouaddi-convoite-par-arsenal-et-manchester-city/1704808",
    "https://www.lequipe.fr/Football/Actualites/Gusto-konate-lacroix-zaire-emery-et-cherki-les-bleus-vers-une-equipe-a-moitie-remaniee-pour-la-petite-finale-de-la-coupe-du-monde-contre-l-angleterre/1705249",
-   "https://www.lequipe.fr/Football/Actualites/Deux-jours-avant-la-finale-de-la-coupe-du-monde-face-a-l-argentine-lamine-yamal-s-est-entraine-avec-l-espagne/1705243"
+   "https://www.lequipe.fr/Football/Actualites/Deux-jours-avant-la-finale-de-la-coupe-du-monde-face-a-l-argentine-lamine-yamal-s-est-entraine-avec-l-espagne/1705243",
+   "https://www.lequipe.fr/Football/Actualites/Quand-voir-les-matches-amicaux-des-clubs-de-ligue-1-le-programme-et-les-resultats-de-la-pre-saison-2026-2027/1702433",
+   "https://www.lequipe.fr/Football/Actualites/Mercato-passe-par-lens-et-rennes-benjamin-bourigeaud-quitte-al-duhail-mais-reste-au-qatar/1705255",
+   "https://www.lequipe.fr/Football/Article/Il-a-dure-il-a-lasse-mais-il-a-surtout-beaucoup-gagne-didier-deschamps-tire-sa-reverence-en-tant-que-plus-grand-selectionneur-de-l-equipe-de-france/1705216",
+   "https://www.lequipe.fr/Football/Actualites/Apres-le-refus-de-sa-demande-d-esta-joan-capdevila-champion-du-monde-en-2010-en-appelle-a-donald-trump-pour-pouvoir-assister-a-la-finale-espagne-argentine/1705242",
+   "https://www.lequipe.fr/Football/Article/Bixente-lizarazu-avant-la-petite-finale-des-bleus-ce-ne-sont-pas-les-jeux-olympiques-meme-vice-champion-du-monde-c-est-du-pipeau/1705102",
+   "https://www.lequipe.fr/Football/Actualites/Blesse-brice-samba-est-forfait-pour-le-france-angleterre-pour-la-3e-place-de-la-coupe-du-monde/1705239",
+   "https://www.lequipe.fr/Football/Actualites/Coupe-du-monde-declan-rice-et-reece-james-devraient-etre-menages-pour-france-angleterre/1705238",
+   "https://www.lequipe.fr/Football/Actualites/Avant-le-match-pour-la-troisieme-place-contre-l-angleterre-la-fin-de-coupe-du-monde-etrange-des-bleus/1705221",
+   "https://www.lequipe.fr/Football/Actualites/Apres-l-elimination-du-bresil-a-la-coupe-du-monde-neymar-est-bien-de-retour-a-santos/1705229"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Double séisme au Venezuela le 24 juin 2026",
-    "Bilan dépasse 5 000 morts selon les autorités vénézuéliennes",
-    "Au moins 5 069 décès confirmés au 17 juillet",
-    "16 740 blessés rapportés",
-    "L'ONU avait estimé le 26 juin que le bilan pouvait atteindre jusqu'à 50 000 morts"
-   ],
-   "qui": "Autorités vénézuéliennes, ONU",
-   "ou": "Venezuela",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo",
-    "Ouest-France",
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Nombre exact de disparus non évoqué par les autorités vénézuéliennes"
-   ],
-   "importance": 85,
-   "empreinte": "e24c498813042b42",
-   "score": 97,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-17T22:28:22.906002+00:00"
-  },
-  {
-   "faits": [
-    "Des milliers de personnes ont manifesté à Kiev contre l'éviction du ministre de la Défense Mykhaïlo Fedorov",
-    "Cette éviction a été décidée par le président Volodymyr Zelensky",
-    "Fedorov est populaire auprès de la population et apprécié des alliés occidentaux",
-    "Fedorov affirme être entré en conflit avec le commandant en chef de l'armée ukrainienne",
-    "Les manifestations continuent pour une deuxième journée"
-   ],
-   "qui": "Mykhaïlo Fedorov, Volodymyr Zelensky",
-   "ou": "Kiev, Ukraine",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "20 Minutes",
-    "France 24",
-    "RFI",
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "79d71b60fd273253",
-   "score": 97,
-   "fiab_max": 90,
-   "nb_sources": 4,
-   "depuis": "2026-07-17T21:27:17.790810+00:00"
-  },
-  {
-   "faits": [
-    "Mauro Schmid (Suisse, équipe Jayco-Alula) a remporté la 13e étape du Tour de France le 17 juillet",
-    "L'étape s'est déroulée à Belfort",
-    "Schmid a battu le Colombien Harold Tejada au sprint",
-    "Cette étape comprenait l'ascension du Ballon d'Alsace",
-    "Une échappée fleuve comptait jusqu'à 57 coureurs",
-    "Il s'agit du premier succès de Schmid sur la Grande Boucle"
-   ],
-   "qui": "Mauro Schmid, Harold Tejada, Tom Pidcock",
-   "ou": "Belfort, France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 93,
-   "sources": [
-    "RFI",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "b9e0193e9af4d830",
-   "score": 97,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-17T18:14:57.675296+00:00"
-  },
-  {
-   "faits": [
-    "Tremblement de terre de magnitude 7,3 frappe le sud du Mexique",
-    "Séisme à la frontière Mexique-Guatemala",
-    "Localisation : au large du Pacifique à 15 km de profondeur",
-    "Alerte tsunami déclenchée",
-    "Aucune victime signalée à ce stade",
-    "Réplique de magnitude 5,3"
-   ],
-   "qui": null,
-   "ou": "Sud du Mexique, frontière Guatemala",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "France 24"
-   ],
-   "non_confirme": [
-    "Absence de dégâts majeurs (formulation préliminaire)"
-   ],
-   "importance": 70,
-   "empreinte": "42c1d02d571a1566",
-   "score": 96,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-17T16:55:07.184243+00:00"
-  },
-  {
-   "faits": [
-    "Procès Athanor : condamnations à 25 ans et 30 ans de réclusion pour les têtes pensantes d'une officine criminelle",
-    "Cinq accusés ont été acquittés",
-    "Entre 2016 et 2020, un célèbre pilote automobile, une coach et un syndicaliste ont été ciblés par cette cellule criminelle",
-    "La cellule criminelle a été fomentée par deux 'frères' francs-maçons",
-    "Procès d'une durée de trois mois et demi"
-   ],
-   "qui": "Membres de l'officine criminelle Athanor",
-   "ou": "Hauts-de-Seine / cour d'assises spéciale",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "90c4bfe49188ffc9",
-   "score": 95,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-17T19:37:36.321514+00:00"
-  },
   {
    "faits": [
     "Didier Deschamps prévoit de faire tourner l'équipe de France pour la petite finale",
@@ -1502,29 +1384,6 @@
   },
   {
    "faits": [
-    "Mykhaïlo Fedorov, ministre de la Défense ukrainien, a quitté son poste",
-    "Conflit ouvert entre Fedorov et le commandant en chef Oleksandr Syrsky",
-    "Volodymyr Zelensky a tranché en faveur de Syrsky",
-    "Cette décision est contestée en Ukraine"
-   ],
-   "qui": "Mykhaïlo Fedorov, Oleksandr Syrsky, Volodymyr Zelensky",
-   "ou": "Ukraine",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "8c9ea00bcc22f3bc",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T16:55:07.184246+00:00"
-  },
-  {
-   "faits": [
     "Un haut responsable iranien menace d'une « offensive totale » si les frappes américaines se poursuivent",
     "De nouveaux bombardements sont en cours",
     "Bahreïn, le Koweït et le Qatar affirment avoir fait face à des attaques iraniennes vendredi 17 juillet",
@@ -1592,26 +1451,24 @@
   },
   {
    "faits": [
-    "Le Parlement israélien a adopté la loi sur le financement des partis en lecture finale",
-    "Le Parlement israélien a acté sa propre dissolution",
-    "Mandat de quatre ans a été complété",
-    "Législatives prévues en octobre 2026"
+    "Finale de la Coupe du monde 2026 entre l'Espagne et l'Argentine dimanche à New York",
+    "Rodri, capitaine de l'Espagne, appelle à ne pas tomber dans la provocation face à l'Argentine"
    ],
-   "qui": "Parlement israélien",
-   "ou": "Israël",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
+   "qui": "Rodri (Espagne), Argentine",
+   "ou": "New York",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
    "sources": [
-    "France 24"
+    "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "7de26c6f358c892e",
+   "importance": 85,
+   "empreinte": "080abfd90c3e321f",
    "score": 85,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-17T16:55:07.183336+00:00"
+   "depuis": "2026-07-17T23:30:45.984435+00:00"
   },
   {
    "faits": [
@@ -1703,26 +1560,26 @@
   },
   {
    "faits": [
-    "Brenda Fricker, actrice, est morte à 81 ans",
-    "Connue pour le rôle de la dame aux pigeons dans 'Maman, j'ai encore raté l'avion'",
-    "Oscarisée en 1990 pour son rôle dans 'My Left Foot'",
-    "Le Premier ministre irlandais Micheal Martin a exprimé sa tristesse"
+    "Macky Sall, ancien Président sénégalais, effectue une visite éclair au Sénégal",
+    "Il est candidat au poste de secrétaire général des Nations unies",
+    "Il a été reçu par le Président Diomaye Faye",
+    "Il sollicite le soutien du Sénégal pour sa candidature à l'ONU"
    ],
-   "qui": "Brenda Fricker",
-   "ou": "Irlande",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 90,
+   "qui": "Macky Sall, Diomaye Faye",
+   "ou": "Dakar, Sénégal",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
    "sources": [
-    "franceinfo"
+    "France 24"
    ],
    "non_confirme": [],
    "importance": 65,
-   "empreinte": "90a2e457bbe07f9e",
-   "score": 85,
-   "fiab_max": 90,
+   "empreinte": "fa169b0079b21c7d",
+   "score": 81,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-17T16:55:07.184255+00:00"
+   "depuis": "2026-07-17T23:30:45.984444+00:00"
   },
   {
    "faits": [
@@ -1744,6 +1601,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-17T22:28:22.906072+00:00"
+  },
+  {
+   "faits": [
+    "Cinq hommes supplémentaires mis en examen dans une affaire de viols filmés en milieu libertin",
+    "Total de 19 hommes en examen",
+    "L'affaire a débuté en 2023 avec une plainte d'une victime contre son ex-conjoint"
+   ],
+   "qui": null,
+   "ou": null,
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "b96d32fd545120d8",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T23:30:35.982771+00:00"
   },
   {
    "faits": [
@@ -1774,6 +1653,70 @@
   },
   {
    "faits": [
+    "Brice Samba, gardien des Bleus, est blessé à un mollet",
+    "Il est forfait pour le match France-Angleterre pour la 3e place",
+    "Le match est prévu samedi soir à 23 heures"
+   ],
+   "qui": "Brice Samba",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "859c1e28a453d84a",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T23:30:45.984447+00:00"
+  },
+  {
+   "faits": [
+    "Neymar est de retour à Santos après l'élimination du Brésil en huitièmes de finale contre la Norvège (1-2)"
+   ],
+   "qui": "Neymar, Brésil, Norvège",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "f8bb8edf729a9f9a",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T23:30:45.984449+00:00"
+  },
+  {
+   "faits": [
+    "Joan Capdevila, champion du monde en 2010, a eu sa demande d'ESTA refusée",
+    "Il ne peut pas assister à la finale Espagne-Argentine dimanche",
+    "Il a appeté à Donald Trump pour l'aider"
+   ],
+   "qui": "Joan Capdevila, Donald Trump",
+   "ou": "États-Unis",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "267ac686dc9a72c8",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T23:30:45.984451+00:00"
+  },
+  {
+   "faits": [
     "Affaire Jubillar : des ossements découverts près de Cagnac-les-Mines",
     "Les ossements ont été découverts dans un champ indiqué par Cédric Jubillar",
     "Les fouilles se terminent le 17 juillet 2026",
@@ -1800,51 +1743,93 @@
   },
   {
    "faits": [
-    "Pep Guardiola avait donné son accord à la Fédération anglaise pour devenir sélectionneur en vue de la Coupe du monde 2026",
-    "Pep Guardiola s'est rétracté après cet accord",
-    "Thomas Tuchel a été nommé sélectionneur de l'Angleterre malgré l'échec en demi-finale du Mondial face à l'Argentine",
-    "Thomas Tuchel devrait rester sur le banc anglais jusqu'à l'Euro 2028"
+    "Les États-Unis vont limiter la durée des visas des étudiants étrangers",
+    "Les États-Unis vont limiter la durée des visas des journalistes étrangers",
+    "Cette mesure a été annoncée jeudi par l'administration Trump",
+    "La mesure suscite de vives critiques des organisations de défense de la liberté de la presse"
    ],
-   "qui": "Pep Guardiola, Thomas Tuchel, Fédération anglaise de football",
-   "ou": null,
+   "qui": "Administration Trump, États-Unis",
+   "ou": "États-Unis",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "492716bc800bde9b",
+   "score": 76,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T23:30:45.984452+00:00"
+  },
+  {
+   "faits": [
+    "Benjamin Bourigeaud (32 ans) s'engage avec le club qatarien d'Al-Ahli pour trois saisons",
+    "Bourigeaud évoluait à Al-Duhail depuis 2024",
+    "Ancien joueur de Lens et de Rennes"
+   ],
+   "qui": "Benjamin Bourigeaud",
+   "ou": "Qatar",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 40,
+   "empreinte": "103899c3fc0ee637",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T23:30:45.984454+00:00"
+  },
+  {
+   "faits": [
+    "France affronte l'Angleterre dans la petite finale (pour la 3e place) de la Coupe du monde 2026",
+    "Match prévu samedi à 23 heures"
+   ],
+   "qui": "France, Angleterre",
+   "ou": "Miami",
    "categorie": "sport",
    "sensible": false,
    "confiance": 75,
    "sources": [
-    "Ouest-France"
+    "20 Minutes"
    ],
-   "non_confirme": [
-    "Raisons exactes de la rétractation de Guardiola"
-   ],
-   "importance": 60,
-   "empreinte": "35805da0f1ad8547",
-   "score": 74,
-   "fiab_max": 80,
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "7fd1442b153dd5a0",
+   "score": 75,
+   "fiab_max": 75,
    "nb_sources": 1,
-   "depuis": "2026-07-17T22:28:07.187759+00:00"
+   "depuis": "2026-07-17T23:30:45.984456+00:00"
   },
   {
    "faits": [
-    "L'Olympique de Marseille a remporté son premier match de préparation",
-    "Match disputé le 18 juillet en Côte d'Ivoire face au Yamoussoukro FC",
-    "Bruno Genesio fait ses débuts sur le banc marseillais",
-    "Marseille s'impose 3-0 à Abidjan"
+    "Tensions entre l'Iran et les États-Unis avec reprise des hostilités",
+    "L'Iran menace de passer à une offensive totale",
+    "Nouvelles frappes américaines en cours"
    ],
-   "qui": "Olympique de Marseille, Bruno Genesio, Yamoussoukro FC",
-   "ou": "Abidjan, Côte d'Ivoire",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 80,
+   "qui": "Iran, États-Unis",
+   "ou": "Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 70,
    "sources": [
-    "Ouest-France"
+    "20 Minutes"
    ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "3a0e719c2768109b",
+   "non_confirme": [
+    "nature exacte des frappes américaines mentionnées"
+   ],
+   "importance": 80,
+   "empreinte": "b3d12c6c702a1fea",
    "score": 74,
-   "fiab_max": 80,
+   "fiab_max": 75,
    "nb_sources": 1,
-   "depuis": "2026-07-17T22:28:07.187799+00:00"
+   "depuis": "2026-07-17T23:30:35.982877+00:00"
   }
  ],
  "publies_48h": [
@@ -1927,6 +1912,14 @@
   [
    "7bbb0333f155388e",
    "2026-07-17T22:28:27.855101+00:00"
+  ],
+  [
+   "260c2be88053f38c",
+   "2026-07-17T23:30:47.132556+00:00"
+  ],
+  [
+   "1978cee295169314",
+   "2026-07-17T23:30:51.354229+00:00"
   ]
  ],
  "evenements_48h": [
@@ -2009,16 +2002,26 @@
   [
    "0c30f982966f13ab",
    "2026-07-17T22:28:22.905988+00:00"
+  ],
+  [
+   "e24c498813042b42",
+   "2026-07-17T23:30:41.712749+00:00"
+  ],
+  [
+   "79d71b60fd273253",
+   "2026-07-17T23:30:45.984401+00:00"
   ]
  ],
  "depeches_du_jour": [
   "Une violente séquence orageuse a traversé plusieurs départements français avec plus de 20 000 éclairs en 24 heures. Elle a provoqué grêle, tornades et vents puissants. Le 17 juillet, 11 000 foyers restaient sans électricité. (franceinfo)",
-  "⚡ FLASH — L'Iran a mené des attaques contre le Qatar, le Koweït et Bahreïn, visant la base aérienne américaine d'Al-Udeid et une centrale électrique. Les Gardiens de la révolution invoquent des bombardements américains en Iran. (France 24, RFI)"
+  "⚡ FLASH — L'Iran a mené des attaques contre le Qatar, le Koweït et Bahreïn, visant la base aérienne américaine d'Al-Udeid et une centrale électrique. Les Gardiens de la révolution invoquent des bombardements américains en Iran. (France 24, RFI)",
+  "⚡ FLASH — Un double séisme a frappé le Venezuela le 24 juin 2026, faisant au moins 5 069 morts et 16 740 blessés selon les autorités. L'ONU avait estimé que le bilan pouvait atteindre 50 000 morts. (franceinfo)",
+  "Des milliers de personnes manifestent à Kiev contre l'éviction du ministre de la Défense Mykhaïlo Fedorov, décidée par le président Zelensky. Le ministre populaire affirme être en conflit avec le commandant en chef de l'armée. (franceinfo)"
  ],
  "recap_date": "2026-07-17",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-18",
-  "publies": 2
+  "publies": 4
  }
 }
