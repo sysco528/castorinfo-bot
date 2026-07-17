@@ -1862,3 +1862,45 @@
 {"decision": "controle", "evt": "791f12614bf36844", "motif": "ok_sim_0.39", "ts": "2026-07-17T09:19:39+00:00"}
 {"decision": "publie", "empreinte": "1489b15658370b7c", "post_id": "2078046969763660094", "carte": true, "texte": "Des ossements ont été découverts jeudi à Mailhoc, près d'Albi, sur les indications de Cédric Jubillar. L'homme aurait désigné ce lieu où il aurait déposé le corps de sa femme il y a cinq ans. (franceinfo)", "ts": "2026-07-17T09:19:40+00:00"}
 {"decision": "publie", "empreinte": "39673d2a9bbf20bd", "post_id": "2078046986427634116", "carte": true, "texte": "Deux personnes sont mortes lors d'orages en Haute-Vienne et Isère. Une mini-tornade s'est abattue jeudi à Villars près de Saint-Étienne avec pluie, grêle et vents forts, sans victime. Météo-France a levé sa vigilance orange. (franceinfo)", "ts": "2026-07-17T09:19:44+00:00"}
+{"decision": "abandon_attente", "evt": "db3a02260a878dc4", "categorie": "meteo_catastrophe", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "f9f19b216b3ac229", "categorie": "sport", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "b6df9da0ccc7cd93", "categorie": "justice", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "6252cb14ecb68ff3", "categorie": "justice", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "2d21dbe83021e579", "categorie": "sante", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "b2f990a819b4959e", "categorie": "meteo_catastrophe", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "6b6b8d712c77a7f0", "categorie": "sport", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "16ecfc592adfeb0b", "categorie": "economie", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "e717f3bfcde45a86", "categorie": "justice", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "b917a9324d33c7fa", "categorie": "sciences", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "44a10519637b60e8", "categorie": "meteo_catastrophe", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "863dbab9758c00e1", "categorie": "sport", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "1366cfaec8ee3ef1", "categorie": "sport", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "0da3e8b36dcb8955", "categorie": "autre", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "0db98f972e11e414", "categorie": "justice", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "abandon_attente", "evt": "c1c3309513485050", "categorie": "sport", "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "8587c2ad85166a33", "score": 98, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["franceinfo", "Le Figaro"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "8b4d7292c3bff84b", "score": 99, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "fd5b39dc1f32e76f", "score": 98, "categorie": "faits_divers", "sensible": true, "confiance": 90, "sources": ["Le Monde", "Le Figaro"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "6942f0dfc42f53fd", "score": 84, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "94c130d8024241db", "score": 86, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "b141c67c47876fa3", "score": 80, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "attente", "evt": "3374b528f3a64610", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "f60794057f054271", "score": 95, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24", "Le Monde"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "attente", "evt": "9d3d48858c0fdc72", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "8d13277c7ddc79ef", "score": 78, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["France 24"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "f71d452f84edadae", "score": 86, "categorie": "politique", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "51578dd1dbde1cc8", "score": 85, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "e48a09b74dc7a632", "score": 85, "categorie": "culture", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "0d5589e11cfeb927", "score": 85, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "21b3bc334bbdaf33", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "26b7a821c3d31a7d", "score": 83, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "attente", "evt": "7edeb45d79f7022b", "score": 82, "categorie": "politique", "sensible": true, "confiance": 80, "sources": ["Le Monde"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "8f240327d74752d7", "score": 82, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "97411dffe34e65a7", "score": 82, "categorie": "sciences", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "9b8acd9bb48d4077", "score": 82, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "attente", "evt": "339e83d2438f7cf8", "score": 81, "categorie": "economie", "sensible": true, "confiance": 82, "sources": ["Le Monde"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "publier", "evt": "3babc037841c6feb", "score": 78, "categorie": "sport", "sensible": false, "confiance": 80, "sources": ["Le Monde"], "ts": "2026-07-17T10:59:50+00:00"}
+{"decision": "controle", "evt": "8b4d7292c3bff84b", "motif": "ok_sim_0.32", "ts": "2026-07-17T10:59:56+00:00"}
+{"decision": "controle", "evt": "8587c2ad85166a33", "motif": "ok_sim_0.38", "ts": "2026-07-17T11:00:01+00:00"}
+{"decision": "publie", "empreinte": "e9ba0a1dbd92c8b7", "post_id": "2078072226469818851", "carte": true, "texte": "🔴 ALERTE — La France métropolitaine subit une sécheresse précoce. Des restrictions d'eau touchent tous les départements. Deux décès lors d'orages violents : femme tuée par un arbre en Haute-Vienne, corps carbonisé par la foudre en Isère. (franceinfo, Le Monde)", "ts": "2026-07-17T11:00:02+00:00"}
+{"decision": "publie", "empreinte": "3198e43ed7d6878c", "post_id": "2078072243045708082", "carte": true, "texte": "Des ossements ont été découverts dans le Tarn à Cagnac-les-Mines, zone indiquée par Cédric Jubillar. Ils seront analysés à Pontoise. L'identification formelle est en cours. (franceinfo, Le Figaro)", "ts": "2026-07-17T11:00:06+00:00"}
