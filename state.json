@@ -155,7 +155,9 @@
    "https://www.franceinfo.fr/faits-divers/direct-affaire-jubillar-les-ossements-decouverts-dans-le-tarn-vont-etre-analyses-au-siege-de-l-institut-de-recherche-criminelle-de-la-gendarmerie-nationale_8111339.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/avant-apres-rivieres-assechees-champs-grilles-forets-jaunies-regardez-comment-la-france-a-perdu-ses-couleurs-sous-l-effet-des-canicules_8108939.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/rachida-dati/periscolaire-emmanuel-gregoire-va-porter-plainte-pour-diffamation-contre-rachida-dati-au-nom-de-la-ville-de-paris_8111615.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-juge-pour-diffusion-de-symboles-extremistes-condamne-a-une-amende-pres-de-moscou_8111507.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-juge-pour-diffusion-de-symboles-extremistes-condamne-a-une-amende-pres-de-moscou_8111507.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/france/occitanie/gard/rien-ne-m-arretera-je-continuerai-ma-mission-de-maire-assure-christophe-rivenq-le-maire-d-ales-vise-par-des-menaces-de-la-dz-mafia_8111678.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-andy-burnham-nomme-chef-du-parti-travailliste-britannique-avant-de-devenir-premier-ministre_8111681.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -396,7 +398,12 @@
    "https://www.lefigaro.fr/faits-divers/corse-deux-mineures-mises-en-examen-apres-la-mort-d-un-homme-dans-le-centre-d-ajaccio-20260717",
    "https://www.lefigaro.fr/meteo/meteo-ces-zones-ou-la-chaleur-va-perdurer-20260717",
    "https://www.lefigaro.fr/conjoncture/impots-quand-allez-vous-recevoir-un-remboursement-du-fisc-cet-ete-20260717",
-   "https://www.lefigaro.fr/cinema/l-odyssee-signe-le-3e-meilleur-demarrage-de-l-annee-au-box-office-20260717"
+   "https://www.lefigaro.fr/cinema/l-odyssee-signe-le-3e-meilleur-demarrage-de-l-annee-au-box-office-20260717",
+   "https://www.lefigaro.fr/international/andy-burnham-le-futur-premier-ministre-britannique-ou-la-revanche-du-roi-du-nord-20260717",
+   "https://www.lefigaro.fr/politique/une-sanction-rarissime-le-senat-exclut-temporairement-une-senatrice-qui-laissait-son-compagnon-diriger-ses-collaborateurs-20260717",
+   "https://www.lefigaro.fr/nice/nice-un-nouveau-suspect-arrete-dans-l-affaire-de-l-incendie-criminel-qui-a-coute-la-vie-a-sept-membres-d-une-meme-famille-20260717",
+   "https://www.lefigaro.fr/faits-divers/eure-un-homme-atteint-de-troubles-psychiatriques-tue-son-ex-compagne-quatre-ans-apres-une-premiere-tentative-et-se-suicide-20260717",
+   "https://www.lefigaro.fr/politique/periscolaire-emmanuel-gregoire-va-porter-plainte-contre-rachida-dati-pour-diffamation-au-nom-de-la-ville-de-paris-20260717"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -574,7 +581,18 @@
    "b0cdc33c-8130-11f1-a3ec-71e2cddb4b69",
    "1bb11f40-81c8-11f1-b82b-9d39467a08bb",
    "a5e9055a-81bf-11f1-960f-c7637cda2800",
-   "fbe01340-81bf-11f1-ba48-c7637cda2800"
+   "fbe01340-81bf-11f1-ba48-c7637cda2800",
+   "b1c34c28-81d3-11f1-b721-3b23e5248633",
+   "45944fde-81d8-11f1-b57b-3deaa23a12c4",
+   "190fc960-811b-11f1-acaa-2b9482933ba4",
+   "154a58a2-81d1-11f1-98e1-9f2a8e948542",
+   "8d612174-81d4-11f1-a5a1-9f2a8e948542",
+   "9bc69022-81cb-11f1-87d7-3b70e3dd0237",
+   "294a2e70-81d3-11f1-b3e5-9f2a8e948542",
+   "03354b8c-81cb-11f1-876e-9d39467a08bb",
+   "3e2152c6-81d1-11f1-a9ac-9f2a8e948542",
+   "30c7f224-81d1-11f1-88e7-9f2a8e948542",
+   "aaa2671e-81cc-11f1-9be8-3b70e3dd0237"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -675,7 +693,9 @@
    "c66acc5a-818d-11f1-967d-e759111fda20",
    "276cefc4-8175-11f1-8f74-57954f8ea505",
    "4e250fc6-816f-11f1-aeab-778a009e9e5a",
-   "88b0e256-8187-11f1-96e1-93d0418cea29"
+   "88b0e256-8187-11f1-96e1-93d0418cea29",
+   "dc15b6e2-81d2-11f1-b54e-bd66ef183a97",
+   "6132a782-81be-11f1-9b03-0f8c4be464d3"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -958,6 +978,57 @@
  "evenements_attente": [
   {
    "faits": [
+    "Andy Burnham a été nommé chef du Parti travailliste britannique",
+    "Il succède à Keir Starmer qui a annoncé son départ le 22 juin",
+    "Burnham était le seul candidat à se présenter",
+    "Burnham a été intronisé vendredi 17 juillet à la tête du Labour",
+    "Il s'installera à Downing Street lundi 20 juillet comme Premier ministre",
+    "Ancien maire du Grand Manchester"
+   ],
+   "qui": "Andy Burnham",
+   "ou": "Royaume-Uni",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 88,
+   "empreinte": "3edf8e99e3417486",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-17T12:19:17.850057+00:00"
+  },
+  {
+   "faits": [
+    "Argentine et Espagne se retrouvent en finale du Mondial 2026",
+    "La finale est prévue dimanche",
+    "Lionel Messi jouera pour l'Argentine",
+    "Lamine Yamal jouera pour l'Espagne",
+    "Les deux joueurs ont un parcours similaire"
+   ],
+   "qui": "Lionel Messi, Lamine Yamal",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 82,
+   "empreinte": "8a13f0f91df2e9e5",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.850060+00:00"
+  },
+  {
+   "faits": [
     "L'opposant russe Boris Nadejdine a été jugé près de Moscou",
     "Il a été condamné à une amende pour diffusion de symboles extrémistes",
     "Il risquait jusqu'à quinze jours de prison",
@@ -1118,6 +1189,28 @@
   },
   {
    "faits": [
+    "Une enveloppe contenant deux balles de 9 mm a été retrouvée dans la boîte aux lettres du maire d'Alès",
+    "L'enveloppe était signée 'de la DZ Mafia'",
+    "Christophe Rivenq, maire d'Alès, affirme qu'il continuera sa mission malgré les menaces"
+   ],
+   "qui": "Christophe Rivenq (maire d'Alès)",
+   "ou": "Alès",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "4a974eaec2060ce9",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.850073+00:00"
+  },
+  {
+   "faits": [
     "La CFE-CGC et la CGT saisissent la justice contre le gel des retraites Agirc-Arrco",
     "Les syndicats refusent le refus du patronat de revenir sur l'absence de revalorisation des pensions complémentaires du privé",
     "Les syndicats s'appuient sur les 91 milliards d'euros de réserve du régime",
@@ -1141,6 +1234,80 @@
   },
   {
    "faits": [
+    "Un nouvel suspect a été arrêté dans l'affaire de l'incendie criminel de Nice",
+    "L'incendie a causé la mort de sept personnes",
+    "Parmi les victimes figurent trois enfants",
+    "Les victimes sont issues d'une même famille",
+    "L'incendie s'est déroulé dans le quartier des Moulins",
+    "Les victimes n'avaient aucun lien avec le narcotrafic"
+   ],
+   "qui": null,
+   "ou": "Nice (quartier des Moulins)",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "30b779f6e578ac97",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.849157+00:00"
+  },
+  {
+   "faits": [
+    "La 17ème épidémie d'Ebola a été annoncée en République démocratique du Congo il y a deux mois",
+    "Selon les chiffres officiels : 2073 cas confirmés et 796 décès",
+    "L'OMS estime que les chiffres réels pourraient être 2 à 4 fois supérieurs aux chiffres officiels",
+    "Le virus progresse plus vite que la riposte",
+    "L'insécurité complique la situation sur le terrain"
+   ],
+   "qui": "OMS",
+   "ou": "République démocratique du Congo",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Les chiffres réels pourraient être 2 à 4 fois supérieurs"
+   ],
+   "importance": 79,
+   "empreinte": "949e465b9408d3b7",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.849352+00:00"
+  },
+  {
+   "faits": [
+    "En Afrique du Sud, les attaques xénophobes se multiplient",
+    "Les migrants africains sont la cible de cette vague de violence",
+    "Les ONG alertent sur une crise humanitaire qui s'aggrave",
+    "Près de 50 000 personnes ont déjà quitté le pays"
+   ],
+   "qui": null,
+   "ou": "Afrique du Sud",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "9d3d48858c0fdc72",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.849475+00:00"
+  },
+  {
+   "faits": [
     "Deux jeunes filles âgées de 17 ans ont été mises en examen",
     "Elles sont poursuivies pour non-assistance à personne en danger, vol sur personne vulnérable et diffusion d'images",
     "Un homme a été agressé dans le centre-ville d'Ajaccio début juillet",
@@ -1161,29 +1328,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-17T10:59:50.488258+00:00"
-  },
-  {
-   "faits": [
-    "Les attaques contre des migrants africains se multiplient en Afrique du Sud depuis le début de l'année",
-    "Des groupes de citoyens anti-immigrés ont lancé une vaste campagne pour expulser les étrangers noirs provenant de pays voisins",
-    "Près de 50 000 personnes ont quitté le pays",
-    "Les ONG alertent sur une crise humanitaire"
-   ],
-   "qui": null,
-   "ou": "Afrique du Sud",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "9d3d48858c0fdc72",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T10:59:50.488307+00:00"
   },
   {
    "faits": [
@@ -1302,6 +1446,55 @@
   },
   {
    "faits": [
+    "Une fuite de documents confidentiels a révélé des campagnes d'influence russes",
+    "Le projet s'appelle 'Projet Afrika'",
+    "La Russie a missionné des agents pour diffuser des centaines d'articles",
+    "Les articles ont été diffusés dans des médias francophones ouest-africains et centrafricains",
+    "France 24 s'est rendu à Dakar, au Sénégal, pour enquêter sur ces opérations"
+   ],
+   "qui": "Russie",
+   "ou": "Afrique de l'Ouest et Afrique centrale (Sénégal)",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "9199efa00a1f6438",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.850080+00:00"
+  },
+  {
+   "faits": [
+    "Un rapport alarmant sur les finances publiques a été remis au gouvernement français",
+    "Le rapport a été rédigé par quatre économistes indépendants",
+    "Sans redressement rapide, la charge de la dette française atteindrait 125 milliards d'euros en 2030",
+    "La charge de la dette française est actuellement de 78 milliards d'euros",
+    "Le gouvernement a présenté un budget qualifié de 'sauvegarde républicaine'",
+    "Ce budget est placé sous le signe de la maîtrise budgétaire"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 71,
+   "empreinte": "3ba93a0ea4507518",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.850082+00:00"
+  },
+  {
+   "faits": [
     "La France souhaite délivrer 250 000 visas par an aux ressortissants algériens",
     "L'ambassadeur de France en Algérie Stéphane Romatet a donné une interview au média Tout sur l'Algérie",
     "C'est deux mois après son retour à Alger"
@@ -1321,6 +1514,128 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-17T11:00:01.391904+00:00"
+  },
+  {
+   "faits": [
+    "Un cessez-le-feu entre Washington et Téhéran a été annoncé en avril",
+    "Une dizaine de jours avant le 17 juillet, les hostilités ont repris autour du détroit d'Ormuz",
+    "Les affrontements continuent sans faiblir entre les États-Unis et l'Iran",
+    "Les attaques imputées à l'Iran contre des navires dans le Golfe se multiplient",
+    "Les frappes menées par les deux parties sont sans précédent depuis le cessez-le-feu d'avril"
+   ],
+   "qui": "États-Unis, Iran",
+   "ou": "Détroit d'Ormuz, Golfe (Moyen-Orient)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Les efforts diplomatiques pour mettre un terme durable au conflit"
+   ],
+   "importance": 78,
+   "empreinte": "30775beafeca6967",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.849260+00:00"
+  },
+  {
+   "faits": [
+    "Des ossements ont été retrouvés dans le Tarn dans l'affaire Jubillar",
+    "Les gendarmes ont repris les fouilles vendredi 17 juillet",
+    "Les fouilles se déroulent à l'endroit où Cédric Jubillar affirme avoir enterré son épouse Delphine",
+    "Des ossements d'une partie d'un corps ont été trouvés jeudi",
+    "Les ossements appartiendraient probablement à Delphine Jubillar, une infirmière",
+    "Delphine Jubillar a disparu fin 2020"
+   ],
+   "qui": "Cédric Jubillar, Delphine Jubillar",
+   "ou": "Tarn",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 78,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Les ossements appartiennent probablement à Delphine Jubillar"
+   ],
+   "importance": 71,
+   "empreinte": "7d49750e88789555",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.849415+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie a ravagé la forêt de Fontainebleau",
+    "L'incendie a détruit près de 10% de la superficie de la forêt",
+    "La forêt est classée 'réserve de biosphère' par l'Unesco",
+    "La forêt de Fontainebleau est située à 60 km de Paris",
+    "L'incendie a endommagé la faune et la flore"
+   ],
+   "qui": null,
+   "ou": "Fontainebleau (Île-de-France)",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "4ede747a9cd95a17",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.850084+00:00"
+  },
+  {
+   "faits": [
+    "La Chine mise sur des modèles d'IA bon marché pour rattraper son retard",
+    "Le président chinois Xi Jinping a prononcé un discours inaugural à la Conférence mondiale sur l'intelligence artificielle de Shanghai",
+    "Xi Jinping a prôné la coopération internationale et une approche mondiale centrée sur l'humain",
+    "La Chine cherche à rattraper son retard en matière d'IA grâce à un pari économique"
+   ],
+   "qui": "Xi Jinping, Chine",
+   "ou": "Shanghai",
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "0150e8621951bd4a",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.850086+00:00"
+  },
+  {
+   "faits": [
+    "La Chine s'oppose fermement à la nationalisation du sidérurgiste British Steel",
+    "La nationalisation a été décidée par le gouvernement britannique",
+    "La Chine exhorte le Royaume-Uni à 'respecter les règles internationales'"
+   ],
+   "qui": "Chine, Royaume-Uni",
+   "ou": null,
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 58,
+   "empreinte": "383a215bd32a653d",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T12:19:17.850087+00:00"
   },
   {
    "faits": [
