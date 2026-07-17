@@ -187,7 +187,9 @@
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-milliers-de-personnes-manifestent-a-kiev-contre-l-eviction-du-ministre-de-la-defense_8112320.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-aveux-de-cedric-jubillar-sont-ils-une-strategie-pour-reduire-sa-peine-l-avis-d-une-avocate-specialisee-en-feminicides_8112275.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/lors-de-la-canicule-de-juin-la-mortalite-en-ile-de-france-a-plus-que-double-par-rapport-a-la-normale_8112194.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/un-touriste-francais-porte-disparu-depuis-le-11-juillet-au-perou_8112257.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/faits-divers/un-touriste-francais-porte-disparu-depuis-le-11-juillet-au-perou_8112257.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-frappe-israelienne-fait-huit-morts-pres-d-un-marche-dans-la-bande-de-gaza_8112332.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/bernard-cazeneuve-echangera-avec-francois-hollande-lors-d-un-colloque-a-paris-le-4-septembre_8112230.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -464,7 +466,11 @@
    "https://www.lefigaro.fr/sciences/les-scientifiques-sur-la-piste-de-l-asteroide-qui-a-tue-les-dinosaures-20260717",
    "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-iran-dit-avoir-attaque-une-base-militaire-en-syrie-les-bombardements-americains-continuent-20260717",
    "https://www.lefigaro.fr/international/perou-disparition-inquietante-d-un-touriste-francais-de-30-ans-depuis-le-11-juillet-20260717",
-   "https://www.lefigaro.fr/economie/grandes-fortunes-cadres-dirigeants-retraites-pourquoi-les-francais-s-expatrient-en-italie-20260717"
+   "https://www.lefigaro.fr/economie/grandes-fortunes-cadres-dirigeants-retraites-pourquoi-les-francais-s-expatrient-en-italie-20260717",
+   "https://www.lefigaro.fr/flash-actu/donald-trump-s-emporte-contre-le-canada-pour-la-pollution-de-l-air-aux-etats-unis-causee-par-les-feux-de-foret-20260717",
+   "https://www.lefigaro.fr/international/canada-plus-de-200-feux-hors-de-controle-situation-particulierement-critique-dans-l-ontario-20260717",
+   "https://www.lefigaro.fr/flash-actu/venezuela-le-bilan-du-double-seisme-depasse-les-5000-morts-20260717",
+   "https://www.lefigaro.fr/flash-actu/norvege-un-incendie-detruit-plus-d-une-centaine-de-logements-20260717"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -678,7 +684,9 @@
    "2cc25e22-80fe-11f1-b819-5db0ab9006c4",
    "ae69afa0-81f5-11f1-a050-09d5cdd8fc2b",
    "84690d4c-8207-11f1-a50c-d754a57bdb4f",
-   "a0f98fec-8219-11f1-b1d3-4b666086fb39"
+   "a0f98fec-8219-11f1-b1d3-4b666086fb39",
+   "0d4788ac-821f-11f1-9d9f-8d17914052f0",
+   "7abe4634-821d-11f1-aada-4b666086fb39"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -934,7 +942,12 @@
    "https://www.ouest-france.fr/sport/coupe-du-monde/espagne-argentine-marc-cucurella-annonce-sa-retraite-internationale-en-cas-de-succes-en-finale-de-la-coupe-du-monde-c8586e0e-821a-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/france-angleterre-il-fera-du-didier-jusquau-bout-avant-sa-last-dance-deschamps-reste-fidele-a-ses-principes-3acfd46a-820a-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/ea-guingamp/ea-guingamp-une-jeune-equipe-den-avant-a-deux-visages-sincline-face-a-rennes-en-amical-a9dbb90e-81bb-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/disparition/un-touriste-francais-a-disparu-le-11-juillet-dernier-au-perou-8086f36c-8214-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/faits-divers/disparition/un-touriste-francais-a-disparu-le-11-juillet-dernier-au-perou-8086f36c-8214-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/transferts/mercato-om-une-derniere-aventure-en-espagne-pour-pierre-emerick-aubameyang-qui-quitte-marseille-et-rejoint-la-corogne-4e554040-8220-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/etats-unis/donald-trump/trump-blame-le-canada-pour-la-pollution-de-lair-aux-etats-unis-causee-par-les-feux-de-foret-2ac1126a-8222-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/equipe-angleterre/coupe-du-monde-la-voie-du-lion-lemouvant-poeme-du-chauffeur-de-car-de-langleterre-pour-les-joueurs-f54b5bd8-821a-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-les-adversaires-potentiels-pour-lol-au-3e-tour-preliminaire-4feae96a-821a-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/justice/viols-filmes-en-milieu-libertin-cinq-nouvelles-mises-en-examen-19-au-total-f291a8bc-821e-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -992,7 +1005,14 @@
    "https://www.20minutes.fr/arts-stars/culture/4234917-20260717-tapisserie-bayeux-londres-uvre-subi-aucune-alteration-visible-pendant-transfert?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/arts-stars/culture/4234842-20260717-coupe-monde-restos-ur-riche-boss-ceremonies-jo-paris-juge-show-finale?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sante/4234893-20260717-fin-vie-acte-eminemment-difficile-corps-medical-inquiet-divise-droit-aide-mourir?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/planete/canicule/4235075-20260717-orages-regions-plus-touchees-journee-plus-foudroyee-annee?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/planete/canicule/4235075-20260717-orages-regions-plus-touchees-journee-plus-foudroyee-annee?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235095-20260717-etats-unis-epidemie-geante-infections-intestinales-vient-laitue-servie-fast-food?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/justice/4235099-20260717-proces-athanor-entre-25-30-ans-reclusion-francs-macons-tete-officine-criminelle?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/diaporama/diaporama-4234960-images-leonie-cassel-iris-law-lila-moss-nepo-babies-squattent-podiums?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4235010-20260717-guerre-ukraine-remaniement-zelensky-inquiete-ue-russie-met-detracteurs?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235100-20260717-etats-unis-trump-prend-canada-fumees-incendies-geants?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/4235098-20260717-perou-enquete-ouverte-apres-disparition-inquietante-boris-poyer-touriste-francais-30-ans?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/4234937-20260717-direct-affaire-jubillar-accuse-enferre-mensonge-fouilles-repris-tarn?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1172,33 +1192,6 @@
   },
   {
    "faits": [
-    "Mykhaïlo Fedorov, ministre de la Défense ukrainien, a annoncé sa démission mercredi",
-    "Il avait pris ses fonctions moins de six mois auparavant",
-    "Des milliers de personnes ont manifesté à Kiev contre son éviction vendredi 17 juillet",
-    "Remaniement décidé par Volodymyr Zelensky",
-    "Deux jours de manifestations se sont déroulés"
-   ],
-   "qui": "Mykhaïlo Fedorov, Volodymyr Zelensky",
-   "ou": "Kiev, Ukraine",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "RFI"
-   ],
-   "non_confirme": [
-    "Possibilité que la crise fragilise la popularité de Zelensky"
-   ],
-   "importance": 78,
-   "empreinte": "79d71b60fd273253",
-   "score": 98,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-17T20:31:54.775239+00:00"
-  },
-  {
-   "faits": [
     "Un touriste français de 30 ans originaire de Lyon a disparu le 11 juillet au Pérou",
     "Il a disparu de Puerto de Malabrigo, sur la côte pacifique",
     "Son téléphone a été retrouvé dans sa chambre d'hôtel",
@@ -1246,6 +1239,33 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-17T15:49:29.897356+00:00"
+  },
+  {
+   "faits": [
+    "Des milliers de personnes ont manifesté à Kiev contre l'éviction du ministre de la Défense Mykhaïlo Fedorov",
+    "Cette éviction a été décidée par le président Volodymyr Zelensky",
+    "Fedorov est populaire auprès de la population et apprécié des alliés occidentaux",
+    "Fedorov affirme être entré en conflit avec le commandant en chef de l'armée ukrainienne",
+    "Les manifestations continuent pour une deuxième journée"
+   ],
+   "qui": "Mykhaïlo Fedorov, Volodymyr Zelensky",
+   "ou": "Kiev, Ukraine",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "20 Minutes",
+    "France 24",
+    "RFI",
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "79d71b60fd273253",
+   "score": 97,
+   "fiab_max": 90,
+   "nb_sources": 4,
+   "depuis": "2026-07-17T21:27:17.790810+00:00"
   },
   {
    "faits": [
@@ -1352,6 +1372,54 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-17T19:37:36.321514+00:00"
+  },
+  {
+   "faits": [
+    "Le Canada fait face à une aggravation brutale de sa saison des feux",
+    "Près de 2,8 millions d'hectares ont déjà brûlé depuis le début de l'année",
+    "Plus de 200 feux sont hors de contrôle",
+    "L'Ontario est particulièrement touchée et a demandé l'aide du gouvernement fédéral",
+    "Près de 900 incendies restent actifs sur le territoire canadien"
+   ],
+   "qui": "Canada",
+   "ou": "Canada, Ontario",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 87,
+   "sources": [
+    "Le Figaro",
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "99a2a562354ee787",
+   "score": 94,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-17T21:27:17.790818+00:00"
+  },
+  {
+   "faits": [
+    "La fumée des incendies au Canada a plongé vendredi plusieurs métropoles américaines dans un épais voile de pollution",
+    "Donald Trump s'en est pris au Canada pour cette pollution de l'air"
+   ],
+   "qui": "Donald Trump, Canada",
+   "ou": "États-Unis / Canada",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro",
+    "Ouest-France",
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "c209cd53b2d863b4",
+   "score": 93,
+   "fiab_max": 85,
+   "nb_sources": 3,
+   "depuis": "2026-07-17T21:27:17.790820+00:00"
   },
   {
    "faits": [
@@ -1466,6 +1534,27 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-17T18:14:57.675304+00:00"
+  },
+  {
+   "faits": [
+    "Une frappe israélienne a tué huit personnes près d'un marché dans la bande de Gaza",
+    "L'armée israélienne affirme avoir frappé une cellule terroriste du Jihad islamique"
+   ],
+   "qui": "Armée israélienne / Jihad islamique",
+   "ou": "Bande de Gaza",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "a5ee06b2870b631d",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T21:27:17.790829+00:00"
   },
   {
    "faits": [
@@ -1737,76 +1826,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-17T16:55:07.184257+00:00"
-  },
-  {
-   "faits": [
-    "Un verdict a été rendu vendredi 17 juillet dans l'Affaire Athanor",
-    "L'Affaire Athanor concerne un réseau criminel évoluant dans l'ombre d'une loge maçonnique",
-    "Le procès a duré trois mois et demi",
-    "La cour d'assises de Paris a rendu des peines contre 17 des 22 accusés",
-    "Les peines vont de six mois de prison avec sursis à 30 ans de réclusion"
-   ],
-   "qui": "Cour d'assises de Paris, 22 accusés",
-   "ou": "Paris, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "2328a694bd818e6a",
-   "score": 84,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T20:31:54.773961+00:00"
-  },
-  {
-   "faits": [
-    "Une vidéo de l'attaque à la bombe contre l'oligarque ukrainien Vadim Ermolaev a été dévoilée",
-    "L'attaque a visé le 29 juin à Monaco l'homme d'affaires ukrainien et sa famille",
-    "Deux suspects ont été arrêtés",
-    "Une troisième personne soupçonnée d'avoir posé la bombe a été retrouvée morte",
-    "La justice ukrainienne a diffusé les images de l'explosion"
-   ],
-   "qui": "Vadim Ermolaev (victime), justice ukrainienne",
-   "ou": "Monaco",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "42e1162b93f7f1a1",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T18:14:57.674084+00:00"
-  },
-  {
-   "faits": [
-    "Andy Burnham succèdera lundi à Keir Starmer comme Premier ministre du Royaume-Uni",
-    "Burnham a été nommé nouveau chef du Parti travailliste vendredi 17 juillet",
-    "Burnham s'est engagé à 'redonner de l'espoir' aux Britanniques"
-   ],
-   "qui": "Andy Burnham, Keir Starmer",
-   "ou": "Royaume-Uni",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "893f200fe05c6cbb",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T16:55:07.183177+00:00"
   }
  ],
  "publies_48h": [
