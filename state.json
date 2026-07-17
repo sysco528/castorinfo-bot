@@ -353,7 +353,8 @@
    "https://www.lefigaro.fr/conjoncture/incendies-en-foret-de-fontainebleau-l-autoroute-a6-rouvre-progressivement-a-partir-de-ce-jeudi-soir-20260716",
    "https://www.lefigaro.fr/faits-divers/incendie-de-fontainebleau-le-gerant-et-deux-ouvriers-de-la-societe-aximum-presentes-a-un-juge-20260716",
    "https://www.lefigaro.fr/international/ingerences-chinoises-machines-a-voter-election-de-2020-donald-trump-promet-des-revelations-dans-son-discours-aux-americains-20260716",
-   "https://www.lefigaro.fr/international/un-agent-operant-le-prompteur-de-trump-suspendu-pour-avoir-parie-de-l-argent-sur-les-discours-du-president-americain-20260716"
+   "https://www.lefigaro.fr/international/un-agent-operant-le-prompteur-de-trump-suspendu-pour-avoir-parie-de-l-argent-sur-les-discours-du-president-americain-20260716",
+   "https://www.lefigaro.fr/international/en-direct-etats-unis-suivez-le-discours-de-donald-trump-qui-promet-des-revelations-lors-d-un-discours-a-la-nation-20260717"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -524,7 +525,9 @@
    "0ae21002-8132-11f1-8c63-4bab7b0c19c7",
    "44cfd960-8138-11f1-90b4-c5f319ad9514",
    "882b3d00-8159-11f1-ac5c-cf7c83649bc4",
-   "ea9351fa-8157-11f1-83a7-ffddeb2b2c7f"
+   "ea9351fa-8157-11f1-83a7-ffddeb2b2c7f",
+   "c3979a3a-8160-11f1-b07e-9f6d8cd0d3dd",
+   "4f0dd21e-8166-11f1-ad1d-4701f996e5aa"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -618,7 +621,9 @@
    "f1697966-8150-11f1-985a-a5d30a9a4f90",
    "f30d69d0-8155-11f1-9c7e-a5d30a9a4f90",
    "6e31a4ba-8155-11f1-82a7-a5d30a9a4f90",
-   "35abffe2-8163-11f1-88fb-6d057b234032"
+   "35abffe2-8163-11f1-88fb-6d057b234032",
+   "c35c09ce-817a-11f1-9a6f-f12a1e3672ad",
+   "e5d694fa-8167-11f1-ad04-778a009e9e5a"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -731,7 +736,8 @@
    "https://www.ouest-france.fr/societe/police/le-maire-dales-recoit-chez-lui-deux-balles-de-9-mm-signees-dz-mafia-a57715dc-815e-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/football-les-groupes-des-championnats-u17-u19-u19f-nationaux-pour-la-saison-2026-2027-dd7cfae0-815a-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/pedocriminalite/protection-des-mineurs-les-deputes-votent-pour-etendre-les-controles-dhonorabilite-a72a2ee2-816c-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/incendies-a-fontainebleau-deux-ouvriers-dune-societe-de-travaux-mis-en-examen-0505e2e0-812c-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/faits-divers/incendie/incendies-a-fontainebleau-deux-ouvriers-dune-societe-de-travaux-mis-en-examen-0505e2e0-812c-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sciences/espace/spacex/spacex-annule-au-dernier-moment-un-vol-dessai-de-sa-fusee-starship-70db67e6-816e-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -892,110 +898,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "Des ossements ont été découverts dans une zone agricole du Tarn à Cagnac-les-Mines",
-    "La découverte s'est faite jeudi 16 juillet 2026",
-    "Elle a été guidée par les indications de Cédric Jubillar",
-    "Les ossements doivent être identifiés",
-    "Les recherches se poursuivent"
-   ],
-   "qui": "Cédric Jubillar, enquêteurs",
-   "ou": "Cagnac-les-Mines, Tarn, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 87,
-   "sources": [
-    "Le Figaro",
-    "Ouest-France",
-    "20 Minutes",
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Identification des ossements comme appartenant à Delphine Jubillar"
-   ],
-   "importance": 78,
-   "empreinte": "f92803720fef621a",
-   "score": 94,
-   "fiab_max": 85,
-   "nb_sources": 4,
-   "depuis": "2026-07-16T21:41:06.775043+00:00"
-  },
-  {
-   "faits": [
-    "La Coupe du monde de football 2026 se tiendra en finale entre l'Espagne et l'Argentine le 19 juillet",
-    "L'Angleterre a perdu en demi-finale face à l'Argentine (2-1)",
-    "Thomas Tuchel, sélectionneur de l'Angleterre, a demandé à ses remplaçants de 'jouer plus haut' lors de la demi-finale"
-   ],
-   "qui": "Espagne, Argentine, Angleterre, Thomas Tuchel, Lamine Yamal",
-   "ou": "International",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 83,
-   "sources": [
-    "20 Minutes",
-    "L'Équipe"
-   ],
-   "non_confirme": [
-    "Blessure possible de Lamine Yamal"
-   ],
-   "importance": 75,
-   "empreinte": "56b3f57ad68cb493",
-   "score": 92,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-16T22:43:32.006328+00:00"
-  },
-  {
-   "faits": [
-    "Cédric Jubillar a reconnu être à l'origine de la disparition de son épouse Delphine",
-    "Il a fait des déclarations spontanées mercredi devant la justice",
-    "Il a indiqué aux enquêteurs l'endroit où il affirme avoir déposé le corps",
-    "Il a été condamné à 30 ans de prison en 2025 pour le meurtre de Delphine",
-    "Son avocat déclare qu'il s'est enferré dans un mensonge"
-   ],
-   "qui": "Cédric Jubillar",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 86,
-   "sources": [
-    "Ouest-France",
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Circonstances exactes du meurtre (mention possible de strangulation)"
-   ],
-   "importance": 75,
-   "empreinte": "7d35a410a83637c3",
-   "score": 92,
-   "fiab_max": 80,
-   "nb_sources": 2,
-   "depuis": "2026-07-16T21:41:06.775045+00:00"
-  },
-  {
-   "faits": [
-    "La finale de la Coupe du monde 2026 oppose l'Espagne et l'Argentine",
-    "La finale se tiendra dimanche 19 juillet à New York",
-    "Lionel Messi joue pour l'Argentine",
-    "L'Espagne cherche à remporter sa deuxième étoile mondiale"
-   ],
-   "qui": "Espagne, Argentine, Lionel Messi",
-   "ou": "New York",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 93,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "3341041514bfde50",
-   "score": 88,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-16T19:32:06.002151+00:00"
-  },
-  {
-   "faits": [
     "L'Argentine a battu l'Angleterre en demi-finale de la Coupe du monde 2026",
     "L'Argentine était menée jusqu'à cinq minutes de la fin du temps réglementaire",
     "Lionel Messi a été double passeur décisif dans ce match",
@@ -1019,29 +921,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-16T23:43:37.919544+00:00"
-  },
-  {
-   "faits": [
-    "Des signalements visant Jérôme Barella n'ont jamais atteint la justice en raison d'un « dysfonctionnement informatique »",
-    "Le ministère de la justice a publié un deuxième rapport d'inspection suite à l'affaire Lyhanna",
-    "Le rapport s'intéresse au traitement des signalements de deux mineures",
-    "Les deux mineures ont dénoncé en février les agissements de Jérôme Barella lors d'une soirée pyjama entre fillettes"
-   ],
-   "qui": "Jérôme Barella",
-   "ou": null,
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "707db39e9b17a28f",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-16T17:57:17.263640+00:00"
   },
   {
    "faits": [
@@ -1094,27 +973,26 @@
   },
   {
    "faits": [
-    "Washington annonce que certains produits brésiliens seront taxés à 25% à compter du 22 juillet",
-    "Cet épisode relance la guerre commerciale entre les États-Unis et le Brésil",
-    "La plupart des précédentes surtaxes douanières imposées par les États-Unis ont été annulées en février par la Cour suprême",
-    "Donald Trump retente une nouvelle imposition de tarifs, le Brésil étant le premier pays visé",
-    "La décision est qualifiée de clairement politique"
+    "L'armée américaine a mené une sixième nuit consécutive de frappes contre l'Iran",
+    "Les frappes ont touché deux ponts, un aéroport et une gare dans le sud de l'Iran près du détroit d'Ormuz",
+    "Au moins trois morts et une dizaine de blessés selon la télévision d'État iranienne Irib",
+    "L'armée de l'air du Koweït a rapporté des attaques de drones et missiles attribuées à l'Iran"
    ],
-   "qui": "Donald Trump, États-Unis, Brésil",
-   "ou": null,
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 87,
+   "qui": "États-Unis, Iran, Koweït",
+   "ou": "Iran (sud, détroit d'Ormuz)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
    "sources": [
-    "RFI"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 74,
-   "empreinte": "4fec014f80f4f586",
-   "score": 84,
+   "importance": 85,
+   "empreinte": "8e4d421f5e1a345d",
+   "score": 85,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-16T17:57:17.263648+00:00"
+   "depuis": "2026-07-17T01:16:04.562557+00:00"
   },
   {
    "faits": [
@@ -1164,25 +1042,49 @@
   },
   {
    "faits": [
-    "26 départements sont en alerte orange pour orages le 17 juillet",
-    "De nouveaux orages éclatent de la Bretagne aux régions du centre",
-    "Les orages s'accompagnent de fortes pluies, de grêle et de rafales de vent jusqu'à 130 km/h"
+    "Donald Trump, président des États-Unis, prononce un discours à la Nation",
+    "Le discours promet des 'révélations'",
+    "Le discours se concentre sur les vulnérabilités du système électoral américain selon Trump"
    ],
-   "qui": null,
-   "ou": "France (Bretagne et régions du centre)",
-   "categorie": "meteo_catastrophe",
+   "qui": "Donald Trump",
+   "ou": "États-Unis",
+   "categorie": "politique",
    "sensible": false,
-   "confiance": 88,
+   "confiance": 85,
    "sources": [
     "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 68,
-   "empreinte": "6148ab15313962c7",
+   "importance": 75,
+   "empreinte": "01ca0a137ea7ab7c",
    "score": 83,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-16T17:57:17.263650+00:00"
+   "depuis": "2026-07-17T01:16:22.097292+00:00"
+  },
+  {
+   "faits": [
+    "En République démocratique du Congo, le centre de traitement Ebola de Nyankunde a été pris pour cible",
+    "Nyankunde est située à 45 km au sud-ouest de Bunia dans la province de l'Ituri",
+    "Le 15 juillet, des tirs ont éclaté entre miliciens à proximité du centre",
+    "Des hommes en colère ont caillassé les bâtiments du centre",
+    "Les deux incidents ont provoqué la panique"
+   ],
+   "qui": "Miliciens, population locale",
+   "ou": "Nyankunde, RDC (province de l'Ituri)",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "bf7d7e87234bb13b",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T01:16:04.562642+00:00"
   },
   {
    "faits": [
@@ -1325,29 +1227,6 @@
   },
   {
    "faits": [
-    "La Chine et la Russie ont signé le « traité de bon voisinage et de coopération amicale » le 16 juillet 2001",
-    "25 ans plus tard, le 16 juillet 2026, les deux pays sont toujours plus unis par des intérêts communs",
-    "L'unité est notamment renforcée par la guerre en Ukraine",
-    "La relation reste sensible aux tensions et à un déséquilibre de plus en plus structurel"
-   ],
-   "qui": "Chine, Russie",
-   "ou": null,
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 71,
-   "empreinte": "34ef09cb5204f032",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-16T17:57:17.263655+00:00"
-  },
-  {
-   "faits": [
     "Un incendie s'est déclaré en forêt de Fontainebleau",
     "L'autoroute A6 rouvre progressivement à partir de jeudi soir 16 juillet",
     "La voie de droite reste neutralisée et réservée aux véhicules de secours",
@@ -1394,6 +1273,30 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-16T21:41:06.773673+00:00"
+  },
+  {
+   "faits": [
+    "Les États-Unis vont limiter la durée des visas pour les journalistes et étudiants étrangers",
+    "Le visa étudiant sera restreint à quatre ans au lieu de durée antérieure",
+    "Les journalistes étrangers seront limités à 240 jours renouvelables, 90 jours pour les médias chinois, au lieu de 5 ans",
+    "La mesure pourrait entrer en vigueur dans deux mois sauf blocage au Congrès",
+    "Reporters sans frontières dénonce une 'violation directe' de la liberté de la presse"
+   ],
+   "qui": "Gouvernement américain, Reporters sans frontières",
+   "ou": "États-Unis",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "b5c37ad4bdd6dcb9",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T01:16:22.097298+00:00"
   },
   {
    "faits": [
@@ -1512,6 +1415,51 @@
   },
   {
    "faits": [
+    "En Bolivie, les pénuries de carburant persistent",
+    "Cela malgré la fin des blocages routiers qui avaient duré six semaines",
+    "Un accord a été conclu le 19 juin entre le président Rodrigo Paz et la principale centrale syndicale",
+    "Les populations doivent attendre plusieurs heures voire plusieurs jours aux stations-service"
+   ],
+   "qui": "Gouvernement bolivien (Rodrigo Paz), syndicats",
+   "ou": "Bolivie",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "7466d54814b3f5d1",
+   "score": 75,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T01:16:04.562684+00:00"
+  },
+  {
+   "faits": [
+    "SpaceX a annulé un vol d'essai de sa fusée Starship le jeudi 16 juillet",
+    "L'annulation s'est faite au dernier moment",
+    "Elon Musk a expliqué que certains des moteurs ne s'étaient pas allumés"
+   ],
+   "qui": "SpaceX, Elon Musk",
+   "ou": null,
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "2d33cdf2e5ce958c",
+   "score": 74,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-17T01:16:04.562725+00:00"
+  },
+  {
+   "faits": [
     "La tapisserie de Bayeux a été transférée au British Museum de Londres",
     "Elle a été déployée jeudi au British Museum",
     "La tapisserie ne présente aucune altération visible après son transport",
@@ -1537,14 +1485,6 @@
   }
  ],
  "publies_48h": [
-  [
-   "269f3a4cae514038",
-   "2026-07-15T00:56:34.127802+00:00"
-  ],
-  [
-   "fb4acc56e01e1adb",
-   "2026-07-15T00:56:38.120465+00:00"
-  ],
   [
    "e78bb8fd36393460",
    "2026-07-15T04:15:05.213929+00:00"
@@ -1612,17 +1552,13 @@
   [
    "7701a03c270e9cf9",
    "2026-07-16T23:43:42.999724+00:00"
+  ],
+  [
+   "2ad6a1b90dc8f7ed",
+   "2026-07-17T01:16:23.208941+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "80ee92b9d09d5956",
-   "2026-07-15T00:56:28.646540+00:00"
-  ],
-  [
-   "794709d300b42894",
-   "2026-07-15T00:56:33.022378+00:00"
-  ],
   [
    "1ab8966f5d8f22b1",
    "2026-07-15T04:14:59.902272+00:00"
@@ -1690,17 +1626,22 @@
   [
    "a6ddff49ecfb9451",
    "2026-07-16T23:43:37.919520+00:00"
+  ],
+  [
+   "56b3f57ad68cb493",
+   "2026-07-17T01:16:12.996423+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚖️ Disparue en 2020, l'infirmière Delphine Jubillar a été retrouvée à Cagnac-les-Mines (Tarn). Son mari Cédric Jubillar, principal suspect, a avoué le meurtre dans une lettre à ses avocats et a conduit les enquêteurs au lieu de dissimulation du corps. (franceinfo, Le Figaro)",
   "⚡ FLASH — Une salve orageuse affecte la France jeudi soir du centre au Grand-Est. Huit départements en vigilance orange. Une tornade observée près de Saint-Étienne. Les orages, débutés dans les Landes, peuvent être intenses. (franceinfo, BFMTV)",
-  "Un incendie ravage la région de Saragosse en Aragon. Le feu a consumé 7 600 hectares et compte parmi les plus graves de ces dernières années. Cinq villes évacuées. Aucune victime signalée. (franceinfo, Ouest-France)"
+  "Un incendie ravage la région de Saragosse en Aragon. Le feu a consumé 7 600 hectares et compte parmi les plus graves de ces dernières années. Cinq villes évacuées. Aucune victime signalée. (franceinfo, Ouest-France)",
+  "⚽ L'Espagne affrontera l'Argentine en finale de la Coupe du monde 2026, le 19 juillet. L'Argentine s'est qualifiée en battant l'Angleterre 2-1 en demi-finale. (20 Minutes, L'Équipe)"
  ],
  "recap_date": "2026-07-16",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-17",
-  "publies": 3
+  "publies": 4
  }
 }
