@@ -2389,3 +2389,43 @@
 {"decision": "controle", "evt": "99a2a562354ee787", "motif": "ok_signal_retrograde_sim_0.13", "ts": "2026-07-18T01:03:02+00:00"}
 {"decision": "publie", "empreinte": "2820bbf8a658fd3c", "post_id": "2078284378124239085", "carte": true, "texte": "⚽ Didier Deschamps prévoit de faire tourner son effectif pour la petite finale contre l'Angleterre samedi à Miami. Gusto, Konaté, Lacroix, Zaïre-Emery et Cherki pourraient être alignés, tandis qu'un noyau de titulaires sera préservé. (L'Équipe, Le Figaro)", "ts": "2026-07-18T01:03:03+00:00"}
 {"decision": "publie", "empreinte": "fe3bb1528e04b8d8", "post_id": "2078284395069272561", "carte": true, "texte": "🌡️ Le Canada connaît sa pire saison des feux. Près de 2,8 millions d'hectares ont brûlé, avec 900 incendies actifs dont 200 hors de contrôle. L'Ontario demande l'aide fédérale. (Le Figaro, 20 Minutes)", "ts": "2026-07-18T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "446ea765d81478ea", "categorie": "meteo_catastrophe", "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "abandon_attente", "evt": "a5ee06b2870b631d", "categorie": "international", "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "abandon_attente", "evt": "1dc616769b002ff5", "categorie": "sport", "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "abandon_attente", "evt": "199a5ba4faf50fd6", "categorie": "meteo_catastrophe", "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "abandon_attente", "evt": "c8a360295a16e395", "categorie": "international", "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "afbd3909537067d2", "score": 81, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "ab50b3c449ea1339", "score": 83, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "954087e5ad44dea4", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "4a3c0fc6d0331246", "score": 80, "categorie": "sante", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "14aca7b6fc3b7fb8", "score": 79, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "7b45fd3de3550a3c", "score": 76, "categorie": "politique", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "8875529019154827", "score": 79, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "771c23fefd1274ed", "score": 75, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "9c782318a75494ef", "score": 74, "categorie": "international", "sensible": true, "confiance": 70, "sources": ["BFMTV"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "fbf188010e048c67", "score": 69, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 75, "sources": ["BFMTV"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "43e20d657cb2196b", "score": 84, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "7ff16ef0f2d02aa5", "score": 76, "categorie": "sport", "sensible": false, "confiance": 80, "sources": ["L'Équipe"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "e390577ad9e46b64", "score": 86, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "080abfd90c3e321f", "score": 85, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "fa169b0079b21c7d", "score": 81, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "6fd7412b535fb833", "score": 81, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "b96d32fd545120d8", "score": 80, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "5658dc89ed6bd44b", "score": 80, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "859c1e28a453d84a", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "f8bb8edf729a9f9a", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "0739eb9bbb70bbe6", "score": 78, "categorie": "politique", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "56799cea21101099", "score": 78, "categorie": "politique", "sensible": true, "confiance": 82, "sources": ["RFI"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "267ac686dc9a72c8", "score": 78, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "0e0d02134731ae38", "score": 77, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "490b5060252c2b5e", "score": 77, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "e6ba0adb9de03d5c", "score": 77, "categorie": "culture", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "492716bc800bde9b", "score": 76, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["20 Minutes"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "103899c3fc0ee637", "score": 76, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "publier", "evt": "7fd1442b153dd5a0", "score": 75, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "attente", "evt": "b3d12c6c702a1fea", "score": 74, "categorie": "international", "sensible": true, "confiance": 70, "sources": ["20 Minutes"], "ts": "2026-07-18T04:10:43+00:00"}
+{"decision": "controle", "evt": "e390577ad9e46b64", "motif": "controle_refuse:{\"faits_exacts\": false, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": true, \"publiable\": false}", "ts": "2026-07-18T04:10:47+00:00"}
+{"decision": "controle", "evt": "080abfd90c3e321f", "motif": "ok_sim_0.00", "ts": "2026-07-18T04:10:51+00:00"}
+{"decision": "controle", "evt": "43e20d657cb2196b", "motif": "ok_sim_0.54", "ts": "2026-07-18T04:10:56+00:00"}
+{"decision": "publie", "empreinte": "231c360ded11d364", "post_id": "2078331665894736370", "carte": true, "texte": "⚽ L'Espagne affrontera l'Argentine dimanche en finale de la Coupe du monde 2026 à New York. Rodri, capitaine espagnol, appelle ses coéquipiers à rester concentrés et à ne pas se laisser provoqué par l'adversaire.", "ts": "2026-07-18T04:10:57+00:00"}
+{"decision": "publie", "empreinte": "f4af68ec8a470e57", "post_id": "2078331682235748567", "carte": true, "texte": "⚽ La finale de la Coupe du monde 2026 opposera l'Espagne et l'Argentine dimanche soir au MetLife Stadium. Lionel Messi jouera cette rencontre sur le même stade où il avait annoncé sa retraite internationale en 2016. (L'Équipe)", "ts": "2026-07-18T04:11:01+00:00"}
