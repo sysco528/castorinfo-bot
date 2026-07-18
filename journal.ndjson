@@ -2429,3 +2429,42 @@
 {"decision": "controle", "evt": "43e20d657cb2196b", "motif": "ok_sim_0.54", "ts": "2026-07-18T04:10:56+00:00"}
 {"decision": "publie", "empreinte": "231c360ded11d364", "post_id": "2078331665894736370", "carte": true, "texte": "⚽ L'Espagne affrontera l'Argentine dimanche en finale de la Coupe du monde 2026 à New York. Rodri, capitaine espagnol, appelle ses coéquipiers à rester concentrés et à ne pas se laisser provoqué par l'adversaire.", "ts": "2026-07-18T04:10:57+00:00"}
 {"decision": "publie", "empreinte": "f4af68ec8a470e57", "post_id": "2078331682235748567", "carte": true, "texte": "⚽ La finale de la Coupe du monde 2026 opposera l'Espagne et l'Argentine dimanche soir au MetLife Stadium. Lionel Messi jouera cette rencontre sur le même stade où il avait annoncé sa retraite internationale en 2016. (L'Équipe)", "ts": "2026-07-18T04:11:01+00:00"}
+{"decision": "abandon_attente", "evt": "fa169b0079b21c7d", "categorie": "international", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "6fd7412b535fb833", "categorie": "sport", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "b96d32fd545120d8", "categorie": "justice", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "5658dc89ed6bd44b", "categorie": "international", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "859c1e28a453d84a", "categorie": "sport", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "f8bb8edf729a9f9a", "categorie": "sport", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "267ac686dc9a72c8", "categorie": "sport", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "490b5060252c2b5e", "categorie": "justice", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "492716bc800bde9b", "categorie": "international", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "103899c3fc0ee637", "categorie": "sport", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "7fd1442b153dd5a0", "categorie": "sport", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "abandon_attente", "evt": "b3d12c6c702a1fea", "categorie": "international", "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "3dc9d22c6afb4f2e", "score": 99, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["franceinfo", "Le Figaro"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "64c9104eb79f2cc2", "score": 99, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["franceinfo", "Le Figaro", "France 24"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "3cd43238e0301d31", "score": 87, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "d14935a72a2c6c81", "score": 81, "categorie": "politique", "sensible": false, "confiance": 82, "sources": ["franceinfo"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "f022801e44f88e81", "score": 84, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "6ce8287949418da8", "score": 83, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "26a20373eb891a0d", "score": 98, "categorie": "international", "sensible": true, "confiance": 87, "sources": ["franceinfo", "France 24"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "e836386d35444c1b", "score": 77, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 80, "sources": ["Le Figaro"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "d65a895219be2e5b", "score": 80, "categorie": "culture", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "attente", "evt": "ab50b3c449ea1339", "score": 83, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "attente", "evt": "954087e5ad44dea4", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "attente", "evt": "4a3c0fc6d0331246", "score": 80, "categorie": "sante", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "attente", "evt": "8875529019154827", "score": 79, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "14aca7b6fc3b7fb8", "score": 79, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "attente", "evt": "0739eb9bbb70bbe6", "score": 78, "categorie": "politique", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "attente", "evt": "56799cea21101099", "score": 78, "categorie": "politique", "sensible": true, "confiance": 82, "sources": ["RFI"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "attente", "evt": "0e0d02134731ae38", "score": 77, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "e6ba0adb9de03d5c", "score": 77, "categorie": "culture", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "7b45fd3de3550a3c", "score": 76, "categorie": "politique", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "7ff16ef0f2d02aa5", "score": 76, "categorie": "sport", "sensible": false, "confiance": 80, "sources": ["L'Équipe"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "publier", "evt": "771c23fefd1274ed", "score": 75, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "attente", "evt": "9c782318a75494ef", "score": 74, "categorie": "international", "sensible": true, "confiance": 70, "sources": ["BFMTV"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "attente", "evt": "fbf188010e048c67", "score": 69, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 75, "sources": ["BFMTV"], "ts": "2026-07-18T06:24:54+00:00"}
+{"decision": "controle", "evt": "3dc9d22c6afb4f2e", "motif": "ok_sim_0.49+alerte_retrogradee", "ts": "2026-07-18T06:25:00+00:00"}
+{"decision": "controle", "evt": "64c9104eb79f2cc2", "motif": "ok_sim_0.31", "ts": "2026-07-18T06:25:03+00:00"}
+{"decision": "publie", "empreinte": "4e194f85aeaa51e4", "post_id": "2078365416783511696", "carte": true, "texte": "⚡ FLASH — Les États-Unis bombardent l'Iran pour la septième nuit consécutive. Selon Irna, il y a des morts et blessés. L'Iran menace une « offensive totale » si les frappes persistent. Quatre pétroliers iraniens sont bloqués dans le détroit. (franceinfo)", "ts": "2026-07-18T06:25:04+00:00"}
+{"decision": "publie", "empreinte": "26f006cf44d5b071", "post_id": "2078365433472639029", "carte": true, "texte": "⚽ La France affronte l'Angleterre samedi à Miami (23h) en petite finale de la Coupe du monde 2026. Ce match marquera la fin de l'ère Didier Deschamps après quatorze ans à la tête de la sélection française. La finale Espagne-Argentine se disputera dimanche à New York.", "ts": "2026-07-18T06:25:08+00:00"}
