@@ -601,7 +601,8 @@
    "https://www.lefigaro.fr/international/c-est-un-criminel-de-guerre-le-maire-de-new-york-envisage-d-arreter-netanyahou-en-septembre-lors-de-l-assemblee-generale-de-l-onu-20260718",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-angleterre-en-video-l-ouverture-du-score-de-declan-rice-qui-punit-les-bleus-20260718",
    "https://www.lefigaro.fr/international/cuba-apres-5-ans-de-prison-l-artiste-dissident-luis-manuel-otero-alcantara-a-quitte-l-ile-pour-les-etats-unis-20260718",
-   "https://www.lefigaro.fr/faits-divers/nancy-une-femme-meurt-apres-une-defenestration-du-4e-etage-son-compagnon-place-en-garde-a-vue-puis-libere-20260718"
+   "https://www.lefigaro.fr/faits-divers/nancy-une-femme-meurt-apres-une-defenestration-du-4e-etage-son-compagnon-place-en-garde-a-vue-puis-libere-20260718",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-kylian-mbappe-egale-le-record-de-21-buts-de-lionel-messi-et-entre-un-peu-plus-dans-la-legende-20260719"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -854,7 +855,8 @@
    "2adbf038-82ce-11f1-9ff4-fff6f3fce3c1",
    "98f5e496-82d5-11f1-a79d-e762aa4d8129",
    "16bafd48-82e1-11f1-878b-c36f7642adee",
-   "702e3e92-82e3-11f1-8e46-21c449e46752"
+   "702e3e92-82e3-11f1-8e46-21c449e46752",
+   "8af76742-82f4-11f1-97a5-4169ff10435a"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1001,7 +1003,8 @@
    "3a837c94-82c5-11f1-a847-c5cf415204d3",
    "e40d12f4-82e6-11f1-a3e8-ad9a887ca20c",
    "04de527a-82d5-11f1-8353-e70d6fd15c04",
-   "56c2aaa8-82dc-11f1-af97-bb10164d7b96"
+   "56c2aaa8-82dc-11f1-af97-bb10164d7b96",
+   "0d4a49a4-82f4-11f1-be40-5302e0ec37d9"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1205,7 +1208,11 @@
    "https://www.ouest-france.fr/sport/coupe-du-monde/merci-pour-les-victoires-legendaires-et-avoir-fait-vibrer-la-france-emmanuel-macron-rend-hommage-a-didier-deschamps-7110bea4-82eb-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-les-argentins-pourront-afficher-leur-banderole-sur-les-malouines-dimanche-sans-etre-sanctionnes-ea113cf6-82e7-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/cuba/lartiste-dissident-luis-manuel-otero-alcantara-a-quitte-cuba-pour-les-etats-unis-e2b38e68-82e8-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/equipe-de-france/coupe-du-monde-victime-de-douleurs-au-dos-william-saliba-devrait-echapper-a-une-operation-057e6ed6-82e4-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/football/equipe-de-france/coupe-du-monde-victime-de-douleurs-au-dos-william-saliba-devrait-echapper-a-une-operation-057e6ed6-82e4-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/video-france-angleterre-kylian-mbappe-soffre-son-9e-but-de-la-coupe-du-monde-sur-une-6e-passe-decisive-dolise-9553efd4-82f5-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/kylian-mbappe-rejoint-lionel-messi-au-classement-des-meilleurs-buteurs-de-lhistoire-de-la-coupe-du-monde-97e838e4-7f9f-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/video-le-troisieme-but-signe-saka-les-bleus-sombrent-completement-contre-langleterre-aedefbae-82ed-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/canada/feux-le-dirigeant-de-lontario-juge-les-critiques-des-etats-unis-inacceptables-ba576bde-82f1-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1369,7 +1376,9 @@
    "https://www.bfmtv.com/international/moyen-orient/iran/video-dans-un-message-ecrit-mojtaba-khamenei-affirme-que-l-iran-reserve-des-lecons-inoubliables-aux-etats-unis_VN-202607180303.html",
    "https://www.bfmtv.com/international/moyen-orient/iran/video-les-nouvelles-images-des-frappes-iraniennes-sur-la-base-americaine-en-jordanie_VN-202607180302.html",
    "https://www.bfmtv.com/police-justice/paris-un-jeune-ne-en-2002-place-en-garde-a-vue-apres-un-debut-d-incendie-au-bois-de-boulogne_AN-202607180301.html",
-   "https://www.bfmtv.com/international/moyen-orient/iran/video-les-images-des-frappes-iraniennes-contre-la-base-americaine-muwaffaq-salti-en-jordanie_VN-202607180293.html"
+   "https://www.bfmtv.com/international/moyen-orient/iran/video-les-images-des-frappes-iraniennes-contre-la-base-americaine-muwaffaq-salti-en-jordanie_VN-202607180293.html",
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/le-maire-de-new-york-zohran-mamdani-envisage-l-arrestation-de-benjamin-netanyahu-lors-de-l-assemblee-generale-de-l-onu_AD-202607180345.html",
+   "https://www.bfmtv.com/international/moyen-orient/iran/video-les-soldats-americains-ont-ete-tues-au-service-de-notre-pays-reagit-donald-trump-qui-reaffirme-qu-il-ne-permettra-pas-a-l-iran-de-posseder-l-arme-nucleaire_VN-202607180342.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -1431,118 +1440,18 @@
    "https://www.lequipe.fr/Football/Actualites/Thomas-tuchel-siffle-avant-le-coup-d-envoi-de-la-petite-finale-de-la-coupe-du-monde-entre-la-france-et-l-angleterre/1705488",
    "https://www.lequipe.fr/Medias/Article/-je-ne-glorifie-jamais-le-jeu-mesquin-omar-da-fonseca-avant-de-commenter-sa-premiere-finale-de-coupe-du-monde/1705160",
    "https://www.lequipe.fr/Football/Actualites/Les-bleus-douches-par-l-angleterre-des-la-3e-minute-la-frappe-imparable-de-declan-rice-en-video/1705486",
-   "https://www.lequipe.fr/Football/Actualites/-merci-pour-les-victoires-legendaires-emmanuel-macron-rend-hommage-a-didier-deschamps-avant-son-dernier-match-avec-les-bleus/1705483"
+   "https://www.lequipe.fr/Football/Actualites/-merci-pour-les-victoires-legendaires-emmanuel-macron-rend-hommage-a-didier-deschamps-avant-son-dernier-match-avec-les-bleus/1705483",
+   "https://www.lequipe.fr/Football/Actualites/Les-bleus-sombrent-en-petite-finale-de-la-coupe-du-monde-le-double-de-bukayo-saka-en-video/1705500",
+   "https://www.lequipe.fr/Football/Video/Coupe-du-monde-2026-johan-micoud-les-francais-n-ont-pas-encore-digere/20237872",
+   "https://www.lequipe.fr/Football/Actualites/Coupe-du-monde-2026-que-retenez-vous-de-la-premiere-periode-ubuesque-entre-la-france-et-l-angleterre/1705498",
+   "https://www.lequipe.fr/Football/Article/Contre-pied-orientation-du-corps-angles-de-passe-pourquoi-lionel-messi-aime-autant-jouer-en-diagonale-dans-cette-coupe-du-monde/1705293",
+   "https://www.lequipe.fr/Football/Actualites/Les-bleus-passent-au-travers-de-leur-petite-finale-la-tete-d-ezri-konsa-synonyme-de-but-du-break-pour-l-angleterre-en-video/1705494",
+   "https://www.lequipe.fr/Football/Actualites/Coupe-du-monde-pour-said-ennjimi-le-bilan-des-nouvelles-regles-d-arbitrage-est-tres-positif/1705064",
+   "https://www.lequipe.fr/Football/Video/Coupe-du-monde-2026-didier-deschamps-la-derniere-danse/20237785"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "La France dispute la petite finale de la Coupe du monde 2026 contre l'Angleterre le 18 juillet",
-    "Mbappé est titulaire avec six changements dans l'équipe de France",
-    "Didier Deschamps est à son dernier match à la tête de la sélection après 14 ans",
-    "Kylian Mbappé rend hommage à Didier Deschamps avant la rencontre",
-    "La rencontre se joue à Miami"
-   ],
-   "qui": "Équipe de France / Équipe d'Angleterre, Didier Deschamps, Kylian Mbappé",
-   "ou": "Miami",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "Le Figaro",
-    "France 24",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "2bf04786142f3572",
-   "score": 100,
-   "fiab_max": 85,
-   "nb_sources": 3,
-   "depuis": "2026-07-18T19:47:57.555880+00:00"
-  },
-  {
-   "faits": [
-    "Tadej Pogacar remporte la 14e étape du Tour de France 2026 au col du Markstein/Haag",
-    "Pogacar renforce son maillot jaune de leader",
-    "Paul Seixas termine troisième et récupère le maillot blanc de meilleur jeune",
-    "Seixas revient à la troisième place du classement général"
-   ],
-   "qui": "Tadej Pogacar, Paul Seixas",
-   "ou": "Col du Markstein/Haag (Tour de France)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "5901766162b1953f",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-18T16:15:28.459287+00:00"
-  },
-  {
-   "faits": [
-    "Tadej Pogacar remporte la 14e étape du Tour de France 2026 au Markstein",
-    "Il s'agit de la quatrième victoire d'étape de Pogacar dans cette édition",
-    "Paul Seixas obtient le maillot blanc de meilleur jeune",
-    "Pogacar conserve le maillot jaune",
-    "La course s'est déroulée dans une ambiance survoltée selon Pogacar"
-   ],
-   "qui": "Tadej Pogacar, Paul Seixas",
-   "ou": "Markstein, Vosges",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "France 24",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "eb13a069e0572c85",
-   "score": 99,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-18T17:26:46.034953+00:00"
-  },
-  {
-   "faits": [
-    "France et Angleterre se retrouvent en petite finale de la Coupe du monde 2026",
-    "Le match se joue samedi 18 juillet à Miami",
-    "Les deux équipes ont été éliminées en demi-finale",
-    "Didier Deschamps dirigera son 185e match à la tête des Bleus",
-    "C'est le dernier match de Deschamps après 14 ans de mandat",
-    "Jesus Valenzuela (Vénézuela) arbitra la rencontre",
-    "Kylian Mbappé est capitaine de l'équipe de France"
-   ],
-   "qui": "Équipe de France de football, Équipe d'Angleterre",
-   "ou": "Miami, États-Unis",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "Le Figaro",
-    "France 24",
-    "RFI",
-    "Ouest-France",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "db69957147525f27",
-   "score": 98,
-   "fiab_max": 85,
-   "nb_sources": 5,
-   "depuis": "2026-07-18T20:33:49.963273+00:00"
-  },
   {
    "faits": [
     "Paul Seixas a remporté sa deuxième troisième place en quatre jours au Markstein lors de la 14e étape du Tour de France 2026",
@@ -1568,31 +1477,6 @@
    "fiab_max": 90,
    "nb_sources": 4,
    "depuis": "2026-07-18T18:32:43.496634+00:00"
-  },
-  {
-   "faits": [
-    "Josh Kerr (Britannique) bat le record du monde du mile",
-    "Temps réalisé : 3 min 42 sec 66",
-    "Compétition : Ligue de diamant à Londres",
-    "Record précédent : détenu par Hicham El Guerrouj depuis 27 ans (3'43''13 en 1999)",
-    "Kerr avait annoncé depuis des mois son objectif de battre ce record"
-   ],
-   "qui": "Josh Kerr, Hicham El Guerrouj",
-   "ou": "Londres (Royaume-Uni)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "9e52630f8de2e21d",
-   "score": 98,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-18T16:15:28.459292+00:00"
   },
   {
    "faits": [
@@ -1647,28 +1531,6 @@
    "fiab_max": 85,
    "nb_sources": 4,
    "depuis": "2026-07-18T18:32:43.496637+00:00"
-  },
-  {
-   "faits": [
-    "France affronte l'Angleterre en petite finale du Mondial 2026",
-    "Ce sera la dernière petite finale en tant que sélectionneur de l'équipe de France pour Didier Deschamps"
-   ],
-   "qui": "Équipe de France, Équipe d'Angleterre, Didier Deschamps",
-   "ou": "Miami (États-Unis)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "1e1dc417d3a540e2",
-   "score": 97,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-18T16:15:28.459294+00:00"
   },
   {
    "faits": [
@@ -1821,6 +1683,31 @@
   },
   {
    "faits": [
+    "Le président hongrois Tamas Sulyok a accepté de signer un amendement mettant fin à ses fonctions le 18 juillet 2026",
+    "Sulyok a renoncé à engager un bras de fer juridique et politique avec le Premier ministre Peter Magyar",
+    "Peter Magyar a remporté les élections contre Viktor Orbán",
+    "Sulyok avait été nommé en 2024",
+    "Magyar avait obtenu la destitution de Sulyok"
+   ],
+   "qui": "Tamas Sulyok, Peter Magyar, Viktor Orbán",
+   "ou": "Hongrie",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "7e114af9caead61f",
+   "score": 92,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-18T22:28:55.811196+00:00"
+  },
+  {
+   "faits": [
     "Jens Spahn, chef des députés conservateurs allemands, a démissionné",
     "Il a eu un enfant par gestation pour autrui (GPA) avec son mari",
     "Son parti s'oppose farouchement à la GPA",
@@ -1848,6 +1735,30 @@
   },
   {
    "faits": [
+    "Une attaque a visé l'armée malienne et les mercenaires russes le 18 juillet 2026",
+    "L'attaque s'est déroulée dans la région d'Anéfis au nord du Mali",
+    "Une semaine auparavant, l'armée malienne et les mercenaires russes avaient repris fermement pied à Anéfis",
+    "L'attaque a pris la forme d'une embuscade"
+   ],
+   "qui": "armée malienne, mercenaires russes, groupe attaquant non identifié",
+   "ou": "Anéfis, nord du Mali",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "4be41d3234ee39a9",
+   "score": 90,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-18T22:28:55.811199+00:00"
+  },
+  {
+   "faits": [
     "Le président hongrois Tamás Sulyok a annoncé accepter de signer une réforme constitutionnelle",
     "Cette réforme a été récemment votée par le parlement hongrois",
     "La réforme mettra fin au mandat du président Sulyok",
@@ -1872,29 +1783,6 @@
   },
   {
    "faits": [
-    "L'Iran a commis des frappes sur des infrastructures civiles à Bahreïn, au Koweït et en Jordanie",
-    "Les Gardiens de la Révolution ont revendiqué ces frappes",
-    "Présentées comme réponse aux attaques menées par les États-Unis sur des ponts, des tunnels et des usines de dessalement",
-    "Le secrétaire général du Conseil de coopération du Golfe qualifie cela de 'crimes de guerre' et 'graves violations du droit international'"
-   ],
-   "qui": "Iran, Gardiens de la Révolution, États-Unis, Conseil de coopération du Golfe",
-   "ou": "Bahreïn, Koweït, Jordanie, Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "15b0d5145fd655fa",
-   "score": 87,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-18T16:15:28.458224+00:00"
-  },
-  {
-   "faits": [
     "Plus de 300 drones ukrainiens lancés vers Moscou",
     "Une attaque de drones à Kotovsk, petite ville de l'ouest de la Russie",
     "Au moins 7 morts et 25 blessés à Kotovsk",
@@ -1915,73 +1803,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-18T17:26:46.034962+00:00"
-  },
-  {
-   "faits": [
-    "La justice brésilienne interdit une visite du président argentin Javier Milei à Jair Bolsonaro",
-    "Bolsonaro est assigné à résidence",
-    "Bolsonaro a été condamné à 27 ans de prison pour avoir planifié un coup d'État en 2022",
-    "La visite était prévue le 25 juillet"
-   ],
-   "qui": "Javier Milei, Jair Bolsonaro, justice brésilienne",
-   "ou": "Brésil, Argentine",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "a982e35ae1d8fcad",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-18T16:15:28.459302+00:00"
-  },
-  {
-   "faits": [
-    "La justice ordonne au garde des Sceaux de mettre fin aux comportements contraires à la déontologie à la prison de Condé-sur-Sarthe",
-    "Un rapport de la contrôleure générale des lieux de privation de liberté dénonçait début juillet des 'violences systémiques' dans cette prison de haute sécurité"
-   ],
-   "qui": "Garde des Sceaux, contrôleure générale des lieux de privation de liberté",
-   "ou": "Prison de Condé-sur-Sarthe (France)",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "ef3e2d01f28cf07b",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-18T16:15:28.459305+00:00"
-  },
-  {
-   "faits": [
-    "Un laboratoire clandestin de drogues de synthèse découvert à La Haye aux Pays-Bas",
-    "Dizaines de logements évacués",
-    "Quatre hommes interpellés, âgés de 34 à 71 ans",
-    "Trois arrestations supplémentaires après une première interpellation vendredi"
-   ],
-   "qui": "Police néerlandaise, quatre suspects",
-   "ou": "La Haye (Pays-Bas)",
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "98a44601175ce9ed",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-18T16:15:28.459308+00:00"
   },
   {
    "faits": [
@@ -2102,81 +1923,75 @@
   },
   {
    "faits": [
-    "Demi-finale France-Espagne du Mondial 2026 a enregistré 20,2 millions de téléspectateurs",
-    "C'est la meilleure audience de la télévision en France depuis deux ans",
-    "C'est le match le plus regardé du Mondial 2026 avant la petite et la grande finale"
+    "Deux militaires américains ont été tués au combat en Jordanie vendredi 17 juillet 2026",
+    "Ils repoussaient des attaques de missiles balistiques iraniens et de drones",
+    "Donald Trump a réaffirmé qu'il ne permettrait pas à l'Iran de posséder l'arme nucléaire"
    ],
-   "qui": "France, Espagne",
-   "ou": "France (audience)",
-   "categorie": "sport",
+   "qui": "militaires américains, Iran, Donald Trump",
+   "ou": "Jordanie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "8d2fbf291956667c",
+   "score": 75,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-18T22:28:41.010920+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump a menacé vendredi d'imposer de nouveaux droits de douane sur les produits canadiens",
+    "Trump a accusé le Canada de négligence délibérée et de ne pas entretenir correctement ses forêts",
+    "Le dirigeant de l'Ontario a jugé samedi les critiques de l'administration américaine contre le Canada absolument inacceptables",
+    "L'Ontario est en proie à des feux de forêt"
+   ],
+   "qui": "Donald Trump, autorités canadiennes, dirigeant de l'Ontario",
+   "ou": "Canada, Ontario",
+   "categorie": "economie",
    "sensible": false,
-   "confiance": 90,
+   "confiance": 80,
    "sources": [
     "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "d28c3706cff73adf",
-   "score": 84,
+   "importance": 55,
+   "empreinte": "695bda106ac38ecc",
+   "score": 75,
    "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-18T16:15:28.459315+00:00"
+   "depuis": "2026-07-18T22:28:55.811211+00:00"
   },
   {
    "faits": [
-    "Jens Spahn, chef des députés conservateurs allemands, démissionne de son poste",
-    "Motif : il a eu un enfant via une mère porteuse aux États-Unis",
-    "La GPA est interdite en Allemagne et rejetée par son propre parti (CDU)"
+    "Le maire de New York Zohran Mamdani envisage l'arrestation de Benjamin Netanyahu lors de l'Assemblée générale de l'ONU en septembre",
+    "Mamdani s'est engagé dans des discussions avec les autorités de la ville à ce sujet",
+    "Benjamin Netanyahu est visé par des mandats d'arrêt de la Cour pénale internationale"
    ],
-   "qui": "Jens Spahn, parti CDU, chancelier Friedrich Merz",
-   "ou": "Allemagne",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "f0aa73619fc904f7",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-18T16:15:28.459316+00:00"
-  },
-  {
-   "faits": [
-    "Le président hongrois Tamás Sulyok va démissionner",
-    "Il va signer la réforme constitutionnelle votée par le parlement",
-    "Il avait d'abord refusé de quitter son poste malgré les injonctions du nouveau premier ministre Péter Magyar",
-    "Péter Magyar a été largement élu en avril"
-   ],
-   "qui": "Tamás Sulyok, Péter Magyar, Viktor Orbán",
-   "ou": "Hongrie",
-   "categorie": "politique",
+   "qui": "Zohran Mamdani, Benjamin Netanyahu",
+   "ou": "New York",
+   "categorie": "international",
    "sensible": true,
-   "confiance": 88,
+   "confiance": 75,
    "sources": [
-    "Le Figaro"
+    "BFMTV"
    ],
-   "non_confirme": [],
+   "non_confirme": [
+    "La possibilité technique d'arrêter Netanyahu à New York"
+   ],
    "importance": 70,
-   "empreinte": "7e114af9caead61f",
-   "score": 83,
-   "fiab_max": 85,
+   "empreinte": "00ad45b2568815a4",
+   "score": 74,
+   "fiab_max": 75,
    "nb_sources": 1,
-   "depuis": "2026-07-18T17:26:46.034029+00:00"
+   "depuis": "2026-07-18T22:28:41.010870+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "96b7e9805972cb62",
-   "2026-07-16T07:06:59.794481+00:00"
-  ],
-  [
-   "a4d93bcb41050a43",
-   "2026-07-16T07:07:03.745634+00:00"
-  ],
   [
    "b6882b0900da98e2",
    "2026-07-16T22:43:33.190564+00:00"
@@ -2256,6 +2071,14 @@
   [
    "26f006cf44d5b071",
    "2026-07-18T06:25:08.516029+00:00"
+  ],
+  [
+   "59a0d01ea0062f28",
+   "2026-07-18T22:28:56.941695+00:00"
+  ],
+  [
+   "a13b82b6c79abeb0",
+   "2026-07-18T22:29:00.898634+00:00"
   ]
  ],
  "evenements_48h": [
@@ -2338,24 +2161,24 @@
   [
    "64c9104eb79f2cc2",
    "2026-07-18T06:25:03.407570+00:00"
+  ],
+  [
+   "2bf04786142f3572",
+   "2026-07-18T22:28:46.148025+00:00"
+  ],
+  [
+   "58ae6a0736ece44e",
+   "2026-07-18T22:28:55.811168+00:00"
   ]
  ],
  "depeches_du_jour": [
-  "Une violente séquence orageuse a traversé plusieurs départements français avec plus de 20 000 éclairs en 24 heures. Elle a provoqué grêle, tornades et vents puissants. Le 17 juillet, 11 000 foyers restaient sans électricité. (franceinfo)",
-  "⚡ FLASH — L'Iran a mené des attaques contre le Qatar, le Koweït et Bahreïn, visant la base aérienne américaine d'Al-Udeid et une centrale électrique. Les Gardiens de la révolution invoquent des bombardements américains en Iran. (France 24, RFI)",
-  "⚡ FLASH — Un double séisme a frappé le Venezuela le 24 juin 2026, faisant au moins 5 069 morts et 16 740 blessés selon les autorités. L'ONU avait estimé que le bilan pouvait atteindre 50 000 morts. (franceinfo)",
-  "Des milliers de personnes manifestent à Kiev contre l'éviction du ministre de la Défense Mykhaïlo Fedorov, décidée par le président Zelensky. Le ministre populaire affirme être en conflit avec le commandant en chef de l'armée. (franceinfo)",
-  "⚽ Didier Deschamps prévoit de faire tourner son effectif pour la petite finale contre l'Angleterre samedi à Miami. Gusto, Konaté, Lacroix, Zaïre-Emery et Cherki pourraient être alignés, tandis qu'un noyau de titulaires sera préservé. (L'Équipe, Le Figaro)",
-  "🌡️ Le Canada connaît sa pire saison des feux. Près de 2,8 millions d'hectares ont brûlé, avec 900 incendies actifs dont 200 hors de contrôle. L'Ontario demande l'aide fédérale. (Le Figaro, 20 Minutes)",
-  "⚽ L'Espagne affrontera l'Argentine dimanche en finale de la Coupe du monde 2026 à New York. Rodri, capitaine espagnol, appelle ses coéquipiers à rester concentrés et à ne pas se laisser provoqué par l'adversaire.",
-  "⚽ La finale de la Coupe du monde 2026 opposera l'Espagne et l'Argentine dimanche soir au MetLife Stadium. Lionel Messi jouera cette rencontre sur le même stade où il avait annoncé sa retraite internationale en 2016. (L'Équipe)",
-  "⚡ FLASH — Les États-Unis bombardent l'Iran pour la septième nuit consécutive. Selon Irna, il y a des morts et blessés. L'Iran menace une « offensive totale » si les frappes persistent. Quatre pétroliers iraniens sont bloqués dans le détroit. (franceinfo)",
-  "⚽ La France affronte l'Angleterre samedi à Miami (23h) en petite finale de la Coupe du monde 2026. Ce match marquera la fin de l'ère Didier Deschamps après quatorze ans à la tête de la sélection française. La finale Espagne-Argentine se disputera dimanche à New York."
+  "⚽ La France affronte l'Angleterre en petite finale de la Coupe du monde 2026, samedi 18 juillet à Miami. Mbappé est titulaire avec six changements. C'est le dernier match de Deschamps à la tête de la sélection après 14 ans.",
+  "⚽ Kylian Mbappé a marqué en petite finale face à l'Angleterre à Miami le 18 juillet 2026. Avec ce but, il égalise le record de 21 buts de Lionel Messi en Coupe du monde. (Le Figaro, L'Équipe)"
  ],
  "recap_date": "2026-07-18",
  "echecs_extraction": 0,
  "compteur": {
-  "date": "2026-07-18",
-  "publies": 10
+  "date": "2026-07-19",
+  "publies": 2
  }
 }
