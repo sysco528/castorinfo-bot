@@ -475,7 +475,8 @@
    "https://www.lefigaro.fr/flash-actu/venezuela-le-bilan-du-double-seisme-depasse-les-5000-morts-20260717",
    "https://www.lefigaro.fr/flash-actu/norvege-un-incendie-detruit-plus-d-une-centaine-de-logements-20260717",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-ne-pas-tomber-dans-la-provocation-rodri-se-mefie-du-comportement-de-l-albiceleste-20260718",
-   "https://www.lefigaro.fr/flash-actu/viols-filmes-en-milieu-libertin-cinq-hommes-supplementaires-mis-en-examen-19-au-total-20260717"
+   "https://www.lefigaro.fr/flash-actu/viols-filmes-en-milieu-libertin-cinq-hommes-supplementaires-mis-en-examen-19-au-total-20260717",
+   "https://www.lefigaro.fr/musique/emmanuel-et-brigitte-macron-places-a-2000-euros-la-folie-bts-s-empare-du-stade-de-france-20260718"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -809,7 +810,9 @@
    "1d3f73a2-81e1-11f1-84ac-8998530e5bf2",
    "a4d95538-81d9-11f1-8a34-71ec415ad0c6",
    "85ad34dc-8205-11f1-bca2-0f8ea9612052",
-   "e7e5875a-8212-11f1-96ba-e9fa1d490952"
+   "e7e5875a-8212-11f1-96ba-e9fa1d490952",
+   "b64a9dc6-823e-11f1-a8e3-0b87ea9fc21b",
+   "addd5f74-8226-11f1-a5cc-e7390293f388"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -956,7 +959,8 @@
    "https://www.ouest-france.fr/societe/justice/viols-filmes-en-milieu-libertin-cinq-nouvelles-mises-en-examen-19-au-total-f291a8bc-821e-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/venezuela/venezuela-le-bilan-du-double-seisme-depasse-les-5-000-morts-ce5b710e-822c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/equipe-angleterre/coupe-du-monde-pep-guardiola-aurait-pu-etre-sur-le-banc-de-langleterre-a-la-place-de-thomas-tuchel-c219db7a-821c-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/olympique-de-marseille/lom-ecrase-le-yamoussoukro-fc-pour-la-grande-premiere-de-bruno-genesio-sur-le-banc-marseillais-en-match-de-preparation-63958c7a-821c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/football/olympique-de-marseille/lom-ecrase-le-yamoussoukro-fc-pour-la-grande-premiere-de-bruno-genesio-sur-le-banc-marseillais-en-match-de-preparation-63958c7a-821c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-au-moins-trois-morts-et-des-blesses-dans-le-sud-de-liran-les-dernieres-infos-fb3bdea0-8229-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1154,123 +1158,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "Didier Deschamps prévoit de faire tourner l'équipe de France pour la petite finale",
-    "Changements potentiels : Gusto, Konaté, Lacroix, Zaïre-Emery et Cherki attendus",
-    "Petite finale face à l'Angleterre le samedi à Miami à 21 heures",
-    "Un solide noyau de titulaires conservé"
-   ],
-   "qui": "Didier Deschamps, équipe de France, équipe d'Angleterre",
-   "ou": "Miami",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "L'Équipe",
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "Composition exacte de l'équipe"
-   ],
-   "importance": 70,
-   "empreinte": "4ca49a5a21298cfc",
-   "score": 94,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-17T22:28:22.906023+00:00"
-  },
-  {
-   "faits": [
-    "Le Canada fait face à une aggravation brutale de sa saison des feux",
-    "Près de 2,8 millions d'hectares ont déjà brûlé depuis le début de l'année",
-    "Plus de 200 feux sont hors de contrôle",
-    "L'Ontario est particulièrement touchée et a demandé l'aide du gouvernement fédéral",
-    "Près de 900 incendies restent actifs sur le territoire canadien"
-   ],
-   "qui": "Canada",
-   "ou": "Canada, Ontario",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 87,
-   "sources": [
-    "Le Figaro",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "99a2a562354ee787",
-   "score": 94,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-17T21:27:17.790818+00:00"
-  },
-  {
-   "faits": [
-    "La fumée des incendies au Canada a plongé vendredi plusieurs métropoles américaines dans un épais voile de pollution",
-    "Donald Trump s'en est pris au Canada pour cette pollution de l'air"
-   ],
-   "qui": "Donald Trump, Canada",
-   "ou": "États-Unis / Canada",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro",
-    "Ouest-France",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "c209cd53b2d863b4",
-   "score": 93,
-   "fiab_max": 85,
-   "nb_sources": 3,
-   "depuis": "2026-07-17T21:27:17.790820+00:00"
-  },
-  {
-   "faits": [
-    "Lors de la canicule de juin en Île-de-France, la mortalité a plus que doublé par rapport à la normale",
-    "Santé publique France rapporte une variation de +122%",
-    "1 565 décès supplémentaires ont été enregistrés entre le nombre attendu et observé"
-   ],
-   "qui": "Santé publique France",
-   "ou": "Île-de-France, France",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 98,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "90f7028234d55a03",
-   "score": 93,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T20:31:54.775250+00:00"
-  },
-  {
-   "faits": [
-    "Emmanuel Macron appelle à se « méfier » des sondages prédisant la victoire de Marine Le Pen à l'élection présidentielle de 2027",
-    "Macron a comparé la situation aux élections françaises de 2016-2017"
-   ],
-   "qui": "Emmanuel Macron, Marine Le Pen",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 88,
-   "empreinte": "8d63eb253d7d52cb",
-   "score": 90,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T18:14:57.675303+00:00"
-  },
-  {
-   "faits": [
     "Incendie de Fontainebleau maîtrisé après une semaine de lutte",
     "Le feu est désormais fixé vendredi 17 juillet",
     "La forêt, classée réserve biosphère, a été dévastée",
@@ -1291,29 +1178,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-17T20:31:54.775254+00:00"
-  },
-  {
-   "faits": [
-    "Andy Burnham a été intronisé à la tête du parti travailliste britannique le 17 juillet",
-    "Il s'installera à Downing Street lundi en tant que Premier ministre",
-    "Il succède à Keir Starmer, qui a démissionné",
-    "Burnham s'engage à « redonner espoir » aux Britanniques"
-   ],
-   "qui": "Andy Burnham, Keir Starmer, parti travailliste britannique",
-   "ou": "Royaume-Uni",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "323cdd4d5bf11464",
-   "score": 88,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T18:14:57.675304+00:00"
   },
   {
    "faits": [
@@ -1428,29 +1292,6 @@
   },
   {
    "faits": [
-    "Le Parlement japonais a approuvé la révision de la loi sur la succession de l'empereur Naruhito",
-    "L'empereur Naruhito n'a pas de fils",
-    "La révision n'autorise pas les femmes à accéder au trône",
-    "Un système d'adoption a été adopté pour permettre à des parents masculins éloignés de réintégrer la famille impériale"
-   ],
-   "qui": "Empereur Naruhito, Parlement japonais",
-   "ou": "Japon",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "59ea429ba4e1b50c",
-   "score": 86,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T18:14:57.675307+00:00"
-  },
-  {
-   "faits": [
     "Finale de la Coupe du monde 2026 entre l'Espagne et l'Argentine dimanche à New York",
     "Rodri, capitaine de l'Espagne, appelle à ne pas tomber dans la provocation face à l'Argentine"
    ],
@@ -1469,94 +1310,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-17T23:30:45.984435+00:00"
-  },
-  {
-   "faits": [
-    "Le président polonais Karol Nawrocki a mis son veto au projet de loi sur les unions civiles homosexuelles le 17 juillet",
-    "Le statut de « personne la plus proche » avait été adopté au Parlement fin mai",
-    "Ce projet promettait des droits semblables à ceux du PACS en France"
-   ],
-   "qui": "Karol Nawrocki (président de Pologne), communauté LGBTQ+ polonaise",
-   "ou": "Pologne",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "808d5c2125d837f4",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T18:14:57.675315+00:00"
-  },
-  {
-   "faits": [
-    "Les forces armées ukrainiennes ont annoncé avoir frappé 12 navires russes en mer Noire le 17 juillet",
-    "L'objectif stratégique ukrainien est d'empêcher les navires russes de circuler librement en mer d'Azov et en mer Noire"
-   ],
-   "qui": "Forces armées ukrainiennes, Russie",
-   "ou": "Mer Noire, mer d'Azov",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "7e522abcb4a1a1da",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T18:14:57.675316+00:00"
-  },
-  {
-   "faits": [
-    "Le Comité des sanctions des Nations unies a annoncé de nouvelles sanctions contre des groupes armés sévissant dans l'est de la RDC",
-    "La liste a été validée le 14 juillet et publiée le 16 juillet",
-    "L'AFC/M23, soutenu par le Rwanda, est visé par les sanctions",
-    "Six responsables de mouvements armés et deux nouvelles entités sont sanctionnés"
-   ],
-   "qui": "ONU, groupes armés de l'est de la RDC, Rwanda",
-   "ou": "République démocratique du Congo",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "627f5270bb7e35ba",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T18:14:57.675318+00:00"
-  },
-  {
-   "faits": [
-    "Mikel Merino (attaquant espagnol) s'attend à une finale intense de la Coupe du monde 2026 contre l'Argentine",
-    "La finale est prévue à deux jours de l'interview (soit le 19 juillet environ)",
-    "L'Espagne affrontera l'Argentine en finale"
-   ],
-   "qui": "Mikel Merino, Espagne, Argentine",
-   "ou": "Coupe du monde 2026",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "3324992c6c9bf88e",
-   "score": 85,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-17T18:14:57.675320+00:00"
   },
   {
    "faits": [
@@ -1695,6 +1448,53 @@
   },
   {
    "faits": [
+    "Le président félix Tshisekedi annonce l'organisation d'un dialogue national inclusif en RDC",
+    "L'annonce a été faite le 17 juillet 2026 à l'issue d'une rencontre avec les chefs des confessions religieuses",
+    "Le dialogue était réclamé depuis plus d'un an par les Églises, une partie de l'opposition et des organisations de la société civile",
+    "La RDC est confrontée à une guerre dans l'Est et à une crise politique profonde"
+   ],
+   "qui": "Félix Tshisekedi",
+   "ou": "République démocratique du Congo",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "0739eb9bbb70bbe6",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-18T01:02:53.418463+00:00"
+  },
+  {
+   "faits": [
+    "Jens Spahn, président du groupe parlementaire CDU/CSU en Allemagne, et son époux Daniel Funke ont eu recours à une mère porteuse à l'étranger",
+    "La GPA est interdite en Allemagne",
+    "Le parti CDU/CSU rejette la gestation pour autrui",
+    "Spahn et Funke sont la cible de commentaires haineux sur internet et de critiques au sein de leur formation politique",
+    "Ils sont accusés de double morale"
+   ],
+   "qui": "Jens Spahn, Daniel Funke, CDU/CSU",
+   "ou": "Allemagne",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "56799cea21101099",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-18T01:02:53.418491+00:00"
+  },
+  {
+   "faits": [
     "Joan Capdevila, champion du monde en 2010, a eu sa demande d'ESTA refusée",
     "Il ne peut pas assister à la finale Espagne-Argentine dimanche",
     "Il a appeté à Donald Trump pour l'aider"
@@ -1714,6 +1514,30 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-17T23:30:45.984451+00:00"
+  },
+  {
+   "faits": [
+    "Des frappes américaines ont fait au moins trois morts et huit blessés dans le sud de l'Iran",
+    "Deux pétroliers ont explosé et pris feu en traversant une zone minée au sud du détroit d'Ormuz",
+    "L'incident a été annoncé samedi par les Gardiens de la Révolution"
+   ],
+   "qui": "États-Unis, Iran, Gardiens de la Révolution",
+   "ou": "Sud de l'Iran, détroit d'Ormuz",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "L'origine exacte des frappes (implicitement attribuées aux États-Unis)"
+   ],
+   "importance": 75,
+   "empreinte": "0e0d02134731ae38",
+   "score": 77,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-18T01:02:53.418517+00:00"
   },
   {
    "faits": [
@@ -1740,6 +1564,30 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-17T22:28:07.187674+00:00"
+  },
+  {
+   "faits": [
+    "BTS a donné un concert au Stade de France vendredi 17 juillet 2026",
+    "C'était le premier concert du groupe en France depuis 2019",
+    "Environ 88 000 personnes ont assisté au concert",
+    "Emmanuel Macron et Brigitte Macron ont assisté au concert",
+    "Les places se vendaient 2000 euros"
+   ],
+   "qui": "BTS, Emmanuel Macron, Brigitte Macron",
+   "ou": "Stade de France",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "e6ba0adb9de03d5c",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-18T01:03:02.248383+00:00"
   },
   {
    "faits": [
@@ -1834,14 +1682,6 @@
  ],
  "publies_48h": [
   [
-   "b357f12ab8bcae11",
-   "2026-07-15T23:36:07.620354+00:00"
-  ],
-  [
-   "07c3352e00285225",
-   "2026-07-15T23:36:11.590422+00:00"
-  ],
-  [
    "6e46e1866c0d920d",
    "2026-07-16T01:06:09.787269+00:00"
   ],
@@ -1920,17 +1760,17 @@
   [
    "1978cee295169314",
    "2026-07-17T23:30:51.354229+00:00"
+  ],
+  [
+   "2820bbf8a658fd3c",
+   "2026-07-18T01:03:03.398305+00:00"
+  ],
+  [
+   "fe3bb1528e04b8d8",
+   "2026-07-18T01:03:07.358234+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "537e9248300c357e",
-   "2026-07-15T23:36:01.363620+00:00"
-  ],
-  [
-   "7b11a5c9c2529d92",
-   "2026-07-15T23:36:06.379405+00:00"
-  ],
   [
    "066e4b1a6b150531",
    "2026-07-16T01:06:05.112956+00:00"
@@ -2010,18 +1850,28 @@
   [
    "79d71b60fd273253",
    "2026-07-17T23:30:45.984401+00:00"
+  ],
+  [
+   "4ca49a5a21298cfc",
+   "2026-07-18T01:02:56.481094+00:00"
+  ],
+  [
+   "99a2a562354ee787",
+   "2026-07-18T01:03:02.248357+00:00"
   ]
  ],
  "depeches_du_jour": [
   "Une violente séquence orageuse a traversé plusieurs départements français avec plus de 20 000 éclairs en 24 heures. Elle a provoqué grêle, tornades et vents puissants. Le 17 juillet, 11 000 foyers restaient sans électricité. (franceinfo)",
   "⚡ FLASH — L'Iran a mené des attaques contre le Qatar, le Koweït et Bahreïn, visant la base aérienne américaine d'Al-Udeid et une centrale électrique. Les Gardiens de la révolution invoquent des bombardements américains en Iran. (France 24, RFI)",
   "⚡ FLASH — Un double séisme a frappé le Venezuela le 24 juin 2026, faisant au moins 5 069 morts et 16 740 blessés selon les autorités. L'ONU avait estimé que le bilan pouvait atteindre 50 000 morts. (franceinfo)",
-  "Des milliers de personnes manifestent à Kiev contre l'éviction du ministre de la Défense Mykhaïlo Fedorov, décidée par le président Zelensky. Le ministre populaire affirme être en conflit avec le commandant en chef de l'armée. (franceinfo)"
+  "Des milliers de personnes manifestent à Kiev contre l'éviction du ministre de la Défense Mykhaïlo Fedorov, décidée par le président Zelensky. Le ministre populaire affirme être en conflit avec le commandant en chef de l'armée. (franceinfo)",
+  "⚽ Didier Deschamps prévoit de faire tourner son effectif pour la petite finale contre l'Angleterre samedi à Miami. Gusto, Konaté, Lacroix, Zaïre-Emery et Cherki pourraient être alignés, tandis qu'un noyau de titulaires sera préservé. (L'Équipe, Le Figaro)",
+  "🌡️ Le Canada connaît sa pire saison des feux. Près de 2,8 millions d'hectares ont brûlé, avec 900 incendies actifs dont 200 hors de contrôle. L'Ontario demande l'aide fédérale. (Le Figaro, 20 Minutes)"
  ],
  "recap_date": "2026-07-17",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-18",
-  "publies": 4
+  "publies": 6
  }
 }
