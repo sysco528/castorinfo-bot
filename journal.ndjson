@@ -3125,3 +3125,35 @@
 {"decision": "controle", "evt": "1a0ed853fc26386f", "motif": "ok_sim_0.35+alerte_retrogradee", "ts": "2026-07-19T04:33:37+00:00"}
 {"decision": "publie", "empreinte": "f62bc80871da3e13", "post_id": "2078699760605925387", "carte": true, "texte": "🇿🇦 Des violences xénophobes se poursuivent en Afrique du Sud. Des marches se sont transformées en chasse aux étrangers, poussant des dizaines de milliers d'étrangers à fuir. Un camp de réfugiés coordonne les rapatriements. (RFI, Ouest-France)", "ts": "2026-07-19T04:33:38+00:00"}
 {"decision": "publie", "empreinte": "f151b1353e96fbe0", "post_id": "2078699777232187488", "carte": true, "texte": "⚡ FLASH — Les États-Unis ont lancé dimanche des bombardements contre l'Iran pour punir la mort de deux militaires en Jordanie. L'Iran a riposté en attaquant deux bases au Koweït. C'est la huitième nuit consécutive de frappes. (Ouest-France, BFMTV)", "ts": "2026-07-19T04:33:42+00:00"}
+{"decision": "abandon_attente", "evt": "b11d28f8ee3d2535", "categorie": "international", "ts": "2026-07-19T07:10:42+00:00"}
+{"decision": "abandon_attente", "evt": "46606d826acc6fd1", "categorie": "international", "ts": "2026-07-19T07:10:42+00:00"}
+{"decision": "abandon_attente", "evt": "c5525e14f0938d06", "categorie": "sport", "ts": "2026-07-19T07:10:42+00:00"}
+{"decision": "abandon_attente", "evt": "3152bc258828be19", "categorie": "justice", "ts": "2026-07-19T07:10:42+00:00"}
+{"decision": "abandon_attente", "evt": "5531b7128c886eca", "categorie": "economie", "ts": "2026-07-19T07:10:42+00:00"}
+{"decision": "abandon_attente", "evt": "6b60976d9eb5fec3", "categorie": "meteo_catastrophe", "ts": "2026-07-19T07:10:42+00:00"}
+{"decision": "abandon_attente", "evt": "2b4a7b9cf6e37898", "categorie": "international", "ts": "2026-07-19T07:10:42+00:00"}
+{"decision": "publier", "evt": "bc74e56d46ad24eb", "score": 100, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["franceinfo", "France 24"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "publier", "evt": "9a92af4f9da8f8fc", "score": 100, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["BFMTV", "franceinfo"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "publier", "evt": "16295a68f0483523", "score": 87, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "doublon_evenement", "evt": "ab50b3c449ea1339", "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "publier", "evt": "11146a8d2562b569", "score": 97, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["franceinfo", "Le Figaro"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "publier", "evt": "62679e3100c43839", "score": 94, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Le Figaro", "franceinfo"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "publier", "evt": "4e957e0f03b79398", "score": 97, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Le Figaro", "France 24"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "publier", "evt": "37335d9ff489142a", "score": 83, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "publier", "evt": "720699dfe42e2f4a", "score": 82, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "publier", "evt": "f04536e2e441578f", "score": 87, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "attente", "evt": "4d35d2336289d8e7", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "publier", "evt": "b79395fd808c4bf1", "score": 81, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "attente", "evt": "8882f2ae6b5755fe", "score": 79, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "publier", "evt": "c7b87e3fe91c7a72", "score": 77, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "attente", "evt": "1953b7ff21520a26", "score": 74, "categorie": "economie", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "attente", "evt": "9ecd0a40d10141f6", "score": 74, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "attente", "evt": "c14e262dc87b3633", "score": 73, "categorie": "sante", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "attente", "evt": "44e221d8cf0c4149", "score": 72, "categorie": "faits_divers", "sensible": true, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "attente", "evt": "f14bccd2d58193f9", "score": 69, "categorie": "economie", "sensible": false, "confiance": 75, "sources": ["BFMTV"], "ts": "2026-07-19T07:10:43+00:00"}
+{"decision": "controle", "evt": "bc74e56d46ad24eb", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-19T07:10:48+00:00"}
+{"decision": "controle", "evt": "9a92af4f9da8f8fc", "motif": "ok_sim_0.40", "ts": "2026-07-19T07:10:53+00:00"}
+{"decision": "controle", "evt": "11146a8d2562b569", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-19T07:10:58+00:00"}
+{"decision": "controle", "evt": "4e957e0f03b79398", "motif": "ok_sim_0.30", "ts": "2026-07-19T07:11:02+00:00"}
+{"decision": "publie", "empreinte": "84d7ca8f2b663b3f", "post_id": "2078739375865856044", "carte": true, "texte": "La Russie a bombardé Kiev en visant cinq districts de la capitale ukrainienne. L'attaque a fait un mort et 13 blessés selon les autorités locales. (BFMTV, franceinfo)", "ts": "2026-07-19T07:11:03+00:00"}
+{"decision": "publie", "empreinte": "1636597268d8f3ca", "post_id": "2078739392617910715", "carte": true, "texte": "L'Espagne affrontera l'Argentine en finale de la Coupe du monde 2026, dimanche au New Jersey. Lionel Messi défendra les couleurs argentines face à l'Espagne, qui compte dans ses rangs Aymeric Laporte, ancien international français. (Le Figaro, France 24)", "ts": "2026-07-19T07:11:07+00:00"}
