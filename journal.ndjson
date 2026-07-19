@@ -3616,3 +3616,44 @@
 {"decision": "attente", "evt": "dfc52dd223fda1d7", "score": 82, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-19T21:04:07+00:00"}
 {"decision": "attente", "evt": "785b559248bf56ac", "score": 82, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-19T21:04:07+00:00"}
 {"decision": "attente", "evt": "3a94d465658af538", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-19T21:04:07+00:00"}
+{"decision": "abandon_attente", "evt": "44abb96cf6f141f1", "categorie": "sport", "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "abandon_attente", "evt": "39654865e31691f0", "categorie": "sport", "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "abandon_attente", "evt": "0dd84ec7d7f14c15", "categorie": "justice", "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "2c15350321a26775", "score": 100, "categorie": "sport", "sensible": false, "confiance": 95, "sources": ["20 Minutes", "BFMTV", "France 24", "L'Équipe", "Le Figaro", "Ouest-France", "franceinfo"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "ec1433abb6b1ce82", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "dd98645ea1485e23", "score": 85, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "8471e15f6b491ed4", "score": 81, "categorie": "sante", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "95710fe540183e1a", "score": 75, "categorie": "sante", "sensible": true, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "8dceb76ee834104c", "score": 74, "categorie": "international", "sensible": true, "confiance": 70, "sources": ["BFMTV"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "26c3892c695bb5c9", "score": 78, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "566af28e97838b9f", "score": 80, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "f075339d253b58a1", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "8ab813b7ce873cf5", "score": 100, "categorie": "sport", "sensible": false, "confiance": 95, "sources": ["Le Figaro", "France 24", "RFI", "Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "f0a6a4a954f15017", "score": 99, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Le Figaro", "Ouest-France", "20 Minutes", "BFMTV", "L'Équipe"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "5718c3cb3b570c66", "score": 98, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["franceinfo", "Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "3897cbc4c0885f00", "score": 98, "categorie": "justice", "sensible": true, "confiance": 92, "sources": ["franceinfo", "Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "43d8fb52a62be700", "score": 98, "categorie": "sport", "sensible": false, "confiance": 94, "sources": ["Le Figaro", "RFI", "Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "3e5d36f3963f38be", "score": 95, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["Le Figaro", "Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "1d38a74532c69911", "score": 95, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["Le Figaro", "RFI"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "743d4c3d443080be", "score": 93, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24", "BFMTV"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "ee7aef1837361608", "score": 92, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["Ouest-France", "20 Minutes"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "3f1e9e0716d1ee85", "score": 87, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "c5b4af595ac2603b", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "df8387976f4fd361", "score": 84, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "6d12a7f05b913283", "score": 83, "categorie": "justice", "sensible": true, "confiance": 92, "sources": ["BFMTV"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "a622e27e9b4c1ace", "score": 83, "categorie": "sante", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "d0dc426846e2a396", "score": 83, "categorie": "culture", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "f231b55f3362078e", "score": 82, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["BFMTV"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "27139e749a5eb749", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "197c77c5acc548f9", "score": 82, "categorie": "deces_personnalite", "sensible": true, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "dfc52dd223fda1d7", "score": 82, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "785b559248bf56ac", "score": 82, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "d40521399ddec8f5", "score": 82, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "3a94d465658af538", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "fb20414f5fbca6dc", "score": 81, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "publier", "evt": "387c91045d245022", "score": 79, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "attente", "evt": "e9715e1129e49a69", "score": 78, "categorie": "faits_divers", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-19T22:05:34+00:00"}
+{"decision": "controle", "evt": "2c15350321a26775", "motif": "ok_sim_0.33", "ts": "2026-07-19T22:05:39+00:00"}
+{"decision": "controle", "evt": "8ab813b7ce873cf5", "motif": "ok_sim_0.32", "ts": "2026-07-19T22:05:44+00:00"}
+{"decision": "publie", "empreinte": "9fde7baed56a2792", "post_id": "2078964540042330278", "carte": true, "texte": "⚽ L'Espagne remporte la Coupe du monde 2026 en battant l'Argentine 1-0 après prolongation au MetLife Stadium. Ferran Torres a marqué en prolongation. Deuxième titre mondial pour l'Espagne. (20 Minutes, BFMTV, France 24)", "ts": "2026-07-19T22:05:47+00:00"}
+{"decision": "publie", "empreinte": "64b948c323b0a3fc", "post_id": "2078964558824390684", "carte": true, "texte": "⚽ L'Espagne et l'Argentine disputent la finale de la Coupe du monde 2026 au MetLife Stadium de New York à 21h. Lionel Messi participe à la rencontre entre les deux équipes titrées. (Le Figaro, France 24)", "ts": "2026-07-19T22:05:51+00:00"}
