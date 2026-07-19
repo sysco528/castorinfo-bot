@@ -3059,3 +3059,32 @@
 {"decision": "controle", "evt": "868475ea61f02d44", "motif": "ok_sim_0.17", "ts": "2026-07-18T23:32:55+00:00"}
 {"decision": "publie", "empreinte": "c6bcdd96c9274911", "post_id": "2078624087774040350", "carte": true, "texte": "⚽ La France s'incline 4-6 contre l'Angleterre en petite finale de la Coupe du monde 2026 à Miami. Menée 0-4 à la mi-temps, elle a opéré une remontée. C'est le dernier match de Didier Deschamps. (L'Équipe)", "ts": "2026-07-18T23:32:56+00:00"}
 {"decision": "publie", "empreinte": "8f900ac6a469eb84", "post_id": "2078624105083875498", "carte": true, "texte": "⚽ Au Markstein, Tadej Pogacar remporte sa quatrième victoire d'étape du Tour 2026 et consolide son maillot jaune. Paul Seixas décroche sa deuxième troisième place en quatre jours et s'empare du maillot blanc de meilleur jeune. (franceinfo)", "ts": "2026-07-18T23:33:00+00:00"}
+{"decision": "abandon_attente", "evt": "8eb3b692cb3cd1a9", "categorie": "sport", "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "abandon_attente", "evt": "d5a0418d1e4be51c", "categorie": "sport", "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "abandon_attente", "evt": "4335b0f277a6f023", "categorie": "meteo_catastrophe", "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "doublon_evenement", "evt": "9f363a3f5e1409c1", "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "attente", "evt": "b11d28f8ee3d2535", "score": 89, "categorie": "international", "sensible": true, "confiance": 92, "sources": ["RFI"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "attente", "evt": "46606d826acc6fd1", "score": 86, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "attente", "evt": "3152bc258828be19", "score": 81, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "c5525e14f0938d06", "score": 86, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["France 24"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "5531b7128c886eca", "score": 81, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "ab50b3c449ea1339", "score": 95, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["Le Figaro", "BFMTV"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "4b3873b27431a6df", "score": 94, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Le Figaro", "BFMTV"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "b36fb7a543776b1f", "score": 93, "categorie": "international", "sensible": false, "confiance": 92, "sources": ["Le Figaro", "Ouest-France"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "71ed2a65a8c44ece", "score": 93, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["Le Figaro", "Ouest-France", "20 Minutes"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "7e114af9caead61f", "score": 92, "categorie": "politique", "sensible": true, "confiance": 88, "sources": ["Le Figaro", "RFI"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "8f7d0e4d49104e9c", "score": 91, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["20 Minutes", "France 24", "Ouest-France", "franceinfo"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "4be41d3234ee39a9", "score": 90, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["France 24", "RFI"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "5348cc8ea441f62f", "score": 89, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["Ouest-France", "20 Minutes"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "attente", "evt": "a533a2941ef066df", "score": 84, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "7967e323877927f8", "score": 84, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "bd8bd662baf6d79c", "score": 84, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "attente", "evt": "6b60976d9eb5fec3", "score": 79, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "attente", "evt": "2b4a7b9cf6e37898", "score": 78, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["Le Figaro"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "attente", "evt": "8d2fbf291956667c", "score": 75, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["BFMTV"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "publier", "evt": "695bda106ac38ecc", "score": 75, "categorie": "economie", "sensible": false, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "attente", "evt": "00ad45b2568815a4", "score": 74, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["BFMTV"], "ts": "2026-07-19T01:07:25+00:00"}
+{"decision": "controle", "evt": "ab50b3c449ea1339", "motif": "ok_sim_0.12", "ts": "2026-07-19T01:07:29+00:00"}
+{"decision": "controle", "evt": "4b3873b27431a6df", "motif": "ok_sim_0.15+alerte_retrogradee", "ts": "2026-07-19T01:07:34+00:00"}
+{"decision": "publie", "empreinte": "b93d375682a5075b", "post_id": "2078647905913655702", "carte": true, "texte": "🇫🇷 Les incendies qui ravagent la forêt de Fontainebleau ont détruit environ 2.200 hectares. La situation s'est stabilisée samedi 18 juillet. Les pompiers réduisent leurs effectifs de 850-1000 à 500 pour dimanche, sans renfort aérien supplémentaire prévu. (Le Figaro, BFMTV)", "ts": "2026-07-19T01:07:35+00:00"}
+{"decision": "publie", "empreinte": "1d2138a3ad63a892", "post_id": "2078647922443354443", "carte": true, "texte": "⚡ FLASH — Deux militaires américains ont été tués en Jordanie vendredi 17 juillet lors de frappes iraniennes. Ils repoussaient une attaque de missiles balistiques et de drones. Ce sont les premiers décès de soldats US sous le feu ennemi depuis mars. (Le Figaro, BFMTV)", "ts": "2026-07-19T01:07:39+00:00"}
