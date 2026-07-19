@@ -362,8 +362,6 @@
    "https://www.lemonde.fr/international/article/2026/07/19/a-gaza-des-frappes-israeliennes-tuent-onze-personnes-dont-trois-enfants-annonce-la-defense-civile_6725264_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/politique/il-deteste-qu-on-parle-des-dernieres-fois-le-14-juillet-debut-du-clap-de-fin-pour-emmanuel-macron-20260713",
-   "https://www.lefigaro.fr/international/on-est-toujours-meilleurs-que-nos-ennemis-en-immersion-avec-les-parachutistes-des-forces-speciales-20260710",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-apres-un-jour-de-repos-les-cadors-attendus-en-montagne-suivez-la-10e-etape-20260714",
    "https://www.lefigaro.fr/actualite-france/incendies-que-risquent-vraiment-les-pyromanes-en-france-20260714",
    "https://www.lefigaro.fr/actualite-france/14-juillet-188-interpellations-en-france-dans-la-nuit-du-13-au-14-juillet-annonce-le-ministre-de-l-interieur-laurent-nunez-20260714",
@@ -661,7 +659,9 @@
    "https://www.lefigaro.fr/faits-divers/val-de-marne-arrestation-d-un-homme-arme-d-un-couteau-et-menacant-des-forces-de-l-ordre-20260719",
    "https://www.lefigaro.fr/societes/les-humains-adorent-jouer-face-a-la-percee-de-l-ia-en-bourse-la-mise-en-garde-de-warren-buffet-contre-les-joueurs-qui-supplantent-les-investisseurs-20260719",
    "https://www.lefigaro.fr/actualite-france/grenoble-le-concert-de-la-dj-barbara-butch-interrompu-apres-l-intervention-d-une-centaine-de-militants-pro-palestiniens-20260719",
-   "https://www.lefigaro.fr/sports/formule-1/formule-1-vainqueur-devant-leclerc-en-belgique-antonelli-retrouve-le-succes-a-spa-et-reprend-ses-distances-avec-russell-20260719"
+   "https://www.lefigaro.fr/sports/formule-1/formule-1-vainqueur-devant-leclerc-en-belgique-antonelli-retrouve-le-succes-a-spa-et-reprend-ses-distances-avec-russell-20260719",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-catastrophe-pour-jonas-vingegaard-qui-abandonne-sa-chute-en-video-20260719",
+   "https://www.lefigaro.fr/faits-divers/ils-ont-fait-de-moi-ce-qu-ils-voulaient-rattrape-par-les-accusations-de-mannequins-gerald-marie-ancien-golden-boy-d-elite-et-nouvelle-figure-d-un-systeme-d-exploitation-sexuelle-20260719"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -945,7 +945,11 @@
    "e3361da8-8372-11f1-a308-4930c3700c96",
    "6e36d348-8373-11f1-a113-25b97fe5396c",
    "9a4d7648-8351-11f1-bbed-4df4613e8d4a",
-   "b1982a3a-836c-11f1-afeb-d9bb3a371989"
+   "b1982a3a-836c-11f1-afeb-d9bb3a371989",
+   "a0f5d68c-8385-11f1-a3d7-85fd1485f019",
+   "d0edefde-8383-11f1-b82a-85fd1485f019",
+   "a4b4aeae-8382-11f1-a1b0-85fd1485f019",
+   "3ebc3cba-8383-11f1-ad19-85fd1485f019"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1345,7 +1349,16 @@
    "https://www.ouest-france.fr/sport/tennis/atp-250-de-bastad-andrey-rublev-simpose-contre-luciano-darderi-le-tenant-du-titre-9c798b1e-8379-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/didier-deschamps/equipe-de-france-didier-deschamps-a-garde-la-clef-de-sa-chambre-a-clairefontaine-58420c72-8370-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/athletisme/athletisme-je-suis-un-peu-emu-la-performance-de-thibaut-gromala-vecue-par-son-entraineur-6d149a64-8363-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/formule-1/video-f1-kimi-antonelli-en-tete-george-russell-dans-les-graviers-revivez-le-depart-du-grand-prix-de-belgique-b9ff6610-8372-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/formule-1/video-f1-kimi-antonelli-en-tete-george-russell-dans-les-graviers-revivez-le-depart-du-grand-prix-de-belgique-b9ff6610-8372-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://sante.ouest-france.fr/bien-etre/comment-prendre-soin-de-ses-pieds-en-randonnee-c18bd31c-76f9-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/un-incendie-se-declare-pres-de-saint-nazaire-un-nuage-de-fumee-visible-a-plusieurs-kilometres-des-habitants-evacues-e4656be0-837f-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/italie/le-corps-dun-journaliste-italien-retrouve-calcine-pres-de-naples-933a3922-8383-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/catastrophes/seisme/au-moins-cinq-morts-21-blesses-et-300-sinistres-dans-un-seisme-de-magnitude-5-1-au-perou-ed529da4-837f-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/video-victime-dune-chute-jonas-vingegaard-dauphin-du-general-abandonne-le-tour-de-france-1cc56042-8382-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tourisme/bayeux-omaha-beach-six-spots-du-bessin-a-decouvrir-a-velo-86f86764-5521-11f1-8f25-b8bf821ee814?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/equipe-de-france/vos-mots-resonnent-encore-aujourdhui-dans-ma-tete-lhommage-dolivier-giroud-a-didier-deschamps-9cd206d8-837c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/formule-1/f1-le-classement-du-championnat-du-monde-des-pilotes-apres-le-grand-prix-de-belgique-remporte-par-4c6c9b28-8371-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/faits-divers/lhomme-retranche-chez-lui-a-plabennec-a-ete-retrouve-decede-apres-avoir-mis-fin-a-ses-jours-1c3e930e-8379-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1427,7 +1440,12 @@
    "https://www.20minutes.fr/tempo/bien-etre/4235004-20260718-droit-avoir-marre-enfants-quand-parents-veulent-passer-vacances-enfant?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sport/cyclisme/4235187-20260719-direct-tour-france-2026-vauquelin-paret-peintre-bon-wagon-enfin-victoire-francaise-avant-journee-repos?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4226958-20260719-marche-plus-longue-vie-lea-larguee-milieu-sejour-rando-pouvoir-faire-demi-tour?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/sport/cyclisme/4235191-20260719-tour-france-2026-pogacar-vingegaard-controles-pleine-nuit-raison-soupcons-graves-concordants?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/sport/cyclisme/4235191-20260719-tour-france-2026-pogacar-vingegaard-controles-pleine-nuit-raison-soupcons-graves-concordants?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/high-tech/sciences/4235196-20260719-plutot-neutre-plupart-endroits-sophie-adenot-leve-mystere-odeur-iss?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4234700-20260719-ex-cia-scientifique-revelent-lune-satellite-artificiel-habite-ca-aucun-sens?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/arts-stars/people/4235033-20260719-lenny-kravitz-explique-enfin-pourquoi-fait-sport-pantalon-jean-cuir?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4235188-20260719-haute-corse-incendies-progressent-zones-difficiles-acces-400-hectares-partis-fumee?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/israel/4235177-20260719-direct-guerre-moyen-orient-etats-unis-frappe-iran-punir-mort-deux-militaires-teheran-riposte?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1617,6 +1635,33 @@
  "evenements_attente": [
   {
    "faits": [
+    "Jonas Vingegaard, deuxième du classement général du Tour de France, a chuté à environ 24 km de l'arrivée sur la 15e étape",
+    "La chute s'est produite dimanche 19 juillet 2026",
+    "Vingegaard a abandonné après cette chute",
+    "C'est la première fois que Vingegaard abandonne le Tour de France",
+    "Vingegaard avait remporté le Tour de France en 2022 et 2023",
+    "Vingegaard est le leader de l'équipe Visma-Lease a Bike"
+   ],
+   "qui": "Jonas Vingegaard",
+   "ou": "Tour de France, 15e étape",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "Le Figaro",
+    "France 24",
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "44abb96cf6f141f1",
+   "score": 100,
+   "fiab_max": 85,
+   "nb_sources": 3,
+   "depuis": "2026-07-19T15:42:43.355748+00:00"
+  },
+  {
+   "faits": [
     "L'Iran a riposté à une attaque des États-Unis en ciblant le Koweït dimanche 19 juillet",
     "Les États-Unis ont lancé une nouvelle vague de bombardements contre l'Iran dans la nuit de samedi à dimanche",
     "Les bombardements américains ont visé des installations militaires proches du détroit d'Ormuz",
@@ -1639,52 +1684,6 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-19T13:48:18.763866+00:00"
-  },
-  {
-   "faits": [
-    "La France a perdu contre l'Angleterre lors de la petite finale de la Coupe du monde 2026",
-    "Le score final était 4-6 en faveur de l'Angleterre",
-    "Didier Deschamps quitte ses fonctions de sélectionneur des Bleus"
-   ],
-   "qui": "Équipe de France, Didier Deschamps, Angleterre",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "3104db6aa0d2d319",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-19T09:22:39.619224+00:00"
-  },
-  {
-   "faits": [
-    "Des frappes israéliennes à Gaza ont tué 11 personnes dont 3 enfants",
-    "5 membres d'une même famille ont été tués",
-    "Depuis octobre 2025, au moins 1 144 Palestiniens ont été tués dans l'enclave selon le ministère de la Santé"
-   ],
-   "qui": "Israël, Palestiniens",
-   "ou": "Gaza",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "1ff9e1b62c33ea67",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-19T09:22:39.619227+00:00"
   },
   {
    "faits": [
@@ -1837,28 +1836,6 @@
   },
   {
    "faits": [
-    "Andrew Tate et son frère ont été arrêtés aux États-Unis",
-    "Le Royaume-Uni réclame leur extradition",
-    "Ils sont recherchés pour viols, complicité d'exploitation sexuelle et infractions liées à des images indécentes d'un enfant"
-   ],
-   "qui": "Andrew Tate, son frère",
-   "ou": "États-Unis",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "fed0b109a50e5904",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T09:22:39.619231+00:00"
-  },
-  {
-   "faits": [
     "Manifestations à Kiev malgré de puissantes explosions suite à des attaques russes dimanche",
     "La Russie décrit ces attaques comme des représailles après une attaque de drones contre des centres logistiques près de Moscou",
     "Les explosions ont provoqué des incendies dans un immeuble résidentiel et un centre commercial",
@@ -1882,48 +1859,26 @@
   },
   {
    "faits": [
-    "La station Tara va passer 18 mois dans la nuit polaire",
-    "Douze scientifiques vont participer à cette expédition",
-    "L'objectif est d'étudier le réchauffement climatique en se laissant prendre dans les glaces de l'Arctique"
+    "L'Espagne affrontera l'Argentine en finale de la Coupe du Monde 2026",
+    "La finale se déroulera aux États-Unis",
+    "Gianni Infantino, patron de la Fifa, a déclaré que c'était « la meilleure Coupe du Monde de l'histoire »",
+    "Cette déclaration a été faite lors d'une conférence de presse à la Maison Blanche aux côtés de Donald Trump"
    ],
-   "qui": "Station Tara, équipe scientifique",
-   "ou": "Arctique",
-   "categorie": "sciences",
+   "qui": "Équipes d'Espagne et d'Argentine, Gianni Infantino",
+   "ou": "États-Unis",
+   "categorie": "sport",
    "sensible": false,
    "confiance": 90,
    "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "f85468c07d850ed1",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T09:22:39.619236+00:00"
-  },
-  {
-   "faits": [
-    "Reprise des frappes et intimidations entre Américains et Iraniens depuis le 7 juillet",
-    "Deux soldats américains ont été tués",
-    "Le protocole d'accord signé en juin est remis en question",
-    "Donald Trump cherche une stratégie face à l'enlisement du conflit"
-   ],
-   "qui": "États-Unis, Iran, Donald Trump",
-   "ou": "Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
+    "France 24"
    ],
    "non_confirme": [],
    "importance": 80,
-   "empreinte": "2179d26bdcdfc702",
+   "empreinte": "39654865e31691f0",
    "score": 86,
-   "fiab_max": 90,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-19T09:22:39.619238+00:00"
+   "depuis": "2026-07-19T15:42:43.355762+00:00"
   },
   {
    "faits": [
@@ -1990,28 +1945,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-19T10:58:05.298925+00:00"
-  },
-  {
-   "faits": [
-    "Quatre pêcheurs bretons du Finistère ont livré des filets de pêche à l'Ukraine",
-    "Ces filets sont utilisés pour se protéger des drones russes en capturant les drones ennemis",
-    "Volodymyr Zelensky a remercié personnellement les pêcheurs"
-   ],
-   "qui": "Pêcheurs bretons, Volodymyr Zelensky, Ukraine",
-   "ou": "Finistère, Ukraine",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "185f773df2c3ea59",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T09:22:39.619239+00:00"
   },
   {
    "faits": [
@@ -2107,6 +2040,29 @@
   },
   {
    "faits": [
+    "Gérald Marie, ancien directeur de l'agence Elite, est accusé par d'anciens mannequins",
+    "Six mannequins ont porté plainte contre lui pour viol le 15 juillet",
+    "Les accusateurs décrivent des méthodes d'exploitation sexuelle et de mise sous emprise",
+    "Marie était un concurrent de Jean-Luc Brunel dans les années 1980-2000"
+   ],
+   "qui": "Gérald Marie",
+   "ou": null,
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "0dd84ec7d7f14c15",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-19T15:42:43.354535+00:00"
+  },
+  {
+   "faits": [
     "Au moins 50 militaires maliens ont été tués dans une attaque samedi",
     "L'attaque a été menée contre un convoi de l'armée malienne près d'Anéfis, dans le nord du pays",
     "L'attaque a été menée par des indépendantistes touaregs et des jihadistes",
@@ -2171,49 +2127,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-19T12:05:06.642788+00:00"
-  },
-  {
-   "faits": [
-    "Christophe B., homme de 56 ans, a été mis en examen",
-    "Il est soupçonné d'être l'ordonnateur d'un réseau criminel ayant sévi de 2003 à 2024",
-    "Le réseau aurait imposé à ses compagnes des pratiques sexuelles extrêmes avec des hommes recrutés en ligne"
-   ],
-   "qui": "Christophe B.",
-   "ou": null,
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "2e316a18a73431d5",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T09:22:39.619241+00:00"
-  },
-  {
-   "faits": [
-    "Les incendies à Fontainebleau ont connu une 'stabilisation de la situation'",
-    "Le nombre de pompiers mobilisés est passé de 850 à 1 000 à environ 500"
-   ],
-   "qui": "Pompiers",
-   "ou": "Fontainebleau",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "18b3438809a7215a",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T09:22:39.619242+00:00"
   },
   {
    "faits": [
@@ -2307,6 +2220,123 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-19T10:58:05.297679+00:00"
+  },
+  {
+   "faits": [
+    "Kimi Antonelli (Mercedes) a remporté le Grand Prix de Belgique de F1 dimanche 19 juillet",
+    "Charles Leclerc (Ferrari) est arrivé deuxième",
+    "Max Verstappen (Red Bull) est arrivé troisième",
+    "Antonelli était poleman",
+    "Antonelli reste leader au championnat et creuse l'écart"
+   ],
+   "qui": "Kimi Antonelli",
+   "ou": "Belgique",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "c565f9691580728b",
+   "score": 82,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-19T15:42:43.355775+00:00"
+  },
+  {
+   "faits": [
+    "Un séisme de magnitude 5,1 a frappé une région andine du Pérou samedi 18 juillet",
+    "Au moins 5 personnes ont été tuées",
+    "21 personnes ont été blessées",
+    "300 personnes se retrouvent sans toit"
+   ],
+   "qui": null,
+   "ou": "Région andine, Pérou",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "0304e6943ac5df45",
+   "score": 81,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-19T15:42:43.354661+00:00"
+  },
+  {
+   "faits": [
+    "Un journaliste sportif italien a été retrouvé décédé et calciné le 19 juillet",
+    "Le corps a été découvert par des pompiers mobilisés pour un incendie près de Naples",
+    "Le parquet italien a déclaré selon les premiers éléments de l'enquête qu'il s'agissait d'un homicide"
+   ],
+   "qui": "Journaliste sportif italien (non nommé)",
+   "ou": "Région sud de Naples, Italie",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "Circonstances exactes du décès",
+    "Identité du journaliste"
+   ],
+   "importance": 70,
+   "empreinte": "9c77f1ffc8b578e5",
+   "score": 80,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-19T15:42:43.354621+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie s'est déclaré à Trignac près de Saint-Nazaire dimanche 19 juillet",
+    "L'incendie s'est produit près de la zone d'activités de la Savine, en bordure de la N 171",
+    "Un panache de fumée était visible à plusieurs kilomètres à la ronde",
+    "Des habitants ont été évacués"
+   ],
+   "qui": null,
+   "ou": "Trignac, près de Saint-Nazaire, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "898c5018c2ddb598",
+   "score": 76,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-19T15:42:43.354701+00:00"
+  },
+  {
+   "faits": [
+    "Olivier Giroud a rendu hommage à Didier Deschamps sur les réseaux sociaux",
+    "Cet hommage a suivi le dernier match de Deschamps en tant que sélectionneur des Bleus",
+    "Giroud a exprimé son immense fierté d'avoir marqué l'histoire du foot français aux côtés de Deschamps"
+   ],
+   "qui": "Olivier Giroud, Didier Deschamps",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "a48fae38c667fa2e",
+   "score": 76,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-19T15:42:43.355776+00:00"
   }
  ],
  "publies_48h": [
