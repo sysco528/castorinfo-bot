@@ -3088,3 +3088,40 @@
 {"decision": "controle", "evt": "4b3873b27431a6df", "motif": "ok_sim_0.15+alerte_retrogradee", "ts": "2026-07-19T01:07:34+00:00"}
 {"decision": "publie", "empreinte": "b93d375682a5075b", "post_id": "2078647905913655702", "carte": true, "texte": "🇫🇷 Les incendies qui ravagent la forêt de Fontainebleau ont détruit environ 2.200 hectares. La situation s'est stabilisée samedi 18 juillet. Les pompiers réduisent leurs effectifs de 850-1000 à 500 pour dimanche, sans renfort aérien supplémentaire prévu. (Le Figaro, BFMTV)", "ts": "2026-07-19T01:07:35+00:00"}
 {"decision": "publie", "empreinte": "1d2138a3ad63a892", "post_id": "2078647922443354443", "carte": true, "texte": "⚡ FLASH — Deux militaires américains ont été tués en Jordanie vendredi 17 juillet lors de frappes iraniennes. Ils repoussaient une attaque de missiles balistiques et de drones. Ce sont les premiers décès de soldats US sous le feu ennemi depuis mars. (Le Figaro, BFMTV)", "ts": "2026-07-19T01:07:39+00:00"}
+{"decision": "abandon_attente", "evt": "7e114af9caead61f", "categorie": "politique", "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "abandon_attente", "evt": "8f7d0e4d49104e9c", "categorie": "politique", "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "abandon_attente", "evt": "4be41d3234ee39a9", "categorie": "international", "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "abandon_attente", "evt": "5348cc8ea441f62f", "categorie": "politique", "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "abandon_attente", "evt": "a533a2941ef066df", "categorie": "international", "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "abandon_attente", "evt": "7967e323877927f8", "categorie": "justice", "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "abandon_attente", "evt": "bd8bd662baf6d79c", "categorie": "sport", "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "abandon_attente", "evt": "8d2fbf291956667c", "categorie": "international", "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "abandon_attente", "evt": "695bda106ac38ecc", "categorie": "economie", "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "abandon_attente", "evt": "00ad45b2568815a4", "categorie": "international", "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "4d35d2336289d8e7", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "publier", "evt": "f04536e2e441578f", "score": 87, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "publier", "evt": "c46807953a746e62", "score": 97, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Le Figaro", "RFI", "BFMTV"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "publier", "evt": "b79395fd808c4bf1", "score": 81, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "publier", "evt": "f9e4c83f6b1a3a0b", "score": 94, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["RFI", "Ouest-France"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "publier", "evt": "c7b87e3fe91c7a72", "score": 77, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "1953b7ff21520a26", "score": 74, "categorie": "economie", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "publier", "evt": "1a0ed853fc26386f", "score": 94, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Ouest-France", "BFMTV"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "8882f2ae6b5755fe", "score": 79, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "publier", "evt": "e2bb83021af6ab44", "score": 92, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Ouest-France", "BFMTV"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "9a92af4f9da8f8fc", "score": 80, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "c14e262dc87b3633", "score": 73, "categorie": "sante", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "9ecd0a40d10141f6", "score": 74, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "44e221d8cf0c4149", "score": 72, "categorie": "faits_divers", "sensible": true, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "f14bccd2d58193f9", "score": 69, "categorie": "economie", "sensible": false, "confiance": 75, "sources": ["BFMTV"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "b11d28f8ee3d2535", "score": 89, "categorie": "international", "sensible": true, "confiance": 92, "sources": ["RFI"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "46606d826acc6fd1", "score": 86, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "publier", "evt": "c5525e14f0938d06", "score": 86, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["France 24"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "3152bc258828be19", "score": 81, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "publier", "evt": "5531b7128c886eca", "score": 81, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "6b60976d9eb5fec3", "score": 79, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "attente", "evt": "2b4a7b9cf6e37898", "score": 78, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["Le Figaro"], "ts": "2026-07-19T04:33:21+00:00"}
+{"decision": "controle", "evt": "c46807953a746e62", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-19T04:33:27+00:00"}
+{"decision": "controle", "evt": "f9e4c83f6b1a3a0b", "motif": "ok_sim_0.45", "ts": "2026-07-19T04:33:31+00:00"}
+{"decision": "controle", "evt": "1a0ed853fc26386f", "motif": "ok_sim_0.35+alerte_retrogradee", "ts": "2026-07-19T04:33:37+00:00"}
+{"decision": "publie", "empreinte": "f62bc80871da3e13", "post_id": "2078699760605925387", "carte": true, "texte": "🇿🇦 Des violences xénophobes se poursuivent en Afrique du Sud. Des marches se sont transformées en chasse aux étrangers, poussant des dizaines de milliers d'étrangers à fuir. Un camp de réfugiés coordonne les rapatriements. (RFI, Ouest-France)", "ts": "2026-07-19T04:33:38+00:00"}
+{"decision": "publie", "empreinte": "f151b1353e96fbe0", "post_id": "2078699777232187488", "carte": true, "texte": "⚡ FLASH — Les États-Unis ont lancé dimanche des bombardements contre l'Iran pour punir la mort de deux militaires en Jordanie. L'Iran a riposté en attaquant deux bases au Koweït. C'est la huitième nuit consécutive de frappes. (Ouest-France, BFMTV)", "ts": "2026-07-19T04:33:42+00:00"}
