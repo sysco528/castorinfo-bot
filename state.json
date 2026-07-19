@@ -370,8 +370,6 @@
    "https://www.lemonde.fr/international/article/2026/07/19/a-gaza-des-frappes-israeliennes-tuent-onze-personnes-dont-trois-enfants-annonce-la-defense-civile_6725264_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/flash-sport/coupe-du-monde-2026-avant-france-espagne-posez-toutes-vos-questions-a-nos-journalistes-20260714",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/il-ne-perd-pas-son-temps-sur-de-faux-problemes-les-cles-du-management-de-didier-deschamps-avec-les-bleus-en-2026-20260714",
    "https://www.lefigaro.fr/actualite-france/a-fontainebleau-la-progression-de-l-incendie-en-passe-d-etre-contenue-six-suspects-interpelles-20260714",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-espagne-en-video-le-penalty-de-la-roja-qui-met-les-bleus-sous-pression-20260714",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-espagne-echauffement-ambiance-a-dallas-vivacite-de-mbappe-le-meilleur-de-la-demi-finale-en-images-20260714",
@@ -669,7 +667,9 @@
    "https://www.lefigaro.fr/vox/societe/l-editorial-d-yves-threard-coupe-du-monde-des-joies-et-des-larmes-20260719",
    "https://photo-madame.lefigaro.fr/celebrites/actu-people/les-stars-presentes-pour-la-finale-espagne-argentine-de-la-coupe-du-monde-2026-20260719",
    "https://www.lefigaro.fr/flash-actu/macedoine-du-nord-1500-habitants-d-une-ville-soignes-apres-une-intoxication-massive-probablement-par-l-eau-20260719",
-   "https://www.lefigaro.fr/flash-actu/ebola-le-canada-ferme-ses-frontieres-aux-etrangers-ayant-sejourne-recemment-en-rdc-20260719"
+   "https://www.lefigaro.fr/flash-actu/ebola-le-canada-ferme-ses-frontieres-aux-etrangers-ayant-sejourne-recemment-en-rdc-20260719",
+   "https://madame.lefigaro.fr/celebrites/actu-people/le-couple-trump-matt-damon-zinedine-zidane-du-tres-beau-monde-a-la-finale-de-la-coupe-du-monde-2026-20260719",
+   "https://www.lefigaro.fr/conjoncture/une-position-fragile-face-a-la-chine-et-aux-etats-unis-la-cour-des-comptes-appelle-la-france-a-accelerer-dans-le-quantique-20260719"
   ],
   "https://www.france24.com/fr/rss": [
    "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
@@ -958,7 +958,8 @@
    "d0edefde-8383-11f1-b82a-85fd1485f019",
    "a4b4aeae-8382-11f1-a1b0-85fd1485f019",
    "3ebc3cba-8383-11f1-ad19-85fd1485f019",
-   "2392611e-8395-11f1-b29a-51165aef559c"
+   "2392611e-8395-11f1-b29a-51165aef559c",
+   "77d1758e-83af-11f1-bdf8-3b6c0fec207b"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1403,7 +1404,13 @@
    "https://www.ouest-france.fr/faits-divers/affaire-jubillar/portrait-delphine-jubillar-une-mere-de-famille-et-une-amie-devouee-tuee-alors-quelle-sappretait-a-refaire-sa-vie-9db1a6fe-8119-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/incendie/un-violent-incendie-se-declare-dans-le-var-au-moins-120-hectares-brules-et-des-habitants-evacues-7cbc07a6-8398-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/en-images-tom-cruise-jennifer-hudson-post-malone-la-ceremonie-de-cloture-de-la-coupe-du-monde-sort-le-grand-jeu-fe1491b6-839c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/220-pompiers-trois-maisons-detruites-vingt-hectares-brules-ce-que-lon-sait-de-lincendie-pres-de-saint-nazaire-796cd1fe-83a0-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/faits-divers/incendie/220-pompiers-trois-maisons-detruites-vingt-hectares-brules-ce-que-lon-sait-de-lincendie-pres-de-saint-nazaire-796cd1fe-83a0-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/qui-sont-ces-joueurs-ayant-dispute-trois-finales-de-coupe-du-monde-8809db6c-83af-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/en-images-zinedine-zidane-timothee-chalamet-pharrell-williams-la-finale-de-la-coupe-du-monde-attire-les-stars-3126ed12-83a5-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-heureusement-ce-nest-quune-clavicule-cassee-jonas-vingegaard-reste-positif-apres-son-abandon-7d4f464a-83ae-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/tennis/wta/wta-250-dathenes-la-tcheque-barbora-krejcikova-domine-maria-sakkari-et-soffre-un-neuvieme-titre-63ab5c0e-83b0-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/madonna-decoit-le-playback-de-shakira-le-show-bts-on-a-note-les-artistes-du-show-de-la-finale-espagne-argentine-6b3c114a-839f-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/bretagne/cotes-d-armor/je-ne-suis-pas-un-singe-je-suis-joelle-dambo-la-crepiere-a-gomene-300-personnes-mobilisees-contre-le-racisme-2f5222b6-8398-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1497,7 +1504,9 @@
    "https://www.20minutes.fr/sport/4234891-20260719-direct-espagne-argentine-messi-fureur-vivre-albiceleste-contre-maitrise-rodri-compagnie-match-suivre-partir-20h?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/arts-stars/culture/4235210-20260719-grenoble-concert-dj-barbara-butch-interrompu-militants-propalestiniens-lfi?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sport/cyclisme/4235204-20260719-tour-france-2026-trop-hesite-paul-seixas-mode-resistance-derniere-montee-arrache?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/planete/4235209-20260719-var-incendie-virulent-menace-village-plusieurs-dizaines-habitations-evacuees?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/planete/4235209-20260719-var-incendie-virulent-menace-village-plusieurs-dizaines-habitations-evacuees?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/football/4235181-20260719-direct-coupe-monde-2026-mi-temps-finale-dure-27-minutes-malgre-promesses-fifa-zidane-present-tribunes?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/football/4235214-20260719-coupe-monde-2026-tom-cruise-madonna-stars-mettent-touche-finale-mondial?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1600,7 +1609,12 @@
    "https://www.bfmtv.com/societe/video-les-supporters-argentins-mettent-l-ambiance-dans-les-rues-de-paris-avant-le-debut-de-la-finale_VN-202607190363.html",
    "https://www.bfmtv.com/international/moyen-orient/iran/video-guerre-au-moyen-orient-je-crains-qu-on-ne-soit-plus-dans-une-situation-maitrisee-estime-bernard-guetta-depute-europeen-renew_VN-202607190361.html",
    "https://www.bfmtv.com/police-justice/video-ce-n-est-pas-parce-que-cedric-jubillar-a-dit-la-verite-sur-le-lieu-ou-il-a-mis-le-corps-de-delphine-qu-il-va-dire-la-verite-sur-le-reste-estime-pauline-rongier-avocate-d-une-amie-de-delphine-jubillar_VN-202607190360.html",
-   "https://www.bfmtv.com/police-justice/direct-affaire-jubillar-les-ossements-retrouves-jeudi-a-mailhoc-sont-ceux-de-delphine-info-bfmtv_LN-202607190292.html"
+   "https://www.bfmtv.com/police-justice/direct-affaire-jubillar-les-ossements-retrouves-jeudi-a-mailhoc-sont-ceux-de-delphine-info-bfmtv_LN-202607190292.html",
+   "https://www.bfmtv.com/international/moyen-orient/iran/video-le-recit-des-dernieres-frappes-iraniennes-en-jordanie-ces-dernieres-heures_VN-202607190384.html",
+   "https://www.bfmtv.com/societe/video-les-pronostics-des-supporters-argentins-a-la-mi-temps_VN-202607190383.html",
+   "https://www.bfmtv.com/societe/video-les-pronostics-des-supporters-espagnols-a-la-mi-temps_VN-202607190382.html",
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/guerre-au-moyen-orient-l-armee-americaine-annonce-la-mort-d-un-de-ses-militaires-dans-le-nord-de-l-irak_AD-202607190381.html",
+   "https://rmcsport.bfmtv.com/football/coupe-du-monde/espagne-argentine-madonna-dans-un-buggy-avec-ronaldinho-et-ronaldo-bts-la-vraie-shakira-les-images-du-show-de-la-mi-temps-de-la-finale-de-coupe-du-monde_AV-202607190379.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -1688,7 +1702,11 @@
    "https://www.lequipe.fr/Football/Actualites/Didier-deschamps-a-apprecie-la-reaction-d-orgueil-des-bleus-en-seconde-periode-contre-l-angleterre-au-moins-ca-a-ressemble-a-quelque-chose/1705532",
    "https://www.lequipe.fr/Football/Actualites/Avant-la-finale-de-la-coupe-du-monde-kylian-mbappe-double-lionel-messi-en-tete-du-classement-des-buteurs-de-l-edition-2026/1705531",
    "https://www.lequipe.fr/Football/Article/D-abord-apathique-puis-a-l-origine-du-reveil-des-bleus-et-auteur-d-un-double-kylian-mbappe-emotions-melees-apres-la-defaite-contre-l-angleterre/1705536",
-   "https://www.lequipe.fr/Football/Video/Coupe-du-monde-2026-france-le-bilan-du-mondial-en-chiffres/20237880"
+   "https://www.lequipe.fr/Football/Video/Coupe-du-monde-2026-france-le-bilan-du-mondial-en-chiffres/20237880",
+   "https://www.lequipe.fr/Football/Actualites/Leandro-paredes-sanctionne-d-un-carton-jaune-quelques-instants-apres-son-entree-en-jeu-lors-de-la-finale-de-coupe-du-monde-entre-l-argentine-et-l-espagne/1705758",
+   "https://www.lequipe.fr/Football/Actualites/Un-show-musical-avec-ronaldo-et-ronaldinho-lors-d-une-mi-temps-de-27-minutes-en-finale-de-la-coupe-du-monde-entre-l-espagne-et-l-argentine/1705751",
+   "https://www.lequipe.fr/Football/Actualites/Aucun-tir-a-la-pause-une-premiere-pour-l-argentine-dans-cette-coupe-du-monde/1705743",
+   "https://www.lequipe.fr/Football/Article/Entre-nervosite-et-inefficacite-la-coupe-du-monde-manquee-de-rayan-cherki-loin-du-role-de-talentueux-douzieme-homme-qu-on-lui-predisait/1705745"
   ]
  },
  "en_attente_publication": [],
@@ -1776,6 +1794,39 @@
    "fiab_max": 85,
    "nb_sources": 3,
    "depuis": "2026-07-19T15:42:43.355748+00:00"
+  },
+  {
+   "faits": [
+    "La finale de la Coupe du monde 2026 oppose l'Espagne et l'Argentine",
+    "La finale se déroule le 19 juillet 2026 au MetLife Stadium dans le New Jersey",
+    "De nombreuses personnalités assistent à la finale : Trump, Matt Damon, Zinédine Zidane, Mick Jagger",
+    "Le show de la mi-temps a duré 27 minutes",
+    "Artistes du show de mi-temps : Madonna, Shakira, BTS, Justin Bieber, Tom Cruise, Robbie Williams, Ronaldo, Ronaldinho",
+    "L'Espagne domine l'Argentine en première période",
+    "L'Argentine n'a tiré aucune fois au but en première période",
+    "Leandro Paredes a reçu un carton jaune sept minutes après son entrée en jeu à la mi-temps"
+   ],
+   "qui": "Espagne vs Argentine ; artistes : Madonna, Shakira, BTS, Ronaldo, Ronaldinho",
+   "ou": "MetLife Stadium, New Jersey, États-Unis",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro",
+    "Ouest-France",
+    "20 Minutes",
+    "BFMTV",
+    "L'Équipe"
+   ],
+   "non_confirme": [
+    "Résultat final du match (sources datées pendant le match)"
+   ],
+   "importance": 95,
+   "empreinte": "f0a6a4a954f15017",
+   "score": 99,
+   "fiab_max": 85,
+   "nb_sources": 5,
+   "depuis": "2026-07-19T21:04:07.253444+00:00"
   },
   {
    "faits": [
@@ -1908,76 +1959,28 @@
   },
   {
    "faits": [
-    "Le plateau de Solaison en Haute-Savoie est franchi pour la première fois dans l'histoire du Tour de France",
-    "L'étape du plateau de Solaison est la plus difficile de l'édition 2026",
-    "Tadej Pogacar a remporté une démonstration samedi"
+    "Un militaire américain a été tué en Irak samedi 18 juillet 2026",
+    "Le militaire a été tué lors de la destruction de munitions iraniennes non explosées",
+    "Cela porte à 17 le nombre de militaires américains tués depuis le début de la guerre lancée par les États-Unis contre l'Iran",
+    "La Jordanie a convoqué l'ambassadeur iranien",
+    "La Jordanie a subi de nombreuses attaques ces derniers jours"
    ],
-   "qui": "Tadej Pogacar",
-   "ou": "Plateau de Solaison, Haute-Savoie",
-   "categorie": "sport",
-   "sensible": false,
+   "qui": "États-Unis ; Iran ; Jordanie",
+   "ou": "Irak ; Jordanie",
+   "categorie": "international",
+   "sensible": true,
    "confiance": 85,
    "sources": [
-    "franceinfo",
-    "20 Minutes"
+    "France 24",
+    "BFMTV"
    ],
    "non_confirme": [],
    "importance": 75,
-   "empreinte": "1c31799bde47b50d",
-   "score": 95,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-19T14:44:07.347927+00:00"
-  },
-  {
-   "faits": [
-    "Kimi Antonelli a remporté le Grand Prix de Belgique à Spa-Francorchamps",
-    "Charles Leclerc a terminé deuxième",
-    "Max Verstappen a terminé troisième",
-    "Antonelli a repris ses distances avec Russell"
-   ],
-   "qui": "Kimi Antonelli, Charles Leclerc, Max Verstappen",
-   "ou": "Spa-Francorchamps, Belgique",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "e0e6ec9dc4ae11be",
-   "score": 95,
+   "empreinte": "743d4c3d443080be",
+   "score": 93,
    "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-19T14:44:07.347928+00:00"
-  },
-  {
-   "faits": [
-    "Pogacar et Vingegaard ont subi un contrôle antidopage au milieu de la nuit entre deux étapes du Tour de France",
-    "Le contrôle s'est déroulé en raison de 'soupçons graves et concordants'"
-   ],
-   "qui": "Tadej Pogacar, Jonas Vingegaard",
-   "ou": "Tour de France",
-   "categorie": "sport",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "20 Minutes",
-    "Le Figaro",
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "la nature précise des soupçons",
-    "si les soupçons sont justifiés"
-   ],
-   "importance": 65,
-   "empreinte": "de5838d784e8a69e",
-   "score": 95,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-19T14:44:07.347930+00:00"
+   "depuis": "2026-07-19T21:04:07.253455+00:00"
   },
   {
    "faits": [
@@ -2027,30 +2030,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-19T19:58:52.859123+00:00"
-  },
-  {
-   "faits": [
-    "Au moins 19 morts dans le nord de l'Inde après inondations et glissements de terrain",
-    "Au moins 11 personnes mortes dans la région du Rajouri",
-    "8 personnes mortes dans l'État du Nagaland",
-    "Le pèlerinage hindou d'Armanath réunit chaque année plus de 400 000 personnes",
-    "Le pèlerinage d'Armanath a été suspendu en attendant l'amélioration des conditions météo"
-   ],
-   "qui": null,
-   "ou": "Rajouri et Nagaland, Inde du Nord",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "95fa70060df574a3",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T14:44:07.347933+00:00"
   },
   {
    "faits": [
@@ -2121,29 +2100,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-19T19:58:52.858112+00:00"
-  },
-  {
-   "faits": [
-    "La petite finale France-Angleterre de la Coupe du monde a réuni plus de 8,6 millions de téléspectateurs",
-    "La France a perdu face à l'Angleterre 4-6",
-    "Ce match s'est déroulé samedi 18 juillet",
-    "La France a été éliminée en demi-finale face à l'Espagne"
-   ],
-   "qui": "Équipe de France, Équipe d'Angleterre",
-   "ou": "Miami",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "862248d5b2aa2bcf",
-   "score": 84,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T14:44:07.347944+00:00"
   },
   {
    "faits": [
@@ -2236,27 +2192,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-19T16:40:12.281790+00:00"
-  },
-  {
-   "faits": [
-    "Le responsable d'un centre équestre du Nord a été mis en examen pour viols sur six personnes",
-    "Le maire de Templeuve-en-Pévèle apporte son soutien aux victimes"
-   ],
-   "qui": "Responsable d'un centre équestre (non nommé), Jean Moulliere (maire)",
-   "ou": "Templeuve-en-Pévèle, Nord",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "c6929b99af28f734",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T14:44:07.347949+00:00"
   },
   {
    "faits": [
@@ -2381,26 +2316,26 @@
   },
   {
    "faits": [
-    "La Belgique a adopté un arrêté royal interdisant l'importation de produits issus des colonies israéliennes",
-    "Cette décision a été prise samedi 18 juillet par le Conseil des ministres belge",
-    "D'autres pays de l'Union européenne ont adopté des mesures similaires ces derniers mois",
-    "Les Vingt-Sept tardent à adopter une position commune sur le sujet"
+    "Jonas Vingegaard a chuté lors de la 15e étape du Tour de France le 19 juillet 2026",
+    "Vingegaard s'est fracturé la clavicule",
+    "Vingegaard a dû abandonner le Tour de France",
+    "Il devra subir une opération"
    ],
-   "qui": "Belgique, Conseil des ministres belge",
-   "ou": "Belgique",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
+   "qui": "Jonas Vingegaard (coureur cycliste danois)",
+   "ou": "Tour de France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
    "sources": [
-    "RFI"
+    "Ouest-France"
    ],
    "non_confirme": [],
    "importance": 70,
-   "empreinte": "a37d1ecc830012c7",
+   "empreinte": "d40521399ddec8f5",
    "score": 82,
-   "fiab_max": 85,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-19T14:44:07.346276+00:00"
+   "depuis": "2026-07-19T21:04:07.253466+00:00"
   },
   {
    "faits": [
@@ -2425,6 +2360,75 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-19T19:58:52.858214+00:00"
+  },
+  {
+   "faits": [
+    "La Cour des comptes appelle la France à accélérer dans le domaine du quantique",
+    "La Cour estime que rester dans la course sur cette technologie est un enjeu majeur de souveraineté",
+    "La Cour souligne une position fragile face à la Chine et aux États-Unis"
+   ],
+   "qui": "Cour des comptes de France",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "fb20414f5fbca6dc",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-19T21:04:07.253468+00:00"
+  },
+  {
+   "faits": [
+    "Barbora Krejcikova a remporté le tournoi WTA 250 d'Athènes le 19 juillet 2026",
+    "Elle a battu Maria Sakkari en finale",
+    "Score : 7-6 (7/5), 6-3",
+    "C'est le neuvième titre de Krejcikova"
+   ],
+   "qui": "Barbora Krejcikova (Tchèque) ; Maria Sakkari (Grecque)",
+   "ou": "Athènes, Grèce",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "387c91045d245022",
+   "score": 79,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-19T21:04:07.253470+00:00"
+  },
+  {
+   "faits": [
+    "Joëlle Dambo, crêpière en Bretagne, a remporté le concours national de la meilleure galette de blé noir",
+    "Elle a reçu des injures racistes suite à son sacre",
+    "Plus de 300 personnes se sont rassemblées dimanche 19 juillet devant sa crêperie à Gomené (Côtes-d'Armor) pour la soutenir",
+    "Le rassemblement était marqué par l'émotion",
+    "Dambo a dénoncé le racisme et appelé à l'unité"
+   ],
+   "qui": "Joëlle Dambo (crêpière)",
+   "ou": "Gomené, Côtes-d'Armor, Bretagne, France",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "e9715e1129e49a69",
+   "score": 78,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-19T21:04:07.252426+00:00"
   }
  ],
  "publies_48h": [
