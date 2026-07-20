@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/economie/emploi/metiers/armee-et-securite/reportage-au-lieu-d-exposer-120-a-130-soldats-au-combat-on-enverra-nos-robots-et-nos-drones-comment-l-armee-francaise-prepare-les-combats-de-demain_8107196.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/france/14-juillet/direct-ceremonies-du-14-juillet-suivez-le-traditionnel-defile-militaire-sur-les-champs-elysees-a-paris_8086544.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/france/14-juillet/dernier-defile-d-emmanuel-macron-demonstrations-militaires-inedites-7-000-policiers-mobilises-ce-qu-il-faut-savoir-sur-l-edition-2026-du-defile-du-14-juillet_8105975.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/france/14-juillet/les-ultramarins-du-11e-regiment-d-infanterie-de-marine-font-un-haka-devant-l-arc-de-triomphe-avant-le-defile-du-14-juillet_8107253.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/france/14-juillet/le-conseil-d-etat-retablit-finalement-le-qr-code-obligatoire-pour-le-defile-du-14-juillet_8107082.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-peut-montrer-ce-qui-se-cache-derriere-l-uniforme-avec-les-militaires-influenceurs-l-armee-gagne-du-terrain-sur-les-reseaux-sociaux_8075396.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/mode/olivier-rousteing-nomme-directeur-artistique-de-paco-rabanne_8107274.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/tour-de-france/on-vous-resume-l-affaire-des-controles-antidopage-inopines-en-pleine-nuit-ayant-vise-tadej-pogacar-et-jonas-vingegaard-sur-le-tour-de-france-2026_8115230.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/maladie/grippe/la-haute-autorite-de-sante-recommande-l-obligation-vaccinale-contre-la-grippe-pour-tous-les-professionnels-de-sante_8115158.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/police/un-homme-qui-usurpait-l-image-de-la-gendarmerie-nationale-pour-creer-des-contenus-a-caractere-sexuel-interpelle-dans-la-marne_8115347.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/football-legende-de-liverpool-et-double-ballon-d-or-l-anglais-kevin-keegan-est-mort-a-l-age-de-75-ans_8115233.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/foot/football-legende-de-liverpool-et-double-ballon-d-or-l-anglais-kevin-keegan-est-mort-a-l-age-de-75-ans_8115233.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/les-moyens-aeriens-nationaux-engages-ne-sont-plus-a-la-hauteur-des-risques-alerte-le-president-des-pompiers-du-departement-de-haute-corse_8115479.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/drogue/le-baron-de-la-drogue-el-mayo-condamne-a-la-prison-a-vie-a-new-york_8115467.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/le-gouvernement-s-en-remet-au-parlement-pour-trancher-la-reintroduction-de-l-acetamipride-avant-le-vote-solennel-du-projet-de-loi-agricole_8115428.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -402,12 +402,6 @@
    "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/conjoncture/incendies-le-gouvernement-veut-lancer-un-grand-plan-d-investissement-pour-la-foret-francaise-20260715",
-   "https://www.lefigaro.fr/voyages/incendie-de-fontainebleau-il-faut-soutenir-le-tourisme-l-appel-des-professionnels-20260715",
-   "https://www.lefigaro.fr/sports/football/foot-bordeaux-officiellement-relegue-en-regional-1-la-sixieme-division-francaise-20260715",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-pogacar-reste-en-jaune-vingegaard-toujours-loin-seixas-joue-le-podium-le-classement-general-apres-la-11e-etape-20260715",
-   "https://www.lefigaro.fr/politique/fin-de-vie-la-loi-legalisant-l-euthanasie-et-le-suicide-definitivement-adoptee-a-l-assemblee-20260715",
-   "https://www.lefigaro.fr/sciences/reunion-de-crise-a-cause-de-la-secheresse-exceptionnelle-dans-l-hexagone-20260715",
    "https://www.lefigaro.fr/actualite-france/le-senat-invente-l-etonnant-concept-d-ingerence-interieure-pour-justifier-un-controle-renforce-d-internet-20260715",
    "https://www.lefigaro.fr/politique/presidentielle-2027-hollande-prepare-sa-candidature-et-donne-secretement-rendez-vous-a-ses-soutiens-ce-soir-20260715",
    "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-donald-trump-aurait-il-vraiment-pu-taxer-les-navires-dans-le-detroit-d-ormuz-comme-il-l-envisageait-20260715",
@@ -701,11 +695,15 @@
    "https://www.lefigaro.fr/vox/societe/sabine-duflo-les-jeunes-accros-aux-reseaux-sociaux-ne-sont-plus-capables-de-preter-attention-a-autre-chose-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/suprematie-de-l-espagne-scandale-fifa-show-a-l-americaine-les-coups-de-coeur-et-coups-de-griffe-de-la-coupe-du-monde-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-la-fifa-va-ouvrir-une-enquete-sur-le-comportement-des-argentins-apres-la-finale-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-pas-de-celebration-prevue-en-argentine-messi-et-certains-coequipiers-ne-rentrent-pas-au-pays-20260720"
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-pas-de-celebration-prevue-en-argentine-messi-et-certains-coequipiers-ne-rentrent-pas-au-pays-20260720",
+   "https://www.lefigaro.fr/international/atteinte-gravissime-et-inadmissible-paris-denonce-une-action-d-intimidation-extremement-grave-contre-deux-diplomates-francais-en-iran-20260720",
+   "https://www.lefigaro.fr/flash-actu/donald-trump-assure-a-benyamin-netanyahou-qu-il-ne-sera-pas-arrete-aux-etats-unis-20260720",
+   "https://www.lefigaro.fr/economie/hausse-des-matieres-premieres-rentabilite-en-baisse-fiscalite-penalisante-les-entreprises-reduisent-la-voilure-sur-les-recrutements-20260720",
+   "https://www.lefigaro.fr/conjoncture/ils-m-envoyaient-des-propositions-sans-aucun-rapport-avec-ma-recherche-ces-demandeurs-d-emploi-qui-decident-de-se-passer-de-france-travail-20260720",
+   "https://www.lefigaro.fr/politique/la-loi-d-urgence-agricole-une-nouvelle-fois-sous-tension-a-l-assemblee-20260720",
+   "https://www.lefigaro.fr/flash-actu/royaume-uni-le-suspect-du-meurtre-de-l-ancienne-deputee-anti-immigration-ann-widdecombe-inculpe-20260720"
   ],
   "https://www.france24.com/fr/rss": [
-   "9e5abbfe-7f75-11f1-9c10-9b76b1fbc5cb",
-   "8a5472cc-7f74-11f1-a539-61933c245817",
    "4f96ebba-7f74-11f1-b034-61933c245817",
    "42319d38-7f71-11f1-a075-991c98d7b4ee",
    "d2f419a0-7f70-11f1-b472-991c98d7b4ee",
@@ -1003,7 +1001,9 @@
    "a7086f1c-8452-11f1-b704-3f4c3230b1d7",
    "9a0e849c-8450-11f1-bfa1-b1079a9ce16d",
    "3f80e422-8449-11f1-ad9a-6b8aee60b745",
-   "b43c2686-844a-11f1-8faf-b1079a9ce16d"
+   "b43c2686-844a-11f1-8faf-b1079a9ce16d",
+   "433c2116-844a-11f1-b3f6-6b8aee60b745",
+   "69fd9bd4-8447-11f1-875f-6b8aee60b745"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1192,7 +1192,15 @@
    "dba56132-83dd-11f1-b9bf-75e5d4ab5259",
    "1f969b46-83ce-11f1-ad99-454c1b097d57",
    "77d6a2ca-83b9-11f1-811c-037bb3f62d91",
-   "e9d4b26c-842d-11f1-ab62-c34bd9523b1c"
+   "e9d4b26c-842d-11f1-ab62-c34bd9523b1c",
+   "38dca022-83f7-11f1-b5c2-ed1514f6f011",
+   "7fcdd698-8453-11f1-9dc3-37f804960b88",
+   "3c2a6f4e-843c-11f1-942a-593c249b43ad",
+   "05d942aa-8449-11f1-8c71-b75d360d0861",
+   "efc7717c-844c-11f1-8179-7bce62f68fc7",
+   "5723929a-844a-11f1-8590-b75d360d0861",
+   "4807d344-8444-11f1-b344-433da13ccac5",
+   "3a8a2d56-843b-11f1-a6fe-593c249b43ad"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1813,35 +1821,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "Andy Burnham a été nommé officiellement Premier ministre du Royaume-Uni par le roi Charles III",
-    "Andy Burnham succède à Keir Starmer, qui a démissionné",
-    "Andy Burnham était auparavant chef du Parti travailliste (Labour)",
-    "Andy Burnham était maire du Grand Manchester jusqu'au mois dernier",
-    "Keir Starmer était arrivé au pouvoir en juillet 2024",
-    "Andy Burnham a été reçu par le roi Charles III au palais de Buckingham",
-    "Andy Burnham a pris ses fonctions lundi 20 juillet 2026",
-    "Andy Burnham a promis un « plan sur dix ans » pour redresser le pays"
-   ],
-   "qui": "Andy Burnham, Keir Starmer, roi Charles III",
-   "ou": "Royaume-Uni, Londres (Downing Street, palais de Buckingham)",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "b4376cea13713db3",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-20T12:36:38.466781+00:00"
-  },
-  {
-   "faits": [
     "L'Espagne a remporté la finale de la Coupe du monde 2026 face à l'Argentine",
     "La finale s'est déroulée dimanche 19 juillet à New York",
     "Un affrontement a opposé des joueurs de la Roja et de l'Albiceleste après le match",
@@ -1943,32 +1922,103 @@
   },
   {
    "faits": [
-    "L'Espagne a remporté la finale de la Coupe du monde 2026",
-    "L'Espagne a vaincu l'Argentine 1-0 en finale",
-    "La finale s'est déroulée à New York",
-    "Leandro Paredes (milieu argentin) a eu un match rugueux",
-    "Leandro Paredes a reçu un carton rouge après la rencontre",
-    "Un spectacle de onze minutes avec Madonna et Shakira a été organisé à la mi-temps par la FIFA",
-    "Le spectacle de mi-temps a reçu des critiques négatives (décrit comme « fade », « lisse » et trop long)",
-    "Donald Trump a monopolisé l'attention lors de la remise du trophée",
-    "Gianni Infantino a demandé à Donald Trump de quitter la scène pour laisser les champions célébrer"
+    "Kevin Keegan, ancien attaquant anglais et double Ballon d'Or, est mort",
+    "Il est mort d'un cancer à l'âge de 75 ans",
+    "Mort annoncée lundi 20 juillet par sa famille",
+    "Remporté la Coupe d'Europe des clubs champions avec Liverpool en 1977",
+    "Trois Championnats d'Angleterre",
+    "Entraîneur de plusieurs clubs et de l'équipe nationale d'Angleterre"
    ],
-   "qui": "Espagne, Argentine, Leandro Paredes, Madonna, Shakira, Donald Trump, Gianni Infantino",
-   "ou": "New York",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
+   "qui": "Kevin Keegan",
+   "ou": "Royaume-Uni",
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 92,
    "sources": [
     "Le Figaro",
-    "France 24"
+    "RFI"
    ],
    "non_confirme": [],
-   "importance": 80,
-   "empreinte": "49e075a4eb4f89c3",
+   "importance": 72,
+   "empreinte": "d748b4f6a0fe6972",
    "score": 96,
    "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-20T12:36:38.466789+00:00"
+   "depuis": "2026-07-20T18:46:40.954363+00:00"
+  },
+  {
+   "faits": [
+    "Deux diplomates français ont été retenus plusieurs heures par les services de sécurité iraniens à Téhéran",
+    "France dénonce une 'action d'intimidation extrêmement grave'",
+    "Jean-Noël Barrot promet que cet incident 'ne pourra rester sans conséquence'"
+   ],
+   "qui": "Diplomates français, Iran, Jean-Noël Barrot (ministre français)",
+   "ou": "Téhéran, Iran",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 87,
+   "sources": [
+    "Le Figaro",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "b0e862874b03b5c0",
+   "score": 93,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-20T18:46:40.954365+00:00"
+  },
+  {
+   "faits": [
+    "Andy Burnham succède à Keir Starmer comme Premier ministre britannique",
+    "Ancien maire de Manchester",
+    "Veut s'attaquer au coût de la vie",
+    "Envisage de renforcer la décentralisation et réformer l'aide sociale"
+   ],
+   "qui": "Andy Burnham, Keir Starmer",
+   "ou": "Royaume-Uni",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "893f200fe05c6cbb",
+   "score": 92,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-20T18:46:40.954366+00:00"
+  },
+  {
+   "faits": [
+    "Le gouvernement s'en remet au Parlement pour trancher la réintroduction de l'acétamipride",
+    "Réunion à Matignon avec ministres et chefs des groupes du centre et de la droite",
+    "Décision d'allonger le délai pour l'avis de l'Anses sur des dérogations",
+    "Révision d'une disposition contestée sur la gestion de l'eau",
+    "Vote solennel du projet de loi agricole prévu"
+   ],
+   "qui": "Gouvernement français, Parlement",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "réintroduction effective de l'acétamipride"
+   ],
+   "importance": 55,
+   "empreinte": "df5399a6b537d6f0",
+   "score": 91,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-20T18:46:40.954368+00:00"
   },
   {
    "faits": [
@@ -2016,28 +2066,26 @@
   },
   {
    "faits": [
-    "Plusieurs départs de feux ont eu lieu dans le Var dimanche 19 juillet",
-    "La progression des feux a été extrêmement rapide sous l'effet du vent",
-    "Plusieurs habitations ont été touchées dans les secteurs de Taradeau et des Arcs",
-    "Le trafic SNCF a été interrompu entre Toulon et Nice"
+    "Ismael Zambada García, alias 'El Mayo', cofondateur du cartel de Sinaloa, condamné à la prison à perpétuité",
+    "Il a 76 ans",
+    "Son arrestation a été rendue possible par la trahison d'un fils d'Joaquín Guzmán Loera ('El Chapo')",
+    "Sa condamnation a déclenché une guerre interne au sein du cartel"
    ],
-   "qui": null,
-   "ou": "Var (Taradeau, Les Arcs)",
-   "categorie": "meteo_catastrophe",
+   "qui": "Ismael Zambada García ('El Mayo')",
+   "ou": "New York, États-Unis",
+   "categorie": "justice",
    "sensible": true,
    "confiance": 90,
    "sources": [
     "franceinfo"
    ],
-   "non_confirme": [
-    "destruction de maisons (expression d'habitant traumatisé)"
-   ],
-   "importance": 75,
-   "empreinte": "6482f35a373fc28f",
-   "score": 87,
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "ff1907956071f7c3",
+   "score": 86,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-20T12:36:38.466796+00:00"
+   "depuis": "2026-07-20T18:46:40.954373+00:00"
   },
   {
    "faits": [
@@ -2064,26 +2112,51 @@
   },
   {
    "faits": [
-    "Un incendie sévit dans la forêt de Fontainebleau au sud-est de Paris",
-    "Le feu couve toujours",
-    "Des habitants de Noisy-sur-Ecole organisent des patrouilles aux lisières de la forêt",
-    "Les riverains photographient les voitures suspectes et signalent les comportements suspects"
+    "Escalade des hostilités entre États-Unis et Iran le 20 juillet 2026",
+    "États-Unis ont frappé une grande partie du territoire iranien pendant la nuit",
+    "Pour la dixième journée consécutive, États-Unis visent des sites stratégiques en Iran",
+    "Villes ciblées : Bouchehr et Tabriz",
+    "Téhéran riposte contre des installations militaires américaines au Koweït et à Bahreïn",
+    "Iran revendique l'attaque de deux pétroliers dans le détroit d'Ormuz",
+    "Iran déclare faire face à une 'guerre totale' avec les États-Unis"
    ],
-   "qui": null,
-   "ou": "Fontainebleau (forêt), Noisy-sur-Ecole",
-   "categorie": "meteo_catastrophe",
+   "qui": "États-Unis, Iran",
+   "ou": "Moyen-Orient (Iran, Koweït, Bahreïn, détroit d'Ormuz)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "2b35ea756bf2ad03",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T18:46:40.953366+00:00"
+  },
+  {
+   "faits": [
+    "Les douze prévenus dans l'affaire des assistants d'eurodéputés du Front national se pourvoient en cassation",
+    "Huit pourvois avaient déjà été déposés, quatre supplémentaires ont suivi",
+    "Affaire de détournement de fonds publics"
+   ],
+   "qui": "Prévenus du Front national (affaire des assistants d'eurodéputés)",
+   "ou": "France",
+   "categorie": "justice",
    "sensible": true,
    "confiance": 90,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "4787dd5b37a87a90",
-   "score": 86,
+   "importance": 65,
+   "empreinte": "de797b756a9eb3b7",
+   "score": 85,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-20T12:36:38.466797+00:00"
+   "depuis": "2026-07-20T18:46:40.954376+00:00"
   },
   {
    "faits": [
@@ -2106,51 +2179,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T16:41:25.589068+00:00"
-  },
-  {
-   "faits": [
-    "Laurent Nuñez a annoncé l'équipement de l'A400M, avion de transport militaire, pour lutter contre les incendies",
-    "L'A400M possède des capacités de largage importantes mais un pilotage difficile",
-    "Cet équipement vise à pallier le manque de Canadair face aux incendies attisés par les fortes chaleurs et la sécheresse"
-   ],
-   "qui": "Laurent Nuñez (gouvernement français)",
-   "ou": "France",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "a9a7562bcd54a126",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T12:36:38.466799+00:00"
-  },
-  {
-   "faits": [
-    "Kevin Keegan, double Ballon d'or anglais, est décédé à l'âge de 75 ans lundi 20 juillet 2026",
-    "Il était ancien joueur de Liverpool",
-    "Il a été sélectionneur de l'équipe d'Angleterre à la fin des années 1990",
-    "Il luttait contre un cancer"
-   ],
-   "qui": "Kevin Keegan",
-   "ou": "Royaume-Uni",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "d748b4f6a0fe6972",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T14:55:32.873593+00:00"
   },
   {
    "faits": [
@@ -2200,6 +2228,52 @@
   },
   {
    "faits": [
+    "Meurtre d'Ann Widdecombe, ancienne députée britannique anti-immigration, âgée de 78 ans",
+    "Joshua Kerry inculpé du meurtre",
+    "Kerry avait été arrêté deux jours après la découverte du corps",
+    "Ann Widdecombe était porte-parole du parti Reform UK"
+   ],
+   "qui": "Ann Widdecombe, Joshua Kerry",
+   "ou": "Royaume-Uni",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "6fb343c229518918",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T18:46:40.953202+00:00"
+  },
+  {
+   "faits": [
+    "Tensions autour du détroit d'Ormuz font grimper les cours du pétrole",
+    "Iran resserre son étau sur le détroit d'Ormuz",
+    "Avant la guerre, le détroit voyait transiter 1/5e du commerce mondial d'hydrocarbures",
+    "Cours du pétrole repartis à la hausse après avoir été apaisés par un protocole d'accord en juin"
+   ],
+   "qui": "Iran, États-Unis",
+   "ou": "Détroit d'Ormuz, marchés pétroliers mondiaux",
+   "categorie": "economie",
+   "sensible": true,
+   "confiance": 84,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "f7e57697021f05ca",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T18:46:40.953404+00:00"
+  },
+  {
+   "faits": [
     "Un navire a été frappé par un projectile inconnu dans le détroit d'Ormuz",
     "Le navire a pris feu",
     "L'équipage a évacué le navire en toute sécurité et a été secouru par un remorqueur",
@@ -2225,58 +2299,27 @@
   },
   {
    "faits": [
-    "La France a atteint la demi-finale de la Coupe du monde 2026",
-    "La France a perdu face à l'Espagne en demi-finale",
-    "Kylian Mbappé a joué dans l'équipe de France",
-    "Dayot Upamecano a joué dans l'équipe de France",
-    "Müller Olise a joué dans l'équipe de France",
-    "Lucas Hernandez a joué dans l'équipe de France",
-    "Didier Deschamps était sélectionneur de l'équipe de France pour ce Mondial",
-    "Didier Deschamps a mis fin à sa mission en équipe de France"
+    "Tour de France entre dans sa troisième semaine",
+    "Contre-la-montre de 26 kilomètres entre Évian et Thonon-les-Bains mardi 21 juillet",
+    "Tadej Pogacar file vers un cinquième sacre",
+    "Pogacar tient une position hégémonique",
+    "Deux autres marches du podium devraient être très disputées"
    ],
-   "qui": "Équipe de France de football, Didier Deschamps",
-   "ou": "États-Unis (diverses villes : Nantes, Lille, Boston, New York, Philadelphie, Dallas)",
+   "qui": "Tadej Pogacar",
+   "ou": "France",
    "categorie": "sport",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 86,
    "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "Didier Deschamps repartant sur un nouveau projet en club ou en sélection"
-   ],
-   "importance": 70,
-   "empreinte": "c82bea491a17416a",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T12:36:38.466838+00:00"
-  },
-  {
-   "faits": [
-    "Le projet de loi d'urgence agricole revient à l'Assemblée nationale lundi",
-    "Le texte prévoit la réintroduction de pesticides jusqu'ici interdits en France",
-    "Cette réintroduction concerne certaines filières seulement",
-    "L'acétamipride figure parmi les pesticides à réintroduire",
-    "La dangerosité de l'acétamipride pour la biodiversité est avérée",
-    "Il y a un an, une pétition contre cette réintroduction avait réuni deux millions de signatures",
-    "Le projet de loi fracture la majorité"
-   ],
-   "qui": "Gouvernement français, Assemblée nationale",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
+    "RFI"
    ],
    "non_confirme": [],
-   "importance": 72,
-   "empreinte": "6593050e70e41230",
-   "score": 82,
+   "importance": 62,
+   "empreinte": "266e358abf690479",
+   "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-20T12:36:38.466839+00:00"
+   "depuis": "2026-07-20T18:46:40.954383+00:00"
   },
   {
    "faits": [
@@ -2342,6 +2385,49 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-20T16:41:25.588562+00:00"
+  },
+  {
+   "faits": [
+    "Le président du Sis 2B estime que les sapeurs-pompiers interviennent au péril de leur sécurité en Haute-Corse",
+    "Les moyens aériens nationaux sont jugés insuffisants par rapport aux risques"
+   ],
+   "qui": "Président du Sis 2B (Service d'incendie et de secours de Haute-Corse)",
+   "ou": "Haute-Corse",
+   "categorie": "autre",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "90c5ce485cddd762",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T18:46:40.954387+00:00"
+  },
+  {
+   "faits": [
+    "Sénégal apporte son soutien à la candidature de Macky Sall au secrétariat général de l'ONU",
+    "Bassirou Diomaye Faye a reçu Macky Sall au palais présidentiel trois jours avant l'annonce",
+    "Ce soutien restait en suspens jusqu'ici"
+   ],
+   "qui": "Bassirou Diomaye Faye, Macky Sall",
+   "ou": "Sénégal",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 87,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "63c7e7a2c2067838",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T18:46:40.954389+00:00"
   },
   {
    "faits": [
@@ -2433,54 +2519,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-20T16:41:25.589085+00:00"
-  },
-  {
-   "faits": [
-    "La Fifa s'apprête à enquêter sur le comportement de la sélection argentine après la finale",
-    "Une bagarre a éclaté entre certains joueurs argentins après la finale perdue face à l'Espagne"
-   ],
-   "qui": "Sélection argentine",
-   "ou": "Mondial 2026",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "Selon Sky Sports"
-   ],
-   "importance": 60,
-   "empreinte": "fea6ac589b6d4009",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.589086+00:00"
-  },
-  {
-   "faits": [
-    "Le Premier ministre félix Moloua s'est rendu à Birao après l'attaque du 30 juin près d'Am Dafok",
-    "Objectif : rassurer la population",
-    "Aucun bilan officiel n'a été communiqué",
-    "La sécurité a été renforcée dans la région"
-   ],
-   "qui": "Félix Moloua (Premier ministre centrafricain)",
-   "ou": "Birao, Centrafrique",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "bilan officiel"
-   ],
-   "importance": 45,
-   "empreinte": "e9e667998d1b975e",
-   "score": 72,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.588593+00:00"
   }
  ],
  "publies_48h": [
@@ -2659,7 +2697,7 @@
   "L'Espagne remporte la Coupe du monde 2026 contre l'Argentine (1-0) dimanche. Ce premier Mondial dans trois pays est aussi le plus long de l'histoire. Un adolescent espagnol a péri lors de l'effondrement d'une fontaine pendant les célébrations. (franceinfo)",
   "🇫🇷 La canicule de juin 2026 a provoqué plus de 2 000 décès excédentaires en France. Les personnes isolées, les enfants et les sportifs ont été particulièrement affectés par cette vague de chaleur. (franceinfo)"
  ],
- "recap_date": "2026-07-19",
+ "recap_date": "2026-07-20",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-20",
