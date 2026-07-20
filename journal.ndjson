@@ -3753,3 +3753,27 @@
 {"decision": "controle", "evt": "0e0b72ba6690617b", "motif": "ok_sim_0.44", "ts": "2026-07-20T04:11:30+00:00"}
 {"decision": "publie", "empreinte": "4fde782df30526cd", "post_id": "2079056586149151175", "carte": true, "texte": "⚡ FLASH — Les États-Unis ont mené neuf nuits de frappes contre des centres de commandement iraniens. En riposte, les Gardiens de la révolution ont frappé des avions américains en Jordanie et attaqué des pétroliers dans le détroit d'Ormuz.", "ts": "2026-07-20T04:11:32+00:00"}
 {"decision": "publie", "empreinte": "71a0c347a55e90c1", "post_id": "2079056602624340109", "carte": true, "texte": "⚡ FLASH — Un ferry a coulé au large du Guyana dans la nuit du 18 au 19 juillet. Le MV Barima transportait au moins 133 personnes. Soixante-sept ont été secourues, des dizaines restent portées disparues. (RFI, Ouest-France)", "ts": "2026-07-20T04:11:36+00:00"}
+{"decision": "abandon_attente", "evt": "4e256d487ecb24fa", "categorie": "international", "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "abandon_attente", "evt": "39e3508d2e7cf680", "categorie": "meteo_catastrophe", "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "publier", "evt": "6e89ee2c786bc86c", "score": 98, "categorie": "sport", "sensible": true, "confiance": 88, "sources": ["franceinfo", "Le Figaro", "France 24"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "publier", "evt": "fbf188010e048c67", "score": 90, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "publier", "evt": "6482f35a373fc28f", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "attente", "evt": "6d6f905575314fff", "score": 86, "categorie": "international", "sensible": true, "confiance": 82, "sources": ["franceinfo"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "publier", "evt": "849a210902e764bf", "score": 84, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "attente", "evt": "0628a3159af2956c", "score": 81, "categorie": "justice", "sensible": true, "confiance": 78, "sources": ["franceinfo"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "attente", "evt": "06284fe295c3055e", "score": 82, "categorie": "politique", "sensible": true, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "publier", "evt": "2eaa68060f6446ff", "score": 85, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "attente", "evt": "2e31689a9cc0e3ef", "score": 83, "categorie": "international", "sensible": true, "confiance": 78, "sources": ["franceinfo"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "publier", "evt": "c49916b5d7591231", "score": 79, "categorie": "sante", "sensible": false, "confiance": 75, "sources": ["franceinfo"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "publier", "evt": "e28f6a29a46185d9", "score": 84, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "publier", "evt": "9a167a62c76da72a", "score": 83, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "attente", "evt": "961d57956a8fdd4e", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["France 24"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "attente", "evt": "3b625b742bea158e", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "publier", "evt": "1f9eb2ea2e5e3199", "score": 82, "categorie": "politique", "sensible": false, "confiance": 92, "sources": ["RFI"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "attente", "evt": "6d64b722cfd155f9", "score": 81, "categorie": "international", "sensible": true, "confiance": 82, "sources": ["RFI"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "attente", "evt": "c72498c41612f982", "score": 80, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "publier", "evt": "813fd9e5145972c9", "score": 78, "categorie": "culture", "sensible": false, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-20T07:37:24+00:00"}
+{"decision": "controle", "evt": "6e89ee2c786bc86c", "motif": "ok_sim_0.39", "ts": "2026-07-20T07:37:32+00:00"}
+{"decision": "controle", "evt": "fbf188010e048c67", "motif": "ok_sim_0.41", "ts": "2026-07-20T07:37:36+00:00"}
+{"decision": "publie", "empreinte": "6dfb5a4065a1b72d", "post_id": "2079108451083640993", "carte": true, "texte": "L'Espagne remporte la Coupe du monde 2026 contre l'Argentine (1-0) dimanche. Ce premier Mondial dans trois pays est aussi le plus long de l'histoire. Un adolescent espagnol a péri lors de l'effondrement d'une fontaine pendant les célébrations. (franceinfo)", "ts": "2026-07-20T07:37:37+00:00"}
+{"decision": "publie", "empreinte": "d6c051d95a6b58e3", "post_id": "2079108467621777794", "carte": true, "texte": "🇫🇷 La canicule de juin 2026 a provoqué plus de 2 000 décès excédentaires en France. Les personnes isolées, les enfants et les sportifs ont été particulièrement affectés par cette vague de chaleur. (franceinfo)", "ts": "2026-07-20T07:37:41+00:00"}
