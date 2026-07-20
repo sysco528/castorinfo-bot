@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/france/14-juillet/le-conseil-d-etat-retablit-finalement-le-qr-code-obligatoire-pour-le-defile-du-14-juillet_8107082.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-peut-montrer-ce-qui-se-cache-derriere-l-uniforme-avec-les-militaires-influenceurs-l-armee-gagne-du-terrain-sur-les-reseaux-sociaux_8075396.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/mode/olivier-rousteing-nomme-directeur-artistique-de-paco-rabanne_8107274.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-mois-de-juin-2026-a-ete-le-plus-meurtrier-pour-les-civils-depuis-pres-de-quatre-ans-selon-l-onu_8107532.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/hommes/direct-tour-de-france-2026-un-francais-va-t-il-gagner-en-ce-14-juillet-suivez-l-etape-de-moyenne-montagne-entre-aurillac-et-le-lioran_8106023.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/viking-row-raton-laveur-empaille-et-liesse-populaire-le-retour-au-pays-triomphal-de-l-equipe-de-norvege-apres-son-epopee-en-coupe-du-monde_8107490.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/faits-divers/incendie/les-moyens-aeriens-nationaux-engages-ne-sont-plus-a-la-hauteur-des-risques-alerte-le-president-des-pompiers-du-departement-de-haute-corse_8115479.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/drogue/le-baron-de-la-drogue-el-mayo-condamne-a-la-prison-a-vie-a-new-york_8115467.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/le-gouvernement-s-en-remet-au-parlement-pour-trancher-la-reintroduction-de-l-acetamipride-avant-le-vote-solennel-du-projet-de-loi-agricole_8115428.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/le-gouvernement-s-en-remet-au-parlement-pour-trancher-la-reintroduction-de-l-acetamipride-avant-le-vote-solennel-du-projet-de-loi-agricole_8115428.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sante/l-obligation-vaccinale-contre-la-grippe-recommandee-par-la-has-est-une-bonne-chose-pour-le-syndicat-national-des-professionnels-infirmiers_8115509.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-10-morts-les-recherches-de-survivants-se-poursuivent_8115488.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-var-le-feu-a-taradeau-et-aux-arcs-desormais-fixe-mais-la-vigilance-reste-de-mise-indique-la-prefecture_8115503.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -402,12 +402,6 @@
    "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/actualite-france/le-senat-invente-l-etonnant-concept-d-ingerence-interieure-pour-justifier-un-controle-renforce-d-internet-20260715",
-   "https://www.lefigaro.fr/politique/presidentielle-2027-hollande-prepare-sa-candidature-et-donne-secretement-rendez-vous-a-ses-soutiens-ce-soir-20260715",
-   "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-donald-trump-aurait-il-vraiment-pu-taxer-les-navires-dans-le-detroit-d-ormuz-comme-il-l-envisageait-20260715",
-   "https://www.lefigaro.fr/faits-divers/affaire-lyhanna-le-principal-suspect-jerome-barella-mis-en-examen-pour-le-meurtre-et-le-viol-de-la-collegienne-20260715",
-   "https://www.lefigaro.fr/politique/repondre-d-abord-a-la-souffrance-par-la-mort-apres-l-adoption-de-la-loi-fin-de-vie-la-classe-politique-reagit-20260715",
-   "https://www.lefigaro.fr/actualite-france/fin-de-vie-l-eglise-de-france-deplore-une-rupture-grave-dans-l-histoire-de-notre-pays-20260715",
    "https://www.lefigaro.fr/actualite-france/alors-que-l-interdit-de-tuer-se-delite-nous-ne-pouvons-pas-deserter-l-espace-public-emmanuel-hirsch-et-laurent-fremont-annoncent-la-creation-d-un-observatoire-de-la-fin-de-vie-20260715",
    "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-loi-sur-l-euthanasie-et-le-suicide-assiste-simulacre-democratique-et-nihilisme-d-etat-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-la-desillusion-pour-les-bleus-apres-l-elimination-un-vestiaire-aneanti-l-espagne-attend-l-argentine-ou-l-angleterre-20260715",
@@ -701,17 +695,15 @@
    "https://www.lefigaro.fr/economie/hausse-des-matieres-premieres-rentabilite-en-baisse-fiscalite-penalisante-les-entreprises-reduisent-la-voilure-sur-les-recrutements-20260720",
    "https://www.lefigaro.fr/conjoncture/ils-m-envoyaient-des-propositions-sans-aucun-rapport-avec-ma-recherche-ces-demandeurs-d-emploi-qui-decident-de-se-passer-de-france-travail-20260720",
    "https://www.lefigaro.fr/politique/la-loi-d-urgence-agricole-une-nouvelle-fois-sous-tension-a-l-assemblee-20260720",
-   "https://www.lefigaro.fr/flash-actu/royaume-uni-le-suspect-du-meurtre-de-l-ancienne-deputee-anti-immigration-ann-widdecombe-inculpe-20260720"
+   "https://www.lefigaro.fr/flash-actu/royaume-uni-le-suspect-du-meurtre-de-l-ancienne-deputee-anti-immigration-ann-widdecombe-inculpe-20260720",
+   "https://www.lefigaro.fr/international/la-coupe-du-monde-de-football-aux-etats-unis-la-plus-politique-de-l-histoire-20260720",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-le-president-du-foot-sud-americain-proche-de-gianni-infantino-tease-un-mondial-2030-a-64-equipes-20260720",
+   "https://www.lefigaro.fr/sports/football/equipe-de-france/didier-deschamps-a-dine-avec-emmanuel-macron-a-l-elysee-dimanche-20260720",
+   "https://www.lefigaro.fr/vox/societe/la-participation-du-syndicat-de-la-magistrature-a-une-conference-de-presse-de-lfi-est-un-nouveau-coup-donne-a-la-confiance-dans-la-justice-20260720",
+   "https://www.lefigaro.fr/culture/louvre-reouverture-mercredi-de-la-galerie-d-apollon-lieu-du-cambriolage-d-octobre-2025-20260720",
+   "https://www.lefigaro.fr/nantes/nantes-un-incendie-en-cours-dans-un-camp-de-roms-des-personnes-evacuees-et-10-hectares-emportes-par-le-feu-20260720"
   ],
   "https://www.france24.com/fr/rss": [
-   "4f96ebba-7f74-11f1-b034-61933c245817",
-   "42319d38-7f71-11f1-a075-991c98d7b4ee",
-   "d2f419a0-7f70-11f1-b472-991c98d7b4ee",
-   "f23fbb20-7f8e-11f1-8ce9-f5ebecfadf0b",
-   "e402714c-7f89-11f1-ae03-fd81a8b83031",
-   "0706d0a4-7f88-11f1-bff8-fd81a8b83031",
-   "56aa84a8-7ed8-11f1-98ad-a5c33930dc62",
-   "077e8c72-7f86-11f1-831b-676cc7d59e71",
    "2442adda-7f85-11f1-9643-676cc7d59e71",
    "70cdbd44-7f84-11f1-b8ea-fd81a8b83031",
    "72970214-7f81-11f1-9988-2fd5bb8d5200",
@@ -1003,7 +995,15 @@
    "3f80e422-8449-11f1-ad9a-6b8aee60b745",
    "b43c2686-844a-11f1-8faf-b1079a9ce16d",
    "433c2116-844a-11f1-b3f6-6b8aee60b745",
-   "69fd9bd4-8447-11f1-875f-6b8aee60b745"
+   "69fd9bd4-8447-11f1-875f-6b8aee60b745",
+   "f8305426-8471-11f1-92db-6951f7c3c0ed",
+   "2a03bf0c-8462-11f1-afed-113fce81286a",
+   "6ff49a00-846b-11f1-865b-990d18f1285f",
+   "8775f6f0-845d-11f1-9eae-a5dc7dbd2fae",
+   "9ebcac96-8467-11f1-bcbf-d357ce01cee0",
+   "409d2b82-8466-11f1-b96a-113fce81286a",
+   "b3ce14c6-8462-11f1-b5f5-113fce81286a",
+   "1494ade0-8460-11f1-8daf-73aef791d6d7"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1200,7 +1200,10 @@
    "efc7717c-844c-11f1-8179-7bce62f68fc7",
    "5723929a-844a-11f1-8590-b75d360d0861",
    "4807d344-8444-11f1-b344-433da13ccac5",
-   "3a8a2d56-843b-11f1-a6fe-593c249b43ad"
+   "3a8a2d56-843b-11f1-a6fe-593c249b43ad",
+   "7cb04162-8462-11f1-8b8f-95b47b2de0a1",
+   "8938bc60-8468-11f1-958a-03d2d9295585",
+   "8ba09504-8355-11f1-898c-652be2fcd917"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1948,6 +1951,31 @@
   },
   {
    "faits": [
+    "Andy Burnham a été nommé Premier ministre du Royaume-Uni lundi",
+    "Il succède à Keir Starmer",
+    "Il représente le Parti travailliste",
+    "Le contexte économique et politique est instable",
+    "Les experts interrogés soulignent qu'il doit prouver la stabilité de son programme"
+   ],
+   "qui": "Andy Burnham, Keir Starmer",
+   "ou": "Royaume-Uni",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "893f200fe05c6cbb",
+   "score": 94,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-20T20:15:02.953582+00:00"
+  },
+  {
+   "faits": [
     "Deux diplomates français ont été retenus plusieurs heures par les services de sécurité iraniens à Téhéran",
     "France dénonce une 'action d'intimidation extrêmement grave'",
     "Jean-Noël Barrot promet que cet incident 'ne pourra rester sans conséquence'"
@@ -1968,30 +1996,6 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-20T18:46:40.954365+00:00"
-  },
-  {
-   "faits": [
-    "Andy Burnham succède à Keir Starmer comme Premier ministre britannique",
-    "Ancien maire de Manchester",
-    "Veut s'attaquer au coût de la vie",
-    "Envisage de renforcer la décentralisation et réformer l'aide sociale"
-   ],
-   "qui": "Andy Burnham, Keir Starmer",
-   "ou": "Royaume-Uni",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "893f200fe05c6cbb",
-   "score": 92,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T18:46:40.954366+00:00"
   },
   {
    "faits": [
@@ -2019,6 +2023,30 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-20T18:46:40.954368+00:00"
+  },
+  {
+   "faits": [
+    "Le ferry MV Barima est parti de Georgetown avec au moins 133 personnes à bord",
+    "Le bateau a été renversé par une grosse vague dans la nuit de samedi à dimanche",
+    "Au moins 10 personnes sont mortes",
+    "Environ 67 personnes ont été secourues",
+    "Des recherches de survivants se poursuivent"
+   ],
+   "qui": "Ferry MV Barima",
+   "ou": "Guyana",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "0e54c85a4e84b66a",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T20:15:02.953587+00:00"
   },
   {
    "faits": [
@@ -2182,6 +2210,51 @@
   },
   {
    "faits": [
+    "Le régime iranien a intensifié ses frappes contre la Jordanie depuis le 7 juillet",
+    "Au moins deux soldats américains ont été tués dans une attaque de missiles en Jordanie",
+    "La Jordanie est devenue une cible privilégiée de l'Iran",
+    "La Jordanie était relativement épargnée jusque-là"
+   ],
+   "qui": "Iran, États-Unis",
+   "ou": "Jordanie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "868a94bd1c187596",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T20:15:02.952443+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie s'est déclaré dans le Var à Taradeau et aux Arcs",
+    "Le feu est désormais fixé selon la préfecture",
+    "Les pompiers ont créé une barrière de retardant d'1,5 km avec un avion Dash"
+   ],
+   "qui": null,
+   "ou": "Var (Taradeau et Arcs), France",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "3661954383d37222",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T20:15:02.953598+00:00"
+  },
+  {
+   "faits": [
     "Députés et sénateurs réunis en commission mixte paritaire sont parvenus à s'entendre sur une proposition de loi",
     "La proposition de loi vise à protéger les mineurs des risques de l'utilisation des réseaux sociaux",
     "L'interdiction des réseaux sociaux aux moins de 15 ans est envisagée",
@@ -2205,6 +2278,32 @@
   },
   {
    "faits": [
+    "L'Iran affirme faire face à une guerre totale menée par les États-Unis",
+    "Washington a frappé une grande partie du territoire iranien en assurant viser des sites militaires",
+    "Téhéran dénonce des frappes dans plusieurs villes, notamment à Bouchehr",
+    "Bouchehr abrite la seule centrale nucléaire iranienne",
+    "Emmanuelle Galichet affirme que Bouchehr est le seul site iranien présentant un véritable risque nucléaire"
+   ],
+   "qui": "Iran, États-Unis",
+   "ou": "Iran (Bouchehr)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "ampleur exacte des dégâts à Bouchehr"
+   ],
+   "importance": 85,
+   "empreinte": "b0df3c5c5f9dd449",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T20:15:02.952476+00:00"
+  },
+  {
+   "faits": [
     "Khalil al-Hayya a été élu à la tête du Hamas",
     "Il succède à Yahya Sinouar, tué par Israël",
     "Al-Hayya était le négociateur en chef du Hamas",
@@ -2225,6 +2324,30 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-20T16:41:25.588530+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie s'est déclaré lundi soir dans le quartier Doulon-Bottière à Nantes",
+    "L'incendie s'est déclaré dans un camp de Roms",
+    "Une dizaine d'hectares ont été ravagés",
+    "Près de 150 pompiers ont été mobilisés",
+    "Plusieurs habitants ont été évacués"
+   ],
+   "qui": null,
+   "ou": "Nantes (quartier Doulon-Bottière), France",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "efdff385bc480336",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T20:15:02.953601+00:00"
   },
   {
    "faits": [
@@ -2274,6 +2397,97 @@
   },
   {
    "faits": [
+    "La HAS recommande l'obligation vaccinale contre la grippe",
+    "Le Syndicat national des professionnels infirmiers est favorable à cette obligation",
+    "Thierry Amouroux, porte-parole du syndicat, souhaite aussi faciliter l'accès à cette vaccination"
+   ],
+   "qui": "Syndicat national des professionnels infirmiers, HAS",
+   "ou": "France",
+   "categorie": "sante",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "ff2b5e8d7a1fad41",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T20:15:02.953603+00:00"
+  },
+  {
+   "faits": [
+    "Le Premier ministre espagnol Pedro Sanchez s'est rendu à Alger lundi",
+    "Il a rencontré le président algérien Abdelmadjid Tebboune",
+    "Plusieurs années de brouille diplomatique ont précédé cette visite",
+    "Cette visite affiche un réchauffement des relations entre l'Espagne et l'Algérie"
+   ],
+   "qui": "Pedro Sanchez, Abdelmadjid Tebboune",
+   "ou": "Alger, Algérie",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "1387d96d288cec7c",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T20:15:02.953604+00:00"
+  },
+  {
+   "faits": [
+    "Le président ukrainien Volodymyr Zelensky a opéré un remaniement",
+    "Mykhaïlo Fedorov a quitté son poste de ministre de la Défense",
+    "Des centaines de personnes ont manifesté pour contester ce départ",
+    "Le remaniement vire à la crise politique"
+   ],
+   "qui": "Volodymyr Zelensky, Mykhaïlo Fedorov",
+   "ou": "Ukraine",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "72a64646e4aaf73f",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T20:15:02.953609+00:00"
+  },
+  {
+   "faits": [
+    "Les feux de forêt se multiplient ces derniers jours au Canada, en Espagne et en France",
+    "Les émissions de CO2 générées par ces incendies ont augmenté de 60% en 20 ans",
+    "Le réchauffement climatique prive les forêts de leur humidité",
+    "Ce phénomène rend les forêts plus inflammables"
+   ],
+   "qui": null,
+   "ou": "Canada, Espagne, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "c0303591f0544d28",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T20:15:02.953611+00:00"
+  },
+  {
+   "faits": [
     "Un navire a été frappé par un projectile inconnu dans le détroit d'Ormuz",
     "Le navire a pris feu",
     "L'équipage a évacué le navire en toute sécurité et a été secouru par un remorqueur",
@@ -2299,226 +2513,29 @@
   },
   {
    "faits": [
-    "Tour de France entre dans sa troisième semaine",
-    "Contre-la-montre de 26 kilomètres entre Évian et Thonon-les-Bains mardi 21 juillet",
-    "Tadej Pogacar file vers un cinquième sacre",
-    "Pogacar tient une position hégémonique",
-    "Deux autres marches du podium devraient être très disputées"
-   ],
-   "qui": "Tadej Pogacar",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 86,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "266e358abf690479",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T18:46:40.954383+00:00"
-  },
-  {
-   "faits": [
-    "Tadej Pogacar et Jonas Vingegaard ont été réveillés pour un contrôle antidopage inopiné",
-    "Le contrôle a eu lieu dans la nuit de samedi à dimanche",
-    "Il s'est déroulé avant le départ de la 15e étape du Tour de France 2026"
-   ],
-   "qui": "Tadej Pogacar, Jonas Vingegaard",
-   "ou": "Tour de France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "de5838d784e8a69e",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.589077+00:00"
-  },
-  {
-   "faits": [
-    "12 millions de téléspectateurs ont regardé la finale de la Coupe du monde 2026 en France dimanche 19 juillet"
+    "Un incendie a ravagé un orphelinat de Mohammadia près d'Alger",
+    "11 personnes ont péri dans cet incendie",
+    "Les funérailles des victimes ont eu lieu jeudi",
+    "Les enquêteurs privilégient la piste d'un dysfonctionnement électrique",
+    "L'Algérie est toujours sous le choc"
    ],
    "qui": null,
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
+   "ou": "Mohammadia (Alger), Algérie",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
    "sources": [
-    "Le Figaro"
+    "France 24"
    ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "72ad87b822b64386",
+   "non_confirme": [
+    "cause définitive du dysfonctionnement électrique"
+   ],
+   "importance": 65,
+   "empreinte": "4960800d8d397f56",
    "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-20T14:55:32.874666+00:00"
-  },
-  {
-   "faits": [
-    "L'interruption d'un concert de la DJ Barbara Butch à Grenoble a été réalisée par des militants propalestiniens",
-    "Le boycott était soutenu par les insoumis locaux",
-    "LFI est accusée de nouveau d'antisémitisme",
-    "L'artiste avait signé une tribune en soutien à la proposition de loi Yadan, retirée depuis"
-   ],
-   "qui": "DJ Barbara Butch, LFI, militants propalestiniens",
-   "ou": "Grenoble, France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "25f9ce69e6a7800f",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.588562+00:00"
-  },
-  {
-   "faits": [
-    "Le président du Sis 2B estime que les sapeurs-pompiers interviennent au péril de leur sécurité en Haute-Corse",
-    "Les moyens aériens nationaux sont jugés insuffisants par rapport aux risques"
-   ],
-   "qui": "Président du Sis 2B (Service d'incendie et de secours de Haute-Corse)",
-   "ou": "Haute-Corse",
-   "categorie": "autre",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "90c5ce485cddd762",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T18:46:40.954387+00:00"
-  },
-  {
-   "faits": [
-    "Sénégal apporte son soutien à la candidature de Macky Sall au secrétariat général de l'ONU",
-    "Bassirou Diomaye Faye a reçu Macky Sall au palais présidentiel trois jours avant l'annonce",
-    "Ce soutien restait en suspens jusqu'ici"
-   ],
-   "qui": "Bassirou Diomaye Faye, Macky Sall",
-   "ou": "Sénégal",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 87,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "63c7e7a2c2067838",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T18:46:40.954389+00:00"
-  },
-  {
-   "faits": [
-    "Un homme a usurpé l'image de la gendarmerie nationale pour créer des contenus à caractère sexuel",
-    "Le suspect a été interpellé dans la Marne",
-    "Plusieurs comptes diffusaient des contenus générés par intelligence artificielle",
-    "Les enquêteurs ont identifié le suspect après avoir découvert ces comptes"
-   ],
-   "qui": "Suspect non nommé",
-   "ou": "Marne, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "4b32b260905064d4",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.589080+00:00"
-  },
-  {
-   "faits": [
-    "Des fausses images montrent le footballeur Lamine Yamal célébrant son titre de champion du monde vêtu d'un drapeau palestinien",
-    "Une autre fausse image prétend que Pedro Porro arborait un drapeau palestinien autour de la taille",
-    "Ces images ont été générées par intelligence artificielle"
-   ],
-   "qui": "Lamine Yamal, Pedro Porro",
-   "ou": null,
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "155294fee9d708d7",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.589082+00:00"
-  },
-  {
-   "faits": [
-    "La sélection argentine a fait un retour en ordre dispersé après la finale",
-    "Messi et certains coéquipiers ne rentrent pas au pays",
-    "Aucune célébration n'est prévue pour les vice-champions du monde"
-   ],
-   "qui": "Sélection argentine, Lionel Messi",
-   "ou": "Argentine",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "fe4ce5824cb366c8",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.589083+00:00"
-  },
-  {
-   "faits": [
-    "Le PIB des pays du Conseil de coopération du Golfe (CCG) devrait se contracter pour la première fois depuis 2009",
-    "La guerre au Moyen-Orient fait dérailler la croissance des pétromonarchies",
-    "L'Irak est dans l'impasse sans ressources financières"
-   ],
-   "qui": "Pays du CCG, Irak",
-   "ou": "Moyen-Orient",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "devrait se contracter"
-   ],
-   "importance": 65,
-   "empreinte": "fdf6e54cbabaa5e6",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.589085+00:00"
+   "depuis": "2026-07-20T20:15:02.952537+00:00"
   }
  ],
  "publies_48h": [
