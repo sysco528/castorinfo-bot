@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-mois-de-juin-2026-a-ete-le-plus-meurtrier-pour-les-civils-depuis-pres-de-quatre-ans-selon-l-onu_8107532.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/hommes/direct-tour-de-france-2026-un-francais-va-t-il-gagner-en-ce-14-juillet-suivez-l-etape-de-moyenne-montagne-entre-aurillac-et-le-lioran_8106023.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/viking-row-raton-laveur-empaille-et-liesse-populaire-le-retour-au-pays-triomphal-de-l-equipe-de-norvege-apres-son-epopee-en-coupe-du-monde_8107490.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/feminicides/une-femme-retrouvee-morte-dans-un-appartement-apres-avoir-ete-poignardee-a-bethune-dans-le-pas-de-calais_8107481.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/france/14-juillet/video-soldats-ukrainiens-coalition-des-volontaires-bande-originale-des-films-avengers-les-sequences-a-retenir-du-defile-militaire-du-14-juillet-2026-a-paris_8107517.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/13-heures/urgo-ou-la-reussite-d-un-laboratoire-made-in-france-la-societe-pharmaceutique-depasse-le-milliard-d-euros-de-chiffre-d-affaires_8107658.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/huit-palestiniens-tues-a-gaza-apres-une-frappe-israelienne-sur-un-commissariat_8107640.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/le-gouvernement-s-en-remet-au-parlement-pour-trancher-la-reintroduction-de-l-acetamipride-avant-le-vote-solennel-du-projet-de-loi-agricole_8115428.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/l-obligation-vaccinale-contre-la-grippe-recommandee-par-la-has-est-une-bonne-chose-pour-le-syndicat-national-des-professionnels-infirmiers_8115509.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-10-morts-les-recherches-de-survivants-se-poursuivent_8115488.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-var-le-feu-a-taradeau-et-aux-arcs-desormais-fixe-mais-la-vigilance-reste-de-mise-indique-la-prefecture_8115503.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-var-le-feu-a-taradeau-et-aux-arcs-desormais-fixe-mais-la-vigilance-reste-de-mise-indique-la-prefecture_8115503.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/un-incendie-est-en-cours-dans-un-camp-de-roms-a-nantes-3389503.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sante/bebes-mort-nes-meres-grievement-blessees-en-angleterre-les-defaillances-des-maternites-au-c-ur-d-un-scandale-national_8115566.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-14-personnes-sont-mortes-lundi-dans-des-frappes-russes-et-ukrainiennes_8115578.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/une-tempete-au-chili-fait-au-moins-quatre-morts-et-d-importants-degats-l-etat-de-catastrophe-decrete-dans-le-nord-du-pays_8115554.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -402,9 +402,6 @@
    "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/actualite-france/alors-que-l-interdit-de-tuer-se-delite-nous-ne-pouvons-pas-deserter-l-espace-public-emmanuel-hirsch-et-laurent-fremont-annoncent-la-creation-d-un-observatoire-de-la-fin-de-vie-20260715",
-   "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-loi-sur-l-euthanasie-et-le-suicide-assiste-simulacre-democratique-et-nihilisme-d-etat-20260715",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-la-desillusion-pour-les-bleus-apres-l-elimination-un-vestiaire-aneanti-l-espagne-attend-l-argentine-ou-l-angleterre-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/il-a-reussi-a-presque-tuer-le-pere-a-39-ans-messi-le-guide-inegale-d-une-argentine-vieillissante-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/c-est-un-heros-jude-bellingham-le-coeur-et-les-poumons-d-une-insubmersible-angleterre-20260714",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/pour-les-malouines-pour-diego-et-la-derniere-de-leo-entre-l-angleterre-et-l-argentine-une-rivalite-teintee-de-geopolitique-20260715",
@@ -701,10 +698,12 @@
    "https://www.lefigaro.fr/sports/football/equipe-de-france/didier-deschamps-a-dine-avec-emmanuel-macron-a-l-elysee-dimanche-20260720",
    "https://www.lefigaro.fr/vox/societe/la-participation-du-syndicat-de-la-magistrature-a-une-conference-de-presse-de-lfi-est-un-nouveau-coup-donne-a-la-confiance-dans-la-justice-20260720",
    "https://www.lefigaro.fr/culture/louvre-reouverture-mercredi-de-la-galerie-d-apollon-lieu-du-cambriolage-d-octobre-2025-20260720",
-   "https://www.lefigaro.fr/nantes/nantes-un-incendie-en-cours-dans-un-camp-de-roms-des-personnes-evacuees-et-10-hectares-emportes-par-le-feu-20260720"
+   "https://www.lefigaro.fr/nantes/nantes-un-incendie-en-cours-dans-un-camp-de-roms-des-personnes-evacuees-et-10-hectares-emportes-par-le-feu-20260720",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-a-madrid-deux-millions-de-personnes-celebrent-le-triomphe-merite-de-la-roja-20260720",
+   "https://www.lefigaro.fr/secteur/high-tech/smartphones-du-futur-robots-de-combat-interfaces-neuronales-de-pointe-les-folles-technologies-du-salon-mondial-de-l-ia-en-chine-20260720",
+   "https://www.lefigaro.fr/conjoncture/trump-impose-50-de-droits-de-douane-supplementaires-sur-une-serie-de-produits-canadiens-20260720"
   ],
   "https://www.france24.com/fr/rss": [
-   "2442adda-7f85-11f1-9643-676cc7d59e71",
    "70cdbd44-7f84-11f1-b8ea-fd81a8b83031",
    "72970214-7f81-11f1-9988-2fd5bb8d5200",
    "9eb7580e-7f99-11f1-b96d-197fb62359f3",
@@ -1003,7 +1002,8 @@
    "9ebcac96-8467-11f1-bcbf-d357ce01cee0",
    "409d2b82-8466-11f1-b96a-113fce81286a",
    "b3ce14c6-8462-11f1-b5f5-113fce81286a",
-   "1494ade0-8460-11f1-8daf-73aef791d6d7"
+   "1494ade0-8460-11f1-8daf-73aef791d6d7",
+   "187a9260-8471-11f1-8b57-d1c14e6ab975"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1203,7 +1203,8 @@
    "3a8a2d56-843b-11f1-a6fe-593c249b43ad",
    "7cb04162-8462-11f1-8b8f-95b47b2de0a1",
    "8938bc60-8468-11f1-958a-03d2d9295585",
-   "8ba09504-8355-11f1-898c-652be2fcd917"
+   "8ba09504-8355-11f1-898c-652be2fcd917",
+   "b62a773a-8478-11f1-92af-799563a5b2af"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1492,7 +1493,17 @@
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-les-champions-du-monde-espagnols-vont-celebrer-leur-victoire-a-madrid-65c06f88-83c5-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/guyana/naufrage-au-guyana-deux-membres-de-lequipage-testes-positif-au-cannabis-ce039cd2-83e3-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-le-golfe-persique-sembrase-da7f635a-83ad-11f1-b703-745e62b608d9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/culture/arts/expositions/je-dessine-pour-parler-de-ce-que-je-fais-les-uvres-du-jardinier-samuel-lewis-exposees-au-musee-dart-naif-de-laval-30c2c8f2-4c58-11f1-aaad-3dc0b7ad690d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/culture/arts/expositions/je-dessine-pour-parler-de-ce-que-je-fais-les-uvres-du-jardinier-samuel-lewis-exposees-au-musee-dart-naif-de-laval-30c2c8f2-4c58-11f1-aaad-3dc0b7ad690d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/politique/institutions/assemblee-nationale/loi-durgence-agricole-les-debats-se-tendent-autour-de-la-question-des-pesticides-9ce6b0c8-847c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/en-images-coupe-du-monde-le-retour-triomphal-des-rois-plus-dun-million-despagnols-dans-les-rues-de-madrid-47b57fe0-8444-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-tu-as-touche-le-ciel-du-bout-des-doigts-le-message-poignant-dinaki-williams-pour-son-frere-nico-a80e21ea-8475-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/culture/musees/paris-reouverture-mercredi-de-la-galerie-du-louvre-ou-a-eu-lieu-le-cambriolage-doctobre-2025-3bce2fde-847a-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-lhistoire-parle-pour-lui-accuse-detre-en-conflit-avec-didier-deschamps-rayan-cherki-repond-bed367a2-8478-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/la-coupe-du-monde-2030-avec-64-equipes-une-occasion-ideale-lance-un-vice-president-de-la-fifa-e7fe9258-846b-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-20/ce-n-etait-pas-prevu-que-cela-fonctionne-aussi-bien-on-a-discute-avec-cet-influenceur-fromages-aux-185-000-abonnes-db6a9d0e-3990-4fdd-af2d-abbaaba128f1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-cette-blessure-mettra-du-temps-a-cicatriser-messi-sort-enfin-du-silence-apres-sa-defaite-en-finale-a215e3d8-8469-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-20/un-colis-venu-d-ailleurs-ils-ont-cree-une-capsule-temporelle-a-enterrer-et-ouvrir-dans-5-10-15-ou-meme-30-ans-83c07a00-e9b3-402e-8fb4-45e8c7bdb217?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/guyana/naufrage-dun-ferry-au-guyana-au-moins-10-morts-selon-un-nouveau-bilan-89351d16-8469-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1588,7 +1599,8 @@
    "https://www.20minutes.fr/sport/cyclisme/4235204-20260719-tour-france-2026-trop-hesite-paul-seixas-mode-resistance-derniere-montee-arrache?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/planete/4235209-20260719-var-incendie-virulent-menace-village-plusieurs-dizaines-habitations-evacuees?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sport/football/4235181-20260719-direct-coupe-monde-2026-mi-temps-finale-dure-27-minutes-malgre-promesses-fifa-zidane-present-tribunes?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/sport/football/4235214-20260719-coupe-monde-2026-tom-cruise-madonna-stars-mettent-touche-finale-mondial?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/sport/football/4235214-20260719-coupe-monde-2026-tom-cruise-madonna-stars-mettent-touche-finale-mondial?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/secheresse/4235454-20260720-inquiets-loi-urgence-agricole-va-prendre-otage-eau-profit-agriculture?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1824,29 +1836,29 @@
  "evenements_attente": [
   {
    "faits": [
-    "L'Espagne a remporté la finale de la Coupe du monde 2026 face à l'Argentine",
-    "La finale s'est déroulée dimanche 19 juillet à New York",
-    "Un affrontement a opposé des joueurs de la Roja et de l'Albiceleste après le match",
-    "Les champions argentins ont ostensiblement tourné le dos aux Espagnols lors de la remise du trophée par Donald Trump",
-    "Donald Trump a reçu des huées"
+    "L'Espagne a remporté la Coupe du monde 2026 en finale contre l'Argentine (1-0 après prolongation)",
+    "Ferran Torres a inscrit l'unique but du match",
+    "Nico Williams a fourni une passe décisive de la tête",
+    "C'est le deuxième titre mondial de l'Espagne",
+    "Plus de deux millions de personnes ont célébré le retour des champions à Madrid le 20 juillet 2026",
+    "La sélection espagnole a rencontré le roi d'Espagne et a défilé en bus"
    ],
-   "qui": "Espagne, Argentine, Donald Trump",
-   "ou": "New York",
+   "qui": "Équipe de football d'Espagne, Luis de la Fuente (sélectionneur)",
+   "ou": "Madrid, Espagne",
    "categorie": "sport",
    "sensible": false,
-   "confiance": 88,
+   "confiance": 92,
    "sources": [
-    "franceinfo",
     "Le Figaro",
-    "France 24"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 85,
-   "empreinte": "a96d01a99edb93ca",
-   "score": 98,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-20T14:55:32.874629+00:00"
+   "importance": 95,
+   "empreinte": "87576f7186bb7fa3",
+   "score": 100,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-20T21:36:59.667866+00:00"
   },
   {
    "faits": [
@@ -1895,33 +1907,6 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-20T16:41:25.589056+00:00"
-  },
-  {
-   "faits": [
-    "Andy Burnham a été nommé Premier ministre du Royaume-Uni lundi 20 juillet 2026",
-    "Il a été nommé par le roi Charles III",
-    "Il succède à Keir Starmer qui a démissionné",
-    "Andy Burnham promet une 'réinitialisation' complète du pays",
-    "Il annonce un 'nouveau modèle politique' et un 'nouveau modèle économique'",
-    "Il envisage un plan sur dix ans pour 'changer profondément le Royaume-Uni'",
-    "Il promeut une politique plus collaborative et locale avec un recours aux services publics"
-   ],
-   "qui": "Andy Burnham, roi Charles III, Keir Starmer",
-   "ou": "Royaume-Uni",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "151a7dff4d97d14a",
-   "score": 97,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T14:55:32.874633+00:00"
   },
   {
    "faits": [
@@ -2026,6 +2011,54 @@
   },
   {
    "faits": [
+    "Au moins 14 personnes sont mortes lundi 20 juillet 2026 dans des frappes russes et ukrainiennes",
+    "Des bombardements ukrainiens ont fait au moins six morts dans la région russe de Belgorod",
+    "Au moins huit personnes ont été tuées en Ukraine par plusieurs frappes russes"
+   ],
+   "qui": null,
+   "ou": "Ukraine, Belgorod (Russie)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "148996c887356a36",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T21:36:59.667878+00:00"
+  },
+  {
+   "faits": [
+    "Une loi d'urgence agricole fait l'objet de débats au Parlement français le 20 juillet 2026",
+    "Des députés Renaissance, MoDem et Liot demandent à revoter sur un article concernant la réintroduction dérogatoire de certains pesticides",
+    "Le nouveau vote doit être validé par le gouvernement",
+    "La loi maintient un volet critiqué sur la ressource en eau"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France",
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "L'adoption de la loi"
+   ],
+   "importance": 70,
+   "empreinte": "ccaf4fb0c2b85995",
+   "score": 88,
+   "fiab_max": 80,
+   "nb_sources": 2,
+   "depuis": "2026-07-20T21:36:59.667880+00:00"
+  },
+  {
+   "faits": [
     "Le ferry MV Barima est parti de Georgetown avec au moins 133 personnes à bord",
     "Le bateau a été renversé par une grosse vague dans la nuit de samedi à dimanche",
     "Au moins 10 personnes sont mortes",
@@ -2047,50 +2080,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T20:15:02.953587+00:00"
-  },
-  {
-   "faits": [
-    "Météo-France annonce que très fortes chaleurs se maintiennent autour de la Méditerranée jusqu'à mardi soir",
-    "Vigilance orange maintenue mardi pour six départements",
-    "Le Gard et les Bouches-du-Rhône passeront en vigilance jaune mardi à 22 heures"
-   ],
-   "qui": "Météo-France",
-   "ou": "France (région Méditerranéenne, Gard, Bouches-du-Rhône)",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "9e88e705de3df4c6",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T14:55:32.874641+00:00"
-  },
-  {
-   "faits": [
-    "La Coupe du monde 2026 s'est déroulée aux États-Unis",
-    "La compétition comprenait 104 matches",
-    "La finale s'est déroulée à New York dimanche"
-   ],
-   "qui": null,
-   "ou": "États-Unis",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "6b6b8d712c77a7f0",
-   "score": 87,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T14:55:32.874642+00:00"
   },
   {
    "faits": [
@@ -2166,6 +2155,53 @@
   },
   {
    "faits": [
+    "Un incendie s'est déclaré dans un camp de Roms à la Prairie de Mauves à Nantes le 20 juillet 2026 en fin de journée",
+    "Environ 10 hectares ont brûlé",
+    "Une cinquantaine d'habitations ont été évacuées par précaution",
+    "Les sapeurs-pompiers de Loire-Atlantique sont intervenus",
+    "Le feu a été fixé"
+   ],
+   "qui": null,
+   "ou": "Nantes, Prairie de Mauves",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "d07bdde1f9c6ac71",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T21:36:59.667886+00:00"
+  },
+  {
+   "faits": [
+    "Une tempête au Chili a fait au moins cinq morts et quatre disparus le 20 juillet 2026",
+    "Plus de 1 100 habitations ont été détruites ou gravement endommagées",
+    "L'état de catastrophe a été décrété dans le nord du Chili",
+    "Les intempéries sont d'une ampleur inédite"
+   ],
+   "qui": null,
+   "ou": "Chili, nord du pays",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "822f4d967e8677e0",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T21:36:59.667888+00:00"
+  },
+  {
+   "faits": [
     "Les douze prévenus dans l'affaire des assistants d'eurodéputés du Front national se pourvoient en cassation",
     "Huit pourvois avaient déjà été déposés, quatre supplémentaires ont suivi",
     "Affaire de détournement de fonds publics"
@@ -2233,6 +2269,31 @@
   },
   {
    "faits": [
+    "En Angleterre, plusieurs scandales affectent les maternités",
+    "Des bébés mort-nés ont été enregistrés",
+    "Des mères ont été grièvement blessées",
+    "Des familles rapportent ne pas avoir été écoutées",
+    "Deux maternités sur trois inspectées récemment présentent de sérieuses insuffisances",
+    "Un scandale national est dénoncé"
+   ],
+   "qui": null,
+   "ou": "Angleterre",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "a4cc98e9600555ef",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T21:36:59.667892+00:00"
+  },
+  {
+   "faits": [
     "Un incendie s'est déclaré dans le Var à Taradeau et aux Arcs",
     "Le feu est désormais fixé selon la préfecture",
     "Les pompiers ont créé une barrière de retardant d'1,5 km avec un avion Dash"
@@ -2252,29 +2313,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T20:15:02.953598+00:00"
-  },
-  {
-   "faits": [
-    "Députés et sénateurs réunis en commission mixte paritaire sont parvenus à s'entendre sur une proposition de loi",
-    "La proposition de loi vise à protéger les mineurs des risques de l'utilisation des réseaux sociaux",
-    "L'interdiction des réseaux sociaux aux moins de 15 ans est envisagée",
-    "Un vote définitif est prévu le mardi 21 juillet 2026"
-   ],
-   "qui": "Parlement français (députés et sénateurs)",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "975f7b6eba693a79",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T14:55:32.874650+00:00"
   },
   {
    "faits": [
@@ -2324,6 +2362,51 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-20T16:41:25.588530+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump impose 50% de droits de douane supplémentaires sur certains produits canadiens",
+    "Les nouveaux droits de douane entreront en vigueur dans un mois",
+    "Les produits concernés incluent le vin, les crosses de hockey et le ciment"
+   ],
+   "qui": "Donald Trump",
+   "ou": "États-Unis, Canada",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "91d96a2a5998ef34",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T21:36:59.667896+00:00"
+  },
+  {
+   "faits": [
+    "Lionel Messi a rompu le silence après la défaite de l'Argentine en finale de la Coupe du monde le 19 juillet 2026",
+    "L'Argentine s'est inclinée face à l'Espagne (1-0)",
+    "Messi a exprimé que sa blessure mettra du temps à cicatriser",
+    "Il a posté un message sur Instagram le 20 juillet 2026"
+   ],
+   "qui": "Lionel Messi",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "42f2307113d74500",
+   "score": 83,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T21:36:59.667897+00:00"
   },
   {
    "faits": [
@@ -2462,80 +2545,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-20T20:15:02.953609+00:00"
-  },
-  {
-   "faits": [
-    "Les feux de forêt se multiplient ces derniers jours au Canada, en Espagne et en France",
-    "Les émissions de CO2 générées par ces incendies ont augmenté de 60% en 20 ans",
-    "Le réchauffement climatique prive les forêts de leur humidité",
-    "Ce phénomène rend les forêts plus inflammables"
-   ],
-   "qui": null,
-   "ou": "Canada, Espagne, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "c0303591f0544d28",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T20:15:02.953611+00:00"
-  },
-  {
-   "faits": [
-    "Un navire a été frappé par un projectile inconnu dans le détroit d'Ormuz",
-    "Le navire a pris feu",
-    "L'équipage a évacué le navire en toute sécurité et a été secouru par un remorqueur",
-    "L'agence de sécurité maritime britannique UKMTO a fourni ces informations"
-   ],
-   "qui": null,
-   "ou": "Détroit d'Ormuz",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "projectile inconnu"
-   ],
-   "importance": 70,
-   "empreinte": "e901ff9e9f78649c",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.589073+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie a ravagé un orphelinat de Mohammadia près d'Alger",
-    "11 personnes ont péri dans cet incendie",
-    "Les funérailles des victimes ont eu lieu jeudi",
-    "Les enquêteurs privilégient la piste d'un dysfonctionnement électrique",
-    "L'Algérie est toujours sous le choc"
-   ],
-   "qui": null,
-   "ou": "Mohammadia (Alger), Algérie",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "cause définitive du dysfonctionnement électrique"
-   ],
-   "importance": 65,
-   "empreinte": "4960800d8d397f56",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T20:15:02.952537+00:00"
   }
  ],
  "publies_48h": [
