@@ -2,7 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/replay-jt/france-2/13-heures/urgo-ou-la-reussite-d-un-laboratoire-made-in-france-la-societe-pharmaceutique-depasse-le-milliard-d-euros-de-chiffre-d-affaires_8107658.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/huit-palestiniens-tues-a-gaza-apres-une-frappe-israelienne-sur-un-commissariat_8107640.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/euthanasie/info-franceinfo-loi-sur-la-fin-de-vie-sebastien-lecornu-va-saisir-le-conseil-constitutionnel-sur-une-partie-des-dispositions-apres-le-vote_8107604.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/marine-le-pen/il-faut-mettre-en-uvre-le-patriotisme-a-nice-marine-le-pen-profite-de-la-fete-nationale-pour-repondre-a-emmanuel-macron_8107559.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +300,8 @@
    "https://www.franceinfo.fr/sante/bebes-mort-nes-meres-grievement-blessees-en-angleterre-les-defaillances-des-maternites-au-c-ur-d-un-scandale-national_8115566.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-14-personnes-sont-mortes-lundi-dans-des-frappes-russes-et-ukrainiennes_8115578.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/une-tempete-au-chili-fait-au-moins-quatre-morts-et-d-importants-degats-l-etat-de-catastrophe-decrete-dans-le-nord-du-pays_8115554.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/usa/donald-trump-va-imposer-50-de-droits-de-douane-sur-une-serie-de-produits-issus-du-canada_8115587.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/usa/donald-trump-va-imposer-50-de-droits-de-douane-sur-une-serie-de-produits-issus-du-canada_8115587.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/l-assemblee-nationale-adopte-le-projet-de-loi-d-urgence-agricole-malgre-la-reintroduction-a-titre-derogatoire-de-pesticides_8115608.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -402,7 +402,6 @@
    "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/c-est-un-heros-jude-bellingham-le-coeur-et-les-poumons-d-une-insubmersible-angleterre-20260714",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/pour-les-malouines-pour-diego-et-la-derniere-de-leo-entre-l-angleterre-et-l-argentine-une-rivalite-teintee-de-geopolitique-20260715",
    "https://sante.lefigaro.fr/psychologie/le-feu-cree-une-excitation-dans-la-tete-des-pyromanes-incapables-de-controler-leurs-impulsions-20260715",
    "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608360/angleterre-argentine",
@@ -701,10 +700,10 @@
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-a-madrid-deux-millions-de-personnes-celebrent-le-triomphe-merite-de-la-roja-20260720",
    "https://www.lefigaro.fr/secteur/high-tech/smartphones-du-futur-robots-de-combat-interfaces-neuronales-de-pointe-les-folles-technologies-du-salon-mondial-de-l-ia-en-chine-20260720",
    "https://www.lefigaro.fr/conjoncture/trump-impose-50-de-droits-de-douane-supplementaires-sur-une-serie-de-produits-canadiens-20260720",
-   "https://www.lefigaro.fr/international/le-directeur-du-fbi-kash-patel-va-bientot-se-rendre-en-russie-selon-politico-20260720"
+   "https://www.lefigaro.fr/international/le-directeur-du-fbi-kash-patel-va-bientot-se-rendre-en-russie-selon-politico-20260720",
+   "https://www.lefigaro.fr/politique/c-etait-une-annee-pour-rien-a-l-assemblee-apres-la-crise-politique-une-annee-d-apathie-legislative-20260720"
   ],
   "https://www.france24.com/fr/rss": [
-   "9eb7580e-7f99-11f1-b96d-197fb62359f3",
    "c4e59314-7f95-11f1-af72-197fb62359f3",
    "caa10e34-7f93-11f1-9356-798a5728bea1",
    "326e6e90-7f93-11f1-9b6c-798a5728bea1",
@@ -1003,7 +1002,8 @@
    "1494ade0-8460-11f1-8daf-73aef791d6d7",
    "187a9260-8471-11f1-8b57-d1c14e6ab975",
    "e3592e7c-8482-11f1-a9c0-c98139d3b091",
-   "ad0ab202-8480-11f1-bfc3-3faa933334d9"
+   "ad0ab202-8480-11f1-bfc3-3faa933334d9",
+   "4179d0f0-8489-11f1-bc58-c98139d3b091"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1506,7 +1506,9 @@
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-cette-blessure-mettra-du-temps-a-cicatriser-messi-sort-enfin-du-silence-apres-sa-defaite-en-finale-a215e3d8-8469-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-20/un-colis-venu-d-ailleurs-ils-ont-cree-une-capsule-temporelle-a-enterrer-et-ouvrir-dans-5-10-15-ou-meme-30-ans-83c07a00-e9b3-402e-8fb4-45e8c7bdb217?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/guyana/naufrage-dun-ferry-au-guyana-au-moins-10-morts-selon-un-nouveau-bilan-89351d16-8469-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/justice/le-chanteur-tsew-the-kid-mis-en-examen-pour-viols-conjugaux-et-violences-6aadd066-8484-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/societe/justice/le-chanteur-tsew-the-kid-mis-en-examen-pour-viols-conjugaux-et-violences-6aadd066-8484-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/economie/droits-de-douane/les-etats-unis-vont-imposer-50-pourcent-de-droits-de-douane-sur-une-serie-de-produits-canadiens-28b8c1ca-848e-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/guyana/naufrage-au-guyana-27-corps-recuperes-83-personnes-portees-disparues-5b31d43a-848d-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1613,7 +1615,8 @@
    "https://www.20minutes.fr/monde/ukraine/4235478-20260720-guerre-ukraine-nouvelles-victimes-civiles-deux-cotes-royaume-uni-toujours-100-derriere-zelensky?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4235495-20260720-violences-policieres-cour-comptes-pointe-manque-transparence-procedures-disciplinaire?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sport/4235500-20260720-coupe-monde-2026-equipe-polie-respectueuse-presse-argentine-vit-monde-parallele?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4235451-20260720-tour-france-2026-controles-nocturnes-pogacar-vingegaard-valides-juge?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4235451-20260720-tour-france-2026-controles-nocturnes-pogacar-vingegaard-valides-juge?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/faits_divers/4235503-20260721-nantes-incendie-desormais-fixe-ravage-partie-bidonville?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1732,7 +1735,16 @@
    "https://www.bfmtv.com/societe/video-la-reaction-des-supporters-argentins-et-espagnols-a-l-ouverture-du-score_VN-202607190398.html",
    "https://www.bfmtv.com/international/moyen-orient/direct-guerre-au-moyen-orient-trois-soldats-americains-morts-donald-trump-promet-de-frapper-tres-durement-l-iran-en-represailles_LN-202607200042.html",
    "https://www.bfmtv.com/international/moyen-orient/iran/video-attentats-et-prises-d-otages-lorsque-l-iran-s-en-prenait-directement-a-la-france_VN-202607200715.html",
-   "https://www.bfmtv.com/sante/le-gouvernement-annonce-des-travaux-sur-l-obligation-vaccinale-des-soignants-contre-la-grippe_AD-202607200712.html"
+   "https://www.bfmtv.com/sante/le-gouvernement-annonce-des-travaux-sur-l-obligation-vaccinale-des-soignants-contre-la-grippe_AD-202607200712.html",
+   "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-menace-trump-a-t-il-peur-pour-sa-securite-20-07_VN-202607200719.html",
+   "https://www.bfmtv.com/international/moyen-orient/iran/video-detroit-d-ormuz-les-images-du-petrolier-touche-par-l-iran_VN-202607200710.html",
+   "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-vengeance-de-trump-frappes-en-cours-en-iran-20-07_VN-202607200706.html",
+   "https://www.bfmtv.com/international/moyen-orient/iran/video-iran-des-explosions-entendues-sur-l-ile-de-qeshm-selon-al-jazeera_VN-202607200704.html",
+   "https://www.bfmtv.com/international/europe/angleterre/royaume-uni-la-justice-annonce-l-inculpation-du-suspect-du-meurtre-de-l-ancienne-deputee-ann-widdecombe_AD-202607200701.html",
+   "https://www.bfmtv.com/politique/la-france-insoumise/video-loi-d-urgence-agricole-la-motion-de-rejet-prealable-deposee-par-lfi-n-est-pas-adoptee_VN-202607200699.html",
+   "https://www.bfmtv.com/politique/gouvernement/video-loi-d-urgence-agricole-l-anses-pourrait-encadrer-les-derogations-sur-l-acetamipride-selon-annie-genevard_VN-202607200698.html",
+   "https://www.bfmtv.com/politique/gouvernement/video-loi-d-urgence-agricole-nous-ferons-aboutir-ce-texte-quoi-qu-il-arrive-declare-annie-genevard_VN-202607200697.html",
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump/moyen-orient-donald-trump-affirme-que-pour-chaque-soldat-americain-tue-l-iran-payera-plusieurs-fois-le-prix_AD-202607200696.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -1845,59 +1857,16 @@
    "https://www.lequipe.fr/Football/Actualites/Des-fautes-une-expulsion-un-but-refuse-lors-de-la-finale-de-la-coupe-du-monde-la-soiree-mitigee-de-vincic/1705810",
    "https://www.lequipe.fr/Football/Article/-un-environnement-irrespirable-didier-deschamps-n-a-pas-eu-le-choix-au-moment-d-annoncer-son-depart-de-l-equipe-de-france/1705708",
    "https://www.lequipe.fr/Football/Actualites/38-matches-de-suite-sans-defaite-sacree-a-la-coupe-du-monde-l-espagne-etablit-un-nouveau-record-d-invincibilite/1705809",
-   "https://www.lequipe.fr/Football/Actualites/Lionel-messi-en-larmes-apres-la-finale-de-coupe-du-monde-perdue-par-l-argentine-contre-l-espagne/1705807"
+   "https://www.lequipe.fr/Football/Actualites/Lionel-messi-en-larmes-apres-la-finale-de-coupe-du-monde-perdue-par-l-argentine-contre-l-espagne/1705807",
+   "https://www.lequipe.fr/Football/Actualites/La-presse-argentine-entre-la-fierte-nationale-et-un-vide-asphyxiant-sans-lionel-messi-apres-la-defaite-en-finale-de-la-coupe-du-monde-face-a-l-espagne/1706073",
+   "https://www.lequipe.fr/Football/Actualites/7-0-strasbourg-corrige-par-le-sporting-cp-pour-son-premier-match-amical-de-l-ete-et-pour-les-debuts-d-hugo-oliveira-sur-le-banc-alsacien/1706068",
+   "https://www.lequipe.fr/Football/Actualites/Paredes-vs-gavi-le-petit-frere-de-yamal-adule-la-casquette-make-spain-great-again-de-ferran-torres-toutes-les-scenes-de-liesse-des-espagnols-pour-leur-retour-a-madrid/1706065",
+   "https://www.lequipe.fr/Football/Article/Mort-de-keegan-c-etait-king-kev-icone-anglaise-magnifique-et-populaire/1706056",
+   "https://www.lequipe.fr/Football/Article/Des-resultats-honorables-mais-une-confiance-limitee-rudi-garcia-n-est-plus-a-la-tete-la-belgique-et-envisage-deja-la-suite/1706043"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "L'Espagne remporte la Coupe du monde 2026",
-    "Plus d'un million de personnes accueillent l'équipe espagnole (la Roja) dans les rues de Madrid"
-   ],
-   "qui": "Équipe d'Espagne",
-   "ou": "Madrid, Espagne",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "France 24",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "809b7ffdb744d02a",
-   "score": 96,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T22:37:32.025231+00:00"
-  },
-  {
-   "faits": [
-    "Kevin Keegan, ancien attaquant anglais et double Ballon d'Or, est mort",
-    "Il est mort d'un cancer à l'âge de 75 ans",
-    "Mort annoncée lundi 20 juillet par sa famille",
-    "Remporté la Coupe d'Europe des clubs champions avec Liverpool en 1977",
-    "Trois Championnats d'Angleterre",
-    "Entraîneur de plusieurs clubs et de l'équipe nationale d'Angleterre"
-   ],
-   "qui": "Kevin Keegan",
-   "ou": "Royaume-Uni",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "Le Figaro",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "d748b4f6a0fe6972",
-   "score": 96,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T18:46:40.954363+00:00"
-  },
   {
    "faits": [
     "Andy Burnham a été nommé Premier ministre du Royaume-Uni lundi",
@@ -2093,29 +2062,6 @@
   },
   {
    "faits": [
-    "Kevin Keegan, légende de Liverpool et double Ballon d'or, est décédé",
-    "Il avait 75 ans",
-    "Il souffrait d'un cancer",
-    "Il est décédé lundi 20 juillet 2026"
-   ],
-   "qui": "Kevin Keegan",
-   "ou": null,
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "391670fec422a8d9",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.589065+00:00"
-  },
-  {
-   "faits": [
     "Escalade des hostilités entre États-Unis et Iran le 20 juillet 2026",
     "États-Unis ont frappé une grande partie du territoire iranien pendant la nuit",
     "Pour la dixième journée consécutive, États-Unis visent des sites stratégiques en Iran",
@@ -2208,28 +2154,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T18:46:40.954376+00:00"
-  },
-  {
-   "faits": [
-    "La Haute Autorité de santé recommande l'obligation vaccinale contre la grippe pour tous les professionnels de santé et médico-sociaux",
-    "La recommandation se justifie par l'ampleur du fardeau sanitaire de la grippe",
-    "Le risque de transmission par des professionnels aux personnes soignées ou hébergées est augmenté"
-   ],
-   "qui": "Haute Autorité de santé (France)",
-   "ou": "France",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "f8ca9572c8d66f54",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.589068+00:00"
   },
   {
    "faits": [
@@ -2326,29 +2250,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-20T20:15:02.952476+00:00"
-  },
-  {
-   "faits": [
-    "Khalil al-Hayya a été élu à la tête du Hamas",
-    "Il succède à Yahya Sinouar, tué par Israël",
-    "Al-Hayya était le négociateur en chef du Hamas",
-    "Sinouar a été tué suite à l'attaque du Hamas le 7 octobre 2023 en territoire israélien"
-   ],
-   "qui": "Khalil al-Hayya, Hamas",
-   "ou": null,
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "7409c2b4c3f0e0ff",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T16:41:25.588530+00:00"
   },
   {
    "faits": [
@@ -2535,6 +2436,108 @@
   },
   {
    "faits": [
+    "Naufrage du ferry MV Barima au Guyana dans la nuit de samedi à dimanche",
+    "Plus de 100 personnes à bord",
+    "69 survivants confirmés",
+    "Au moins 27 morts",
+    "83 personnes portées disparues",
+    "Bilan provisoire"
+   ],
+   "qui": "Mark Phillips (Premier ministre guyanien)",
+   "ou": "Guyana, nord-ouest",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "bilan exact du nombre de morts et disparus"
+   ],
+   "importance": 80,
+   "empreinte": "75c866ed5a782c68",
+   "score": 81,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T23:38:24.267302+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump a signé un décret imposant 50% de droits de douane supplémentaires sur plusieurs produits canadiens",
+    "Mesure présentée comme réponse au traitement discriminatoire du Canada sur les produits américains",
+    "Conflits commerciaux portent sur les produits laitiers, l'alcool et l'automobile"
+   ],
+   "qui": "Donald Trump (président américain), Canada",
+   "ou": "États-Unis, Canada",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "d1c161725e2f8775",
+   "score": 81,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T23:38:31.639637+00:00"
+  },
+  {
+   "faits": [
+    "Escalade militaire entre États-Unis et Iran",
+    "Frappes aériennes américaines contre l'Iran en cours",
+    "Trois soldats américains tués au Moyen-Orient depuis le 7 juillet",
+    "Un soldat américain disparu",
+    "L'Iran frappe en retour des intérêts américains dans la région",
+    "Explosions rapportées sur l'île de Qeshm",
+    "Les Gardiens de la Révolution iraniens affirment avoir arrêté deux pétroliers",
+    "Un pétrolier en feu au détroit d'Ormuz",
+    "Trump affirme que l'Iran payera plusieurs fois le prix pour les morts américains"
+   ],
+   "qui": "Donald Trump, Iran, États-Unis",
+   "ou": "Moyen-Orient, détroit d'Ormuz, île de Qeshm",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [
+    "cause exacte de l'incendie du pétrolier"
+   ],
+   "importance": 88,
+   "empreinte": "b8654afa772e9461",
+   "score": 80,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T23:38:24.267386+00:00"
+  },
+  {
+   "faits": [
+    "Strasbourg a perdu 7-0 contre le Sporting CP en match amical",
+    "C'était le premier match amical de l'été pour Strasbourg",
+    "C'étaient les débuts d'Hugo Oliveira sur le banc de Strasbourg",
+    "Le Sporting CP est le vice-champion du Portugal"
+   ],
+   "qui": "Strasbourg, Sporting CP, Hugo Oliveira",
+   "ou": "France, Portugal",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "cd2835e9cebe0570",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T23:38:31.639639+00:00"
+  },
+  {
+   "faits": [
     "Les États-Unis imposent de nouvelles sanctions contre le gouvernement soudanais",
     "Le Soudan est accusé d'avoir eu recours à des armes chimiques dans sa guerre contre les forces paramilitaires",
     "Des accusations qui datent de l'année dernière et avaient déjà donné lieu à un premier volet de sanctions"
@@ -2556,17 +2559,34 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-20T22:37:23.255660+00:00"
+  },
+  {
+   "faits": [
+    "Un suspect a été inculpé pour le meurtre d'Ann Widdecombe, ancienne députée britannique",
+    "Ann Widdecombe était membre du parti Reform UK (anti-immigration)",
+    "L'enquête se poursuit pour déterminer le mobile"
+   ],
+   "qui": "Ann Widdecombe, suspect non nommé, parquet britannique",
+   "ou": "Royaume-Uni",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [
+    "identité du suspect",
+    "mobile du meurtre"
+   ],
+   "importance": 75,
+   "empreinte": "5dd174df63e247ab",
+   "score": 78,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T23:38:24.267429+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "c6bcdd96c9274911",
-   "2026-07-18T23:32:56.597860+00:00"
-  ],
-  [
-   "8f900ac6a469eb84",
-   "2026-07-18T23:33:00.549876+00:00"
-  ],
   [
    "b93d375682a5075b",
    "2026-07-19T01:07:35.141014+00:00"
@@ -2638,17 +2658,17 @@
   [
    "eb9db5cff2ac4e8d",
    "2026-07-20T22:37:37.169692+00:00"
+  ],
+  [
+   "24d33ad4fa892a10",
+   "2026-07-20T23:38:32.721940+00:00"
+  ],
+  [
+   "49cc20797c8fdb55",
+   "2026-07-20T23:38:36.729596+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "9f363a3f5e1409c1",
-   "2026-07-18T23:32:51.443021+00:00"
-  ],
-  [
-   "868475ea61f02d44",
-   "2026-07-18T23:32:55.316256+00:00"
-  ],
   [
    "ab50b3c449ea1339",
    "2026-07-19T01:07:29.401475+00:00"
@@ -2720,16 +2740,26 @@
   [
    "91d96a2a5998ef34",
    "2026-07-20T22:37:32.025222+00:00"
+  ],
+  [
+   "2759d769f825ed2e",
+   "2026-07-20T23:38:27.199351+00:00"
+  ],
+  [
+   "05169b158a4c5acd",
+   "2026-07-20T23:38:31.639590+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚽ L'Espagne remporte la Coupe du monde 2026 face à l'Argentine (1-0 après prolongation). Ferran Torres inscrit le but décisif, servi par Nico Williams. C'est le deuxième titre mondial espagnol. (Le Figaro, Ouest-France)",
-  "Donald Trump impose 50 % de droits de douane sur des produits canadiens (vin, ciment, crosses de hockey) à partir d'un mois. Le président justifie cette mesure par un traitement discriminatoire du Canada envers les produits américains. (France 24)"
+  "Donald Trump impose 50 % de droits de douane sur des produits canadiens (vin, ciment, crosses de hockey) à partir d'un mois. Le président justifie cette mesure par un traitement discriminatoire du Canada envers les produits américains. (France 24)",
+  "⚽ L'Espagne remporte la Coupe du monde 2026. La Roja a battu l'Argentine 1-0 après prolongation en finale à New York. Le roi Felipe VI et le Premier ministre Pedro Sanchez ont accueilli les joueurs à Madrid après leur victoire.",
+  "🇫🇷 L'Assemblée nationale a adopté le projet de loi d'urgence agricole avec 296 voix pour et 224 contre. Le texte réintroduit des pesticides à titre dérogatoire et doit être examiné au Sénat. (franceinfo, BFMTV)"
  ],
  "recap_date": "2026-07-20",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-21",
-  "publies": 2
+  "publies": 4
  }
 }

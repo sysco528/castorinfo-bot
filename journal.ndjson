@@ -4114,3 +4114,46 @@
 {"decision": "controle", "evt": "91d96a2a5998ef34", "motif": "ok_sim_0.51", "ts": "2026-07-20T22:37:32+00:00"}
 {"decision": "publie", "empreinte": "ad4ff8335456d783", "post_id": "2079334924696314304", "carte": true, "texte": "⚽ L'Espagne remporte la Coupe du monde 2026 face à l'Argentine (1-0 après prolongation). Ferran Torres inscrit le but décisif, servi par Nico Williams. C'est le deuxième titre mondial espagnol. (Le Figaro, Ouest-France)", "ts": "2026-07-20T22:37:33+00:00"}
 {"decision": "publie", "empreinte": "eb9db5cff2ac4e8d", "post_id": "2079334941419000282", "carte": true, "texte": "Donald Trump impose 50 % de droits de douane sur des produits canadiens (vin, ciment, crosses de hockey) à partir d'un mois. Le président justifie cette mesure par un traitement discriminatoire du Canada envers les produits américains. (France 24)", "ts": "2026-07-20T22:37:37+00:00"}
+{"decision": "abandon_attente", "evt": "391670fec422a8d9", "categorie": "deces_personnalite", "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "abandon_attente", "evt": "f8ca9572c8d66f54", "categorie": "sante", "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "abandon_attente", "evt": "7409c2b4c3f0e0ff", "categorie": "international", "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "05169b158a4c5acd", "score": 96, "categorie": "politique", "sensible": true, "confiance": 88, "sources": ["franceinfo", "BFMTV"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "2759d769f825ed2e", "score": 97, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["France 24", "L'Équipe"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "attente", "evt": "75c866ed5a782c68", "score": 81, "categorie": "faits_divers", "sensible": true, "confiance": 82, "sources": ["Ouest-France"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "d1c161725e2f8775", "score": 81, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "attente", "evt": "b8654afa772e9461", "score": 80, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "attente", "evt": "5dd174df63e247ab", "score": 78, "categorie": "justice", "sensible": true, "confiance": 82, "sources": ["BFMTV"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "attente", "evt": "643987e6162f6119", "score": 74, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 80, "sources": ["20 Minutes"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "cd2835e9cebe0570", "score": 80, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "ae473af457a12c0a", "score": 78, "categorie": "sport", "sensible": false, "confiance": 78, "sources": ["L'Équipe"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "809b7ffdb744d02a", "score": 96, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["France 24", "20 Minutes"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "d748b4f6a0fe6972", "score": 96, "categorie": "deces_personnalite", "sensible": true, "confiance": 92, "sources": ["Le Figaro", "RFI"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "893f200fe05c6cbb", "score": 94, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["France 24", "RFI"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "b0e862874b03b5c0", "score": 93, "categorie": "international", "sensible": true, "confiance": 87, "sources": ["Le Figaro", "RFI"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "d503aa5b8c3a56b0", "score": 92, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["20 Minutes", "BFMTV"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "df5399a6b537d6f0", "score": 91, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["franceinfo", "Le Figaro"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "148996c887356a36", "score": 88, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "ccaf4fb0c2b85995", "score": 88, "categorie": "politique", "sensible": false, "confiance": 80, "sources": ["Ouest-France", "20 Minutes"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "0e54c85a4e84b66a", "score": 87, "categorie": "faits_divers", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "ff1907956071f7c3", "score": 86, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "attente", "evt": "2b35ea756bf2ad03", "score": 85, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "d07bdde1f9c6ac71", "score": 85, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "822f4d967e8677e0", "score": 85, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "de797b756a9eb3b7", "score": 85, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "attente", "evt": "868a94bd1c187596", "score": 84, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "a4cc98e9600555ef", "score": 84, "categorie": "sante", "sensible": true, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "3661954383d37222", "score": 84, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "attente", "evt": "b0df3c5c5f9dd449", "score": 83, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "42f2307113d74500", "score": 83, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "efdff385bc480336", "score": 83, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "attente", "evt": "6fb343c229518918", "score": 82, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "attente", "evt": "f7e57697021f05ca", "score": 82, "categorie": "economie", "sensible": true, "confiance": 84, "sources": ["RFI"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "278b224febdbcc9d", "score": 82, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "ff2b5e8d7a1fad41", "score": 82, "categorie": "sante", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "1387d96d288cec7c", "score": 82, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "publier", "evt": "72a64646e4aaf73f", "score": 82, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "attente", "evt": "d9d7f8b26c848e94", "score": 79, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-20T23:38:24+00:00"}
+{"decision": "controle", "evt": "2759d769f825ed2e", "motif": "ok_sim_0.36", "ts": "2026-07-20T23:38:27+00:00"}
+{"decision": "controle", "evt": "05169b158a4c5acd", "motif": "ok_sim_0.50", "ts": "2026-07-20T23:38:31+00:00"}
+{"decision": "publie", "empreinte": "24d33ad4fa892a10", "post_id": "2079350273957310485", "carte": true, "texte": "⚽ L'Espagne remporte la Coupe du monde 2026. La Roja a battu l'Argentine 1-0 après prolongation en finale à New York. Le roi Felipe VI et le Premier ministre Pedro Sanchez ont accueilli les joueurs à Madrid après leur victoire.", "ts": "2026-07-20T23:38:32+00:00"}
+{"decision": "publie", "empreinte": "49cc20797c8fdb55", "post_id": "2079350290868818119", "carte": true, "texte": "🇫🇷 L'Assemblée nationale a adopté le projet de loi d'urgence agricole avec 296 voix pour et 224 contre. Le texte réintroduit des pesticides à titre dérogatoire et doit être examiné au Sénat. (franceinfo, BFMTV)", "ts": "2026-07-20T23:38:36+00:00"}
