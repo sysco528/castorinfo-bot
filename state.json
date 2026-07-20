@@ -2,7 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/france/14-juillet/video-soldats-ukrainiens-coalition-des-volontaires-bande-originale-des-films-avengers-les-sequences-a-retenir-du-defile-militaire-du-14-juillet-2026-a-paris_8107517.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/13-heures/urgo-ou-la-reussite-d-un-laboratoire-made-in-france-la-societe-pharmaceutique-depasse-le-milliard-d-euros-de-chiffre-d-affaires_8107658.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/huit-palestiniens-tues-a-gaza-apres-une-frappe-israelienne-sur-un-commissariat_8107640.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/euthanasie/info-franceinfo-loi-sur-la-fin-de-vie-sebastien-lecornu-va-saisir-le-conseil-constitutionnel-sur-une-partie-des-dispositions-apres-le-vote_8107604.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +300,8 @@
    "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/un-incendie-est-en-cours-dans-un-camp-de-roms-a-nantes-3389503.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/bebes-mort-nes-meres-grievement-blessees-en-angleterre-les-defaillances-des-maternites-au-c-ur-d-un-scandale-national_8115566.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-14-personnes-sont-mortes-lundi-dans-des-frappes-russes-et-ukrainiennes_8115578.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/une-tempete-au-chili-fait-au-moins-quatre-morts-et-d-importants-degats-l-etat-de-catastrophe-decrete-dans-le-nord-du-pays_8115554.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/une-tempete-au-chili-fait-au-moins-quatre-morts-et-d-importants-degats-l-etat-de-catastrophe-decrete-dans-le-nord-du-pays_8115554.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/usa/donald-trump-va-imposer-50-de-droits-de-douane-sur-une-serie-de-produits-issus-du-canada_8115587.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -402,7 +402,6 @@
    "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/il-a-reussi-a-presque-tuer-le-pere-a-39-ans-messi-le-guide-inegale-d-une-argentine-vieillissante-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/c-est-un-heros-jude-bellingham-le-coeur-et-les-poumons-d-une-insubmersible-angleterre-20260714",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/pour-les-malouines-pour-diego-et-la-derniere-de-leo-entre-l-angleterre-et-l-argentine-une-rivalite-teintee-de-geopolitique-20260715",
    "https://sante.lefigaro.fr/psychologie/le-feu-cree-une-excitation-dans-la-tete-des-pyromanes-incapables-de-controler-leurs-impulsions-20260715",
@@ -701,11 +700,10 @@
    "https://www.lefigaro.fr/nantes/nantes-un-incendie-en-cours-dans-un-camp-de-roms-des-personnes-evacuees-et-10-hectares-emportes-par-le-feu-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-a-madrid-deux-millions-de-personnes-celebrent-le-triomphe-merite-de-la-roja-20260720",
    "https://www.lefigaro.fr/secteur/high-tech/smartphones-du-futur-robots-de-combat-interfaces-neuronales-de-pointe-les-folles-technologies-du-salon-mondial-de-l-ia-en-chine-20260720",
-   "https://www.lefigaro.fr/conjoncture/trump-impose-50-de-droits-de-douane-supplementaires-sur-une-serie-de-produits-canadiens-20260720"
+   "https://www.lefigaro.fr/conjoncture/trump-impose-50-de-droits-de-douane-supplementaires-sur-une-serie-de-produits-canadiens-20260720",
+   "https://www.lefigaro.fr/international/le-directeur-du-fbi-kash-patel-va-bientot-se-rendre-en-russie-selon-politico-20260720"
   ],
   "https://www.france24.com/fr/rss": [
-   "70cdbd44-7f84-11f1-b8ea-fd81a8b83031",
-   "72970214-7f81-11f1-9988-2fd5bb8d5200",
    "9eb7580e-7f99-11f1-b96d-197fb62359f3",
    "c4e59314-7f95-11f1-af72-197fb62359f3",
    "caa10e34-7f93-11f1-9356-798a5728bea1",
@@ -1003,7 +1001,9 @@
    "409d2b82-8466-11f1-b96a-113fce81286a",
    "b3ce14c6-8462-11f1-b5f5-113fce81286a",
    "1494ade0-8460-11f1-8daf-73aef791d6d7",
-   "187a9260-8471-11f1-8b57-d1c14e6ab975"
+   "187a9260-8471-11f1-8b57-d1c14e6ab975",
+   "e3592e7c-8482-11f1-a9c0-c98139d3b091",
+   "ad0ab202-8480-11f1-bfc3-3faa933334d9"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1204,7 +1204,9 @@
    "7cb04162-8462-11f1-8b8f-95b47b2de0a1",
    "8938bc60-8468-11f1-958a-03d2d9295585",
    "8ba09504-8355-11f1-898c-652be2fcd917",
-   "b62a773a-8478-11f1-92af-799563a5b2af"
+   "b62a773a-8478-11f1-92af-799563a5b2af",
+   "61f17522-847f-11f1-a917-5d3614557b4c",
+   "c1069a86-8459-11f1-8b54-cb2f7c221b1d"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1503,7 +1505,8 @@
    "https://www.ouest-france.fr/leditiondusoir/2026-07-20/ce-n-etait-pas-prevu-que-cela-fonctionne-aussi-bien-on-a-discute-avec-cet-influenceur-fromages-aux-185-000-abonnes-db6a9d0e-3990-4fdd-af2d-abbaaba128f1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-cette-blessure-mettra-du-temps-a-cicatriser-messi-sort-enfin-du-silence-apres-sa-defaite-en-finale-a215e3d8-8469-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-20/un-colis-venu-d-ailleurs-ils-ont-cree-une-capsule-temporelle-a-enterrer-et-ouvrir-dans-5-10-15-ou-meme-30-ans-83c07a00-e9b3-402e-8fb4-45e8c7bdb217?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/guyana/naufrage-dun-ferry-au-guyana-au-moins-10-morts-selon-un-nouveau-bilan-89351d16-8469-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/monde/guyana/naufrage-dun-ferry-au-guyana-au-moins-10-morts-selon-un-nouveau-bilan-89351d16-8469-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/justice/le-chanteur-tsew-the-kid-mis-en-examen-pour-viols-conjugaux-et-violences-6aadd066-8484-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1600,7 +1603,17 @@
    "https://www.20minutes.fr/planete/4235209-20260719-var-incendie-virulent-menace-village-plusieurs-dizaines-habitations-evacuees?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sport/football/4235181-20260719-direct-coupe-monde-2026-mi-temps-finale-dure-27-minutes-malgre-promesses-fifa-zidane-present-tribunes?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sport/football/4235214-20260719-coupe-monde-2026-tom-cruise-madonna-stars-mettent-touche-finale-mondial?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/planete/secheresse/4235454-20260720-inquiets-loi-urgence-agricole-va-prendre-otage-eau-profit-agriculture?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/planete/secheresse/4235454-20260720-inquiets-loi-urgence-agricole-va-prendre-otage-eau-profit-agriculture?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/faits_divers/4235449-20260720-affaire-jubillar-pourquoi-confidences-cedric-ex-compagne-font-resurgir-piste-assassinat?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/royaume-uni/4235438-20260720-royaume-uni-peine-arrive-pouvoir-andy-burnham-promet-changements-profonds-reformes-sociales?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235358-20260720-guerre-moyen-orient-direct-trump-frappe-iran-tres-durement-riposte-jordanie-koweit?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235499-20260720-etats-unis-juge-californie-suspend-rachat-warner-bros-discovery-paramount-skydance?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/football/4235362-20260720-direct-coupe-monde-2026-espagnols-recus-comme-rois-madrid-superbe-hommage-cherki-deschamps?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/royaume-uni/4230483-20260622-royaume-uni-andy-burham-favori-succeder-keir-starmer-comme-premier-ministre?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4235478-20260720-guerre-ukraine-nouvelles-victimes-civiles-deux-cotes-royaume-uni-toujours-100-derriere-zelensky?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4235495-20260720-violences-policieres-cour-comptes-pointe-manque-transparence-procedures-disciplinaire?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/4235500-20260720-coupe-monde-2026-equipe-polie-respectueuse-presse-argentine-vit-monde-parallele?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4235451-20260720-tour-france-2026-controles-nocturnes-pogacar-vingegaard-valides-juge?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1716,7 +1729,10 @@
    "https://www.bfmtv.com/societe/video-la-deception-des-supporters-argentins-apres-la-defaite-de-leur-equipe_VN-202607190408.html",
    "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-ravitailleurs-us-en-israel-cible-ideale-pour-l-iran-19-07_VN-202607190410.html",
    "https://www.bfmtv.com/societe/video-l-explosion-de-joie-des-supporters-espagnols-apres-le-sacre-de-leur-pays_VN-202607190402.html",
-   "https://www.bfmtv.com/societe/video-la-reaction-des-supporters-argentins-et-espagnols-a-l-ouverture-du-score_VN-202607190398.html"
+   "https://www.bfmtv.com/societe/video-la-reaction-des-supporters-argentins-et-espagnols-a-l-ouverture-du-score_VN-202607190398.html",
+   "https://www.bfmtv.com/international/moyen-orient/direct-guerre-au-moyen-orient-trois-soldats-americains-morts-donald-trump-promet-de-frapper-tres-durement-l-iran-en-represailles_LN-202607200042.html",
+   "https://www.bfmtv.com/international/moyen-orient/iran/video-attentats-et-prises-d-otages-lorsque-l-iran-s-en-prenait-directement-a-la-france_VN-202607200715.html",
+   "https://www.bfmtv.com/sante/le-gouvernement-annonce-des-travaux-sur-l-obligation-vaccinale-des-soignants-contre-la-grippe_AD-202607200712.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -1836,77 +1852,25 @@
  "evenements_attente": [
   {
    "faits": [
-    "L'Espagne a remporté la Coupe du monde 2026 en finale contre l'Argentine (1-0 après prolongation)",
-    "Ferran Torres a inscrit l'unique but du match",
-    "Nico Williams a fourni une passe décisive de la tête",
-    "C'est le deuxième titre mondial de l'Espagne",
-    "Plus de deux millions de personnes ont célébré le retour des champions à Madrid le 20 juillet 2026",
-    "La sélection espagnole a rencontré le roi d'Espagne et a défilé en bus"
+    "L'Espagne remporte la Coupe du monde 2026",
+    "Plus d'un million de personnes accueillent l'équipe espagnole (la Roja) dans les rues de Madrid"
    ],
-   "qui": "Équipe de football d'Espagne, Luis de la Fuente (sélectionneur)",
+   "qui": "Équipe d'Espagne",
    "ou": "Madrid, Espagne",
    "categorie": "sport",
    "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "Le Figaro",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "87576f7186bb7fa3",
-   "score": 100,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T21:36:59.667866+00:00"
-  },
-  {
-   "faits": [
-    "Deux agents de l'ambassade de France à Téhéran ont été détenus sans raison pendant plusieurs heures",
-    "Les agents ont été interrogés",
-    "L'un des agents a été molesté",
-    "Les services de sécurité iraniens sont responsables de cette action",
-    "Le ministre français des Affaires étrangères Jean-Noël Barrot a qualifié l'action d'intimidation extrêmement grave"
-   ],
-   "qui": "Services de sécurité iraniens ; Jean-Noël Barrot (ministre français)",
-   "ou": "Téhéran, Iran",
-   "categorie": "international",
-   "sensible": true,
    "confiance": 90,
    "sources": [
-    "franceinfo",
-    "France 24"
+    "France 24",
+    "20 Minutes"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "4885621d89637ecf",
-   "score": 97,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T16:41:25.589054+00:00"
-  },
-  {
-   "faits": [
-    "L'Espagne a remporté la Coupe du monde 2026",
-    "La finale s'est jouée dimanche 19 juillet 2026",
-    "L'Espagne a battu l'Argentine 1-0"
-   ],
-   "qui": "Espagne, Argentine",
-   "ou": "Mondial 2026",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "56597737396f12b0",
-   "score": 97,
+   "importance": 80,
+   "empreinte": "809b7ffdb744d02a",
+   "score": 96,
    "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-20T16:41:25.589056+00:00"
+   "depuis": "2026-07-20T22:37:32.025231+00:00"
   },
   {
    "faits": [
@@ -1981,6 +1945,29 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-20T18:46:40.954365+00:00"
+  },
+  {
+   "faits": [
+    "L'armée américaine mène une nouvelle série de frappes contre l'Iran",
+    "Trois soldats américains sont morts depuis la reprise de la guerre le 7 juillet",
+    "L'Iran frappe en retour des intérêts américains dans la région"
+   ],
+   "qui": "États-Unis, Iran",
+   "ou": "Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "20 Minutes",
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "d503aa5b8c3a56b0",
+   "score": 92,
+   "fiab_max": 75,
+   "nb_sources": 2,
+   "depuis": "2026-07-20T22:37:32.025242+00:00"
   },
   {
    "faits": [
@@ -2365,28 +2352,6 @@
   },
   {
    "faits": [
-    "Donald Trump impose 50% de droits de douane supplémentaires sur certains produits canadiens",
-    "Les nouveaux droits de douane entreront en vigueur dans un mois",
-    "Les produits concernés incluent le vin, les crosses de hockey et le ciment"
-   ],
-   "qui": "Donald Trump",
-   "ou": "États-Unis, Canada",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "91d96a2a5998ef34",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T21:36:59.667896+00:00"
-  },
-  {
-   "faits": [
     "Lionel Messi a rompu le silence après la défaite de l'Argentine en finale de la Coupe du monde le 19 juillet 2026",
     "L'Argentine s'est inclinée face à l'Espagne (1-0)",
     "Messi a exprimé que sa blessure mettra du temps à cicatriser",
@@ -2480,6 +2445,28 @@
   },
   {
    "faits": [
+    "La Commission européenne inflige une amende de 550 millions d'euros à AliExpress",
+    "C'est la plus importante amende jamais prononcée dans le cadre du règlement sur les services numériques (DSA)",
+    "L'UE reproche à AliExpress d'avoir vendu des produits illégaux (vêtements contrefaits, jouets dangereux) sans évaluer ni atténuer les risques"
+   ],
+   "qui": "Commission européenne, AliExpress",
+   "ou": "Union européenne",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "278b224febdbcc9d",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T22:37:32.025269+00:00"
+  },
+  {
+   "faits": [
     "La HAS recommande l'obligation vaccinale contre la grippe",
     "Le Syndicat national des professionnels infirmiers est favorable à cette obligation",
     "Thierry Amouroux, porte-parole du syndicat, souhaite aussi faciliter l'accès à cette vaccination"
@@ -2545,17 +2532,33 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-20T20:15:02.953609+00:00"
+  },
+  {
+   "faits": [
+    "Les États-Unis imposent de nouvelles sanctions contre le gouvernement soudanais",
+    "Le Soudan est accusé d'avoir eu recours à des armes chimiques dans sa guerre contre les forces paramilitaires",
+    "Des accusations qui datent de l'année dernière et avaient déjà donné lieu à un premier volet de sanctions"
+   ],
+   "qui": "États-Unis, gouvernement soudanais",
+   "ou": "Soudan",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "les accusations d'armes chimiques ne sont pas formellement confirmées ici"
+   ],
+   "importance": 65,
+   "empreinte": "d9d7f8b26c848e94",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T22:37:23.255660+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "59a0d01ea0062f28",
-   "2026-07-18T22:28:56.941695+00:00"
-  ],
-  [
-   "a13b82b6c79abeb0",
-   "2026-07-18T22:29:00.898634+00:00"
-  ],
   [
    "c6bcdd96c9274911",
    "2026-07-18T23:32:56.597860+00:00"
@@ -2627,17 +2630,17 @@
   [
    "d6c051d95a6b58e3",
    "2026-07-20T07:37:41.584820+00:00"
+  ],
+  [
+   "ad4ff8335456d783",
+   "2026-07-20T22:37:33.166925+00:00"
+  ],
+  [
+   "eb9db5cff2ac4e8d",
+   "2026-07-20T22:37:37.169692+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "2bf04786142f3572",
-   "2026-07-18T22:28:46.148025+00:00"
-  ],
-  [
-   "58ae6a0736ece44e",
-   "2026-07-18T22:28:55.811168+00:00"
-  ],
   [
    "9f363a3f5e1409c1",
    "2026-07-18T23:32:51.443021+00:00"
@@ -2709,24 +2712,24 @@
   [
    "fbf188010e048c67",
    "2026-07-20T07:37:36.542379+00:00"
+  ],
+  [
+   "87576f7186bb7fa3",
+   "2026-07-20T22:37:27.789550+00:00"
+  ],
+  [
+   "91d96a2a5998ef34",
+   "2026-07-20T22:37:32.025222+00:00"
   ]
  ],
  "depeches_du_jour": [
-  "⚽ L'Espagne remporte la Coupe du monde 2026 en battant l'Argentine 1-0 après prolongation au MetLife Stadium. Ferran Torres a marqué en prolongation. Deuxième titre mondial pour l'Espagne. (20 Minutes, BFMTV, France 24)",
-  "⚽ L'Espagne et l'Argentine disputent la finale de la Coupe du monde 2026 au MetLife Stadium de New York à 21h. Lionel Messi participe à la rencontre entre les deux équipes titrées. (Le Figaro, France 24)",
-  "⚽ L'Espagne remporte la Coupe du monde 2026 en battant l'Argentine 1-0 en finale au MetLife Stadium. Ferran Torres marque en prolongation (106e). Rodri est élu meilleur joueur. Deuxième titre espagnol, seize ans après 2010. (franceinfo)",
-  "⚡ FLASH — Un incendie violent ravage le Var depuis le 19 juillet. Le feu a consumé 120 hectares en deux heures à Taradeau et aux Arcs-sur-Argens. 255 sapeurs-pompiers combattent les flammes. Évacuations en cours et trafic SNCF perturbé. (Le Figaro)",
-  "⚽ L'Espagne remporte la Coupe du monde 2026 en battant l'Argentine 1-0 après prolongations au Metlife Stadium. C'est le deuxième titre mondial espagnol, seize ans après 2010. (L'Équipe)",
-  "⚖️ Les ossements retrouvés dans le Tarn ont été confirmés être ceux de Delphine Jubillar, disparue en décembre 2020 à l'âge de 33 ans. Son mari Cédric Jubillar a indiqué le lieu de la découverte et a avoué. (Ouest-France, 20 Minutes)",
-  "⚡ FLASH — Les États-Unis ont mené neuf nuits de frappes contre des centres de commandement iraniens. En riposte, les Gardiens de la révolution ont frappé des avions américains en Jordanie et attaqué des pétroliers dans le détroit d'Ormuz.",
-  "⚡ FLASH — Un ferry a coulé au large du Guyana dans la nuit du 18 au 19 juillet. Le MV Barima transportait au moins 133 personnes. Soixante-sept ont été secourues, des dizaines restent portées disparues. (RFI, Ouest-France)",
-  "L'Espagne remporte la Coupe du monde 2026 contre l'Argentine (1-0) dimanche. Ce premier Mondial dans trois pays est aussi le plus long de l'histoire. Un adolescent espagnol a péri lors de l'effondrement d'une fontaine pendant les célébrations. (franceinfo)",
-  "🇫🇷 La canicule de juin 2026 a provoqué plus de 2 000 décès excédentaires en France. Les personnes isolées, les enfants et les sportifs ont été particulièrement affectés par cette vague de chaleur. (franceinfo)"
+  "⚽ L'Espagne remporte la Coupe du monde 2026 face à l'Argentine (1-0 après prolongation). Ferran Torres inscrit le but décisif, servi par Nico Williams. C'est le deuxième titre mondial espagnol. (Le Figaro, Ouest-France)",
+  "Donald Trump impose 50 % de droits de douane sur des produits canadiens (vin, ciment, crosses de hockey) à partir d'un mois. Le président justifie cette mesure par un traitement discriminatoire du Canada envers les produits américains. (France 24)"
  ],
  "recap_date": "2026-07-20",
  "echecs_extraction": 0,
  "compteur": {
-  "date": "2026-07-20",
-  "publies": 10
+  "date": "2026-07-21",
+  "publies": 2
  }
 }
