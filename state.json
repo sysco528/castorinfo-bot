@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/france/14-juillet/video-explosions-de-lumiere-statue-de-la-liberte-et-drones-equipes-de-led-revivez-le-traditionnel-feu-d-artifice-du-14-juillet-a-paris_8107178.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/une-remuneration-correspondant-a-20-de-la-valeur-des-cargaisons-en-quoi-consiste-le-peage-dans-le-detroit-d-ormuz-decrete-par-donald-trump_8107163.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pour-securiser-l-alimentation-electrique-de-la-corse-cet-ete-edf-appelle-les-habitants-a-la-sobriete-pendant-la-canicule_8107208.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-le-gouvernement-attal-a-t-il-coupe-dans-le-budget-de-la-securite-civile-entrainant-l-annulation-de-la-commande-de-deux-canadair_8063753.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/gestion-de-lamine-yamal-bataille-du-milieu-impact-des-remplacants-les-cles-de-la-demi-finale-de-coupe-du-monde-entre-la-france-et-l-espagne_8105981.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/emploi/metiers/armee-et-securite/reportage-au-lieu-d-exposer-120-a-130-soldats-au-combat-on-enverra-nos-robots-et-nos-drones-comment-l-armee-francaise-prepare-les-combats-de-demain_8107196.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/france/14-juillet/direct-ceremonies-du-14-juillet-suivez-le-traditionnel-defile-militaire-sur-les-champs-elysees-a-paris_8086544.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/france/14-juillet/dernier-defile-d-emmanuel-macron-demonstrations-militaires-inedites-7-000-policiers-mobilises-ce-qu-il-faut-savoir-sur-l-edition-2026-du-defile-du-14-juillet_8105975.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/monde/royaume-uni/andy-burnham-nomme-officiellement-premier-ministre-du-royaume-uni-par-le-roi-charles-iii_8115059.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-des-internautes-filment-les-automobilistes-qui-jettent-leurs-megots-sur-la-route_8115086.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/donald-trump-hue-echauffourees-argentins-meprisants-cinq-sequences-a-retenir-apres-la-victoire-de-l-espagne-face-a-l-argentine-en-finale-de-la-coupe-du-monde-2026_8114846.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-maintenue-mardi-pour-six-departements-mais-s-achevera-dans-la-soiree-pour-le-gard-et-les-bouches-du-rhone_8115194.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-maintenue-mardi-pour-six-departements-mais-s-achevera-dans-la-soiree-pour-le-gard-et-les-bouches-du-rhone_8115194.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/deux-agents-de-l-ambassade-de-france-a-teheran-cibles-d-une-action-d-intimidation-extremement-grave-de-la-part-des-services-de-securite-iraniens-annonce-le-ministre-des-affaires-etrangeres_8115335.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/on-vous-resume-l-affaire-des-controles-antidopage-inopines-en-pleine-nuit-ayant-vise-tadej-pogacar-et-jonas-vingegaard-sur-le-tour-de-france-2026_8115230.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sante/maladie/grippe/la-haute-autorite-de-sante-recommande-l-obligation-vaccinale-contre-la-grippe-pour-tous-les-professionnels-de-sante_8115158.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/police/un-homme-qui-usurpait-l-image-de-la-gendarmerie-nationale-pour-creer-des-contenus-a-caractere-sexuel-interpelle-dans-la-marne_8115347.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/football-legende-de-liverpool-et-double-ballon-d-or-l-anglais-kevin-keegan-est-mort-a-l-age-de-75-ans_8115233.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -402,13 +402,6 @@
    "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/actualite-france/pedocriminalite-pres-d-un-millier-de-dossiers-prioritaires-identifies-annonce-gerald-darmanin-20260715",
-   "https://www.lefigaro.fr/nice/j-ai-eu-la-chance-de-pouvoir-la-sauver-ce-pere-qui-traque-inlassablement-les-predateurs-sexuels-de-sa-fille-pour-les-faire-interpeller-20260616",
-   "https://www.lefigaro.fr/international/cryptomonnaies-immobilier-gisements-miniers-l-ahurissante-corruption-de-la-famille-trump-20260715",
-   "https://www.lefigaro.fr/politique/une-appropriation-indue-attal-annonce-des-poursuites-contre-le-pen-autour-du-slogan-renaissance-20260715",
-   "https://www.lefigaro.fr/politique/defenseur-des-droits-le-senateur-lr-francois-noel-buffet-promet-une-independance-totale-et-affirme-avoir-evolue-sur-certaines-questions-societales-20260715",
-   "https://www.lefigaro.fr/conjoncture/incendies-en-foret-de-fontainebleau-fermee-depuis-dimanche-l-autoroute-a6-ne-rouvrira-pas-avant-vendredi-20260715",
-   "https://www.lefigaro.fr/faits-divers/incendie-de-fontainebleau-les-deux-suspects-qui-ont-reconnu-avoir-mis-le-feu-volontairement-presentes-a-un-juge-20260715",
    "https://www.lefigaro.fr/conjoncture/incendies-le-gouvernement-veut-lancer-un-grand-plan-d-investissement-pour-la-foret-francaise-20260715",
    "https://www.lefigaro.fr/voyages/incendie-de-fontainebleau-il-faut-soutenir-le-tourisme-l-appel-des-professionnels-20260715",
    "https://www.lefigaro.fr/sports/football/foot-bordeaux-officiellement-relegue-en-regional-1-la-sixieme-division-francaise-20260715",
@@ -701,17 +694,16 @@
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-le-retour-des-heros-espagnols-la-presse-etrille-l-argentine-leandro-paredes-le-tres-mauvais-perdant-20260720",
    "https://tvmag.lefigaro.fr/programme-tv/audiences-tv/audiences-12-millions-de-telespectateurs-devant-la-victoire-de-l-espagne-en-finale-de-la-coupe-du-monde-2026-20260720",
    "https://www.lefigaro.fr/sports/football/foot-kevin-keegan-double-ballon-d-or-anglais-est-mort-a-l-age-de-75-ans-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-quel-bilan-pour-les-bleus-posez-vos-questions-a-notre-envoye-special-20260719"
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-quel-bilan-pour-les-bleus-posez-vos-questions-a-notre-envoye-special-20260719",
+   "https://www.lefigaro.fr/vox/monde/renaud-girard-l-amerique-et-l-iran-s-embourbent-la-chine-avance-20260720",
+   "https://www.lefigaro.fr/flash-eco/du-koweit-aux-emirats-arabes-unis-la-guerre-au-moyen-orient-fait-derailler-la-croissance-des-petromonarchies-20260720",
+   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-un-navire-en-feu-dans-le-detroit-d-ormuz-apres-avoir-ete-frappe-par-un-projectile-20260720",
+   "https://www.lefigaro.fr/vox/societe/sabine-duflo-les-jeunes-accros-aux-reseaux-sociaux-ne-sont-plus-capables-de-preter-attention-a-autre-chose-20260720",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/suprematie-de-l-espagne-scandale-fifa-show-a-l-americaine-les-coups-de-coeur-et-coups-de-griffe-de-la-coupe-du-monde-20260720",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-la-fifa-va-ouvrir-une-enquete-sur-le-comportement-des-argentins-apres-la-finale-20260720",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-pas-de-celebration-prevue-en-argentine-messi-et-certains-coequipiers-ne-rentrent-pas-au-pays-20260720"
   ],
   "https://www.france24.com/fr/rss": [
-   "03af9ba0-7f62-11f1-a5ea-318e9371d6ce",
-   "9a40e822-7f61-11f1-ba3b-b921d25d6d37",
-   "b1ac6752-7f4d-11f1-8e2c-8711df3fd8b3",
-   "9c87952e-7edd-11f1-ae74-a5c33930dc62",
-   "923d09c4-7f5e-11f1-8e62-318e9371d6ce",
-   "7098c280-7ec9-11f1-b601-b799b35bfd8b",
-   "5a06b3d6-7f7a-11f1-b177-61933c245817",
-   "cdf4938c-7f78-11f1-a4c5-61933c245817",
    "9e5abbfe-7f75-11f1-9c10-9b76b1fbc5cb",
    "8a5472cc-7f74-11f1-a539-61933c245817",
    "4f96ebba-7f74-11f1-b034-61933c245817",
@@ -1003,7 +995,15 @@
    "94c66ab0-8430-11f1-af97-1f429402a757",
    "0b16d224-8439-11f1-b6d4-a73c52fd5ab3",
    "8c849c60-8434-11f1-9292-1f429402a757",
-   "28080e36-8437-11f1-acd4-a73c52fd5ab3"
+   "28080e36-8437-11f1-acd4-a73c52fd5ab3",
+   "0ee1b6b0-8454-11f1-a052-9bb13f47fcc4",
+   "e1b78f28-8455-11f1-b720-9bb13f47fcc4",
+   "3a06264c-8453-11f1-9402-9bb13f47fcc4",
+   "59412e62-8453-11f1-98e9-9bb13f47fcc4",
+   "a7086f1c-8452-11f1-b704-3f4c3230b1d7",
+   "9a0e849c-8450-11f1-bfa1-b1079a9ce16d",
+   "3f80e422-8449-11f1-ad9a-6b8aee60b745",
+   "b43c2686-844a-11f1-8faf-b1079a9ce16d"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1842,35 +1842,6 @@
   },
   {
    "faits": [
-    "Plus de 360 pompiers mobilisés",
-    "Dix maisons brûlées",
-    "Le feu s'est déclenché dimanche",
-    "200 hectares parcourus",
-    "Incendie à proximité d'habitations dans les communes des Arcs et de Taradeau",
-    "Trains supprimés",
-    "Le département du Var en vigilance orange canicule",
-    "27 départements placés en risque élevé de feux de forêt",
-    "Six départements en vigilance orange canicule"
-   ],
-   "qui": null,
-   "ou": "Var (communes des Arcs et de Taradeau), France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "d9b59a8f05d125a5",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T10:29:58.258683+00:00"
-  },
-  {
-   "faits": [
     "L'Espagne a remporté la finale de la Coupe du monde 2026 face à l'Argentine",
     "La finale s'est déroulée dimanche 19 juillet à New York",
     "Un affrontement a opposé des joueurs de la Roja et de l'Albiceleste après le match",
@@ -1897,33 +1868,51 @@
   },
   {
    "faits": [
-    "Découverte et identification formelle d'ossements de Delphine Aussaguel",
-    "Delphine Aussaguel est l'épouse de Cédric Jubillar",
-    "Cédric Jubillar a guidé les enquêteurs sur les lieux après être passé aux aveux",
-    "Les ossements ont été découverts dans un champ du Tarn",
-    "Les résultats des analyses ADN ont été confirmés par le procureur général près la cour d'appel de Toulouse",
-    "De nombreuses questions restent sans réponse",
-    "L'enquête sur les causes de la mort s'annonce complexe voire impossible"
+    "Deux agents de l'ambassade de France à Téhéran ont été détenus sans raison pendant plusieurs heures",
+    "Les agents ont été interrogés",
+    "L'un des agents a été molesté",
+    "Les services de sécurité iraniens sont responsables de cette action",
+    "Le ministre français des Affaires étrangères Jean-Noël Barrot a qualifié l'action d'intimidation extrêmement grave"
    ],
-   "qui": "Delphine Aussaguel, Cédric Jubillar",
-   "ou": "Tarn, France",
-   "categorie": "justice",
+   "qui": "Services de sécurité iraniens ; Jean-Noël Barrot (ministre français)",
+   "ou": "Téhéran, Iran",
+   "categorie": "international",
    "sensible": true,
-   "confiance": 92,
+   "confiance": 90,
    "sources": [
     "franceinfo",
-    "Le Monde"
+    "France 24"
    ],
-   "non_confirme": [
-    "Causes exactes de la mort",
-    "Résolutions complètes de l'enquête"
-   ],
+   "non_confirme": [],
    "importance": 75,
-   "empreinte": "5585e93c412a6015",
-   "score": 98,
+   "empreinte": "4885621d89637ecf",
+   "score": 97,
    "fiab_max": 90,
    "nb_sources": 2,
-   "depuis": "2026-07-20T10:29:58.258685+00:00"
+   "depuis": "2026-07-20T16:41:25.589054+00:00"
+  },
+  {
+   "faits": [
+    "L'Espagne a remporté la Coupe du monde 2026",
+    "La finale s'est jouée dimanche 19 juillet 2026",
+    "L'Espagne a battu l'Argentine 1-0"
+   ],
+   "qui": "Espagne, Argentine",
+   "ou": "Mondial 2026",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "56597737396f12b0",
+   "score": 97,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-20T16:41:25.589056+00:00"
   },
   {
    "faits": [
@@ -1980,77 +1969,6 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-20T12:36:38.466789+00:00"
-  },
-  {
-   "faits": [
-    "L'Espagne est double championne du monde de football",
-    "La finale opposait l'Espagne à l'Argentine",
-    "Ferran Torres a marqué l'unique but de la finale",
-    "La finale s'est déroulée à New York",
-    "La victoire s'est décidée en prolongation"
-   ],
-   "qui": "Espagne, Argentine, Ferran Torres",
-   "ou": "New York",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "2476995b761870a1",
-   "score": 90,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258686+00:00"
-  },
-  {
-   "faits": [
-    "L'armée américaine a bombardé l'Iran pour la neuvième nuit consécutive",
-    "La ville de Bouchehr, dans le sud-ouest de l'Iran, a été visée",
-    "L'Iran a riposté par des attaques contre ses pays voisins",
-    "L'Iran a affirmé avoir frappé des cibles liées à l'armée américaine en Syrie, au Koweït et en Jordanie",
-    "L'Iran a revendiqué l'attaque de deux pétroliers dans le détroit d'Ormuz"
-   ],
-   "qui": "États-Unis, Iran",
-   "ou": "Iran (Bouchehr), Syrie, Koweït, Jordanie, détroit d'Ormuz",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 90,
-   "empreinte": "b8eef1f36bca3c83",
-   "score": 89,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258687+00:00"
-  },
-  {
-   "faits": [
-    "La région de Moscou a été visée par plus de 400 drones",
-    "Selon le maire de Moscou Sergueï Sobianine, la plupart des drones ont été interceptés",
-    "Kiev a été touchée dans la nuit de samedi à dimanche par l'une des plus importantes attaques de missiles balistiques depuis le début de la guerre",
-    "Le président Volodymyr Zelensky a décrit cette attaque sur Kiev"
-   ],
-   "qui": "Ukraine, Russie, Volodymyr Zelensky, Sergueï Sobianine",
-   "ou": "Moscou, Kiev, Ukraine",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "bda467b163c4ab79",
-   "score": 89,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258689+00:00"
   },
   {
    "faits": [
@@ -2123,6 +2041,29 @@
   },
   {
    "faits": [
+    "Kevin Keegan, légende de Liverpool et double Ballon d'or, est décédé",
+    "Il avait 75 ans",
+    "Il souffrait d'un cancer",
+    "Il est décédé lundi 20 juillet 2026"
+   ],
+   "qui": "Kevin Keegan",
+   "ou": null,
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "391670fec422a8d9",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T16:41:25.589065+00:00"
+  },
+  {
+   "faits": [
     "Un incendie sévit dans la forêt de Fontainebleau au sud-est de Paris",
     "Le feu couve toujours",
     "Des habitants de Noisy-sur-Ecole organisent des patrouilles aux lisières de la forêt",
@@ -2146,6 +2087,28 @@
   },
   {
    "faits": [
+    "La Haute Autorité de santé recommande l'obligation vaccinale contre la grippe pour tous les professionnels de santé et médico-sociaux",
+    "La recommandation se justifie par l'ampleur du fardeau sanitaire de la grippe",
+    "Le risque de transmission par des professionnels aux personnes soignées ou hébergées est augmenté"
+   ],
+   "qui": "Haute Autorité de santé (France)",
+   "ou": "France",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "f8ca9572c8d66f54",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T16:41:25.589068+00:00"
+  },
+  {
+   "faits": [
     "Laurent Nuñez a annoncé l'équipement de l'A400M, avion de transport militaire, pour lutter contre les incendies",
     "L'A400M possède des capacités de largage importantes mais un pilotage difficile",
     "Cet équipement vise à pallier le manque de Canadair face aux incendies attisés par les fortes chaleurs et la sécheresse"
@@ -2165,28 +2128,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T12:36:38.466799+00:00"
-  },
-  {
-   "faits": [
-    "Le marché mondial des fusions-acquisitions a bondi de 42% au premier semestre",
-    "Le montant atteint 2 900 milliards de dollars",
-    "Ce dynamisme s'observe également en France"
-   ],
-   "qui": null,
-   "ou": "Monde, France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "96b1d0d0d3a8d5cc",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258690+00:00"
   },
   {
    "faits": [
@@ -2236,118 +2177,51 @@
   },
   {
    "faits": [
-    "Le PTC (Pète ton crâne) est une drogue très plébiscitée par les jeunes",
-    "Le PTC est un puissant cannabis de synthèse",
-    "Le PTC peut s'insérer dans les cigarettes électroniques",
-    "Le PTC fait des ravages chez les adolescents"
+    "Khalil al-Hayya a été élu à la tête du Hamas",
+    "Il succède à Yahya Sinouar, tué par Israël",
+    "Al-Hayya était le négociateur en chef du Hamas",
+    "Sinouar a été tué suite à l'attaque du Hamas le 7 octobre 2023 en territoire israélien"
    ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "d33cdbd12c0eff99",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258691+00:00"
-  },
-  {
-   "faits": [
-    "Des stars dont Madonna, Justin Bieber, BTS, Shakira, Tom Cruise étaient présentes à la finale",
-    "80 000 spectateurs ont assisté à la finale Espagne-Argentine",
-    "Le show spectaculaire de type Super Bowl n'a pas eu lieu comme certains l'espéraient"
-   ],
-   "qui": "Madonna, Justin Bieber, BTS, Shakira, Tom Cruise",
-   "ou": "New York",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "e6afacfee38341b9",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258692+00:00"
-  },
-  {
-   "faits": [
-    "Le Sénégal est devenue une nouvelle plaque tournante de la cocaïne consommée en Europe",
-    "D'ici à 2030, la moitié de la cocaïne latino-américaine consommée en Europe transitera par l'Afrique de l'Ouest",
-    "Dakar est un port-clé du trafic",
-    "La consommation de drogues de synthèse, plus dangereuse, se répand à Dakar"
-   ],
-   "qui": null,
-   "ou": "Sénégal, Dakar, Afrique de l'Ouest",
+   "qui": "Khalil al-Hayya, Hamas",
+   "ou": null,
    "categorie": "international",
    "sensible": true,
    "confiance": 85,
    "sources": [
-    "Le Monde"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "ecab60b65357c4df",
-   "score": 84,
-   "fiab_max": 90,
+   "importance": 75,
+   "empreinte": "7409c2b4c3f0e0ff",
+   "score": 83,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258694+00:00"
+   "depuis": "2026-07-20T16:41:25.588530+00:00"
   },
   {
    "faits": [
-    "La Guinée demande à la France la restitution de manuscrits pillés pendant la colonisation",
-    "La Guinée souhaite récupérer le Coran de Samory Touré",
-    "Samory Touré est l'une des grandes figures guinéennes de la résistance à la conquête coloniale française"
+    "Un navire a été frappé par un projectile inconnu dans le détroit d'Ormuz",
+    "Le navire a pris feu",
+    "L'équipage a évacué le navire en toute sécurité et a été secouru par un remorqueur",
+    "L'agence de sécurité maritime britannique UKMTO a fourni ces informations"
    ],
-   "qui": "Guinée, France, Samory Touré",
-   "ou": "Guinée, France",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "e20c84f447823d31",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258695+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump a assisté à la finale de la Coupe du monde",
-    "Donald Trump a été hué à la finale",
-    "C'était le seul match du Mondial auquel Trump a assisté",
-    "Trump a pesé de manière inédite sur le déroulé du tournoi"
-   ],
-   "qui": "Donald Trump",
-   "ou": "New York",
+   "qui": null,
+   "ou": "Détroit d'Ormuz",
    "categorie": "international",
    "sensible": false,
    "confiance": 85,
    "sources": [
-    "Le Monde"
+    "Le Figaro"
    ],
    "non_confirme": [
-    "Détails de l'influence exacte sur le déroulé du tournoi"
+    "projectile inconnu"
    ],
-   "importance": 65,
-   "empreinte": "a23514a6f1e07409",
-   "score": 83,
-   "fiab_max": 90,
+   "importance": 70,
+   "empreinte": "e901ff9e9f78649c",
+   "score": 82,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258699+00:00"
+   "depuis": "2026-07-20T16:41:25.589073+00:00"
   },
   {
    "faits": [
@@ -2406,73 +2280,25 @@
   },
   {
    "faits": [
-    "La ministre des Sports envisage l'arrivée de Zinédine Zidane à la tête de la sélection",
-    "Marina Ferrari, ministre des Sports, de la Jeunesse et de la Vie associative, a loué les talents de Zidane",
-    "Zidane était champion du monde en 1998"
+    "Tadej Pogacar et Jonas Vingegaard ont été réveillés pour un contrôle antidopage inopiné",
+    "Le contrôle a eu lieu dans la nuit de samedi à dimanche",
+    "Il s'est déroulé avant le départ de la 15e étape du Tour de France 2026"
    ],
-   "qui": "Zinédine Zidane, Marina Ferrari",
-   "ou": "France",
+   "qui": "Tadej Pogacar, Jonas Vingegaard",
+   "ou": "Tour de France",
    "categorie": "sport",
    "sensible": false,
-   "confiance": 80,
+   "confiance": 85,
    "sources": [
     "franceinfo"
    ],
-   "non_confirme": [
-    "Arrivée officielle de Zidane à la tête des Bleus"
-   ],
-   "importance": 75,
-   "empreinte": "1cc696404a330fa1",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258701+00:00"
-  },
-  {
-   "faits": [
-    "Nigel Farage a démissionné de son poste de député",
-    "Nigel Farage tente d'être aussitôt réélu",
-    "Les autres formations politiques boycottent le scrutin sauf un candidat improbable",
-    "Nigel Farage est le chef de file d'un parti d'extrême droite"
-   ],
-   "qui": "Nigel Farage",
-   "ou": "Royaume-Uni",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Résultats de la réélection"
-   ],
-   "importance": 60,
-   "empreinte": "ed1fee52078346c7",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258702+00:00"
-  },
-  {
-   "faits": [
-    "Les prix des carburants à la pompe sont en forte hausse",
-    "La hausse intervient après la reprise de la guerre au Moyen-Orient"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "3ba93a0ea4507518",
-   "score": 82,
-   "fiab_max": 85,
+   "importance": 55,
+   "empreinte": "de5838d784e8a69e",
+   "score": 81,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258703+00:00"
+   "depuis": "2026-07-20T16:41:25.589077+00:00"
   },
   {
    "faits": [
@@ -2496,48 +2322,165 @@
   },
   {
    "faits": [
-    "François-Noël Buffet est nommé pour un poste",
-    "Laurent Nuñez, ministre de l'Intérieur, a exprimé son soutien",
-    "Laurent Nuñez affirme qu'il n'a aucun doute sur l'objectivité et l'impartialité de François-Noël Buffet"
+    "L'interruption d'un concert de la DJ Barbara Butch à Grenoble a été réalisée par des militants propalestiniens",
+    "Le boycott était soutenu par les insoumis locaux",
+    "LFI est accusée de nouveau d'antisémitisme",
+    "L'artiste avait signé une tribune en soutien à la proposition de loi Yadan, retirée depuis"
    ],
-   "qui": "Laurent Nuñez, François-Noël Buffet",
-   "ou": "France",
+   "qui": "DJ Barbara Butch, LFI, militants propalestiniens",
+   "ou": "Grenoble, France",
    "categorie": "politique",
-   "sensible": false,
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "25f9ce69e6a7800f",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T16:41:25.588562+00:00"
+  },
+  {
+   "faits": [
+    "Un homme a usurpé l'image de la gendarmerie nationale pour créer des contenus à caractère sexuel",
+    "Le suspect a été interpellé dans la Marne",
+    "Plusieurs comptes diffusaient des contenus générés par intelligence artificielle",
+    "Les enquêteurs ont identifié le suspect après avoir découvert ces comptes"
+   ],
+   "qui": "Suspect non nommé",
+   "ou": "Marne, France",
+   "categorie": "justice",
+   "sensible": true,
    "confiance": 85,
    "sources": [
     "franceinfo"
    ],
-   "non_confirme": [
-    "Détails exacts de la nomination ou du poste visé"
-   ],
-   "importance": 55,
-   "empreinte": "9d18c1bb4150d8c3",
-   "score": 81,
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "4b32b260905064d4",
+   "score": 80,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258704+00:00"
+   "depuis": "2026-07-20T16:41:25.589080+00:00"
   },
   {
    "faits": [
-    "Les taux de crédit immobilier sont stables en juillet et août",
-    "En moyenne, les taux s'échelonnent de 3,25% sur dix ans à 3,55% sur vingt ans"
+    "Des fausses images montrent le footballeur Lamine Yamal célébrant son titre de champion du monde vêtu d'un drapeau palestinien",
+    "Une autre fausse image prétend que Pedro Porro arborait un drapeau palestinien autour de la taille",
+    "Ces images ont été générées par intelligence artificielle"
    ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "economie",
+   "qui": "Lamine Yamal, Pedro Porro",
+   "ou": null,
+   "categorie": "culture",
    "sensible": false,
-   "confiance": 88,
+   "confiance": 90,
    "sources": [
-    "Le Monde"
+    "France 24"
    ],
    "non_confirme": [],
    "importance": 50,
-   "empreinte": "3ba93a0ea4507518",
-   "score": 81,
-   "fiab_max": 90,
+   "empreinte": "155294fee9d708d7",
+   "score": 80,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258706+00:00"
+   "depuis": "2026-07-20T16:41:25.589082+00:00"
+  },
+  {
+   "faits": [
+    "La sélection argentine a fait un retour en ordre dispersé après la finale",
+    "Messi et certains coéquipiers ne rentrent pas au pays",
+    "Aucune célébration n'est prévue pour les vice-champions du monde"
+   ],
+   "qui": "Sélection argentine, Lionel Messi",
+   "ou": "Argentine",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "fe4ce5824cb366c8",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T16:41:25.589083+00:00"
+  },
+  {
+   "faits": [
+    "Le PIB des pays du Conseil de coopération du Golfe (CCG) devrait se contracter pour la première fois depuis 2009",
+    "La guerre au Moyen-Orient fait dérailler la croissance des pétromonarchies",
+    "L'Irak est dans l'impasse sans ressources financières"
+   ],
+   "qui": "Pays du CCG, Irak",
+   "ou": "Moyen-Orient",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "devrait se contracter"
+   ],
+   "importance": 65,
+   "empreinte": "fdf6e54cbabaa5e6",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T16:41:25.589085+00:00"
+  },
+  {
+   "faits": [
+    "La Fifa s'apprête à enquêter sur le comportement de la sélection argentine après la finale",
+    "Une bagarre a éclaté entre certains joueurs argentins après la finale perdue face à l'Espagne"
+   ],
+   "qui": "Sélection argentine",
+   "ou": "Mondial 2026",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "Selon Sky Sports"
+   ],
+   "importance": 60,
+   "empreinte": "fea6ac589b6d4009",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T16:41:25.589086+00:00"
+  },
+  {
+   "faits": [
+    "Le Premier ministre félix Moloua s'est rendu à Birao après l'attaque du 30 juin près d'Am Dafok",
+    "Objectif : rassurer la population",
+    "Aucun bilan officiel n'a été communiqué",
+    "La sécurité a été renforcée dans la région"
+   ],
+   "qui": "Félix Moloua (Premier ministre centrafricain)",
+   "ou": "Birao, Centrafrique",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "bilan officiel"
+   ],
+   "importance": 45,
+   "empreinte": "e9e667998d1b975e",
+   "score": 72,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T16:41:25.588593+00:00"
   }
  ],
  "publies_48h": [
