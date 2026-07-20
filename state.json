@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/france/14-juillet/direct-l-incendie-en-foret-de-fontainebleau-pres-de-paris-a-parcouru-plus-de-1-300-hectares-en-24-heures_8106995.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/emmanuel-macron/ce-sera-massif-emmanuel-macron-promet-un-defile-historique-pour-le-dernier-14-juillet-de-son-double-quinquennat_8105954.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/temoignages-ces-images-sont-dans-mon-sac-a-dos-de-vie-d-infirmiere-dix-ans-apres-l-attentat-du-14-juillet-a-nice-soignants-et-secouristes-se-confient_8101274.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/enquete-franceinfo-rien-n-est-mis-en-scene-tout-est-authentique-comment-sont-fabriquees-les-videos-coulisses-de-l-equipe-de-france-qui-cartonnent-sur-les-reseaux-sociaux_8106110.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/pourquoi-cette-demi-finale-france-espagne-est-consideree-comme-la-finale-avant-l-heure-de-cette-coupe-du-monde-2026_8106263.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/la-ligue-contre-le-cancer-veut-introduire-le-principe-de-precaution-sanitaire-dans-la-constitution-francaise-qui-empecherait-de-voter-des-lois-pouvant-nuire-a-la-sante_8107217.html#xtor=RSS-3-[lestitres]",
@@ -299,7 +296,12 @@
    "https://www.franceinfo.fr/sante/drogue-addictions/c-est-pire-qu-un-poison-les-effets-devastateurs-du-ptc-une-drogue-tres-plebiscitee-par-les-jeunes_8114360.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/musique/madonna-justin-bieber-bts-shakira-tom-cruise-un-defile-de-stars-a-defaut-d-un-show-tres-spectaculaire-met-la-touche-finale-au-mondial-2026_8114780.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/defenseur-des-droits-laurent-nunez-n-a-aucun-doute-sur-l-objectivite-l-impartialite-de-francois-noel-buffet_8114903.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/l-arrivee-de-zinedine-zidane-a-la-tete-de-la-selection-serait-une-chance-pour-l-equipe-de-france-estime-la-ministre-des-sports_8114795.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/coupe-du-monde/l-arrivee-de-zinedine-zidane-a-la-tete-de-la-selection-serait-une-chance-pour-l-equipe-de-france-estime-la-ministre-des-sports_8114795.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-on-prend-en-photo-toute-voiture-suspecte-apres-l-incendie-a-fontainebleau-des-riverains-aux-aguets-pour-proteger-la-foret-des-pyromanes_8114606.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-pense-que-ce-soir-nous-n-aurons-plus-une-maison-pour-nous-coucher-deux-communes-touchees-par-un-incendie-dans-le-var_8114354.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/podium-classement-final-de-paul-seixas-victoire-francaise-les-cinq-questions-avant-la-troisieme-et-derniere-semaine-du-tour-de-france-2026_8114039.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/royaume-uni/andy-burnham-nomme-officiellement-premier-ministre-du-royaume-uni-par-le-roi-charles-iii_8115059.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -400,16 +402,6 @@
    "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-espagne-on-a-perdu-contre-nous-meme-les-bleus-attristes-apres-leur-sortie-de-piste-en-demi-finale-20260715",
-   "https://www.lefigaro.fr/politique/pour-melenchon-les-incendies-sont-une-consequence-de-la-stupidite-du-capitalisme-20260714",
-   "https://www.lefigaro.fr/meteo/en-direct-incendies-en-foret-de-fontainebleau-les-feux-sont-a-present-fixes-l-a6-pourrait-rouvrir-ce-mercredi-20260715",
-   "https://www.lefigaro.fr/sciences/l-incendie-pourrait-couver-plusieurs-mois-que-sont-les-feux-zombies-qui-compliquent-la-situation-a-fontainebleau-20260715",
-   "https://www.lefigaro.fr/actualite-france/canicule-142-personnes-decedees-par-noyade-depuis-le-19-juin-20260715",
-   "https://www.lefigaro.fr/meteo/quand-allez-vous-sortir-de-la-canicule-decouvrez-en-cartes-les-dernieres-previsions-20260626",
-   "https://www.lefigaro.fr/politique/il-a-un-cote-kamikaze-wauquiez-bouscule-au-groupe-lr-apres-ses-propos-sur-philippe-et-retailleau-20260715",
-   "https://www.lefigaro.fr/actualite-france/affaire-des-assistants-parlementaires-du-fn-pas-de-pourvoi-du-parquet-general-20260715",
-   "https://www.lefigaro.fr/politique/plusieurs-scenarios-restent-possibles-apres-le-pourvoi-de-marine-le-pen-selon-le-procureur-general-pres-la-cour-de-cassation-quels-sont-ils-20260709",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/lecon-de-football-cadres-inexistants-les-rates-de-deschamps-coups-de-coeur-et-coups-de-griffe-de-nos-envoyes-speciaux-apres-france-espagne-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/la-force-collective-de-l-espagne-etait-beaucoup-plus-forte-l-analyse-d-herve-renard-apres-l-elimination-des-bleus-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-espagne-y-avait-il-penalty-sur-le-duel-entre-lucas-digne-et-lamine-yamal-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/zinedine-zidane-doit-il-succeder-a-didier-deschamps-comme-selectionneur-de-l-equipe-de-france-20260715",
@@ -699,14 +691,19 @@
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-en-video-comment-leandro-paredes-a-mis-le-feu-aux-poudres-en-declenchant-une-bagarre-generale-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-en-video-ce-moment-tres-genant-ou-donald-trump-refuse-de-descendre-du-podium-20260720",
    "https://www.lefigaro.fr/conjoncture/2-6-milliards-de-dollars-gagnes-en-quatre-ans-les-secrets-du-portefeuille-ultra-concentre-de-bill-ackman-le-maitre-de-l-activisme-boursier-20260720",
-   "https://www.lefigaro.fr/flash-eco/carburant-les-prix-a-la-pompe-en-forte-hausse-apres-la-reprise-du-conflit-au-moyen-orient-20260720"
+   "https://www.lefigaro.fr/flash-eco/carburant-les-prix-a-la-pompe-en-forte-hausse-apres-la-reprise-du-conflit-au-moyen-orient-20260720",
+   "https://www.lefigaro.fr/international/royaume-uni-andy-burnham-nomme-premier-ministre-britannique-par-le-roi-charles-iii-20260720",
+   "https://www.lefigaro.fr/international/royaume-uni-le-pays-est-plus-fort-et-plus-juste-assure-keir-starmer-en-quittant-downing-street-20260720",
+   "https://www.lefigaro.fr/international/je-suis-pret-j-ai-un-plan-au-royaume-uni-le-roi-du-nord-andy-burnham-couronne-a-la-tete-du-labour-20260717",
+   "https://www.lefigaro.fr/international/royaume-uni-les-images-de-l-arrivee-d-andy-burnham-a-downing-street-et-de-sa-rencontre-avec-charles-iii-20260720",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/le-carnet-de-notes-des-bleus-a-la-coupe-du-monde-mbappe-chef-de-bande-upamecano-solide-olise-inegal-hernandez-pas-au-niveau-20260720",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/je-veux-arreter-le-plus-tard-possible-didier-deschamps-et-maintenant-en-club-ou-en-selection-20260720",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/jour-le-plus-long-deschamps-endeuille-defaite-nationale-et-gout-d-inacheve-le-recit-de-la-campagne-des-bleus-au-mondial-20260720",
+   "https://www.lefigaro.fr/decideurs/management/il-n-a-jamais-cherche-a-etre-le-heros-du-vestiaire-la-recette-du-leadership-de-didier-deschamps-decrypte-par-des-managers-20260720",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/rugueux-garde-du-corps-de-messi-qui-est-leandro-paredes-l-argentin-qui-a-empoisonne-la-finale-de-coupe-du-monde-20260720",
+   "https://www.lefigaro.fr/musique/fade-americanisation-le-spectacle-de-madonna-et-shakira-a-la-mi-temps-de-la-finale-du-mondial-sous-les-critiques-20260720"
   ],
   "https://www.france24.com/fr/rss": [
-   "a09f7428-7f33-11f1-9fbc-ff817859d76b",
-   "e7c719be-7f33-11f1-adcd-ff817859d76b",
-   "a6f46ecc-7f20-11f1-9709-1d324c86494a",
-   "9a27730c-7f01-11f1-9620-c1c9b595e168",
-   "cc1cfe7c-7f1f-11f1-a676-1d324c86494a",
    "b121632a-7f0f-11f1-a159-f7f6ccbec7bf",
    "67214116-7f44-11f1-b164-f769d31876e8",
    "64aa122a-7f5b-11f1-8a4b-318e9371d6ce",
@@ -1001,7 +998,12 @@
    "f3640a80-83d3-11f1-ba19-1f09f4ef2664",
    "bb187b30-83cd-11f1-8424-4942debde5c5",
    "167d396a-8401-11f1-ad8a-a79b79711624",
-   "bbc3d986-83f9-11f1-b61e-85860b52d220"
+   "bbc3d986-83f9-11f1-b61e-85860b52d220",
+   "19034750-842f-11f1-8c47-1f429402a757",
+   "5cc28dba-842b-11f1-b655-f763b6582da7",
+   "41b7fb48-842d-11f1-9626-f763b6582da7",
+   "6049dcf8-8427-11f1-bd84-f763b6582da7",
+   "e46602d0-8429-11f1-ae3f-41a954a1f7a0"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1810,6 +1812,35 @@
  "evenements_attente": [
   {
    "faits": [
+    "Andy Burnham a été nommé officiellement Premier ministre du Royaume-Uni par le roi Charles III",
+    "Andy Burnham succède à Keir Starmer, qui a démissionné",
+    "Andy Burnham était auparavant chef du Parti travailliste (Labour)",
+    "Andy Burnham était maire du Grand Manchester jusqu'au mois dernier",
+    "Keir Starmer était arrivé au pouvoir en juillet 2024",
+    "Andy Burnham a été reçu par le roi Charles III au palais de Buckingham",
+    "Andy Burnham a pris ses fonctions lundi 20 juillet 2026",
+    "Andy Burnham a promis un « plan sur dix ans » pour redresser le pays"
+   ],
+   "qui": "Andy Burnham, Keir Starmer, roi Charles III",
+   "ou": "Royaume-Uni, Londres (Downing Street, palais de Buckingham)",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "b4376cea13713db3",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-20T12:36:38.466781+00:00"
+  },
+  {
+   "faits": [
     "Plus de 360 pompiers mobilisés",
     "Dix maisons brûlées",
     "Le feu s'est déclenché dimanche",
@@ -1866,6 +1897,35 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-20T10:29:58.258685+00:00"
+  },
+  {
+   "faits": [
+    "L'Espagne a remporté la finale de la Coupe du monde 2026",
+    "L'Espagne a vaincu l'Argentine 1-0 en finale",
+    "La finale s'est déroulée à New York",
+    "Leandro Paredes (milieu argentin) a eu un match rugueux",
+    "Leandro Paredes a reçu un carton rouge après la rencontre",
+    "Un spectacle de onze minutes avec Madonna et Shakira a été organisé à la mi-temps par la FIFA",
+    "Le spectacle de mi-temps a reçu des critiques négatives (décrit comme « fade », « lisse » et trop long)",
+    "Donald Trump a monopolisé l'attention lors de la remise du trophée",
+    "Gianni Infantino a demandé à Donald Trump de quitter la scène pour laisser les champions célébrer"
+   ],
+   "qui": "Espagne, Argentine, Leandro Paredes, Madonna, Shakira, Donald Trump, Gianni Infantino",
+   "ou": "New York",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "49e075a4eb4f89c3",
+   "score": 96,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-20T12:36:38.466789+00:00"
   },
   {
    "faits": [
@@ -1940,6 +2000,31 @@
   },
   {
    "faits": [
+    "Plusieurs départs de feux ont eu lieu dans le Var dimanche 19 juillet",
+    "La progression des feux a été extrêmement rapide sous l'effet du vent",
+    "Plusieurs habitations ont été touchées dans les secteurs de Taradeau et des Arcs",
+    "Le trafic SNCF a été interrompu entre Toulon et Nice"
+   ],
+   "qui": null,
+   "ou": "Var (Taradeau, Les Arcs)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "destruction de maisons (expression d'habitant traumatisé)"
+   ],
+   "importance": 75,
+   "empreinte": "6482f35a373fc28f",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T12:36:38.466796+00:00"
+  },
+  {
+   "faits": [
     "Les Etats-Unis ont mené des frappes sur l'Iran pour la neuvième nuit consécutive",
     "Un média d'État iranien rapporte de nouvelles frappes américaines sur Bouchehr où se trouve une centrale nucléaire",
     "Le Koweït rapporte subir de nouvelles attaques de drones iraniens"
@@ -1962,6 +2047,51 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T07:37:24.632660+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie sévit dans la forêt de Fontainebleau au sud-est de Paris",
+    "Le feu couve toujours",
+    "Des habitants de Noisy-sur-Ecole organisent des patrouilles aux lisières de la forêt",
+    "Les riverains photographient les voitures suspectes et signalent les comportements suspects"
+   ],
+   "qui": null,
+   "ou": "Fontainebleau (forêt), Noisy-sur-Ecole",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "4787dd5b37a87a90",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T12:36:38.466797+00:00"
+  },
+  {
+   "faits": [
+    "Laurent Nuñez a annoncé l'équipement de l'A400M, avion de transport militaire, pour lutter contre les incendies",
+    "L'A400M possède des capacités de largage importantes mais un pilotage difficile",
+    "Cet équipement vise à pallier le manque de Canadair face aux incendies attisés par les fortes chaleurs et la sécheresse"
+   ],
+   "qui": "Laurent Nuñez (gouvernement français)",
+   "ou": "France",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "a9a7562bcd54a126",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T12:36:38.466799+00:00"
   },
   {
    "faits": [
@@ -2221,6 +2351,61 @@
   },
   {
    "faits": [
+    "La France a atteint la demi-finale de la Coupe du monde 2026",
+    "La France a perdu face à l'Espagne en demi-finale",
+    "Kylian Mbappé a joué dans l'équipe de France",
+    "Dayot Upamecano a joué dans l'équipe de France",
+    "Müller Olise a joué dans l'équipe de France",
+    "Lucas Hernandez a joué dans l'équipe de France",
+    "Didier Deschamps était sélectionneur de l'équipe de France pour ce Mondial",
+    "Didier Deschamps a mis fin à sa mission en équipe de France"
+   ],
+   "qui": "Équipe de France de football, Didier Deschamps",
+   "ou": "États-Unis (diverses villes : Nantes, Lille, Boston, New York, Philadelphie, Dallas)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "Didier Deschamps repartant sur un nouveau projet en club ou en sélection"
+   ],
+   "importance": 70,
+   "empreinte": "c82bea491a17416a",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T12:36:38.466838+00:00"
+  },
+  {
+   "faits": [
+    "Le projet de loi d'urgence agricole revient à l'Assemblée nationale lundi",
+    "Le texte prévoit la réintroduction de pesticides jusqu'ici interdits en France",
+    "Cette réintroduction concerne certaines filières seulement",
+    "L'acétamipride figure parmi les pesticides à réintroduire",
+    "La dangerosité de l'acétamipride pour la biodiversité est avérée",
+    "Il y a un an, une pétition contre cette réintroduction avait réuni deux millions de signatures",
+    "Le projet de loi fracture la majorité"
+   ],
+   "qui": "Gouvernement français, Assemblée nationale",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "6593050e70e41230",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T12:36:38.466839+00:00"
+  },
+  {
+   "faits": [
     "La ministre des Sports envisage l'arrivée de Zinédine Zidane à la tête de la sélection",
     "Marina Ferrari, ministre des Sports, de la Jeunesse et de la Vie associative, a loué les talents de Zidane",
     "Zidane était champion du monde en 1998"
@@ -2358,52 +2543,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T10:29:58.258706+00:00"
-  },
-  {
-   "faits": [
-    "La police indienne a dispersé une manifestation contre les fraudes aux examens",
-    "Un parti des cafards a été lancé en mai par un étudiant indien fraîchement diplômé aux États-Unis",
-    "Le parti tente de fédérer la colère qui gronde en Inde contre les ratés et scandales affectant régulièrement les examens de l'enseignement supérieur"
-   ],
-   "qui": "Inde",
-   "ou": "Inde",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "c14e8f60f3b37615",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T10:29:58.258707+00:00"
-  },
-  {
-   "faits": [
-    "Une loi sur l'aide à mourir existe en France",
-    "Cette loi est soumise à des conditions précises",
-    "François-Xavier Lejeune a affirmé que dire oralement 'J'en ai assez de vivre' pourrait suffire pour déclencher une procédure d'euthanasie"
-   ],
-   "qui": "François-Xavier Lejeune, Notre-Dame de Bon Secours",
-   "ou": "France",
-   "categorie": "sante",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Si l'interprétation de Lejeune concernant le déclenchement de la procédure est fondée juridiquement"
-   ],
-   "importance": 71,
-   "empreinte": "c49916b5d7591231",
-   "score": 79,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T07:37:36.542399+00:00"
   }
  ],
  "publies_48h": [
