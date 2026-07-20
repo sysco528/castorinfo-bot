@@ -371,7 +371,6 @@
    "https://www.lemonde.fr/international/article/2026/07/19/a-gaza-des-frappes-israeliennes-tuent-onze-personnes-dont-trois-enfants-annonce-la-defense-civile_6725264_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/vestiaire-aneanti-pleureuse-et-avenir-les-verites-de-deschamps-apres-france-espagne-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-espagne-on-n-a-pas-mis-tous-les-ingredients-pour-aller-en-finale-reconnait-kylian-mbappe-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-espagne-une-lecon-de-football-et-une-vraie-faillite-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/au-coeur-du-mondial-la-france-a-fait-peine-a-voir-l-espagne-s-est-amusee-20260715",
@@ -670,13 +669,10 @@
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-l-espagnol-rodri-elu-meilleur-joueur-du-tournoi-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-trump-et-infantino-siffles-lors-de-leur-arrivee-sur-la-pelouse-pour-la-remise-du-trophee-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-en-video-le-but-du-sacre-espagnol-de-ferran-torres-20260720",
-   "https://www.lefigaro.fr/international/apres-les-deux-morts-americains-en-jordanie-trump-pousse-a-la-surenchere-en-iran-20260719"
+   "https://www.lefigaro.fr/international/apres-les-deux-morts-americains-en-jordanie-trump-pousse-a-la-surenchere-en-iran-20260719",
+   "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-affirme-frapper-l-iran-tres-durement-pour-venger-les-militaires-americains-tues-20260720"
   ],
   "https://www.france24.com/fr/rss": [
-   "6c5e88fc-7f4c-11f1-a88f-a7aa2daab8aa",
-   "bb864ffa-7f1f-11f1-ac42-5f999cfde5c0",
-   "8c26b8f4-7f41-11f1-a24d-b337f98f8275",
-   "392374e2-7ec1-11f1-9a03-57616e3956d1",
    "94b766f2-7f42-11f1-89e7-b337f98f8275",
    "50786f1e-7f37-11f1-bee4-29b1f5d6bfc2",
    "a09f7428-7f33-11f1-9fbc-ff817859d76b",
@@ -967,7 +963,16 @@
    "25bed80c-83b6-11f1-94e6-a9503bbde6cd",
    "929b4dde-83a7-11f1-a969-79ddcaecbccd",
    "2642a9b2-83c9-11f1-b9ec-1108e2394b4c",
-   "6b228d42-83c7-11f1-9fdf-4942debde5c5"
+   "6b228d42-83c7-11f1-9fdf-4942debde5c5",
+   "bb1aeda6-83bf-11f1-879f-bfe8f6e4b3dd",
+   "05085eda-83de-11f1-8dfd-3743e049f8b5",
+   "6c103762-83dc-11f1-8379-3743e049f8b5",
+   "4c323d10-83db-11f1-868a-8b09140528e5",
+   "45a589e2-83d7-11f1-9dbb-f31541d4772e",
+   "39fc490a-83c8-11f1-9d3c-1108e2394b4c",
+   "5011170a-83d4-11f1-9a1d-f31541d4772e",
+   "f3640a80-83d3-11f1-ba19-1f09f4ef2664",
+   "bb187b30-83cd-11f1-8424-4942debde5c5"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1148,7 +1153,14 @@
    "097a6d62-83b3-11f1-a5e6-037bb3f62d91",
    "e5581b44-83b4-11f1-804f-d598dd1710b4",
    "e29473b0-83c5-11f1-8201-1dc51feb6d07",
-   "c3ff5c34-83bc-11f1-9544-fd3b17fbc7d9"
+   "c3ff5c34-83bc-11f1-9544-fd3b17fbc7d9",
+   "ae860578-81e7-11f1-a42c-f1e11bcbb1e6",
+   "33ab6a60-83c1-11f1-93ea-77d520f53116",
+   "6a1e7118-83e5-11f1-a551-4522dfc43987",
+   "ba0d9392-83c8-11f1-ad79-454c1b097d57",
+   "dba56132-83dd-11f1-b9bf-75e5d4ab5259",
+   "1f969b46-83ce-11f1-ad99-454c1b097d57",
+   "77d6a2ca-83b9-11f1-811c-037bb3f62d91"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1434,7 +1446,10 @@
    "https://www.ouest-france.fr/sport/coupe-du-monde/le-classement-final-des-buteurs-et-des-passeurs-de-la-coupe-du-monde-mbappe-et-olise-au-sommet-5036f8e8-83a8-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/venezuela/venezuela-le-bilan-du-double-seisme-continue-daugmenter-et-monte-a-5-208-morts-975711fc-83cd-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-nous-devons-etre-dignes-dans-la-defaite-lionel-scaloni-reagit-a-la-victoire-des-espagnols-f7348dd6-83c6-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-les-champions-du-monde-espagnols-vont-celebrer-leur-victoire-a-madrid-65c06f88-83c5-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-les-champions-du-monde-espagnols-vont-celebrer-leur-victoire-a-madrid-65c06f88-83c5-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/guyana/naufrage-au-guyana-deux-membres-de-lequipage-testes-positif-au-cannabis-ce039cd2-83e3-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-le-golfe-persique-sembrase-da7f635a-83ad-11f1-b703-745e62b608d9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/culture/arts/expositions/je-dessine-pour-parler-de-ce-que-je-fais-les-uvres-du-jardinier-samuel-lewis-exposees-au-musee-dart-naif-de-laval-30c2c8f2-4c58-11f1-aaad-3dc0b7ad690d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1766,26 +1781,50 @@
  "evenements_attente": [
   {
    "faits": [
-    "Boris Nadejdine, opposant russe, renonce à se présenter aux élections législatives de septembre 2026",
-    "Nadejdine a été récemment condamné en justice",
-    "Il estime être empêché de faire de la politique en Russie",
-    "Nadejdine est l'un des rares responsables politiques à dénoncer publiquement Vladimir Poutine et l'offensive en Ukraine sans être emprisonné"
+    "Plusieurs incendies se sont déclarés dimanche dans le Var et la Haute-Corse",
+    "Les départements étaient placés en vigilance orange à la canicule par Météo-France",
+    "Le feu le plus virulent dans le Var a parcouru près de 200 hectares",
+    "L'incendie d'Albertacce en Haute-Corse a ravagé près de 326 hectares",
+    "Plusieurs centaines de pompiers ont été mobilisés",
+    "Les incendies ont été alimentés par la sécheresse"
    ],
-   "qui": "Boris Nadejdine",
-   "ou": "Russie",
-   "categorie": "international",
+   "qui": "Sapeurs-pompiers français",
+   "ou": "Var et Haute-Corse, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "961d57956a8fdd4e",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T04:11:16.077762+00:00"
+  },
+  {
+   "faits": [
+    "Des incendies ont ravagé plus de 2 000 hectares de la forêt de Fontainebleau",
+    "L'Office national des forêts a constaté un impact considérable sur la biodiversité",
+    "Fontainebleau est décrit comme le 'poumon vert de l'île de France'"
+   ],
+   "qui": "Office national des forêts (ONF)",
+   "ou": "Forêt de Fontainebleau, Île-de-France, France",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 90,
    "sources": [
     "RFI"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "dd98645ea1485e23",
-   "score": 85,
+   "importance": 70,
+   "empreinte": "3b625b742bea158e",
+   "score": 84,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-19T22:05:34.522900+00:00"
+   "depuis": "2026-07-20T04:11:16.077809+00:00"
   },
   {
    "faits": [
@@ -1812,213 +1851,75 @@
   },
   {
    "faits": [
-    "Frappes iraniennes contre la Jordanie et plusieurs pays du Golfe",
-    "Plusieurs dizaines de blessés parmi les militaires américains",
-    "Plusieurs hélicoptères endommagés",
-    "Stratégie de 'guerre hybride' iranienne contre États-Unis et intérêts régionaux"
+    "Le président gabonais Brice Clotaire Oligui Nguema entame une visite d'État en France le 20 juillet 2026",
+    "Il est à la tête d'une délégation de plus de 80 membres composée de ministres, d'hommes d'affaires et de journalistes",
+    "Il sera reçu par Emmanuel Macron au palais de l'Élysée",
+    "La visite est placée sous le signe de l'économie et du rééquilibrage des relations bilatérales"
    ],
-   "qui": "Iran, États-Unis, Jordanie, pays du Golfe",
-   "ou": "Moyen-Orient",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "df8387976f4fd361",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T19:58:52.858112+00:00"
-  },
-  {
-   "faits": [
-    "Ossements retrouvés jeudi 16 juillet dans le Tarn identifiés comme ceux de Delphine Jubillar",
-    "Delphine Jubillar disparue en 2020",
-    "Cédric Jubillar a indiqué l'emplacement du corps aux enquêteurs",
-    "Ossements retrouvés dans champ près de Cagnac-les-Mines",
-    "Causes de la mort toujours inconnues"
-   ],
-   "qui": "Delphine Jubillar (victime), Cédric Jubillar",
-   "ou": "Tarn, Cagnac-les-Mines",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "causes de la mort"
-   ],
-   "importance": 75,
-   "empreinte": "6d12a7f05b913283",
-   "score": 83,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T19:58:52.858181+00:00"
-  },
-  {
-   "faits": [
-    "Un attentat jihadiste a visé une unité de l'armée nigérienne dans la région de Téra",
-    "La région de Téra se situe dans l'ouest du Niger",
-    "16 soldats nigériens ont été tués",
-    "Plusieurs terroristes ont également été tués lors des combats"
-   ],
-   "qui": "Armée nigérienne, groupes jihadistes",
-   "ou": "Région de Téra, Niger",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "ec1433abb6b1ce82",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T22:05:34.522868+00:00"
-  },
-  {
-   "faits": [
-    "L'armée américaine annonce la mort d'un soldat dans le nord de l'Irak",
-    "Soldat tué lors de destruction contrôlée d'une munition non explosée provenant d'un drone iranien abattu",
-    "États-Unis mènent une huitième nuit consécutive de frappes contre l'Iran",
-    "Frappes contre unités ayant lancé attaque ayant coûté la vie à deux soldats en Jordanie",
-    "Iran a attaqué deux bases au Koweït et intercepté plusieurs navires dans le détroit d'Ormuz"
-   ],
-   "qui": "États-Unis, Iran, Irak, Jordanie, Koweït",
-   "ou": "Irak (nord), Moyen-Orient",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 82,
-   "empreinte": "f231b55f3362078e",
-   "score": 82,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T19:58:52.858147+00:00"
-  },
-  {
-   "faits": [
-    "L'armée russe tire une vingtaine de missiles balistiques sur Kiev dans la nuit du 18 au 19 juillet",
-    "Une personne tuée et 16 blessées par les frappes sur Kiev",
-    "Un navire marchand turc est frappé en mer Noire par Moscou",
-    "Cinq morts suite à l'attaque du navire turc",
-    "Ces attaques font suite à des attaques ukrainiennes meurtrières contre la Russie"
-   ],
-   "qui": "Russie, Ukraine, Turquie",
-   "ou": "Kiev, mer Noire",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "27139e749a5eb749",
-   "score": 82,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T18:42:56.816892+00:00"
-  },
-  {
-   "faits": [
-    "Le Canada ferme ses frontières aux ressortissants étrangers ayant séjourné récemment en République démocratique du Congo",
-    "Cette mesure est liée à la propagation d'une épidémie d'Ebola",
-    "La décision a été annoncée dimanche 19 juillet 2026"
-   ],
-   "qui": "Canada",
-   "ou": "Canada, République démocratique du Congo",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "8471e15f6b491ed4",
-   "score": 81,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T22:05:34.522927+00:00"
-  },
-  {
-   "faits": [
-    "Incendie de grande ampleur dimanche 19 juillet",
-    "Trois maisons détruites",
-    "Vingt hectares brûlés",
-    "220 pompiers mobilisés",
-    "Incendie entre communes de Trignac et Saint-Nazaire"
-   ],
-   "qui": null,
-   "ou": "Loire-Atlantique, entre Trignac et Saint-Nazaire",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "3a94d465658af538",
-   "score": 81,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T19:58:52.858214+00:00"
-  },
-  {
-   "faits": [
-    "La Cour des comptes appelle la France à accélérer dans le domaine du quantique",
-    "La Cour estime que rester dans la course sur cette technologie est un enjeu majeur de souveraineté",
-    "La Cour souligne une position fragile face à la Chine et aux États-Unis"
-   ],
-   "qui": "Cour des comptes de France",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "fb20414f5fbca6dc",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T21:04:07.253468+00:00"
-  },
-  {
-   "faits": [
-    "L'ambassadeur de France en Algérie, Stéphane Romatet, a annoncé une augmentation des visas délivrés aux Algériens",
-    "Cette annonce a provoqué un tollé au sein de la droite et de l'extrême-droite françaises",
-    "Le ministère des Affaires étrangères français a dû apporter des précisions"
-   ],
-   "qui": "Stéphane Romatet, ministère français des Affaires étrangères",
-   "ou": "France, Algérie",
+   "qui": "Président gabonais Brice Clotaire Oligui Nguema, Président français Emmanuel Macron",
+   "ou": "France, Paris (palais de l'Élysée)",
    "categorie": "politique",
    "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "1f9eb2ea2e5e3199",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T04:11:30.957813+00:00"
+  },
+  {
+   "faits": [
+    "Au Niger, au moins 16 soldats ont été tués vendredi 17 juillet 2026",
+    "L'attaque a été qualifiée de 'terroriste'",
+    "L'attaque a visé un détachement militaire dans la région de Tillabéri, dans l'ouest du pays",
+    "15 assaillants ont également été tués selon le bilan officiel",
+    "Selon des informations recueillies par RFI, les pertes de l'armée nigérienne seraient beaucoup plus lourdes"
+   ],
+   "qui": "Armée nigérienne vs groupe armé non identifié",
+   "ou": "Région de Tillabéri, ouest du Niger",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "nombre exact de militaires nigériens tués",
+    "identité des auteurs de l'attaque"
+   ],
+   "importance": 70,
+   "empreinte": "6d64b722cfd155f9",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T04:11:16.078003+00:00"
+  },
+  {
+   "faits": [
+    "En RDC, le nombre d'incidents sécuritaires a reculé en juin dans l'est du pays",
+    "Le M23 est redevenu le groupe armé le plus meurtrier selon le Baromètre sécuritaire du Kivu",
+    "Les ADF poursuivent leur expansion vers de nouvelles zones"
+   ],
+   "qui": "M23, ADF (groupes armés)",
+   "ou": "Est de la RDC, région du Kivu",
+   "categorie": "international",
+   "sensible": true,
    "confiance": 85,
    "sources": [
     "RFI"
    ],
    "non_confirme": [],
    "importance": 60,
-   "empreinte": "566af28e97838b9f",
+   "empreinte": "c72498c41612f982",
    "score": 80,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-19T22:05:44.512712+00:00"
+   "depuis": "2026-07-20T04:11:16.078042+00:00"
   },
   {
    "faits": [
@@ -2045,159 +1946,30 @@
   },
   {
    "faits": [
-    "Barbora Krejcikova a remporté le tournoi WTA 250 d'Athènes le 19 juillet 2026",
-    "Elle a battu Maria Sakkari en finale",
-    "Score : 7-6 (7/5), 6-3",
-    "C'est le neuvième titre de Krejcikova"
+    "Ibeyi (jumelles franco-cubaines Lisa-Kaindé et Naomi Diaz) sort un nouvel album intitulé 'Offering'",
+    "C'est leur premier album réalisé hors du cocon de leur label historique",
+    "L'album sort 12 ans après leurs débuts et le succès de 'River'",
+    "L'album explore leurs racines, leur spiritualité et leur désir d'émancipation",
+    "Il s'agit d'une pop ambitieuse nourrie de leur héritage yoruba"
    ],
-   "qui": "Barbora Krejcikova (Tchèque) ; Maria Sakkari (Grecque)",
-   "ou": "Athènes, Grèce",
-   "categorie": "sport",
+   "qui": "Ibeyi (Lisa-Kaindé et Naomi Diaz)",
+   "ou": null,
+   "categorie": "culture",
    "sensible": false,
-   "confiance": 92,
+   "confiance": 88,
    "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "387c91045d245022",
-   "score": 79,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T21:04:07.253470+00:00"
-  },
-  {
-   "faits": [
-    "Un feu de forêt s'est déclaré à Taradeau dans le Var",
-    "Plus de 200 hectares ont été brûlés",
-    "Environ 150 personnes ont été évacuées",
-    "L'incendie s'est déclaré en milieu d'après-midi le dimanche 19 juillet 2026"
-   ],
-   "qui": null,
-   "ou": "Taradeau, Var, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "26c3892c695bb5c9",
-   "score": 78,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T22:05:34.523007+00:00"
-  },
-  {
-   "faits": [
-    "Joëlle Dambo, crêpière en Bretagne, a remporté le concours national de la meilleure galette de blé noir",
-    "Elle a reçu des injures racistes suite à son sacre",
-    "Plus de 300 personnes se sont rassemblées dimanche 19 juillet devant sa crêperie à Gomené (Côtes-d'Armor) pour la soutenir",
-    "Le rassemblement était marqué par l'émotion",
-    "Dambo a dénoncé le racisme et appelé à l'unité"
-   ],
-   "qui": "Joëlle Dambo (crêpière)",
-   "ou": "Gomené, Côtes-d'Armor, Bretagne, France",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "e9715e1129e49a69",
-   "score": 78,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T21:04:07.252426+00:00"
-  },
-  {
-   "faits": [
-    "Brest souhaite attirer Antoine Sekongo, milieu de terrain de Dunkerque",
-    "Une première offre de Brest estimée à 1,5 million d'euros a été refusée par Dunkerque",
-    "Brest devrait revenir à la charge"
-   ],
-   "qui": "Brest, Dunkerque, Antoine Sekongo",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
+    "RFI"
    ],
    "non_confirme": [],
    "importance": 45,
-   "empreinte": "f075339d253b58a1",
-   "score": 77,
+   "empreinte": "813fd9e5145972c9",
+   "score": 78,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-19T22:05:44.512716+00:00"
-  },
-  {
-   "faits": [
-    "Une intoxication massive a été déclarée dans une ville macédonienne",
-    "Plus de 1 500 habitants ont été soignés pour une infection intestinale",
-    "La cause probable est la présence d'eau contaminée d'une rivière dans le système d'eau potable"
-   ],
-   "qui": null,
-   "ou": "Macédoine du Nord",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "Cause confirmée seulement comme probable"
-   ],
-   "importance": 65,
-   "empreinte": "95710fe540183e1a",
-   "score": 75,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T22:05:34.522954+00:00"
-  },
-  {
-   "faits": [
-    "Un soldat américain a été tué par un drone suicide iranien",
-    "C'est le troisième soldat US tué en 72 heures"
-   ],
-   "qui": "États-Unis, Iran",
-   "ou": null,
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 70,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "8dceb76ee834104c",
-   "score": 74,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-19T22:05:34.522981+00:00"
+   "depuis": "2026-07-20T04:11:30.957817+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "2820bbf8a658fd3c",
-   "2026-07-18T01:03:03.398305+00:00"
-  ],
-  [
-   "fe3bb1528e04b8d8",
-   "2026-07-18T01:03:07.358234+00:00"
-  ],
-  [
-   "231c360ded11d364",
-   "2026-07-18T04:10:57.603566+00:00"
-  ],
-  [
-   "f4af68ec8a470e57",
-   "2026-07-18T04:11:01.501764+00:00"
-  ],
   [
    "4e194f85aeaa51e4",
    "2026-07-18T06:25:04.468358+00:00"
@@ -2269,25 +2041,17 @@
   [
    "65522af05191190a",
    "2026-07-20T00:16:53.773060+00:00"
+  ],
+  [
+   "4fde782df30526cd",
+   "2026-07-20T04:11:32.080829+00:00"
+  ],
+  [
+   "71a0c347a55e90c1",
+   "2026-07-20T04:11:36.004787+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "4ca49a5a21298cfc",
-   "2026-07-18T01:02:56.481094+00:00"
-  ],
-  [
-   "99a2a562354ee787",
-   "2026-07-18T01:03:02.248357+00:00"
-  ],
-  [
-   "080abfd90c3e321f",
-   "2026-07-18T04:10:51.946568+00:00"
-  ],
-  [
-   "43e20d657cb2196b",
-   "2026-07-18T04:10:56.564339+00:00"
-  ],
   [
    "3dc9d22c6afb4f2e",
    "2026-07-18T06:25:00.122592+00:00"
@@ -2359,6 +2123,14 @@
   [
    "ee7aef1837361608",
    "2026-07-20T00:16:48.785789+00:00"
+  ],
+  [
+   "094fd1788d9a0687",
+   "2026-07-20T04:11:26.154506+00:00"
+  ],
+  [
+   "0e0b72ba6690617b",
+   "2026-07-20T04:11:30.957804+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2367,12 +2139,14 @@
   "⚽ L'Espagne remporte la Coupe du monde 2026 en battant l'Argentine 1-0 en finale au MetLife Stadium. Ferran Torres marque en prolongation (106e). Rodri est élu meilleur joueur. Deuxième titre espagnol, seize ans après 2010. (franceinfo)",
   "⚡ FLASH — Un incendie violent ravage le Var depuis le 19 juillet. Le feu a consumé 120 hectares en deux heures à Taradeau et aux Arcs-sur-Argens. 255 sapeurs-pompiers combattent les flammes. Évacuations en cours et trafic SNCF perturbé. (Le Figaro)",
   "⚽ L'Espagne remporte la Coupe du monde 2026 en battant l'Argentine 1-0 après prolongations au Metlife Stadium. C'est le deuxième titre mondial espagnol, seize ans après 2010. (L'Équipe)",
-  "⚖️ Les ossements retrouvés dans le Tarn ont été confirmés être ceux de Delphine Jubillar, disparue en décembre 2020 à l'âge de 33 ans. Son mari Cédric Jubillar a indiqué le lieu de la découverte et a avoué. (Ouest-France, 20 Minutes)"
+  "⚖️ Les ossements retrouvés dans le Tarn ont été confirmés être ceux de Delphine Jubillar, disparue en décembre 2020 à l'âge de 33 ans. Son mari Cédric Jubillar a indiqué le lieu de la découverte et a avoué. (Ouest-France, 20 Minutes)",
+  "⚡ FLASH — Les États-Unis ont mené neuf nuits de frappes contre des centres de commandement iraniens. En riposte, les Gardiens de la révolution ont frappé des avions américains en Jordanie et attaqué des pétroliers dans le détroit d'Ormuz.",
+  "⚡ FLASH — Un ferry a coulé au large du Guyana dans la nuit du 18 au 19 juillet. Le MV Barima transportait au moins 133 personnes. Soixante-sept ont été secourues, des dizaines restent portées disparues. (RFI, Ouest-France)"
  ],
  "recap_date": "2026-07-19",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-20",
-  "publies": 6
+  "publies": 8
  }
 }

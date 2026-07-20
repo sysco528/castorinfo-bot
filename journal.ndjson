@@ -3720,3 +3720,36 @@
 {"decision": "controle", "evt": "ee7aef1837361608", "motif": "ok_sim_0.16", "ts": "2026-07-20T00:16:48+00:00"}
 {"decision": "publie", "empreinte": "01b6b2a52a911c22", "post_id": "2078997520882274725", "carte": true, "texte": "⚽ L'Espagne remporte la Coupe du monde 2026 en battant l'Argentine 1-0 après prolongations au Metlife Stadium. C'est le deuxième titre mondial espagnol, seize ans après 2010. (L'Équipe)", "ts": "2026-07-20T00:16:49+00:00"}
 {"decision": "publie", "empreinte": "65522af05191190a", "post_id": "2078997537474900305", "carte": true, "texte": "⚖️ Les ossements retrouvés dans le Tarn ont été confirmés être ceux de Delphine Jubillar, disparue en décembre 2020 à l'âge de 33 ans. Son mari Cédric Jubillar a indiqué le lieu de la découverte et a avoué. (Ouest-France, 20 Minutes)", "ts": "2026-07-20T00:16:53+00:00"}
+{"decision": "abandon_attente", "evt": "dd98645ea1485e23", "categorie": "international", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "df8387976f4fd361", "categorie": "international", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "6d12a7f05b913283", "categorie": "justice", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "ec1433abb6b1ce82", "categorie": "international", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "f231b55f3362078e", "categorie": "international", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "27139e749a5eb749", "categorie": "international", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "8471e15f6b491ed4", "categorie": "sante", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "3a94d465658af538", "categorie": "meteo_catastrophe", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "fb20414f5fbca6dc", "categorie": "economie", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "566af28e97838b9f", "categorie": "politique", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "387c91045d245022", "categorie": "sport", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "26c3892c695bb5c9", "categorie": "meteo_catastrophe", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "e9715e1129e49a69", "categorie": "faits_divers", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "f075339d253b58a1", "categorie": "sport", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "95710fe540183e1a", "categorie": "sante", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "abandon_attente", "evt": "8dceb76ee834104c", "categorie": "international", "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "publier", "evt": "d8be4a66ef04e213", "score": 100, "categorie": "sport", "sensible": false, "confiance": 95, "sources": ["France 24", "RFI"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "attente", "evt": "961d57956a8fdd4e", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["France 24"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "attente", "evt": "3b625b742bea158e", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "publier", "evt": "0e0b72ba6690617b", "score": 93, "categorie": "faits_divers", "sensible": true, "confiance": 85, "sources": ["RFI", "Ouest-France"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "publier", "evt": "094fd1788d9a0687", "score": 98, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Le Figaro", "France 24", "Ouest-France"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "publier", "evt": "1f9eb2ea2e5e3199", "score": 82, "categorie": "politique", "sensible": false, "confiance": 92, "sources": ["RFI"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "publier", "evt": "373758b2e10a9d01", "score": 83, "categorie": "economie", "sensible": false, "confiance": 90, "sources": ["France 24"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "attente", "evt": "6d64b722cfd155f9", "score": 81, "categorie": "international", "sensible": true, "confiance": 82, "sources": ["RFI"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "attente", "evt": "c72498c41612f982", "score": 80, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "publier", "evt": "813fd9e5145972c9", "score": 78, "categorie": "culture", "sensible": false, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "attente", "evt": "4e256d487ecb24fa", "score": 84, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "attente", "evt": "39e3508d2e7cf680", "score": 79, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-20T04:11:16+00:00"}
+{"decision": "controle", "evt": "d8be4a66ef04e213", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-20T04:11:20+00:00"}
+{"decision": "controle", "evt": "094fd1788d9a0687", "motif": "ok_sim_0.43+alerte_retrogradee", "ts": "2026-07-20T04:11:26+00:00"}
+{"decision": "controle", "evt": "0e0b72ba6690617b", "motif": "ok_sim_0.44", "ts": "2026-07-20T04:11:30+00:00"}
+{"decision": "publie", "empreinte": "4fde782df30526cd", "post_id": "2079056586149151175", "carte": true, "texte": "⚡ FLASH — Les États-Unis ont mené neuf nuits de frappes contre des centres de commandement iraniens. En riposte, les Gardiens de la révolution ont frappé des avions américains en Jordanie et attaqué des pétroliers dans le détroit d'Ormuz.", "ts": "2026-07-20T04:11:32+00:00"}
+{"decision": "publie", "empreinte": "71a0c347a55e90c1", "post_id": "2079056602624340109", "carte": true, "texte": "⚡ FLASH — Un ferry a coulé au large du Guyana dans la nuit du 18 au 19 juillet. Le MV Barima transportait au moins 133 personnes. Soixante-sept ont été secourues, des dizaines restent portées disparues. (RFI, Ouest-France)", "ts": "2026-07-20T04:11:36+00:00"}
