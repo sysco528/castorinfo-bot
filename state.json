@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/coupe-du-monde/enquete-franceinfo-rien-n-est-mis-en-scene-tout-est-authentique-comment-sont-fabriquees-les-videos-coulisses-de-l-equipe-de-france-qui-cartonnent-sur-les-reseaux-sociaux_8106110.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/pourquoi-cette-demi-finale-france-espagne-est-consideree-comme-la-finale-avant-l-heure-de-cette-coupe-du-monde-2026_8106263.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/la-ligue-contre-le-cancer-veut-introduire-le-principe-de-precaution-sanitaire-dans-la-constitution-francaise-qui-empecherait-de-voter-des-lois-pouvant-nuire-a-la-sante_8107217.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/france/14-juillet/video-explosions-de-lumiere-statue-de-la-liberte-et-drones-equipes-de-led-revivez-le-traditionnel-feu-d-artifice-du-14-juillet-a-paris_8107178.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/une-remuneration-correspondant-a-20-de-la-valeur-des-cargaisons-en-quoi-consiste-le-peage-dans-le-detroit-d-ormuz-decrete-par-donald-trump_8107163.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pour-securiser-l-alimentation-electrique-de-la-corse-cet-ete-edf-appelle-les-habitants-a-la-sobriete-pendant-la-canicule_8107208.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-on-prend-en-photo-toute-voiture-suspecte-apres-l-incendie-a-fontainebleau-des-riverains-aux-aguets-pour-proteger-la-foret-des-pyromanes_8114606.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-pense-que-ce-soir-nous-n-aurons-plus-une-maison-pour-nous-coucher-deux-communes-touchees-par-un-incendie-dans-le-var_8114354.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/podium-classement-final-de-paul-seixas-victoire-francaise-les-cinq-questions-avant-la-troisieme-et-derniere-semaine-du-tour-de-france-2026_8114039.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/royaume-uni/andy-burnham-nomme-officiellement-premier-ministre-du-royaume-uni-par-le-roi-charles-iii_8115059.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/royaume-uni/andy-burnham-nomme-officiellement-premier-ministre-du-royaume-uni-par-le-roi-charles-iii_8115059.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-des-internautes-filment-les-automobilistes-qui-jettent-leurs-megots-sur-la-route_8115086.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/coupe-du-monde/donald-trump-hue-echauffourees-argentins-meprisants-cinq-sequences-a-retenir-apres-la-victoire-de-l-espagne-face-a-l-argentine-en-finale-de-la-coupe-du-monde-2026_8114846.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-maintenue-mardi-pour-six-departements-mais-s-achevera-dans-la-soiree-pour-le-gard-et-les-bouches-du-rhone_8115194.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -402,15 +402,6 @@
    "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/la-force-collective-de-l-espagne-etait-beaucoup-plus-forte-l-analyse-d-herve-renard-apres-l-elimination-des-bleus-20260715",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-espagne-y-avait-il-penalty-sur-le-duel-entre-lucas-digne-et-lamine-yamal-20260715",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/zinedine-zidane-doit-il-succeder-a-didier-deschamps-comme-selectionneur-de-l-equipe-de-france-20260715",
-   "https://www.lefigaro.fr/international/il-a-repousse-l-adhesion-de-l-ukraine-de-15-ans-zelensky-arrache-le-bouchon-de-sa-bouteille-au-mepris-des-normes-de-l-ue-et-amuse-les-internautes-20260715",
-   "https://www.lefigaro.fr/international/comment-la-france-et-l-italie-ont-torpille-des-sanctions-contre-les-combattants-russes-en-ukraine-20260714",
-   "https://www.lefigaro.fr/international/guerre-en-ukraine-trois-morts-dans-des-attaques-russes-sur-des-navires-dans-le-sud-et-en-mer-noire-20260715",
-   "https://www.lefigaro.fr/conjoncture/livret-a-la-banque-de-france-propose-de-relever-son-taux-a-1-7-en-aout-20260715",
-   "https://www.lefigaro.fr/international/les-etats-unis-ont-lance-la-premiere-attaque-de-drones-marins-d-attaque-unidirectionnels-contre-un-port-iranien-20260713",
-   "https://www.lefigaro.fr/international/la-russie-et-les-etats-unis-ont-decide-de-poursuivre-leur-cooperation-spatiale-jusqu-en-2030-20260715",
    "https://www.lefigaro.fr/actualite-france/pedocriminalite-pres-d-un-millier-de-dossiers-prioritaires-identifies-annonce-gerald-darmanin-20260715",
    "https://www.lefigaro.fr/nice/j-ai-eu-la-chance-de-pouvoir-la-sauver-ce-pere-qui-traque-inlassablement-les-predateurs-sexuels-de-sa-fille-pour-les-faire-interpeller-20260616",
    "https://www.lefigaro.fr/international/cryptomonnaies-immobilier-gisements-miniers-l-ahurissante-corruption-de-la-famille-trump-20260715",
@@ -701,16 +692,18 @@
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/jour-le-plus-long-deschamps-endeuille-defaite-nationale-et-gout-d-inacheve-le-recit-de-la-campagne-des-bleus-au-mondial-20260720",
    "https://www.lefigaro.fr/decideurs/management/il-n-a-jamais-cherche-a-etre-le-heros-du-vestiaire-la-recette-du-leadership-de-didier-deschamps-decrypte-par-des-managers-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/rugueux-garde-du-corps-de-messi-qui-est-leandro-paredes-l-argentin-qui-a-empoisonne-la-finale-de-coupe-du-monde-20260720",
-   "https://www.lefigaro.fr/musique/fade-americanisation-le-spectacle-de-madonna-et-shakira-a-la-mi-temps-de-la-finale-du-mondial-sous-les-critiques-20260720"
+   "https://www.lefigaro.fr/musique/fade-americanisation-le-spectacle-de-madonna-et-shakira-a-la-mi-temps-de-la-finale-du-mondial-sous-les-critiques-20260720",
+   "https://www.lefigaro.fr/secteur/high-tech/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-accord-entre-deputes-et-senateurs-le-vote-definitif-prevu-ce-mardi-20260720",
+   "https://www.lefigaro.fr/actualite-france/etes-vous-favorables-a-l-interdiction-des-reseaux-sociaux-pour-les-moins-de-15-ans-20260720",
+   "https://www.lefigaro.fr/marseille/on-est-le-dernier-rempart-de-la-republique-vise-par-la-dz-mafia-le-maire-d-ales-refuse-de-ceder-20260720",
+   "https://www.lefigaro.fr/lyon/helicoptere-et-tirs-de-sommation-quatre-interpellations-en-isere-apres-une-traque-pres-de-l-a43-20260720",
+   "https://www.lefigaro.fr/conjoncture/il-y-a-un-serieux-bug-lorsqu-il-s-agit-d-acheter-une-propriete-a-san-francisco-le-boom-de-l-ia-fait-fuir-les-classes-moyennes-20260718",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-le-retour-des-heros-espagnols-la-presse-etrille-l-argentine-leandro-paredes-le-tres-mauvais-perdant-20260720",
+   "https://tvmag.lefigaro.fr/programme-tv/audiences-tv/audiences-12-millions-de-telespectateurs-devant-la-victoire-de-l-espagne-en-finale-de-la-coupe-du-monde-2026-20260720",
+   "https://www.lefigaro.fr/sports/football/foot-kevin-keegan-double-ballon-d-or-anglais-est-mort-a-l-age-de-75-ans-20260720",
+   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-quel-bilan-pour-les-bleus-posez-vos-questions-a-notre-envoye-special-20260719"
   ],
   "https://www.france24.com/fr/rss": [
-   "b121632a-7f0f-11f1-a159-f7f6ccbec7bf",
-   "67214116-7f44-11f1-b164-f769d31876e8",
-   "64aa122a-7f5b-11f1-8a4b-318e9371d6ce",
-   "6ecc3ee0-7c59-11f1-b0cc-d78813e4e836",
-   "865911d4-7f63-11f1-8738-7d6ed4daf13c",
-   "1e54977a-7f63-11f1-8175-abb95eb81370",
-   "47942070-7f62-11f1-a304-318e9371d6ce",
    "03af9ba0-7f62-11f1-a5ea-318e9371d6ce",
    "9a40e822-7f61-11f1-ba3b-b921d25d6d37",
    "b1ac6752-7f4d-11f1-8e2c-8711df3fd8b3",
@@ -1003,7 +996,14 @@
    "5cc28dba-842b-11f1-b655-f763b6582da7",
    "41b7fb48-842d-11f1-9626-f763b6582da7",
    "6049dcf8-8427-11f1-bd84-f763b6582da7",
-   "e46602d0-8429-11f1-ae3f-41a954a1f7a0"
+   "e46602d0-8429-11f1-ae3f-41a954a1f7a0",
+   "5d7a2f6e-8445-11f1-a914-5f1325aafd8a",
+   "ca6fbb02-843b-11f1-802d-a73c52fd5ab3",
+   "d7c83e32-8440-11f1-b030-b739683e2996",
+   "94c66ab0-8430-11f1-af97-1f429402a757",
+   "0b16d224-8439-11f1-b6d4-a73c52fd5ab3",
+   "8c849c60-8434-11f1-9292-1f429402a757",
+   "28080e36-8437-11f1-acd4-a73c52fd5ab3"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1191,7 +1191,8 @@
    "ba0d9392-83c8-11f1-ad79-454c1b097d57",
    "dba56132-83dd-11f1-b9bf-75e5d4ab5259",
    "1f969b46-83ce-11f1-ad99-454c1b097d57",
-   "77d6a2ca-83b9-11f1-811c-037bb3f62d91"
+   "77d6a2ca-83b9-11f1-811c-037bb3f62d91",
+   "e9d4b26c-842d-11f1-ab62-c34bd9523b1c"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1870,6 +1871,32 @@
   },
   {
    "faits": [
+    "L'Espagne a remporté la finale de la Coupe du monde 2026 face à l'Argentine",
+    "La finale s'est déroulée dimanche 19 juillet à New York",
+    "Un affrontement a opposé des joueurs de la Roja et de l'Albiceleste après le match",
+    "Les champions argentins ont ostensiblement tourné le dos aux Espagnols lors de la remise du trophée par Donald Trump",
+    "Donald Trump a reçu des huées"
+   ],
+   "qui": "Espagne, Argentine, Donald Trump",
+   "ou": "New York",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "a96d01a99edb93ca",
+   "score": 98,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-20T14:55:32.874629+00:00"
+  },
+  {
+   "faits": [
     "Découverte et identification formelle d'ossements de Delphine Aussaguel",
     "Delphine Aussaguel est l'épouse de Cédric Jubillar",
     "Cédric Jubillar a guidé les enquêteurs sur les lieux après être passé aux aveux",
@@ -1897,6 +1924,33 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-20T10:29:58.258685+00:00"
+  },
+  {
+   "faits": [
+    "Andy Burnham a été nommé Premier ministre du Royaume-Uni lundi 20 juillet 2026",
+    "Il a été nommé par le roi Charles III",
+    "Il succède à Keir Starmer qui a démissionné",
+    "Andy Burnham promet une 'réinitialisation' complète du pays",
+    "Il annonce un 'nouveau modèle politique' et un 'nouveau modèle économique'",
+    "Il envisage un plan sur dix ans pour 'changer profondément le Royaume-Uni'",
+    "Il promeut une politique plus collaborative et locale avec un recours aux services publics"
+   ],
+   "qui": "Andy Burnham, roi Charles III, Keir Starmer",
+   "ou": "Royaume-Uni",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "151a7dff4d97d14a",
+   "score": 97,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-20T14:55:32.874633+00:00"
   },
   {
    "faits": [
@@ -2000,6 +2054,50 @@
   },
   {
    "faits": [
+    "Météo-France annonce que très fortes chaleurs se maintiennent autour de la Méditerranée jusqu'à mardi soir",
+    "Vigilance orange maintenue mardi pour six départements",
+    "Le Gard et les Bouches-du-Rhône passeront en vigilance jaune mardi à 22 heures"
+   ],
+   "qui": "Météo-France",
+   "ou": "France (région Méditerranéenne, Gard, Bouches-du-Rhône)",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "9e88e705de3df4c6",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T14:55:32.874641+00:00"
+  },
+  {
+   "faits": [
+    "La Coupe du monde 2026 s'est déroulée aux États-Unis",
+    "La compétition comprenait 104 matches",
+    "La finale s'est déroulée à New York dimanche"
+   ],
+   "qui": null,
+   "ou": "États-Unis",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "6b6b8d712c77a7f0",
+   "score": 87,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T14:55:32.874642+00:00"
+  },
+  {
+   "faits": [
     "Plusieurs départs de feux ont eu lieu dans le Var dimanche 19 juillet",
     "La progression des feux a été extrêmement rapide sous l'effet du vent",
     "Plusieurs habitations ont été touchées dans les secteurs de Taradeau et des Arcs",
@@ -2022,31 +2120,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T12:36:38.466796+00:00"
-  },
-  {
-   "faits": [
-    "Les Etats-Unis ont mené des frappes sur l'Iran pour la neuvième nuit consécutive",
-    "Un média d'État iranien rapporte de nouvelles frappes américaines sur Bouchehr où se trouve une centrale nucléaire",
-    "Le Koweït rapporte subir de nouvelles attaques de drones iraniens"
-   ],
-   "qui": "États-Unis, Iran, Koweït",
-   "ou": "Moyen-Orient (Bouchehr, Iran)",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Les dégâts spécifiques des frappes sur la centrale nucléaire",
-    "Le nombre exact de victimes des attaques au Koweït"
-   ],
-   "importance": 86,
-   "empreinte": "6d6f905575314fff",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T07:37:24.632660+00:00"
   },
   {
    "faits": [
@@ -2114,6 +2187,52 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T10:29:58.258690+00:00"
+  },
+  {
+   "faits": [
+    "Kevin Keegan, double Ballon d'or anglais, est décédé à l'âge de 75 ans lundi 20 juillet 2026",
+    "Il était ancien joueur de Liverpool",
+    "Il a été sélectionneur de l'équipe d'Angleterre à la fin des années 1990",
+    "Il luttait contre un cancer"
+   ],
+   "qui": "Kevin Keegan",
+   "ou": "Royaume-Uni",
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "d748b4f6a0fe6972",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T14:55:32.873593+00:00"
+  },
+  {
+   "faits": [
+    "Députés et sénateurs réunis en commission mixte paritaire sont parvenus à s'entendre sur une proposition de loi",
+    "La proposition de loi vise à protéger les mineurs des risques de l'utilisation des réseaux sociaux",
+    "L'interdiction des réseaux sociaux aux moins de 15 ans est envisagée",
+    "Un vote définitif est prévu le mardi 21 juillet 2026"
+   ],
+   "qui": "Parlement français (députés et sénateurs)",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "975f7b6eba693a79",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-20T14:55:32.874650+00:00"
   },
   {
    "faits": [
@@ -2207,78 +2326,6 @@
   },
   {
    "faits": [
-    "Marco Rubio félicite le Liban pour sa démarche vers la paix après une rencontre avec Joseph Aoun",
-    "Les deux hommes ont discuté d'un accord-cadre élaboré le 26 juin à Washington",
-    "Cet accord vise à mettre fin à l'état de guerre entre Israël et le Liban"
-   ],
-   "qui": "Marco Rubio, Joseph Aoun",
-   "ou": "Liban, Washington",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "849a210902e764bf",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T07:37:36.542388+00:00"
-  },
-  {
-   "faits": [
-    "L'équipe de France a atteint le dernier carré des trois dernières grandes compétitions",
-    "Les Bleus seront candidats au titre de l'Euro 2028",
-    "Les Bleus seront candidats au titre du Mondial 2030",
-    "L'équipe possède une charnière fiable",
-    "L'attaque de l'équipe est encore jeune",
-    "L'entrejeu nécessite une rénovation",
-    "Il faut trouver de nouveaux latéraux"
-   ],
-   "qui": "Équipe de France de football",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "e28f6a29a46185d9",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T07:37:36.542392+00:00"
-  },
-  {
-   "faits": [
-    "Plus de 400 drones ukrainiens ont été lancés vers Moscou et sa région pendant la nuit",
-    "Le maire de Moscou affirme que la plupart ont été neutralisés par les forces de défense aérienne"
-   ],
-   "qui": "Ukraine, Russie, Sergueï Sobianine",
-   "ou": "Moscou, Russie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 78,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Le nombre exact de drones neutralisés",
-    "Les dégâts causés à Moscou"
-   ],
-   "importance": 82,
-   "empreinte": "2e31689a9cc0e3ef",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T07:37:24.632869+00:00"
-  },
-  {
-   "faits": [
     "Donald Trump a assisté à la finale de la Coupe du monde",
     "Donald Trump a été hué à la finale",
     "C'était le seul match du Mondial auquel Trump a assisté",
@@ -2301,53 +2348,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T10:29:58.258699+00:00"
-  },
-  {
-   "faits": [
-    "Le président gabonais Brice Oligui Nguema effectue une visite d'État de trois jours en France",
-    "Il est reçu par Emmanuel Macron",
-    "Les discussions portent sur la transformation locale du manganèse dont le Gabon est un principal producteur",
-    "Les discussions incluent l'avenir du camp De Gaulle, base militaire française à Libreville"
-   ],
-   "qui": "Brice Oligui Nguema, Emmanuel Macron",
-   "ou": "France, Gabon, Libreville",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "9a167a62c76da72a",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T07:37:36.542395+00:00"
-  },
-  {
-   "faits": [
-    "François-Noël Buffet est proposé comme Défenseur des droits",
-    "Le Planning familial déclore cette nomination 'une provocation'",
-    "Buffet s'est positionné contre le droit des personnes étrangères",
-    "Buffet s'est abstenu sur l'avortement",
-    "Buffet s'est opposé au droit des personnes LGBTQIA+"
-   ],
-   "qui": "François-Noël Buffet, Planning familial, Sarah Durocher",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 74,
-   "empreinte": "06284fe295c3055e",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T07:37:24.632789+00:00"
   },
   {
    "faits": [
@@ -2476,28 +2476,23 @@
   },
   {
    "faits": [
-    "Reporters sans frontières accuse la mairie d'Annecy d'avoir tenté d'étouffer une affaire de viol",
-    "L'accusation vise le premier adjoint au maire d'Annecy",
-    "Des membres de l'équipe municipale auraient acheté massivement des numéros du magazine 'L'Essor Savoyard' en juin"
+    "12 millions de téléspectateurs ont regardé la finale de la Coupe du monde 2026 en France dimanche 19 juillet"
    ],
-   "qui": "Mairie d'Annecy, Reporters sans frontières, magazine L'Essor Savoyard",
-   "ou": "Annecy",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 78,
+   "qui": null,
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
    "sources": [
-    "franceinfo"
+    "Le Figaro"
    ],
-   "non_confirme": [
-    "L'identité précise du premier adjoint au maire",
-    "Les motivations exactes de l'achat massif de numéros du magazine"
-   ],
-   "importance": 70,
-   "empreinte": "0628a3159af2956c",
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "72ad87b822b64386",
    "score": 81,
-   "fiab_max": 90,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-20T07:37:24.632742+00:00"
+   "depuis": "2026-07-20T14:55:32.874666+00:00"
   },
   {
    "faits": [
