@@ -2,12 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/coupe-du-monde/directs/direct-france-espagne-les-bleus-en-quete-d-une-cinquieme-finale-de-coupe-du-monde-suivez-avec-nous-la-demi-finale-contre-la-roja-a-21-heures_8106404.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/c-est-vrai-je-l-avais-en-tete-comment-tadej-pogacar-a-pris-deux-ans-plus-tard-son-eclatante-revanche-sur-jonas-vingegaard-au-lioran_8107847.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/palestine/d-anciens-detenus-palestiniens-affirment-avoir-subi-des-violences-sexuelles-dans-des-prisons-israeliennes_8107931.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-reconnu-responsable-au-civil-d-agression-sexuelle-a-verse-5-millions-de-dollars-a-l-autrice-e-jean-carroll_8107901.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/video-tour-de-france-2026-le-resume-de-la-victoire-en-solitaire-de-tadej-pogacar-sur-la-10e-etape_8107829.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/survol-de-la-patrouille-de-france-discours-d-emmanuel-macron-les-moments-marquants-de-la-ceremonie-a-nice-pour-les-10-ans-de-l-attentat-du-14-juillet_8107928.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/moyen-orient/direct-guerre-au-moyen-orient-les-etats-unis-frappent-l-iran-pour-la-troisieme-nuit-de-suite-avant-de-retablir-un-blocus-des-ports-iraniens_8107154.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/immense-desillusion-pour-l-equipe-de-france-eliminee-par-l-espagne-en-demi-finales-de-la-coupe-du-monde_8108021.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-debut-de-l-ete-a-ete-le-plus-chaud-en-espagne-depuis-les-premiers-releves-en-1961_8107997.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +295,13 @@
    "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/qui-est-khalil-al-hayya-le-nouveau-chef-politique-du-hamas_8064602.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-deux-militaires-dans-le-var-les-resultats-des-analyses-des-ossements-retrouves-fin-mai-connus-avant-fin-juillet_8115785.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-iraniens-affirment-avoir-de-nouveau-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit_8115797.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/incendie-en-espagne-26-000-hectares-partis-en-fumee-au-nord-de-madrid_8115953.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/incendie-en-espagne-26-000-hectares-partis-en-fumee-au-nord-de-madrid_8115953.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/drogue/le-maire-d-ales-menace-par-la-dz-mafia-a-ete-exfiltre-de-son-domicile-par-le-raid-cette-nuit-apres-des-craintes-sur-la-presence-d-une-voiture-piegee_8116196.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-a-ete-victime-d-un-piratage-informatique-et-va-porter-plainte_8116145.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/musique/les-critiques-fusent-a-l-encontre-de-lfi-apres-le-concert-interrompu-de-barbara-butch-a-grenoble_8116124.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/proche-orient/liban/reportage-qui-sera-le-prochain-enleve-au-sud-du-liban-des-familles-s-inquietent-de-la-disparition-de-leurs-proches_8115890.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/harcelement/les-freres-tate-s-opposent-a-leur-extradition-vers-le-royaume-uni-qu-ils-jugent-motivee-politiquement_8116115.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/arts-expos/louvre/la-galerie-d-apollon-du-louvre-rouvre-mercredi_8116010.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -399,11 +399,21 @@
    "https://www.lemonde.fr/international/article/2026/07/20/au-royaume-uni-nigel-farage-englue-dans-un-duel-contre-le-comte-a-tete-de-poubelle_6726565_3210.html",
    "https://www.lemonde.fr/argent/article/2026/07/20/credit-immobilier-des-taux-stables-cet-ete_6726708_1657007.html",
    "https://www.lemonde.fr/afrique/article/2026/07/20/la-guinee-demande-a-la-france-la-restitution-de-manuscrits-pilles-pendant-la-colonisation_6726912_3212.html",
-   "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
+   "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/21/face-aux-etats-unis-l-iran-parie-sur-une-guerre-d-usure_6728460_3210.html",
+   "https://www.lemonde.fr/politique/article/2026/07/21/le-projet-de-loi-d-urgence-agricole-adopte-dans-la-cacophonie-par-une-assemblee-nationale-fracturee-sur-les-pesticides_6728117_823448.html",
+   "https://www.lemonde.fr/afrique/live/2026/07/21/ebola-en-rdc-posez-vos-questions-a-nos-journalistes-morgane-le-cam-et-philemon-barbier-de-retour-de-reportage-dans-l-epicentre-de-l-epidemie_6728461_3212.html",
+   "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html",
+   "https://www.lemonde.fr/politique/article/2026/07/21/a-grenoble-la-gauche-se-divise-apres-l-interruption-du-concert-de-barbara-butch-boycottee-par-des-militants-locaux-lfi_6728356_823448.html",
+   "https://www.lemonde.fr/campus/article/2026/07/21/un-corps-noir-dans-un-espace-blanc-c-est-un-accident-industriel-la-peau-un-nuancier-de-discriminations-au-travail_6728152_4401467.html",
+   "https://www.lemonde.fr/afrique/article/2026/07/21/certains-ont-ete-licencies-d-autres-sont-expulses-de-leur-logement-des-dizaines-de-milliers-d-etrangers-chasses-d-afrique-du-sud_6728223_3212.html",
+   "https://www.lemonde.fr/international/article/2026/07/21/andy-burnham-entre-a-downing-street-et-choisit-l-ex-ministre-de-la-defense-john-healey-comme-chancelier-de-l-echiquier_6728014_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/21/donald-trump-impose-au-canada-de-nouveaux-droits-de-douane-de-50-sur-plusieurs-produits_6728016_3210.html",
+   "https://www.lemonde.fr/une-balle-dans-le-pied/article/2026/07/21/la-coupe-du-monde-de-la-fifa-plus-que-celle-du-football_6728360_6606027.html",
+   "https://www.lemonde.fr/m-styles/article/2026/07/21/anna-wintour-et-andre-leon-talley-une-rupture-brutale_6728190_4497319.html",
+   "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-castex-le-maire-leclerc-pigasse-les-vraies-fausses-ambitions-des-invites-surprises-20260716",
-   "https://www.lefigaro.fr/politique/presidentielle-2027-que-disent-les-derniers-sondages-20260710",
    "https://www.lefigaro.fr/meteo/pare-brise-pulverises-batiments-endommages-en-ardeche-les-impressionnantes-images-de-grelons-geants-20260716",
    "https://www.lefigaro.fr/actualite-france/kill-pill-mode-d-emploi-les-travaux-en-cours-pour-preparer-l-application-du-texte-sur-l-aide-a-mourir-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-des-joueurs-deploient-une-banderole-les-malouines-sont-argentines-le-president-milei-tempere-20260716",
@@ -701,7 +711,9 @@
    "https://www.lefigaro.fr/international/guerre-au-moyen-orient-sous-pression-pour-desarmer-le-hezbollah-le-president-libanais-joseph-aoun-recu-par-donald-trump-ce-mardi-a-la-maison-blanche-20260721",
    "https://www.lefigaro.fr/conjoncture/royaume-uni-le-nouveau-gouvernement-annonce-la-suppression-de-la-tva-sur-l-electricite-des-menages-l-hiver-prochain-20260721",
    "https://www.lefigaro.fr/actualite-france/les-50-decisions-qui-ont-coule-la-france-le-grand-renoncement-securitaire-et-judiciaire-20260721",
-   "https://www.lefigaro.fr/secteur/high-tech/les-victimes-d-arnaques-en-ligne-ont-perdu-jusqu-a-114-1-milliards-de-dollars-en-asie-et-dans-le-pacifique-l-an-dernier-20260721"
+   "https://www.lefigaro.fr/secteur/high-tech/les-victimes-d-arnaques-en-ligne-ont-perdu-jusqu-a-114-1-milliards-de-dollars-en-asie-et-dans-le-pacifique-l-an-dernier-20260721",
+   "https://www.lefigaro.fr/marseille/le-maire-d-ales-menace-de-mort-par-la-dz-mafia-exfiltre-de-son-domicile-par-le-raid-20260721",
+   "https://www.lefigaro.fr/international/liban-l-armee-annonce-avoir-entame-son-deploiement-dans-les-zones-pilotes-du-sud-du-pays-20260721"
   ],
   "https://www.france24.com/fr/rss": [
    "2ae11a44-7fa5-11f1-999a-8b28b4c633f0",
@@ -1884,6 +1896,178 @@
  "evenements_attente": [
   {
    "faits": [
+    "Le maire d'Alès (élu LR) a reçu jeudi une enveloppe contenant deux balles de 9 mm et un courrier menaçant signé par la DZ Mafia",
+    "Des tags menaçants ont été découverts sur la clôture du domicile du maire",
+    "Le maire a été exfiltré de son domicile par le Raid dans la nuit du 20 au 21 juillet suite à des craintes concernant une voiture piégée",
+    "Le maire a fait l'objet de menaces réitérées"
+   ],
+   "qui": "Maire d'Alès (LR) ; DZ Mafia",
+   "ou": "Alès",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "présence confirmée d'une voiture piégée"
+   ],
+   "importance": 75,
+   "empreinte": "6ddf5dd92b160310",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-21T10:06:29.027038+00:00"
+  },
+  {
+   "faits": [
+    "Des Libanais sont arrêtés ou enlevés par l'armée israélienne",
+    "Ces personnes sont détenues sans que leurs proches aient de leurs nouvelles",
+    "L'armée israélienne a annoncé avoir entamé son déploiement dans les zones pilotes du sud du Liban",
+    "Ce déploiement est prévu par l'accord-cadre signé en juin 2026 entre le Liban et Israël"
+   ],
+   "qui": "Armée israélienne ; gouvernement libanais",
+   "ou": "Sud du Liban",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "nombre exact de disparus",
+    "conditions de détention"
+   ],
+   "importance": 78,
+   "empreinte": "9a2e8f6fb3ff37c0",
+   "score": 97,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-21T10:06:29.027041+00:00"
+  },
+  {
+   "faits": [
+    "Le concert de la DJ Barbara Butch prévu samedi 18 juillet à Grenoble a été interrompu",
+    "Barbara Butch avait signé une tribune de soutien à la proposition de loi visant à lutter contre les formes renouvelées d'antisémitisme",
+    "Des militants pro-palestiniens ont appelé au boycott de l'événement",
+    "Environ une centaine de militants pro-palestiniens ont manifesté contre sa présence",
+    "La maire écologiste Laurence Ruffin dénonce une stratégie d'intimidation des élus insoumis"
+   ],
+   "qui": "Barbara Butch ; militants pro-palestiniens ; Laurence Ruffin (maire) ; élus LFI",
+   "ou": "Grenoble",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "408bf820eb98cb02",
+   "score": 96,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-21T10:06:29.027044+00:00"
+  },
+  {
+   "faits": [
+    "Andy Burnham, ancien maire du Grand Manchester, est devenu premier ministre britannique",
+    "Il remplace Keir Starmer",
+    "Burnham est le septième premier ministre britannique depuis 2016",
+    "John Healey a été nommé chancelier de l'Échiquier",
+    "Ed Miliband est devenu ministre des affaires étrangères",
+    "Burnham promet de distribuer le pouvoir partout dans le pays"
+   ],
+   "qui": "Andy Burnham ; John Healey ; Ed Miliband",
+   "ou": "Royaume-Uni",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "2b61502d440cdfd0",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T10:06:29.027046+00:00"
+  },
+  {
+   "faits": [
+    "La galerie d'Apollon du Louvre rouvre mercredi après neuf mois de fermeture",
+    "La fermeture a suivi un spectaculaire cambriolage en octobre 2025",
+    "Huit joyaux de la Couronne de France ont été dérobés lors du cambriolage",
+    "Ces joyaux sont toujours introuvables",
+    "La galerie rouvre sans vitrines ni bijoux exposés"
+   ],
+   "qui": "Musée du Louvre",
+   "ou": "Paris",
+   "categorie": "faits_divers",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "31296772c83a03e5",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T10:06:29.027047+00:00"
+  },
+  {
+   "faits": [
+    "Plus de 5 millions de réfugiés ukrainiens ont été accueillis en Europe depuis le début de la guerre",
+    "Le nombre total de réfugiés ukrainiens dans le monde (hors Russie) s'élève à 5,762 millions au 30 avril 2026",
+    "5,213 millions de réfugiés ukrainiens sont enregistrés en Europe",
+    "549 000 réfugiés ukrainiens sont en dehors du continent"
+   ],
+   "qui": "HCR ; gouvernement ukrainien",
+   "ou": "Europe ; Ukraine",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "21629bbc1c9df2b2",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T10:06:29.027049+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump impose au Canada de nouveaux droits de douane de 50 % sur plusieurs produits",
+    "Washington justifie cette décision par des conflits avec Ottawa sur les produits laitiers, l'alcool et l'automobile",
+    "Le premier ministre canadien Mark Carney affirme que le Canada est prêt à approfondir les discussions avec les États-Unis"
+   ],
+   "qui": "Donald Trump ; Mark Carney",
+   "ou": "États-Unis ; Canada",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "79413f192c55defe",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T10:06:29.027051+00:00"
+  },
+  {
+   "faits": [
     "Khalil al-Hayya a été élu à la tête du Hamas en tant que successeur de Yahya Sinouar",
     "Al-Hayya est négociateur du cessez-le-feu avec Israël",
     "Le Hamas est décrit comme décapité, isolé et aux marges de manœuvre très limitées"
@@ -1903,6 +2087,107 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-21T07:25:01.869695+00:00"
+  },
+  {
+   "faits": [
+    "Les frappes américaines se poursuivent en Iran",
+    "Le pouvoir iranien évite pour l'instant une confrontation totale",
+    "L'Iran parie sur une guerre d'usure face aux États-Unis",
+    "L'Iran menace de provoquer une perturbation énergétique mondiale pour contraindre Washington à revoir sa stratégie"
+   ],
+   "qui": "Iran ; États-Unis",
+   "ou": "Iran",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "ampleur réelle des perturbations énergétiques menacées"
+   ],
+   "importance": 82,
+   "empreinte": "f7729befdbec4142",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T10:06:29.027054+00:00"
+  },
+  {
+   "faits": [
+    "Un projet de loi d'urgence agricole a été adopté par l'Assemblée nationale",
+    "L'adoption a eu lieu dans la nuit de lundi 20 à mardi 21 juillet",
+    "Le vote s'est fait par 296 voix pour et 224 voix contre",
+    "Les voix pour proviennent majoritairement de la droite et de l'extrême droite",
+    "Le Sénat a ajouté une mesure permettant la réautorisation dérogatoire de deux néonicotinoïdes",
+    "L'Assemblée nationale était fracturée sur la question des pesticides"
+   ],
+   "qui": "Assemblée nationale ; gouvernement français",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "f69800af7706deea",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T10:06:29.027055+00:00"
+  },
+  {
+   "faits": [
+    "Une épidémie d'Ebola due à la souche Bundibugyo s'est déclarée à Mongbwalu dans l'est de la RDC",
+    "L'épidémie progresse rapidement",
+    "Des journalistes du Monde ont effectué un reportage dans l'épicentre de l'épidémie"
+   ],
+   "qui": null,
+   "ou": "Mongbwalu, République démocratique du Congo",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "nombre de cas",
+    "nombre de décès",
+    "taux de progression exact"
+   ],
+   "importance": 75,
+   "empreinte": "38782aec5a1968e2",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T10:06:29.027057+00:00"
+  },
+  {
+   "faits": [
+    "Au moins 67 000 ressortissants africains ont quitté l'Afrique du Sud depuis le 27 juin 2026",
+    "Un mouvement de lutte contre l'immigration illégale sème la terreur dans les townships",
+    "Des étrangers ont été licenciés de leur emploi",
+    "Des étrangers ont été expulsés de leur logement"
+   ],
+   "qui": null,
+   "ou": "Afrique du Sud",
+   "categorie": "faits_divers",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "nombre réel de départs qui pourrait être bien plus élevé"
+   ],
+   "importance": 70,
+   "empreinte": "fb1484b6aca8ee85",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T10:06:29.027059+00:00"
   },
   {
    "faits": [
@@ -1974,6 +2259,32 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T07:24:50.247130+00:00"
+  },
+  {
+   "faits": [
+    "Andrew Tate et Tristan Tate s'opposent à leur extradition vers le Royaume-Uni",
+    "Ils jugent l'extradition motivée politiquement",
+    "Andrew Tate fait face à 42 chefs d'accusation",
+    "Tristan Tate fait face à 17 chefs d'accusation",
+    "Les frères sont poursuivis notamment pour des viols"
+   ],
+   "qui": "Andrew Tate ; Tristan Tate",
+   "ou": null,
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "issus de quel tribunal ou juridiction"
+   ],
+   "importance": 55,
+   "empreinte": "5fca5d7570c27cfe",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T10:06:29.027064+00:00"
   },
   {
    "faits": [
@@ -2068,6 +2379,32 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T07:24:50.247600+00:00"
+  },
+  {
+   "faits": [
+    "Le Rassemblement national a été victime d'un piratage informatique",
+    "Le RN va porter plainte",
+    "Selon une source au sein du parti, il n'y a pas de données personnelles volées à ce stade",
+    "Le parti ne précise ni la nature ni l'origine de l'attaque"
+   ],
+   "qui": "Rassemblement national",
+   "ou": null,
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "nature et origine de l'attaque",
+    "étendue réelle des données compromises"
+   ],
+   "importance": 60,
+   "empreinte": "d1497aa0eb3748ab",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T10:06:29.027068+00:00"
   },
   {
    "faits": [
