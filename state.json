@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/politique/front-national/il-y-a-urgence-a-avoir-les-idees-claires-le-rn-se-penche-sur-son-programme-pour-la-presidentielle_8108420.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/tactique-arbitrage-fraicheur-physique-cinq-questions-sur-la-defaite-de-l-equipe-de-france-face-a-l-espagne-en-demi-finale-de-la-coupe-du-monde_8108492.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/patios-loggias-vegetalisees-jardin-interieur-a-la-decouverte-d-un-immeuble-bioclimatique-concu-pour-resister-naturellement-a-la-chaleur_8107808.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/justice-proces/proces-des-assistants-d-eurodeputes-du-front-national-le-parquet-general-ne-se-pourvoit-pas-en-cassation_8108705.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/euthanasie/loi-sur-la-fin-de-vie-francois-xavier-bellamy-denonce-une-regression-incroyable_8108699.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/monde/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-41-morts-selon-un-nouveau-bilan-des-autorites_8116967.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-approuvent-une-mesure-controversee-instaurant-la-perpetuite-pour-les-viols-en-serie-sur-les-moins-de-15-ans_8116973.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-limoge-le-commandant-en-chef-de-son-armee_8117009.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/palestine/gaza/arrestation-de-la-flottille-pour-gaza-par-israel-le-parquet-national-antiterroriste-francais-ouvre-une-nouvelle-enquete-pour-tortures_8116964.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/palestine/gaza/arrestation-de-la-flottille-pour-gaza-par-israel-le-parquet-national-antiterroriste-francais-ouvre-une-nouvelle-enquete-pour-tortures_8116964.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/cinema/la-jeune-actrice-kaylee-hottle-connu-pour-ses-roles-dans-godzilla-meurt-a-18-ans-dans-un-accident-de-voiture_8117033.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/protoxyde-d-azote-rodeos-urbains-free-parties-le-parlement-adopte-definitivement-le-projet-de-loi-ripost-sur-la-tranquillite-publique_8117027.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -414,7 +414,6 @@
    "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/conjoncture/incendies-en-foret-de-fontainebleau-l-autoroute-a6-rouvre-progressivement-a-partir-de-ce-jeudi-soir-20260716",
    "https://www.lefigaro.fr/faits-divers/incendie-de-fontainebleau-le-gerant-et-deux-ouvriers-de-la-societe-aximum-presentes-a-un-juge-20260716",
    "https://www.lefigaro.fr/international/ingerences-chinoises-machines-a-voter-election-de-2020-donald-trump-promet-des-revelations-dans-son-discours-aux-americains-20260716",
    "https://www.lefigaro.fr/international/un-agent-operant-le-prompteur-de-trump-suspendu-pour-avoir-parie-de-l-argent-sur-les-discours-du-president-americain-20260716",
@@ -713,7 +712,8 @@
    "https://www.lefigaro.fr/societes/c-est-la-double-peine-comment-la-reglementation-europeenne-et-la-fiscalite-francaise-font-plonger-le-marche-de-l-automobile-en-france-20260721",
    "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-annonce-le-depart-du-commandant-en-chef-de-l-armee-oleksandr-syrsky-20260721",
    "https://www.lefigaro.fr/actualite-france/incendie-de-fontainebleau-un-canadair-endommage-retire-des-operations-20260721",
-   "https://www.lefigaro.fr/flash-actu/le-nouveau-premier-ministre-britannique-andy-burnham-travaillera-depuis-manchester-au-moins-un-jour-par-semaine-20260721"
+   "https://www.lefigaro.fr/flash-actu/le-nouveau-premier-ministre-britannique-andy-burnham-travaillera-depuis-manchester-au-moins-un-jour-par-semaine-20260721",
+   "https://www.lefigaro.fr/politique/le-parlement-adopte-definitivement-le-projet-de-loi-ripost-sur-la-tranquillite-publique-20260721"
   ],
   "https://www.france24.com/fr/rss": [
    "1acd0f6e-8031-11f1-b09b-753a6a028579",
@@ -1238,12 +1238,11 @@
    "104286dc-852c-11f1-805c-2120e4bb1cd4",
    "c0e98768-852e-11f1-9a5a-ed9f4b62827e",
    "e7872c24-8527-11f1-a505-2120e4bb1cd4",
-   "6b49f326-8545-11f1-9502-3bac88e31694"
+   "6b49f326-8545-11f1-9502-3bac88e31694",
+   "7217cd2c-8554-11f1-a9e8-3f473cb7992d",
+   "ff70da6e-8550-11f1-a7bb-b5c6c7cbce0e"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/video-france-espagne-le-but-du-break-de-pedro-porro-pour-les-espagnols-en-demi-finale-de-coupe-du-monde-6e8ba842-7fc1-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-quand-aura-lieu-la-finale-de-ledition-2026-298b42f4-7f6f-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/olympique-de-marseille/mercato-om-mason-greenwood-quitte-marseille-pour-fenerbahce-922f89aa-7fbf-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/video-la-france-est-le-pays-qui-a-concede-le-plus-de-penalties-dans-lhistoire-de-la-coupe-du-monde-93bd5878-7fbb-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/emmanuel-macron-a-decerne-la-legion-dhonneur-au-premier-ministre-britannique-keir-starmer-bcea205c-7fbe-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/royaume-uni/le-meurtre-dune-femme-politique-britannique-etait-une-attaque-ciblee-selon-la-police-93adff68-7fcf-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1540,7 +1539,10 @@
    "https://www.ouest-france.fr/sport/coupe-du-monde/vous-nous-aidez-a-etre-un-peu-plus-fiers-detre-argentins-la-reponse-dun-joueur-aux-critiques-envers-largentine-32d156a4-8542-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/seuls-les-laches-jouent-en-reculant-le-discours-marquant-de-messi-et-martinez-lors-de-la-finale-contre-lespagne-660bfc98-853f-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/etats-unis/letat-americain-du-new-jersey-corrige-ses-listes-electorales-sur-fond-daccusations-de-fraude-par-donald-trump-07d6e564-8541-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/football-accuse-de-mal-gerer-la-lfp-par-le-president-du-rc-lens-vincent-labrune-contre-attaque-a28fedfe-853b-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/football/football-accuse-de-mal-gerer-la-lfp-par-le-president-du-rc-lens-vincent-labrune-contre-attaque-a28fedfe-853b-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/culture/deces-dolivera-katarina-diva-yougoslave-et-vedette-a-cannes-en-1967-446c7fb2-854f-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/paris-sg/psg-une-equipe-b-pour-la-supercoupe-deurope-et-le-trophee-des-champions-520cb344-854a-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/transferts/mercato-chelsea-morgan-rogers-signe-pour-un-transfert-record-de-plus-de-100-millions-deuros-83927d60-8548-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1656,7 +1658,12 @@
    "https://www.20minutes.fr/planete/4235672-20260721-incendie-var-feu-progresse-vitesse-tres-importante-plus-1-700-hectares-parcourus?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/politique/4235666-20260721-monique-barbut-va-demissionner-apres-adoption-loi-urgence-agricole?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/sport/cyclisme/4235651-20260721-tour-france-place-contre-montre-bien-mene-concurrent-podium-elimine-seixas?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/sport/cyclisme/4235651-20260721-tour-france-place-contre-montre-bien-mene-concurrent-podium-elimine-seixas?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/israel/4235671-20260721-flottille-gaza-france-ouvre-nouvelle-enquete-torture-commise-israel?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4235630-20260721-bordeaux-deux-pompiers-trouvent-mort-lors-incendie-pres-aeroport?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4235515-20260721-direct-guerre-ukraine-nouveau-premier-ministre-anglais-soutient-zelensky-multiples-attaques-entre-belligerants?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4235660-20260721-guerre-ukraine-important-incendie-mer-noire-russie-navigue-tirs-reels-manche?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4235659-20260721-pedocriminalite-projet-loi-protection-enfants-largement-adopte-premiere-lecture?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1784,7 +1791,14 @@
    "https://www.bfmtv.com/politique/la-france-insoumise/video-loi-d-urgence-agricole-la-motion-de-rejet-prealable-deposee-par-lfi-n-est-pas-adoptee_VN-202607200699.html",
    "https://www.bfmtv.com/politique/gouvernement/video-loi-d-urgence-agricole-l-anses-pourrait-encadrer-les-derogations-sur-l-acetamipride-selon-annie-genevard_VN-202607200698.html",
    "https://www.bfmtv.com/politique/gouvernement/video-loi-d-urgence-agricole-nous-ferons-aboutir-ce-texte-quoi-qu-il-arrive-declare-annie-genevard_VN-202607200697.html",
-   "https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump/moyen-orient-donald-trump-affirme-que-pour-chaque-soldat-americain-tue-l-iran-payera-plusieurs-fois-le-prix_AD-202607200696.html"
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump/moyen-orient-donald-trump-affirme-que-pour-chaque-soldat-americain-tue-l-iran-payera-plusieurs-fois-le-prix_AD-202607200696.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-dans-le-var-plus-de-600-pompiers-mobilises-contre-les-flammes_VN-202607210675.html",
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-le-cout-de-la-guerre-en-iran-est-estime-a-37-5-milliards-de-dollars-selon-pete-hegseth_VN-202607210674.html",
+   "https://www.bfmtv.com/international/moyen-orient/direct-guerre-au-moyen-orient-de-nouvelles-frappes-americaines-en-iran-pour-la-10e-nuit-consecutive_LN-202607210047.html",
+   "https://www.bfmtv.com/police-justice/video-affaire-jubillar-des-aveux-apres-cinq-ans-de-mensonges_VN-202607210671.html",
+   "https://www.bfmtv.com/police-justice/video-affaire-jubillar-j-ai-accueilli-ces-aveux-avec-horreur-declare-philippe-pressecq-avocat-de-la-cousine-de-delphine-jubillar_VN-202607210670.html",
+   "https://www.bfmtv.com/environnement/climat/video-l-incendie-dans-le-var-a-parcouru-1-700-hectares-et-progresse-a-une-vitesse-importante_VN-202607210669.html",
+   "https://www.bfmtv.com/politique/parlement/la-loi-ripost-sur-la-tranquillite-publique-adoptee-par-l-assemblee-nationale_AN-202607210665.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -1916,106 +1930,53 @@
  "evenements_attente": [
   {
    "faits": [
-    "Le Parlement français a définitivement adopté le 21 juillet une proposition de loi interdisant les réseaux sociaux aux moins de 15 ans",
-    "C'est une première en Europe",
-    "La mesure doit entrer en vigueur dès septembre pour les nouveaux comptes",
-    "Emmanuel Macron a salué cette mesure comme 'une avancée majeure' pour la protection des enfants et adolescents"
+    "Deux sapeurs-pompiers sont morts lors d'une intervention contre un incendie",
+    "L'incendie s'est déclenché près de l'aéroport de Bordeaux à Mérignac",
+    "L'incident s'est produit mardi 21 juillet l'après-midi",
+    "L'incendie est désormais fixé"
    ],
-   "qui": "Parlement français, Emmanuel Macron",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 98,
+   "qui": "Sapeurs-pompiers de Gironde",
+   "ou": "Mérignac, Gironde, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
    "sources": [
-    "Le Figaro",
     "RFI",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "2e1a7bdf8d21f9af",
-   "score": 100,
-   "fiab_max": 85,
-   "nb_sources": 3,
-   "depuis": "2026-07-21T18:58:37.663923+00:00"
-  },
-  {
-   "faits": [
-    "Le Parlement français a définitivement adopté le 21 juillet le projet de loi d'urgence agricole",
-    "La loi permet la réintroduction, à titre dérogatoire, de deux pesticides néonicotinoïdes : l'acétamipride et le flupyradifurone",
-    "Ces pesticides étaient autorisés dans l'Union européenne mais interdits en France",
-    "Le Sénat a adopté le texte par 214 voix contre 111",
-    "La ministre de la Transition écologique Monique Barbut présentera sa démission d'ici le Conseil des ministres de mercredi",
-    "La démission de Barbut est liée au désaccord sur le volet pesticides de la loi",
-    "Le monde agricole accueille favorablement cette loi ; la FNSEA et la Coordination rurale soulignent des avancées 'notoires'"
-   ],
-   "qui": "Parlement français, Sébastien Lecornu (Premier ministre), Monique Barbut (ministre de la Transition écologique)",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 96,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "RFI",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 82,
-   "empreinte": "bff42738f9ba719b",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 4,
-   "depuis": "2026-07-21T18:58:37.663925+00:00"
-  },
-  {
-   "faits": [
-    "Remco Evenepoel a remporté le contre-la-montre de la 16e étape du Tour de France entre Evian-les-Bains et Thonon-les-Bains",
-    "Evenepoel a repris 28 secondes à Tadej Pogacar",
-    "Pogacar a terminé deuxième",
-    "Paul Seixas a terminé quatrième",
-    "Florian Lipowitz a abandonné après une chute"
-   ],
-   "qui": "Remco Evenepoel, Tadej Pogacar",
-   "ou": "Evian-les-Bains, Thonon-les-Bains",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "France 24"
+    "20 Minutes",
+    "BFMTV"
    ],
    "non_confirme": [],
    "importance": 75,
-   "empreinte": "01077dd6e0e9f1fb",
-   "score": 99,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-21T17:40:38.651541+00:00"
+   "empreinte": "566146eef7f1a3d3",
+   "score": 95,
+   "fiab_max": 85,
+   "nb_sources": 3,
+   "depuis": "2026-07-21T22:41:00.635909+00:00"
   },
   {
    "faits": [
-    "Le Parlement valide la nomination du sénateur LR François-Noël Buffet comme Défenseur des droits",
-    "François-Noël Buffet succède à Claire Hédon",
-    "Le profil de Buffet est jugé conservateur et suscite l'inquiétude du monde associatif",
-    "La candidature a été proposée par le Président de la République"
+    "Un violent incendie s'est déclenché dans le Var le 21 juillet",
+    "L'incendie a parcouru 1 700 hectares",
+    "Le feu progresse 'à une vitesse très importante' sur une montagne près de Cotignac",
+    "Plus de 600 pompiers sont mobilisés",
+    "Près de 400 personnes ont été évacuées dans plusieurs communes"
    ],
-   "qui": "François-Noël Buffet, Emmanuel Macron, Parlement, Claire Hédon",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 90,
+   "qui": "Pompiers du Var",
+   "ou": "Cotignac, Var, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
    "sources": [
-    "France 24",
-    "RFI"
+    "RFI",
+    "BFMTV"
    ],
    "non_confirme": [],
-   "importance": 78,
-   "empreinte": "db3c913d5260866a",
-   "score": 96,
+   "importance": 80,
+   "empreinte": "2ea2c92db72066e9",
+   "score": 95,
    "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-21T15:57:32.149845+00:00"
+   "depuis": "2026-07-21T22:41:00.635913+00:00"
   },
   {
    "faits": [
@@ -2114,50 +2075,6 @@
   },
   {
    "faits": [
-    "Deux pompiers sont morts en combattant un incendie à l'aéroport de Bordeaux-Mérignac",
-    "L'incendie s'est déclaré en début d'après-midi, mardi 21 juillet",
-    "Le feu était visible depuis le centre de Bordeaux"
-   ],
-   "qui": "Pompiers",
-   "ou": "Aéroport de Bordeaux-Mérignac, Bordeaux",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 82,
-   "empreinte": "02a64cf1af4081d0",
-   "score": 88,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T15:57:32.148740+00:00"
-  },
-  {
-   "faits": [
-    "Tous les condamnés du procès en appel du RN se sont pourvus en cassation",
-    "Marine Le Pen et les autres condamnés ont formé un pourvoi",
-    "La reconnaissance de culpabilité porte sur détournement de fonds publics du Parlement européen entre 2004 et 2016"
-   ],
-   "qui": "Marine Le Pen, Rassemblement National",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 88,
-   "empreinte": "99c704f3ea85bf86",
-   "score": 88,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T15:57:32.148848+00:00"
-  },
-  {
-   "faits": [
     "Un nouvel incendie s'est déclaré dans le Var mardi",
     "L'incendie a ravagé 350 hectares",
     "Plus de 150 personnes ont été évacuées de manière préventive",
@@ -2181,28 +2098,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T17:40:38.650496+00:00"
-  },
-  {
-   "faits": [
-    "Les députés approuvent la perpétuité pour les viols en série sur les moins de 15 ans",
-    "Cette mesure a été adoptée après des discussions particulièrement houleuses",
-    "La mesure a été portée par le gouvernement dans le sillage de l'affaire Lyhanna"
-   ],
-   "qui": "Gouvernement français, Assemblée nationale",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "6593050e70e41230",
-   "score": 87,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T15:57:32.148696+00:00"
   },
   {
    "faits": [
@@ -2275,6 +2170,30 @@
   },
   {
    "faits": [
+    "Kaylee Hottle, actrice américaine connue pour ses rôles dans 'Godzilla', est décédée à 18 ans",
+    "Elle est morte dans un accident de voiture",
+    "Les autorités évoquent un excès de vitesse comme cause probable",
+    "Elle était l'une des rares jeunes actrices sourdes à s'imposer dans une superproduction hollywoodienne",
+    "Elle a joué le rôle de 'Jia' dans Godzilla"
+   ],
+   "qui": "Kaylee Hottle",
+   "ou": null,
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "4efa715d8acf6a0e",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T22:41:00.635926+00:00"
+  },
+  {
+   "faits": [
     "Le Parquet national antiterroriste français ouvre une enquête pour « tortures » concernant l'arrestation de la « flottille pour Gaza »",
     "L'enquête concerne le traitement réservé par les autorités israéliennes à deux personnes interpellées en octobre 2025",
     "La députée LFI Marie Mesmeur était parmi les personnes interpellées",
@@ -2316,52 +2235,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T18:58:37.663287+00:00"
-  },
-  {
-   "faits": [
-    "De la charcuterie est rappelée dans toute la France",
-    "Les produits concernés sont vendus chez Carrefour",
-    "Les produits incluent boudins, côtes de porc et saucissons",
-    "Le rappel est dû à une présence suspectée de l'agent responsable de la listériose"
-   ],
-   "qui": "Carrefour",
-   "ou": "France",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "6fdce9cc1616d10f",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T15:57:32.148873+00:00"
-  },
-  {
-   "faits": [
-    "Au Liban, au moins 100 000 enfants pourraient être privés de cours au début de la rentrée scolaire",
-    "340 établissements scolaires ont été endommagés ou détruits depuis le début du conflit entre le Hezbollah et Israël le 2 mars",
-    "De nombreuses écoles ne seront pas prêtes à rouvrir en septembre",
-    "Une évaluation menée avec le soutien de l'Unicef a été publiée le 2 juillet"
-   ],
-   "qui": "Unicef, gouvernement libanais",
-   "ou": "Liban",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "b022af2f9c98fe33",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T15:57:32.149046+00:00"
   },
   {
    "faits": [
@@ -2434,77 +2307,6 @@
   },
   {
    "faits": [
-    "Le Gabon et la France ouvrent une nouvelle page de leur coopération",
-    "Le président gabonais Brice Clotaire Oligui Nguema est en visite d'État de trois jours en France",
-    "Trois accords ont été conclus entre les deux pays",
-    "Les accords portent notamment sur la cession du camp militaire de Gaulle et la transformation du manganèse au Gabon"
-   ],
-   "qui": "Brice Clotaire Oligui Nguema, gouvernement français",
-   "ou": "Gabon, France",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "541d4c6e0fc93390",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T15:57:32.149863+00:00"
-  },
-  {
-   "faits": [
-    "Microsoft signe un accord avec Mistral",
-    "L'accord porte sur l'utilisation des infrastructures de Mistral en Europe",
-    "L'accord est d'un montant de « plusieurs milliards » de dollars",
-    "Mistral est un champion français de l'intelligence artificielle"
-   ],
-   "qui": "Microsoft, Mistral",
-   "ou": "Europe, France, États-Unis",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "daeb717d9da40703",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T15:57:32.149864+00:00"
-  },
-  {
-   "faits": [
-    "Le Sénat examine le 21 juillet une loi pour interdire les réseaux sociaux aux moins de 15 ans",
-    "Seuls quelques partis de gauche ont annoncé s'abstenir ou voter contre",
-    "La loi a de bonnes chances de passer",
-    "Si votée, la loi prendrait effet dès la rentrée"
-   ],
-   "qui": "Sénat, gouvernement français",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "la loi a de bonnes chances d'arriver"
-   ],
-   "importance": 80,
-   "empreinte": "0496c9fa2e1be59f",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T15:57:32.149866+00:00"
-  },
-  {
-   "faits": [
     "Un père de famille a tiré sur des gendarmes en Loire avant de se suicider en présence de ses enfants",
     "Les gendarmes se sont abrités et n'ont pas été blessés",
     "Un gendarme a ouvert le feu à une reprise en direction du tireur sans l'atteindre"
@@ -2524,6 +2326,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T18:58:37.663240+00:00"
+  },
+  {
+   "faits": [
+    "Cédric Jubillar a reconnu être à l'origine de la mort de son épouse Delphine",
+    "Cette reconnaissance intervient après cinq ans et demi de silence et de dénégations",
+    "Il a d'abord avoué par courrier le 6 juillet",
+    "Il a confirmé ses aveux face aux enquêteurs le 15 juillet"
+   ],
+   "qui": "Cédric Jubillar, Delphine Jubillar",
+   "ou": "France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "43d3c3c1b9cb63e2",
+   "score": 82,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T22:40:51.042908+00:00"
   },
   {
    "faits": [
@@ -2613,17 +2438,197 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T17:40:38.651572+00:00"
+  },
+  {
+   "faits": [
+    "Andy Burnham, nouveau Premier ministre du Royaume-Uni, annonce la suppression de la TVA sur l'électricité",
+    "La mesure coûterait 850 millions de livres sterling (équivalent à 1 milliard de dollars)",
+    "John Healey a été nommé ministre des Finances",
+    "L'annonce a rassuré les marchés financiers"
+   ],
+   "qui": "Andy Burnham (Premier ministre britannique), John Healey (ministre des Finances)",
+   "ou": "Royaume-Uni",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "d29bf5c9c0468947",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T22:41:00.635941+00:00"
+  },
+  {
+   "faits": [
+    "Au 143e jour de la guerre au Moyen-Orient, les États-Unis ont effectué des frappes contre l'Iran",
+    "Il s'agit du dixième jour consécutif de frappes",
+    "Les frappes ont eu lieu dans la nuit du lundi 20 au mardi 21 juillet",
+    "Donald Trump affirme que pour chaque soldat américain tué, l'Iran paiera 'plusieurs fois' le prix",
+    "Le président libanais a insisté auprès de Donald Trump sur le 'retrait total d'Israël' du Liban"
+   ],
+   "qui": "États-Unis, Iran, Israël, Donald Trump, Président libanais",
+   "ou": "Moyen-Orient, Liban",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "237257b8cddcdeb0",
+   "score": 75,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T22:40:51.042859+00:00"
+  },
+  {
+   "faits": [
+    "Morgan Rogers, international anglais, signe pour Chelsea",
+    "Il provient d'Aston Villa",
+    "Le transfert s'élève à 137 millions d'euros",
+    "Il devient le 5e joueur le plus cher de l'histoire",
+    "Le transfert a été annoncé le 21 juillet"
+   ],
+   "qui": "Morgan Rogers, Chelsea, Aston Villa",
+   "ou": "Royaume-Uni",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "b03fa08a1e183547",
+   "score": 75,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T22:41:00.635942+00:00"
+  },
+  {
+   "faits": [
+    "Un navire de guerre russe a mené des exercices de tir réel dans la Manche",
+    "Cela s'est produit entre l'Angleterre et la France",
+    "Le Royaume-Uni a dû élever le ton face à ces exercices",
+    "Le contexte concerne la guerre en Ukraine"
+   ],
+   "qui": "Russie, Royaume-Uni",
+   "ou": "Manche, entre Angleterre et France",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "e472b14fe8780629",
+   "score": 74,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T22:40:51.042766+00:00"
+  },
+  {
+   "faits": [
+    "Le projet de loi sur la protection des enfants a été largement adopté en première lecture",
+    "Une mesure marquante : l'imprescriptibilité des crimes commis sur des mineurs"
+   ],
+   "qui": "Parlement français",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "168b26d4fdc50c0b",
+   "score": 74,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T22:40:51.042833+00:00"
+  },
+  {
+   "faits": [
+    "Olivera Katarina, actrice et chanteuse serbe, est décédée",
+    "Elle était connue pour son rôle de tzigane dans un film récompensé à Cannes en 1967",
+    "Ce film avait reçu le Grand prix spécial du jury et le Prix de la critique internationale à Cannes",
+    "Elle est décédée à Belgrade"
+   ],
+   "qui": "Olivera Katarina",
+   "ou": "Belgrade, Serbie",
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "49ce95efe4e57869",
+   "score": 73,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T22:40:51.042668+00:00"
+  },
+  {
+   "faits": [
+    "Le Parquet national antiterroriste a ouvert une enquête pour présumée torture",
+    "L'enquête concerne le traitement de deux participants d'une flottille pour Gaza",
+    "La flottille a été interceptée par Israël en octobre 2025",
+    "Parmi les victimes présumées figure la députée LFI Marie Mesmeur"
+   ],
+   "qui": "Parquet national antiterroriste, Israël, Marie Mesmeur (députée LFI)",
+   "ou": "France, Gaza",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "faits présumés de tortures"
+   ],
+   "importance": 65,
+   "empreinte": "f26869b912babf04",
+   "score": 73,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T22:40:51.042796+00:00"
+  },
+  {
+   "faits": [
+    "Le Paris Saint-Germain reprendra l'entraînement le 27 juillet",
+    "Luis Enrique devra composer avec un groupe professionnel amoindri à cause du Mondial",
+    "Cela pourrait avoir des conséquences sur la Supercoupe d'Europe et le Trophée des champions",
+    "Le PSG est le dernier club encore en vacances"
+   ],
+   "qui": "Paris Saint-Germain, Luis Enrique",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "conséquences potentielles sur les compétitions"
+   ],
+   "importance": 50,
+   "empreinte": "8462d59343322348",
+   "score": 72,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T22:40:51.042741+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "9fde7baed56a2792",
-   "2026-07-19T22:05:47.121029+00:00"
-  ],
-  [
-   "64b948c323b0a3fc",
-   "2026-07-19T22:05:51.130369+00:00"
-  ],
   [
    "84caee1b9e68a32c",
    "2026-07-19T23:07:39.432004+00:00"
@@ -2695,17 +2700,17 @@
   [
    "4092137f7770f5c5",
    "2026-07-21T07:25:06.986137+00:00"
+  ],
+  [
+   "2dac0e4a57c70e42",
+   "2026-07-21T22:41:02.167958+00:00"
+  ],
+  [
+   "bce1bb2724e27bc0",
+   "2026-07-21T22:41:06.350255+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "2c15350321a26775",
-   "2026-07-19T22:05:39.768976+00:00"
-  ],
-  [
-   "8ab813b7ce873cf5",
-   "2026-07-19T22:05:44.512683+00:00"
-  ],
   [
    "0898456e4d34c43f",
    "2026-07-19T23:07:33.265690+00:00"
@@ -2777,24 +2782,24 @@
   [
    "fae50e3d574aa944",
    "2026-07-21T07:25:01.869686+00:00"
+  ],
+  [
+   "2e1a7bdf8d21f9af",
+   "2026-07-21T22:40:55.606808+00:00"
+  ],
+  [
+   "bff42738f9ba719b",
+   "2026-07-21T22:41:00.635899+00:00"
   ]
  ],
  "depeches_du_jour": [
-  "⚽ L'Espagne remporte la Coupe du monde 2026 face à l'Argentine (1-0 après prolongation). Ferran Torres inscrit le but décisif, servi par Nico Williams. C'est le deuxième titre mondial espagnol. (Le Figaro, Ouest-France)",
-  "Donald Trump impose 50 % de droits de douane sur des produits canadiens (vin, ciment, crosses de hockey) à partir d'un mois. Le président justifie cette mesure par un traitement discriminatoire du Canada envers les produits américains. (France 24)",
-  "⚽ L'Espagne remporte la Coupe du monde 2026. La Roja a battu l'Argentine 1-0 après prolongation en finale à New York. Le roi Felipe VI et le Premier ministre Pedro Sanchez ont accueilli les joueurs à Madrid après leur victoire.",
-  "🇫🇷 L'Assemblée nationale a adopté le projet de loi d'urgence agricole avec 296 voix pour et 224 contre. Le texte réintroduit des pesticides à titre dérogatoire et doit être examiné au Sénat. (franceinfo, BFMTV)",
-  "🇬🇧 Andy Burnham a été nommé Premier ministre du Royaume-Uni lundi, succédant à Keir Starmer à la tête du Parti travailliste. Dans un contexte économique et politique instable, les experts estiment qu'il devra démontrer la solidité de son programme. (France 24, RFI)",
-  "Au moins 14 personnes sont mortes lundi 20 juillet dans des échanges de bombardements entre la Russie et l'Ukraine. Six morts dans la région russe de Belgorod, huit en Ukraine. (franceinfo)",
-  "🇫🇷 L'Assemblée nationale adopte un projet de loi d'urgence agricole réintroduisant l'acétamipride, un pesticide néonicotinoïde interdit, et modifiant la gestion de l'eau. Le texte a divisé la droite et la gauche. (franceinfo, Ouest-France)",
-  "⚡ FLASH — Les États-Unis mènent une dixième nuit de frappes contre l'Iran, ciblant centres de commandement et installations maritimes. Les Gardiens de la Révolution affirment riposter à Bahreïn et au Koweït. L'ONU craint une escalade régionale.",
-  "Cinq départements du sud-est français (Aude, Gard, Bouches-du-Rhône, Var, Vaucluse) sont au plus haut niveau de risque de feux de forêt. En Espagne, un incendie au nord de Madrid a brûlé 26 000 hectares. (franceinfo)",
-  "Les Gardiens de la Révolution iraniens affirment avoir visé des cibles militaires américaines à Bahreïn et au Koweït. L'armée américaine dit avoir ciblé des installations iraniennes dans le Golfe Persique. (franceinfo, France 24)"
+  "🇫🇷 Le Parlement français a adopté le 21 juillet une loi interdisant les réseaux sociaux aux moins de 15 ans, une première en Europe. La mesure entre en vigueur en septembre. (Le Figaro, RFI, France 24)",
+  "🇫🇷 Le Parlement français a adopté le 21 juillet une loi d'urgence agricole autorisant deux pesticides néonicotinoïdes jusque-là interdits en France. Le Sénat a approuvé le texte par 214 voix contre 111. La ministre Monique Barbut démissionnera en désaccord. (franceinfo)"
  ],
  "recap_date": "2026-07-21",
  "echecs_extraction": 0,
  "compteur": {
-  "date": "2026-07-21",
-  "publies": 10
+  "date": "2026-07-22",
+  "publies": 2
  }
 }
