@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/coupe-du-monde/je-ne-veux-pas-passer-pour-une-pleureuse-mais-pourquoi-didier-deschamps-s-en-est-il-pris-a-l-arbitre-apres-la-demi-finale-de-coupe-du-monde-perdue-contre-l-espagne_8108378.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-jerome-barella-entendu-par-le-juge-d-instruction-en-vue-de-sa-mise-en-examen-pour-le-viol-et-le-meurtre-de-la-fillette_8107760.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/affaire-du-petit-gregory/affaire-gregory-les-faits-reproches-a-la-grand-tante-jacqueline-jacob-sont-prescrits-annonce-la-cour-d-appel-de-dijon_8108504.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/euthanasie/le-texte-creant-un-droit-a-l-aide-a-mourir-revient-aujourd-hui-a-l-assamblee-nationale-pour-un-ultime-vote_8108468.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/front-national/il-y-a-urgence-a-avoir-les-idees-claires-le-rn-se-penche-sur-son-programme-pour-la-presidentielle_8108420.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/sports/renforcement-du-pouvoir-des-federations-sport-feminin-lutte-contre-le-piratage-ce-que-la-reforme-du-sport-professionnel-va-changer_8116541.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-levee-a-partir-de-mercredi_8116658.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-justice_8116817.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/loi-d-urgence-agricole-monique-barbut-presentera-sa-demission-d-ici-le-conseil-des-ministres-de-mercredi_8116922.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/loi-d-urgence-agricole-monique-barbut-presentera-sa-demission-d-ici-le-conseil-des-ministres-de-mercredi_8116922.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-41-morts-selon-un-nouveau-bilan-des-autorites_8116967.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-approuvent-une-mesure-controversee-instaurant-la-perpetuite-pour-les-viols-en-serie-sur-les-moins-de-15-ans_8116973.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -414,13 +414,6 @@
    "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/actualite-france/fin-de-vie-les-membres-du-conseil-constitutionnel-qui-se-sont-prononces-en-faveur-de-l-euthanasie-et-du-suicide-assiste-doivent-ils-se-recuser-20260716",
-   "https://www.lefigaro.fr/faits-divers/ensevelissement-rudimentaire-ossements-eparpilles-ce-que-revelent-les-fouilles-pour-retrouver-le-corps-de-delphine-jubillar-20260716",
-   "https://www.lefigaro.fr/conjoncture/les-orages-perturbent-les-aeroports-parisiens-20-des-vols-supprimes-a-orly-ce-jeudi-soir-20260716",
-   "https://www.lefigaro.fr/elections/presidentielles/en-2007-le-cas-d-ecole-de-nicolas-sarkozy-dont-les-pretendants-de-2027-pourraient-s-inspirer-20260716",
-   "https://www.lefigaro.fr/secteur/high-tech/coproprietaire-d-un-geant-du-jouet-fabricants-des-mascottes-des-jo-de-paris-qui-sont-vraiment-les-repreneurs-de-micromania-20260716",
-   "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-gabriel-attal-annonce-un-grand-meeting-a-lyon-le-10-octobre-20260716",
-   "https://www.lefigaro.fr/faits-divers/affaire-jubillar-a-cagnac-les-mines-la-fin-d-une-insoutenable-attente-apres-la-decouverte-d-ossements-20260716",
    "https://www.lefigaro.fr/conjoncture/incendies-en-foret-de-fontainebleau-l-autoroute-a6-rouvre-progressivement-a-partir-de-ce-jeudi-soir-20260716",
    "https://www.lefigaro.fr/faits-divers/incendie-de-fontainebleau-le-gerant-et-deux-ouvriers-de-la-societe-aximum-presentes-a-un-juge-20260716",
    "https://www.lefigaro.fr/international/ingerences-chinoises-machines-a-voter-election-de-2020-donald-trump-promet-des-revelations-dans-son-discours-aux-americains-20260716",
@@ -713,13 +706,16 @@
    "https://www.lefigaro.fr/medias/ai-overviews-les-editeurs-de-presse-francais-entament-un-nouveau-bras-de-fer-avec-google-20260721",
    "https://www.lefigaro.fr/faits-divers/un-pere-de-famille-tire-sur-les-gendarmes-avant-de-se-suicider-en-presence-de-ses-enfants-20260721",
    "https://www.lefigaro.fr/politique/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-emmanuel-macron-salue-une-avancee-majeure-20260721",
-   "https://www.lefigaro.fr/secteur/high-tech/le-parlement-valide-definitivement-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-une-premiere-en-europe-20260721"
+   "https://www.lefigaro.fr/secteur/high-tech/le-parlement-valide-definitivement-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-une-premiere-en-europe-20260721",
+   "https://www.lefigaro.fr/international/la-russie-est-capable-de-prendre-d-enormes-risques-l-alerte-du-chef-d-etat-major-suedois-sur-une-possible-attaque-imminente-en-europe-20260721",
+   "https://www.lefigaro.fr/secteur/high-tech/australie-pologne-bresil-quels-pays-avancent-vers-l-interdiction-des-reseaux-sociaux-pour-les-mineurs-20260721",
+   "https://www.lefigaro.fr/flash-actu/en-australie-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-est-elle-veritablement-efficace-20260721",
+   "https://www.lefigaro.fr/societes/c-est-la-double-peine-comment-la-reglementation-europeenne-et-la-fiscalite-francaise-font-plonger-le-marche-de-l-automobile-en-france-20260721",
+   "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-annonce-le-depart-du-commandant-en-chef-de-l-armee-oleksandr-syrsky-20260721",
+   "https://www.lefigaro.fr/actualite-france/incendie-de-fontainebleau-un-canadair-endommage-retire-des-operations-20260721",
+   "https://www.lefigaro.fr/flash-actu/le-nouveau-premier-ministre-britannique-andy-burnham-travaillera-depuis-manchester-au-moins-un-jour-par-semaine-20260721"
   ],
   "https://www.france24.com/fr/rss": [
-   "7ba5d990-7fed-11f1-94a3-55cf1765a034",
-   "aac5eef4-7f70-11f1-ba5f-991c98d7b4ee",
-   "7463027c-8004-11f1-957c-550601679fe3",
-   "c6208cb4-8023-11f1-a0d4-19a134264fe1",
    "1acd0f6e-8031-11f1-b09b-753a6a028579",
    "eae4f38a-802f-11f1-b60d-753a6a028579",
    "e6bf61ee-7fb9-11f1-a04e-53c2522f1d6a",
@@ -1015,7 +1011,11 @@
    "cad4f05e-8525-11f1-aadb-db94f1aaebe8",
    "9b96df96-851b-11f1-9323-db048765a822",
    "116c02fa-8526-11f1-8e0d-db94f1aaebe8",
-   "6146bc6a-8527-11f1-b691-6714d4628d44"
+   "6146bc6a-8527-11f1-b691-6714d4628d44",
+   "cb90dcb8-8540-11f1-9b1f-b581c81e75aa",
+   "779f7666-853e-11f1-9597-e135bef4ab1b",
+   "64ea077a-853e-11f1-8c11-091484391995",
+   "1371290e-853a-11f1-a8e2-091484391995"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1236,15 +1236,10 @@
    "51f9beda-84e9-11f1-ace9-454b9094f369",
    "98cc9d28-852f-11f1-a7ff-ed9f4b62827e",
    "104286dc-852c-11f1-805c-2120e4bb1cd4",
-   "c0e98768-852e-11f1-9a5a-ed9f4b62827e"
+   "c0e98768-852e-11f1-9a5a-ed9f4b62827e",
+   "e7872c24-8527-11f1-a505-2120e4bb1cd4"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/france-espagne-a-3-ans-seulement-le-petit-frere-de-yamal-est-devenu-lui-aussi-un-phenomene-de-la-coupe-du-monde-39923ffe-7f97-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/economie/immobilier/dune-friche-xxl-a-un-quartier-residentiel-neuf-la-metamorphose-de-lancien-foyer-departemental-de-lenfance-a-angers-17cafdc0-7de9-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/transferts/mercato-psg-vainqueur-de-la-gambardella-un-solide-espoir-du-club-signe-professionnel-chez-le-voisin-du-paris-fc-e6fe5bd8-7f9b-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-montagne-sprint-jeunes-equipes-tous-les-classements-annexes-apres-la-10e-etape-67eb8e6c-7f8f-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/incendies-secheresse-feux-dartifice-du-14-juillet-annules-le-point-sur-la-canicule-et-ses-consequences-ce-mardi-99c1ca76-7f91-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-quand-connaitra-t-on-ladversaire-de-lequipe-de-france-en-finale-ou-en-petite-finale-du-mondial-9cb9b5ca-7f93-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/video-france-espagne-y-avait-il-vraiment-penalty-sur-lintervention-de-lucas-digne-sur-lamine-yamal-aff03448-7fb6-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/ukraine/carte-guerre-en-ukraine-un-avion-russe-intercepte-par-la-pologne-mois-de-juin-le-plus-meurtrier-le-point-du-jour-7303b8a2-7fb6-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/pays-de-la-loire/le-mans-72000/cest-un-peu-une-finale-avant-lheure-les-supporters-des-bleus-au-rendez-vous-pour-france-espagne-2e076150-7fa6-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1538,7 +1533,13 @@
    "https://www.ouest-france.fr/economie/agriculture/la-loi-durgence-agricole-est-passee-malgre-le-tumulte-62f5c800-84e9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-21/pour-y-entrer-il-faut-eviter-les-vagues-scelerates-comment-la-visite-de-cette-grotte-paradisiaque-a-vire-au-cauchemar-df5d6b97-17ed-4d3a-8511-45367011920b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/equipe-portugal/le-nouveau-selectionneur-du-portugal-jorge-jesus-ne-prevoit-pas-de-gros-changements-apres-un-mondial-decevant-b295b036-8530-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/moto/fabio-quartararo/motogp-un-bol-dair-grosse-puissance-de-frappe-fabio-quartararo-fait-il-le-bon-choix-en-rejoignant-honda-5e612944-851e-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/moto/fabio-quartararo/motogp-un-bol-dair-grosse-puissance-de-frappe-fabio-quartararo-fait-il-le-bon-choix-en-rejoignant-honda-5e612944-851e-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/locmine-saint-colomban/ne-pas-refaire-les-memes-erreurs-avec-un-nouveau-visage-la-saint-colomban-locmine-est-de-retour-f02e0996-8532-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/cinema/kaylee-hottle-actrice-de-godzilla-est-morte-a-18-ans-dans-un-accident-de-voiture-070dfe50-853d-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-fracture-de-la-clavicule-pour-florian-lipowitz-apres-sa-chute-et-son-abandon-lors-de-la-16e-etape-ca649ce0-8535-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/la-pression-est-intense-et-lattention-constante-larbitre-anglais-anthony-taylor-annonce-sa-retraite-5b400352-8537-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-21/peut-on-vraiment-aller-aux-etats-unis-en-train-en-voiture-ou-a-pied-en-passant-par-le-detroit-de-bering-baa95bb6-6ed5-4311-a2b6-8b927062c8e7?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-21/les-scandales-dans-la-musique-quand-serge-gainsbourg-mettait-le-feu-aux-poudres-en-revisitant-la-marseillaise-b57d2f47-975b-4769-abe8-d8e897d23f2b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1986,52 +1987,6 @@
   },
   {
    "faits": [
-    "Le procès en appel de Cédric Jubillar, prévu en septembre 2026, est renvoyé au premier semestre 2027",
-    "Cette décision a été prise par la cour d'appel suite à la poursuite de l'enquête après les aveux de l'accusé"
-   ],
-   "qui": "Cédric Jubillar",
-   "ou": "Haute-Garonne / Toulouse",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "98621c0c66a9e98a",
-   "score": 99,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-21T14:17:42.003533+00:00"
-  },
-  {
-   "faits": [
-    "Deux animateurs d'un centre de loisirs à Biarritz, âgés de 36 et 21 ans, ont été placés en garde à vue",
-    "Ils sont soupçonnés de viol et d'agressions sexuelles sur au moins 13 enfants",
-    "Les enfants agressés sont âgés de 3 à 4 ans",
-    "Les deux hommes travaillent dans ce centre depuis deux ans et n'ont pas d'antécédents judiciaires selon le parquet"
-   ],
-   "qui": "deux animateurs (36 et 21 ans)",
-   "ou": "Biarritz",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "47701b9eef5acfb6",
-   "score": 99,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-21T14:17:42.003537+00:00"
-  },
-  {
-   "faits": [
     "Le Parlement valide la nomination du sénateur LR François-Noël Buffet comme Défenseur des droits",
     "François-Noël Buffet succède à Claire Hédon",
     "Le profil de Buffet est jugé conservateur et suscite l'inquiétude du monde associatif",
@@ -2081,28 +2036,28 @@
   },
   {
    "faits": [
-    "L'Assemblée nationale a adopté la loi d'urgence agricole dans la nuit de lundi à mardi",
-    "La loi prévoit la réintroduction dérogatoire de certains pesticides pour quelques filières",
-    "Ces deux pesticides sont interdits en France mais autorisés ailleurs en Europe",
-    "Sébastien Lecornu accuse les Écologistes de mensonges et d'entretenir la colère avec duplicité",
-    "La loi a provoqué des débats houleux et des divergences entre le gouvernement et une partie de ses troupes"
+    "Volodymyr Zelensky annonce le départ du commandant en chef de l'armée ukrainienne Oleksandr Syrsky",
+    "Syrsky a dirigé les forces ukrainiennes pendant plus de deux ans",
+    "Il est critiqué sur son style de commandement et accusé d'abus sur les troupes",
+    "Depuis plusieurs jours, des Ukrainiens descendus dans les rues réclamaient son départ",
+    "Des appels pour le retour du populaire Mykhaïlo Fedorov au ministère de la Défense ont été lancés après son limogeage récent"
    ],
-   "qui": "Sébastien Lecornu, Assemblée nationale",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
+   "qui": "Volodymyr Zelensky, Oleksandr Syrsky",
+   "ou": "Ukraine",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
    "sources": [
     "Le Figaro",
     "France 24"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "953596111e517618",
+   "importance": 75,
+   "empreinte": "f3b2a15c82a1fa39",
    "score": 93,
    "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-21T14:17:42.003544+00:00"
+   "depuis": "2026-07-21T20:23:42.240420+00:00"
   },
   {
    "faits": [
@@ -2220,6 +2175,30 @@
   },
   {
    "faits": [
+    "Le ferry MV Barima a coulé dans la nuit de samedi à dimanche au Guyana",
+    "Le bateau partait de Georgetown avec au moins 133 personnes à bord",
+    "Le ferry a été renversé par une grosse vague",
+    "Le bilan des autorités s'élève à au moins 41 morts",
+    "Un précédent bilan faisait état de 27 morts et 83 disparus"
+   ],
+   "qui": "Autorités du Guyana",
+   "ou": "Guyana, Georgetown",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "30f87c713ecaf801",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T20:23:42.240424+00:00"
+  },
+  {
+   "faits": [
     "Cédric Jubillar a avoué devant la justice avoir tué sa femme",
     "Il a déclaré l'avoir attrapée par le cou et avoir serré",
     "Il a déclaré vouloir qu'elle se taise",
@@ -2240,51 +2219,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T17:40:38.650397+00:00"
-  },
-  {
-   "faits": [
-    "Les frères Andrew et Tristan Tate, influenceurs américano-britanniques, ont été arrêtés samedi aux États-Unis",
-    "L'arrestation a été effectuée à la demande du Royaume-Uni qui réclame leur extradition",
-    "Ils sont soupçonnés de viols"
-   ],
-   "qui": "Andrew Tate, Tristan Tate",
-   "ou": "États-Unis",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "f5911f8f830d30fd",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T14:17:42.003553+00:00"
-  },
-  {
-   "faits": [
-    "Trois naufrages en série se sont produits au large de la Mauritanie entre le 14 et le 18 juillet",
-    "144 personnes sont mortes ou disparues",
-    "387 personnes ont pu être sauvées selon le Haut-Commissariat aux Nations unies pour les réfugiés",
-    "Les embarcations se dirigeaient vers l'Espagne et les îles Canaries"
-   ],
-   "qui": null,
-   "ou": "Mauritanie",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "680c80e9c1411b7c",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T14:17:42.002617+00:00"
   },
   {
    "faits": [
@@ -2603,6 +2537,72 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T17:40:38.651572+00:00"
+  },
+  {
+   "faits": [
+    "La France a définitivement adopté une proposition de loi interdisant l'accès aux réseaux sociaux pour les mineurs de moins de 15 ans le 21 juillet",
+    "Cette législation est une première en Europe",
+    "L'Australie, la Pologne et le Brésil avancent vers une interdiction similaire",
+    "L'expérience australienne livre de premiers enseignements sur l'efficacité d'une telle mesure"
+   ],
+   "qui": "Gouvernement français",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "69515e447fdc94ce",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T20:23:42.240439+00:00"
+  },
+  {
+   "faits": [
+    "Le président libanais Joseph Aoun a été reçu à la Maison Blanche par Donald Trump le 21 juillet",
+    "Trump a dit vouloir beaucoup aider le Liban",
+    "Cette visite intervient alors qu'un accord avec Israël parrainé par Washington entre dans sa première phase"
+   ],
+   "qui": "Donald Trump, Joseph Aoun",
+   "ou": "États-Unis, Liban, Israël",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "ca7230471771be1f",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T20:23:42.240441+00:00"
+  },
+  {
+   "faits": [
+    "Le parquet national antiterroriste (Pnat) a ouvert une enquête préliminaire pour tortures le 1er juillet",
+    "L'enquête porte sur les plaintes de deux personnes ayant pris part à une flottille pour Gaza en octobre 2025"
+   ],
+   "qui": "Parquet national antiterroriste français",
+   "ou": "France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "dc3212f30ac1043a",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T20:23:42.239091+00:00"
   }
  ],
  "publies_48h": [
