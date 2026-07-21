@@ -2,13 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/coupe-du-monde/la-fan-base-internationale-la-plus-faible-que-j-aie-jamais-vue-pourquoi-les-supporters-francais-sont-ils-si-peu-nombreux-dans-les-stades-de-cette-coupe-du-monde_8106191.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-vingt-six-departements-sont-toujours-places-en-vigilance-rouge-l-episode-de-chaleur-se-deplace-vers-le-sud-est_8107109.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/des-fois-j-aurais-prefere-rester-sous-les-roues-victime-et-temoins-de-l-attentat-de-nice-ils-racontent-la-nuit-qui-les-hantent-encore_8107670.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/melenchon/on-va-gagner-au-meeting-de-jean-luc-melenchon-en-bretagne-l-ambiance-est-a-l-optimisme-chez-les-militants-insoumis_8107643.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/direct-attentat-de-nice-suivez-les-commemorations-en-presence-d-emmanuel-macron-dix-ans-apres-l-attaque-sur-la-promenade-des-anglais_8086829.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/24h-du-mans/un-salarie-meurt-apres-un-malaise-lors-du-demontage-des-24-heures-du-mans-en-pleine-canicule-une-enquete-en-cours_8107775.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/ameriques/pres-de-40-personnes-enlevees-en-colombie-par-la-guerilla-de-l-eln-annonce-l-armee_8107865.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/directs/direct-france-espagne-les-bleus-en-quete-d-une-cinquieme-finale-de-coupe-du-monde-suivez-avec-nous-la-demi-finale-contre-la-roja-a-21-heures_8106404.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/c-est-vrai-je-l-avais-en-tete-comment-tadej-pogacar-a-pris-deux-ans-plus-tard-son-eclatante-revanche-sur-jonas-vingegaard-au-lioran_8107847.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/palestine/d-anciens-detenus-palestiniens-affirment-avoir-subi-des-violences-sexuelles-dans-des-prisons-israeliennes_8107931.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +294,14 @@
    "https://www.franceinfo.fr/environnement/crise-climatique/grand-format-nes-dans-les-annees-1950-1970-ou-encore-1990-comparez-les-temperatures-des-etes-de-votre-enfance-a-celles-d-aujourd-hui_8096318.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/causes-de-la-mort-proces-en-appel-suites-pour-cedric-jubillar-les-six-questions-qui-se-posent-encore-apres-la-decouverte-d-ossements-de-delphine-aussaguel_8115134.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/ca-nous-permet-d-etre-un-peu-plus-en-securite-un-systeme-de-capteurs-sur-le-casque-teste-sur-le-tour-de-france-pour-aider-a-detecter-les-commotions-cerebrales_8111762.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/votre-cv-est-incompatible-avec-la-fonction-pourquoi-la-probable-nomination-du-senateur-lr-francois-noel-buffet-au-poste-de-defenseur-des-droits-fait-polemique_8114936.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/politique/votre-cv-est-incompatible-avec-la-fonction-pourquoi-la-probable-nomination-du-senateur-lr-francois-noel-buffet-au-poste-de-defenseur-des-droits-fait-polemique_8114936.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/automobile/essence/hausse-des-prix-du-carburant-la-situation-est-extremement-incertaine-reagit-maud-bregeon-la-ministre-de-l-energie_8115962.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-cinq-departements-du-pourtour-mediterraneen-place-en-risque-tres-eleve-de-feux_8115884.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-un-contre-la-montre-autour-du-lac-leman-pour-remco-evenepoel-avec-pogacar-et-le-duel-seixas-del-toro-en-arbitre-l-etape-16-en-questions_8114897.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/qui-est-khalil-al-hayya-le-nouveau-chef-politique-du-hamas_8064602.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/disparition-de-deux-militaires-dans-le-var-les-resultats-des-analyses-des-ossements-retrouves-fin-mai-connus-avant-fin-juillet_8115785.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-iraniens-affirment-avoir-de-nouveau-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit_8115797.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/incendie-en-espagne-26-000-hectares-partis-en-fumee-au-nord-de-madrid_8115953.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -402,12 +402,6 @@
    "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/angleterre-argentine-centre-de-rogers-gordon-conclue-l-ouverture-du-score-des-anglais-en-video-20260715",
-   "https://www.lefigaro.fr/secteur/high-tech/allah-nous-a-aides-l-ia-nous-aidera-aussi-l-intelligence-artificielle-nouvelle-obsession-des-groupes-terroristes-20260715",
-   "https://www.lefigaro.fr/international/l-armee-americaine-annonce-qu-elle-va-desormais-mesurer-le-taux-de-testosterone-de-ses-soldats-20260715",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-c-est-facile-de-dire-que-mes-decisions-etaient-les-mauvaises-assure-tuchel-apres-l-elimination-anglaise-face-a-l-argentine-20260716",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/angleterre-argentine-messi-eternel-la-porte-pour-tuchel-les-tops-et-les-flops-de-la-demi-finale-20260716",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/au-coeur-du-mondial-espagne-angleterre-la-loi-du-plus-fort-20260716",
    "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-castex-le-maire-leclerc-pigasse-les-vraies-fausses-ambitions-des-invites-surprises-20260716",
    "https://www.lefigaro.fr/politique/presidentielle-2027-que-disent-les-derniers-sondages-20260710",
    "https://www.lefigaro.fr/meteo/pare-brise-pulverises-batiments-endommages-en-ardeche-les-impressionnantes-images-de-grelons-geants-20260716",
@@ -701,14 +695,15 @@
    "https://www.lefigaro.fr/international/guerre-au-moyen-orient-les-houthistes-yemenites-annoncent-un-blocus-maritime-de-riyad-20260720",
    "https://madame.lefigaro.fr/societe/actu/de-blind-date-au-10-downing-street-qui-est-marie-france-van-heel-la-nouvelle-premiere-dame-britannique-20260721",
    "https://www.lefigaro.fr/international/trump-affirme-avoir-eu-une-tres-bonne-conversation-avec-le-nouveau-premier-ministre-britannique-andy-burnham-20260721",
-   "https://www.lefigaro.fr/international/les-grands-chantiers-d-andy-burnham-le-nouveau-premier-ministre-britannique-qui-veut-rompre-avec-les-pratiques-du-passe-20260720"
+   "https://www.lefigaro.fr/international/les-grands-chantiers-d-andy-burnham-le-nouveau-premier-ministre-britannique-qui-veut-rompre-avec-les-pratiques-du-passe-20260720",
+   "https://www.lefigaro.fr/marseille/marseille-un-policier-grievement-blesse-lors-d-un-refus-d-obtemperer-quatre-suspects-interpelles-20260721",
+   "https://www.lefigaro.fr/social/couteux-incomprehensible-le-tarif-agent-cet-avantage-decrie-au-coeur-d-un-appel-a-la-greve-chez-edf-20260721",
+   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-sous-pression-pour-desarmer-le-hezbollah-le-president-libanais-joseph-aoun-recu-par-donald-trump-ce-mardi-a-la-maison-blanche-20260721",
+   "https://www.lefigaro.fr/conjoncture/royaume-uni-le-nouveau-gouvernement-annonce-la-suppression-de-la-tva-sur-l-electricite-des-menages-l-hiver-prochain-20260721",
+   "https://www.lefigaro.fr/actualite-france/les-50-decisions-qui-ont-coule-la-france-le-grand-renoncement-securitaire-et-judiciaire-20260721",
+   "https://www.lefigaro.fr/secteur/high-tech/les-victimes-d-arnaques-en-ligne-ont-perdu-jusqu-a-114-1-milliards-de-dollars-en-asie-et-dans-le-pacifique-l-an-dernier-20260721"
   ],
   "https://www.france24.com/fr/rss": [
-   "0e4e81f8-7f93-11f1-81a5-197fb62359f3",
-   "ac9658fc-7f95-11f1-a3df-0f7bd022a4d1",
-   "b66430a0-7f8d-11f1-a13c-f5ebecfadf0b",
-   "4780db5e-7f90-11f1-aab8-798a5728bea1",
-   "d9f8f0ee-7fad-11f1-96cc-f99c16245486",
    "2ae11a44-7fa5-11f1-999a-8b28b4c633f0",
    "89db4c8a-7fa6-11f1-a37c-0f265e30d01f",
    "b72ec10e-7f9b-11f1-b3d1-0f7bd022a4d1",
@@ -1003,7 +998,12 @@
    "4179d0f0-8489-11f1-bc58-c98139d3b091",
    "9f7077fc-84ae-11f1-9e79-b34584f04cb5",
    "63dec20a-84ab-11f1-9098-2ba36346e5ba",
-   "22ff89ae-84a1-11f1-bfcf-67aa391dc96b"
+   "22ff89ae-84a1-11f1-bfcf-67aa391dc96b",
+   "4a8e7d14-84c8-11f1-9385-e58bca03b299",
+   "2b340b58-84ac-11f1-b7e0-352673b3af9e",
+   "57ddcef6-84ba-11f1-af84-cf3673048914",
+   "6c2a2cec-84ab-11f1-a87f-2ba36346e5ba",
+   "8f1766a4-848b-11f1-9801-b7ba30744179"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1211,7 +1211,9 @@
    "f83dcf84-8485-11f1-bf12-ddae33f70e45",
    "1d189edc-84b9-11f1-b847-ed897496313e",
    "c6668290-8484-11f1-a1ce-ddae33f70e45",
-   "48cc3e40-8477-11f1-81f0-5d3614557b4c"
+   "48cc3e40-8477-11f1-81f0-5d3614557b4c",
+   "4477afe0-84cd-11f1-8128-cba796d7c824",
+   "c6345982-84c0-11f1-91fb-e95e97e59705"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-pourquoi-la-polemique-sur-la-gestion-du-detroit-dormuz-est-relancee-f52660d2-7eb7-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1882,25 +1884,190 @@
  "evenements_attente": [
   {
    "faits": [
-    "Donald Trump a signé un décret le 20 juillet 2026 imposant 50% de droits de douane supplémentaires sur des produits canadiens",
-    "Les produits concernés incluent les produits laitiers, l'alcool, le miel et le ciment",
-    "Ces droits de douane doivent entrer en vigueur dans un mois"
+    "Khalil al-Hayya a été élu à la tête du Hamas en tant que successeur de Yahya Sinouar",
+    "Al-Hayya est négociateur du cessez-le-feu avec Israël",
+    "Le Hamas est décrit comme décapité, isolé et aux marges de manœuvre très limitées"
    ],
-   "qui": "Donald Trump (président américain)",
-   "ou": "États-Unis / Canada",
+   "qui": "Khalil al-Hayya, Hamas",
+   "ou": null,
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "7409c2b4c3f0e0ff",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T07:25:01.869695+00:00"
+  },
+  {
+   "faits": [
+    "La France devrait définitivement adopter l'interdiction des réseaux sociaux aux moins de 15 ans",
+    "Cette mesure serait une première en Europe",
+    "Elle est destinée à protéger la santé des plus jeunes",
+    "Emmanuel Macron veut voir la loi mise en œuvre dès septembre"
+   ],
+   "qui": "Emmanuel Macron, députés français",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Calendrier exact de l'adoption définitive"
+   ],
+   "importance": 78,
+   "empreinte": "5ed8ba74b3947156",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T07:25:01.869699+00:00"
+  },
+  {
+   "faits": [
+    "Maud Bregeon, ministre de l'Énergie et porte-parole du gouvernement, déclare que 'la situation est extrêmement incertaine' concernant les prix du carburant",
+    "Elle affirme être 'vigilante' dans les '4V'"
+   ],
+   "qui": "Maud Bregeon",
+   "ou": "France",
    "categorie": "economie",
    "sensible": false,
    "confiance": 85,
    "sources": [
-    "RFI"
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "Nature exacte de la 'situation incertaine'"
+   ],
+   "importance": 70,
+   "empreinte": "6938c1193e4fc20e",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T07:25:01.869702+00:00"
+  },
+  {
+   "faits": [
+    "Un policier a été grièvement blessé lors d'un refus d'obtempérer à Marseille",
+    "L'agent a été projeté sur une vingtaine de mètres",
+    "Son pronostic vital était un temps engagé, mais ses jours ne sont plus en danger",
+    "Quatre suspects ont été interpellés"
+   ],
+   "qui": "Policier, quatre suspects",
+   "ou": "Marseille, France",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "c26095acdf18e789",
+   "importance": 65,
+   "empreinte": "497c207d3fc8eb08",
    "score": 83,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-21T01:13:10.338232+00:00"
+   "depuis": "2026-07-21T07:24:50.247130+00:00"
+  },
+  {
+   "faits": [
+    "Le Tour de France 2026 étape 16 est un contre-la-montre individuel entre Evian-les-Bains et Thonon-les-Bains",
+    "C'est le seul exercice chronométré de cette Grande Boucle",
+    "Remco Evenepoel, Pogacar, Seixas et Del Toro sont mentionnés comme protagonistes"
+   ],
+   "qui": "Remco Evenepoel, Pogacar, Seixas, Del Toro",
+   "ou": "Lac Léman (Evian-les-Bains à Thonon-les-Bains), France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "d0c8b63feb91753f",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T07:25:01.869704+00:00"
+  },
+  {
+   "faits": [
+    "Les syndicats d'EDF ont déposé un préavis de grève à partir du mardi 21 juillet",
+    "La grève est appelée pour défendre le 'tarif agent', un avantage préférentiel sur l'électricité et le gaz accordé à 300 000 agents et ex-agents d'EDF",
+    "Le gouvernement réfléchit à réduire cet avantage",
+    "La Cour des comptes a critiqué ce tarif comme coûteux et 'incompréhensible'"
+   ],
+   "qui": "Syndicats EDF, gouvernement, Cour des comptes",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "91f9e276b210bf33",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T07:25:01.869706+00:00"
+  },
+  {
+   "faits": [
+    "Un Marocain nommé Abderrahim Fakir est mort suite à une interpellation en Italie dimanche 20 juillet",
+    "Il a été brutalement interpellé par deux policiers à Bologne",
+    "Son décès a suscité émotion et polémique"
+   ],
+   "qui": "Abderrahim Fakir, deux policiers italiens",
+   "ou": "Bologne, Italie",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Circonstances exactes de la mort"
+   ],
+   "importance": 70,
+   "empreinte": "6c18adf4e25a7dcc",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T07:24:50.247488+00:00"
+  },
+  {
+   "faits": [
+    "L'Ukraine a mené une frappe spectaculaire sur la plus grande raffinerie de Russie à Omsk le 7 juillet dernier",
+    "La raffinerie est située à environ 2 500 kilomètres de la ligne de front",
+    "La frappe n'a pas d'impact marquant sur les approvisionnements ni la vie quotidienne à Omsk",
+    "Elle a laissé une profonde empreinte sur l'état d'esprit des habitants"
+   ],
+   "qui": "Ukraine, Russie",
+   "ou": "Omsk, Russie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "Impact économique à long terme exact"
+   ],
+   "importance": 70,
+   "empreinte": "2e6f4a20c06c2e62",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T07:24:50.247600+00:00"
   },
   {
    "faits": [
@@ -1931,82 +2098,71 @@
   },
   {
    "faits": [
-    "Naufrage du ferry MV Barima au Guyana dans la nuit de samedi à dimanche",
-    "Plus de 100 personnes à bord",
-    "69 survivants confirmés",
-    "Au moins 27 morts",
-    "83 personnes portées disparues",
-    "Bilan provisoire"
+    "Selon un rapport de l'ONUDC, les victimes d'arnaques en ligne en Asie et dans le Pacifique ont perdu jusqu'à 114,1 milliards de dollars l'an dernier",
+    "Les cyberarnaques ont connu une forte progression en Asie de l'Est, du Sud-Est, en Australie et en Nouvelle-Zélande",
+    "Les pertes ont triplé depuis 2023"
    ],
-   "qui": "Mark Phillips (Premier ministre guyanien)",
-   "ou": "Guyana, nord-ouest",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "bilan exact du nombre de morts et disparus"
-   ],
-   "importance": 80,
-   "empreinte": "75c866ed5a782c68",
-   "score": 81,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T23:38:24.267302+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump a signé un décret imposant 50% de droits de douane supplémentaires sur plusieurs produits canadiens",
-    "Mesure présentée comme réponse au traitement discriminatoire du Canada sur les produits américains",
-    "Conflits commerciaux portent sur les produits laitiers, l'alcool et l'automobile"
-   ],
-   "qui": "Donald Trump (président américain), Canada",
-   "ou": "États-Unis, Canada",
+   "qui": "ONUDC (Office des Nations unies contre la drogue et le crime)",
+   "ou": "Asie, Pacifique",
    "categorie": "economie",
    "sensible": false,
    "confiance": 85,
    "sources": [
-    "Ouest-France"
+    "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 72,
-   "empreinte": "d1c161725e2f8775",
+   "importance": 65,
+   "empreinte": "63c55d04fd70c470",
    "score": 81,
-   "fiab_max": 80,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-20T23:38:31.639637+00:00"
+   "depuis": "2026-07-21T07:25:01.869709+00:00"
   },
   {
    "faits": [
-    "Escalade militaire entre États-Unis et Iran",
-    "Frappes aériennes américaines contre l'Iran en cours",
-    "Trois soldats américains tués au Moyen-Orient depuis le 7 juillet",
-    "Un soldat américain disparu",
-    "L'Iran frappe en retour des intérêts américains dans la région",
-    "Explosions rapportées sur l'île de Qeshm",
-    "Les Gardiens de la Révolution iraniens affirment avoir arrêté deux pétroliers",
-    "Un pétrolier en feu au détroit d'Ormuz",
-    "Trump affirme que l'Iran payera plusieurs fois le prix pour les morts américains"
+    "Deux militaires ont disparu dans le Var, l'un en 2022 et l'autre en 2023",
+    "Des ossements ont été retrouvés fin mai",
+    "Le parquet de Toulon lance un appel à témoins et enquête sur d'autres disparitions possibles de personnes originaires des îles pacifiques",
+    "Les résultats des analyses des ossements seront connus avant fin juillet"
    ],
-   "qui": "Donald Trump, Iran, États-Unis",
-   "ou": "Moyen-Orient, détroit d'Ormuz, île de Qeshm",
-   "categorie": "international",
+   "qui": "Parquet de Toulon",
+   "ou": "Var, France",
+   "categorie": "justice",
    "sensible": true,
    "confiance": 80,
    "sources": [
-    "BFMTV"
+    "franceinfo"
    ],
    "non_confirme": [
-    "cause exacte de l'incendie du pétrolier"
+    "Identification définitive des restes trouvés"
    ],
-   "importance": 88,
-   "empreinte": "b8654afa772e9461",
+   "importance": 60,
+   "empreinte": "b277090d1682ccee",
    "score": 80,
-   "fiab_max": 75,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-20T23:38:24.267386+00:00"
+   "depuis": "2026-07-21T07:24:50.247084+00:00"
+  },
+  {
+   "faits": [
+    "Le Royaume-Uni annonce la suppression de la TVA sur l'électricité des ménages l'hiver prochain",
+    "Andy Burnham, Premier ministre depuis son deuxième jour en fonction, a annoncé cette mesure"
+   ],
+   "qui": "Andy Burnham",
+   "ou": "Royaume-Uni",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "318c1ff3010646ac",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T07:25:01.869711+00:00"
   },
   {
    "faits": [
@@ -2030,52 +2186,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-21T04:38:04.453488+00:00"
-  },
-  {
-   "faits": [
-    "Le président gabonais Brice Clotaire Oligui Nguema effectue une visite d'État en France le 20 juillet 2026",
-    "Il s'est entretenu avec Emmanuel Macron",
-    "Un premier protocole d'accord sur le manganèse a été validé entre la France et le Gabon",
-    "Ces discussions font suite aux accords conclus en novembre 2025 à Libreville"
-   ],
-   "qui": "Brice Clotaire Oligui Nguema (président du Gabon), Emmanuel Macron (président français)",
-   "ou": "France / Gabon",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "1045eb29840d1ff2",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T01:13:10.338247+00:00"
-  },
-  {
-   "faits": [
-    "Strasbourg a perdu 7-0 contre le Sporting CP en match amical",
-    "C'était le premier match amical de l'été pour Strasbourg",
-    "C'étaient les débuts d'Hugo Oliveira sur le banc de Strasbourg",
-    "Le Sporting CP est le vice-champion du Portugal"
-   ],
-   "qui": "Strasbourg, Sporting CP, Hugo Oliveira",
-   "ou": "France, Portugal",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "cd2835e9cebe0570",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T23:38:31.639639+00:00"
   },
   {
    "faits": [
@@ -2106,50 +2216,23 @@
   },
   {
    "faits": [
-    "L'équipe de France a été battue par l'Angleterre (4-6) samedi lors du match pour la 3e place de la Coupe du monde",
-    "Rayan Cherki a publié un message rendant hommage à Didier Deschamps après la compétition",
-    "Cherki avait été critiqué pour ses performances et son attitude durant le tournoi"
+    "La galerie Apollon du Louvre rouvre neuf mois après le vol d'une partie des bijoux de la couronne lors d'un casse rocambolesque"
    ],
-   "qui": "Rayan Cherki, Didier Deschamps, équipe de France, Angleterre",
-   "ou": null,
-   "categorie": "sport",
+   "qui": "Louvre",
+   "ou": "Louvre, Paris, France",
+   "categorie": "culture",
    "sensible": false,
    "confiance": 80,
    "sources": [
-    "L'Équipe"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 65,
-   "empreinte": "bae2260ef8eafcf6",
-   "score": 79,
+   "importance": 55,
+   "empreinte": "ac30f23f93b6b93b",
+   "score": 77,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-21T01:13:10.338251+00:00"
-  },
-  {
-   "faits": [
-    "Un suspect a été inculpé pour le meurtre d'Ann Widdecombe, ancienne députée britannique",
-    "Ann Widdecombe était membre du parti Reform UK (anti-immigration)",
-    "L'enquête se poursuit pour déterminer le mobile"
-   ],
-   "qui": "Ann Widdecombe, suspect non nommé, parquet britannique",
-   "ou": "Royaume-Uni",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "identité du suspect",
-    "mobile du meurtre"
-   ],
-   "importance": 75,
-   "empreinte": "5dd174df63e247ab",
-   "score": 78,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T23:38:24.267429+00:00"
+   "depuis": "2026-07-21T07:25:01.869716+00:00"
   },
   {
    "faits": [
@@ -2181,38 +2264,28 @@
   },
   {
    "faits": [
-    "Ferran Torres, buteur en finale de la Coupe du monde, intéresse le PSG",
-    "Le Real Madrid surveille également le joueur",
-    "Sa situation au FC Barcelone s'enlisait"
+    "Les plages du D-Day pourraient bientôt être inscrites au patrimoine mondial de l'Unesco"
    ],
-   "qui": "Ferran Torres, PSG, Real Madrid, FC Barcelone",
-   "ou": null,
-   "categorie": "sport",
+   "qui": "Unesco",
+   "ou": "Normandie, France (plages du D-Day)",
+   "categorie": "culture",
    "sensible": false,
    "confiance": 75,
    "sources": [
-    "L'Équipe"
+    "France 24"
    ],
    "non_confirme": [
-    "intérêt confirmé du PSG"
+    "Confirmation de l'inscription"
    ],
-   "importance": 55,
-   "empreinte": "689c0cefa8502e16",
+   "importance": 50,
+   "empreinte": "2be0e6e7e37d6a2e",
    "score": 74,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-21T01:12:53.259229+00:00"
+   "depuis": "2026-07-21T07:24:50.247562+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "84d7ca8f2b663b3f",
-   "2026-07-19T07:11:03.236926+00:00"
-  ],
-  [
-   "1636597268d8f3ca",
-   "2026-07-19T07:11:07.242147+00:00"
-  ],
   [
    "9fde7baed56a2792",
    "2026-07-19T22:05:47.121029+00:00"
@@ -2284,17 +2357,17 @@
   [
    "aee576f8d8e21963",
    "2026-07-21T04:38:09.445514+00:00"
+  ],
+  [
+   "d945f01a05b59ccb",
+   "2026-07-21T07:25:03.017680+00:00"
+  ],
+  [
+   "4092137f7770f5c5",
+   "2026-07-21T07:25:06.986137+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "9a92af4f9da8f8fc",
-   "2026-07-19T07:10:53.227163+00:00"
-  ],
-  [
-   "4e957e0f03b79398",
-   "2026-07-19T07:11:02.068188+00:00"
-  ],
   [
    "2c15350321a26775",
    "2026-07-19T22:05:39.768976+00:00"
@@ -2366,6 +2439,14 @@
   [
    "5ec9a05271878df2",
    "2026-07-21T04:38:04.453471+00:00"
+  ],
+  [
+   "40a598471410a620",
+   "2026-07-21T07:24:56.768306+00:00"
+  ],
+  [
+   "fae50e3d574aa944",
+   "2026-07-21T07:25:01.869686+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2376,12 +2457,14 @@
   "🇬🇧 Andy Burnham a été nommé Premier ministre du Royaume-Uni lundi, succédant à Keir Starmer à la tête du Parti travailliste. Dans un contexte économique et politique instable, les experts estiment qu'il devra démontrer la solidité de son programme. (France 24, RFI)",
   "Au moins 14 personnes sont mortes lundi 20 juillet dans des échanges de bombardements entre la Russie et l'Ukraine. Six morts dans la région russe de Belgorod, huit en Ukraine. (franceinfo)",
   "🇫🇷 L'Assemblée nationale adopte un projet de loi d'urgence agricole réintroduisant l'acétamipride, un pesticide néonicotinoïde interdit, et modifiant la gestion de l'eau. Le texte a divisé la droite et la gauche. (franceinfo, Ouest-France)",
-  "⚡ FLASH — Les États-Unis mènent une dixième nuit de frappes contre l'Iran, ciblant centres de commandement et installations maritimes. Les Gardiens de la Révolution affirment riposter à Bahreïn et au Koweït. L'ONU craint une escalade régionale."
+  "⚡ FLASH — Les États-Unis mènent une dixième nuit de frappes contre l'Iran, ciblant centres de commandement et installations maritimes. Les Gardiens de la Révolution affirment riposter à Bahreïn et au Koweït. L'ONU craint une escalade régionale.",
+  "Cinq départements du sud-est français (Aude, Gard, Bouches-du-Rhône, Var, Vaucluse) sont au plus haut niveau de risque de feux de forêt. En Espagne, un incendie au nord de Madrid a brûlé 26 000 hectares. (franceinfo)",
+  "Les Gardiens de la Révolution iraniens affirment avoir visé des cibles militaires américaines à Bahreïn et au Koweït. L'armée américaine dit avoir ciblé des installations iraniennes dans le Golfe Persique. (franceinfo, France 24)"
  ],
  "recap_date": "2026-07-20",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-21",
-  "publies": 8
+  "publies": 10
  }
 }

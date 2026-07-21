@@ -4234,3 +4234,37 @@
 {"decision": "controle", "evt": "5ec9a05271878df2", "motif": "ok_sim_0.41+alerte_retrogradee", "ts": "2026-07-21T04:38:04+00:00"}
 {"decision": "publie", "empreinte": "29e78075634de192", "post_id": "2079425657600364718", "carte": true, "texte": "🇫🇷 L'Assemblée nationale adopte un projet de loi d'urgence agricole réintroduisant l'acétamipride, un pesticide néonicotinoïde interdit, et modifiant la gestion de l'eau. Le texte a divisé la droite et la gauche. (franceinfo, Ouest-France)", "ts": "2026-07-21T04:38:05+00:00"}
 {"decision": "publie", "empreinte": "aee576f8d8e21963", "post_id": "2079425673987609061", "carte": true, "texte": "⚡ FLASH — Les États-Unis mènent une dixième nuit de frappes contre l'Iran, ciblant centres de commandement et installations maritimes. Les Gardiens de la Révolution affirment riposter à Bahreïn et au Koweït. L'ONU craint une escalade régionale.", "ts": "2026-07-21T04:38:09+00:00"}
+{"decision": "abandon_attente", "evt": "c26095acdf18e789", "categorie": "economie", "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "abandon_attente", "evt": "75c866ed5a782c68", "categorie": "faits_divers", "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "abandon_attente", "evt": "d1c161725e2f8775", "categorie": "economie", "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "abandon_attente", "evt": "b8654afa772e9461", "categorie": "international", "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "abandon_attente", "evt": "1045eb29840d1ff2", "categorie": "international", "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "abandon_attente", "evt": "cd2835e9cebe0570", "categorie": "sport", "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "abandon_attente", "evt": "bae2260ef8eafcf6", "categorie": "sport", "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "abandon_attente", "evt": "5dd174df63e247ab", "categorie": "justice", "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "abandon_attente", "evt": "689c0cefa8502e16", "categorie": "sport", "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "40a598471410a620", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 95, "sources": ["franceinfo", "Le Figaro"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "fae50e3d574aa944", "score": 98, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["franceinfo", "France 24"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "7409c2b4c3f0e0ff", "score": 87, "categorie": "international", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "attente", "evt": "b277090d1682ccee", "score": 80, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "attente", "evt": "497c207d3fc8eb08", "score": 83, "categorie": "faits_divers", "sensible": true, "confiance": 90, "sources": ["Le Figaro"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "6938c1193e4fc20e", "score": 84, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "d0c8b63feb91753f", "score": 83, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "91f9e276b210bf33", "score": 83, "categorie": "economie", "sensible": false, "confiance": 90, "sources": ["Le Figaro"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "0337844f9399ba33", "score": 98, "categorie": "international", "sensible": false, "confiance": 92, "sources": ["Le Figaro", "France 24", "RFI"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "318c1ff3010646ac", "score": 80, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "5ed8ba74b3947156", "score": 85, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "184fdb2b5236716c", "score": 88, "categorie": "sport", "sensible": false, "confiance": 95, "sources": ["France 24"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "attente", "evt": "6c18adf4e25a7dcc", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "ac30f23f93b6b93b", "score": 77, "categorie": "culture", "sensible": false, "confiance": 80, "sources": ["France 24"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "attente", "evt": "2be0e6e7e37d6a2e", "score": 74, "categorie": "culture", "sensible": false, "confiance": 75, "sources": ["France 24"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "attente", "evt": "2e6f4a20c06c2e62", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "63c55d04fd70c470", "score": 81, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "28715eb6e02c4c75", "score": 82, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "9b1bcf12b2004479", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "publier", "evt": "f1fde27f7944e80a", "score": 79, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "attente", "evt": "c0840a686f0a2e0a", "score": 76, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["RFI"], "ts": "2026-07-21T07:24:50+00:00"}
+{"decision": "controle", "evt": "40a598471410a620", "motif": "ok_sim_0.44", "ts": "2026-07-21T07:24:56+00:00"}
+{"decision": "controle", "evt": "fae50e3d574aa944", "motif": "ok_sim_0.51", "ts": "2026-07-21T07:25:01+00:00"}
+{"decision": "publie", "empreinte": "d945f01a05b59ccb", "post_id": "2079467673830785430", "carte": true, "texte": "Cinq départements du sud-est français (Aude, Gard, Bouches-du-Rhône, Var, Vaucluse) sont au plus haut niveau de risque de feux de forêt. En Espagne, un incendie au nord de Madrid a brûlé 26 000 hectares. (franceinfo)", "ts": "2026-07-21T07:25:03+00:00"}
+{"decision": "publie", "empreinte": "4092137f7770f5c5", "post_id": "2079467690456916478", "carte": true, "texte": "Les Gardiens de la Révolution iraniens affirment avoir visé des cibles militaires américaines à Bahreïn et au Koweït. L'armée américaine dit avoir ciblé des installations iraniennes dans le Golfe Persique. (franceinfo, France 24)", "ts": "2026-07-21T07:25:06+00:00"}
