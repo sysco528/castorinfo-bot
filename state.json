@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/moyen-orient/direct-guerre-au-moyen-orient-les-etats-unis-frappent-l-iran-pour-la-troisieme-nuit-de-suite-avant-de-retablir-un-blocus-des-ports-iraniens_8107154.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/immense-desillusion-pour-l-equipe-de-france-eliminee-par-l-espagne-en-demi-finales-de-la-coupe-du-monde_8108021.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-debut-de-l-ete-a-ete-le-plus-chaud-en-espagne-depuis-les-premiers-releves-en-1961_8107997.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/proche-orient/liban/au-premier-jour-de-discussions-a-rome-israel-se-dit-pret-a-avancer-sur-le-retrait-de-deux-zones-pilotes-au-liban_8108015.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/armee-securite-defense/exces-de-vitesse-alcool-les-gendarmes-des-mers-toujours-plus-sollicites-face-aux-imprudences-des-vacanciers_8107982.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/les-incendies-dans-la-foret-de-fontainebleau-sont-fixes-mais-pas-eteints-quatre-gardes-a-vue-encore-en-cours_8108075.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/fin-de-l-alerte-canicule-la-vigilance-rouge-entierement-levee-a-6-heures-mercredi-pour-les-26-derniers-departements-concernes_8108045.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/espagne/incendie-en-espagne-une-francaise-figure-parmi-les-premieres-victimes-identifiees-par-les-autorites_8106281.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/culture/musique/les-critiques-fusent-a-l-encontre-de-lfi-apres-le-concert-interrompu-de-barbara-butch-a-grenoble_8116124.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/proche-orient/liban/reportage-qui-sera-le-prochain-enleve-au-sud-du-liban-des-familles-s-inquietent-de-la-disparition-de-leurs-proches_8115890.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement/les-freres-tate-s-opposent-a-leur-extradition-vers-le-royaume-uni-qu-ils-jugent-motivee-politiquement_8116115.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/arts-expos/louvre/la-galerie-d-apollon-du-louvre-rouvre-mercredi_8116010.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/culture/arts-expos/louvre/la-galerie-d-apollon-du-louvre-rouvre-mercredi_8116010.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sante/vaccins/pourquoi-la-haute-autorite-de-sante-recommande-de-rendre-obligatoire-la-vaccination-contre-la-grippe-pour-tous-les-professionnels-de-sante_8116070.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/tour-de-france-evenepoel-veut-se-rapprocher-de-pogacar-seixas-en-embuscade-suivez-le-contre-la-montre-entre-evian-les-bains-et-thonon-les-bains_8116097.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/internet/reseaux-sociaux/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-telephones-interdits-au-lycee-ce-que-contient-la-proposition-de-loi-qui-doit-etre-votee-ce-mardi_8115896.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/transports/sncf/jean-castex-annonce-le-depart-du-pdg-de-sncf-voyageurs-et-reorganise-cette-filiale_8116358.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/automobile/essence/l-augmentation-des-prix-des-carburants-aussi-due-a-des-investisseurs-qui-jouent-avec-les-risques-selon-le-syndicat-mobilians_8116259.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -414,14 +414,6 @@
    "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/meteo/pare-brise-pulverises-batiments-endommages-en-ardeche-les-impressionnantes-images-de-grelons-geants-20260716",
-   "https://www.lefigaro.fr/actualite-france/kill-pill-mode-d-emploi-les-travaux-en-cours-pour-preparer-l-application-du-texte-sur-l-aide-a-mourir-20260715",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-des-joueurs-deploient-une-banderole-les-malouines-sont-argentines-le-president-milei-tempere-20260716",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/angleterre-argentine-c-est-fou-de-jouer-deux-finales-de-suite-se-rejouit-lionel-messi-20260716",
-   "https://www.lefigaro.fr/faits-divers/meurtre-de-delphine-jubillar-des-fouilles-en-cours-autour-de-cagnac-les-mines-20260716",
-   "https://www.lefigaro.fr/international/sauvetage-ou-collusion-avec-les-passeurs-les-images-inedites-d-un-bateau-de-l-ong-sea-watch-filme-au-contact-d-un-canot-de-migrants-en-mediterranee-20260716",
-   "https://www.lefigaro.fr/meteo/en-direct-canicule-incendies-feux-de-foret-fontainebleau-pompiers-arrestations-20260716",
-   "https://www.lefigaro.fr/politique/foret-de-fontainebleau-valerie-pecresse-veut-lancer-une-grande-initiative-de-regeneration-sur-le-modele-de-notre-dame-de-paris-20260716",
    "https://www.lefigaro.fr/faits-divers/en-direct-affaire-jubillar-des-fouilles-en-cours-autour-de-cagnac-les-mines-cedric-jubillar-present-sur-place-20260716",
    "https://www.lefigaro.fr/faits-divers/on-explique-que-quand-on-aime-trop-on-peut-tuer-le-voyage-dans-le-temps-de-la-defense-de-cedric-jubillar-qui-invoque-un-crime-passionnel-20260707",
    "https://madame.lefigaro.fr/societe/son-nom-est-delphine-aussaguel-pourquoi-ne-dit-on-plus-delphine-jubillar-20260709",
@@ -713,16 +705,17 @@
    "https://www.lefigaro.fr/actualite-france/les-50-decisions-qui-ont-coule-la-france-le-grand-renoncement-securitaire-et-judiciaire-20260721",
    "https://www.lefigaro.fr/secteur/high-tech/les-victimes-d-arnaques-en-ligne-ont-perdu-jusqu-a-114-1-milliards-de-dollars-en-asie-et-dans-le-pacifique-l-an-dernier-20260721",
    "https://www.lefigaro.fr/marseille/le-maire-d-ales-menace-de-mort-par-la-dz-mafia-exfiltre-de-son-domicile-par-le-raid-20260721",
-   "https://www.lefigaro.fr/international/liban-l-armee-annonce-avoir-entame-son-deploiement-dans-les-zones-pilotes-du-sud-du-pays-20260721"
+   "https://www.lefigaro.fr/international/liban-l-armee-annonce-avoir-entame-son-deploiement-dans-les-zones-pilotes-du-sud-du-pays-20260721",
+   "https://www.lefigaro.fr/politique/elles-ont-failli-en-venir-aux-mains-a-l-assemblee-grosse-altercation-borne-genevard-en-marge-de-la-loi-agricole-20260721",
+   "https://www.lefigaro.fr/conjoncture/qu-est-ce-que-l-acetamipride-ce-pesticide-decrie-dans-la-proposition-de-loi-duplomb-20250526",
+   "https://www.lefigaro.fr/politique/sebastien-lecornu-appelle-a-ne-pas-instrumentaliser-a-des-fins-politiciennes-la-loi-d-urgence-agricole-utile-pour-notre-souverainete-alimentaire-20260721",
+   "https://www.lefigaro.fr/actualite-france/approuvez-vous-la-reintroduction-de-deux-pesticides-dans-le-cadre-de-la-loi-d-urgence-agricole-20260721",
+   "https://www.lefigaro.fr/marseille/fusillade-a-carcassonne-maire-menace-a-ales-la-dzng-une-franchise-identitaire-et-ultraviolente-de-la-dz-mafia-20260721",
+   "https://www.lefigaro.fr/international/royaume-uni-un-navire-russe-mene-un-exercice-de-tir-reel-dans-la-manche-20260721",
+   "https://www.lefigaro.fr/international/les-deux-diplomates-francais-detenus-en-iran-l-ont-ete-sans-motif-l-un-a-fait-l-objet-de-violences-physiques-20260721",
+   "https://www.lefigaro.fr/voyages/conseils/voyage-a-dubai-ou-riyad-air-france-repousse-encore-la-reprise-de-ses-vols-20260721"
   ],
   "https://www.france24.com/fr/rss": [
-   "2ae11a44-7fa5-11f1-999a-8b28b4c633f0",
-   "89db4c8a-7fa6-11f1-a37c-0f265e30d01f",
-   "b72ec10e-7f9b-11f1-b3d1-0f7bd022a4d1",
-   "90b93530-7f9c-11f1-a2c3-0f7bd022a4d1",
-   "cbce5a92-7fba-11f1-8255-53c2522f1d6a",
-   "63a2d2a4-7f97-11f1-94d7-0f7bd022a4d1",
-   "e0509744-7fc6-11f1-a072-157bd4417cf8",
    "445df66c-7fbf-11f1-86e4-7b7a37c6636a",
    "3f0aba2c-7fbc-11f1-bab1-53c2522f1d6a",
    "5cd96b66-7fb7-11f1-8b0b-7772b74bfb79",
@@ -1015,7 +1008,14 @@
    "2b340b58-84ac-11f1-b7e0-352673b3af9e",
    "57ddcef6-84ba-11f1-af84-cf3673048914",
    "6c2a2cec-84ab-11f1-a87f-2ba36346e5ba",
-   "8f1766a4-848b-11f1-9801-b7ba30744179"
+   "8f1766a4-848b-11f1-9801-b7ba30744179",
+   "ab94125a-84f4-11f1-8461-ab341b3d5f8e",
+   "deff7928-84e4-11f1-b68b-d5f58183616c",
+   "39e1c00c-84f5-11f1-b4e5-b99ea12e5f3d",
+   "339a1fce-84ef-11f1-bfce-850f86d6b842",
+   "d459fe08-84e9-11f1-805e-850f86d6b842",
+   "38b1fdce-84ea-11f1-b591-4543be9e0018",
+   "45b287f2-7c55-11f1-9542-670d3c97ac56"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1974,6 +1974,31 @@
   },
   {
    "faits": [
+    "Une proposition de loi doit être votée le 21 juillet 2026 interdisant les réseaux sociaux aux moins de 15 ans",
+    "La proposition de loi interdit aussi les téléphones au lycée",
+    "La proposition est portée par la députée Renaissance Laure Miller",
+    "C'est un projet phare de la fin de mandat d'Emmanuel Macron",
+    "Les parlementaires socialistes et insoumis s'opposent au texte",
+    "Les opposants dénoncent le flou sur les mécanismes de vérification d'âge"
+   ],
+   "qui": "Laure Miller (députée Renaissance), parlementaires socialistes et insoumis",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 78,
+   "empreinte": "ace3ec76469036bc",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T11:59:13.137313+00:00"
+  },
+  {
+   "faits": [
     "Andy Burnham, ancien maire du Grand Manchester, est devenu premier ministre britannique",
     "Il remplace Keir Starmer",
     "Burnham est le septième premier ministre britannique depuis 2016",
@@ -2087,6 +2112,71 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-21T07:25:01.869695+00:00"
+  },
+  {
+   "faits": [
+    "La Haute Autorité de santé recommande de rendre obligatoire la vaccination contre la grippe pour les professionnels de santé",
+    "Le gouvernement annonce engager les travaux pour mettre en œuvre l'obligation vaccinale des professionnels au contact des personnes vulnérables"
+   ],
+   "qui": "Haute Autorité de santé, gouvernement français",
+   "ou": "France",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "ed940fdafae3de00",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T11:59:13.137325+00:00"
+  },
+  {
+   "faits": [
+    "Contre-la-montre individuel du Tour de France 2026 entre Evian-les-Bains et Thonon-les-Bains",
+    "C'est le seul exercice chronométré en individuel du Tour de France cette année",
+    "Un col de deuxième catégorie figure au parcours"
+   ],
+   "qui": "Evenepoel, Pogacar, Seixas (coureurs)",
+   "ou": "Evian-les-Bains, Thonon-les-Bains, France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "2f1d4bd9ce8065aa",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T11:59:13.137326+00:00"
+  },
+  {
+   "faits": [
+    "L'Espagne a remporté la Coupe du monde 2026 en battant l'Argentine 1-0",
+    "Deux millions de personnes sont venues accueillir les champions du monde à Madrid le 20 juillet 2026",
+    "Une liesse populaire a envahi les rues de Madrid"
+   ],
+   "qui": "Espagne, Argentine",
+   "ou": "Madrid, Espagne",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 73,
+   "empreinte": "b177ffa410dbd2a1",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T11:59:13.137328+00:00"
   },
   {
    "faits": [
@@ -2216,6 +2306,30 @@
   },
   {
    "faits": [
+    "Deux diplomates français ont été détenus en Iran sans motif",
+    "L'un des diplomates français a fait l'objet de violences physiques",
+    "Jean-Noël Barrot, ministre des Affaires étrangères français, a qualifié cette atteinte de gravissime et inadmissible"
+   ],
+   "qui": "France, Iran, Jean-Noël Barrot",
+   "ou": "Iran, France",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 86,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "motifs réels de la détention selon l'Iran"
+   ],
+   "importance": 79,
+   "empreinte": "cd494a73890ef54d",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T11:59:13.136509+00:00"
+  },
+  {
+   "faits": [
     "Maud Bregeon, ministre de l'Énergie et porte-parole du gouvernement, déclare que 'la situation est extrêmement incertaine' concernant les prix du carburant",
     "Elle affirme être 'vigilante' dans les '4V'"
    ],
@@ -2259,6 +2373,51 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T07:24:50.247130+00:00"
+  },
+  {
+   "faits": [
+    "Un navire russe mène un exercice de tir réel dans la Manche",
+    "L'exercice s'est produit à environ 40 miles nautiques au sud de Plymouth",
+    "L'incident a été signalé par le ministère britannique"
+   ],
+   "qui": "Russie, Royaume-Uni",
+   "ou": "Manche, Plymouth",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "dd933e335c3bca0f",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T11:59:13.137338+00:00"
+  },
+  {
+   "faits": [
+    "L'édition 2026 du Tour de France est marquée par plusieurs contrôles antidopage très médiatisés",
+    "Des contrôles antidopage nocturnes ont visé le maillot jaune Tadej Pogacar et Jonas Vingegaard",
+    "Une autre vague de contrôles a touché six équipes du peloton lundi",
+    "La formation de Paul Seixas a été soumise à des contrôles"
+   ],
+   "qui": "Tadej Pogacar, Jonas Vingegaard, Remco Evenepoel, Paul Seixas",
+   "ou": "Tour de France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "7d9790d6ea288ac7",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T11:59:13.137340+00:00"
   },
   {
    "faits": [
@@ -2333,6 +2492,33 @@
   },
   {
    "faits": [
+    "La DZNG (DZ Mafia Nouvelle Génération) a pris le pas sur le canal historique de la DZ Mafia depuis début 2026",
+    "La DZ Mafia est en proie à des luttes intestines",
+    "Une fusillade a eu lieu à Carcassonne",
+    "Le maire d'Alès a été menacé",
+    "La DZNG s'inspire des codes criminels latino-américains",
+    "La DZNG est qualifiée d'identitaire et ultraviolente"
+   ],
+   "qui": "DZNG (DZ Mafia Nouvelle Génération), DZ Mafia",
+   "ou": "Carcassonne, Alès, France",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 83,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "nombre de morts ou blessés à Carcassonne"
+   ],
+   "importance": 74,
+   "empreinte": "6f257a42e03a796e",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T11:59:13.136462+00:00"
+  },
+  {
+   "faits": [
     "Un Marocain nommé Abderrahim Fakir est mort suite à une interpellation en Italie dimanche 20 juillet",
     "Il a été brutalement interpellé par deux policiers à Bologne",
     "Son décès a suscité émotion et polémique"
@@ -2382,244 +2568,51 @@
   },
   {
    "faits": [
-    "Le Rassemblement national a été victime d'un piratage informatique",
-    "Le RN va porter plainte",
-    "Selon une source au sein du parti, il n'y a pas de données personnelles volées à ce stade",
-    "Le parti ne précise ni la nature ni l'origine de l'attaque"
+    "Le prix du SP95-E10 est repassé au-dessus des 2 euros le litre à la pompe le 20 juillet 2026",
+    "Le syndicat Mobilians cite plusieurs facteurs pour expliquer l'augmentation des carburants",
+    "Des investisseurs jouent avec les risques selon le syndicat Mobilians",
+    "Francis Pousse est président national de la branche Distributeurs Carburants et Énergies Nouvelles du syndicat Mobilians"
    ],
-   "qui": "Rassemblement national",
-   "ou": null,
-   "categorie": "politique",
+   "qui": "Syndicat Mobilians, Francis Pousse",
+   "ou": "France",
+   "categorie": "economie",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 82,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [
-    "nature et origine de l'attaque",
-    "étendue réelle des données compromises"
+    "responsabilité exacte des investisseurs dans l'augmentation"
    ],
-   "importance": 60,
-   "empreinte": "d1497aa0eb3748ab",
+   "importance": 68,
+   "empreinte": "31c8a9d82e4c7472",
    "score": 82,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-21T10:06:29.027068+00:00"
+   "depuis": "2026-07-21T11:59:13.137345+00:00"
   },
   {
    "faits": [
-    "La probable nomination du sénateur LR François-Noël Buffet au poste de Défenseur des droits fait polémique",
-    "Cette nomination a été choisie par Emmanuel Macron",
-    "François-Noël Buffet est un ancien ministre",
-    "Il est auditionné mardi par la commission des lois du Sénat",
-    "Son CV serait présenté comme incompatible avec la fonction",
-    "Un vote doit entériner ce choix"
+    "Sébastien Lecornu, premier ministre, appelle à ne pas instrumentaliser à des fins politiques la loi d'urgence agricole",
+    "Lecornu affirme que le compromis ne revient pas sur l'interdiction de l'acétamipride",
+    "Lecornu estime que l'essentiel de la loi ne peut être réduit à l'article sur l'acétamipride",
+    "Lecornu qualifie la loi d'utile pour la souveraineté alimentaire"
    ],
-   "qui": "François-Noël Buffet, Emmanuel Macron, commission des lois du Sénat",
+   "qui": "Sébastien Lecornu (premier ministre)",
    "ou": "France",
    "categorie": "politique",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 88,
    "sources": [
-    "franceinfo"
+    "Le Figaro"
    ],
-   "non_confirme": [
-    "vote final"
-   ],
-   "importance": 60,
-   "empreinte": "28715eb6e02c4c75",
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "76b021ce9970eda5",
    "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T04:38:04.453484+00:00"
-  },
-  {
-   "faits": [
-    "Selon un rapport de l'ONUDC, les victimes d'arnaques en ligne en Asie et dans le Pacifique ont perdu jusqu'à 114,1 milliards de dollars l'an dernier",
-    "Les cyberarnaques ont connu une forte progression en Asie de l'Est, du Sud-Est, en Australie et en Nouvelle-Zélande",
-    "Les pertes ont triplé depuis 2023"
-   ],
-   "qui": "ONUDC (Office des Nations unies contre la drogue et le crime)",
-   "ou": "Asie, Pacifique",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "63c55d04fd70c470",
-   "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-21T07:25:01.869709+00:00"
-  },
-  {
-   "faits": [
-    "Deux militaires ont disparu dans le Var, l'un en 2022 et l'autre en 2023",
-    "Des ossements ont été retrouvés fin mai",
-    "Le parquet de Toulon lance un appel à témoins et enquête sur d'autres disparitions possibles de personnes originaires des îles pacifiques",
-    "Les résultats des analyses des ossements seront connus avant fin juillet"
-   ],
-   "qui": "Parquet de Toulon",
-   "ou": "Var, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Identification définitive des restes trouvés"
-   ],
-   "importance": 60,
-   "empreinte": "b277090d1682ccee",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T07:24:50.247084+00:00"
-  },
-  {
-   "faits": [
-    "Le Royaume-Uni annonce la suppression de la TVA sur l'électricité des ménages l'hiver prochain",
-    "Andy Burnham, Premier ministre depuis son deuxième jour en fonction, a annoncé cette mesure"
-   ],
-   "qui": "Andy Burnham",
-   "ou": "Royaume-Uni",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "318c1ff3010646ac",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T07:25:01.869711+00:00"
-  },
-  {
-   "faits": [
-    "Deux équipes du Tour de France testent un système de capteurs sur le casque",
-    "Les équipes testées sont Uno-X et NSN",
-    "Le système vise à aider à la détection des commotions cérébrales",
-    "Ce test se fait pendant le Tour de France 2026"
-   ],
-   "qui": "équipes Uno-X et NSN",
-   "ou": "Tour de France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "9b1bcf12b2004479",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T04:38:04.453488+00:00"
-  },
-  {
-   "faits": [
-    "L'aide humanitaire peine à parvenir aux habitants du sud du Liban",
-    "Un convoi humanitaire de l'ONG l'Œuvre d'Orient s'est retrouvé bloqué lundi dans le sud du Liban",
-    "L'armée libanaise a commencé à assurer la sécurité de plusieurs villages",
-    "Un accord vise le retrait des forces israéliennes du sud du Liban",
-    "Le président libanais Joseph Aoun poursuit une visite aux États-Unis",
-    "Joseph Aoun doit rencontrer Donald Trump le 21 juillet"
-   ],
-   "qui": "Joseph Aoun, Œuvre d'Orient, armée libanaise",
-   "ou": "Liban",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "blocages précis du convoi"
-   ],
-   "importance": 65,
-   "empreinte": "f1fde27f7944e80a",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T04:38:04.453495+00:00"
-  },
-  {
-   "faits": [
-    "La galerie Apollon du Louvre rouvre neuf mois après le vol d'une partie des bijoux de la couronne lors d'un casse rocambolesque"
-   ],
-   "qui": "Louvre",
-   "ou": "Louvre, Paris, France",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "ac30f23f93b6b93b",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T07:25:01.869716+00:00"
-  },
-  {
-   "faits": [
-    "Le président Paul Biya est absent du Cameroun depuis 44 jours",
-    "Il a quitté le Cameroun le 7 juin 2026 pour un présenté séjour privé en Europe",
-    "Paul Biya, âgé de 93 ans, n'est toujours pas rentré",
-    "Des rumeurs sur son état de santé alimentent les médias",
-    "Un député de l'opposition a demandé au Conseil constitutionnel de constater la vacance du pouvoir"
-   ],
-   "qui": "Paul Biya",
-   "ou": "Cameroun",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "état de santé exact",
-    "date de retour",
-    "vérification de la vacance du pouvoir"
-   ],
-   "importance": 60,
-   "empreinte": "c0840a686f0a2e0a",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T04:37:54.203611+00:00"
-  },
-  {
-   "faits": [
-    "Les plages du D-Day pourraient bientôt être inscrites au patrimoine mondial de l'Unesco"
-   ],
-   "qui": "Unesco",
-   "ou": "Normandie, France (plages du D-Day)",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Confirmation de l'inscription"
-   ],
-   "importance": 50,
-   "empreinte": "2be0e6e7e37d6a2e",
-   "score": 74,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T07:24:50.247562+00:00"
+   "depuis": "2026-07-21T11:59:13.137347+00:00"
   }
  ],
  "publies_48h": [
