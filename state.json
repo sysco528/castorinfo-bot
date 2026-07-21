@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/affaire-du-petit-gregory/affaire-gregory-les-faits-reproches-a-la-grand-tante-jacqueline-jacob-sont-prescrits-annonce-la-cour-d-appel-de-dijon_8108504.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/euthanasie/le-texte-creant-un-droit-a-l-aide-a-mourir-revient-aujourd-hui-a-l-assamblee-nationale-pour-un-ultime-vote_8108468.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/front-national/il-y-a-urgence-a-avoir-les-idees-claires-le-rn-se-penche-sur-son-programme-pour-la-presidentielle_8108420.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/tactique-arbitrage-fraicheur-physique-cinq-questions-sur-la-defaite-de-l-equipe-de-france-face-a-l-espagne-en-demi-finale-de-la-coupe-du-monde_8108492.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/patios-loggias-vegetalisees-jardin-interieur-a-la-decouverte-d-un-immeuble-bioclimatique-concu-pour-resister-naturellement-a-la-chaleur_8107808.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-justice_8116817.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/loi-d-urgence-agricole-monique-barbut-presentera-sa-demission-d-ici-le-conseil-des-ministres-de-mercredi_8116922.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-41-morts-selon-un-nouveau-bilan-des-autorites_8116967.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-approuvent-une-mesure-controversee-instaurant-la-perpetuite-pour-les-viols-en-serie-sur-les-moins-de-15-ans_8116973.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-approuvent-une-mesure-controversee-instaurant-la-perpetuite-pour-les-viols-en-serie-sur-les-moins-de-15-ans_8116973.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-limoge-le-commandant-en-chef-de-son-armee_8117009.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/palestine/gaza/arrestation-de-la-flottille-pour-gaza-par-israel-le-parquet-national-antiterroriste-francais-ouvre-une-nouvelle-enquete-pour-tortures_8116964.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -1237,19 +1237,10 @@
    "98cc9d28-852f-11f1-a7ff-ed9f4b62827e",
    "104286dc-852c-11f1-805c-2120e4bb1cd4",
    "c0e98768-852e-11f1-9a5a-ed9f4b62827e",
-   "e7872c24-8527-11f1-a505-2120e4bb1cd4"
+   "e7872c24-8527-11f1-a505-2120e4bb1cd4",
+   "6b49f326-8545-11f1-9502-3bac88e31694"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/video-france-espagne-y-avait-il-vraiment-penalty-sur-lintervention-de-lucas-digne-sur-lamine-yamal-aff03448-7fb6-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/ukraine/carte-guerre-en-ukraine-un-avion-russe-intercepte-par-la-pologne-mois-de-juin-le-plus-meurtrier-le-point-du-jour-7303b8a2-7fb6-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/pays-de-la-loire/le-mans-72000/cest-un-peu-une-finale-avant-lheure-les-supporters-des-bleus-au-rendez-vous-pour-france-espagne-2e076150-7fa6-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/proces-maradona-insultes-et-menaces-entre-avocats-laudience-est-suspendue-7ef0226a-7fb4-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/video-la-grosse-emotion-des-bleus-pendant-la-marseillaise-avant-france-espagne-en-demi-finale-de-coupe-du-monde-ecfc0756-7faf-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-didier-deschamps-devient-le-selectionneur-le-plus-cape-de-lhistoire-de-la-competition-398bf414-7fa1-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/faits-divers/attentat-nice/attentat-de-nice-10-ans-apres-une-journee-dhommages-aux-victimes-du-14-juillet-pour-toujours-dans-notre-memoire-8335488a-7fb1-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/angleterre/manchester-united/mercato-le-belge-youri-tielemans-rejoint-manchester-united-d0a197f4-7fb1-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/cinq-violations-manifestes-de-la-neutralite-politique-une-ong-saisit-le-cio-dune-plainte-contre-gianni-infantino-68b626ae-7f94-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/chine/un-sismologue-americain-est-injustement-detenu-depuis-plus-de-20-mois-en-chine-f9e7532e-7fc0-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/video-france-espagne-le-but-du-break-de-pedro-porro-pour-les-espagnols-en-demi-finale-de-coupe-du-monde-6e8ba842-7fc1-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-quand-aura-lieu-la-finale-de-ledition-2026-298b42f4-7f6f-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/olympique-de-marseille/mercato-om-mason-greenwood-quitte-marseille-pour-fenerbahce-922f89aa-7fbf-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1539,7 +1530,17 @@
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-fracture-de-la-clavicule-pour-florian-lipowitz-apres-sa-chute-et-son-abandon-lors-de-la-16e-etape-ca649ce0-8535-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/la-pression-est-intense-et-lattention-constante-larbitre-anglais-anthony-taylor-annonce-sa-retraite-5b400352-8537-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-21/peut-on-vraiment-aller-aux-etats-unis-en-train-en-voiture-ou-a-pied-en-passant-par-le-detroit-de-bering-baa95bb6-6ed5-4311-a2b6-8b927062c8e7?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-21/les-scandales-dans-la-musique-quand-serge-gainsbourg-mettait-le-feu-aux-poudres-en-revisitant-la-marseillaise-b57d2f47-975b-4769-abe8-d8e897d23f2b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-21/les-scandales-dans-la-musique-quand-serge-gainsbourg-mettait-le-feu-aux-poudres-en-revisitant-la-marseillaise-b57d2f47-975b-4769-abe8-d8e897d23f2b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/politique/protoxyde-dazote-free-party-que-contient-la-loi-ripost-definitivement-adoptee-par-le-parlement-ce-mardi-bf7fddaa-850b-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/tennis/roland-garros/roland-garros-le-tournoi-va-devenir-le-premier-grand-chelem-a-proposer-aux-joueurs-une-part-des-revenus-a45605fa-8546-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/transferts/mercato-presnel-kimpembe-quitte-le-qatar-sc-apres-une-saison-seulement-391e4b16-8547-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/environnement/ecologie/transition-ecologique/loi-durgence-agricole-monique-barbut-ministre-de-la-transition-ecologique-demissionnera-dici-a-mercredi-matin-a1506a10-84e4-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/basket/victor-wembanyama/basket-victor-wembanyama-de-retour-avec-lequipe-de-france-une-tres-bonne-nouvelle-pour-son-selectionneur-9d377306-853e-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-la-politique-ne-doit-pas-eclipser-le-jeu-sepp-blatter-dresse-un-constat-amer-du-mondial-2026-212aecde-8543-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/vous-nous-aidez-a-etre-un-peu-plus-fiers-detre-argentins-la-reponse-dun-joueur-aux-critiques-envers-largentine-32d156a4-8542-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/seuls-les-laches-jouent-en-reculant-le-discours-marquant-de-messi-et-martinez-lors-de-la-finale-contre-lespagne-660bfc98-853f-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/etats-unis/letat-americain-du-new-jersey-corrige-ses-listes-electorales-sur-fond-daccusations-de-fraude-par-donald-trump-07d6e564-8541-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/football-accuse-de-mal-gerer-la-lfp-par-le-president-du-rc-lens-vincent-labrune-contre-attaque-a28fedfe-853b-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1648,7 +1649,14 @@
    "https://www.20minutes.fr/sport/4235500-20260720-coupe-monde-2026-equipe-polie-respectueuse-presse-argentine-vit-monde-parallele?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4235451-20260720-tour-france-2026-controles-nocturnes-pogacar-vingegaard-valides-juge?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/faits_divers/4235503-20260721-nantes-incendie-desormais-fixe-ravage-partie-bidonville?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/etats-unis/4235517-20260721-etats-unis-washington-denonce-action-dangereuse-chine-apres-affrontement-marine-philippine?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/etats-unis/4235517-20260721-etats-unis-washington-denonce-action-dangereuse-chine-apres-affrontement-marine-philippine?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/faits_divers/4235639-20260721-affaire-jubillar-comment-famille-justice-organisent-proteger-deux-enfants-couple?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/politique/assemblee_nationale/4235669-20260721-reseaux-sociaux-interdits-moins-15-ans-parlement-adopte-definitivement-loi?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/justice/4235668-20260721-affaire-jubillar-mari-avoue-justice-avoir-etrangle-femme-delphine?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4235672-20260721-incendie-var-feu-progresse-vitesse-tres-importante-plus-1-700-hectares-parcourus?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/politique/4235666-20260721-monique-barbut-va-demissionner-apres-adoption-loi-urgence-agricole?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/cyclisme/4235651-20260721-tour-france-place-contre-montre-bien-mene-concurrent-podium-elimine-seixas?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2083,6 +2091,29 @@
   },
   {
    "faits": [
+    "Monique Barbut, ministre de la Transition écologique, va démissionner d'ici à mercredi matin 22 juillet",
+    "La démission intervient après l'adoption de la loi d'urgence agricole le 20 juillet",
+    "Monique Barbut était opposée à la réintroduction des pesticides"
+   ],
+   "qui": "Monique Barbut",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France",
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "ab6dfbc96e4486a2",
+   "score": 90,
+   "fiab_max": 80,
+   "nb_sources": 2,
+   "depuis": "2026-07-21T21:43:27.415553+00:00"
+  },
+  {
+   "faits": [
     "Deux pompiers sont morts en combattant un incendie à l'aéroport de Bordeaux-Mérignac",
     "L'incendie s'est déclaré en début d'après-midi, mardi 21 juillet",
     "Le feu était visible depuis le centre de Bordeaux"
@@ -2175,6 +2206,28 @@
   },
   {
    "faits": [
+    "Volodymyr Zelensky limoge Oleksandre Syrsky, commandant en chef de l'armée ukrainienne depuis 2024",
+    "Oleksandre Syrsky, 60 ans, est remplacé par Mykhaïlo Drapaty, 35 ans, commandant des forces interarmées",
+    "Mykhaïlo Drapaty est décrit comme populaire"
+   ],
+   "qui": "Volodymyr Zelensky, Oleksandre Syrsky, Mykhaïlo Drapaty",
+   "ou": "Ukraine",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "204deaaa1fb728a7",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T21:43:27.415555+00:00"
+  },
+  {
+   "faits": [
     "Le ferry MV Barima a coulé dans la nuit de samedi à dimanche au Guyana",
     "Le bateau partait de Georgetown avec au moins 133 personnes à bord",
     "Le ferry a été renversé par une grosse vague",
@@ -2219,6 +2272,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T17:40:38.650397+00:00"
+  },
+  {
+   "faits": [
+    "Le Parquet national antiterroriste français ouvre une enquête pour « tortures » concernant l'arrestation de la « flottille pour Gaza »",
+    "L'enquête concerne le traitement réservé par les autorités israéliennes à deux personnes interpellées en octobre 2025",
+    "La députée LFI Marie Mesmeur était parmi les personnes interpellées",
+    "L'enquête a été ouverte le 1er juillet 2026"
+   ],
+   "qui": "Parquet national antiterroriste français, autorités israéliennes, Marie Mesmeur",
+   "ou": "France, Israël",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "386d0fb391d4fed4",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T21:43:27.415558+00:00"
   },
   {
    "faits": [
@@ -2537,72 +2613,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T17:40:38.651572+00:00"
-  },
-  {
-   "faits": [
-    "La France a définitivement adopté une proposition de loi interdisant l'accès aux réseaux sociaux pour les mineurs de moins de 15 ans le 21 juillet",
-    "Cette législation est une première en Europe",
-    "L'Australie, la Pologne et le Brésil avancent vers une interdiction similaire",
-    "L'expérience australienne livre de premiers enseignements sur l'efficacité d'une telle mesure"
-   ],
-   "qui": "Gouvernement français",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "69515e447fdc94ce",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T20:23:42.240439+00:00"
-  },
-  {
-   "faits": [
-    "Le président libanais Joseph Aoun a été reçu à la Maison Blanche par Donald Trump le 21 juillet",
-    "Trump a dit vouloir beaucoup aider le Liban",
-    "Cette visite intervient alors qu'un accord avec Israël parrainé par Washington entre dans sa première phase"
-   ],
-   "qui": "Donald Trump, Joseph Aoun",
-   "ou": "États-Unis, Liban, Israël",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "ca7230471771be1f",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T20:23:42.240441+00:00"
-  },
-  {
-   "faits": [
-    "Le parquet national antiterroriste (Pnat) a ouvert une enquête préliminaire pour tortures le 1er juillet",
-    "L'enquête porte sur les plaintes de deux personnes ayant pris part à une flottille pour Gaza en octobre 2025"
-   ],
-   "qui": "Parquet national antiterroriste français",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "dc3212f30ac1043a",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T20:23:42.239091+00:00"
   }
  ],
  "publies_48h": [
