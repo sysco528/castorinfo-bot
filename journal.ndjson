@@ -4198,3 +4198,39 @@
 {"decision": "controle", "evt": "148996c887356a36", "motif": "ok_sim_0.00", "ts": "2026-07-21T01:13:10+00:00"}
 {"decision": "publie", "empreinte": "77997dd4bc6bc929", "post_id": "2079374092306968592", "carte": true, "texte": "🇬🇧 Andy Burnham a été nommé Premier ministre du Royaume-Uni lundi, succédant à Keir Starmer à la tête du Parti travailliste. Dans un contexte économique et politique instable, les experts estiment qu'il devra démontrer la solidité de son programme. (France 24, RFI)", "ts": "2026-07-21T01:13:11+00:00"}
 {"decision": "publie", "empreinte": "66f52d60459763f2", "post_id": "2079374109109358845", "carte": true, "texte": "Au moins 14 personnes sont mortes lundi 20 juillet dans des échanges de bombardements entre la Russie et l'Ukraine. Six morts dans la région russe de Belgorod, huit en Ukraine. (franceinfo)", "ts": "2026-07-21T01:13:15+00:00"}
+{"decision": "abandon_attente", "evt": "ccaf4fb0c2b85995", "categorie": "politique", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "0e54c85a4e84b66a", "categorie": "faits_divers", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "d07bdde1f9c6ac71", "categorie": "meteo_catastrophe", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "822f4d967e8677e0", "categorie": "meteo_catastrophe", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "868a94bd1c187596", "categorie": "international", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "a4cc98e9600555ef", "categorie": "sante", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "3661954383d37222", "categorie": "meteo_catastrophe", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "b0df3c5c5f9dd449", "categorie": "international", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "42f2307113d74500", "categorie": "sport", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "efdff385bc480336", "categorie": "meteo_catastrophe", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "278b224febdbcc9d", "categorie": "economie", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "ff2b5e8d7a1fad41", "categorie": "sante", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "1387d96d288cec7c", "categorie": "international", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "72a64646e4aaf73f", "categorie": "politique", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "abandon_attente", "evt": "d9d7f8b26c848e94", "categorie": "international", "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "f71d452f84edadae", "score": 97, "categorie": "politique", "sensible": false, "confiance": 90, "sources": ["franceinfo", "Ouest-France"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "b4bab6e769038f3d", "score": 86, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "5ec9a05271878df2", "score": 95, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Le Figaro", "France 24", "RFI"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "287c8ac50806a866", "score": 92, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Le Figaro", "France 24"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "28715eb6e02c4c75", "score": 82, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "9b1bcf12b2004479", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "f1fde27f7944e80a", "score": 79, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "attente", "evt": "c0840a686f0a2e0a", "score": 76, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["RFI"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "c26095acdf18e789", "score": 83, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "attente", "evt": "75c866ed5a782c68", "score": 81, "categorie": "faits_divers", "sensible": true, "confiance": 82, "sources": ["Ouest-France"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "d1c161725e2f8775", "score": 81, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "attente", "evt": "b8654afa772e9461", "score": 80, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "1045eb29840d1ff2", "score": 80, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "cd2835e9cebe0570", "score": 80, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "publier", "evt": "bae2260ef8eafcf6", "score": 79, "categorie": "sport", "sensible": false, "confiance": 80, "sources": ["L'Équipe"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "attente", "evt": "5dd174df63e247ab", "score": 78, "categorie": "justice", "sensible": true, "confiance": 82, "sources": ["BFMTV"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "attente", "evt": "689c0cefa8502e16", "score": 74, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["L'Équipe"], "ts": "2026-07-21T04:37:54+00:00"}
+{"decision": "controle", "evt": "f71d452f84edadae", "motif": "ok_sim_0.38", "ts": "2026-07-21T04:37:58+00:00"}
+{"decision": "controle", "evt": "5ec9a05271878df2", "motif": "ok_sim_0.41+alerte_retrogradee", "ts": "2026-07-21T04:38:04+00:00"}
+{"decision": "publie", "empreinte": "29e78075634de192", "post_id": "2079425657600364718", "carte": true, "texte": "🇫🇷 L'Assemblée nationale adopte un projet de loi d'urgence agricole réintroduisant l'acétamipride, un pesticide néonicotinoïde interdit, et modifiant la gestion de l'eau. Le texte a divisé la droite et la gauche. (franceinfo, Ouest-France)", "ts": "2026-07-21T04:38:05+00:00"}
+{"decision": "publie", "empreinte": "aee576f8d8e21963", "post_id": "2079425673987609061", "carte": true, "texte": "⚡ FLASH — Les États-Unis mènent une dixième nuit de frappes contre l'Iran, ciblant centres de commandement et installations maritimes. Les Gardiens de la Révolution affirment riposter à Bahreïn et au Koweït. L'ONU craint une escalade régionale.", "ts": "2026-07-21T04:38:09+00:00"}

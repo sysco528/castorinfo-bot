@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/huit-palestiniens-tues-a-gaza-apres-une-frappe-israelienne-sur-un-commissariat_8107640.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/euthanasie/info-franceinfo-loi-sur-la-fin-de-vie-sebastien-lecornu-va-saisir-le-conseil-constitutionnel-sur-une-partie-des-dispositions-apres-le-vote_8107604.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/marine-le-pen/il-faut-mettre-en-uvre-le-patriotisme-a-nice-marine-le-pen-profite-de-la-fete-nationale-pour-repondre-a-emmanuel-macron_8107559.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/maladie/ebola/l-ampleur-de-l-epidemie-d-ebola-pourrait-depasser-de-deux-a-quatre-fois-les-estimations-officielles-selon-l-oms_8107568.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/tadej-pogacar-assomme-un-peu-plus-le-tour-de-france-apres-sa-victoire-en-solitaire-sur-la-10e-etape-conclue-au-lioran_8107562.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/la-fan-base-internationale-la-plus-faible-que-j-aie-jamais-vue-pourquoi-les-supporters-francais-sont-ils-si-peu-nombreux-dans-les-stades-de-cette-coupe-du-monde_8106191.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-vingt-six-departements-sont-toujours-places-en-vigilance-rouge-l-episode-de-chaleur-se-deplace-vers-le-sud-est_8107109.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/des-fois-j-aurais-prefere-rester-sous-les-roues-victime-et-temoins-de-l-attentat-de-nice-ils-racontent-la-nuit-qui-les-hantent-encore_8107670.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-14-personnes-sont-mortes-lundi-dans-des-frappes-russes-et-ukrainiennes_8115578.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/une-tempete-au-chili-fait-au-moins-quatre-morts-et-d-importants-degats-l-etat-de-catastrophe-decrete-dans-le-nord-du-pays_8115554.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/usa/donald-trump-va-imposer-50-de-droits-de-douane-sur-une-serie-de-produits-issus-du-canada_8115587.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/l-assemblee-nationale-adopte-le-projet-de-loi-d-urgence-agricole-malgre-la-reintroduction-a-titre-derogatoire-de-pesticides_8115608.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/l-assemblee-nationale-adopte-le-projet-de-loi-d-urgence-agricole-malgre-la-reintroduction-a-titre-derogatoire-de-pesticides_8115608.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/stockage-de-l-eau-reintroduction-de-pesticides-protection-des-loups-voici-ce-que-contient-le-projet-de-loi-d-urgence-agricole-adopte-a-l-assemblee-nationale_8114837.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/crise-climatique/grand-format-nes-dans-les-annees-1950-1970-ou-encore-1990-comparez-les-temperatures-des-etes-de-votre-enfance-a-celles-d-aujourd-hui_8096318.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/causes-de-la-mort-proces-en-appel-suites-pour-cedric-jubillar-les-six-questions-qui-se-posent-encore-apres-la-decouverte-d-ossements-de-delphine-aussaguel_8115134.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/ca-nous-permet-d-etre-un-peu-plus-en-securite-un-systeme-de-capteurs-sur-le-casque-teste-sur-le-tour-de-france-pour-aider-a-detecter-les-commotions-cerebrales_8111762.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/votre-cv-est-incompatible-avec-la-fonction-pourquoi-la-probable-nomination-du-senateur-lr-francois-noel-buffet-au-poste-de-defenseur-des-droits-fait-polemique_8114936.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -402,11 +402,6 @@
    "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/pour-les-malouines-pour-diego-et-la-derniere-de-leo-entre-l-angleterre-et-l-argentine-une-rivalite-teintee-de-geopolitique-20260715",
-   "https://sante.lefigaro.fr/psychologie/le-feu-cree-une-excitation-dans-la-tete-des-pyromanes-incapables-de-controler-leurs-impulsions-20260715",
-   "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608360/angleterre-argentine",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-chants-sifflets-les-hymnes-anglais-et-argentins-perturbees-par-les-supporters-en-video-20260715",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-portee-par-son-eternel-messi-l-argentine-renverse-l-angleterre-et-defiera-l-espagne-en-finale-20260715",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/angleterre-argentine-centre-de-rogers-gordon-conclue-l-ouverture-du-score-des-anglais-en-video-20260715",
    "https://www.lefigaro.fr/secteur/high-tech/allah-nous-a-aides-l-ia-nous-aidera-aussi-l-intelligence-artificielle-nouvelle-obsession-des-groupes-terroristes-20260715",
    "https://www.lefigaro.fr/international/l-armee-americaine-annonce-qu-elle-va-desormais-mesurer-le-taux-de-testosterone-de-ses-soldats-20260715",
@@ -701,12 +696,14 @@
    "https://www.lefigaro.fr/secteur/high-tech/smartphones-du-futur-robots-de-combat-interfaces-neuronales-de-pointe-les-folles-technologies-du-salon-mondial-de-l-ia-en-chine-20260720",
    "https://www.lefigaro.fr/conjoncture/trump-impose-50-de-droits-de-douane-supplementaires-sur-une-serie-de-produits-canadiens-20260720",
    "https://www.lefigaro.fr/international/le-directeur-du-fbi-kash-patel-va-bientot-se-rendre-en-russie-selon-politico-20260720",
-   "https://www.lefigaro.fr/politique/c-etait-une-annee-pour-rien-a-l-assemblee-apres-la-crise-politique-une-annee-d-apathie-legislative-20260720"
+   "https://www.lefigaro.fr/politique/c-etait-une-annee-pour-rien-a-l-assemblee-apres-la-crise-politique-une-annee-d-apathie-legislative-20260720",
+   "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721",
+   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-les-houthistes-yemenites-annoncent-un-blocus-maritime-de-riyad-20260720",
+   "https://madame.lefigaro.fr/societe/actu/de-blind-date-au-10-downing-street-qui-est-marie-france-van-heel-la-nouvelle-premiere-dame-britannique-20260721",
+   "https://www.lefigaro.fr/international/trump-affirme-avoir-eu-une-tres-bonne-conversation-avec-le-nouveau-premier-ministre-britannique-andy-burnham-20260721",
+   "https://www.lefigaro.fr/international/les-grands-chantiers-d-andy-burnham-le-nouveau-premier-ministre-britannique-qui-veut-rompre-avec-les-pratiques-du-passe-20260720"
   ],
   "https://www.france24.com/fr/rss": [
-   "c4e59314-7f95-11f1-af72-197fb62359f3",
-   "caa10e34-7f93-11f1-9356-798a5728bea1",
-   "326e6e90-7f93-11f1-9b6c-798a5728bea1",
    "0e4e81f8-7f93-11f1-81a5-197fb62359f3",
    "ac9658fc-7f95-11f1-a3df-0f7bd022a4d1",
    "b66430a0-7f8d-11f1-a13c-f5ebecfadf0b",
@@ -1003,7 +1000,10 @@
    "187a9260-8471-11f1-8b57-d1c14e6ab975",
    "e3592e7c-8482-11f1-a9c0-c98139d3b091",
    "ad0ab202-8480-11f1-bfc3-3faa933334d9",
-   "4179d0f0-8489-11f1-bc58-c98139d3b091"
+   "4179d0f0-8489-11f1-bc58-c98139d3b091",
+   "9f7077fc-84ae-11f1-9e79-b34584f04cb5",
+   "63dec20a-84ab-11f1-9098-2ba36346e5ba",
+   "22ff89ae-84a1-11f1-bfcf-67aa391dc96b"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1208,13 +1208,12 @@
    "61f17522-847f-11f1-a917-5d3614557b4c",
    "c1069a86-8459-11f1-8b54-cb2f7c221b1d",
    "218064ee-849d-11f1-967f-ab6776f35a69",
-   "f83dcf84-8485-11f1-bf12-ddae33f70e45"
+   "f83dcf84-8485-11f1-bf12-ddae33f70e45",
+   "1d189edc-84b9-11f1-b847-ed897496313e",
+   "c6668290-8484-11f1-a1ce-ddae33f70e45",
+   "48cc3e40-8477-11f1-81f0-5d3614557b4c"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://sante.ouest-france.fr/bien-etre/que-vaut-vraiment-la-clean-beauty-ce-concept-tres-flou-qui-cartonne-en-cosmetiques-f5c796a2-7497-11f1-847f-0515a70d2189?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/angleterre/a-jersey-decouvrez-le-sentier-des-marees-un-circuit-de-77-km-le-long-du-littoral-84bcb500-6010-11f1-b0fc-ddf25559701c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/high-tech/numerique/fred24-robot1er-les-nouvelles-vies-du-fondateur-de-blablacar-frederic-mazzella-avec-lintelligence-artificielle-ce69c65c-7a0a-11f1-b6b9-5740d58e7caf?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-tadej-pogacar-revanchard-face-a-jonas-vingegaard-pour-larrivee-au-lioran-2c61ab98-7ed5-11f1-b616-dddac7a26294?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-pourquoi-la-polemique-sur-la-gestion-du-detroit-dormuz-est-relancee-f52660d2-7eb7-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/cyclisme/tadej-pogacar/un-double-tour-de-france-vuelta-tadej-pogacar-envisage-de-prendre-le-depart-du-tour-despagne-2026-0019515a-7f46-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/angleterre-argentine-larbitre-de-la-demi-finale-connu-et-il-a-deja-dirige-un-match-tendu-dans-cette-coupe-du-monde-ee45a40a-7f41-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1510,7 +1509,11 @@
    "https://www.ouest-france.fr/societe/justice/le-chanteur-tsew-the-kid-mis-en-examen-pour-viols-conjugaux-et-violences-6aadd066-8484-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/droits-de-douane/les-etats-unis-vont-imposer-50-pourcent-de-droits-de-douane-sur-une-serie-de-produits-canadiens-28b8c1ca-848e-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/guyana/naufrage-au-guyana-27-corps-recuperes-83-personnes-portees-disparues-5b31d43a-848d-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/etats-unis/les-etats-unis-condamnent-laction-dangereuse-de-la-chine-apres-un-affrontement-avec-la-marine-philippine-a5e7a74c-8498-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/monde/etats-unis/les-etats-unis-condamnent-laction-dangereuse-de-la-chine-apres-un-affrontement-avec-la-marine-philippine-a5e7a74c-8498-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-a-quelle-heure-et-sur-quelle-chaine-tv-suivre-la-16e-etape-1bbaa2d2-8438-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/meteo/canicule/emballement-pollution-incendies-plus-frequents-les-lecons-scientifiques-de-la-canicule-de-juin-e03f9f3e-8453-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sante/grippe-aviaire/recit-il-y-a-quatre-ans-lunique-colonie-de-fous-de-bassan-de-france-etait-devastee-par-la-grippe-aviaire-9c301d3c-75e9-11f1-9172-187ee382b87f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-la-reintroduction-de-lacetamipride-prevue-par-la-loi-durgence-agricole-de67bf60-8472-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1879,199 +1882,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "Une loi d'urgence agricole fait l'objet de débats au Parlement français le 20 juillet 2026",
-    "Des députés Renaissance, MoDem et Liot demandent à revoter sur un article concernant la réintroduction dérogatoire de certains pesticides",
-    "Le nouveau vote doit être validé par le gouvernement",
-    "La loi maintient un volet critiqué sur la ressource en eau"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France",
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "L'adoption de la loi"
-   ],
-   "importance": 70,
-   "empreinte": "ccaf4fb0c2b85995",
-   "score": 88,
-   "fiab_max": 80,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T21:36:59.667880+00:00"
-  },
-  {
-   "faits": [
-    "Le ferry MV Barima est parti de Georgetown avec au moins 133 personnes à bord",
-    "Le bateau a été renversé par une grosse vague dans la nuit de samedi à dimanche",
-    "Au moins 10 personnes sont mortes",
-    "Environ 67 personnes ont été secourues",
-    "Des recherches de survivants se poursuivent"
-   ],
-   "qui": "Ferry MV Barima",
-   "ou": "Guyana",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "0e54c85a4e84b66a",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T20:15:02.953587+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie s'est déclaré dans un camp de Roms à la Prairie de Mauves à Nantes le 20 juillet 2026 en fin de journée",
-    "Environ 10 hectares ont brûlé",
-    "Une cinquantaine d'habitations ont été évacuées par précaution",
-    "Les sapeurs-pompiers de Loire-Atlantique sont intervenus",
-    "Le feu a été fixé"
-   ],
-   "qui": null,
-   "ou": "Nantes, Prairie de Mauves",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "d07bdde1f9c6ac71",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T21:36:59.667886+00:00"
-  },
-  {
-   "faits": [
-    "Une tempête au Chili a fait au moins cinq morts et quatre disparus le 20 juillet 2026",
-    "Plus de 1 100 habitations ont été détruites ou gravement endommagées",
-    "L'état de catastrophe a été décrété dans le nord du Chili",
-    "Les intempéries sont d'une ampleur inédite"
-   ],
-   "qui": null,
-   "ou": "Chili, nord du pays",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "822f4d967e8677e0",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T21:36:59.667888+00:00"
-  },
-  {
-   "faits": [
-    "Le régime iranien a intensifié ses frappes contre la Jordanie depuis le 7 juillet",
-    "Au moins deux soldats américains ont été tués dans une attaque de missiles en Jordanie",
-    "La Jordanie est devenue une cible privilégiée de l'Iran",
-    "La Jordanie était relativement épargnée jusque-là"
-   ],
-   "qui": "Iran, États-Unis",
-   "ou": "Jordanie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "868a94bd1c187596",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T20:15:02.952443+00:00"
-  },
-  {
-   "faits": [
-    "En Angleterre, plusieurs scandales affectent les maternités",
-    "Des bébés mort-nés ont été enregistrés",
-    "Des mères ont été grièvement blessées",
-    "Des familles rapportent ne pas avoir été écoutées",
-    "Deux maternités sur trois inspectées récemment présentent de sérieuses insuffisances",
-    "Un scandale national est dénoncé"
-   ],
-   "qui": null,
-   "ou": "Angleterre",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "a4cc98e9600555ef",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T21:36:59.667892+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie s'est déclaré dans le Var à Taradeau et aux Arcs",
-    "Le feu est désormais fixé selon la préfecture",
-    "Les pompiers ont créé une barrière de retardant d'1,5 km avec un avion Dash"
-   ],
-   "qui": null,
-   "ou": "Var (Taradeau et Arcs), France",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "3661954383d37222",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T20:15:02.953598+00:00"
-  },
-  {
-   "faits": [
-    "L'Iran affirme faire face à une guerre totale menée par les États-Unis",
-    "Washington a frappé une grande partie du territoire iranien en assurant viser des sites militaires",
-    "Téhéran dénonce des frappes dans plusieurs villes, notamment à Bouchehr",
-    "Bouchehr abrite la seule centrale nucléaire iranienne",
-    "Emmanuelle Galichet affirme que Bouchehr est le seul site iranien présentant un véritable risque nucléaire"
-   ],
-   "qui": "Iran, États-Unis",
-   "ou": "Iran (Bouchehr)",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "ampleur exacte des dégâts à Bouchehr"
-   ],
-   "importance": 85,
-   "empreinte": "b0df3c5c5f9dd449",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T20:15:02.952476+00:00"
-  },
-  {
-   "faits": [
     "Donald Trump a signé un décret le 20 juillet 2026 imposant 50% de droits de douane supplémentaires sur des produits canadiens",
     "Les produits concernés incluent les produits laitiers, l'alcool, le miel et le ciment",
     "Ces droits de douane doivent entrer en vigueur dans un mois"
@@ -2094,140 +1904,30 @@
   },
   {
    "faits": [
-    "Lionel Messi a rompu le silence après la défaite de l'Argentine en finale de la Coupe du monde le 19 juillet 2026",
-    "L'Argentine s'est inclinée face à l'Espagne (1-0)",
-    "Messi a exprimé que sa blessure mettra du temps à cicatriser",
-    "Il a posté un message sur Instagram le 20 juillet 2026"
+    "La probable nomination du sénateur LR François-Noël Buffet au poste de Défenseur des droits fait polémique",
+    "Cette nomination a été choisie par Emmanuel Macron",
+    "François-Noël Buffet est un ancien ministre",
+    "Il est auditionné mardi par la commission des lois du Sénat",
+    "Son CV serait présenté comme incompatible avec la fonction",
+    "Un vote doit entériner ce choix"
    ],
-   "qui": "Lionel Messi",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "42f2307113d74500",
-   "score": 83,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T21:36:59.667897+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie s'est déclaré lundi soir dans le quartier Doulon-Bottière à Nantes",
-    "L'incendie s'est déclaré dans un camp de Roms",
-    "Une dizaine d'hectares ont été ravagés",
-    "Près de 150 pompiers ont été mobilisés",
-    "Plusieurs habitants ont été évacués"
-   ],
-   "qui": null,
-   "ou": "Nantes (quartier Doulon-Bottière), France",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "efdff385bc480336",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T20:15:02.953601+00:00"
-  },
-  {
-   "faits": [
-    "La Commission européenne inflige une amende de 550 millions d'euros à AliExpress",
-    "C'est la plus importante amende jamais prononcée dans le cadre du règlement sur les services numériques (DSA)",
-    "L'UE reproche à AliExpress d'avoir vendu des produits illégaux (vêtements contrefaits, jouets dangereux) sans évaluer ni atténuer les risques"
-   ],
-   "qui": "Commission européenne, AliExpress",
-   "ou": "Union européenne",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "278b224febdbcc9d",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T22:37:32.025269+00:00"
-  },
-  {
-   "faits": [
-    "La HAS recommande l'obligation vaccinale contre la grippe",
-    "Le Syndicat national des professionnels infirmiers est favorable à cette obligation",
-    "Thierry Amouroux, porte-parole du syndicat, souhaite aussi faciliter l'accès à cette vaccination"
-   ],
-   "qui": "Syndicat national des professionnels infirmiers, HAS",
+   "qui": "François-Noël Buffet, Emmanuel Macron, commission des lois du Sénat",
    "ou": "France",
-   "categorie": "sante",
+   "categorie": "politique",
    "sensible": false,
    "confiance": 85,
    "sources": [
     "franceinfo"
    ],
-   "non_confirme": [],
+   "non_confirme": [
+    "vote final"
+   ],
    "importance": 60,
-   "empreinte": "ff2b5e8d7a1fad41",
+   "empreinte": "28715eb6e02c4c75",
    "score": 82,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-20T20:15:02.953603+00:00"
-  },
-  {
-   "faits": [
-    "Le Premier ministre espagnol Pedro Sanchez s'est rendu à Alger lundi",
-    "Il a rencontré le président algérien Abdelmadjid Tebboune",
-    "Plusieurs années de brouille diplomatique ont précédé cette visite",
-    "Cette visite affiche un réchauffement des relations entre l'Espagne et l'Algérie"
-   ],
-   "qui": "Pedro Sanchez, Abdelmadjid Tebboune",
-   "ou": "Alger, Algérie",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "1387d96d288cec7c",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T20:15:02.953604+00:00"
-  },
-  {
-   "faits": [
-    "Le président ukrainien Volodymyr Zelensky a opéré un remaniement",
-    "Mykhaïlo Fedorov a quitté son poste de ministre de la Défense",
-    "Des centaines de personnes ont manifesté pour contester ce départ",
-    "Le remaniement vire à la crise politique"
-   ],
-   "qui": "Volodymyr Zelensky, Mykhaïlo Fedorov",
-   "ou": "Ukraine",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "72a64646e4aaf73f",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T20:15:02.953609+00:00"
+   "depuis": "2026-07-21T04:38:04.453484+00:00"
   },
   {
    "faits": [
@@ -2310,6 +2010,29 @@
   },
   {
    "faits": [
+    "Deux équipes du Tour de France testent un système de capteurs sur le casque",
+    "Les équipes testées sont Uno-X et NSN",
+    "Le système vise à aider à la détection des commotions cérébrales",
+    "Ce test se fait pendant le Tour de France 2026"
+   ],
+   "qui": "équipes Uno-X et NSN",
+   "ou": "Tour de France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "9b1bcf12b2004479",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T04:38:04.453488+00:00"
+  },
+  {
+   "faits": [
     "Le président gabonais Brice Clotaire Oligui Nguema effectue une visite d'État en France le 20 juillet 2026",
     "Il s'est entretenu avec Emmanuel Macron",
     "Un premier protocole d'accord sur le manganèse a été validé entre la France et le Gabon",
@@ -2356,27 +2079,30 @@
   },
   {
    "faits": [
-    "Les États-Unis imposent de nouvelles sanctions contre le gouvernement soudanais",
-    "Le Soudan est accusé d'avoir eu recours à des armes chimiques dans sa guerre contre les forces paramilitaires",
-    "Des accusations qui datent de l'année dernière et avaient déjà donné lieu à un premier volet de sanctions"
+    "L'aide humanitaire peine à parvenir aux habitants du sud du Liban",
+    "Un convoi humanitaire de l'ONG l'Œuvre d'Orient s'est retrouvé bloqué lundi dans le sud du Liban",
+    "L'armée libanaise a commencé à assurer la sécurité de plusieurs villages",
+    "Un accord vise le retrait des forces israéliennes du sud du Liban",
+    "Le président libanais Joseph Aoun poursuit une visite aux États-Unis",
+    "Joseph Aoun doit rencontrer Donald Trump le 21 juillet"
    ],
-   "qui": "États-Unis, gouvernement soudanais",
-   "ou": "Soudan",
+   "qui": "Joseph Aoun, Œuvre d'Orient, armée libanaise",
+   "ou": "Liban",
    "categorie": "international",
-   "sensible": true,
+   "sensible": false,
    "confiance": 80,
    "sources": [
     "RFI"
    ],
    "non_confirme": [
-    "les accusations d'armes chimiques ne sont pas formellement confirmées ici"
+    "blocages précis du convoi"
    ],
    "importance": 65,
-   "empreinte": "d9d7f8b26c848e94",
+   "empreinte": "f1fde27f7944e80a",
    "score": 79,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-20T22:37:23.255660+00:00"
+   "depuis": "2026-07-21T04:38:04.453495+00:00"
   },
   {
    "faits": [
@@ -2427,6 +2153,34 @@
   },
   {
    "faits": [
+    "Le président Paul Biya est absent du Cameroun depuis 44 jours",
+    "Il a quitté le Cameroun le 7 juin 2026 pour un présenté séjour privé en Europe",
+    "Paul Biya, âgé de 93 ans, n'est toujours pas rentré",
+    "Des rumeurs sur son état de santé alimentent les médias",
+    "Un député de l'opposition a demandé au Conseil constitutionnel de constater la vacance du pouvoir"
+   ],
+   "qui": "Paul Biya",
+   "ou": "Cameroun",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "état de santé exact",
+    "date de retour",
+    "vérification de la vacance du pouvoir"
+   ],
+   "importance": 60,
+   "empreinte": "c0840a686f0a2e0a",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T04:37:54.203611+00:00"
+  },
+  {
+   "faits": [
     "Ferran Torres, buteur en finale de la Coupe du monde, intéresse le PSG",
     "Le Real Madrid surveille également le joueur",
     "Sa situation au FC Barcelone s'enlisait"
@@ -2451,14 +2205,6 @@
   }
  ],
  "publies_48h": [
-  [
-   "f62bc80871da3e13",
-   "2026-07-19T04:33:38.239925+00:00"
-  ],
-  [
-   "f151b1353e96fbe0",
-   "2026-07-19T04:33:42.187166+00:00"
-  ],
   [
    "84d7ca8f2b663b3f",
    "2026-07-19T07:11:03.236926+00:00"
@@ -2530,17 +2276,17 @@
   [
    "66f52d60459763f2",
    "2026-07-21T01:13:15.436446+00:00"
+  ],
+  [
+   "29e78075634de192",
+   "2026-07-21T04:38:05.552571+00:00"
+  ],
+  [
+   "aee576f8d8e21963",
+   "2026-07-21T04:38:09.445514+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "f9e4c83f6b1a3a0b",
-   "2026-07-19T04:33:31.558548+00:00"
-  ],
-  [
-   "1a0ed853fc26386f",
-   "2026-07-19T04:33:37.023624+00:00"
-  ],
   [
    "9a92af4f9da8f8fc",
    "2026-07-19T07:10:53.227163+00:00"
@@ -2612,6 +2358,14 @@
   [
    "148996c887356a36",
    "2026-07-21T01:13:10.338208+00:00"
+  ],
+  [
+   "f71d452f84edadae",
+   "2026-07-21T04:37:58.856212+00:00"
+  ],
+  [
+   "5ec9a05271878df2",
+   "2026-07-21T04:38:04.453471+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2620,12 +2374,14 @@
   "⚽ L'Espagne remporte la Coupe du monde 2026. La Roja a battu l'Argentine 1-0 après prolongation en finale à New York. Le roi Felipe VI et le Premier ministre Pedro Sanchez ont accueilli les joueurs à Madrid après leur victoire.",
   "🇫🇷 L'Assemblée nationale a adopté le projet de loi d'urgence agricole avec 296 voix pour et 224 contre. Le texte réintroduit des pesticides à titre dérogatoire et doit être examiné au Sénat. (franceinfo, BFMTV)",
   "🇬🇧 Andy Burnham a été nommé Premier ministre du Royaume-Uni lundi, succédant à Keir Starmer à la tête du Parti travailliste. Dans un contexte économique et politique instable, les experts estiment qu'il devra démontrer la solidité de son programme. (France 24, RFI)",
-  "Au moins 14 personnes sont mortes lundi 20 juillet dans des échanges de bombardements entre la Russie et l'Ukraine. Six morts dans la région russe de Belgorod, huit en Ukraine. (franceinfo)"
+  "Au moins 14 personnes sont mortes lundi 20 juillet dans des échanges de bombardements entre la Russie et l'Ukraine. Six morts dans la région russe de Belgorod, huit en Ukraine. (franceinfo)",
+  "🇫🇷 L'Assemblée nationale adopte un projet de loi d'urgence agricole réintroduisant l'acétamipride, un pesticide néonicotinoïde interdit, et modifiant la gestion de l'eau. Le texte a divisé la droite et la gauche. (franceinfo, Ouest-France)",
+  "⚡ FLASH — Les États-Unis mènent une dixième nuit de frappes contre l'Iran, ciblant centres de commandement et installations maritimes. Les Gardiens de la Révolution affirment riposter à Bahreïn et au Koweït. L'ONU craint une escalade régionale."
  ],
  "recap_date": "2026-07-20",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-21",
-  "publies": 6
+  "publies": 8
  }
 }
