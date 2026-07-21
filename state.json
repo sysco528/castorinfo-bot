@@ -1206,10 +1206,11 @@
    "8ba09504-8355-11f1-898c-652be2fcd917",
    "b62a773a-8478-11f1-92af-799563a5b2af",
    "61f17522-847f-11f1-a917-5d3614557b4c",
-   "c1069a86-8459-11f1-8b54-cb2f7c221b1d"
+   "c1069a86-8459-11f1-8b54-cb2f7c221b1d",
+   "218064ee-849d-11f1-967f-ab6776f35a69",
+   "f83dcf84-8485-11f1-bf12-ddae33f70e45"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://sante.ouest-france.fr/bien-etre/que-vaut-vraiment-la-clean-beauty-ce-concept-tres-flou-qui-cartonne-en-cosmetiques-f5c796a2-7497-11f1-847f-0515a70d2189?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/angleterre/a-jersey-decouvrez-le-sentier-des-marees-un-circuit-de-77-km-le-long-du-littoral-84bcb500-6010-11f1-b0fc-ddf25559701c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/high-tech/numerique/fred24-robot1er-les-nouvelles-vies-du-fondateur-de-blablacar-frederic-mazzella-avec-lintelligence-artificielle-ce69c65c-7a0a-11f1-b6b9-5740d58e7caf?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1508,7 +1509,8 @@
    "https://www.ouest-france.fr/monde/guyana/naufrage-dun-ferry-au-guyana-au-moins-10-morts-selon-un-nouveau-bilan-89351d16-8469-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/justice/le-chanteur-tsew-the-kid-mis-en-examen-pour-viols-conjugaux-et-violences-6aadd066-8484-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/droits-de-douane/les-etats-unis-vont-imposer-50-pourcent-de-droits-de-douane-sur-une-serie-de-produits-canadiens-28b8c1ca-848e-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/guyana/naufrage-au-guyana-27-corps-recuperes-83-personnes-portees-disparues-5b31d43a-848d-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/monde/guyana/naufrage-au-guyana-27-corps-recuperes-83-personnes-portees-disparues-5b31d43a-848d-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/etats-unis/les-etats-unis-condamnent-laction-dangereuse-de-la-chine-apres-un-affrontement-avec-la-marine-philippine-a5e7a74c-8498-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1616,7 +1618,8 @@
    "https://www.20minutes.fr/societe/4235495-20260720-violences-policieres-cour-comptes-pointe-manque-transparence-procedures-disciplinaire?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sport/4235500-20260720-coupe-monde-2026-equipe-polie-respectueuse-presse-argentine-vit-monde-parallele?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4235451-20260720-tour-france-2026-controles-nocturnes-pogacar-vingegaard-valides-juge?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/faits_divers/4235503-20260721-nantes-incendie-desormais-fixe-ravage-partie-bidonville?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/faits_divers/4235503-20260721-nantes-incendie-desormais-fixe-ravage-partie-bidonville?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235517-20260721-etats-unis-washington-denonce-action-dangereuse-chine-apres-affrontement-marine-philippine?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1862,131 +1865,18 @@
    "https://www.lequipe.fr/Football/Actualites/7-0-strasbourg-corrige-par-le-sporting-cp-pour-son-premier-match-amical-de-l-ete-et-pour-les-debuts-d-hugo-oliveira-sur-le-banc-alsacien/1706068",
    "https://www.lequipe.fr/Football/Actualites/Paredes-vs-gavi-le-petit-frere-de-yamal-adule-la-casquette-make-spain-great-again-de-ferran-torres-toutes-les-scenes-de-liesse-des-espagnols-pour-leur-retour-a-madrid/1706065",
    "https://www.lequipe.fr/Football/Article/Mort-de-keegan-c-etait-king-kev-icone-anglaise-magnifique-et-populaire/1706056",
-   "https://www.lequipe.fr/Football/Article/Des-resultats-honorables-mais-une-confiance-limitee-rudi-garcia-n-est-plus-a-la-tete-la-belgique-et-envisage-deja-la-suite/1706043"
+   "https://www.lequipe.fr/Football/Article/Des-resultats-honorables-mais-une-confiance-limitee-rudi-garcia-n-est-plus-a-la-tete-la-belgique-et-envisage-deja-la-suite/1706043",
+   "https://www.lequipe.fr/Football/actu-en-direct/mercato-live/19545",
+   "https://www.lequipe.fr/Football/Article/Mercato-buteur-en-finale-de-la-coupe-du-monde-surveille-par-le-real-madrid-ferran-torres-interesse-toujours-le-psg/1706049",
+   "https://www.lequipe.fr/Football/Article/Sur-les-traces-des-beatles-quand-kevin-keegan-a-quitte-liverpool-en-pleine-gloire-pour-devenir-une-icone-a-hambourg/1706038",
+   "https://www.lequipe.fr/Football/Article/Tactique-l-espagne-ou-le-sacre-d-un-collectif-qui-ne-concede-rien/1705837",
+   "https://www.lequipe.fr/Football/Article/Que-va-devenir-le-staff-de-didier-deschamps-maintenant-que-l-ex-capitaine-des-bleus-n-est-plus-selectionneur/1706018",
+   "https://www.lequipe.fr/Football/Actualites/Mercato-lassine-sinayoko-va-passer-sa-visite-medicale-avec-le-paris-fc/1705889",
+   "https://www.lequipe.fr/Football/Actualites/Rayan-cherki-rend-hommage-a-didier-deschamps-apres-la-coupe-du-monde-reconnaissance-infinie-au-coach-l-histoire-parle-pour-lui/1706020"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Andy Burnham a été nommé Premier ministre du Royaume-Uni lundi",
-    "Il succède à Keir Starmer",
-    "Il représente le Parti travailliste",
-    "Le contexte économique et politique est instable",
-    "Les experts interrogés soulignent qu'il doit prouver la stabilité de son programme"
-   ],
-   "qui": "Andy Burnham, Keir Starmer",
-   "ou": "Royaume-Uni",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "893f200fe05c6cbb",
-   "score": 94,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T20:15:02.953582+00:00"
-  },
-  {
-   "faits": [
-    "Deux diplomates français ont été retenus plusieurs heures par les services de sécurité iraniens à Téhéran",
-    "France dénonce une 'action d'intimidation extrêmement grave'",
-    "Jean-Noël Barrot promet que cet incident 'ne pourra rester sans conséquence'"
-   ],
-   "qui": "Diplomates français, Iran, Jean-Noël Barrot (ministre français)",
-   "ou": "Téhéran, Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 87,
-   "sources": [
-    "Le Figaro",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "b0e862874b03b5c0",
-   "score": 93,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T18:46:40.954365+00:00"
-  },
-  {
-   "faits": [
-    "L'armée américaine mène une nouvelle série de frappes contre l'Iran",
-    "Trois soldats américains sont morts depuis la reprise de la guerre le 7 juillet",
-    "L'Iran frappe en retour des intérêts américains dans la région"
-   ],
-   "qui": "États-Unis, Iran",
-   "ou": "Moyen-Orient",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "20 Minutes",
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "d503aa5b8c3a56b0",
-   "score": 92,
-   "fiab_max": 75,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T22:37:32.025242+00:00"
-  },
-  {
-   "faits": [
-    "Le gouvernement s'en remet au Parlement pour trancher la réintroduction de l'acétamipride",
-    "Réunion à Matignon avec ministres et chefs des groupes du centre et de la droite",
-    "Décision d'allonger le délai pour l'avis de l'Anses sur des dérogations",
-    "Révision d'une disposition contestée sur la gestion de l'eau",
-    "Vote solennel du projet de loi agricole prévu"
-   ],
-   "qui": "Gouvernement français, Parlement",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "réintroduction effective de l'acétamipride"
-   ],
-   "importance": 55,
-   "empreinte": "df5399a6b537d6f0",
-   "score": 91,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-20T18:46:40.954368+00:00"
-  },
-  {
-   "faits": [
-    "Au moins 14 personnes sont mortes lundi 20 juillet 2026 dans des frappes russes et ukrainiennes",
-    "Des bombardements ukrainiens ont fait au moins six morts dans la région russe de Belgorod",
-    "Au moins huit personnes ont été tuées en Ukraine par plusieurs frappes russes"
-   ],
-   "qui": null,
-   "ou": "Ukraine, Belgorod (Russie)",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "148996c887356a36",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T21:36:59.667878+00:00"
-  },
   {
    "faits": [
     "Une loi d'urgence agricole fait l'objet de débats au Parlement français le 20 juillet 2026",
@@ -2039,55 +1929,6 @@
   },
   {
    "faits": [
-    "Ismael Zambada García, alias 'El Mayo', cofondateur du cartel de Sinaloa, condamné à la prison à perpétuité",
-    "Il a 76 ans",
-    "Son arrestation a été rendue possible par la trahison d'un fils d'Joaquín Guzmán Loera ('El Chapo')",
-    "Sa condamnation a déclenché une guerre interne au sein du cartel"
-   ],
-   "qui": "Ismael Zambada García ('El Mayo')",
-   "ou": "New York, États-Unis",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "ff1907956071f7c3",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T18:46:40.954373+00:00"
-  },
-  {
-   "faits": [
-    "Escalade des hostilités entre États-Unis et Iran le 20 juillet 2026",
-    "États-Unis ont frappé une grande partie du territoire iranien pendant la nuit",
-    "Pour la dixième journée consécutive, États-Unis visent des sites stratégiques en Iran",
-    "Villes ciblées : Bouchehr et Tabriz",
-    "Téhéran riposte contre des installations militaires américaines au Koweït et à Bahreïn",
-    "Iran revendique l'attaque de deux pétroliers dans le détroit d'Ormuz",
-    "Iran déclare faire face à une 'guerre totale' avec les États-Unis"
-   ],
-   "qui": "États-Unis, Iran",
-   "ou": "Moyen-Orient (Iran, Koweït, Bahreïn, détroit d'Ormuz)",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "2b35ea756bf2ad03",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T18:46:40.953366+00:00"
-  },
-  {
-   "faits": [
     "Un incendie s'est déclaré dans un camp de Roms à la Prairie de Mauves à Nantes le 20 juillet 2026 en fin de journée",
     "Environ 10 hectares ont brûlé",
     "Une cinquantaine d'habitations ont été évacuées par précaution",
@@ -2132,28 +1973,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-20T21:36:59.667888+00:00"
-  },
-  {
-   "faits": [
-    "Les douze prévenus dans l'affaire des assistants d'eurodéputés du Front national se pourvoient en cassation",
-    "Huit pourvois avaient déjà été déposés, quatre supplémentaires ont suivi",
-    "Affaire de détournement de fonds publics"
-   ],
-   "qui": "Prévenus du Front national (affaire des assistants d'eurodéputés)",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "de797b756a9eb3b7",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T18:46:40.954376+00:00"
   },
   {
    "faits": [
@@ -2253,6 +2072,28 @@
   },
   {
    "faits": [
+    "Donald Trump a signé un décret le 20 juillet 2026 imposant 50% de droits de douane supplémentaires sur des produits canadiens",
+    "Les produits concernés incluent les produits laitiers, l'alcool, le miel et le ciment",
+    "Ces droits de douane doivent entrer en vigueur dans un mois"
+   ],
+   "qui": "Donald Trump (président américain)",
+   "ou": "États-Unis / Canada",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "c26095acdf18e789",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T01:13:10.338232+00:00"
+  },
+  {
+   "faits": [
     "Lionel Messi a rompu le silence après la défaite de l'Argentine en finale de la Coupe du monde le 19 juillet 2026",
     "L'Argentine s'est inclinée face à l'Espagne (1-0)",
     "Messi a exprimé que sa blessure mettra du temps à cicatriser",
@@ -2297,52 +2138,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-20T20:15:02.953601+00:00"
-  },
-  {
-   "faits": [
-    "Meurtre d'Ann Widdecombe, ancienne députée britannique anti-immigration, âgée de 78 ans",
-    "Joshua Kerry inculpé du meurtre",
-    "Kerry avait été arrêté deux jours après la découverte du corps",
-    "Ann Widdecombe était porte-parole du parti Reform UK"
-   ],
-   "qui": "Ann Widdecombe, Joshua Kerry",
-   "ou": "Royaume-Uni",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "6fb343c229518918",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T18:46:40.953202+00:00"
-  },
-  {
-   "faits": [
-    "Tensions autour du détroit d'Ormuz font grimper les cours du pétrole",
-    "Iran resserre son étau sur le détroit d'Ormuz",
-    "Avant la guerre, le détroit voyait transiter 1/5e du commerce mondial d'hydrocarbures",
-    "Cours du pétrole repartis à la hausse après avoir été apaisés par un protocole d'accord en juin"
-   ],
-   "qui": "Iran, États-Unis",
-   "ou": "Détroit d'Ormuz, marchés pétroliers mondiaux",
-   "categorie": "economie",
-   "sensible": true,
-   "confiance": 84,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "f7e57697021f05ca",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-20T18:46:40.953404+00:00"
   },
   {
    "faits": [
@@ -2515,6 +2310,29 @@
   },
   {
    "faits": [
+    "Le président gabonais Brice Clotaire Oligui Nguema effectue une visite d'État en France le 20 juillet 2026",
+    "Il s'est entretenu avec Emmanuel Macron",
+    "Un premier protocole d'accord sur le manganèse a été validé entre la France et le Gabon",
+    "Ces discussions font suite aux accords conclus en novembre 2025 à Libreville"
+   ],
+   "qui": "Brice Clotaire Oligui Nguema (président du Gabon), Emmanuel Macron (président français)",
+   "ou": "France / Gabon",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "1045eb29840d1ff2",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T01:13:10.338247+00:00"
+  },
+  {
+   "faits": [
     "Strasbourg a perdu 7-0 contre le Sporting CP en match amical",
     "C'était le premier match amical de l'été pour Strasbourg",
     "C'étaient les débuts d'Hugo Oliveira sur le banc de Strasbourg",
@@ -2562,6 +2380,28 @@
   },
   {
    "faits": [
+    "L'équipe de France a été battue par l'Angleterre (4-6) samedi lors du match pour la 3e place de la Coupe du monde",
+    "Rayan Cherki a publié un message rendant hommage à Didier Deschamps après la compétition",
+    "Cherki avait été critiqué pour ses performances et son attitude durant le tournoi"
+   ],
+   "qui": "Rayan Cherki, Didier Deschamps, équipe de France, Angleterre",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "bae2260ef8eafcf6",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T01:13:10.338251+00:00"
+  },
+  {
+   "faits": [
     "Un suspect a été inculpé pour le meurtre d'Ann Widdecombe, ancienne députée britannique",
     "Ann Widdecombe était membre du parti Reform UK (anti-immigration)",
     "L'enquête se poursuit pour déterminer le mobile"
@@ -2584,17 +2424,33 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-20T23:38:24.267429+00:00"
+  },
+  {
+   "faits": [
+    "Ferran Torres, buteur en finale de la Coupe du monde, intéresse le PSG",
+    "Le Real Madrid surveille également le joueur",
+    "Sa situation au FC Barcelone s'enlisait"
+   ],
+   "qui": "Ferran Torres, PSG, Real Madrid, FC Barcelone",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [
+    "intérêt confirmé du PSG"
+   ],
+   "importance": 55,
+   "empreinte": "689c0cefa8502e16",
+   "score": 74,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T01:12:53.259229+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "b93d375682a5075b",
-   "2026-07-19T01:07:35.141014+00:00"
-  ],
-  [
-   "1d2138a3ad63a892",
-   "2026-07-19T01:07:39.062152+00:00"
-  ],
   [
    "f62bc80871da3e13",
    "2026-07-19T04:33:38.239925+00:00"
@@ -2666,17 +2522,17 @@
   [
    "49cc20797c8fdb55",
    "2026-07-20T23:38:36.729596+00:00"
+  ],
+  [
+   "77997dd4bc6bc929",
+   "2026-07-21T01:13:11.441305+00:00"
+  ],
+  [
+   "66f52d60459763f2",
+   "2026-07-21T01:13:15.436446+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "ab50b3c449ea1339",
-   "2026-07-19T01:07:29.401475+00:00"
-  ],
-  [
-   "4b3873b27431a6df",
-   "2026-07-19T01:07:34.104614+00:00"
-  ],
   [
    "f9e4c83f6b1a3a0b",
    "2026-07-19T04:33:31.558548+00:00"
@@ -2748,18 +2604,28 @@
   [
    "05169b158a4c5acd",
    "2026-07-20T23:38:31.639590+00:00"
+  ],
+  [
+   "893f200fe05c6cbb",
+   "2026-07-21T01:12:56.488384+00:00"
+  ],
+  [
+   "148996c887356a36",
+   "2026-07-21T01:13:10.338208+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚽ L'Espagne remporte la Coupe du monde 2026 face à l'Argentine (1-0 après prolongation). Ferran Torres inscrit le but décisif, servi par Nico Williams. C'est le deuxième titre mondial espagnol. (Le Figaro, Ouest-France)",
   "Donald Trump impose 50 % de droits de douane sur des produits canadiens (vin, ciment, crosses de hockey) à partir d'un mois. Le président justifie cette mesure par un traitement discriminatoire du Canada envers les produits américains. (France 24)",
   "⚽ L'Espagne remporte la Coupe du monde 2026. La Roja a battu l'Argentine 1-0 après prolongation en finale à New York. Le roi Felipe VI et le Premier ministre Pedro Sanchez ont accueilli les joueurs à Madrid après leur victoire.",
-  "🇫🇷 L'Assemblée nationale a adopté le projet de loi d'urgence agricole avec 296 voix pour et 224 contre. Le texte réintroduit des pesticides à titre dérogatoire et doit être examiné au Sénat. (franceinfo, BFMTV)"
+  "🇫🇷 L'Assemblée nationale a adopté le projet de loi d'urgence agricole avec 296 voix pour et 224 contre. Le texte réintroduit des pesticides à titre dérogatoire et doit être examiné au Sénat. (franceinfo, BFMTV)",
+  "🇬🇧 Andy Burnham a été nommé Premier ministre du Royaume-Uni lundi, succédant à Keir Starmer à la tête du Parti travailliste. Dans un contexte économique et politique instable, les experts estiment qu'il devra démontrer la solidité de son programme. (France 24, RFI)",
+  "Au moins 14 personnes sont mortes lundi 20 juillet dans des échanges de bombardements entre la Russie et l'Ukraine. Six morts dans la région russe de Belgorod, huit en Ukraine. (franceinfo)"
  ],
  "recap_date": "2026-07-20",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-21",
-  "publies": 4
+  "publies": 6
  }
 }
