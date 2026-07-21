@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-rouge-canicule-est-levee-mais-69-departements-restent-en-vigilance-orange-et-11-sont-concernes-par-un-risque-d-orages_8108324.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-l-iran-affirme-que-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-americains_8108381.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/didier-deschamps/c-est-quand-meme-un-sacre-palmares-malgre-la-deception-de-la-defaite-en-demi-finale-face-a-l-espagne-ces-supporters-francais-salue-la-legende-didier-deschamps_8108363.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/automobile/essence/une-federation-de-stations-service-independantes-va-saisir-l-autorite-de-la-concurrence-contre-le-plafonnement-des-prix-des-carburants-mis-en-place-par-totalenergies_8107961.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/on-est-venu-vider-un-tonneau-trop-plein-quel-bilan-pour-le-reexamen-des-plaintes-pour-violences-sexuelles-sur-mineurs-lance-apres-l-affaire-lyhanna_8106551.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/cinema/sorties-de-films/l-odyssee-christopher-nolan-a-l-assaut-de-son-epopee-la-plus-ambitieuse-a-ce-jour_8102894.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/je-ne-veux-pas-passer-pour-une-pleureuse-mais-pourquoi-didier-deschamps-s-en-est-il-pris-a-l-arbitre-apres-la-demi-finale-de-coupe-du-monde-perdue-contre-l-espagne_8108378.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/societe/justice/kick-boxing-masculinisme-affaires-judiciaires-cinq-choses-a-savoir-sur-les-freres-andrew-et-tristan-tate-arretes-aux-etats-unis-pour-des-soupcons-de-viols_8115305.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement-sexuel/a-biarritz-deux-animateurs-d-un-centre-de-loisirs-places-en-garde-a-vue-pour-viol-et-agressions-sexuelles-sur-au-moins-13-enfants_8116418.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/info-franceinfo-un-canadair-a-ete-endommage-lors-d-une-intervention-sur-l-incendie-de-fontainebleau-et-a-du-etre-retire-du-dispositif_8116331.html#xtor=RSS-3-[lestitres]",
-   "https://france3-regions.franceinfo.fr/centre-val-de-loire/elles-n-ont-plus-rien-a-manger-des-vaches-contraintes-de-rester-a-l-etable-a-cause-de-la-secheresse-3389650.html#xtor=RSS-3-[lestitres]"
+   "https://france3-regions.franceinfo.fr/centre-val-de-loire/elles-n-ont-plus-rien-a-manger-des-vaches-contraintes-de-rester-a-l-etable-a-cause-de-la-secheresse-3389650.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/le-belge-remco-evenepoel-ecrase-le-contre-la-montre-de-la-16e-etape-du-tour-de-france-et-reprend-28-secondes-au-maillot-jaune-tadej-pogacar-paul-seixas-quatrieme_8116673.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/cinema/festival-de-deauville/la-chanteuse-et-actrice-lio-presidera-le-jury-de-la-revelation-du-festival-de-deauville_8116838.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/renforcement-du-pouvoir-des-federations-sport-feminin-lutte-contre-le-piratage-ce-que-la-reforme-du-sport-professionnel-va-changer_8116541.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-levee-a-partir-de-mercredi_8116658.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -414,12 +414,6 @@
    "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/politique/presidentielle-2027-les-petits-candidats-qui-retentent-leur-chance-et-ceux-qui-essaient-d-exister-20260716",
-   "https://www.lefigaro.fr/conso/electricite-vers-une-hausse-de-2-5-des-tarifs-reglementes-de-vente-au-1er-aout-20260716",
-   "https://www.lefigaro.fr/societes/la-consommation-d-electricite-en-france-augmente-enfin-20260716",
-   "https://www.lefigaro.fr/conjoncture/budget-2027-la-chasse-aux-niches-fiscales-est-ouverte-20260716",
-   "https://www.lefigaro.fr/conjoncture/impots-depenses-croissance-le-plan-a-140-milliards-d-euros-pour-eviter-le-derapage-de-la-dette-20260716",
-   "https://www.lefigaro.fr/conjoncture/budget-de-l-etat-si-on-ne-change-rien-en-2030-le-deficit-va-monter-a-7-alerte-philippe-juvin-20260716",
    "https://www.lefigaro.fr/economie/187-milliards-d-euros-d-aides-aux-entreprises-le-chiffre-qui-va-agiter-le-debat-budgetaire-20260716",
    "https://www.lefigaro.fr/politique/presidentielle-2027-bernard-cazeneuve-presente-sa-candidature-dans-une-lettre-aux-francais-20260716",
    "https://www.lefigaro.fr/politique/les-canadair-il-s-en-fout-le-gouvernement-attal-a-t-il-vraiment-annule-une-commande-de-bombardiers-d-eau-20260716",
@@ -713,11 +707,15 @@
    "https://www.lefigaro.fr/faits-divers/interruption-du-concert-de-barbara-butch-a-grenoble-le-parquet-ouvre-une-enquete-pour-delit-d-entrave-20260721",
    "https://www.lefigaro.fr/faits-divers/puy-de-dome-le-pere-superieur-d-une-abbaye-enleve-et-moleste-la-piste-d-un-reglement-de-comptes-entre-benedictins-privilegiee-20260721",
    "https://www.lefigaro.fr/politique/proces-en-appel-du-rn-tous-les-condamnes-dont-marine-le-pen-se-sont-pourvus-en-cassation-20260721",
-   "https://www.lefigaro.fr/conso/boudins-cotes-de-porc-saucissons-de-la-charcuterie-vendue-chez-carrefour-rappelee-dans-toute-la-france-20260721"
+   "https://www.lefigaro.fr/conso/boudins-cotes-de-porc-saucissons-de-la-charcuterie-vendue-chez-carrefour-rappelee-dans-toute-la-france-20260721",
+   "https://www.lefigaro.fr/faits-divers/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-coup-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-juge-20260721",
+   "https://www.lefigaro.fr/actualite-france/le-parlement-adopte-definitivement-la-loi-d-urgence-agricole-avec-son-volet-sur-les-pesticides-20260721",
+   "https://www.lefigaro.fr/nice/incendies-dans-le-var-le-phenomene-des-sautes-de-feux-ce-mecanisme-qui-demultiplie-la-propagation-des-incendies-20260721",
+   "https://www.lefigaro.fr/actualite-france/var-un-nouvel-incendie-ravage-350-hectares-six-personnes-legerement-intoxiquees-20260721",
+   "https://www.lefigaro.fr/economie/successions-pacte-dutreil-contribution-sur-les-hauts-revenus-sur-la-taxation-des-plus-aises-le-retour-des-idees-folles-20260721",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-evenepoel-peut-il-priver-uae-du-double-a-paris-20260721"
   ],
   "https://www.france24.com/fr/rss": [
-   "dc4ed0e8-8011-11f1-bb98-bdb966c8318f",
-   "00f69d2a-800f-11f1-acfd-4b4027de5a0b",
    "7c2ffbb6-7e94-11f1-8513-07a2a4790903",
    "6e336de6-800a-11f1-bb19-278fcfc78d70",
    "7ba5d990-7fed-11f1-94a3-55cf1765a034",
@@ -1015,7 +1013,9 @@
    "2e0adade-8513-11f1-b655-8717954ada7c",
    "8096d9b6-8508-11f1-8329-5f6c7c3346f2",
    "e0c46796-84ee-11f1-a434-ab341b3d5f8e",
-   "473e6bc4-8509-11f1-aec6-5f6c7c3346f2"
+   "473e6bc4-8509-11f1-aec6-5f6c7c3346f2",
+   "cad4f05e-8525-11f1-aadb-db94f1aaebe8",
+   "9b96df96-851b-11f1-9323-db048765a822"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1229,13 +1229,13 @@
    "8564be4e-850e-11f1-be65-91ae434bc437",
    "c4223c68-8506-11f1-a753-4db1a4532f94",
    "b61c8ce4-84f8-11f1-a3af-310e63a9b336",
-   "019cc9b2-84f0-11f1-ae12-4daacd7f913a"
+   "019cc9b2-84f0-11f1-ae12-4daacd7f913a",
+   "70ee6f46-8522-11f1-8a90-3366361549e6",
+   "c7ac5e20-850d-11f1-a746-499fbb90ad68",
+   "780fddd8-8517-11f1-ad31-cda5df82dfdf",
+   "51f9beda-84e9-11f1-ace9-454b9094f369"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-pourquoi-la-polemique-sur-la-gestion-du-detroit-dormuz-est-relancee-f52660d2-7eb7-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/cyclisme/tadej-pogacar/un-double-tour-de-france-vuelta-tadej-pogacar-envisage-de-prendre-le-depart-du-tour-despagne-2026-0019515a-7f46-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/angleterre-argentine-larbitre-de-la-demi-finale-connu-et-il-a-deja-dirige-un-match-tendu-dans-cette-coupe-du-monde-ee45a40a-7f41-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/securite-routiere/departs-en-vacances/camping-car-ces-astuces-pour-partir-sans-exploser-son-budget-246cdcf8-79d7-11f1-ae95-49be6b75151e?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tourisme/cet-ete-entrez-en-immersion-dans-la-culture-equestre-au-haras-de-la-vendee-7fc7091e-52d3-11f1-bdc7-d41f8cb55a03?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-date-horaire-et-diffusion-de-la-petite-finale-de-la-coupe-du-monde-2026-0e94e6bc-7f92-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/liban/guerre-au-moyen-orient-trois-questions-sur-les-zones-pilotes-au-cur-des-negociations-entre-israel-et-le-liban-408cdde6-7f60-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1531,7 +1531,11 @@
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-a-quelle-heure-et-sur-quelle-chaine-tv-suivre-la-16e-etape-1bbaa2d2-8438-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/meteo/canicule/emballement-pollution-incendies-plus-frequents-les-lecons-scientifiques-de-la-canicule-de-juin-e03f9f3e-8453-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sante/grippe-aviaire/recit-il-y-a-quatre-ans-lunique-colonie-de-fous-de-bassan-de-france-etait-devastee-par-la-grippe-aviaire-9c301d3c-75e9-11f1-9172-187ee382b87f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-la-reintroduction-de-lacetamipride-prevue-par-la-loi-durgence-agricole-de67bf60-8472-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-la-reintroduction-de-lacetamipride-prevue-par-la-loi-durgence-agricole-de67bf60-8472-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-21/je-paye-15-euro-par-mois-du-jardin-a-la-douche-cet-ingenieur-livre-ses-secrets-pour-economiser-l-eau-et-son-argent-99d0715d-449e-4ffb-872e-81f6c30b08ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/economie/agriculture/la-loi-durgence-agricole-definitivement-adoptee-par-le-parlement-malgre-les-debats-sur-la-reintroduction-de-pesticides-bfae1ff6-8503-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-seixas-evenepoel-pourquoi-autant-de-controles-antidopage-apres-ceux-de-pogacar-et-vingegaard-7955cace-8501-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/olympique-lyonnais/textor-reclame-350-millions-deuros-de-dommages-et-interets-a-kang-apres-la-vente-de-lol-devant-la-justice-americaine-a4e7e848-8524-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1900,6 +1904,31 @@
  "evenements_attente": [
   {
    "faits": [
+    "Remco Evenepoel a remporté le contre-la-montre de la 16e étape du Tour de France entre Evian-les-Bains et Thonon-les-Bains",
+    "Evenepoel a repris 28 secondes à Tadej Pogacar",
+    "Pogacar a terminé deuxième",
+    "Paul Seixas a terminé quatrième",
+    "Florian Lipowitz a abandonné après une chute"
+   ],
+   "qui": "Remco Evenepoel, Tadej Pogacar",
+   "ou": "Evian-les-Bains, Thonon-les-Bains",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "01077dd6e0e9f1fb",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-21T17:40:38.651541+00:00"
+  },
+  {
+   "faits": [
     "Le procès en appel de Cédric Jubillar, prévu en septembre 2026, est renvoyé au premier semestre 2027",
     "Cette décision a été prise par la cour d'appel suite à la poursuite de l'enquête après les aveux de l'accusé"
    ],
@@ -1946,59 +1975,6 @@
   },
   {
    "faits": [
-    "Le maire d'Alès (élu LR) a reçu jeudi une enveloppe contenant deux balles de 9 mm et un courrier menaçant signé par la DZ Mafia",
-    "Des tags menaçants ont été découverts sur la clôture du domicile du maire",
-    "Le maire a été exfiltré de son domicile par le Raid dans la nuit du 20 au 21 juillet suite à des craintes concernant une voiture piégée",
-    "Le maire a fait l'objet de menaces réitérées"
-   ],
-   "qui": "Maire d'Alès (LR) ; DZ Mafia",
-   "ou": "Alès",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "présence confirmée d'une voiture piégée"
-   ],
-   "importance": 75,
-   "empreinte": "6ddf5dd92b160310",
-   "score": 99,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-21T10:06:29.027038+00:00"
-  },
-  {
-   "faits": [
-    "Des Libanais sont arrêtés ou enlevés par l'armée israélienne",
-    "Ces personnes sont détenues sans que leurs proches aient de leurs nouvelles",
-    "L'armée israélienne a annoncé avoir entamé son déploiement dans les zones pilotes du sud du Liban",
-    "Ce déploiement est prévu par l'accord-cadre signé en juin 2026 entre le Liban et Israël"
-   ],
-   "qui": "Armée israélienne ; gouvernement libanais",
-   "ou": "Sud du Liban",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "nombre exact de disparus",
-    "conditions de détention"
-   ],
-   "importance": 78,
-   "empreinte": "9a2e8f6fb3ff37c0",
-   "score": 97,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-21T10:06:29.027041+00:00"
-  },
-  {
-   "faits": [
     "Le Parlement valide la nomination du sénateur LR François-Noël Buffet comme Défenseur des droits",
     "François-Noël Buffet succède à Claire Hédon",
     "Le profil de Buffet est jugé conservateur et suscite l'inquiétude du monde associatif",
@@ -2023,28 +1999,28 @@
   },
   {
    "faits": [
-    "Le concert de la DJ Barbara Butch prévu samedi 18 juillet à Grenoble a été interrompu",
-    "Barbara Butch avait signé une tribune de soutien à la proposition de loi visant à lutter contre les formes renouvelées d'antisémitisme",
-    "Des militants pro-palestiniens ont appelé au boycott de l'événement",
-    "Environ une centaine de militants pro-palestiniens ont manifesté contre sa présence",
-    "La maire écologiste Laurence Ruffin dénonce une stratégie d'intimidation des élus insoumis"
+    "Le Parlement a adopté définitivement la loi d'urgence agricole",
+    "Le Sénat a voté mardi l'adoption",
+    "La loi prévoit la possibilité de réintroduire sous conditions dérogatoires certains pesticides interdits en France"
    ],
-   "qui": "Barbara Butch ; militants pro-palestiniens ; Laurence Ruffin (maire) ; élus LFI",
-   "ou": "Grenoble",
-   "categorie": "culture",
+   "qui": "Parlement français, Sénat",
+   "ou": "France",
+   "categorie": "politique",
    "sensible": false,
    "confiance": 92,
    "sources": [
-    "franceinfo",
-    "Le Monde"
+    "Le Figaro",
+    "Ouest-France"
    ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "408bf820eb98cb02",
-   "score": 96,
-   "fiab_max": 90,
+   "non_confirme": [
+    "Possible démission de Monique Barbut, ministre de la Transition écologique, personnellement opposée à la mesure"
+   ],
+   "importance": 70,
+   "empreinte": "51b8792db20cc412",
+   "score": 95,
+   "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-21T10:06:29.027044+00:00"
+   "depuis": "2026-07-21T17:40:38.651551+00:00"
   },
   {
    "faits": [
@@ -2142,28 +2118,29 @@
   },
   {
    "faits": [
-    "Andy Burnham, ancien maire du Grand Manchester, est devenu premier ministre britannique",
-    "Il remplace Keir Starmer",
-    "Burnham est le septième premier ministre britannique depuis 2016",
-    "John Healey a été nommé chancelier de l'Échiquier",
-    "Ed Miliband est devenu ministre des affaires étrangères",
-    "Burnham promet de distribuer le pouvoir partout dans le pays"
+    "Un nouvel incendie s'est déclaré dans le Var mardi",
+    "L'incendie a ravagé 350 hectares",
+    "Plus de 150 personnes ont été évacuées de manière préventive",
+    "Six personnes ont été légèrement intoxiquées",
+    "Les évacuations ont concerné notamment Cotignac et Sillans-la-Cascade",
+    "Plusieurs centaines de sapeurs-pompiers sont mobilisés",
+    "Un premier incendie avait été fixé lundi dans le même département"
    ],
-   "qui": "Andy Burnham ; John Healey ; Ed Miliband",
-   "ou": "Royaume-Uni",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 90,
+   "qui": null,
+   "ou": "Var, Cotignac, Sillans-la-Cascade",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 93,
    "sources": [
-    "Le Monde"
+    "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 80,
-   "empreinte": "2b61502d440cdfd0",
-   "score": 88,
-   "fiab_max": 90,
+   "importance": 78,
+   "empreinte": "06bedc6674523af7",
+   "score": 87,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-21T10:06:29.027046+00:00"
+   "depuis": "2026-07-21T17:40:38.650496+00:00"
   },
   {
    "faits": [
@@ -2189,72 +2166,26 @@
   },
   {
    "faits": [
-    "La galerie d'Apollon du Louvre rouvre mercredi après neuf mois de fermeture",
-    "La fermeture a suivi un spectaculaire cambriolage en octobre 2025",
-    "Huit joyaux de la Couronne de France ont été dérobés lors du cambriolage",
-    "Ces joyaux sont toujours introuvables",
-    "La galerie rouvre sans vitrines ni bijoux exposés"
+    "Cédric Jubillar a avoué devant la justice avoir tué sa femme",
+    "Il a déclaré l'avoir attrapée par le cou et avoir serré",
+    "Il a déclaré vouloir qu'elle se taise",
+    "Il a révélé la dernière phrase que son épouse aurait prononcée"
    ],
-   "qui": "Musée du Louvre",
-   "ou": "Paris",
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "31296772c83a03e5",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T10:06:29.027047+00:00"
-  },
-  {
-   "faits": [
-    "Plus de 5 millions de réfugiés ukrainiens ont été accueillis en Europe depuis le début de la guerre",
-    "Le nombre total de réfugiés ukrainiens dans le monde (hors Russie) s'élève à 5,762 millions au 30 avril 2026",
-    "5,213 millions de réfugiés ukrainiens sont enregistrés en Europe",
-    "549 000 réfugiés ukrainiens sont en dehors du continent"
-   ],
-   "qui": "HCR ; gouvernement ukrainien",
-   "ou": "Europe ; Ukraine",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "21629bbc1c9df2b2",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T10:06:29.027049+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump impose au Canada de nouveaux droits de douane de 50 % sur plusieurs produits",
-    "Washington justifie cette décision par des conflits avec Ottawa sur les produits laitiers, l'alcool et l'automobile",
-    "Le premier ministre canadien Mark Carney affirme que le Canada est prêt à approfondir les discussions avec les États-Unis"
-   ],
-   "qui": "Donald Trump ; Mark Carney",
-   "ou": "États-Unis ; Canada",
-   "categorie": "economie",
-   "sensible": false,
+   "qui": "Cédric Jubillar",
+   "ou": null,
+   "categorie": "justice",
+   "sensible": true,
    "confiance": 90,
    "sources": [
-    "Le Monde"
+    "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "79413f192c55defe",
-   "score": 87,
-   "fiab_max": 90,
+   "importance": 80,
+   "empreinte": "25c00dc228e32b8f",
+   "score": 86,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-21T10:06:29.027051+00:00"
+   "depuis": "2026-07-21T17:40:38.650397+00:00"
   },
   {
    "faits": [
@@ -2345,56 +2276,6 @@
   },
   {
    "faits": [
-    "Les frappes américaines se poursuivent en Iran",
-    "Le pouvoir iranien évite pour l'instant une confrontation totale",
-    "L'Iran parie sur une guerre d'usure face aux États-Unis",
-    "L'Iran menace de provoquer une perturbation énergétique mondiale pour contraindre Washington à revoir sa stratégie"
-   ],
-   "qui": "Iran ; États-Unis",
-   "ou": "Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "ampleur réelle des perturbations énergétiques menacées"
-   ],
-   "importance": 82,
-   "empreinte": "f7729befdbec4142",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T10:06:29.027054+00:00"
-  },
-  {
-   "faits": [
-    "Un projet de loi d'urgence agricole a été adopté par l'Assemblée nationale",
-    "L'adoption a eu lieu dans la nuit de lundi 20 à mardi 21 juillet",
-    "Le vote s'est fait par 296 voix pour et 224 voix contre",
-    "Les voix pour proviennent majoritairement de la droite et de l'extrême droite",
-    "Le Sénat a ajouté une mesure permettant la réautorisation dérogatoire de deux néonicotinoïdes",
-    "L'Assemblée nationale était fracturée sur la question des pesticides"
-   ],
-   "qui": "Assemblée nationale ; gouvernement français",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "f69800af7706deea",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T10:06:29.027055+00:00"
-  },
-  {
-   "faits": [
     "Trois naufrages en série se sont produits au large de la Mauritanie entre le 14 et le 18 juillet",
     "144 personnes sont mortes ou disparues",
     "387 personnes ont pu être sauvées selon le Haut-Commissariat aux Nations unies pour les réfugiés",
@@ -2415,57 +2296,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T14:17:42.002617+00:00"
-  },
-  {
-   "faits": [
-    "Une épidémie d'Ebola due à la souche Bundibugyo s'est déclarée à Mongbwalu dans l'est de la RDC",
-    "L'épidémie progresse rapidement",
-    "Des journalistes du Monde ont effectué un reportage dans l'épicentre de l'épidémie"
-   ],
-   "qui": null,
-   "ou": "Mongbwalu, République démocratique du Congo",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "nombre de cas",
-    "nombre de décès",
-    "taux de progression exact"
-   ],
-   "importance": 75,
-   "empreinte": "38782aec5a1968e2",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T10:06:29.027057+00:00"
-  },
-  {
-   "faits": [
-    "Au moins 67 000 ressortissants africains ont quitté l'Afrique du Sud depuis le 27 juin 2026",
-    "Un mouvement de lutte contre l'immigration illégale sème la terreur dans les townships",
-    "Des étrangers ont été licenciés de leur emploi",
-    "Des étrangers ont été expulsés de leur logement"
-   ],
-   "qui": null,
-   "ou": "Afrique du Sud",
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "nombre réel de départs qui pourrait être bien plus élevé"
-   ],
-   "importance": 70,
-   "empreinte": "fb1484b6aca8ee85",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T10:06:29.027059+00:00"
   },
   {
    "faits": [
@@ -2539,6 +2369,75 @@
   },
   {
    "faits": [
+    "Le Sénat a voté la réforme de la gouvernance du sport professionnel",
+    "Les députés avaient adopté le texte lundi",
+    "La réforme renforce le pouvoir des fédérations",
+    "La réforme promeut le sport féminin",
+    "La réforme vise à lutter contre le piratage"
+   ],
+   "qui": "Parlement français",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "015fb270977e74d5",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T17:40:38.651562+00:00"
+  },
+  {
+   "faits": [
+    "Lio présidera le jury de la révélation du Festival de Deauville",
+    "Roschdy Zem est nommé président du jury principal",
+    "Il s'agit de la 52e édition du Festival du cinéma américain de Deauville",
+    "Le festival se déroulera du 4 au 13 septembre"
+   ],
+   "qui": "Lio, Roschdy Zem",
+   "ou": "Deauville",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "b7902585b0bbf7ac",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T17:40:38.651564+00:00"
+  },
+  {
+   "faits": [
+    "Le président libanais Joseph Aoun a été reçu par Donald Trump à la Maison Blanche",
+    "L'administration Trump fait pression sur Beyrouth pour désarmer le Hezbollah",
+    "Le désarmement du Hezbollah est une condition d'Israël pour se retirer du sud du Liban"
+   ],
+   "qui": "Joseph Aoun, Donald Trump, Hezbollah",
+   "ou": "Washington, Liban",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "ba099a32b73a34bf",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T17:40:38.651566+00:00"
+  },
+  {
+   "faits": [
     "Le Gabon et la France ouvrent une nouvelle page de leur coopération",
     "Le président gabonais Brice Clotaire Oligui Nguema est en visite d'État de trois jours en France",
     "Trois accords ont été conclus entre les deux pays",
@@ -2607,6 +2506,95 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T15:57:32.149866+00:00"
+  },
+  {
+   "faits": [
+    "Le chef de l'opposition indienne Rahul Gandhi a appelé à la démission du Premier ministre Narendra Modi",
+    "L'appel intervient suite à la répression musclée d'une manifestation d'étudiants",
+    "Les étudiants demandaient des réformes du système universitaire et le renvoi du ministre de l'Éducation"
+   ],
+   "qui": "Rahul Gandhi, Narendra Modi",
+   "ou": "Inde",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "c16f4f0d72bcc5ba",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T17:40:38.650616+00:00"
+  },
+  {
+   "faits": [
+    "Un dialogue entre le chavisme et une partie de l'opposition doit s'ouvrir au Venezuela",
+    "Le processus de transition démocratique doit débuter le 1er août",
+    "Une délégation de l'Assemblée nationale élue en 2015 rencontrera à Caracas des représentants du gouvernement",
+    "Le gouvernement est représenté par la présidente par intérim Delcy Rodríguez"
+   ],
+   "qui": "Delcy Rodríguez, opposition vénézuélienne",
+   "ou": "Venezuela, Caracas",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "d52bd5412fccbd1a",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T17:40:38.651572+00:00"
+  },
+  {
+   "faits": [
+    "Les incendies en Amazonie brésilienne ont atteint leur niveau le plus bas en 2025 depuis le début des relevés en 1985",
+    "Selon le réseau MapBiomas, les feux ont fortement reculé",
+    "2024 avait connu une saison d'incendies exceptionnelle favorisée par une sécheresse historique"
+   ],
+   "qui": "MapBiomas",
+   "ou": "Amazonie brésilienne, Brésil",
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "01334ae5f4874b23",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T17:40:38.651573+00:00"
+  },
+  {
+   "faits": [
+    "John Textor, ancien propriétaire de l'Olympique lyonnais, a déposé une plainte en Floride",
+    "Textor réclame 400 millions de dollars (environ 350 millions d'euros) à Michele Kang",
+    "Kang a racheté l'OL en juin 2026"
+   ],
+   "qui": "John Textor, Michele Kang",
+   "ou": "Floride, Olympique lyonnais",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "7aa32cc087cacee8",
+   "score": 80,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T17:40:38.651575+00:00"
   }
  ],
  "publies_48h": [
@@ -2785,7 +2773,7 @@
   "Cinq départements du sud-est français (Aude, Gard, Bouches-du-Rhône, Var, Vaucluse) sont au plus haut niveau de risque de feux de forêt. En Espagne, un incendie au nord de Madrid a brûlé 26 000 hectares. (franceinfo)",
   "Les Gardiens de la Révolution iraniens affirment avoir visé des cibles militaires américaines à Bahreïn et au Koweït. L'armée américaine dit avoir ciblé des installations iraniennes dans le Golfe Persique. (franceinfo, France 24)"
  ],
- "recap_date": "2026-07-20",
+ "recap_date": "2026-07-21",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-21",
