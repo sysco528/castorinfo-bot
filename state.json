@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/incendie/les-incendies-dans-la-foret-de-fontainebleau-sont-fixes-mais-pas-eteints-quatre-gardes-a-vue-encore-en-cours_8108075.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/fin-de-l-alerte-canicule-la-vigilance-rouge-entierement-levee-a-6-heures-mercredi-pour-les-26-derniers-departements-concernes_8108045.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/espagne/incendie-en-espagne-une-francaise-figure-parmi-les-premieres-victimes-identifiees-par-les-autorites_8106281.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/automobile/essence/avec-la-reprise-du-conflit-au-moyen-orient-le-petrole-repart-a-la-hausse-quelles-consequences-a-la-pompe_8107973.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/direct-coupe-du-monde-apres-la-terrible-desillusion-pour-les-bleus-place-a-la-demi-finale-angleterre-argentine_8107688.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-rouge-canicule-est-levee-mais-69-departements-restent-en-vigilance-orange-et-11-sont-concernes-par-un-risque-d-orages_8108324.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-l-iran-affirme-que-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-americains_8108381.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/foot/didier-deschamps/c-est-quand-meme-un-sacre-palmares-malgre-la-deception-de-la-defaite-en-demi-finale-face-a-l-espagne-ces-supporters-francais-salue-la-legende-didier-deschamps_8108363.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/tour-de-france/tour-de-france-evenepoel-veut-se-rapprocher-de-pogacar-seixas-en-embuscade-suivez-le-contre-la-montre-entre-evian-les-bains-et-thonon-les-bains_8116097.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/internet/reseaux-sociaux/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-telephones-interdits-au-lycee-ce-que-contient-la-proposition-de-loi-qui-doit-etre-votee-ce-mardi_8115896.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/transports/sncf/jean-castex-annonce-le-depart-du-pdg-de-sncf-voyageurs-et-reorganise-cette-filiale_8116358.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/automobile/essence/l-augmentation-des-prix-des-carburants-aussi-due-a-des-investisseurs-qui-jouent-avec-les-risques-selon-le-syndicat-mobilians_8116259.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/economie/automobile/essence/l-augmentation-des-prix-des-carburants-aussi-due-a-des-investisseurs-qui-jouent-avec-les-risques-selon-le-syndicat-mobilians_8116259.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/le-proces-en-appel-de-cedric-jubillar-prevu-en-septembre-est-renvoye-au-premier-semestre-2027-apres-ses-aveux_8116490.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/justice/kick-boxing-masculinisme-affaires-judiciaires-cinq-choses-a-savoir-sur-les-freres-andrew-et-tristan-tate-arretes-aux-etats-unis-pour-des-soupcons-de-viols_8115305.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/harcelement-sexuel/a-biarritz-deux-animateurs-d-un-centre-de-loisirs-places-en-garde-a-vue-pour-viol-et-agressions-sexuelles-sur-au-moins-13-enfants_8116418.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/info-franceinfo-un-canadair-a-ete-endommage-lors-d-une-intervention-sur-l-incendie-de-fontainebleau-et-a-du-etre-retire-du-dispositif_8116331.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/centre-val-de-loire/elles-n-ont-plus-rien-a-manger-des-vaches-contraintes-de-rester-a-l-etable-a-cause-de-la-secheresse-3389650.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -414,12 +414,6 @@
    "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/faits-divers/en-direct-affaire-jubillar-des-fouilles-en-cours-autour-de-cagnac-les-mines-cedric-jubillar-present-sur-place-20260716",
-   "https://www.lefigaro.fr/faits-divers/on-explique-que-quand-on-aime-trop-on-peut-tuer-le-voyage-dans-le-temps-de-la-defense-de-cedric-jubillar-qui-invoque-un-crime-passionnel-20260707",
-   "https://madame.lefigaro.fr/societe/son-nom-est-delphine-aussaguel-pourquoi-ne-dit-on-plus-delphine-jubillar-20260709",
-   "https://www.lefigaro.fr/societes/la-place-de-marche-rakuten-france-ferme-definitivement-20260716",
-   "https://www.lefigaro.fr/actualite-france/sur-tous-les-fronts-les-pompiers-redoutent-un-ete-catastrophe-20260715",
-   "https://www.lefigaro.fr/faits-divers/val-d-oise-un-jeune-homme-de-25-ans-frappe-a-mort-apres-un-differend-dans-une-salle-de-sport-20260716",
    "https://www.lefigaro.fr/marseille/senatoriales-2026-dans-les-bouches-du-rhone-valerie-boyer-fera-campagne-sans-renaud-muselier-20260716",
    "https://www.lefigaro.fr/international/un-sang-jeune-derange-les-vieux-briscards-la-colere-monte-en-ukraine-apres-le-depart-de-fedorov-le-populaire-ministre-de-la-defense-20260716",
    "https://www.lefigaro.fr/international/guerre-en-ukraine-oppose-au-limogeage-du-ministre-de-la-defense-le-numero-deux-de-l-armee-de-l-air-demissionne-20260716",
@@ -713,18 +707,15 @@
    "https://www.lefigaro.fr/marseille/fusillade-a-carcassonne-maire-menace-a-ales-la-dzng-une-franchise-identitaire-et-ultraviolente-de-la-dz-mafia-20260721",
    "https://www.lefigaro.fr/international/royaume-uni-un-navire-russe-mene-un-exercice-de-tir-reel-dans-la-manche-20260721",
    "https://www.lefigaro.fr/international/les-deux-diplomates-francais-detenus-en-iran-l-ont-ete-sans-motif-l-un-a-fait-l-objet-de-violences-physiques-20260721",
-   "https://www.lefigaro.fr/voyages/conseils/voyage-a-dubai-ou-riyad-air-france-repousse-encore-la-reprise-de-ses-vols-20260721"
+   "https://www.lefigaro.fr/voyages/conseils/voyage-a-dubai-ou-riyad-air-france-repousse-encore-la-reprise-de-ses-vols-20260721",
+   "https://www.lefigaro.fr/politique/loi-d-urgence-agricole-sebastien-lecornu-accuse-les-ecologistes-de-mensonges-et-d-entretenir-la-colere-avec-duplicite-20260721",
+   "https://www.lefigaro.fr/faits-divers/prevu-en-septembre-le-proces-en-appel-de-cedric-jubillar-est-renvoye-au-premier-semestre-2027-20260721",
+   "https://www.lefigaro.fr/faits-divers/il-faut-parfois-se-rendre-a-l-evidence-pourquoi-les-fouilles-pour-retrouver-le-corps-de-delphine-jubillar-ont-ete-interrompues-si-vite-20260721",
+   "https://madame.lefigaro.fr/bien-etre/psycho/voici-les-4-vrais-signes-qui-permettent-de-reperer-un-menteur-20260721",
+   "https://www.lefigaro.fr/politique/victime-d-une-tentative-de-piratage-le-rn-ecarte-une-exposition-massive-de-donnees-personnelles-20260721",
+   "https://www.lefigaro.fr/faits-divers/biarritz-deux-animateurs-d-un-centre-de-loisirs-places-en-garde-a-vue-pour-suspicions-de-viol-et-d-agressions-sexuelles-20260721"
   ],
   "https://www.france24.com/fr/rss": [
-   "445df66c-7fbf-11f1-86e4-7b7a37c6636a",
-   "3f0aba2c-7fbc-11f1-bab1-53c2522f1d6a",
-   "5cd96b66-7fb7-11f1-8b0b-7772b74bfb79",
-   "c58e8812-7fd0-11f1-9861-f35b30fd7bc6",
-   "081a887e-7fcd-11f1-a2cb-df0225476930",
-   "e2c0efd2-7fd6-11f1-9532-93acd208debe",
-   "7d951bca-7fd0-11f1-a5e0-f35b30fd7bc6",
-   "3ca16214-7fde-11f1-b32a-b54a483346e7",
-   "68d77076-7fe3-11f1-8515-7fd985a1b4e8",
    "c64a8b32-7fdc-11f1-8f5e-f7413afbe8c2",
    "f43ffe16-7fda-11f1-b4c5-b54a483346e7",
    "513e0f90-7fdb-11f1-b52d-f7413afbe8c2",
@@ -1015,7 +1006,16 @@
    "339a1fce-84ef-11f1-bfce-850f86d6b842",
    "d459fe08-84e9-11f1-805e-850f86d6b842",
    "38b1fdce-84ea-11f1-b591-4543be9e0018",
-   "45b287f2-7c55-11f1-9542-670d3c97ac56"
+   "45b287f2-7c55-11f1-9542-670d3c97ac56",
+   "c9f9574e-8505-11f1-b582-7bc91c273ccd",
+   "f4a06df4-8503-11f1-a720-cbcb842c3636",
+   "ae389676-8502-11f1-8d35-7bc91c273ccd",
+   "9767546a-8501-11f1-adee-cbcb842c3636",
+   "d932c354-84ff-11f1-ae59-ed7d023246a3",
+   "547a9a74-84ff-11f1-8f0a-ed7d023246a3",
+   "6221d59e-84fe-11f1-8870-0512b7ed56f2",
+   "e67c20e6-84fa-11f1-abce-ed7d023246a3",
+   "7081173e-84fa-11f1-89bf-ed7d023246a3"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1896,6 +1896,52 @@
  "evenements_attente": [
   {
    "faits": [
+    "Le procès en appel de Cédric Jubillar, prévu en septembre 2026, est renvoyé au premier semestre 2027",
+    "Cette décision a été prise par la cour d'appel suite à la poursuite de l'enquête après les aveux de l'accusé"
+   ],
+   "qui": "Cédric Jubillar",
+   "ou": "Haute-Garonne / Toulouse",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "98621c0c66a9e98a",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-21T14:17:42.003533+00:00"
+  },
+  {
+   "faits": [
+    "Deux animateurs d'un centre de loisirs à Biarritz, âgés de 36 et 21 ans, ont été placés en garde à vue",
+    "Ils sont soupçonnés de viol et d'agressions sexuelles sur au moins 13 enfants",
+    "Les enfants agressés sont âgés de 3 à 4 ans",
+    "Les deux hommes travaillent dans ce centre depuis deux ans et n'ont pas d'antécédents judiciaires selon le parquet"
+   ],
+   "qui": "deux animateurs (36 et 21 ans)",
+   "ou": "Biarritz",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "47701b9eef5acfb6",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-21T14:17:42.003537+00:00"
+  },
+  {
+   "faits": [
     "Le maire d'Alès (élu LR) a reçu jeudi une enveloppe contenant deux balles de 9 mm et un courrier menaçant signé par la DZ Mafia",
     "Des tags menaçants ont été découverts sur la clôture du domicile du maire",
     "Le maire a été exfiltré de son domicile par le Raid dans la nuit du 20 au 21 juillet suite à des craintes concernant une voiture piégée",
@@ -1971,6 +2017,31 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-21T10:06:29.027044+00:00"
+  },
+  {
+   "faits": [
+    "L'Assemblée nationale a adopté la loi d'urgence agricole dans la nuit de lundi à mardi",
+    "La loi prévoit la réintroduction dérogatoire de certains pesticides pour quelques filières",
+    "Ces deux pesticides sont interdits en France mais autorisés ailleurs en Europe",
+    "Sébastien Lecornu accuse les Écologistes de mensonges et d'entretenir la colère avec duplicité",
+    "La loi a provoqué des débats houleux et des divergences entre le gouvernement et une partie de ses troupes"
+   ],
+   "qui": "Sébastien Lecornu, Assemblée nationale",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "953596111e517618",
+   "score": 93,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-21T14:17:42.003544+00:00"
   },
   {
    "faits": [
@@ -2093,25 +2164,25 @@
   },
   {
    "faits": [
-    "Khalil al-Hayya a été élu à la tête du Hamas en tant que successeur de Yahya Sinouar",
-    "Al-Hayya est négociateur du cessez-le-feu avec Israël",
-    "Le Hamas est décrit comme décapité, isolé et aux marges de manœuvre très limitées"
+    "Les frères Andrew et Tristan Tate, influenceurs américano-britanniques, ont été arrêtés samedi aux États-Unis",
+    "L'arrestation a été effectuée à la demande du Royaume-Uni qui réclame leur extradition",
+    "Ils sont soupçonnés de viols"
    ],
-   "qui": "Khalil al-Hayya, Hamas",
-   "ou": null,
-   "categorie": "international",
-   "sensible": false,
+   "qui": "Andrew Tate, Tristan Tate",
+   "ou": "États-Unis",
+   "categorie": "justice",
+   "sensible": true,
    "confiance": 90,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "7409c2b4c3f0e0ff",
-   "score": 87,
+   "importance": 70,
+   "empreinte": "f5911f8f830d30fd",
+   "score": 86,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-21T07:25:01.869695+00:00"
+   "depuis": "2026-07-21T14:17:42.003553+00:00"
   },
   {
    "faits": [
@@ -2230,6 +2301,29 @@
   },
   {
    "faits": [
+    "Trois naufrages en série se sont produits au large de la Mauritanie entre le 14 et le 18 juillet",
+    "144 personnes sont mortes ou disparues",
+    "387 personnes ont pu être sauvées selon le Haut-Commissariat aux Nations unies pour les réfugiés",
+    "Les embarcations se dirigeaient vers l'Espagne et les îles Canaries"
+   ],
+   "qui": null,
+   "ou": "Mauritanie",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "680c80e9c1411b7c",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T14:17:42.002617+00:00"
+  },
+  {
+   "faits": [
     "Une épidémie d'Ebola due à la souche Bundibugyo s'est déclarée à Mongbwalu dans l'est de la RDC",
     "L'épidémie progresse rapidement",
     "Des journalistes du Monde ont effectué un reportage dans l'épicentre de l'épidémie"
@@ -2281,31 +2375,6 @@
   },
   {
    "faits": [
-    "La France devrait définitivement adopter l'interdiction des réseaux sociaux aux moins de 15 ans",
-    "Cette mesure serait une première en Europe",
-    "Elle est destinée à protéger la santé des plus jeunes",
-    "Emmanuel Macron veut voir la loi mise en œuvre dès septembre"
-   ],
-   "qui": "Emmanuel Macron, députés français",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Calendrier exact de l'adoption définitive"
-   ],
-   "importance": 78,
-   "empreinte": "5ed8ba74b3947156",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T07:25:01.869699+00:00"
-  },
-  {
-   "faits": [
     "Deux diplomates français ont été détenus en Iran sans motif",
     "L'un des diplomates français a fait l'objet de violences physiques",
     "Jean-Noël Barrot, ministre des Affaires étrangères français, a qualifié cette atteinte de gravissime et inadmissible"
@@ -2330,10 +2399,36 @@
   },
   {
    "faits": [
-    "Maud Bregeon, ministre de l'Énergie et porte-parole du gouvernement, déclare que 'la situation est extrêmement incertaine' concernant les prix du carburant",
-    "Elle affirme être 'vigilante' dans les '4V'"
+    "Le maire LR d'Alès Christophe Rivenq a été menacé par la DZ Mafia",
+    "Son domicile a d'abord été atteint par deux balles de 9mm et des tags",
+    "Il a été exfiltré de son domicile dans la nuit de lundi à mardi",
+    "Il était sous protection policière depuis plusieurs jours après de premières intimidations",
+    "Le parquet national anticriminalité organisée s'est saisi de l'enquête"
    ],
-   "qui": "Maud Bregeon",
+   "qui": "Christophe Rivenq, DZ Mafia",
+   "ou": "Alès (Gard)",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "fd5b39dc1f32e76f",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T14:17:42.002538+00:00"
+  },
+  {
+   "faits": [
+    "Des éleveurs sont contraints de garder leur cheptel à l'étable à cause de la sécheresse",
+    "Les canicules successives et le manque d'eau empêchent le pâturage",
+    "Cette situation est inédite si tôt dans l'été",
+    "Le surcoût pour les exploitants peut être considérable"
+   ],
+   "qui": null,
    "ou": "France",
    "categorie": "economie",
    "sensible": false,
@@ -2341,38 +2436,13 @@
    "sources": [
     "franceinfo"
    ],
-   "non_confirme": [
-    "Nature exacte de la 'situation incertaine'"
-   ],
-   "importance": 70,
-   "empreinte": "6938c1193e4fc20e",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T07:25:01.869702+00:00"
-  },
-  {
-   "faits": [
-    "Un policier a été grièvement blessé lors d'un refus d'obtempérer à Marseille",
-    "L'agent a été projeté sur une vingtaine de mètres",
-    "Son pronostic vital était un temps engagé, mais ses jours ne sont plus en danger",
-    "Quatre suspects ont été interpellés"
-   ],
-   "qui": "Policier, quatre suspects",
-   "ou": "Marseille, France",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
    "non_confirme": [],
    "importance": 65,
-   "empreinte": "497c207d3fc8eb08",
+   "empreinte": "3ba93a0ea4507518",
    "score": 83,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-21T07:24:50.247130+00:00"
+   "depuis": "2026-07-21T14:17:42.003566+00:00"
   },
   {
    "faits": [
@@ -2447,51 +2517,6 @@
   },
   {
    "faits": [
-    "Le Tour de France 2026 étape 16 est un contre-la-montre individuel entre Evian-les-Bains et Thonon-les-Bains",
-    "C'est le seul exercice chronométré de cette Grande Boucle",
-    "Remco Evenepoel, Pogacar, Seixas et Del Toro sont mentionnés comme protagonistes"
-   ],
-   "qui": "Remco Evenepoel, Pogacar, Seixas, Del Toro",
-   "ou": "Lac Léman (Evian-les-Bains à Thonon-les-Bains), France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "d0c8b63feb91753f",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T07:25:01.869704+00:00"
-  },
-  {
-   "faits": [
-    "Les syndicats d'EDF ont déposé un préavis de grève à partir du mardi 21 juillet",
-    "La grève est appelée pour défendre le 'tarif agent', un avantage préférentiel sur l'électricité et le gaz accordé à 300 000 agents et ex-agents d'EDF",
-    "Le gouvernement réfléchit à réduire cet avantage",
-    "La Cour des comptes a critiqué ce tarif comme coûteux et 'incompréhensible'"
-   ],
-   "qui": "Syndicats EDF, gouvernement, Cour des comptes",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "91f9e276b210bf33",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T07:25:01.869706+00:00"
-  },
-  {
-   "faits": [
     "La DZNG (DZ Mafia Nouvelle Génération) a pris le pas sur le canal historique de la DZ Mafia depuis début 2026",
     "La DZ Mafia est en proie à des luttes intestines",
     "Une fusillade a eu lieu à Carcassonne",
@@ -2516,55 +2541,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T11:59:13.136462+00:00"
-  },
-  {
-   "faits": [
-    "Un Marocain nommé Abderrahim Fakir est mort suite à une interpellation en Italie dimanche 20 juillet",
-    "Il a été brutalement interpellé par deux policiers à Bologne",
-    "Son décès a suscité émotion et polémique"
-   ],
-   "qui": "Abderrahim Fakir, deux policiers italiens",
-   "ou": "Bologne, Italie",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Circonstances exactes de la mort"
-   ],
-   "importance": 70,
-   "empreinte": "6c18adf4e25a7dcc",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T07:24:50.247488+00:00"
-  },
-  {
-   "faits": [
-    "L'Ukraine a mené une frappe spectaculaire sur la plus grande raffinerie de Russie à Omsk le 7 juillet dernier",
-    "La raffinerie est située à environ 2 500 kilomètres de la ligne de front",
-    "La frappe n'a pas d'impact marquant sur les approvisionnements ni la vie quotidienne à Omsk",
-    "Elle a laissé une profonde empreinte sur l'état d'esprit des habitants"
-   ],
-   "qui": "Ukraine, Russie",
-   "ou": "Omsk, Russie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "Impact économique à long terme exact"
-   ],
-   "importance": 70,
-   "empreinte": "2e6f4a20c06c2e62",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T07:24:50.247600+00:00"
   },
   {
    "faits": [
@@ -2613,6 +2589,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T11:59:13.137347+00:00"
+  },
+  {
+   "faits": [
+    "Un Canadair a été endommagé lors d'une intervention sur l'incendie de Fontainebleau",
+    "L'aéronef a dû être retiré du dispositif de lutte contre les incendies",
+    "Sa remise en service est prévue dans les prochains jours"
+   ],
+   "qui": null,
+   "ou": "Fontainebleau",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "199a5ba4faf50fd6",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T14:17:42.003575+00:00"
   }
  ],
  "publies_48h": [
