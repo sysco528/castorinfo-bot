@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/on-est-venu-vider-un-tonneau-trop-plein-quel-bilan-pour-le-reexamen-des-plaintes-pour-violences-sexuelles-sur-mineurs-lance-apres-l-affaire-lyhanna_8106551.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/cinema/sorties-de-films/l-odyssee-christopher-nolan-a-l-assaut-de-son-epopee-la-plus-ambitieuse-a-ce-jour_8102894.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/je-ne-veux-pas-passer-pour-une-pleureuse-mais-pourquoi-didier-deschamps-s-en-est-il-pris-a-l-arbitre-apres-la-demi-finale-de-coupe-du-monde-perdue-contre-l-espagne_8108378.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-jerome-barella-entendu-par-le-juge-d-instruction-en-vue-de-sa-mise-en-examen-pour-le-viol-et-le-meurtre-de-la-fillette_8107760.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/affaire-du-petit-gregory/affaire-gregory-les-faits-reproches-a-la-grand-tante-jacqueline-jacob-sont-prescrits-annonce-la-cour-d-appel-de-dijon_8108504.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/tour-de-france/le-belge-remco-evenepoel-ecrase-le-contre-la-montre-de-la-16e-etape-du-tour-de-france-et-reprend-28-secondes-au-maillot-jaune-tadej-pogacar-paul-seixas-quatrieme_8116673.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/cinema/festival-de-deauville/la-chanteuse-et-actrice-lio-presidera-le-jury-de-la-revelation-du-festival-de-deauville_8116838.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/renforcement-du-pouvoir-des-federations-sport-feminin-lutte-contre-le-piratage-ce-que-la-reforme-du-sport-professionnel-va-changer_8116541.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-levee-a-partir-de-mercredi_8116658.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-levee-a-partir-de-mercredi_8116658.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-justice_8116817.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/loi-d-urgence-agricole-monique-barbut-presentera-sa-demission-d-ici-le-conseil-des-ministres-de-mercredi_8116922.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -414,15 +414,6 @@
    "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/economie/187-milliards-d-euros-d-aides-aux-entreprises-le-chiffre-qui-va-agiter-le-debat-budgetaire-20260716",
-   "https://www.lefigaro.fr/politique/presidentielle-2027-bernard-cazeneuve-presente-sa-candidature-dans-une-lettre-aux-francais-20260716",
-   "https://www.lefigaro.fr/politique/les-canadair-il-s-en-fout-le-gouvernement-attal-a-t-il-vraiment-annule-une-commande-de-bombardiers-d-eau-20260716",
-   "https://www.lefigaro.fr/elections/presidentielles/il-faut-se-mefier-des-gens-qui-ne-veulent-pas-y-aller-l-hypothese-lecornu-recours-du-bloc-central-20260716",
-   "https://www.lefigaro.fr/politique/guillaume-tabard-presidentielle-2027-un-trop-plein-de-candidats-qui-trahit-la-faiblesse-de-l-offre-20260716",
-   "https://www.lefigaro.fr/faits-divers/un-collegien-condamne-a-18-ans-de-reclusion-pour-le-meurtre-d-une-surveillante-en-haute-marne-20260716",
-   "https://www.lefigaro.fr/meteo/26-departements-en-vigilance-orange-orages-des-fortes-pluies-et-des-rafales-jusqu-a-130-km-h-decouvrez-la-meteo-du-vendredi-17-juillet-20260716",
-   "https://www.lefigaro.fr/actualite-france/fin-de-vie-ce-que-contiennent-les-saisines-au-conseil-constitutionnel-20260716",
-   "https://www.lefigaro.fr/actualite-france/loi-fin-de-vie-au-conseil-constitutionnel-une-course-contre-la-montre-et-des-soupcons-de-parti-pris-20260716",
    "https://www.lefigaro.fr/actualite-france/fin-de-vie-les-membres-du-conseil-constitutionnel-qui-se-sont-prononces-en-faveur-de-l-euthanasie-et-du-suicide-assiste-doivent-ils-se-recuser-20260716",
    "https://www.lefigaro.fr/faits-divers/ensevelissement-rudimentaire-ossements-eparpilles-ce-que-revelent-les-fouilles-pour-retrouver-le-corps-de-delphine-jubillar-20260716",
    "https://www.lefigaro.fr/conjoncture/les-orages-perturbent-les-aeroports-parisiens-20-des-vols-supprimes-a-orly-ce-jeudi-soir-20260716",
@@ -713,11 +704,18 @@
    "https://www.lefigaro.fr/nice/incendies-dans-le-var-le-phenomene-des-sautes-de-feux-ce-mecanisme-qui-demultiplie-la-propagation-des-incendies-20260721",
    "https://www.lefigaro.fr/actualite-france/var-un-nouvel-incendie-ravage-350-hectares-six-personnes-legerement-intoxiquees-20260721",
    "https://www.lefigaro.fr/economie/successions-pacte-dutreil-contribution-sur-les-hauts-revenus-sur-la-taxation-des-plus-aises-le-retour-des-idees-folles-20260721",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-evenepoel-peut-il-priver-uae-du-double-a-paris-20260721"
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-evenepoel-peut-il-priver-uae-du-double-a-paris-20260721",
+   "https://www.lefigaro.fr/politique/sebastien-lecornu-pret-a-sacrifier-sa-ministre-de-l-ecologie-monique-barbut-pour-menager-la-droite-et-les-agriculteurs-20260721",
+   "https://www.lefigaro.fr/politique/nicolas-hulot-francois-de-rugy-monique-barbut-la-malediction-du-ministere-de-l-ecologie-20260721",
+   "https://www.lefigaro.fr/politique/le-monde-agricole-francais-soulage-par-une-loi-lui-permettant-de-preserver-sa-competitivite-en-europe-20260721",
+   "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-secheresse-canicule-loi-agricole-le-fiasco-de-l-ecologie-politique-20260721",
+   "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
+   "https://www.lefigaro.fr/medias/ai-overviews-les-editeurs-de-presse-francais-entament-un-nouveau-bras-de-fer-avec-google-20260721",
+   "https://www.lefigaro.fr/faits-divers/un-pere-de-famille-tire-sur-les-gendarmes-avant-de-se-suicider-en-presence-de-ses-enfants-20260721",
+   "https://www.lefigaro.fr/politique/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-emmanuel-macron-salue-une-avancee-majeure-20260721",
+   "https://www.lefigaro.fr/secteur/high-tech/le-parlement-valide-definitivement-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-une-premiere-en-europe-20260721"
   ],
   "https://www.france24.com/fr/rss": [
-   "7c2ffbb6-7e94-11f1-8513-07a2a4790903",
-   "6e336de6-800a-11f1-bb19-278fcfc78d70",
    "7ba5d990-7fed-11f1-94a3-55cf1765a034",
    "aac5eef4-7f70-11f1-ba5f-991c98d7b4ee",
    "7463027c-8004-11f1-957c-550601679fe3",
@@ -1015,7 +1013,9 @@
    "e0c46796-84ee-11f1-a434-ab341b3d5f8e",
    "473e6bc4-8509-11f1-aec6-5f6c7c3346f2",
    "cad4f05e-8525-11f1-aadb-db94f1aaebe8",
-   "9b96df96-851b-11f1-9323-db048765a822"
+   "9b96df96-851b-11f1-9323-db048765a822",
+   "116c02fa-8526-11f1-8e0d-db94f1aaebe8",
+   "6146bc6a-8527-11f1-b691-6714d4628d44"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1233,13 +1233,12 @@
    "70ee6f46-8522-11f1-8a90-3366361549e6",
    "c7ac5e20-850d-11f1-a746-499fbb90ad68",
    "780fddd8-8517-11f1-ad31-cda5df82dfdf",
-   "51f9beda-84e9-11f1-ace9-454b9094f369"
+   "51f9beda-84e9-11f1-ace9-454b9094f369",
+   "98cc9d28-852f-11f1-a7ff-ed9f4b62827e",
+   "104286dc-852c-11f1-805c-2120e4bb1cd4",
+   "c0e98768-852e-11f1-9a5a-ed9f4b62827e"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/tourisme/cet-ete-entrez-en-immersion-dans-la-culture-equestre-au-haras-de-la-vendee-7fc7091e-52d3-11f1-bdc7-d41f8cb55a03?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-date-horaire-et-diffusion-de-la-petite-finale-de-la-coupe-du-monde-2026-0e94e6bc-7f92-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/liban/guerre-au-moyen-orient-trois-questions-sur-les-zones-pilotes-au-cur-des-negociations-entre-israel-et-le-liban-408cdde6-7f60-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-pas-de-differend-entre-tuchel-et-bellingham-selon-kane-b1d161ce-7fa2-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/france-espagne-a-3-ans-seulement-le-petit-frere-de-yamal-est-devenu-lui-aussi-un-phenomene-de-la-coupe-du-monde-39923ffe-7f97-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/immobilier/dune-friche-xxl-a-un-quartier-residentiel-neuf-la-metamorphose-de-lancien-foyer-departemental-de-lenfance-a-angers-17cafdc0-7de9-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/transferts/mercato-psg-vainqueur-de-la-gambardella-un-solide-espoir-du-club-signe-professionnel-chez-le-voisin-du-paris-fc-e6fe5bd8-7f9b-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1535,7 +1534,11 @@
    "https://www.ouest-france.fr/leditiondusoir/2026-07-21/je-paye-15-euro-par-mois-du-jardin-a-la-douche-cet-ingenieur-livre-ses-secrets-pour-economiser-l-eau-et-son-argent-99d0715d-449e-4ffb-872e-81f6c30b08ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/agriculture/la-loi-durgence-agricole-definitivement-adoptee-par-le-parlement-malgre-les-debats-sur-la-reintroduction-de-pesticides-bfae1ff6-8503-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-seixas-evenepoel-pourquoi-autant-de-controles-antidopage-apres-ceux-de-pogacar-et-vingegaard-7955cace-8501-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/olympique-lyonnais/textor-reclame-350-millions-deuros-de-dommages-et-interets-a-kang-apres-la-vente-de-lol-devant-la-justice-americaine-a4e7e848-8524-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/football/olympique-lyonnais/textor-reclame-350-millions-deuros-de-dommages-et-interets-a-kang-apres-la-vente-de-lol-devant-la-justice-americaine-a4e7e848-8524-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/economie/agriculture/la-loi-durgence-agricole-est-passee-malgre-le-tumulte-62f5c800-84e9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-21/pour-y-entrer-il-faut-eviter-les-vagues-scelerates-comment-la-visite-de-cette-grotte-paradisiaque-a-vire-au-cauchemar-df5d6b97-17ed-4d3a-8511-45367011920b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/equipe-portugal/le-nouveau-selectionneur-du-portugal-jorge-jesus-ne-prevoit-pas-de-gros-changements-apres-un-mondial-decevant-b295b036-8530-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/moto/fabio-quartararo/motogp-un-bol-dair-grosse-puissance-de-frappe-fabio-quartararo-fait-il-le-bon-choix-en-rejoignant-honda-5e612944-851e-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1904,6 +1907,60 @@
  "evenements_attente": [
   {
    "faits": [
+    "Le Parlement français a définitivement adopté le 21 juillet une proposition de loi interdisant les réseaux sociaux aux moins de 15 ans",
+    "C'est une première en Europe",
+    "La mesure doit entrer en vigueur dès septembre pour les nouveaux comptes",
+    "Emmanuel Macron a salué cette mesure comme 'une avancée majeure' pour la protection des enfants et adolescents"
+   ],
+   "qui": "Parlement français, Emmanuel Macron",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 98,
+   "sources": [
+    "Le Figaro",
+    "RFI",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "2e1a7bdf8d21f9af",
+   "score": 100,
+   "fiab_max": 85,
+   "nb_sources": 3,
+   "depuis": "2026-07-21T18:58:37.663923+00:00"
+  },
+  {
+   "faits": [
+    "Le Parlement français a définitivement adopté le 21 juillet le projet de loi d'urgence agricole",
+    "La loi permet la réintroduction, à titre dérogatoire, de deux pesticides néonicotinoïdes : l'acétamipride et le flupyradifurone",
+    "Ces pesticides étaient autorisés dans l'Union européenne mais interdits en France",
+    "Le Sénat a adopté le texte par 214 voix contre 111",
+    "La ministre de la Transition écologique Monique Barbut présentera sa démission d'ici le Conseil des ministres de mercredi",
+    "La démission de Barbut est liée au désaccord sur le volet pesticides de la loi",
+    "Le monde agricole accueille favorablement cette loi ; la FNSEA et la Coordination rurale soulignent des avancées 'notoires'"
+   ],
+   "qui": "Parlement français, Sébastien Lecornu (Premier ministre), Monique Barbut (ministre de la Transition écologique)",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 96,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "RFI",
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 82,
+   "empreinte": "bff42738f9ba719b",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 4,
+   "depuis": "2026-07-21T18:58:37.663925+00:00"
+  },
+  {
+   "faits": [
     "Remco Evenepoel a remporté le contre-la-montre de la 16e étape du Tour de France entre Evian-les-Bains et Thonon-les-Bains",
     "Evenepoel a repris 28 secondes à Tadej Pogacar",
     "Pogacar a terminé deuxième",
@@ -2049,6 +2106,28 @@
   },
   {
    "faits": [
+    "Cédric Jubillar, peintre-plaquiste de 38 ans, a avoué à une magistrate de la cour d'appel de Toulouse le 15 juillet avoir étranglé son épouse Delphine Aussaguel",
+    "Ces aveux interviennent après cinq ans et demi de mensonges et de dénégations",
+    "Il a déclaré : 'Je voulais qu'elle se taise, je l'ai attrapée par le cou et j'ai serré'"
+   ],
+   "qui": "Cédric Jubillar",
+   "ou": "Toulouse",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "d36f14aef6973596",
+   "score": 91,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T18:58:37.663934+00:00"
+  },
+  {
+   "faits": [
     "Deux pompiers sont morts en combattant un incendie à l'aéroport de Bordeaux-Mérignac",
     "L'incendie s'est déclaré en début d'après-midi, mardi 21 juillet",
     "Le feu était visible depuis le centre de Bordeaux"
@@ -2090,31 +2169,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T15:57:32.148848+00:00"
-  },
-  {
-   "faits": [
-    "Une proposition de loi doit être votée le 21 juillet 2026 interdisant les réseaux sociaux aux moins de 15 ans",
-    "La proposition de loi interdit aussi les téléphones au lycée",
-    "La proposition est portée par la députée Renaissance Laure Miller",
-    "C'est un projet phare de la fin de mandat d'Emmanuel Macron",
-    "Les parlementaires socialistes et insoumis s'opposent au texte",
-    "Les opposants dénoncent le flou sur les mécanismes de vérification d'âge"
-   ],
-   "qui": "Laure Miller (députée Renaissance), parlementaires socialistes et insoumis",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "ace3ec76469036bc",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T11:59:13.137313+00:00"
   },
   {
    "faits": [
@@ -2211,71 +2265,6 @@
   },
   {
    "faits": [
-    "La Haute Autorité de santé recommande de rendre obligatoire la vaccination contre la grippe pour les professionnels de santé",
-    "Le gouvernement annonce engager les travaux pour mettre en œuvre l'obligation vaccinale des professionnels au contact des personnes vulnérables"
-   ],
-   "qui": "Haute Autorité de santé, gouvernement français",
-   "ou": "France",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "ed940fdafae3de00",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T11:59:13.137325+00:00"
-  },
-  {
-   "faits": [
-    "Contre-la-montre individuel du Tour de France 2026 entre Evian-les-Bains et Thonon-les-Bains",
-    "C'est le seul exercice chronométré en individuel du Tour de France cette année",
-    "Un col de deuxième catégorie figure au parcours"
-   ],
-   "qui": "Evenepoel, Pogacar, Seixas (coureurs)",
-   "ou": "Evian-les-Bains, Thonon-les-Bains, France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "2f1d4bd9ce8065aa",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T11:59:13.137326+00:00"
-  },
-  {
-   "faits": [
-    "L'Espagne a remporté la Coupe du monde 2026 en battant l'Argentine 1-0",
-    "Deux millions de personnes sont venues accueillir les champions du monde à Madrid le 20 juillet 2026",
-    "Une liesse populaire a envahi les rues de Madrid"
-   ],
-   "qui": "Espagne, Argentine",
-   "ou": "Madrid, Espagne",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 73,
-   "empreinte": "b177ffa410dbd2a1",
-   "score": 86,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T11:59:13.137328+00:00"
-  },
-  {
-   "faits": [
     "Trois naufrages en série se sont produits au large de la Mauritanie entre le 14 et le 18 juillet",
     "144 personnes sont mortes ou disparues",
     "387 personnes ont pu être sauvées selon le Haut-Commissariat aux Nations unies pour les réfugiés",
@@ -2296,6 +2285,27 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T14:17:42.002617+00:00"
+  },
+  {
+   "faits": [
+    "Douze Palestiniens ont été tués par des bombardements israéliens à Gaza-ville le 21 juillet",
+    "Parmi les victimes figurent six membres d'une même famille, dont des enfants"
+   ],
+   "qui": "Israël",
+   "ou": "Gaza",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "8882f2ae6b5755fe",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T18:58:37.663287+00:00"
   },
   {
    "faits": [
@@ -2342,30 +2352,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T15:57:32.149046+00:00"
-  },
-  {
-   "faits": [
-    "Deux diplomates français ont été détenus en Iran sans motif",
-    "L'un des diplomates français a fait l'objet de violences physiques",
-    "Jean-Noël Barrot, ministre des Affaires étrangères français, a qualifié cette atteinte de gravissime et inadmissible"
-   ],
-   "qui": "France, Iran, Jean-Noël Barrot",
-   "ou": "Iran, France",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 86,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "motifs réels de la détention selon l'Iran"
-   ],
-   "importance": 79,
-   "empreinte": "cd494a73890ef54d",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T11:59:13.136509+00:00"
   },
   {
    "faits": [
@@ -2509,6 +2495,28 @@
   },
   {
    "faits": [
+    "Un père de famille a tiré sur des gendarmes en Loire avant de se suicider en présence de ses enfants",
+    "Les gendarmes se sont abrités et n'ont pas été blessés",
+    "Un gendarme a ouvert le feu à une reprise en direction du tireur sans l'atteindre"
+   ],
+   "qui": "Père de famille (non nommé)",
+   "ou": "Loire",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "a0d10b22967f6fb5",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T18:58:37.663240+00:00"
+  },
+  {
+   "faits": [
     "Le chef de l'opposition indienne Rahul Gandhi a appelé à la démission du Premier ministre Narendra Modi",
     "L'appel intervient suite à la répression musclée d'une manifestation d'étudiants",
     "Les étudiants demandaient des réformes du système universitaire et le renvoi du ministre de l'Éducation"
@@ -2528,6 +2536,50 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T17:40:38.650616+00:00"
+  },
+  {
+   "faits": [
+    "Lors de l'assemblée générale des copropriétaires de la Tour Montparnasse du 21 juillet, le gestionnaire d'actifs LFPI (qui détient 30% de la Tour) a demandé l'abandon du méga projet de rénovation",
+    "LFPI souhaite revenir à une rénovation moins ambitieuse et moins coûteuse",
+    "Cette demande a été acceptée par les copropriétaires"
+   ],
+   "qui": "LFPI, copropriétaires de la Tour Montparnasse",
+   "ou": "Paris",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "90bd65527a1b809d",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T18:58:37.663944+00:00"
+  },
+  {
+   "faits": [
+    "Le président américain Donald Trump a rencontré son homologue libanais Joseph Aoun à la Maison blanche le 21 juillet",
+    "Trump a déclaré vouloir 'aider' le Liban",
+    "Trump a déploré que le Liban ait été 'très maltraité' pendant longtemps"
+   ],
+   "qui": "Donald Trump, Joseph Aoun",
+   "ou": "États-Unis, Liban",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "fdc868d4aadd4117",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-21T18:58:37.663945+00:00"
   },
   {
    "faits": [
@@ -2551,50 +2603,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T17:40:38.651572+00:00"
-  },
-  {
-   "faits": [
-    "Les incendies en Amazonie brésilienne ont atteint leur niveau le plus bas en 2025 depuis le début des relevés en 1985",
-    "Selon le réseau MapBiomas, les feux ont fortement reculé",
-    "2024 avait connu une saison d'incendies exceptionnelle favorisée par une sécheresse historique"
-   ],
-   "qui": "MapBiomas",
-   "ou": "Amazonie brésilienne, Brésil",
-   "categorie": "sciences",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "01334ae5f4874b23",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T17:40:38.651573+00:00"
-  },
-  {
-   "faits": [
-    "John Textor, ancien propriétaire de l'Olympique lyonnais, a déposé une plainte en Floride",
-    "Textor réclame 400 millions de dollars (environ 350 millions d'euros) à Michele Kang",
-    "Kang a racheté l'OL en juin 2026"
-   ],
-   "qui": "John Textor, Michele Kang",
-   "ou": "Floride, Olympique lyonnais",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "7aa32cc087cacee8",
-   "score": 80,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T17:40:38.651575+00:00"
   }
  ],
  "publies_48h": [
