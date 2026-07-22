@@ -2,13 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/fin-de-vie-la-france-cree-un-droit-sur-l-aide-a-mourir_8109323.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/euthanasie/decouvrez-si-votre-depute-a-vote-pour-ou-contre-la-loi-sur-l-aide-a-mourir_8108873.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/euthanasie/il-etait-temps-il-est-urgent-que-le-texte-soit-applique-reagit-l-ancienne-ministre-agnes-firmin-le-bodo-apres-l-adoption-la-loi-sur-l-aide-a-mourir_8109314.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/euthanasie/loi-sur-la-fin-de-vie-sebastien-lecornu-a-decide-de-saisir-le-conseil-constitutionnel-en-concertation-avec-emmanuel-macron-selon-l-entourage-du-president_8108522.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/a-politique-inchangee-le-deficit-public-atteindrait-6-8-du-pib-en-2030-et-la-dette-130-selon-des-economistes-missionnes-par-bercy_8109281.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/euthanasie/c-est-un-grand-jour-pour-les-francaises-et-les-francais-se-felicite-l-auteur-de-la-loi-sur-l-aide-a-mourir-olivier-falorni_8109338.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/euthanasie/ce-droit-a-l-aide-a-mourir-met-en-peril-des-gens-fragiles-regrette-le-president-d-honneur-du-comite-consultatif-national-d-ethique_8109347.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/emmanuel-macron-se-rendra-jeudi-matin-a-fontainebleau-gravement-touche-par-deux-incendies_8109356.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/l-argentine-defendra-son-titre-face-a-l-espagne-en-finale-de-la-coupe-du-monde-apres-une-nouvelle-victoire-renversante-face-a-l-angleterre_8109428.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/alimentation/le-cout-d-une-alimentation-saine-a-augmente-de-25-en-cinq-ans-selon-l-onu_8109410.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +294,14 @@
    "https://www.franceinfo.fr/faits-divers/accident/le-conducteur-suspecte-d-avoir-percute-mortellement-une-femme-a-heugleville-sur-scie-en-seine-maritime-reconnait-les-faits_8117537.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/budget/nous-ne-pouvons-pas-suspendre-toutes-les-decisions-jusqu-en-2027-sebastien-lecornu-ne-souhaite-pas-attendre-la-presidentielle-pour-trancher-des-arbitrages-budgetaires_8117492.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-projections-de-quelques-metres-a-plusieurs-kilometres-on-vous-explique-ce-que-sont-les-sautes-de-feu-qui-amplifient-la-propagation-des-incendies_8117441.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/cinema/plas-johnson-le-saxophoniste-de-la-panthere-rose-est-mort-a-94-ans_8117804.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/culture/cinema/plas-johnson-le-saxophoniste-de-la-panthere-rose-est-mort-a-94-ans_8117804.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pendant-la-canicule-du-mois-de-juin-5-764-deces-en-exces-ont-ete-recenses-selon-sante-publique-france_8117681.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-des-gens-ont-ete-denonces-parce-qu-ils-arrosaient-dans-les-pyrenees-orientales-des-arretes-secheresse-suscitent-suspicion-et-incomprehension_8117336.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-remet-en-place-le-plafonnement-sur-l-essence-a-1-99-euro-le-litre-dans-toutes-ses-stations-service-de-france-hexagonale_8117963.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sante/drogue-addictions/cela-concerne-tous-les-milieux-plusieurs-collaborateurs-dans-les-ministeres-ecartes-apres-des-tests-de-depistage-de-drogue-positifs-annonce-sebastien-lecornu_8117894.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/france/ile-de-france/essonne/creche-illegale-a-yerres-12-enfants-retrouves-entasses-dans-une-voiture_8117888.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/une-information-judiciaire-pour-meurtre-ouverte-apres-une-rixe-a-l-arme-blanche-a-mantes-la-jolie_8117975.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/arts-expos/louvre/la-galerie-d-apollon-rouvre-sans-ses-joyaux-neuf-mois-apres-le-cambriolage-du-louvre_8117939.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -426,17 +426,6 @@
    "https://www.lemonde.fr/sport/article/2026/07/22/tour-de-france-2026-la-course-contre-le-temps-de-l-equipe-totalenergies-en-quete-d-un-repreneur_6730001_3242.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/marseille/maire-d-ales-menace-de-mort-par-la-dz-mafia-une-compagnie-de-crs-deployee-pour-securiser-la-ville-20260717",
-   "https://www.lefigaro.fr/faits-divers/gard-le-maire-d-ales-recoit-deux-balles-de-calibre-9-mm-signees-dz-mafia-20260716",
-   "https://www.lefigaro.fr/faits-divers/corse-deux-mineures-mises-en-examen-apres-la-mort-d-un-homme-dans-le-centre-d-ajaccio-20260717",
-   "https://www.lefigaro.fr/meteo/meteo-ces-zones-ou-la-chaleur-va-perdurer-20260717",
-   "https://www.lefigaro.fr/conjoncture/impots-quand-allez-vous-recevoir-un-remboursement-du-fisc-cet-ete-20260717",
-   "https://www.lefigaro.fr/cinema/l-odyssee-signe-le-3e-meilleur-demarrage-de-l-annee-au-box-office-20260717",
-   "https://www.lefigaro.fr/international/andy-burnham-le-futur-premier-ministre-britannique-ou-la-revanche-du-roi-du-nord-20260717",
-   "https://www.lefigaro.fr/politique/une-sanction-rarissime-le-senat-exclut-temporairement-une-senatrice-qui-laissait-son-compagnon-diriger-ses-collaborateurs-20260717",
-   "https://www.lefigaro.fr/nice/nice-un-nouveau-suspect-arrete-dans-l-affaire-de-l-incendie-criminel-qui-a-coute-la-vie-a-sept-membres-d-une-meme-famille-20260717",
-   "https://www.lefigaro.fr/faits-divers/eure-un-homme-atteint-de-troubles-psychiatriques-tue-son-ex-compagne-quatre-ans-apres-une-premiere-tentative-et-se-suicide-20260717",
-   "https://www.lefigaro.fr/politique/periscolaire-emmanuel-gregoire-va-porter-plainte-contre-rachida-dati-pour-diffamation-au-nom-de-la-ville-de-paris-20260717",
    "https://www.lefigaro.fr/flash-eco/remunerations-elevees-avantages-sans-equivalent-primes-la-cour-des-comptes-torpille-la-gestion-rh-d-edf-20260717",
    "https://www.lefigaro.fr/international/l-allemagne-va-participer-d-ici-2027-a-un-exercice-francais-de-dissuasion-nucleaire-annonce-friedrich-merz-20260717",
    "https://www.lefigaro.fr/sports/rugby/xv-de-france/japon-france-il-se-passe-clairement-des-choses-les-bleus-doivent-recolter-les-derniers-fruits-de-leur-bel-ete-20260717",
@@ -725,11 +714,20 @@
    "https://www.lefigaro.fr/flash-actu/hauts-de-seine-daniel-siad-le-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-a-son-domicile-20260722",
    "https://www.lefigaro.fr/actualite-france/recruteur-de-filles-ne-en-algerie-plainte-pour-viol-qui-est-daniel-siad-rabatteur-presume-de-jeffrey-epstein-20260210",
    "https://madame.lefigaro.fr/societe/a-ton-avis-qu-est-ce-qu-elles-ont-fait-pour-gagner-autant-d-argent-le-temoignage-glacant-d-une-victime-du-rabatteur-d-epstein-20260212",
-   "https://www.lefigaro.fr/international/incendie-en-espagne-32-000-hectares-brules-a-100-km-au-nord-de-madrid-espoir-de-stabiliser-l-incendie-d-ici-jeudi-20260722"
+   "https://www.lefigaro.fr/international/incendie-en-espagne-32-000-hectares-brules-a-100-km-au-nord-de-madrid-espoir-de-stabiliser-l-incendie-d-ici-jeudi-20260722",
+   "https://www.lefigaro.fr/flash-actu/jusqu-a-42-0c-attendus-vendredi-decouvrez-en-carte-la-meteo-a-venir-20260722",
+   "https://sante.lefigaro.fr/social/sante-publique/canicules-a-repetition-pourquoi-nos-organismes-sont-ils-aussi-durablement-eprouves-20260722",
+   "https://www.lefigaro.fr/meteo/vague-de-chaleur-en-france-se-dirige-t-on-vers-nouvelle-canicule-debut-aout-20260722",
+   "https://sante.lefigaro.fr/canicule-5-764-morts-en-exces-pendant-l-episode-de-juin-en-france-20260722",
+   "https://www.lefigaro.fr/secteur/high-tech/chatgpt-est-il-hors-de-controle-comment-la-celebre-ia-a-echappe-a-open-ai-et-infiltre-hugging-face-la-licorne-fondee-en-france-20260722",
+   "https://www.lefigaro.fr/secteur/high-tech/un-piratage-sans-precedent-openai-affirme-que-ses-modeles-ia-ont-mene-une-cyberattaque-de-leur-propre-initiative-20260722",
+   "https://www.lefigaro.fr/secteur/high-tech/il-comprend-sans-avoir-besoin-d-etre-guide-le-figaro-a-teste-fable-5-la-surpuissante-ia-d-anthropic-bridee-pour-des-raisons-de-securite-20260722",
+   "https://www.lefigaro.fr/actualite-france/chatgpt-m-a-gache-mon-voyage-confier-l-organisation-de-ses-vacances-a-une-ia-un-pari-risque-aux-consequences-aleatoires-20260722",
+   "https://www.lefigaro.fr/secteur/high-tech/craignez-vous-que-les-entreprises-technologiques-perdent-le-controle-de-leurs-ia-20260722",
+   "https://www.lefigaro.fr/societes/totalenergies-etend-le-plafonnement-des-prix-des-carburants-dans-ses-stations-service-20260722",
+   "https://www.lefigaro.fr/voyages/l-europe-recommande-aux-compagnies-aeriennes-d-eviter-le-ciel-jordanien-20260722"
   ],
   "https://www.france24.com/fr/rss": [
-   "39fbc508-805c-11f1-b479-3709ff52f040",
-   "1e1e67be-805c-11f1-89ba-3709ff52f040",
    "c628dd46-805b-11f1-94d2-fb29338f2609",
    "fcc5a0d0-7fc2-11f1-81fe-7b7a37c6636a",
    "79c0daf6-8049-11f1-ae25-f5b32174e252",
@@ -1027,7 +1025,9 @@
    "741ba676-85ad-11f1-8df8-339938c7a831",
    "aa8a4274-85aa-11f1-9e21-c1013e91da27",
    "39a4e35a-85ac-11f1-a5c4-d13250b1822a",
-   "16989548-85aa-11f1-98ba-c1013e91da27"
+   "16989548-85aa-11f1-98ba-c1013e91da27",
+   "46cef74c-85ce-11f1-a90c-4bee964a3edb",
+   "724d95f0-85d2-11f1-bfd3-4bee964a3edb"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1966,6 +1966,55 @@
  "evenements_attente": [
   {
    "faits": [
+    "5 764 décès en excès ont été recensés pendant la canicule de juin 2026 en France",
+    "Cette surmortalité concerne toutes les classes d'âge à partir de 15 ans, avec une augmentation marquée dès 45 ans",
+    "98,5% de la population hexagonale a été affectée par les chaleurs extrêmes du 17 juin au 2 juillet",
+    "C'est la surmortalité la plus importante depuis 2003"
+   ],
+   "qui": "Santé publique France",
+   "ou": "France",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "L'imputation avec certitude de ces décès à la chaleur ne peut pas encore être établie"
+   ],
+   "importance": 92,
+   "empreinte": "71d4f6da2a6723b0",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-22T14:18:47.723286+00:00"
+  },
+  {
+   "faits": [
+    "TotalEnergies remet en place le plafonnement du prix de l'essence à 1,99 euro le litre dans toutes ses stations-service de France hexagonale",
+    "Cette opération commerciale est relancée alors que le conflit au Moyen-Orient reprend entre l'Iran et les États-Unis",
+    "Le dispositif était limité depuis trois semaines à 1200 stations rurales avant cette extension"
+   ],
+   "qui": "TotalEnergies",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "a99f2ea787295f77",
+   "score": 97,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-22T14:18:47.723289+00:00"
+  },
+  {
+   "faits": [
     "Monique Barbut, ministre de la Transition écologique, a annoncé sa démission",
     "Elle s'opposait à une mesure controversée sur les pesticides adoptée définitivement par le Parlement",
     "Sa démission intervient après le vote de cette loi agricole"
@@ -2039,6 +2088,29 @@
   },
   {
    "faits": [
+    "Douze enfants, dont des nourrissons, ont été découverts entassés dans une voiture au sous-sol d'une maison à Yerres, dans l'Essonne",
+    "La maison était improvisée en crèche illégale",
+    "Deux assistantes maternelles ont été placées sous contrôle judiciaire",
+    "Elles seront jugées en septembre"
+   ],
+   "qui": "Deux assistantes maternelles (non nommées)",
+   "ou": "Yerres, Essonne",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 84,
+   "empreinte": "aa299f85738860cc",
+   "score": 90,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T14:18:47.723296+00:00"
+  },
+  {
+   "faits": [
     "Volodymyr Zelensky annonce un remaniement à la tête de l'armée ukrainienne",
     "Ce remaniement intervient après plusieurs jours de manifestations",
     "Les manifestants réclamaient le départ d'Oleksandr Syrsky, commandant en chef de l'armée",
@@ -2061,6 +2133,28 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-22T10:04:45.904947+00:00"
+  },
+  {
+   "faits": [
+    "La galerie d'Apollon du Louvre rouvre neuf mois après le cambriolage",
+    "Elle rouvre sans ses joyaux",
+    "Le directeur du Louvre souligne que la galerie fonctionne dans son usage du XVIIe siècle"
+   ],
+   "qui": "Musée du Louvre, Christophe Leribault (directeur)",
+   "ou": "Paris, Louvre",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "638d639d9ce991cf",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T14:18:47.723299+00:00"
   },
   {
    "faits": [
@@ -2155,6 +2249,49 @@
   },
   {
    "faits": [
+    "Températures jusqu'à 42°C attendues vendredi en France",
+    "Si le risque de canicule est écarté jusqu'à la fin du mois de juillet, certains modèles météo anticipent un potentiel retour de la canicule début août"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "Potentiel retour de la canicule début août selon certains modèles météo"
+   ],
+   "importance": 86,
+   "empreinte": "fbf188010e048c67",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T14:18:47.722442+00:00"
+  },
+  {
+   "faits": [
+    "Après l'interception de missiles et de drones iraniens par la Jordanie, l'Agence européenne de la sécurité aérienne recommande aux compagnies aériennes de ne pas emprunter l'espace aérien jordanien jusqu'au 31 août"
+   ],
+   "qui": "Agence européenne de la sécurité aérienne",
+   "ou": "Jordanie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 78,
+   "empreinte": "e7e928539167d839",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T14:18:47.722485+00:00"
+  },
+  {
+   "faits": [
     "Israël s'est retiré de la localité de Zaoutar El-Gharbiyé au Liban sud",
     "L'armée libanaise s'est déployée dans cette zone",
     "Ces opérations coïncident avec une rencontre à la Maison Blanche entre Donald Trump et Joseph Aoun",
@@ -2221,6 +2358,51 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-22T10:04:45.904960+00:00"
+  },
+  {
+   "faits": [
+    "Une information judiciaire pour meurtre a été ouverte après une rixe à l'arme blanche à Mantes-la-Jolie",
+    "Cinq personnes ont été interpellées dans les Yvelines",
+    "Quatre ont été mises en examen"
+   ],
+   "qui": null,
+   "ou": "Mantes-la-Jolie, Yvelines",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "16b51ee7f811f3cd",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T14:18:47.723315+00:00"
+  },
+  {
+   "faits": [
+    "La Basse-Saxe en Allemagne autorise un projet nucléaire impliquant la Russie et la France",
+    "La société étatique russe Rosatom participe à ce projet de production de combustible nucléaire",
+    "Le projet doit avoir lieu dans une usine à Lingen, en Basse-Saxe, près de la frontière avec les Pays-Bas",
+    "Cette autorisation existe faute de sanctions européennes sur le nucléaire russe"
+   ],
+   "qui": "Rosatom (société étatique russe), gouvernement allemand (Basse-Saxe), France",
+   "ou": "Lingen, Basse-Saxe, Allemagne",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 86,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 76,
+   "empreinte": "6ce868e7a3406654",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T14:18:47.723316+00:00"
   },
   {
    "faits": [
@@ -2406,31 +2588,6 @@
   },
   {
    "faits": [
-    "La galerie d'Apollon du Louvre rouvre au public mercredi 22 juillet",
-    "Elle avait fermé après un vol en octobre 2025",
-    "Huit joyaux de la Couronne de France avaient été dérobés en plein jour par un commando",
-    "Le vol avait utilisé un camion-nacelle",
-    "Les huit joyaux demeurent introuvables",
-    "La galerie rouvre sans vitrines ni bijoux exposés"
-   ],
-   "qui": "Musée du Louvre",
-   "ou": "Louvre, Paris",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "8f96c1422df580f5",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T07:27:08.919312+00:00"
-  },
-  {
-   "faits": [
     "Un incendie en Espagne a brûlé 32.000 hectares dans la province de Guadalajara",
     "Le feu s'est propagé à 100 km au nord de Madrid",
     "Il est considéré comme le plus important incendie de l'année en Espagne",
@@ -2478,197 +2635,24 @@
   },
   {
    "faits": [
-    "Le maire d'Alès Christophe Rivenq (LR) a été exfiltré de son domicile par le Raid",
-    "Cet exfiltrement s'est déroulé dans la nuit de lundi à mardi",
-    "Des balles de 9mm ont été retrouvées dans la boîte aux lettres de son domicile",
-    "Les services de renseignement ont détecté un 'projet d'action violente' probable le visant",
-    "Le ministre de l'Intérieur Laurent Nuñez évoque un 'acte d'intimidation'",
-    "Ces menaces proviendraient de la DZ Mafia"
-   ],
-   "qui": "Christophe Rivenq (maire d'Alès), DZ Mafia",
-   "ou": "Alès (Gard)",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "Identité précise des auteurs des menaces"
-   ],
-   "importance": 64,
-   "empreinte": "4c046bd18bcd27c1",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T07:26:57.331000+00:00"
-  },
-  {
-   "faits": [
-    "Le président ukrainien Volodymyr Zelensky a limogé le général Oleksandre Syrsky",
-    "Syrsky n'est plus à la tête des forces armées ukrainiennes",
-    "Des manifestants réclamaient son départ depuis plusieurs jours",
-    "Syrsky était considéré comme un général trop vieux jeu et insensible aux pertes humaines sur le front",
-    "Ces manifestations font suite au limogeage de Mykhaïlo Fedorov de son poste de ministre de la défense il y a 6 jours"
-   ],
-   "qui": "Volodymyr Zelensky, Oleksandre Syrsky, Mykhaïlo Fedorov",
-   "ou": "Ukraine",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "a19e8c1dbf6737ce",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T12:01:18.638456+00:00"
-  },
-  {
-   "faits": [
-    "L'International Testing Agency assure que tous les coureurs du Tour de France ont été contrôlés",
-    "Ces contrôles antidopage ont été menés par cet organisme indépendant"
-   ],
-   "qui": "International Testing Agency",
-   "ou": "France (Tour de France)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 52,
-   "empreinte": "a4b574457f385206",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T07:27:08.919315+00:00"
-  },
-  {
-   "faits": [
-    "L'effondrement d'un immeuble à Conakry a fait au moins 8 morts",
-    "L'effondrement a également causé plusieurs blessés",
-    "Le drame s'est produit lors de fortes pluies des derniers jours provoquant d'importants dégâts dans la capitale"
-   ],
-   "qui": null,
-   "ou": "Conakry, Guinée",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "1fda571cead193a6",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T12:01:18.637309+00:00"
-  },
-  {
-   "faits": [
-    "Le président Trump a réitéré sa menace de bombarder un site nucléaire iranien présumé",
-    "Le site est connu sous le nom de 'Pickaxe Mountain'",
-    "Trump a déclaré que les États-Unis frapperaient cette zone 'très bientôt et très durement'",
-    "Le site est soupçonné d'abriter une usine de fabrication de centrifugeuses",
-    "Le site est enfoui si profondément que les bombes anti-bunkers les plus puissantes des États-Unis pourraient s'avérer inefficaces"
-   ],
-   "qui": "Donald Trump",
-   "ou": "Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "L'existence réelle du complexe nucléaire souterrain 'Pickaxe Mountain'",
-    "Les intentions précises de Trump concernant une intervention"
-   ],
-   "importance": 75,
-   "empreinte": "0c472082f0b91110",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T12:01:18.637525+00:00"
-  },
-  {
-   "faits": [
-    "Un conducteur suspecté d'avoir percuté mortellement une femme en Seine-Maritime a reconnu les faits",
-    "Le conducteur était au volant d'un utilitaire",
-    "La victime était une sexagénaire",
-    "L'accident s'est produit dimanche à Heugleville-sur-Scie",
-    "Le conducteur reconnaît avoir perçu un choc mais ne pas avoir compris qu'il avait heurté une personne",
-    "Le conducteur a été placé sous contrôle judiciaire"
-   ],
-   "qui": "Conducteur quadragénaire (non nommé)",
-   "ou": "Heugleville-sur-Scie, Seine-Maritime",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "b86695b99e6953b7",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T10:04:45.904972+00:00"
-  },
-  {
-   "faits": [
-    "Le Parlement a adopté la loi d'urgence agricole",
-    "La loi prévoit notamment le doublement des volumes de stockage d'eau à des fins agricoles d'ici 2035",
-    "La loi sécurise l'eau pour la production agricole au détriment d'autres usagers"
-   ],
-   "qui": "Parlement français",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Impact exact sur les autres usagers de l'eau"
-   ],
-   "importance": 58,
-   "empreinte": "168b26d4fdc50c0b",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T07:27:08.919318+00:00"
-  },
-  {
-   "faits": [
-    "Le Premier ministre Sébastien Lecornu juge que les décisions budgétaires ne peuvent pas attendre la présidentielle",
-    "Il souhaite engager des 'réformes structurelles, modestes' dans le prochain budget",
-    "Il espère faire adopter ce budget 'dans l'hiver'",
-    "Il juge 'préoccupant' le niveau de la dette",
-    "Il n'est 'pas très optimiste' sur le respect des objectifs en matière de déficit public pour 2026 et 2027"
+    "Plusieurs collaborateurs dans les ministères ont été écartés après des tests de dépistage de drogue positifs",
+    "Le Premier ministre Sébastien Lecornu a ordonné ces tests pour des raisons d'exemplarité et de vulnérabilité"
    ],
    "qui": "Sébastien Lecornu (Premier ministre)",
    "ou": "France",
    "categorie": "politique",
    "sensible": false,
-   "confiance": 90,
+   "confiance": 82,
    "sources": [
-    "France 24"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 56,
+   "importance": 68,
    "empreinte": "76b021ce9970eda5",
-   "score": 81,
-   "fiab_max": 85,
+   "score": 82,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-22T07:27:08.919320+00:00"
+   "depuis": "2026-07-22T14:18:47.723328+00:00"
   }
  ],
  "publies_48h": [
