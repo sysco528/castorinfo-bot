@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/afrique/algerie/au-moins-11-morts-dans-l-incendie-d-un-orphelinat-en-algerie-pres-de-la-capitale_8109866.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/le-president-algerien-en-visite-en-allemagne-les-proches-de-christophe-gleizes-esperent-l-aide-de-berlin-pour-obtenir-sa-liberation_8109857.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-radio/affaire-jubillar-le-proces-d-une-disparition/direct-affaire-jubillar-apres-les-aveux-de-cedric-jubillar-de-nouvelles-fouilles-sont-en-cours-pour-retrouver-le-corps-de-delphine-aussaguel_8110025.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/la-justice-n-a-pas-ete-informee-des-aveux-de-cedric-jubillar-autrement-que-par-la-presse-indique-la-cour-d-appel-de-toulouse_8096426.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/c-est-d-abord-la-mefiance-la-prudence-et-surtout-la-stupefaction-dit-l-avocate-de-la-mere-de-cedric-jubillar-apres-la-publication-de-sa-lettre-d-aveux_8097320.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-aveux-de-cedric-jubillar-peuvent-ils-jouer-en-sa-faveur-lors-de-son-proces-en-appel_8095949.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-hier-il-a-vomi-et-avait-tres-froid-avec-la-journee-de-souffrance-d-adam-yates-uae-emirates-affaiblie-avant-d-entamer-les-alpes_8118245.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/peine-respect-immense-chagrin-tres-emus-les-habitants-de-saint-medard-en-jalles-rendent-hommage-aux-deux-pompiers-decedes_8118356.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/usa/emprisonne-aux-etats-unis-l-ancien-president-du-venezuela-nicolas-maduro-sera-juge-a-new-york-en-juin-2027_8118359.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/sapeurs-pompiers-morts-en-gironde-le-systeme-d-autoprotection-du-camion-citerne-au-c-ur-des-interrogations_8118362.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/faits-divers/incendie/sapeurs-pompiers-morts-en-gironde-le-systeme-d-autoprotection-du-camion-citerne-au-c-ur-des-interrogations_8118362.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/les-incendies-ont-brule-au-moins-44-000-hectares-en-france-en-2026-et-128-personnes-ont-ete-interpellees-annonce-laurent-nunez-en-gironde_8118410.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/drogue/je-suis-dans-ce-pays-la-personnalite-la-plus-protegee-apres-le-president-temoigne-amine-kessaci-adjoint-au-maire-de-marseille-devenu-une-cible-pour-sa-lutte-contre-le-narcotrafic_8118398.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/la-dj-barbara-butch-toujours-en-etat-de-choc-apres-l-arret-de-son-concert-se-produira-bien-sur-scene-samedi_8118440.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -426,8 +426,6 @@
    "https://www.lemonde.fr/sport/article/2026/07/22/tour-de-france-2026-la-course-contre-le-temps-de-l-equipe-totalenergies-en-quete-d-un-repreneur_6730001_3242.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://sante.lefigaro.fr/canicule-la-mortalite-a-plus-que-double-en-juin-par-rapport-a-la-normale-en-ile-de-france-20260717",
-   "https://www.lefigaro.fr/faits-divers/monaco-une-video-de-l-attaque-a-la-bombe-contre-l-oligarque-ukrainien-vadim-ermolaev-devoilee-20260717",
    "https://www.lefigaro.fr/international/on-est-a-un-point-d-inflexion-de-l-ia-aux-robots-la-chine-au-defi-de-briser-le-leadership-technologique-americain-20260717",
    "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-l-heure-de-la-revanche-de-la-chine-qui-veut-vassaliser-l-europe-20260717",
    "https://www.lefigaro.fr/international/hongkong-sous-steroides-chongqing-la-megapole-vitrine-du-soft-power-chinois-a-l-ere-de-tiktok-20260717",
@@ -725,13 +723,11 @@
    "https://www.lefigaro.fr/actualite-france/on-a-franchi-un-palier-supplementaire-apres-l-exfiltration-du-maire-d-ales-les-elus-dans-le-viseur-des-narcotrafiquants-20260722",
    "https://www.lefigaro.fr/vox/societe/l-editorial-d-yves-threard-face-au-narcotrafic-la-france-ne-peut-pas-capituler-20260722",
    "https://www.lefigaro.fr/gastronomie/devenir-un-grand-chef-m-obsedait-jean-imbert-avant-la-gloire-et-les-deboires-judiciaires-un-petit-garcon-aime-et-dans-sa-bulle-20260722",
-   "https://www.lefigaro.fr/faits-divers/vaste-incendie-en-cours-dans-un-entrepot-pres-de-l-aeroport-charles-de-gaulle-20260722"
+   "https://www.lefigaro.fr/faits-divers/vaste-incendie-en-cours-dans-un-entrepot-pres-de-l-aeroport-charles-de-gaulle-20260722",
+   "https://www.lefigaro.fr/secteur/high-tech/la-maison-blanche-accuse-l-ia-chinoise-kimi-d-avoir-siphonne-le-savoir-faire-d-anthropic-20260722",
+   "https://www.lefigaro.fr/musique/la-musique-generee-par-ia-depasse-pour-la-premiere-fois-50-des-titres-mis-en-ligne-quotidiennement-sur-deezer-20260722"
   ],
   "https://www.france24.com/fr/rss": [
-   "fbc90268-8093-11f1-9884-597803de63eb",
-   "4c75ea8c-808a-11f1-a30a-0ddb5d36c064",
-   "83a4c99e-80ab-11f1-beed-1b46822264cd",
-   "9aae1aa6-8096-11f1-96d1-79dce49c5562",
    "c276b23a-8098-11f1-a628-0dc7afa07adf",
    "b972b454-8098-11f1-96fe-597803de63eb",
    "323e2606-80bd-11f1-b0c2-85fd8de9f78a",
@@ -1027,7 +1023,11 @@
    "15c884cc-85df-11f1-af5a-57a314c7456b",
    "e10d7a52-85df-11f1-8379-891d8584ee45",
    "b140b506-85f7-11f1-8be2-c754b1f00236",
-   "df572e92-85e9-11f1-b012-d3f1c38d6aaa"
+   "df572e92-85e9-11f1-b012-d3f1c38d6aaa",
+   "bad753c4-8609-11f1-80d6-23cdb201d611",
+   "27d9c512-85fe-11f1-b041-fda11fdbb396",
+   "85756ac2-85ff-11f1-ad0f-fda11fdbb396",
+   "a0d3787a-85fc-11f1-81c3-fda11fdbb396"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1270,18 +1270,10 @@
    "588ef862-85b3-11f1-b320-6b15e86ff44f",
    "a23fedb6-85c4-11f1-bd64-7373ca996252",
    "01b7d614-85ed-11f1-be00-3322d1e84c09",
-   "1805fd82-85d0-11f1-8a07-c7f48c98c05f"
+   "1805fd82-85d0-11f1-8a07-c7f48c98c05f",
+   "66b251ac-85ed-11f1-a916-4de02baa7e18"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-sabri-lamouchi-raconte-les-dessous-de-son-violent-licenciement-en-plein-mondial-avec-la-tunisie-f8c634dc-807f-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-15/comment-les-ruines-de-cette-abbaye-tour-a-tour-grange-habitation-et-carriere-de-pierres-racontent-son-inexorable-declin-73162694-ec9b-46f6-aa2c-a347940db5ae?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/video-les-hymnes-de-langleterre-et-de-largentine-perturbes-par-les-fans-avant-la-demi-finale-de-la-coupe-du-monde-da6d23ae-807c-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/fin-de-vie/fin-de-vie-les-premieres-reactions-apres-le-vote-de-la-loi-4b2f3732-807b-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-lallemagne-refuse-de-soutenir-gianni-infantino-pour-sa-reelection-a-la-tete-de-la-fifa-8f3eec2c-8078-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/video-les-deux-buts-de-largentine-avec-un-immense-lionel-messi-contre-langleterre-en-demi-finale-de-la-coupe-du-monde-46423838-808e-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/pedocriminalite/une-information-judiciaire-ouverte-apres-deux-plaintes-pour-viols-contre-le-directeur-dune-ecole-privee-de-bordeaux-34f29164-808d-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/ligue-1/om-psg-lyon-tous-les-resultats-des-matchs-amicaux-des-clubs-de-ligue-1-f369d2b8-6659-11f1-99fc-6db54956824f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/incendies-de-fontainebleau-le-pompier-volontaire-suspecte-dun-depart-de-feu-place-en-detention-provisoire-fcabbae6-8088-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/video-le-but-danthony-gordon-qui-permet-a-langleterre-de-mener-contre-largentine-en-demi-finale-de-la-coupe-du-monde-fff3ff64-8089-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/meteo/orage/orages-en-sarthe-une-centaine-dinterventions-des-pompiers-dans-le-secteur-de-la-fleche-aucun-blesse-a-deplorer-527c6c86-8070-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/video-jen-ai-reve-les-larmes-de-joie-de-lautaro-martinez-apres-la-qualification-argentine-en-finale-du-mondial-0d152802-809a-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1572,7 +1564,16 @@
    "https://www.ouest-france.fr/sport/football/ea-guingamp/ea-guingamp-inquietude-pour-stanislas-kielt-et-adrian-ortola-apres-la-defaite-contre-concarneau-c962a2ec-85fd-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/agriculture/entretien-elisabeth-borne-avait-le-droit-detre-en-colere-et-de-le-dire-affirme-la-ministre-de-lagriculture-79be2fe0-85f8-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/education/ecole/je-ne-my-attendais-pas-elle-decouvre-que-lecole-de-son-village-a-adopte-son-nom-en-sarthe-b250247e-84e2-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-22/face-au-surtourisme-pourquoi-la-france-semble-plus-tolerante-que-ses-voisins-21a2b001-94c7-4179-ab0e-898d831f1c70?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-22/face-au-surtourisme-pourquoi-la-france-semble-plus-tolerante-que-ses-voisins-21a2b001-94c7-4179-ab0e-898d831f1c70?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/canoe-kayak/mondiaux-de-canoe-kayak-lequipe-de-france-en-argent-en-canoe-slalom-7a7c86d2-860e-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/il-a-vomi-et-avait-tres-froid-coup-dur-pour-pogacar-et-uae-emirates-xrg-adam-yates-diminue-avant-les-alpes-1c81ae86-8609-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/etats-unis/la-californie-va-utiliser-des-drones-alimentes-par-lia-pour-lutter-contre-les-incendies-de-foret-1284fea2-860d-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/israel/douze-figures-du-football-palestinien-tuees-a-gaza-etaient-membres-de-groupes-armes-affirme-israel-009fef4e-860d-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/video-victime-dun-malaise-au-world-matchplay-ce-joueur-de-flechettes-contraint-a-labandon-343f2fe8-860a-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/disparition/pyrenees-atlantiques-la-voiture-dun-homme-disparu-en-2018-retrouvee-dans-une-riviere-par-des-plongeurs-americains-06144022-85d3-11f1-9e1f-163bb4ccc6b3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/ce-netait-pas-un-coup-de-poing-les-explications-dun-argentin-apres-la-bagarre-en-finale-de-la-coupe-du-monde-a7144b2a-8605-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/mexique/un-nouveau-journaliste-assassine-au-mexique-le-7e-en-2026-9cc96ea4-8608-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/argentina-out-une-petition-quasi-record-lancee-pour-exclure-definitivement-largentine-de-la-coupe-du-monde-c7d27cde-85ff-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1699,7 +1700,8 @@
    "https://www.20minutes.fr/arts-stars/cinema/4235202-20260722-pourquoi-comedie-francaise-comedie-francaise-2026?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/planete/secheresse/4235733-20260722-canicule-incendies-chiffres-illustrent-secheresse-exceptionnelle-france-2026?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/planete/canicule/4235815-20260722-canicule-5-764-morts-exces-juin-surmortalite-inedite-tous-ages?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/planete/4235697-20260722-direct-incendies-lutte-acharnee-var-face-flammes-trois-departements-alerte-rouge?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/planete/4235697-20260722-direct-incendies-lutte-acharnee-var-face-flammes-trois-departements-alerte-rouge?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235864-20260722-guerre-moyen-orient-dit-tout-mont-kolang-site-nucleaire-iranien-trump-veut-bombarder?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1983,52 +1985,28 @@
  "evenements_attente": [
   {
    "faits": [
-    "5 764 décès en excès ont été recensés pendant la canicule de juin 2026 en France",
-    "Cette surmortalité concerne toutes les classes d'âge à partir de 15 ans, avec une augmentation marquée dès 45 ans",
-    "98,5% de la population hexagonale a été affectée par les chaleurs extrêmes du 17 juin au 2 juillet",
-    "C'est la surmortalité la plus importante depuis 2003"
+    "Au moins 44 000 hectares ont brûlé en France en 2026",
+    "128 personnes ont été interpellées en lien avec les incendies",
+    "Laurent Nuñez, ministre de l'Intérieur, a annoncé ces chiffres mercredi 22 juillet à Bordeaux",
+    "Trois pompiers sont morts en deux semaines",
+    "Deux pompiers sont décédés en Gironde la veille de la déclaration"
    ],
-   "qui": "Santé publique France",
-   "ou": "France",
-   "categorie": "sante",
+   "qui": "Laurent Nuñez (ministre de l'Intérieur)",
+   "ou": "France (Bordeaux, Gironde)",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 88,
    "sources": [
     "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "L'imputation avec certitude de ces décès à la chaleur ne peut pas encore être établie"
-   ],
-   "importance": 92,
-   "empreinte": "71d4f6da2a6723b0",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-22T14:18:47.723286+00:00"
-  },
-  {
-   "faits": [
-    "TotalEnergies remet en place le plafonnement du prix de l'essence à 1,99 euro le litre dans toutes ses stations-service de France hexagonale",
-    "Cette opération commerciale est relancée alors que le conflit au Moyen-Orient reprend entre l'Iran et les États-Unis",
-    "Le dispositif était limité depuis trois semaines à 1200 stations rurales avant cette extension"
-   ],
-   "qui": "TotalEnergies",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "a99f2ea787295f77",
-   "score": 97,
+   "importance": 85,
+   "empreinte": "9baca8afc7fc8861",
+   "score": 98,
    "fiab_max": 90,
    "nb_sources": 2,
-   "depuis": "2026-07-22T14:18:47.723289+00:00"
+   "depuis": "2026-07-22T21:19:10.928570+00:00"
   },
   {
    "faits": [
@@ -2138,29 +2116,6 @@
   },
   {
    "faits": [
-    "Douze enfants, dont des nourrissons, ont été découverts entassés dans une voiture au sous-sol d'une maison à Yerres, dans l'Essonne",
-    "La maison était improvisée en crèche illégale",
-    "Deux assistantes maternelles ont été placées sous contrôle judiciaire",
-    "Elles seront jugées en septembre"
-   ],
-   "qui": "Deux assistantes maternelles (non nommées)",
-   "ou": "Yerres, Essonne",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 84,
-   "empreinte": "aa299f85738860cc",
-   "score": 90,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T14:18:47.723296+00:00"
-  },
-  {
-   "faits": [
     "Jasper Philipsen (Belgique) remporte la 17e étape du Tour de France 2026 au sprint",
     "L'étape s'est déroulée le 22 juillet 2026 à Voiron en Isère",
     "Tadej Pogacar conserve le maillot jaune",
@@ -2260,28 +2215,6 @@
   },
   {
    "faits": [
-    "La galerie d'Apollon du Louvre rouvre neuf mois après le cambriolage",
-    "Elle rouvre sans ses joyaux",
-    "Le directeur du Louvre souligne que la galerie fonctionne dans son usage du XVIIe siècle"
-   ],
-   "qui": "Musée du Louvre, Christophe Leribault (directeur)",
-   "ou": "Paris, Louvre",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "638d639d9ce991cf",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T14:18:47.723299+00:00"
-  },
-  {
-   "faits": [
     "La France connaît un épisode de sécheresse précoce et exceptionnel en 2026",
     "Il y a eu 5.764 morts excédentaires en juin",
     "Cette surmortalité a été « inédite » pour tous les âges",
@@ -2306,26 +2239,6 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-22T20:02:39.371046+00:00"
-  },
-  {
-   "faits": [
-    "Après l'interception de missiles et de drones iraniens par la Jordanie, l'Agence européenne de la sécurité aérienne recommande aux compagnies aériennes de ne pas emprunter l'espace aérien jordanien jusqu'au 31 août"
-   ],
-   "qui": "Agence européenne de la sécurité aérienne",
-   "ou": "Jordanie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "e7e928539167d839",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T14:18:47.722485+00:00"
   },
   {
    "faits": [
@@ -2406,6 +2319,30 @@
   },
   {
    "faits": [
+    "Amine Kessaci, adjoint au maire de Marseille, est sous haute protection policière",
+    "Il lutte contre le narcotrafic et est devenu une cible",
+    "Le maire d'Alès a été exfiltré par le GIGN, menacé par la DZ Mafia",
+    "La maire d'Échirolles en Isère est également sous protection",
+    "Plusieurs élus sont pris pour cible par les narcotrafiquants"
+   ],
+   "qui": "Amine Kessaci, maire d'Alès, maire d'Échirolles",
+   "ou": "Marseille, Alès, Échirolles (Isère), France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "c4a399f60b45db5f",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T21:19:10.928583+00:00"
+  },
+  {
+   "faits": [
     "Un adolescent de 16 ans est en garde à vue à Rennes après le viol d'une octogénaire",
     "L'agression a survenu le 4 juillet",
     "La victime a 80 ans et rentrait d'une soirée",
@@ -2427,51 +2364,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-22T17:37:24.945228+00:00"
-  },
-  {
-   "faits": [
-    "Une information judiciaire pour meurtre a été ouverte après une rixe à l'arme blanche à Mantes-la-Jolie",
-    "Cinq personnes ont été interpellées dans les Yvelines",
-    "Quatre ont été mises en examen"
-   ],
-   "qui": null,
-   "ou": "Mantes-la-Jolie, Yvelines",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "16b51ee7f811f3cd",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T14:18:47.723315+00:00"
-  },
-  {
-   "faits": [
-    "La Basse-Saxe en Allemagne autorise un projet nucléaire impliquant la Russie et la France",
-    "La société étatique russe Rosatom participe à ce projet de production de combustible nucléaire",
-    "Le projet doit avoir lieu dans une usine à Lingen, en Basse-Saxe, près de la frontière avec les Pays-Bas",
-    "Cette autorisation existe faute de sanctions européennes sur le nucléaire russe"
-   ],
-   "qui": "Rosatom (société étatique russe), gouvernement allemand (Basse-Saxe), France",
-   "ou": "Lingen, Basse-Saxe, Allemagne",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 86,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 76,
-   "empreinte": "6ce868e7a3406654",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T14:18:47.723316+00:00"
   },
   {
    "faits": [
@@ -2710,6 +2602,138 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-22T18:46:57.522185+00:00"
+  },
+  {
+   "faits": [
+    "La voiture de David Stévenin a été repêchée le 21 juillet 2026 dans l'Adour",
+    "David Stévenin avait disparu dans la nuit du 25 au 26 septembre 2018 à Urt (Pyrénées-Atlantiques)",
+    "Des restes humains ont été retrouvés à l'intérieur du véhicule",
+    "Un autre corps, celui d'une femme disparue en 2017, a été retrouvé dans la même rivière",
+    "Des plongeurs américains ont contribué à ces découvertes",
+    "Ces découvertes relancent l'enquête près de huit ans après la disparition de Stévenin"
+   ],
+   "qui": "David Stévenin",
+   "ou": "Urt, Pyrénées-Atlantiques, Adour, France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "identification formelle des restes"
+   ],
+   "importance": 70,
+   "empreinte": "1b55e714c93153c5",
+   "score": 80,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T21:19:10.927888+00:00"
+  },
+  {
+   "faits": [
+    "L'Unesco a placé la cité antique de Tyr sur la liste du patrimoine mondial en péril",
+    "Tyr est l'une des plus anciennes cités du monde méditerranéen",
+    "Elle est located dans le sud du Liban",
+    "L'inscription date du mercredi 22 juillet",
+    "L'Unesco invoque les dommages causés par les bombardements israéliens",
+    "L'Unesco cite les risques de nouvelles frappes"
+   ],
+   "qui": "Unesco, Liban, Israël",
+   "ou": "Tyr, Liban",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "eb150cdf846d1975",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T21:19:10.928003+00:00"
+  },
+  {
+   "faits": [
+    "Une vague de disparitions frappe Antananarivo depuis fin juin",
+    "Les disparitions touchent en majorité des enfants et adolescents",
+    "En une semaine, quatre personnes ont été retrouvées mortes",
+    "Une fillette de douze ans et un adolescent de dix-sept ans figurent parmi les morts",
+    "Les causes suspectées incluent fugues, négligences et possibles meurtres",
+    "La population bascule dans la psychose"
+   ],
+   "qui": null,
+   "ou": "Antananarivo, Madagascar",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 78,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "nature exacte des décès",
+    "nombre total de disparitions",
+    "circonstances précises"
+   ],
+   "importance": 65,
+   "empreinte": "bb86b003616524c7",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T21:19:10.927731+00:00"
+  },
+  {
+   "faits": [
+    "Un journaliste mexicain spécialisé dans les questions de sécurité a été assassiné",
+    "L'assassinat s'est déroulé dans l'État d'Oaxaca",
+    "C'est le 7e journaliste assassiné au Mexique en 2026"
+   ],
+   "qui": "Journaliste mexicain (identité non précisée)",
+   "ou": "Oaxaca, Mexique",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "identité précise du journaliste",
+    "auteurs du meurtre"
+   ],
+   "importance": 70,
+   "empreinte": "469e040f98dea922",
+   "score": 78,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T21:19:10.927956+00:00"
+  },
+  {
+   "faits": [
+    "Un concert de Barbara Butch a été interrompu samedi à Grenoble",
+    "L'interruption est due à une action de militants propalestiniens et LFI",
+    "Les militants répondaient à un appel au boycott",
+    "Barbara Butch a signé une tribune en faveur de la proposition de loi Yadan contre les nouvelles formes d'antisémitisme",
+    "Barbara Butch se produira sur scène samedi (annonce du mercredi 22 juillet)"
+   ],
+   "qui": "Barbara Butch (DJ)",
+   "ou": "Grenoble, France",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "état émotionnel exact de Barbara Butch"
+   ],
+   "importance": 50,
+   "empreinte": "178f9e21eff08262",
+   "score": 78,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T21:19:10.928589+00:00"
   }
  ],
  "publies_48h": [
