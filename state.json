@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/des-baisses-de-rendement-jusqu-a-20-a-prevoir-pour-les-cultures-de-ble-dans-certaines-regions-en-raison-de-la-canicule-jusqu-a-60-pour-le-houblon_8109185.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/front-national/huit-pourvois-en-cassation-deposes-a-ce-stade-dans-l-affaire-des-assistants-d-eurodeputes-fn_8109122.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/fin-de-vie-la-france-cree-un-droit-sur-l-aide-a-mourir_8109323.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/euthanasie/decouvrez-si-votre-depute-a-vote-pour-ou-contre-la-loi-sur-l-aide-a-mourir_8108873.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/euthanasie/il-etait-temps-il-est-urgent-que-le-texte-soit-applique-reagit-l-ancienne-ministre-agnes-firmin-le-bodo-apres-l-adoption-la-loi-sur-l-aide-a-mourir_8109314.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/societe/drogue/une-connexion-s-est-faite-avec-des-gangs-locaux-a-ales-l-extension-de-la-dz-mafia-n-est-pas-nouvelle_8117504.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/la-maison-de-naissance-d-adolf-hitler-en-autriche-accueille-desormais-un-commissariat_8117486.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/accident/le-conducteur-suspecte-d-avoir-percute-mortellement-une-femme-a-heugleville-sur-scie-en-seine-maritime-reconnait-les-faits_8117537.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/budget/nous-ne-pouvons-pas-suspendre-toutes-les-decisions-jusqu-en-2027-sebastien-lecornu-ne-souhaite-pas-attendre-la-presidentielle-pour-trancher-des-arbitrages-budgetaires_8117492.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/economie/budget/nous-ne-pouvons-pas-suspendre-toutes-les-decisions-jusqu-en-2027-sebastien-lecornu-ne-souhaite-pas-attendre-la-presidentielle-pour-trancher-des-arbitrages-budgetaires_8117492.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-projections-de-quelques-metres-a-plusieurs-kilometres-on-vous-explique-ce-que-sont-les-sautes-de-feu-qui-amplifient-la-propagation-des-incendies_8117441.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/cinema/plas-johnson-le-saxophoniste-de-la-panthere-rose-est-mort-a-94-ans_8117804.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -426,11 +426,6 @@
    "https://www.lemonde.fr/sport/article/2026/07/22/tour-de-france-2026-la-course-contre-le-temps-de-l-equipe-totalenergies-en-quete-d-un-repreneur_6730001_3242.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/la-france-souhaite-de-nouveau-delivrer-250-000-visas-par-an-aux-ressortissants-algeriens-20260717",
-   "https://www.lefigaro.fr/international/approuvez-vous-la-volonte-de-l-ambassadeur-de-france-d-augmenter-le-nombre-de-visas-accordes-a-l-algerie-20260717",
-   "https://www.lefigaro.fr/faits-divers/affaire-jubillar-cinq-ans-plus-tard-que-peuvent-encore-reveler-les-ossements-retrouves-20260717",
-   "https://www.lefigaro.fr/faits-divers/affaire-jubillar-les-ossements-retrouves-doivent-etre-analyses-a-pontoise-ce-vendredi-apres-midi-20260717",
-   "https://www.lefigaro.fr/faits-divers/affaire-jubillar-ils-seront-marques-a-vie-par-l-absence-de-leur-mere-reagit-l-avocate-des-enfants-du-couple-20260717",
    "https://www.lefigaro.fr/marseille/maire-d-ales-menace-de-mort-par-la-dz-mafia-une-compagnie-de-crs-deployee-pour-securiser-la-ville-20260717",
    "https://www.lefigaro.fr/faits-divers/gard-le-maire-d-ales-recoit-deux-balles-de-calibre-9-mm-signees-dz-mafia-20260716",
    "https://www.lefigaro.fr/faits-divers/corse-deux-mineures-mises-en-examen-apres-la-mort-d-un-homme-dans-le-centre-d-ajaccio-20260717",
@@ -725,21 +720,14 @@
    "https://www.lefigaro.fr/actualite-france/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-dans-le-var-20260722",
    "https://www.lefigaro.fr/conjoncture/incendie-dans-le-var-plus-de-2300-foyers-prives-d-electricite-principalement-a-cotignac-20260722",
    "https://www.lefigaro.fr/marseille/il-a-fait-le-malin-alors-ils-ne-vont-pas-le-lacher-a-ales-une-etonnante-banalisation-de-la-violence-apres-les-menaces-de-mort-repetees-contre-le-maire-20260722",
-   "https://www.lefigaro.fr/marseille/maire-d-ales-menace-de-mort-par-la-dz-mafia-un-projet-d-action-violente-detecte-selon-laurent-nunez-qui-evoque-un-acte-d-intimidation-20260721"
+   "https://www.lefigaro.fr/marseille/maire-d-ales-menace-de-mort-par-la-dz-mafia-un-projet-d-action-violente-detecte-selon-laurent-nunez-qui-evoque-un-acte-d-intimidation-20260721",
+   "https://www.lefigaro.fr/politique/la-france-n-a-aucun-objectif-chiffre-et-aucun-laxisme-sur-les-visas-delivres-aux-ressortissants-algeriens-affirme-emmanuel-macron-20260722",
+   "https://www.lefigaro.fr/flash-actu/hauts-de-seine-daniel-siad-le-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-a-son-domicile-20260722",
+   "https://www.lefigaro.fr/actualite-france/recruteur-de-filles-ne-en-algerie-plainte-pour-viol-qui-est-daniel-siad-rabatteur-presume-de-jeffrey-epstein-20260210",
+   "https://madame.lefigaro.fr/societe/a-ton-avis-qu-est-ce-qu-elles-ont-fait-pour-gagner-autant-d-argent-le-temoignage-glacant-d-une-victime-du-rabatteur-d-epstein-20260212",
+   "https://www.lefigaro.fr/international/incendie-en-espagne-32-000-hectares-brules-a-100-km-au-nord-de-madrid-espoir-de-stabiliser-l-incendie-d-ici-jeudi-20260722"
   ],
   "https://www.france24.com/fr/rss": [
-   "9a2f9f34-803a-11f1-b04d-9be305ce931d",
-   "fb4736f8-802e-11f1-ad73-814e9f7f90b1",
-   "b07224d2-802c-11f1-857a-753a6a028579",
-   "281db884-8050-11f1-9e76-b5654c612066",
-   "3fa6db5c-8046-11f1-8b94-1d908001c1d4",
-   "70b1957e-804c-11f1-a5b8-b5654c612066",
-   "2f942d3c-804b-11f1-b9fb-f5b32174e252",
-   "7a951db2-8048-11f1-ba73-1d908001c1d4",
-   "84fb151c-8049-11f1-9a03-1d908001c1d4",
-   "edc91e38-8047-11f1-8276-1d908001c1d4",
-   "00943358-8044-11f1-b0d3-1d908001c1d4",
-   "2adfc848-805d-11f1-aca9-fb29338f2609",
    "39fbc508-805c-11f1-b479-3709ff52f040",
    "1e1e67be-805c-11f1-89ba-3709ff52f040",
    "c628dd46-805b-11f1-94d2-fb29338f2609",
@@ -1027,7 +1015,19 @@
    "3a71e852-8591-11f1-a22e-3353155f7b93",
    "90c60fdc-858f-11f1-96a4-ef9d0f25b305",
    "9140e1b0-8578-11f1-9b81-a9a2a33ab7ab",
-   "3296563a-8533-11f1-a662-6565a0babe21"
+   "3296563a-8533-11f1-a662-6565a0babe21",
+   "4e5bda70-85bf-11f1-b35e-3fc541eb9bc0",
+   "2785009a-85bd-11f1-880a-c18d5c108b12",
+   "6a0a0542-85bc-11f1-bfee-b5310f59216a",
+   "36702d18-85af-11f1-bd0b-339938c7a831",
+   "89e83ca6-85af-11f1-b5f9-339938c7a831",
+   "0d56d940-85af-11f1-92a0-d13250b1822a",
+   "6379a7e0-85ae-11f1-8d3e-339938c7a831",
+   "59000382-85ad-11f1-9eef-339938c7a831",
+   "741ba676-85ad-11f1-8df8-339938c7a831",
+   "aa8a4274-85aa-11f1-9e21-c1013e91da27",
+   "39a4e35a-85ac-11f1-a5c4-d13250b1822a",
+   "16989548-85aa-11f1-98ba-c1013e91da27"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1256,7 +1256,8 @@
    "ee2a0f9e-8566-11f1-8d7e-1d80758aba5d",
    "df6a840c-8575-11f1-8f3a-418930757acd",
    "44bebc2a-859d-11f1-a16d-130526d1dfd8",
-   "f6851e34-8581-11f1-b441-172335c17309"
+   "f6851e34-8581-11f1-b441-172335c17309",
+   "ef58d812-85ae-11f1-a592-6b15e86ff44f"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/monde/etats-unis/une-americaine-poursuivie-pour-avoir-etouffe-ses-jumeaux-apres-avoir-attribue-leur-mort-aux-vaccins-5c1f7364-7fe4-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1965,6 +1966,79 @@
  "evenements_attente": [
   {
    "faits": [
+    "Monique Barbut, ministre de la Transition écologique, a annoncé sa démission",
+    "Elle s'opposait à une mesure controversée sur les pesticides adoptée définitivement par le Parlement",
+    "Sa démission intervient après le vote de cette loi agricole"
+   ],
+   "qui": "Monique Barbut",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "France 24",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "ab6dfbc96e4486a2",
+   "score": 95,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-22T12:01:18.638422+00:00"
+  },
+  {
+   "faits": [
+    "Daniel Siad, 69 ans, Suédois d'origine kabyle, a été retrouvé mort à son domicile à Colombes (Hauts-de-Seine)",
+    "Il était présumé rabatteur de Jeffrey Epstein",
+    "Son nom apparaît à des milliers de reprises dans les 'fichiers Epstein' déclassifiés",
+    "Il était visé par des accusations de viols de la part d'au moins cinq femmes",
+    "Il avait mis en relation de jeunes mannequins avec Jeffrey Epstein",
+    "Il affirmait ne pas avoir eu connaissance des activités illicites d'Epstein",
+    "Il a imposé à une victime, Ebba Karlsson, en 1990, des viols et des menaces de mort"
+   ],
+   "qui": "Daniel Siad, Jeffrey Epstein",
+   "ou": "Colombes, Hauts-de-Seine, France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "4163d78ca0879d68",
+   "score": 94,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-22T12:01:18.638426+00:00"
+  },
+  {
+   "faits": [
+    "Emmanuel Macron affirme que la France n'a aucun 'objectif chiffré' sur les visas délivrés aux ressortissants algériens",
+    "Macron déclare qu'il n'y a 'aucun laxisme' en matière de visas pour l'Algérie",
+    "Ces déclarations font suite à une polémique provoquée par une interview de l'ambassadeur de France en Algérie Stéphane Romatet"
+   ],
+   "qui": "Emmanuel Macron, Stéphane Romatet",
+   "ou": "France, Algérie",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "9c60cf06755efbcf",
+   "score": 91,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-22T12:01:18.638428+00:00"
+  },
+  {
+   "faits": [
     "Volodymyr Zelensky annonce un remaniement à la tête de l'armée ukrainienne",
     "Ce remaniement intervient après plusieurs jours de manifestations",
     "Les manifestants réclamaient le départ d'Oleksandr Syrsky, commandant en chef de l'armée",
@@ -2081,29 +2155,6 @@
   },
   {
    "faits": [
-    "Monique Barbut, ministre de la transition écologique, annonce remettre sa démission",
-    "Elle s'oppose à une mesure controversée sur les pesticides adoptée par le Parlement",
-    "Elle qualifie cette situation de « recul environnemental de trop »",
-    "Elle affirme que le gouvernement a empêché le débat autour de la suppression de cette mesure"
-   ],
-   "qui": "Monique Barbut",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "ab6dfbc96e4486a2",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T10:04:45.904956+00:00"
-  },
-  {
-   "faits": [
     "Israël s'est retiré de la localité de Zaoutar El-Gharbiyé au Liban sud",
     "L'armée libanaise s'est déployée dans cette zone",
     "Ces opérations coïncident avec une rencontre à la Maison Blanche entre Donald Trump et Joseph Aoun",
@@ -2173,50 +2224,24 @@
   },
   {
    "faits": [
-    "Une épidémie d'Ébola sévit en RDC",
-    "Le bilan approche les 1 000 morts",
-    "2 423 cas ont été enregistrés en deux mois",
-    "Le gouvernement assouplit les restrictions de voyage",
-    "Une approche individualisée d'évaluation du risque est adoptée"
+    "Plas Johnson, saxophoniste de 'La Panthère rose', est décédé à 94 ans",
+    "Henry Mancini avait composé un solo sur mesure pour lui dans la partition de 'La Panthère rose'"
    ],
-   "qui": "RDC (gouvernement)",
-   "ou": "République démocratique du Congo",
-   "categorie": "sante",
+   "qui": "Plas Johnson",
+   "ou": null,
+   "categorie": "deces_personnalite",
    "sensible": true,
-   "confiance": 87,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "9b676e457ef7997b",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T04:39:39.867189+00:00"
-  },
-  {
-   "faits": [
-    "Une manifestation d'étudiants a été violemment réprimée en Inde",
-    "Au moins 180 personnes ont été blessées",
-    "La manifestation est liée à des griefs contre le gouvernement",
-    "Rahul Gandhi a appelé Narendra Modi à démissionner"
-   ],
-   "qui": "Étudiants indiens, Narendra Modi (Premier ministre), Rahul Gandhi",
-   "ou": "Inde",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 84,
+   "confiance": 90,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 72,
-   "empreinte": "0573f049953dc95e",
+   "importance": 60,
+   "empreinte": "20d30ee3ac01df8f",
    "score": 84,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-22T04:39:39.867259+00:00"
+   "depuis": "2026-07-22T12:01:18.638443+00:00"
   },
   {
    "faits": [
@@ -2288,6 +2313,27 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-22T10:04:45.904964+00:00"
+  },
+  {
+   "faits": [
+    "Deux sapeurs-pompiers sont décédés en luttant contre un incendie en Gironde",
+    "Ils se trouvaient à bord d'un camion-citerne qui s'est retrouvé 'piégé' par les flammes"
+   ],
+   "qui": null,
+   "ou": "Gironde, France",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "87bb1dc9ee095e62",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T12:01:18.637383+00:00"
   },
   {
    "faits": [
@@ -2385,6 +2431,53 @@
   },
   {
    "faits": [
+    "Un incendie en Espagne a brûlé 32.000 hectares dans la province de Guadalajara",
+    "Le feu s'est propagé à 100 km au nord de Madrid",
+    "Il est considéré comme le plus important incendie de l'année en Espagne",
+    "Des efforts sont en cours pour le stabiliser d'ici jeudi"
+   ],
+   "qui": null,
+   "ou": "Guadalajara, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "064b2644bee9325a",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T12:01:18.637227+00:00"
+  },
+  {
+   "faits": [
+    "Le maire LR d'Alès, Christophe Rivenq, a été menacé de mort par le groupe criminel DZ Mafia",
+    "Deux balles de 9 mm ont été tirées à son domicile",
+    "Des tags menaçants ont été peints à son domicile",
+    "Une exfiltration en pleine nuit a eu lieu",
+    "La DZ Mafia a étendu son emprise sur la sous-préfecture du Gard"
+   ],
+   "qui": "Christophe Rivenq, DZ Mafia",
+   "ou": "Alès, Gard, France",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "74983464792e2613",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T12:01:18.637269+00:00"
+  },
+  {
+   "faits": [
     "Le maire d'Alès Christophe Rivenq (LR) a été exfiltré de son domicile par le Raid",
     "Cet exfiltrement s'est déroulé dans la nuit de lundi à mardi",
     "Des balles de 9mm ont été retrouvées dans la boîte aux lettres de son domicile",
@@ -2412,27 +2505,27 @@
   },
   {
    "faits": [
-    "Volodymyr Zelensky a limogé le commandant en chef de l'armée Oleksandr Syrsky",
-    "Le ministre de la Défense Mykhailo Fedorov a été évincer",
-    "L'Ukraine a mené plusieurs attaques en territoire russe",
-    "Des stations de commandement de drones ont été détruites",
-    "Un avion de chasse russe a été abattu"
+    "Le président ukrainien Volodymyr Zelensky a limogé le général Oleksandre Syrsky",
+    "Syrsky n'est plus à la tête des forces armées ukrainiennes",
+    "Des manifestants réclamaient son départ depuis plusieurs jours",
+    "Syrsky était considéré comme un général trop vieux jeu et insensible aux pertes humaines sur le front",
+    "Ces manifestations font suite au limogeage de Mykhaïlo Fedorov de son poste de ministre de la défense il y a 6 jours"
    ],
-   "qui": "Ukraine (Volodymyr Zelensky), Russie",
-   "ou": "Ukraine, Russie",
-   "categorie": "international",
-   "sensible": true,
+   "qui": "Volodymyr Zelensky, Oleksandre Syrsky, Mykhaïlo Fedorov",
+   "ou": "Ukraine",
+   "categorie": "politique",
+   "sensible": false,
    "confiance": 85,
    "sources": [
-    "Ouest-France"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 80,
-   "empreinte": "cdf32bbeedac6444",
+   "importance": 70,
+   "empreinte": "a19e8c1dbf6737ce",
    "score": 82,
-   "fiab_max": 80,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-22T04:39:39.867151+00:00"
+   "depuis": "2026-07-22T12:01:18.638456+00:00"
   },
   {
    "faits": [
@@ -2454,6 +2547,55 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-22T07:27:08.919315+00:00"
+  },
+  {
+   "faits": [
+    "L'effondrement d'un immeuble à Conakry a fait au moins 8 morts",
+    "L'effondrement a également causé plusieurs blessés",
+    "Le drame s'est produit lors de fortes pluies des derniers jours provoquant d'importants dégâts dans la capitale"
+   ],
+   "qui": null,
+   "ou": "Conakry, Guinée",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "1fda571cead193a6",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T12:01:18.637309+00:00"
+  },
+  {
+   "faits": [
+    "Le président Trump a réitéré sa menace de bombarder un site nucléaire iranien présumé",
+    "Le site est connu sous le nom de 'Pickaxe Mountain'",
+    "Trump a déclaré que les États-Unis frapperaient cette zone 'très bientôt et très durement'",
+    "Le site est soupçonné d'abriter une usine de fabrication de centrifugeuses",
+    "Le site est enfoui si profondément que les bombes anti-bunkers les plus puissantes des États-Unis pourraient s'avérer inefficaces"
+   ],
+   "qui": "Donald Trump",
+   "ou": "Iran",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "L'existence réelle du complexe nucléaire souterrain 'Pickaxe Mountain'",
+    "Les intentions précises de Trump concernant une intervention"
+   ],
+   "importance": 75,
+   "empreinte": "0c472082f0b91110",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T12:01:18.637525+00:00"
   },
   {
    "faits": [
@@ -2527,152 +2669,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-22T07:27:08.919320+00:00"
-  },
-  {
-   "faits": [
-    "Cédric Jubillar aurait fait des déclarations",
-    "Philippe Pressecq, avocat de la famille de Delphine Aussaguel, juge ces déclarations 'horrifiantes'",
-    "Pressecq reproche à Jubillar d'avoir 'joué la fable de l'innocence pendant cinq ans'"
-   ],
-   "qui": "Cédric Jubillar, Delphine Aussaguel, Philippe Pressecq (avocat)",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 78,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Nature exacte des déclarations de Cédric Jubillar",
-    "Interprétation de Pressecq sur les intentions de Jubillar"
-   ],
-   "importance": 65,
-   "empreinte": "cdd4823a8945b4b4",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T07:26:57.330817+00:00"
-  },
-  {
-   "faits": [
-    "Une frappe aérienne pakistanaise a visé un centre de désintoxication à Kaboul le 16 mars 2026",
-    "Au moins 269 civils ont été tués selon la Mission des Nations unies en Afghanistan",
-    "122 personnes ont été blessées",
-    "Le Pakistan affirme que le site servait de dépôt d'armes et de munitions",
-    "Amnesty International conteste cette version et affirme que le centre fonctionnait comme établissement médical"
-   ],
-   "qui": "Pakistan (armée), Afghanistan, Amnesty International",
-   "ou": "Kaboul, Afghanistan",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "La nature réelle de l'utilisation du centre de désintoxication"
-   ],
-   "importance": 70,
-   "empreinte": "8a352df4dfb22c2e",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T04:39:39.867324+00:00"
-  },
-  {
-   "faits": [
-    "Le bilan du double séisme au Venezuela monte à 5 346 morts",
-    "Le double séisme s'est produit à la fin du mois de juin",
-    "Des opérations de recherche se poursuivent",
-    "De nouveaux corps continuent à être découverts sous les décombres"
-   ],
-   "qui": "Venezuela",
-   "ou": "Venezuela",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 73,
-   "empreinte": "ad0850a0332f3ce8",
-   "score": 80,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T04:39:39.867358+00:00"
-  },
-  {
-   "faits": [
-    "La propagandiste Xenia Fedorova échappe aux sanctions européennes contre des personnalités russes",
-    "Elle est une figure prorusse de CNews",
-    "Elle est l'ex-dirigeante de Russia Today France",
-    "Russia Today France est financée par le Kremlin",
-    "Le Quai d'Orsay et le ministère de l'intérieur étudient secrètement d'autres voies de sanctions"
-   ],
-   "qui": "Xenia Fedorova, Quai d'Orsay, ministère de l'intérieur",
-   "ou": "France",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "études secrètes d'autres voies de sanctions"
-   ],
-   "importance": 58,
-   "empreinte": "56c6980d03ef4c5d",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T10:04:45.904976+00:00"
-  },
-  {
-   "faits": [
-    "L'équipe TotalEnergies du Tour de France 2026 va perdre son sponsor principal en fin de saison",
-    "La formation cherche un repreneur",
-    "L'équipe cherche à briller sur la Grande Boucle pour attirer un nouveau partenaire",
-    "La 17ᵉ étape mercredi fait figure de dernière chance pour remporter une victoire"
-   ],
-   "qui": "Équipe TotalEnergies",
-   "ou": "Tour de France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 52,
-   "empreinte": "0e68782e05711c8b",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T10:04:45.904977+00:00"
-  },
-  {
-   "faits": [
-    "Jonas Vingegaard et Florian Lipowitz ont abandonné le Tour de France 2026",
-    "La lutte pour le podium s'est resserrée à trois hommes",
-    "Tadej Pogacar est décrit comme intouchable",
-    "Evenepoel, Seixas et Del Toro sont en lice pour le podium"
-   ],
-   "qui": "Jonas Vingegaard, Florian Lipowitz, Tadej Pogacar, Evenepoel, Seixas, Del Toro",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "766028aa14567873",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T04:39:50.148816+00:00"
   }
  ],
  "publies_48h": [
