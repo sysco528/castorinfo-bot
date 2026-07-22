@@ -2,14 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-les-supporters-vont-ils-enfin-avoir-un-jour-ferie-si-l-angleterre-remporte-la-coupe-du-monde_8108657.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement-sexuel/six-anciennes-mannequins-portent-plainte-contre-l-ex-patron-d-elite-europe-pour-viol-et-traite-d-etres-humains_8108645.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-fondation-du-patrimoine-lance-une-collecte-pour-financer-des-mesures-d-urgence-et-de-prevention-contre-les-feux-de-forets_8108735.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/gerald-darmanin-annonce-que-85047-plaintes-pour-violences-sexuelles-sur-mineurs-ont-ete-recensees-dans-tout-le-pays-pres-d-un-millier-de-dossiers-prioritaires-identifies_8108900.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/en-images-les-buts-de-lionel-messi-et-kylian-mbappe-l-exploit-du-cap-vert-la-blessure-d-ismael-kone-les-moments-marquants-du-debut-de-la-coupe-du-monde_8069393.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/vague-d-incendies-en-france-que-risquent-les-auteurs-de-feux-en-cas-de-poursuites_8108417.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/le-taux-du-livret-a-sera-releve-a-1-7-au-1er-aout-annonce-le-ministre-de-l-economie_8108777.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-a-saint-emilion-les-touristes-desertent-les-rues-et-les-commercants-s-inquietent_8108906.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/ce-n-etait-pas-un-match-super-agreable-a-regarder-la-deception-des-coureurs-tricolores-du-tour-de-france-apres-la-defaite-des-francais-contre-les-espagnols_8108852.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-au-moins-158-francais-ont-eu-recours-a-l-euthanasie-ou-au-suicide-assiste-en-belgique-et-en-suisse-en-2025_8108912.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/foot/la-relegation-des-girondins-de-bordeaux-en-regional-1-confirmee-par-la-dncg-le-club-de-foot-vers-la-liquidation-judiciaire_8108675.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +293,15 @@
    "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-feu-continue-sa-progression-dans-le-var-a-annonce-la-prefecture-dans-la-nuit-de-mardi-a-mercredi_8117303.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-le-revanchard-evenepoel-le-prodige-seixas-l-equipier-del-toro-une-lutte-electrique-entre-trois-hommes-pour-le-podium_8116367.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/series/si-cinquante-nuances-de-grey-sortait-aujourd-hui-ce-serait-sous-cette-forme-les-micro-dramas-futur-du-cinema-ou-nouvelle-arme-redoutable-dans-la-guerre-pour-notre-attention_8088434.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/inde/parti-des-cafards-colere-etudiante-gouvernement-fragilise-on-vous-explique-la-contestation-en-inde-ou-la-dispersion-d-une-manifestation-a-fait-au-moins-180-blesses_8116760.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/inde/parti-des-cafards-colere-etudiante-gouvernement-fragilise-on-vous-explique-la-contestation-en-inde-ou-la-dispersion-d-une-manifestation-a-fait-au-moins-180-blesses_8116760.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-400-personnes-evacuees-dans-le-var-a-annonce-la-prefecture-du-departement-dans-la-nuit-du-mardi-a-mercredi_8117357.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-recul-environnemental-de-trop-la-ministre-de-la-transition-ecologique-monique-barbut-demissionne-apres-l-adoption-definitive-de-la-loi-d-urgence-agricole_8117516.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/j-ai-le-sentiment-que-cedric-jubillar-vient-de-tuer-sa-femme-deux-fois-reagit-l-un-des-avocats-de-la-famille-de-delphine-aussaguel-horrifie-par-ses-declarations_8117435.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-a-lance-des-frappes-contre-des-cibles-iraniennes-pour-la-onzieme-nuit-consecutive_8117363.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/medias/les-frequences-fm-de-franceinfo-changent-le-22-juillet_8099549.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/fraude/plus-de-700-signalements-concernant-des-achats-de-climatiseurs-deposes-depuis-le-1er-juin-sur-signalconso_8117330.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/que-dit-la-science-sur-l-acetamipride-et-le-flupyradifurone-les-deux-pesticides-qui-pourraient-etre-reintroduits-apres-l-adoption-de-la-loi-d-urgence-agricole_8116079.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-pourquoi-les-bases-americaines-dans-la-region-sont-si-vulnerables-face-aux-drones-et-aux-missiles-iraniens_8116826.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -414,11 +414,6 @@
    "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/trump-lance-une-vaste-offensive-pour-changer-les-regles-electorales-aux-etats-unis-20260717",
-   "https://www.lefigaro.fr/medias/donald-trump-va-monetiser-l-acces-en-temps-reel-a-ses-publications-sur-truth-social-20260717",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-donald-trump-confirme-sa-presence-pour-la-finale-entre-l-espagne-et-l-argentine-20260716",
-   "https://www.lefigaro.fr/meteo/camions-renverses-arbres-deracines-toitures-endommagees-a-saint-etienne-les-images-d-une-tornade-destructrice-20260717",
-   "https://sante.lefigaro.fr/medecine/rein-pancreas-prostate-ou-lymphomes-une-nouvelle-signature-du-tabac-retrouvee-dans-l-adn-de-nombreux-cancers-20260716",
    "https://www.lefigaro.fr/international/la-france-souhaite-de-nouveau-delivrer-250-000-visas-par-an-aux-ressortissants-algeriens-20260717",
    "https://www.lefigaro.fr/international/approuvez-vous-la-volonte-de-l-ambassadeur-de-france-d-augmenter-le-nombre-de-visas-accordes-a-l-algerie-20260717",
    "https://www.lefigaro.fr/faits-divers/affaire-jubillar-cinq-ans-plus-tard-que-peuvent-encore-reveler-les-ossements-retrouves-20260717",
@@ -713,14 +708,14 @@
    "https://www.lefigaro.fr/conjoncture/trump-annonce-que-les-medicaments-generiques-seront-soumis-a-des-droits-de-douane-de-100-a-partir-d-aout-2028-20260722",
    "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-donald-trump-n-en-a-pas-fini-du-tout-avec-le-conflit-20260722",
    "https://www.lefigaro.fr/international/la-guerre-de-donald-trump-en-iran-met-le-pentagone-sous-pression-financiere-20260721",
-   "https://www.lefigaro.fr/flash-actu/malgre-la-perspective-d-une-hausse-du-taux-la-decollecte-massive-du-livret-a-s-est-poursuivie-en-juin-20260722"
+   "https://www.lefigaro.fr/flash-actu/malgre-la-perspective-d-une-hausse-du-taux-la-decollecte-massive-du-livret-a-s-est-poursuivie-en-juin-20260722",
+   "https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-le-var-le-feu-continue-de-progresser-a-une-vitesse-tres-importante-et-a-deja-parcouru-plus-de-1700-hectares-20260722",
+   "https://www.lefigaro.fr/actualite-france/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-dans-le-var-20260722",
+   "https://www.lefigaro.fr/conjoncture/incendie-dans-le-var-plus-de-2300-foyers-prives-d-electricite-principalement-a-cotignac-20260722",
+   "https://www.lefigaro.fr/marseille/il-a-fait-le-malin-alors-ils-ne-vont-pas-le-lacher-a-ales-une-etonnante-banalisation-de-la-violence-apres-les-menaces-de-mort-repetees-contre-le-maire-20260722",
+   "https://www.lefigaro.fr/marseille/maire-d-ales-menace-de-mort-par-la-dz-mafia-un-projet-d-action-violente-detecte-selon-laurent-nunez-qui-evoque-un-acte-d-intimidation-20260721"
   ],
   "https://www.france24.com/fr/rss": [
-   "4eb7d91a-8042-11f1-ad6b-3b2ca1c982e5",
-   "e80b95f4-8040-11f1-bc7b-25f7b62d78ab",
-   "c6da9aac-803f-11f1-8ba3-3b2ca1c982e5",
-   "3437d482-803d-11f1-88c7-3b2ca1c982e5",
-   "2be3f3e6-803e-11f1-85ca-25f7b62d78ab",
    "9a2f9f34-803a-11f1-b04d-9be305ce931d",
    "fb4736f8-802e-11f1-ad73-814e9f7f90b1",
    "b07224d2-802c-11f1-857a-753a6a028579",
@@ -1015,7 +1010,12 @@
    "1371290e-853a-11f1-a8e2-091484391995",
    "c4f34ee6-8567-11f1-be6e-bbd5aa1520ee",
    "ddaac99c-8561-11f1-9190-bbd5aa1520ee",
-   "c07c277e-8572-11f1-a4c8-67e7155633aa"
+   "c07c277e-8572-11f1-a4c8-67e7155633aa",
+   "9ccc2770-859a-11f1-b904-a37c7f360e9d",
+   "3a71e852-8591-11f1-a22e-3353155f7b93",
+   "90c60fdc-858f-11f1-96a4-ef9d0f25b305",
+   "9140e1b0-8578-11f1-9b81-a9a2a33ab7ab",
+   "3296563a-8533-11f1-a662-6565a0babe21"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1242,7 +1242,9 @@
    "7217cd2c-8554-11f1-a9e8-3f473cb7992d",
    "ff70da6e-8550-11f1-a7bb-b5c6c7cbce0e",
    "ee2a0f9e-8566-11f1-8d7e-1d80758aba5d",
-   "df6a840c-8575-11f1-8f3a-418930757acd"
+   "df6a840c-8575-11f1-8f3a-418930757acd",
+   "44bebc2a-859d-11f1-a16d-130526d1dfd8",
+   "f6851e34-8581-11f1-b441-172335c17309"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/monde/etats-unis/une-americaine-poursuivie-pour-avoir-etouffe-ses-jumeaux-apres-avoir-attribue-leur-mort-aux-vaccins-5c1f7364-7fe4-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1947,31 +1949,17 @@
    "https://www.lequipe.fr/Football/actu-en-direct/mercato-live/19546"
   ]
  },
- "en_attente_publication": [],
- "evenements_attente": [
+ "en_attente_publication": [
   {
-   "faits": [
-    "L'armée américaine a lancé de nouvelles frappes en Iran mardi soir",
-    "Il s'agit de la onzième nuit consécutive de frappes",
-    "Le ministre américain de la Défense estime le coût de la guerre en Iran à 37,5 milliards de dollars jusque fin septembre",
-    "Cette estimation représente une hausse de près de 30 % par rapport à la précédente évaluation de 29 milliards de dollars"
-   ],
-   "qui": "États-Unis (armée américaine, ministre de la Défense)",
-   "ou": "Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
+   "texte": "🌡️ Un incendie déclaré mardi dans le Var a parcouru 2550 hectares. Le feu, parti d'un champ à Pontevès, mobilisait 900 pompiers mercredi. Plus de 2300 foyers privés d'électricité à Cotignac. (franceinfo)",
+   "categorie": "meteo_catastrophe",
    "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 92,
-   "empreinte": "48ba031d7ec56f6c",
-   "score": 86,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T01:11:39.321445+00:00"
-  },
+    "franceinfo",
+    "Le Figaro"
+   ]
+  }
+ ],
+ "evenements_attente": [
   {
    "faits": [
     "Une épidémie d'Ébola sévit en RDC",
@@ -2021,6 +2009,58 @@
   },
   {
    "faits": [
+    "La galerie d'Apollon du Louvre rouvre au public mercredi 22 juillet",
+    "Elle avait fermé après un vol en octobre 2025",
+    "Huit joyaux de la Couronne de France avaient été dérobés en plein jour par un commando",
+    "Le vol avait utilisé un camion-nacelle",
+    "Les huit joyaux demeurent introuvables",
+    "La galerie rouvre sans vitrines ni bijoux exposés"
+   ],
+   "qui": "Musée du Louvre",
+   "ou": "Louvre, Paris",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "8f96c1422df580f5",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T07:27:08.919312+00:00"
+  },
+  {
+   "faits": [
+    "Le maire d'Alès Christophe Rivenq (LR) a été exfiltré de son domicile par le Raid",
+    "Cet exfiltrement s'est déroulé dans la nuit de lundi à mardi",
+    "Des balles de 9mm ont été retrouvées dans la boîte aux lettres de son domicile",
+    "Les services de renseignement ont détecté un 'projet d'action violente' probable le visant",
+    "Le ministre de l'Intérieur Laurent Nuñez évoque un 'acte d'intimidation'",
+    "Ces menaces proviendraient de la DZ Mafia"
+   ],
+   "qui": "Christophe Rivenq (maire d'Alès), DZ Mafia",
+   "ou": "Alès (Gard)",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "Identité précise des auteurs des menaces"
+   ],
+   "importance": 64,
+   "empreinte": "4c046bd18bcd27c1",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T07:26:57.331000+00:00"
+  },
+  {
+   "faits": [
     "Volodymyr Zelensky a limogé le commandant en chef de l'armée Oleksandr Syrsky",
     "Le ministre de la Défense Mykhailo Fedorov a été évincer",
     "L'Ukraine a mené plusieurs attaques en territoire russe",
@@ -2045,93 +2085,97 @@
   },
   {
    "faits": [
-    "Cédric Jubillar a reconnu être à l'origine de la mort de son épouse Delphine",
-    "Cette reconnaissance intervient après cinq ans et demi de silence et de dénégations",
-    "Il a d'abord avoué par courrier le 6 juillet",
-    "Il a confirmé ses aveux face aux enquêteurs le 15 juillet"
+    "L'International Testing Agency assure que tous les coureurs du Tour de France ont été contrôlés",
+    "Ces contrôles antidopage ont été menés par cet organisme indépendant"
    ],
-   "qui": "Cédric Jubillar, Delphine Jubillar",
+   "qui": "International Testing Agency",
+   "ou": "France (Tour de France)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 52,
+   "empreinte": "a4b574457f385206",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T07:27:08.919315+00:00"
+  },
+  {
+   "faits": [
+    "Le Parlement a adopté la loi d'urgence agricole",
+    "La loi prévoit notamment le doublement des volumes de stockage d'eau à des fins agricoles d'ici 2035",
+    "La loi sécurise l'eau pour la production agricole au détriment d'autres usagers"
+   ],
+   "qui": "Parlement français",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Impact exact sur les autres usagers de l'eau"
+   ],
+   "importance": 58,
+   "empreinte": "168b26d4fdc50c0b",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T07:27:08.919318+00:00"
+  },
+  {
+   "faits": [
+    "Le Premier ministre Sébastien Lecornu juge que les décisions budgétaires ne peuvent pas attendre la présidentielle",
+    "Il souhaite engager des 'réformes structurelles, modestes' dans le prochain budget",
+    "Il espère faire adopter ce budget 'dans l'hiver'",
+    "Il juge 'préoccupant' le niveau de la dette",
+    "Il n'est 'pas très optimiste' sur le respect des objectifs en matière de déficit public pour 2026 et 2027"
+   ],
+   "qui": "Sébastien Lecornu (Premier ministre)",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 56,
+   "empreinte": "76b021ce9970eda5",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T07:27:08.919320+00:00"
+  },
+  {
+   "faits": [
+    "Cédric Jubillar aurait fait des déclarations",
+    "Philippe Pressecq, avocat de la famille de Delphine Aussaguel, juge ces déclarations 'horrifiantes'",
+    "Pressecq reproche à Jubillar d'avoir 'joué la fable de l'innocence pendant cinq ans'"
+   ],
+   "qui": "Cédric Jubillar, Delphine Aussaguel, Philippe Pressecq (avocat)",
    "ou": "France",
    "categorie": "justice",
    "sensible": true,
-   "confiance": 88,
+   "confiance": 78,
    "sources": [
-    "BFMTV"
+    "franceinfo"
    ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "43d3c3c1b9cb63e2",
-   "score": 82,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T22:40:51.042908+00:00"
-  },
-  {
-   "faits": [
-    "Morgan Rogers s'engage à Chelsea pour 137 millions d'euros",
-    "Il devient le cinquième joueur le plus cher de l'histoire",
-    "Rogers a remporté la Ligue Europa avec Aston Villa",
-    "Il a atteint la demi-finale de la Coupe du monde avec l'Angleterre"
+   "non_confirme": [
+    "Nature exacte des déclarations de Cédric Jubillar",
+    "Interprétation de Pressecq sur les intentions de Jubillar"
    ],
-   "qui": "Morgan Rogers",
-   "ou": "Angleterre",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "69f8b24f3eeba576",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:27.250892+00:00"
-  },
-  {
-   "faits": [
-    "L'UEFA a sanctionné le CSKA Sofia pour des saluts nazis et des comportements violents de ses supporters",
-    "Les incidents se sont produits lors d'un match de qualification à la Ligue Europa en Irlande du Nord",
-    "Le club bulgare a écopé d'une amende de 50.000 €",
-    "Le CSKA Sofia a reçu une interdiction de vendre des billets pour son prochain déplacement"
-   ],
-   "qui": "CSKA Sofia, UEFA",
-   "ou": "Bulgarie",
-   "categorie": "sport",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
    "importance": 65,
-   "empreinte": "e1b8887f3509be11",
-   "score": 81,
-   "fiab_max": 85,
+   "empreinte": "cdd4823a8945b4b4",
+   "score": 80,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:18.570274+00:00"
-  },
-  {
-   "faits": [
-    "Trump annonce des droits de douane de 100% sur les médicaments génériques à partir d'août 2028",
-    "Cette mesure vise à relocaliser la production pharmaceutique sur le territoire américain"
-   ],
-   "qui": "Donald Trump",
-   "ou": "États-Unis",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "8d5227c4a92ce3ba",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:27.250897+00:00"
+   "depuis": "2026-07-22T07:26:57.330817+00:00"
   },
   {
    "faits": [
@@ -2207,254 +2251,27 @@
   },
   {
    "faits": [
-    "Guillermo Ochoa met un terme à sa carrière à 41 ans",
-    "Il a participé à 6 Coupes du monde",
-    "La dernière Coupe du monde à laquelle il a participé était en 2026",
-    "Il a cumulé 154 sélections avec l'équipe du Mexique",
-    "Il a évolué en Ligue 1 à Ajaccio entre 2011 et 2014"
+    "Plus de 700 signalements concernant des achats de climatiseurs ont été déposés depuis le 1er juin sur SignalConso",
+    "La répression des fraudes appelle à la vigilance face à des 'pratiques commerciales trompeuses'",
+    "Certains profitent de la canicule pour ces pratiques"
    ],
-   "qui": "Guillermo Ochoa",
-   "ou": "Mexique",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "e5127fde5ddc679e",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:27.250898+00:00"
-  },
-  {
-   "faits": [
-    "Andy Burnham, nouveau Premier ministre du Royaume-Uni, annonce la suppression de la TVA sur l'électricité",
-    "La mesure coûterait 850 millions de livres sterling (équivalent à 1 milliard de dollars)",
-    "John Healey a été nommé ministre des Finances",
-    "L'annonce a rassuré les marchés financiers"
-   ],
-   "qui": "Andy Burnham (Premier ministre britannique), John Healey (ministre des Finances)",
-   "ou": "Royaume-Uni",
+   "qui": "Direction générale de la concurrence, de la consommation et de la répression des fraudes",
+   "ou": "France",
    "categorie": "economie",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 82,
    "sources": [
-    "RFI"
+    "franceinfo"
    ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "d29bf5c9c0468947",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T22:41:00.635941+00:00"
-  },
-  {
-   "faits": [
-    "Fenerbahçe s'impose 1-0 à domicile face à Gornik Zabrze au 2e tour préliminaire aller de Ligue des champions",
-    "Mason Greenwood a disputé ses premières minutes avec Fenerbahçe en tant que remplaçant",
-    "Hearts a perdu 0-4 à l'extérieur contre Sturm Graz"
+   "non_confirme": [
+    "Détails spécifiques des pratiques trompeuses"
    ],
-   "qui": "Mason Greenwood, Fenerbahçe",
-   "ou": "Turquie",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "77c7187597bee5a9",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:27.250901+00:00"
-  },
-  {
-   "faits": [
-    "Malang Sarr s'engage avec Neom SC en Saudi Pro League",
-    "Le défenseur français était libre depuis la fin de son contrat avec le RC Lens en juin",
-    "Malang Sarr va retrouver plusieurs anciens de Ligue 1 comme Lacazette, Benrahma et Zézé"
-   ],
-   "qui": "Malang Sarr",
-   "ou": "Arabie saoudite",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "70910597606758c8",
+   "importance": 48,
+   "empreinte": "c226f787ed588de8",
    "score": 78,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:27.250902+00:00"
-  },
-  {
-   "faits": [
-    "Le PSG percevra près de 2,5 millions d'euros d'indemnisation de la FIFA suite à la Coupe du monde 2026",
-    "Cette indemnisation est basée sur la participation des joueurs du PSG à la Coupe du monde",
-    "Le PSG sera le deuxième club le mieux indemnisé après Manchester City",
-    "Manchester City percevra 3,1 millions d'euros"
-   ],
-   "qui": "PSG, Manchester City, FIFA",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "d787250ddc51f3b4",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:27.250903+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie dans le Var a parcouru 1.700 hectares",
-    "L'incendie progresse à une vitesse très importante",
-    "Deux sapeurs-pompiers sont morts lors d'une intervention contre un feu à Mérignac en Gironde",
-    "Le camion des deux pompiers a été 'piégé' par les flammes"
-   ],
-   "qui": null,
-   "ou": "France (Var, Gironde)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "8f5b4565b040bfe0",
-   "score": 77,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:18.570202+00:00"
-  },
-  {
-   "faits": [
-    "Donovan Léon s'engage avec Abha Club en Saudi Pro League",
-    "Le gardien de 33 ans avait disputé 252 rencontres avec l'AJ Auxerre"
-   ],
-   "qui": "Donovan Léon",
-   "ou": "Arabie saoudite",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "6c65052ba5a2ebcf",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:27.250904+00:00"
-  },
-  {
-   "faits": [
-    "Presnel Kimpembe quitte le Qatar SC",
-    "Il avait rejoint le club la saison dernière",
-    "Il a disputé 11 matches la saison dernière",
-    "Le défenseur âgé de 30 ans est libre de tout contrat"
-   ],
-   "qui": "Presnel Kimpembe",
-   "ou": "Qatar",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 40,
-   "empreinte": "1ae65f5ea3469d77",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:27.250906+00:00"
-  },
-  {
-   "faits": [
-    "Le président libanais Joseph Aoun a été reçu par Donald Trump à la Maison Blanche le 21 juillet 2026",
-    "Trump a déclaré vouloir 'beaucoup aider' le Liban",
-    "Un accord avec Israël parrainé par Washington est dans sa première phase"
-   ],
-   "qui": "Joseph Aoun, Donald Trump",
-   "ou": "Liban, États-Unis",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "20ba7ad5df7cbe2a",
-   "score": 75,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:18.570167+00:00"
-  },
-  {
-   "faits": [
-    "Au 143e jour de la guerre au Moyen-Orient, les États-Unis ont effectué des frappes contre l'Iran",
-    "Il s'agit du dixième jour consécutif de frappes",
-    "Les frappes ont eu lieu dans la nuit du lundi 20 au mardi 21 juillet",
-    "Donald Trump affirme que pour chaque soldat américain tué, l'Iran paiera 'plusieurs fois' le prix",
-    "Le président libanais a insisté auprès de Donald Trump sur le 'retrait total d'Israël' du Liban"
-   ],
-   "qui": "États-Unis, Iran, Israël, Donald Trump, Président libanais",
-   "ou": "Moyen-Orient, Liban",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "237257b8cddcdeb0",
-   "score": 75,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T22:40:51.042859+00:00"
-  },
-  {
-   "faits": [
-    "Morgan Rogers, international anglais, signe pour Chelsea",
-    "Il provient d'Aston Villa",
-    "Le transfert s'élève à 137 millions d'euros",
-    "Il devient le 5e joueur le plus cher de l'histoire",
-    "Le transfert a été annoncé le 21 juillet"
-   ],
-   "qui": "Morgan Rogers, Chelsea, Aston Villa",
-   "ou": "Royaume-Uni",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "b03fa08a1e183547",
-   "score": 75,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T22:41:00.635942+00:00"
+   "depuis": "2026-07-22T07:27:08.919324+00:00"
   },
   {
    "faits": [
@@ -2477,167 +2294,6 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-22T04:39:39.867391+00:00"
-  },
-  {
-   "faits": [
-    "Un projet de réintroduction des tigres au Cambodge est en cours",
-    "La population locale manifeste de la méfiance envers ce projet",
-    "Les craintes portent sur les attaques potentielles de tigres dues au manque de nourriture"
-   ],
-   "qui": null,
-   "ou": "Cambodge",
-   "categorie": "sciences",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "éventuelles attaques des félins"
-   ],
-   "importance": 50,
-   "empreinte": "b0901f8d96dfd2b7",
-   "score": 74,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:18.570146+00:00"
-  },
-  {
-   "faits": [
-    "Emmanuel Macron a visité Damas",
-    "Le représentant de la Syrie à l'ONU qualifie cette visite de 'pont entre le passé et l'avenir'"
-   ],
-   "qui": "Emmanuel Macron, Ibrahim Olabi",
-   "ou": "Syrie, Damas",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "187fd71d93095789",
-   "score": 74,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T23:44:18.570185+00:00"
-  },
-  {
-   "faits": [
-    "Un navire de guerre russe a mené des exercices de tir réel dans la Manche",
-    "Cela s'est produit entre l'Angleterre et la France",
-    "Le Royaume-Uni a dû élever le ton face à ces exercices",
-    "Le contexte concerne la guerre en Ukraine"
-   ],
-   "qui": "Russie, Royaume-Uni",
-   "ou": "Manche, entre Angleterre et France",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "e472b14fe8780629",
-   "score": 74,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T22:40:51.042766+00:00"
-  },
-  {
-   "faits": [
-    "Le projet de loi sur la protection des enfants a été largement adopté en première lecture",
-    "Une mesure marquante : l'imprescriptibilité des crimes commis sur des mineurs"
-   ],
-   "qui": "Parlement français",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "168b26d4fdc50c0b",
-   "score": 74,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T22:40:51.042833+00:00"
-  },
-  {
-   "faits": [
-    "Olivera Katarina, actrice et chanteuse serbe, est décédée",
-    "Elle était connue pour son rôle de tzigane dans un film récompensé à Cannes en 1967",
-    "Ce film avait reçu le Grand prix spécial du jury et le Prix de la critique internationale à Cannes",
-    "Elle est décédée à Belgrade"
-   ],
-   "qui": "Olivera Katarina",
-   "ou": "Belgrade, Serbie",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "49ce95efe4e57869",
-   "score": 73,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T22:40:51.042668+00:00"
-  },
-  {
-   "faits": [
-    "Le Parquet national antiterroriste a ouvert une enquête pour présumée torture",
-    "L'enquête concerne le traitement de deux participants d'une flottille pour Gaza",
-    "La flottille a été interceptée par Israël en octobre 2025",
-    "Parmi les victimes présumées figure la députée LFI Marie Mesmeur"
-   ],
-   "qui": "Parquet national antiterroriste, Israël, Marie Mesmeur (députée LFI)",
-   "ou": "France, Gaza",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "faits présumés de tortures"
-   ],
-   "importance": 65,
-   "empreinte": "f26869b912babf04",
-   "score": 73,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T22:40:51.042796+00:00"
-  },
-  {
-   "faits": [
-    "Le New Jersey a radié 6.600 ressortissants étrangers de ses listes électorales",
-    "Cette radiation fait suite à une erreur informatique",
-    "L'annonce intervient dans un contexte d'accusations de fraude électorale de Trump"
-   ],
-   "qui": "État du New Jersey, Donald Trump",
-   "ou": "New Jersey, États-Unis",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 72,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "ampleur réelle de l'erreur informatique"
-   ],
-   "importance": 68,
-   "empreinte": "1df3a4a001df5043",
-   "score": 72,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T01:11:39.321537+00:00"
   }
  ],
  "publies_48h": [
@@ -2720,6 +2376,10 @@
   [
    "482d25062d764999",
    "2026-07-22T04:39:55.484351+00:00"
+  ],
+  [
+   "bcb0708f8f32bdf7",
+   "2026-07-22T07:27:10.942819+00:00"
   ]
  ],
  "evenements_48h": [
@@ -2802,6 +2462,14 @@
   [
    "c76d05520c8b85d8",
    "2026-07-22T04:39:50.148800+00:00"
+  ],
+  [
+   "7cb4e463123c3c57",
+   "2026-07-22T07:27:02.690898+00:00"
+  ],
+  [
+   "9e0a1cfe211a8d55",
+   "2026-07-22T07:27:08.919303+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2812,12 +2480,13 @@
   "🇺🇦 Volodymyr Zelensky a limogé Oleksandre Syrsky, commandant en chef de l'armée ukrainienne depuis 2024. Le général de 60 ans est remplacé par Mykhaïlo Drapaty, 35 ans, ancien commandant des forces interarmées. (franceinfo)",
   "🌡️ Le ferry MV Barima a coulé dans la nuit de samedi à dimanche au Guyana après avoir été renversé par une grosse vague. Le bateau partait de Georgetown avec au moins 133 personnes à bord. Le bilan s'élève à au moins 41 morts selon les autorités du Guyana. (franceinfo)",
   "🌡️ Un incendie ravage le Var près de Cotignac. Les flammes ont parcouru 1 700 hectares, menaçant plusieurs communes. Environ 400 personnes évacuées, 2 300 foyers sans électricité. Près d'un millier de pompiers mobilisés. (franceinfo)",
-  "🇺🇸 Les États-Unis poursuivent pour la onzième nuit consécutive leurs frappes contre des cibles militaires en Iran, afin de neutraliser les menaces contre le trafic maritime du détroit d'Ormuz. (Le Figaro, Ouest-France)"
+  "🇺🇸 Les États-Unis poursuivent pour la onzième nuit consécutive leurs frappes contre des cibles militaires en Iran, afin de neutraliser les menaces contre le trafic maritime du détroit d'Ormuz. (Le Figaro, Ouest-France)",
+  "🇺🇸 L'armée américaine poursuit ses frappes contre l'Iran pour la onzième nuit consécutive pour affaiblir ses capacités au détroit d'Ormuz. Des explosions ont été entendues à Téhéran. En mer Rouge, trois pétroliers saoudiens font demi-tour face aux Houthis. (franceinfo)"
  ],
  "recap_date": "2026-07-21",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-22",
-  "publies": 8
+  "publies": 9
  }
 }
