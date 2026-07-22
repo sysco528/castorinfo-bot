@@ -728,7 +728,6 @@
    "https://www.lefigaro.fr/musique/la-musique-generee-par-ia-depasse-pour-la-premiere-fois-50-des-titres-mis-en-ligne-quotidiennement-sur-deezer-20260722"
   ],
   "https://www.france24.com/fr/rss": [
-   "c276b23a-8098-11f1-a628-0dc7afa07adf",
    "b972b454-8098-11f1-96fe-597803de63eb",
    "323e2606-80bd-11f1-b0c2-85fd8de9f78a",
    "3058f11c-80af-11f1-832d-01a8dedbb32f",
@@ -1027,7 +1026,8 @@
    "bad753c4-8609-11f1-80d6-23cdb201d611",
    "27d9c512-85fe-11f1-b041-fda11fdbb396",
    "85756ac2-85ff-11f1-ad0f-fda11fdbb396",
-   "a0d3787a-85fc-11f1-81c3-fda11fdbb396"
+   "a0d3787a-85fc-11f1-81c3-fda11fdbb396",
+   "964623be-8622-11f1-8d3b-a53119035be2"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1276,7 +1276,6 @@
    "a65fa736-8611-11f1-908a-b96b7307d1da"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/angleterre-argentine-je-suis-ecure-la-deception-dharry-kane-apres-lelimination-anglaise-en-demi-finale-0e956aaa-8097-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/espagne-argentine-une-premiere-la-finale-du-mondial-opposera-le-vainqueur-de-leuro-a-celui-de-la-copa-america-82109444-8094-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/pays-bas/plus-de-900-morts-excedentaires-pendant-la-vague-de-chaleur-aux-pays-bas-8933a464-8094-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-ce-groupe-ne-cesse-de-me-surprendre-dit-scaloni-apres-la-qualification-de-largentine-en-finale-8a37a144-8094-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1575,7 +1574,8 @@
    "https://www.ouest-france.fr/sport/football/equipe-algerie/nous-avons-traverse-des-moments-inoubliables-aissa-mandi-annonce-sa-retraite-internationale-avec-lalgerie-e7fa4d9c-860f-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/equipe-argentine/une-grave-desinformation-le-dementi-de-la-federation-argentine-apres-louverture-dune-enquete-par-le-fbi-b9c49d1e-8615-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/maltraitance-animale/marineland-le-transfert-de-huit-dauphins-vers-lespagne-a-commence-ccc0b4e6-85f9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/tennis/hugo-gaston/atp-250-destoril-hugo-gaston-domine-titouan-droguet-dans-un-choc-100-pourcent-francais-et-file-en-quart-de-finale-28e3b464-8611-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/tennis/hugo-gaston/atp-250-destoril-hugo-gaston-domine-titouan-droguet-dans-un-choc-100-pourcent-francais-et-file-en-quart-de-finale-28e3b464-8611-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/hauts-de-france/lens-62300/un-homme-simmole-par-le-feu-dans-le-pas-de-calais-sa-compagne-et-leur-nouveau-ne-gravement-blesses-40dcb7de-860a-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1710,7 +1710,9 @@
    "https://www.20minutes.fr/societe/4235860-20260722-affaire-epstein-malgre-mort-daniel-siad-parquet-paris-va-poursuivre-enquete?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/football/diaporama-4235723-images-decisions-arbitrales-plus-litigieuses-coupe-monde-2026?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/economie/4235854-20260722-prix-carburants-majorite-automobilistes-disent-avoir-renonce-sorties-familiales-loisirs?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/societe/4235714-20260722-secheresse-sentez-surveilles-voisins-periode-restrictions-eau-racontez?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/societe/4235714-20260722-secheresse-sentez-surveilles-voisins-periode-restrictions-eau-racontez?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4235866-20260723-gironde-violent-incendie-detruit-plus-1-400-hectares-milliers-personnes-evacuees?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/faits_divers/4235865-20260723-calais-homme-meurt-immolant-feu-blesse-grievement-compagne-nouveau?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1856,7 +1858,13 @@
    "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-affaire-epstein-les-intrigantes-morts-en-serie-22-07_VN-202607220696.html",
    "https://www.bfmtv.com/international/moyen-orient/iran/oeil-pour-oeil-l-iran-menace-d-une-riposte-puissante-en-cas-d-attaques-americaines-sur-ses-infrastructures-civiles_AD-202607220693.html",
    "https://www.bfmtv.com/police-justice/video-mort-de-daniel-siad-c-est-incomprehensible-que-ce-monsieur-soit-mort-sans-jamais-avoir-ete-inquiete-ni-entendu-ou-auditionne-declare-mathias-darmon-avocat-de-l-association-innocence-en-danger_VN-202607220692.html",
-   "https://www.bfmtv.com/police-justice/douze-enfants-de-4-mois-a-7-ans-retrouves-dans-une-voiture-deux-assistantes-maternelles-accusees-de-tenir-une-creche-illegale-dans-l-essonne_AV-202607220691.html"
+   "https://www.bfmtv.com/police-justice/douze-enfants-de-4-mois-a-7-ans-retrouves-dans-une-voiture-deux-assistantes-maternelles-accusees-de-tenir-une-creche-illegale-dans-l-essonne_AV-202607220691.html",
+   "https://www.bfmtv.com/grand-lille/un-homme-tente-de-tuer-sa-conjointe-et-son-bebe-avant-de-se-suicider-a-lens_AN-202607220689.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-dans-le-var-les-images-du-feu-vues-du-ciel_VN-202607220688.html",
+   "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-il-pour-il-l-iran-menace-trump-22-07_VN-202607220687.html",
+   "https://www.bfmtv.com/international/moyen-orient/iran/video-il-pour-il-l-iran-menace-les-etats-unis-d-une-riposte-puissante-et-decisive_VN-202607220684.html",
+   "https://www.bfmtv.com/lyon/face-aux-canicules-successives-ce-village-du-rhone-a-decide-d-arreter-de-faire-sonner-les-cloches-la-nuit_AV-202607220682.html",
+   "https://www.bfmtv.com/alsace/un-veritable-pillage-une-filiere-de-recolte-illegale-de-myrtilles-demantelee-en-alsace_AN-202607220679.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -1993,63 +2001,21 @@
    "https://www.lequipe.fr/Football/Actualites/Mercato-presnel-kimpembe-quitte-le-qatar-sc-apres-une-saison/1706265",
    "https://www.lequipe.fr/Football/Actualites/Le-psg-va-percevoir-pres-de-2-5-millions-d-euros-d-indemnisation-verses-par-la-fifa-grace-a-la-coupe-du-monde/1706262",
    "https://www.lequipe.fr/Football/Actualites/Salue-par-les-uns-regrette-par-quelques-autres-en-argentine-pas-de-polemique-sur-le-comportement-de-leandro-paredes-en-finale-de-la-coupe-du-monde/1706261",
-   "https://www.lequipe.fr/Football/actu-en-direct/mercato-live/19546"
+   "https://www.lequipe.fr/Football/actu-en-direct/mercato-live/19546",
+   "https://www.lequipe.fr/Football/Article/L-om-contraint-de-moins-depenser-sur-ce-mercato-et-si-c-etait-finalement-une-bonne-nouvelle-pour-la-saison-a-venir/1706366",
+   "https://www.lequipe.fr/Football/Actualites/-n-golo-kante-voulait-representer-le-mali-l-attaquant-anglais-jamie-vardy-devoile-les-hesitations-de-son-ancien-coequipier/1706456",
+   "https://www.lequipe.fr/Football/Actualites/Michel-der-zakarian-sur-le-futur-de-mostafa-mohamed-au-fc-nantes-il-sera-avec-la-reserve-jusqu-a-la-fin-du-mercato/1706451",
+   "https://www.lequipe.fr/Football/Actualites/Mercato-la-mls-ouvre-une-enquete-sur-la-signature-de-casemiro-avec-l-inter-miami/1706449",
+   "https://www.lequipe.fr/Football/Actualites/Un-ballon-d-or-a-t-il-deja-ete-sacre-apres-une-saison-sans-titre/1706317",
+   "https://www.lequipe.fr/Football/Article/Le-real-madrid-prepare-son-prochain-gros-coup-au-mercato-piste-rodri-est-dispose-a-rejoindre-l-equipe-de-jose-mourinho/1706440",
+   "https://www.lequipe.fr/Football/Actualites/Plus-de-temps-de-jeu-moins-de-fautes-et-des-buteurs-efficaces-les-nouvelles-regles-de-la-fifa-ont-elles-porte-leurs-fruits-a-la-coupe-du-monde/1706382",
+   "https://www.lequipe.fr/Football/Actualites/Le-defenseur-de-l-algerie-aissa-mandi-annonce-sa-retraite-internationale/1706429",
+   "https://www.lequipe.fr/Football/Article/D-abord-gardien-puis-entraineur-des-gardiens-qui-a-fait-eclore-ederson-et-jan-oblak-hugo-oliveira-entend-placer-ce-poste-au-centre-de-sa-tactique-a-strasbourg/1706336",
+   "https://www.lequipe.fr/Football/Article/La-coupe-du-monde-2038-en-france-un-horizon-lointain-et-une-candidature-qui-ne-sera-pas-forcement-possible/1706199"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Les restrictions d'eau concernent plus de la moitié des départements français",
-    "L'utilisation rare de l'eau peut mener à des conflits de voisinage"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "20 Minutes",
-    "Le Figaro",
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "fbf188010e048c67",
-   "score": 91,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-22T22:29:52.720956+00:00"
-  },
-  {
-   "faits": [
-    "Deux sapeurs-pompiers de 34 ans, tous deux du centre de secours de Saint-Médard-en-Jalles en Gironde, sont décédés",
-    "Ils ont péri piégés dans un incendie de pins aux abords de l'aéroport de Bordeaux-Mérignac",
-    "Le décès s'est produit mardi 21 juillet (rapporté le 22 juillet)",
-    "Les circonstances exactes restent à établir",
-    "Le système d'autoprotection du camion-citerne est au cœur des interrogations",
-    "Des drapeaux ont été mis en berne en hommage"
-   ],
-   "qui": "Deux sapeurs-pompiers du centre de secours de Saint-Médard-en-Jalles",
-   "ou": "Saint-Médard-en-Jalles, Gironde, abords de l'aéroport de Bordeaux-Mérignac",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Si le système d'autoprotection a fonctionné",
-    "Si l'équipage a été encerclé trop rapidement"
-   ],
-   "importance": 85,
-   "empreinte": "be61e4316c565c95",
-   "score": 91,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T20:02:39.372618+00:00"
-  },
   {
    "faits": [
     "Nicolas Maduro, ancien président du Venezuela, a été emprisonné aux États-Unis",
@@ -2591,6 +2557,27 @@
   },
   {
    "faits": [
+    "La MLS a ouvert une enquête sur le transfert de Casemiro à l'Inter Miami",
+    "Casemiro a rejoint l'Inter Miami alors que ses droits de découverte du Championnat nord-américain appartenaient au Los Angeles Galaxy"
+   ],
+   "qui": "Casemiro, MLS, Inter Miami, Los Angeles Galaxy",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "9938df5546195b81",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T23:35:23.936706+00:00"
+  },
+  {
+   "faits": [
     "Aïssa Mandi (123 sélections) a annoncé sa retraite internationale avec l'Algérie",
     "Champion d'Afrique en 2019 avec les Fennecs",
     "Défenseur central ayant conclu 13 ans de carrière internationale",
@@ -2640,6 +2627,28 @@
   },
   {
    "faits": [
+    "Aïssa Mandi a annoncé sa retraite internationale le 22 juillet 2026",
+    "Le défenseur algérien compte 122 sélections",
+    "Il a 34 ans et termine sa carrière internationale après plus d'une décennie sous le maillot des Fennecs"
+   ],
+   "qui": "Aïssa Mandi",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "76c93f26f52db846",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T23:35:23.936712+00:00"
+  },
+  {
+   "faits": [
     "Hugo Gaston a battu Titouan Droguet au deuxième tour de l'ATP 250 d'Estoril",
     "Les deux joueurs sont français et partenaires de double à Roland-Garros",
     "Gaston s'est qualifié pour les quarts de finale",
@@ -2663,6 +2672,52 @@
   },
   {
    "faits": [
+    "Les États-Unis et l'Iran ont échangé des menaces le 22 juillet 2026",
+    "Donald Trump a menacé l'Iran de répliques sur des ponts et centrales électriques en cas d'attaque de navire dans le détroit d'Ormuz",
+    "Le ministre iranien des Affaires étrangères Abbas Araghchi a répondu en menaçant une riposte 'puissante et décisive'"
+   ],
+   "qui": "Donald Trump (États-Unis), Abbas Araghchi (Iran)",
+   "ou": "Détroit d'Ormuz",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "d33e780dfc5feb50",
+   "score": 75,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T23:35:23.936716+00:00"
+  },
+  {
+   "faits": [
+    "Le Real Madrid envisage de recruter Rodri du Manchester City",
+    "Rodri est disposé à rejoindre le Real Madrid",
+    "Le Real Madrid cherche un successeur à Toni Kroos au milieu de terrain"
+   ],
+   "qui": "Real Madrid, Rodri, Manchester City",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [
+    "Le transfert reste à confirmer"
+   ],
+   "importance": 55,
+   "empreinte": "baa923ed2e6a4096",
+   "score": 74,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T23:35:10.972057+00:00"
+  },
+  {
+   "faits": [
     "Le chargement de huit dauphins de Marineland vers Malaga en Espagne a commencé",
     "Douze dauphins au total doivent rejoindre Malaga",
     "Le chargement s'est déroulé mercredi 22 juillet en présence d'associations de défense des animaux"
@@ -2682,63 +2737,9 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-22T22:29:40.299631+00:00"
-  },
-  {
-   "faits": [
-    "La Fédération argentine de football (AFA) a démenti une assignation à comparaître du FBI",
-    "L'assignation visait le président Claudio Tapia et le trésorier Pablo Toviggino",
-    "L'AFA qualifie cela de 'grave désinformation'"
-   ],
-   "qui": "Fédération argentine de football ; FBI ; Claudio Tapia ; Pablo Toviggino",
-   "ou": "Argentine",
-   "categorie": "sport",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "La réalité de l'assignation du FBI"
-   ],
-   "importance": 50,
-   "empreinte": "1bfef404fb044008",
-   "score": 72,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T22:29:40.299586+00:00"
-  },
-  {
-   "faits": [
-    "Selon une étude Ifop pour la Fondation Jean-Jaurès, la majorité des automobilistes ont renoncé à des sorties familiales ou de loisirs",
-    "Les automobilistes réduisent leurs déplacements, loisirs et projets de vacances",
-    "La cause est la hausse des prix des carburants"
-   ],
-   "qui": "Ifop ; Fondation Jean-Jaurès",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "c98b1e1598c264cc",
-   "score": 72,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T22:29:40.299888+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "ad4ff8335456d783",
-   "2026-07-20T22:37:33.166925+00:00"
-  ],
-  [
-   "eb9db5cff2ac4e8d",
-   "2026-07-20T22:37:37.169692+00:00"
-  ],
   [
    "24d33ad4fa892a10",
    "2026-07-20T23:38:32.721940+00:00"
@@ -2818,17 +2819,17 @@
   [
    "f66901d33dadb3e2",
    "2026-07-22T22:29:57.674387+00:00"
+  ],
+  [
+   "8e90220f961bf615",
+   "2026-07-22T23:35:25.003393+00:00"
+  ],
+  [
+   "030d88ccc2452c1a",
+   "2026-07-22T23:35:28.956306+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "87576f7186bb7fa3",
-   "2026-07-20T22:37:27.789550+00:00"
-  ],
-  [
-   "91d96a2a5998ef34",
-   "2026-07-20T22:37:32.025222+00:00"
-  ],
   [
    "2759d769f825ed2e",
    "2026-07-20T23:38:27.199351+00:00"
@@ -2908,16 +2909,26 @@
   [
    "cf4369f568c0592c",
    "2026-07-22T22:29:52.720948+00:00"
+  ],
+  [
+   "fdaafea73c6a5b94",
+   "2026-07-22T23:35:15.776513+00:00"
+  ],
+  [
+   "be61e4316c565c95",
+   "2026-07-22T23:35:23.936679+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚡ FLASH — Au moins 44 000 hectares ont brûlé en France en 2026. Le ministre de l'Intérieur Laurent Nuñez l'a annoncé mercredi à Bordeaux. Trois pompiers sont morts en deux semaines, 128 personnes interpellées. (franceinfo, France 24)",
-  "⚡ FLASH — Deux sapeurs-pompiers sont morts en Gironde lors d'interventions contre des incendies majeurs. Plus de 1.000 hectares brûlent au bassin d'Arcachon et à Saumos. Plusieurs milliers d'habitants évacués. Un incendie s'est aussi déclaré près de Madrid. (RFI, BFMTV)"
+  "⚡ FLASH — Deux sapeurs-pompiers sont morts en Gironde lors d'interventions contre des incendies majeurs. Plus de 1.000 hectares brûlent au bassin d'Arcachon et à Saumos. Plusieurs milliers d'habitants évacués. Un incendie s'est aussi déclaré près de Madrid. (RFI, BFMTV)",
+  "⚡ FLASH — Deux sapeurs-pompiers sont décédés en Gironde lors d'interventions contre des incendies majeurs. Plus de 4.600 personnes évacuées, 1.400 hectares brûlés au nord d'Arcachon. Dans le Var, 2.500 hectares ravagés. (France 24)",
+  "Deux sapeurs-pompiers de 34 ans du centre de secours de Saint-Médard-en-Jalles (Gironde) ont péri piégés dans un incendie de pins mardi 21 juillet, près de l'aéroport de Bordeaux-Mérignac. Les circonstances restent à établir. (franceinfo)"
  ],
  "recap_date": "2026-07-22",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-23",
-  "publies": 2
+  "publies": 4
  }
 }
