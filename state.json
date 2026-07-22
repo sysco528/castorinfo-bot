@@ -716,8 +716,6 @@
    "https://www.lefigaro.fr/conjoncture/trump-annonce-que-les-medicaments-generiques-seront-soumis-a-des-droits-de-douane-de-100-a-partir-d-aout-2028-20260722"
   ],
   "https://www.france24.com/fr/rss": [
-   "1acd0f6e-8031-11f1-b09b-753a6a028579",
-   "eae4f38a-802f-11f1-b60d-753a6a028579",
    "e6bf61ee-7fb9-11f1-a04e-53c2522f1d6a",
    "4eb7d91a-8042-11f1-ad6b-3b2ca1c982e5",
    "e80b95f4-8040-11f1-bc7b-25f7b62d78ab",
@@ -1015,7 +1013,9 @@
    "cb90dcb8-8540-11f1-9b1f-b581c81e75aa",
    "779f7666-853e-11f1-9597-e135bef4ab1b",
    "64ea077a-853e-11f1-8c11-091484391995",
-   "1371290e-853a-11f1-a8e2-091484391995"
+   "1371290e-853a-11f1-a8e2-091484391995",
+   "c4f34ee6-8567-11f1-be6e-bbd5aa1520ee",
+   "ddaac99c-8561-11f1-9190-bbd5aa1520ee"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1663,7 +1663,9 @@
    "https://www.20minutes.fr/societe/4235630-20260721-bordeaux-deux-pompiers-trouvent-mort-lors-incendie-pres-aeroport?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/ukraine/4235515-20260721-direct-guerre-ukraine-nouveau-premier-ministre-anglais-soutient-zelensky-multiples-attaques-entre-belligerants?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/ukraine/4235660-20260721-guerre-ukraine-important-incendie-mer-noire-russie-navigue-tirs-reels-manche?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/societe/4235659-20260721-pedocriminalite-projet-loi-protection-enfants-largement-adopte-premiere-lecture?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/societe/4235659-20260721-pedocriminalite-projet-loi-protection-enfants-largement-adopte-premiere-lecture?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/faits_divers/4235675-20260722-puy-dome-enquete-ouverte-apres-enlevement-sequestration-pere-superieur-abbaye?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235676-20260722-etats-unis-apres-accusations-fraude-trump-new-jersey-corrige-listes-electorales?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1947,96 +1949,26 @@
  "evenements_attente": [
   {
    "faits": [
-    "Monique Barbut, ministre de la Transition écologique, va démissionner d'ici à mercredi matin 22 juillet",
-    "La démission intervient après l'adoption de la loi d'urgence agricole le 20 juillet",
-    "Monique Barbut était opposée à la réintroduction des pesticides"
+    "L'armée américaine a lancé de nouvelles frappes en Iran mardi soir",
+    "Il s'agit de la onzième nuit consécutive de frappes",
+    "Le ministre américain de la Défense estime le coût de la guerre en Iran à 37,5 milliards de dollars jusque fin septembre",
+    "Cette estimation représente une hausse de près de 30 % par rapport à la précédente évaluation de 29 milliards de dollars"
    ],
-   "qui": "Monique Barbut",
-   "ou": "France",
-   "categorie": "politique",
+   "qui": "États-Unis (armée américaine, ministre de la Défense)",
+   "ou": "Iran",
+   "categorie": "international",
    "sensible": true,
    "confiance": 85,
    "sources": [
-    "Ouest-France",
-    "20 Minutes"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "ab6dfbc96e4486a2",
-   "score": 90,
-   "fiab_max": 80,
-   "nb_sources": 2,
-   "depuis": "2026-07-21T21:43:27.415553+00:00"
-  },
-  {
-   "faits": [
-    "Volodymyr Zelensky limoge Oleksandre Syrsky, commandant en chef de l'armée ukrainienne depuis 2024",
-    "Oleksandre Syrsky, 60 ans, est remplacé par Mykhaïlo Drapaty, 35 ans, commandant des forces interarmées",
-    "Mykhaïlo Drapaty est décrit comme populaire"
-   ],
-   "qui": "Volodymyr Zelensky, Oleksandre Syrsky, Mykhaïlo Drapaty",
-   "ou": "Ukraine",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "204deaaa1fb728a7",
-   "score": 87,
-   "fiab_max": 90,
+   "importance": 92,
+   "empreinte": "48ba031d7ec56f6c",
+   "score": 86,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-21T21:43:27.415555+00:00"
-  },
-  {
-   "faits": [
-    "Le ferry MV Barima a coulé dans la nuit de samedi à dimanche au Guyana",
-    "Le bateau partait de Georgetown avec au moins 133 personnes à bord",
-    "Le ferry a été renversé par une grosse vague",
-    "Le bilan des autorités s'élève à au moins 41 morts",
-    "Un précédent bilan faisait état de 27 morts et 83 disparus"
-   ],
-   "qui": "Autorités du Guyana",
-   "ou": "Guyana, Georgetown",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "30f87c713ecaf801",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T20:23:42.240424+00:00"
-  },
-  {
-   "faits": [
-    "Kaylee Hottle, actrice américaine connue pour ses rôles dans 'Godzilla', est décédée à 18 ans",
-    "Elle est morte dans un accident de voiture",
-    "Les autorités évoquent un excès de vitesse comme cause probable",
-    "Elle était l'une des rares jeunes actrices sourdes à s'imposer dans une superproduction hollywoodienne",
-    "Elle a joué le rôle de 'Jia' dans Godzilla"
-   ],
-   "qui": "Kaylee Hottle",
-   "ou": null,
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "4efa715d8acf6a0e",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T22:41:00.635926+00:00"
+   "depuis": "2026-07-22T01:11:39.321445+00:00"
   },
   {
    "faits": [
@@ -2063,49 +1995,6 @@
   },
   {
    "faits": [
-    "Douze Palestiniens ont été tués par des bombardements israéliens à Gaza-ville le 21 juillet",
-    "Parmi les victimes figurent six membres d'une même famille, dont des enfants"
-   ],
-   "qui": "Israël",
-   "ou": "Gaza",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "8882f2ae6b5755fe",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T18:58:37.663287+00:00"
-  },
-  {
-   "faits": [
-    "Un père de famille a tiré sur des gendarmes en Loire avant de se suicider en présence de ses enfants",
-    "Les gendarmes se sont abrités et n'ont pas été blessés",
-    "Un gendarme a ouvert le feu à une reprise en direction du tireur sans l'atteindre"
-   ],
-   "qui": "Père de famille (non nommé)",
-   "ou": "Loire",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "a0d10b22967f6fb5",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T18:58:37.663240+00:00"
-  },
-  {
-   "faits": [
     "Cédric Jubillar a reconnu être à l'origine de la mort de son épouse Delphine",
     "Cette reconnaissance intervient après cinq ans et demi de silence et de dénégations",
     "Il a d'abord avoué par courrier le 6 juillet",
@@ -2129,6 +2018,28 @@
   },
   {
    "faits": [
+    "Donald Trump annonce des droits de douane de 100 % sur les médicaments génériques",
+    "Cette mesure entrera en vigueur à partir d'août 2028",
+    "L'objectif affirmé est de relocaliser la production de produits pharmaceutiques sur le territoire américain"
+   ],
+   "qui": "Donald Trump (président des États-Unis)",
+   "ou": "États-Unis",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "47802a97e3e0998e",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T01:11:53.690280+00:00"
+  },
+  {
+   "faits": [
     "Morgan Rogers s'engage à Chelsea pour 137 millions d'euros",
     "Il devient le cinquième joueur le plus cher de l'histoire",
     "Rogers a remporté la Ligue Europa avec Aston Villa",
@@ -2149,50 +2060,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T23:44:27.250892+00:00"
-  },
-  {
-   "faits": [
-    "Lors de l'assemblée générale des copropriétaires de la Tour Montparnasse du 21 juillet, le gestionnaire d'actifs LFPI (qui détient 30% de la Tour) a demandé l'abandon du méga projet de rénovation",
-    "LFPI souhaite revenir à une rénovation moins ambitieuse et moins coûteuse",
-    "Cette demande a été acceptée par les copropriétaires"
-   ],
-   "qui": "LFPI, copropriétaires de la Tour Montparnasse",
-   "ou": "Paris",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "90bd65527a1b809d",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T18:58:37.663944+00:00"
-  },
-  {
-   "faits": [
-    "Le président américain Donald Trump a rencontré son homologue libanais Joseph Aoun à la Maison blanche le 21 juillet",
-    "Trump a déclaré vouloir 'aider' le Liban",
-    "Trump a déploré que le Liban ait été 'très maltraité' pendant longtemps"
-   ],
-   "qui": "Donald Trump, Joseph Aoun",
-   "ou": "États-Unis, Liban",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "fdc868d4aadd4117",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-21T18:58:37.663945+00:00"
   },
   {
    "faits": [
@@ -2625,17 +2492,58 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-21T22:40:51.042796+00:00"
+  },
+  {
+   "faits": [
+    "Le New Jersey a radié 6.600 ressortissants étrangers de ses listes électorales",
+    "Cette radiation fait suite à une erreur informatique",
+    "L'annonce intervient dans un contexte d'accusations de fraude électorale de Trump"
+   ],
+   "qui": "État du New Jersey, Donald Trump",
+   "ou": "New Jersey, États-Unis",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 72,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "ampleur réelle de l'erreur informatique"
+   ],
+   "importance": 68,
+   "empreinte": "1df3a4a001df5043",
+   "score": 72,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T01:11:39.321537+00:00"
+  },
+  {
+   "faits": [
+    "Le père supérieur de l'abbaye de Bellaigue dans le Puy-de-Dôme a été enlevé et séquestré",
+    "La séquestration a duré deux jours en juin",
+    "Une enquête a été ouverte",
+    "L'enquête privilégie la piste de tensions internes au monastère"
+   ],
+   "qui": "Père supérieur de l'abbaye de Bellaigue",
+   "ou": "Puy-de-Dôme, abbaye de Bellaigue",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "piste de tensions internes au monastère"
+   ],
+   "importance": 55,
+   "empreinte": "c33f7a0b2ca426c1",
+   "score": 71,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T01:11:39.321510+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "01b6b2a52a911c22",
-   "2026-07-20T00:16:49.859231+00:00"
-  ],
-  [
-   "65522af05191190a",
-   "2026-07-20T00:16:53.773060+00:00"
-  ],
   [
    "4fde782df30526cd",
    "2026-07-20T04:11:32.080829+00:00"
@@ -2707,17 +2615,17 @@
   [
    "b28d73e9333fb1d9",
    "2026-07-21T23:44:32.749751+00:00"
+  ],
+  [
+   "c96707eae0104603",
+   "2026-07-22T01:11:55.078114+00:00"
+  ],
+  [
+   "a4fb33923063884e",
+   "2026-07-22T01:11:59.141074+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "d6060f251f69d4bc",
-   "2026-07-20T00:16:44.803423+00:00"
-  ],
-  [
-   "ee7aef1837361608",
-   "2026-07-20T00:16:48.785789+00:00"
-  ],
   [
    "094fd1788d9a0687",
    "2026-07-20T04:11:26.154506+00:00"
@@ -2789,18 +2697,28 @@
   [
    "2ea2c92db72066e9",
    "2026-07-21T23:44:27.250874+00:00"
+  ],
+  [
+   "204deaaa1fb728a7",
+   "2026-07-22T01:11:48.915189+00:00"
+  ],
+  [
+   "30f87c713ecaf801",
+   "2026-07-22T01:11:53.690265+00:00"
   ]
  ],
  "depeches_du_jour": [
   "🇫🇷 Le Parlement français a adopté le 21 juillet une loi interdisant les réseaux sociaux aux moins de 15 ans, une première en Europe. La mesure entre en vigueur en septembre. (Le Figaro, RFI, France 24)",
   "🇫🇷 Le Parlement français a adopté le 21 juillet une loi d'urgence agricole autorisant deux pesticides néonicotinoïdes jusque-là interdits en France. Le Sénat a approuvé le texte par 214 voix contre 111. La ministre Monique Barbut démissionnera en désaccord. (franceinfo)",
   "Deux sapeurs-pompiers sont décédés mardi après-midi lors d'une intervention contre un incendie près de l'aéroport de Bordeaux à Mérignac, en Gironde. Le sinistre est désormais fixé. (RFI, 20 Minutes, BFMTV)",
-  "⚡ FLASH — Un violent incendie ravage le Var depuis le 21 juillet, consumant 1 700 hectares près de Cotignac. Le feu progresse à vitesse très importante. Plus de 600 pompiers sont mobilisés et 400 personnes évacuées. (RFI, BFMTV)"
+  "⚡ FLASH — Un violent incendie ravage le Var depuis le 21 juillet, consumant 1 700 hectares près de Cotignac. Le feu progresse à vitesse très importante. Plus de 600 pompiers sont mobilisés et 400 personnes évacuées. (RFI, BFMTV)",
+  "🇺🇦 Volodymyr Zelensky a limogé Oleksandre Syrsky, commandant en chef de l'armée ukrainienne depuis 2024. Le général de 60 ans est remplacé par Mykhaïlo Drapaty, 35 ans, ancien commandant des forces interarmées. (franceinfo)",
+  "🌡️ Le ferry MV Barima a coulé dans la nuit de samedi à dimanche au Guyana après avoir été renversé par une grosse vague. Le bateau partait de Georgetown avec au moins 133 personnes à bord. Le bilan s'élève à au moins 41 morts selon les autorités du Guyana. (franceinfo)"
  ],
  "recap_date": "2026-07-21",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-22",
-  "publies": 4
+  "publies": 6
  }
 }
