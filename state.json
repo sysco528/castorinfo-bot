@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/patios-loggias-vegetalisees-jardin-interieur-a-la-decouverte-d-un-immeuble-bioclimatique-concu-pour-resister-naturellement-a-la-chaleur_8107808.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/justice-proces/proces-des-assistants-d-eurodeputes-du-front-national-le-parquet-general-ne-se-pourvoit-pas-en-cassation_8108705.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/euthanasie/loi-sur-la-fin-de-vie-francois-xavier-bellamy-denonce-une-regression-incroyable_8108699.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/elections/presidentielle/le-parti-renaissance-engage-des-poursuites-contre-le-rn-apres-le-lancement-de-la-campagne-de-marine-le-pen-pour-la-presidentielle-2027_8108714.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-les-supporters-vont-ils-enfin-avoir-un-jour-ferie-si-l-angleterre-remporte-la-coupe-du-monde_8108657.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement-sexuel/six-anciennes-mannequins-portent-plainte-contre-l-ex-patron-d-elite-europe-pour-viol-et-traite-d-etres-humains_8108645.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-fondation-du-patrimoine-lance-une-collecte-pour-financer-des-mesures-d-urgence-et-de-prevention-contre-les-feux-de-forets_8108735.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-limoge-le-commandant-en-chef-de-son-armee_8117009.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/palestine/gaza/arrestation-de-la-flottille-pour-gaza-par-israel-le-parquet-national-antiterroriste-francais-ouvre-une-nouvelle-enquete-pour-tortures_8116964.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/cinema/la-jeune-actrice-kaylee-hottle-connu-pour-ses-roles-dans-godzilla-meurt-a-18-ans-dans-un-accident-de-voiture_8117033.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/protoxyde-d-azote-rodeos-urbains-free-parties-le-parlement-adopte-definitivement-le-projet-de-loi-ripost-sur-la-tranquillite-publique_8117027.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/politique/protoxyde-d-azote-rodeos-urbains-free-parties-le-parlement-adopte-definitivement-le-projet-de-loi-ripost-sur-la-tranquillite-publique_8117027.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-feu-continue-sa-progression-dans-le-var-a-annonce-la-prefecture-dans-la-nuit-de-mardi-a-mercredi_8117303.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-le-revanchard-evenepoel-le-prodige-seixas-l-equipier-del-toro-une-lutte-electrique-entre-trois-hommes-pour-le-podium_8116367.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/series/si-cinquante-nuances-de-grey-sortait-aujourd-hui-ce-serait-sous-cette-forme-les-micro-dramas-futur-du-cinema-ou-nouvelle-arme-redoutable-dans-la-guerre-pour-notre-attention_8088434.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/inde/parti-des-cafards-colere-etudiante-gouvernement-fragilise-on-vous-explique-la-contestation-en-inde-ou-la-dispersion-d-une-manifestation-a-fait-au-moins-180-blesses_8116760.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -414,9 +414,6 @@
    "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/ingerences-chinoises-machines-a-voter-election-de-2020-donald-trump-promet-des-revelations-dans-son-discours-aux-americains-20260716",
-   "https://www.lefigaro.fr/international/un-agent-operant-le-prompteur-de-trump-suspendu-pour-avoir-parie-de-l-argent-sur-les-discours-du-president-americain-20260716",
-   "https://www.lefigaro.fr/international/en-direct-etats-unis-suivez-le-discours-de-donald-trump-qui-promet-des-revelations-lors-d-un-discours-a-la-nation-20260717",
    "https://www.lefigaro.fr/international/trump-lance-une-vaste-offensive-pour-changer-les-regles-electorales-aux-etats-unis-20260717",
    "https://www.lefigaro.fr/medias/donald-trump-va-monetiser-l-acces-en-temps-reel-a-ses-publications-sur-truth-social-20260717",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-donald-trump-confirme-sa-presence-pour-la-finale-entre-l-espagne-et-l-argentine-20260716",
@@ -713,10 +710,12 @@
    "https://www.lefigaro.fr/actualite-france/incendie-de-fontainebleau-un-canadair-endommage-retire-des-operations-20260721",
    "https://www.lefigaro.fr/flash-actu/le-nouveau-premier-ministre-britannique-andy-burnham-travaillera-depuis-manchester-au-moins-un-jour-par-semaine-20260721",
    "https://www.lefigaro.fr/politique/le-parlement-adopte-definitivement-le-projet-de-loi-ripost-sur-la-tranquillite-publique-20260721",
-   "https://www.lefigaro.fr/conjoncture/trump-annonce-que-les-medicaments-generiques-seront-soumis-a-des-droits-de-douane-de-100-a-partir-d-aout-2028-20260722"
+   "https://www.lefigaro.fr/conjoncture/trump-annonce-que-les-medicaments-generiques-seront-soumis-a-des-droits-de-douane-de-100-a-partir-d-aout-2028-20260722",
+   "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-donald-trump-n-en-a-pas-fini-du-tout-avec-le-conflit-20260722",
+   "https://www.lefigaro.fr/international/la-guerre-de-donald-trump-en-iran-met-le-pentagone-sous-pression-financiere-20260721",
+   "https://www.lefigaro.fr/flash-actu/malgre-la-perspective-d-une-hausse-du-taux-la-decollecte-massive-du-livret-a-s-est-poursuivie-en-juin-20260722"
   ],
   "https://www.france24.com/fr/rss": [
-   "e6bf61ee-7fb9-11f1-a04e-53c2522f1d6a",
    "4eb7d91a-8042-11f1-ad6b-3b2ca1c982e5",
    "e80b95f4-8040-11f1-bc7b-25f7b62d78ab",
    "c6da9aac-803f-11f1-8ba3-3b2ca1c982e5",
@@ -1015,7 +1014,8 @@
    "64ea077a-853e-11f1-8c11-091484391995",
    "1371290e-853a-11f1-a8e2-091484391995",
    "c4f34ee6-8567-11f1-be6e-bbd5aa1520ee",
-   "ddaac99c-8561-11f1-9190-bbd5aa1520ee"
+   "ddaac99c-8561-11f1-9190-bbd5aa1520ee",
+   "c07c277e-8572-11f1-a4c8-67e7155633aa"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1240,19 +1240,11 @@
    "e7872c24-8527-11f1-a505-2120e4bb1cd4",
    "6b49f326-8545-11f1-9502-3bac88e31694",
    "7217cd2c-8554-11f1-a9e8-3f473cb7992d",
-   "ff70da6e-8550-11f1-a7bb-b5c6c7cbce0e"
+   "ff70da6e-8550-11f1-a7bb-b5c6c7cbce0e",
+   "ee2a0f9e-8566-11f1-8d7e-1d80758aba5d",
+   "df6a840c-8575-11f1-8f3a-418930757acd"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/emmanuel-macron-a-decerne-la-legion-dhonneur-au-premier-ministre-britannique-keir-starmer-bcea205c-7fbe-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/royaume-uni/le-meurtre-dune-femme-politique-britannique-etait-une-attaque-ciblee-selon-la-police-93adff68-7fcf-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/kylian-mbappe-apres-lelimination-de-la-france-on-netait-pas-digne-du-niveau-dune-demi-finale-de-coupe-du-monde-848856d8-7fce-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/on-aurait-pu-faire-mieux-maxence-lacroix-positive-apres-lelimination-des-bleus-contre-lespagne-mais-f3ba7704-7fcc-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/cinema/avec-lodyssee-le-realisateur-christopher-nolan-defie-les-dieux-et-signe-un-chef-duvre-c87b2692-7f59-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/en-images-les-bleus-seffondrent-mbappe-rumine-les-espagnols-exultent-la-deception-dune-equipe-de-france-battue-48a109f0-7fb3-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/royaume-uni/reseaux-sociaux-le-gouvernement-britannique-annonce-un-couvre-feu-pour-les-adolescents-d5a06ee6-7fcb-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/on-avait-tout-pour-aller-au-bout-je-ne-mexplique-pas-ce-soir-rayan-cherki-sonne-apres-france-espagne-732b81d4-7fca-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/video-larbitre-avait-il-le-niveau-la-reaction-de-didier-deschamps-frustre-de-lelimination-f9182e22-7fc6-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-a-paris-des-supporters-degoutes-apres-la-defaite-des-bleus-9184384e-7fcd-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/etats-unis/une-americaine-poursuivie-pour-avoir-etouffe-ses-jumeaux-apres-avoir-attribue-leur-mort-aux-vaccins-5c1f7364-7fe4-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/meurtres/le-proces-dun-collegien-pour-le-meurtre-a-larme-blanche-dune-surveillante-souvre-ce-mercredi-en-haute-marne-8f575278-7fdb-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/didier-deschamps-apres-lelimination-des-bleus-contre-lespagne-il-fallait-etre-au-maximum-on-ne-la-pas-ete-b159b2a8-7fd1-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1542,7 +1534,17 @@
    "https://www.ouest-france.fr/culture/deces-dolivera-katarina-diva-yougoslave-et-vedette-a-cannes-en-1967-446c7fb2-854f-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/paris-sg/psg-une-equipe-b-pour-la-supercoupe-deurope-et-le-trophee-des-champions-520cb344-854a-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/transferts/mercato-chelsea-morgan-rogers-signe-pour-un-transfert-record-de-plus-de-100-millions-deuros-83927d60-8548-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/cambodge/au-cambodge-le-retour-du-tigre-pas-toujours-vu-dun-bon-il-db104824-8548-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/monde/cambodge/au-cambodge-le-retour-du-tigre-pas-toujours-vu-dun-bon-il-db104824-8548-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/economie/epargne/livret-a/le-livret-a-jamais-autant-boude-au-premier-semestre-depuis-2008-c15a0926-8582-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/ue/pourquoi-le-budget-europeen-cree-des-tensions-entre-berlin-paris-et-tous-les-autres-dirigeants-de-lue-1f82ae4a-7b97-11f1-b6b9-5740d58e7caf?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendie-dans-le-var-le-feu-progresse-a-une-vitesse-tres-importante-plus-de-2-300-foyers-prives-delectricite-b20064c0-8564-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/us-concarneau/us-concarneau-je-suis-desormais-le-plus-age-thibault-sinquin-lexperience-au-service-du-collectif-f2c86054-84f4-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/temoignage-javais-un-trou-dans-los-ce-netait-plus-supportable-nicolas-edet-lex-pro-qui-ne-peut-plus-rouler-aa99e79c-745c-11f1-9172-187ee382b87f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-teheran-vise-les-allies-les-dernieres-infos-a6e33d34-8545-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-05d7b29c-8538-11f1-8b9c-5cc165c9e959?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/culture/arts/theatre/festival-avignon/avec-son-spectacle-garcon-samuel-certenais-milite-pour-dautres-modeles-de-virilite-37e7d88e-8123-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-limogeage-du-commandant-en-chef-de-larmee-ukrainienne-frappes-en-russie-le-point-sur-la-nuit-9f2b8098-853f-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/venezuela/le-bilan-du-double-seisme-au-venezuela-monte-a-5-346-morts-03e5fd00-8573-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1972,26 +1974,74 @@
   },
   {
    "faits": [
-    "Le Parquet national antiterroriste français ouvre une enquête pour « tortures » concernant l'arrestation de la « flottille pour Gaza »",
-    "L'enquête concerne le traitement réservé par les autorités israéliennes à deux personnes interpellées en octobre 2025",
-    "La députée LFI Marie Mesmeur était parmi les personnes interpellées",
-    "L'enquête a été ouverte le 1er juillet 2026"
+    "Une épidémie d'Ébola sévit en RDC",
+    "Le bilan approche les 1 000 morts",
+    "2 423 cas ont été enregistrés en deux mois",
+    "Le gouvernement assouplit les restrictions de voyage",
+    "Une approche individualisée d'évaluation du risque est adoptée"
    ],
-   "qui": "Parquet national antiterroriste français, autorités israéliennes, Marie Mesmeur",
-   "ou": "France, Israël",
-   "categorie": "justice",
+   "qui": "RDC (gouvernement)",
+   "ou": "République démocratique du Congo",
+   "categorie": "sante",
    "sensible": true,
-   "confiance": 90,
+   "confiance": 87,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 78,
+   "empreinte": "9b676e457ef7997b",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T04:39:39.867189+00:00"
+  },
+  {
+   "faits": [
+    "Une manifestation d'étudiants a été violemment réprimée en Inde",
+    "Au moins 180 personnes ont été blessées",
+    "La manifestation est liée à des griefs contre le gouvernement",
+    "Rahul Gandhi a appelé Narendra Modi à démissionner"
+   ],
+   "qui": "Étudiants indiens, Narendra Modi (Premier ministre), Rahul Gandhi",
+   "ou": "Inde",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 84,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 65,
-   "empreinte": "386d0fb391d4fed4",
-   "score": 85,
+   "importance": 72,
+   "empreinte": "0573f049953dc95e",
+   "score": 84,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-21T21:43:27.415558+00:00"
+   "depuis": "2026-07-22T04:39:39.867259+00:00"
+  },
+  {
+   "faits": [
+    "Volodymyr Zelensky a limogé le commandant en chef de l'armée Oleksandr Syrsky",
+    "Le ministre de la Défense Mykhailo Fedorov a été évincer",
+    "L'Ukraine a mené plusieurs attaques en territoire russe",
+    "Des stations de commandement de drones ont été détruites",
+    "Un avion de chasse russe a été abattu"
+   ],
+   "qui": "Ukraine (Volodymyr Zelensky), Russie",
+   "ou": "Ukraine, Russie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "cdf32bbeedac6444",
+   "score": 82,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T04:39:39.867151+00:00"
   },
   {
    "faits": [
@@ -2015,28 +2065,6 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-21T22:40:51.042908+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump annonce des droits de douane de 100 % sur les médicaments génériques",
-    "Cette mesure entrera en vigueur à partir d'août 2028",
-    "L'objectif affirmé est de relocaliser la production de produits pharmaceutiques sur le territoire américain"
-   ],
-   "qui": "Donald Trump (président des États-Unis)",
-   "ou": "États-Unis",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "47802a97e3e0998e",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T01:11:53.690280+00:00"
   },
   {
    "faits": [
@@ -2104,6 +2132,78 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-21T23:44:27.250897+00:00"
+  },
+  {
+   "faits": [
+    "Une frappe aérienne pakistanaise a visé un centre de désintoxication à Kaboul le 16 mars 2026",
+    "Au moins 269 civils ont été tués selon la Mission des Nations unies en Afghanistan",
+    "122 personnes ont été blessées",
+    "Le Pakistan affirme que le site servait de dépôt d'armes et de munitions",
+    "Amnesty International conteste cette version et affirme que le centre fonctionnait comme établissement médical"
+   ],
+   "qui": "Pakistan (armée), Afghanistan, Amnesty International",
+   "ou": "Kaboul, Afghanistan",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "La nature réelle de l'utilisation du centre de désintoxication"
+   ],
+   "importance": 70,
+   "empreinte": "8a352df4dfb22c2e",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T04:39:39.867324+00:00"
+  },
+  {
+   "faits": [
+    "Le bilan du double séisme au Venezuela monte à 5 346 morts",
+    "Le double séisme s'est produit à la fin du mois de juin",
+    "Des opérations de recherche se poursuivent",
+    "De nouveaux corps continuent à être découverts sous les décombres"
+   ],
+   "qui": "Venezuela",
+   "ou": "Venezuela",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 73,
+   "empreinte": "ad0850a0332f3ce8",
+   "score": 80,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T04:39:39.867358+00:00"
+  },
+  {
+   "faits": [
+    "Jonas Vingegaard et Florian Lipowitz ont abandonné le Tour de France 2026",
+    "La lutte pour le podium s'est resserrée à trois hommes",
+    "Tadej Pogacar est décrit comme intouchable",
+    "Evenepoel, Seixas et Del Toro sont en lice pour le podium"
+   ],
+   "qui": "Jonas Vingegaard, Florian Lipowitz, Tadej Pogacar, Evenepoel, Seixas, Del Toro",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "766028aa14567873",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T04:39:50.148816+00:00"
   },
   {
    "faits": [
@@ -2358,6 +2458,28 @@
   },
   {
    "faits": [
+    "Les négociations sur le budget européen 2028-2034 sont en cours en juillet 2026",
+    "Chaque État membre privilégie son intérêt national",
+    "Des tensions existent entre Berlin, Paris et les autres dirigeants de l'UE"
+   ],
+   "qui": "États membres de l'UE (dont l'Allemagne et la France)",
+   "ou": "Union européenne",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "49bc3d8351a34f09",
+   "score": 74,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T04:39:39.867391+00:00"
+  },
+  {
+   "faits": [
     "Un projet de réintroduction des tigres au Cambodge est en cours",
     "La population locale manifeste de la méfiance envers ce projet",
     "Les craintes portent sur les attaques potentielles de tigres dues au manque de nourriture"
@@ -2516,42 +2638,9 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-22T01:11:39.321537+00:00"
-  },
-  {
-   "faits": [
-    "Le père supérieur de l'abbaye de Bellaigue dans le Puy-de-Dôme a été enlevé et séquestré",
-    "La séquestration a duré deux jours en juin",
-    "Une enquête a été ouverte",
-    "L'enquête privilégie la piste de tensions internes au monastère"
-   ],
-   "qui": "Père supérieur de l'abbaye de Bellaigue",
-   "ou": "Puy-de-Dôme, abbaye de Bellaigue",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "piste de tensions internes au monastère"
-   ],
-   "importance": 55,
-   "empreinte": "c33f7a0b2ca426c1",
-   "score": 71,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T01:11:39.321510+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "4fde782df30526cd",
-   "2026-07-20T04:11:32.080829+00:00"
-  ],
-  [
-   "71a0c347a55e90c1",
-   "2026-07-20T04:11:36.004787+00:00"
-  ],
   [
    "6dfb5a4065a1b72d",
    "2026-07-20T07:37:37.621800+00:00"
@@ -2623,17 +2712,17 @@
   [
    "a4fb33923063884e",
    "2026-07-22T01:11:59.141074+00:00"
+  ],
+  [
+   "e3a5e4a8b90972c6",
+   "2026-07-22T04:39:51.438227+00:00"
+  ],
+  [
+   "482d25062d764999",
+   "2026-07-22T04:39:55.484351+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "094fd1788d9a0687",
-   "2026-07-20T04:11:26.154506+00:00"
-  ],
-  [
-   "0e0b72ba6690617b",
-   "2026-07-20T04:11:30.957804+00:00"
-  ],
   [
    "6e89ee2c786bc86c",
    "2026-07-20T07:37:32.732464+00:00"
@@ -2705,6 +2794,14 @@
   [
    "30f87c713ecaf801",
    "2026-07-22T01:11:53.690265+00:00"
+  ],
+  [
+   "dd13ad82e8a24190",
+   "2026-07-22T04:39:45.201893+00:00"
+  ],
+  [
+   "c76d05520c8b85d8",
+   "2026-07-22T04:39:50.148800+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2713,12 +2810,14 @@
   "Deux sapeurs-pompiers sont décédés mardi après-midi lors d'une intervention contre un incendie près de l'aéroport de Bordeaux à Mérignac, en Gironde. Le sinistre est désormais fixé. (RFI, 20 Minutes, BFMTV)",
   "⚡ FLASH — Un violent incendie ravage le Var depuis le 21 juillet, consumant 1 700 hectares près de Cotignac. Le feu progresse à vitesse très importante. Plus de 600 pompiers sont mobilisés et 400 personnes évacuées. (RFI, BFMTV)",
   "🇺🇦 Volodymyr Zelensky a limogé Oleksandre Syrsky, commandant en chef de l'armée ukrainienne depuis 2024. Le général de 60 ans est remplacé par Mykhaïlo Drapaty, 35 ans, ancien commandant des forces interarmées. (franceinfo)",
-  "🌡️ Le ferry MV Barima a coulé dans la nuit de samedi à dimanche au Guyana après avoir été renversé par une grosse vague. Le bateau partait de Georgetown avec au moins 133 personnes à bord. Le bilan s'élève à au moins 41 morts selon les autorités du Guyana. (franceinfo)"
+  "🌡️ Le ferry MV Barima a coulé dans la nuit de samedi à dimanche au Guyana après avoir été renversé par une grosse vague. Le bateau partait de Georgetown avec au moins 133 personnes à bord. Le bilan s'élève à au moins 41 morts selon les autorités du Guyana. (franceinfo)",
+  "🌡️ Un incendie ravage le Var près de Cotignac. Les flammes ont parcouru 1 700 hectares, menaçant plusieurs communes. Environ 400 personnes évacuées, 2 300 foyers sans électricité. Près d'un millier de pompiers mobilisés. (franceinfo)",
+  "🇺🇸 Les États-Unis poursuivent pour la onzième nuit consécutive leurs frappes contre des cibles militaires en Iran, afin de neutraliser les menaces contre le trafic maritime du détroit d'Ormuz. (Le Figaro, Ouest-France)"
  ],
  "recap_date": "2026-07-21",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-22",
-  "publies": 6
+  "publies": 8
  }
 }
