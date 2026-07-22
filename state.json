@@ -2,14 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/tour-de-france/ce-n-etait-pas-un-match-super-agreable-a-regarder-la-deception-des-coureurs-tricolores-du-tour-de-france-apres-la-defaite-des-francais-contre-les-espagnols_8108852.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-au-moins-158-francais-ont-eu-recours-a-l-euthanasie-ou-au-suicide-assiste-en-belgique-et-en-suisse-en-2025_8108912.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/la-relegation-des-girondins-de-bordeaux-en-regional-1-confirmee-par-la-dncg-le-club-de-foot-vers-la-liquidation-judiciaire_8108675.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/euthanasie/criteres-d-acces-delai-de-reflexion-clause-de-conscience-que-prevoit-la-loi-sur-l-aide-a-mourir-que-le-parlement-vient-d-adopter-definitivement_8095940.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement-sexuel/incarcerations-enquetes-ouvertes-nouvelles-plaintes-cinq-chiffres-a-retenir-de-l-etat-des-lieux-des-violences-sexuelles-sur-mineurs-dresse-par-gerald-darmanin_8109047.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/la-polemique-monte-sur-les-canadair-le-ministre-de-l-interieur-defend-une-flotte-parmi-les-plus-performantes-d-europe_8109248.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/le-norvegien-soren-waerenskjold-decroche-au-sprint-sa-premiere-victoire-au-terme-de-l-etape-la-plus-rapide-de-l-histoire-du-tour-de-france_8108885.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/l-assemblee-nationale-adopte-largement-en-premiere-lecture-le-projet-de-loi-ripost-sur-la-securite-du-quotidien_8109212.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/des-baisses-de-rendement-jusqu-a-20-a-prevoir-pour-les-cultures-de-ble-dans-certaines-regions-en-raison-de-la-canicule-jusqu-a-60-pour-le-houblon_8109185.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/front-national/huit-pourvois-en-cassation-deposes-a-ce-stade-dans-l-affaire-des-assistants-d-eurodeputes-fn_8109122.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/fin-de-vie-la-france-cree-un-droit-sur-l-aide-a-mourir_8109323.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +293,15 @@
    "https://www.franceinfo.fr/economie/medias/les-frequences-fm-de-franceinfo-changent-le-22-juillet_8099549.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/fraude/plus-de-700-signalements-concernant-des-achats-de-climatiseurs-deposes-depuis-le-1er-juin-sur-signalconso_8117330.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/que-dit-la-science-sur-l-acetamipride-et-le-flupyradifurone-les-deux-pesticides-qui-pourraient-etre-reintroduits-apres-l-adoption-de-la-loi-d-urgence-agricole_8116079.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-pourquoi-les-bases-americaines-dans-la-region-sont-si-vulnerables-face-aux-drones-et-aux-missiles-iraniens_8116826.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-pourquoi-les-bases-americaines-dans-la-region-sont-si-vulnerables-face-aux-drones-et-aux-missiles-iraniens_8116826.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/daniel-siad-soupconne-d-avoir-ete-rabatteur-pour-le-compte-de-jeffrey-epstein-et-vise-par-des-plaintes-pour-viol-retrouve-mort-a-son-domicile_8117654.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/tour-de-france-tous-les-coureurs-du-peloton-ont-fait-l-objet-d-un-controle-antidopage-annonce-l-instance-en-charge-des-tests_8117531.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/retrouver-de-la-serenite-et-faire-des-investigations-la-premiere-presidente-de-la-cour-d-appel-de-toulouse-justifie-le-renvoi-du-proces-en-appel-de-cedric-jubillar_8117507.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/police/l-assemblee-nationale-classe-sans-suite-la-petition-sur-la-presomption-d-usage-legitime-des-armes-a-feu-par-les-forces-de-l-ordre_8117588.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/drogue/une-connexion-s-est-faite-avec-des-gangs-locaux-a-ales-l-extension-de-la-dz-mafia-n-est-pas-nouvelle_8117504.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/la-maison-de-naissance-d-adolf-hitler-en-autriche-accueille-desormais-un-commissariat_8117486.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/accident/le-conducteur-suspecte-d-avoir-percute-mortellement-une-femme-a-heugleville-sur-scie-en-seine-maritime-reconnait-les-faits_8117537.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/budget/nous-ne-pouvons-pas-suspendre-toutes-les-decisions-jusqu-en-2027-sebastien-lecornu-ne-souhaite-pas-attendre-la-presidentielle-pour-trancher-des-arbitrages-budgetaires_8117492.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -411,7 +411,19 @@
    "https://www.lemonde.fr/international/article/2026/07/21/donald-trump-impose-au-canada-de-nouveaux-droits-de-douane-de-50-sur-plusieurs-produits_6728016_3210.html",
    "https://www.lemonde.fr/une-balle-dans-le-pied/article/2026/07/21/la-coupe-du-monde-de-la-fifa-plus-que-celle-du-football_6728360_6606027.html",
    "https://www.lemonde.fr/m-styles/article/2026/07/21/anna-wintour-et-andre-leon-talley-une-rupture-brutale_6728190_4497319.html",
-   "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html"
+   "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html",
+   "https://www.lemonde.fr/politique/article/2026/07/22/le-recul-environnemental-de-trop-la-ministre-de-la-transition-ecologique-monique-barbut-annonce-remettre-sa-demission-apres-le-vote-de-la-loi-d-urgence-agricole_6729994_823448.html",
+   "https://www.lemonde.fr/international/article/2026/07/22/la-propagandiste-xenia-fedorova-echappe-aux-sanctions-europeennes-contre-des-personnalites-russes_6730000_3210.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/22/au-maroc-je-ne-me-cachais-pas-le-maghreb-refuge-de-plus-en-plus-menace-des-narcos-francais_6729818_3451060.html",
+   "https://www.lemonde.fr/international/article/2026/07/22/le-lancement-des-zones-pilotes-dans-le-sud-du-liban-premier-test-de-l-accord-cadre-avec-israel_6729988_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/22/l-italie-secouee-apres-la-mort-d-un-homme-lors-de-son-interpellation-par-la-police_6729997_3210.html",
+   "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-nomme-mykhailo-drapaty-commandant-en-chef-de-l-armee-apres-le-limogeage-d-oleksandr-syrsky_6725306_3210.html",
+   "https://www.lemonde.fr/pixels/article/2026/07/22/google-lance-les-resumes-par-ia-sur-son-moteur-de-recherche-en-france-une-fonctionnalite-attendue-et-redoutee_6729851_4408996.html",
+   "https://www.lemonde.fr/planete/article/2026/07/21/var-un-nouvel-incendie-a-deja-parcouru-1-700-hectares-400-personnes-evacuees_6729314_3244.html",
+   "https://www.lemonde.fr/pixels/article/2026/07/22/openai-fait-etat-d-un-piratage-sans-precedent-d-une-plateforme-par-ses-agents-d-ia_6730004_4408996.html",
+   "https://www.lemonde.fr/pixels/article/2026/07/21/comment-l-interdiction-des-reseaux-sociaux-aux-plus-jeunes-s-impose-partout-dans-le-monde_6729144_4408996.html",
+   "https://www.lemonde.fr/politique/article/2026/07/22/budget-2027-sebastien-lecornu-juge-preoccupant-le-niveau-de-la-dette-du-pays-et-assure-que-la-reduction-du-deficit-reste-la-priorite_6729952_823448.html",
+   "https://www.lemonde.fr/sport/article/2026/07/22/tour-de-france-2026-la-course-contre-le-temps-de-l-equipe-totalenergies-en-quete-d-un-repreneur_6730001_3242.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
    "https://www.lefigaro.fr/international/la-france-souhaite-de-nouveau-delivrer-250-000-visas-par-an-aux-ressortissants-algeriens-20260717",
@@ -1949,17 +1961,216 @@
    "https://www.lequipe.fr/Football/actu-en-direct/mercato-live/19546"
   ]
  },
- "en_attente_publication": [
-  {
-   "texte": "🌡️ Un incendie déclaré mardi dans le Var a parcouru 2550 hectares. Le feu, parti d'un champ à Pontevès, mobilisait 900 pompiers mercredi. Plus de 2300 foyers privés d'électricité à Cotignac. (franceinfo)",
-   "categorie": "meteo_catastrophe",
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ]
-  }
- ],
+ "en_attente_publication": [],
  "evenements_attente": [
+  {
+   "faits": [
+    "Volodymyr Zelensky annonce un remaniement à la tête de l'armée ukrainienne",
+    "Ce remaniement intervient après plusieurs jours de manifestations",
+    "Les manifestants réclamaient le départ d'Oleksandr Syrsky, commandant en chef de l'armée",
+    "Le départ de Syrsky a été acté mardi soir",
+    "Syrsky est remplacé par Mykhaïlo Drapaty, commandant des forces interarmées",
+    "Drapaty est décrit comme populaire"
+   ],
+   "qui": "Volodymyr Zelensky, Oleksandr Syrsky, Mykhaïlo Drapaty",
+   "ou": "Ukraine",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 91,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "f5e6a16f2f8fe753",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904947+00:00"
+  },
+  {
+   "faits": [
+    "Daniel Siad, sexagénaire, a été retrouvé mort à son domicile",
+    "Il était soupçonné d'avoir été rabatteur pour Jeffrey Epstein",
+    "Il était visé par cinq plaintes pour viols et agressions sexuelles"
+   ],
+   "qui": "Daniel Siad",
+   "ou": null,
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "2a9634f0913fa23e",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904950+00:00"
+  },
+  {
+   "faits": [
+    "Tous les coureurs du peloton du Tour de France ont fait l'objet d'un contrôle antidopage",
+    "Les tests ont été effectués lors de la journée de repos",
+    "L'International Testing Agency (ITA) a annoncé cette information mardi"
+   ],
+   "qui": "International Testing Agency (ITA)",
+   "ou": "Tour de France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "0add71c086d8c8f5",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904952+00:00"
+  },
+  {
+   "faits": [
+    "Le procès en appel de Cédric Jubillar a été renvoyé",
+    "La première présidente de la cour d'appel de Toulouse justifie ce renvoi par la nécessité de retrouver de la sérénité",
+    "Cédric Jubillar a fait des aveux",
+    "Des ossements de Delphine Aussaguel ont été retrouvés",
+    "L'affaire bénéficie d'un fort traitement médiatique"
+   ],
+   "qui": "Cédric Jubillar, Delphine Aussaguel, Chantal Ferreira (première présidente)",
+   "ou": "Toulouse",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "d463f97498b4cb76",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904954+00:00"
+  },
+  {
+   "faits": [
+    "Sébastien Lecornu, Premier ministre, déclare ne pas souhaiter attendre la présidentielle pour trancher des arbitrages budgétaires",
+    "Il estime qu'il faut proposer une direction budgétaire maintenant",
+    "Il affirme que les Français pourront ensuite décider d'en changer",
+    "Cette déclaration a été faite dans un entretien à Paris-Match publié mercredi"
+   ],
+   "qui": "Sébastien Lecornu",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "2eaa68060f6446ff",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904955+00:00"
+  },
+  {
+   "faits": [
+    "Monique Barbut, ministre de la transition écologique, annonce remettre sa démission",
+    "Elle s'oppose à une mesure controversée sur les pesticides adoptée par le Parlement",
+    "Elle qualifie cette situation de « recul environnemental de trop »",
+    "Elle affirme que le gouvernement a empêché le débat autour de la suppression de cette mesure"
+   ],
+   "qui": "Monique Barbut",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "ab6dfbc96e4486a2",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904956+00:00"
+  },
+  {
+   "faits": [
+    "Israël s'est retiré de la localité de Zaoutar El-Gharbiyé au Liban sud",
+    "L'armée libanaise s'est déployée dans cette zone",
+    "Ces opérations coïncident avec une rencontre à la Maison Blanche entre Donald Trump et Joseph Aoun",
+    "Joseph Aoun est le président libanais",
+    "Cela fait partie du premier test de l'accord-cadre entre Israël et le Liban"
+   ],
+   "qui": "Israël, Liban (Joseph Aoun), États-Unis (Donald Trump)",
+   "ou": "Liban sud, Zaoutar El-Gharbiyé",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "732c6b5d3367c054",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904958+00:00"
+  },
+  {
+   "faits": [
+    "L'interdiction des réseaux sociaux aux moins de 15 ans est désormais en vigueur en France",
+    "Cette interdiction concerne Instagram et TikTok",
+    "La France s'inscrit dans un mouvement global qui a pris de l'ampleur en quelques années"
+   ],
+   "qui": "Gouvernement français",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 89,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "69515e447fdc94ce",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904959+00:00"
+  },
+  {
+   "faits": [
+    "Sébastien Lecornu juge le niveau de la dette et du déficit de la France « préoccupant, grave même »",
+    "Il n'est « pas très optimiste » quant aux objectifs en matière de déficit pour 2026 et 2027",
+    "Le gouvernement prévoit un déficit à 5 % du produit intérieur brut en 2026",
+    "Le déficit était de 5,1 % en 2025"
+   ],
+   "qui": "Sébastien Lecornu, gouvernement français",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 91,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "0ab54da636573c95",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904960+00:00"
+  },
   {
    "faits": [
     "Une épidémie d'Ébola sévit en RDC",
@@ -2006,6 +2217,146 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-22T04:39:39.867259+00:00"
+  },
+  {
+   "faits": [
+    "L'Assemblée nationale a classé sans suite une pétition contre la présomption d'usage légitime des armes à feu par les forces de l'ordre",
+    "La pétition a reçu plus de 700 000 signatures",
+    "La loi concernée a été adoptée le 7 juillet",
+    "Les députés de la commission des lois ont voté contre la pétition"
+   ],
+   "qui": "Assemblée nationale",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 91,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "14c16abc33256164",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904962+00:00"
+  },
+  {
+   "faits": [
+    "Un homme est mort lors de son interpellation par la police en Italie",
+    "La victime est Abderrahim Fakir, quadragénaire d'origine marocaine",
+    "Le décès s'est produit dimanche à Bologne",
+    "Cet événement a suscité une vague d'indignation",
+    "Parallèlement, une partie de l'exécutif italien prend fait et cause pour un bijoutier ayant tué deux cambrioleurs"
+   ],
+   "qui": "Abderrahim Fakir, police italienne, bijoutier",
+   "ou": "Bologne, Italie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "b454c0c33ffa605f",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904963+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie dans le Var a parcouru 2 550 hectares",
+    "L'incendie a débuté mardi dans un champ à Pontevès",
+    "Il a rapidement parcouru la montagne du Gros Bessillon",
+    "L'incendie est « contenu » malgré « de nombreux points chauds »",
+    "Les pompiers ont annoncé cette information"
+   ],
+   "qui": "Pompiers",
+   "ou": "Var, Pontevès, montagne du Gros Bessillon",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 89,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "8cc1fd7273a41aa3",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904964+00:00"
+  },
+  {
+   "faits": [
+    "Le maire LR d'Alès a été exfiltré de son domicile lundi",
+    "L'exfiltration a suivi une suspicion de voiture piégée",
+    "Le maire était sous protection policière après des intimidations",
+    "La DZ Mafia a établi des connexions avec des gangs locaux à Alès",
+    "Cette extension n'est pas nouvelle"
+   ],
+   "qui": "Maire LR d'Alès, DZ Mafia",
+   "ou": "Alès",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "f376ebf8f2c0986f",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904966+00:00"
+  },
+  {
+   "faits": [
+    "La maison de naissance d'Adolf Hitler en Autriche accueille désormais un commissariat",
+    "Le gouvernement autrichien a transformé le bâtiment en poste de police",
+    "Cette décision vise à éviter que le lieu ne devienne un pèlerinage néonazi"
+   ],
+   "qui": "Gouvernement autrichien",
+   "ou": "Autriche",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 91,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "effc3519dcc1f2f7",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904967+00:00"
+  },
+  {
+   "faits": [
+    "Les « résumés par IA » de Google sont désormais disponibles en France à partir de mercredi",
+    "Google déploie également l'« AI mode »",
+    "Ces outils d'intelligence artificielle étaient déjà présents dans d'autres pays",
+    "Médias et éditeurs de site redoutent de se voir privés d'une partie de leur trafic"
+   ],
+   "qui": "Google, médias, éditeurs de sites",
+   "ou": "France",
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 87,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "2ea6a868c2c84654",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904968+00:00"
   },
   {
    "faits": [
@@ -2103,6 +2454,31 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-22T07:27:08.919315+00:00"
+  },
+  {
+   "faits": [
+    "Un conducteur suspecté d'avoir percuté mortellement une femme en Seine-Maritime a reconnu les faits",
+    "Le conducteur était au volant d'un utilitaire",
+    "La victime était une sexagénaire",
+    "L'accident s'est produit dimanche à Heugleville-sur-Scie",
+    "Le conducteur reconnaît avoir perçu un choc mais ne pas avoir compris qu'il avait heurté une personne",
+    "Le conducteur a été placé sous contrôle judiciaire"
+   ],
+   "qui": "Conducteur quadragénaire (non nommé)",
+   "ou": "Heugleville-sur-Scie, Seine-Maritime",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "b86695b99e6953b7",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904972+00:00"
   },
   {
    "faits": [
@@ -2228,6 +2604,55 @@
   },
   {
    "faits": [
+    "La propagandiste Xenia Fedorova échappe aux sanctions européennes contre des personnalités russes",
+    "Elle est une figure prorusse de CNews",
+    "Elle est l'ex-dirigeante de Russia Today France",
+    "Russia Today France est financée par le Kremlin",
+    "Le Quai d'Orsay et le ministère de l'intérieur étudient secrètement d'autres voies de sanctions"
+   ],
+   "qui": "Xenia Fedorova, Quai d'Orsay, ministère de l'intérieur",
+   "ou": "France",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "études secrètes d'autres voies de sanctions"
+   ],
+   "importance": 58,
+   "empreinte": "56c6980d03ef4c5d",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904976+00:00"
+  },
+  {
+   "faits": [
+    "L'équipe TotalEnergies du Tour de France 2026 va perdre son sponsor principal en fin de saison",
+    "La formation cherche un repreneur",
+    "L'équipe cherche à briller sur la Grande Boucle pour attirer un nouveau partenaire",
+    "La 17ᵉ étape mercredi fait figure de dernière chance pour remporter une victoire"
+   ],
+   "qui": "Équipe TotalEnergies",
+   "ou": "Tour de France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 52,
+   "empreinte": "0e68782e05711c8b",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-22T10:04:45.904977+00:00"
+  },
+  {
+   "faits": [
     "Jonas Vingegaard et Florian Lipowitz ont abandonné le Tour de France 2026",
     "La lutte pour le podium s'est resserrée à trois hommes",
     "Tadej Pogacar est décrit comme intouchable",
@@ -2248,63 +2673,9 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-22T04:39:50.148816+00:00"
-  },
-  {
-   "faits": [
-    "Plus de 700 signalements concernant des achats de climatiseurs ont été déposés depuis le 1er juin sur SignalConso",
-    "La répression des fraudes appelle à la vigilance face à des 'pratiques commerciales trompeuses'",
-    "Certains profitent de la canicule pour ces pratiques"
-   ],
-   "qui": "Direction générale de la concurrence, de la consommation et de la répression des fraudes",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Détails spécifiques des pratiques trompeuses"
-   ],
-   "importance": 48,
-   "empreinte": "c226f787ed588de8",
-   "score": 78,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T07:27:08.919324+00:00"
-  },
-  {
-   "faits": [
-    "Les négociations sur le budget européen 2028-2034 sont en cours en juillet 2026",
-    "Chaque État membre privilégie son intérêt national",
-    "Des tensions existent entre Berlin, Paris et les autres dirigeants de l'UE"
-   ],
-   "qui": "États membres de l'UE (dont l'Allemagne et la France)",
-   "ou": "Union européenne",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "49bc3d8351a34f09",
-   "score": 74,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T04:39:39.867391+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "6dfb5a4065a1b72d",
-   "2026-07-20T07:37:37.621800+00:00"
-  ],
-  [
-   "d6c051d95a6b58e3",
-   "2026-07-20T07:37:41.584820+00:00"
-  ],
   [
    "ad4ff8335456d783",
    "2026-07-20T22:37:33.166925+00:00"
@@ -2380,17 +2751,13 @@
   [
    "bcb0708f8f32bdf7",
    "2026-07-22T07:27:10.942819+00:00"
+  ],
+  [
+   "5da83e64040a1ea6",
+   "2026-07-22T10:04:06.599470+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "6e89ee2c786bc86c",
-   "2026-07-20T07:37:32.732464+00:00"
-  ],
-  [
-   "fbf188010e048c67",
-   "2026-07-20T07:37:36.542379+00:00"
-  ],
   [
    "87576f7186bb7fa3",
    "2026-07-20T22:37:27.789550+00:00"
@@ -2481,12 +2848,13 @@
   "🌡️ Le ferry MV Barima a coulé dans la nuit de samedi à dimanche au Guyana après avoir été renversé par une grosse vague. Le bateau partait de Georgetown avec au moins 133 personnes à bord. Le bilan s'élève à au moins 41 morts selon les autorités du Guyana. (franceinfo)",
   "🌡️ Un incendie ravage le Var près de Cotignac. Les flammes ont parcouru 1 700 hectares, menaçant plusieurs communes. Environ 400 personnes évacuées, 2 300 foyers sans électricité. Près d'un millier de pompiers mobilisés. (franceinfo)",
   "🇺🇸 Les États-Unis poursuivent pour la onzième nuit consécutive leurs frappes contre des cibles militaires en Iran, afin de neutraliser les menaces contre le trafic maritime du détroit d'Ormuz. (Le Figaro, Ouest-France)",
-  "🇺🇸 L'armée américaine poursuit ses frappes contre l'Iran pour la onzième nuit consécutive pour affaiblir ses capacités au détroit d'Ormuz. Des explosions ont été entendues à Téhéran. En mer Rouge, trois pétroliers saoudiens font demi-tour face aux Houthis. (franceinfo)"
+  "🇺🇸 L'armée américaine poursuit ses frappes contre l'Iran pour la onzième nuit consécutive pour affaiblir ses capacités au détroit d'Ormuz. Des explosions ont été entendues à Téhéran. En mer Rouge, trois pétroliers saoudiens font demi-tour face aux Houthis. (franceinfo)",
+  "🌡️ Un incendie déclaré mardi dans le Var a parcouru 2550 hectares. Le feu, parti d'un champ à Pontevès, mobilisait 900 pompiers mercredi. Plus de 2300 foyers privés d'électricité à Cotignac. (franceinfo)"
  ],
  "recap_date": "2026-07-21",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-22",
-  "publies": 9
+  "publies": 10
  }
 }
