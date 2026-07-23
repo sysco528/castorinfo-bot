@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/replay-radio/affaire-jubillar-le-proces-d-une-disparition/c-est-une-deuxieme-affaire-qui-demarre-depuis-la-decouverte-d-ossements-dans-le-tarn-apres-les-aveux-de-cedric-jubillar-affirme-l-avocate-d-une-amie-de-delphine-aussaguel_8110820.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/meteo/orages-vingt-six-departements-de-la-moitie-est-du-pays-en-vigilance-orange-16-departements-en-alerte-orange-canicule_8110898.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/recit-des-aveux-de-cedric-jubillar-a-la-decouverte-d-ossements-comment-l-une-des-plus-importantes-affaires-criminelles-a-bascule-en-une-quinzaine-de-jours_8111228.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/meteo/direct-fin-des-orages-plus-aucun-departement-n-est-en-vigilance-orange-aux-orages-la-canicule-ne-concerne-plus-que-10-departements_8111189.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-jubillar-l-avocat-des-enfants-du-couple-accueille-sans-satisfaction-mais-avec-soulagement-la-decouverte-d-ossements_8111240.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/reportage-on-est-passe-a-cote-des-centaines-de-fois-a-mailhoc-ou-des-ossements-ont-ete-decouverts-sur-les-indications-de-cedric-jubillar-les-habitants-sont-bouleverses_8111192.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/temoignages-la-poutre-s-est-envolee-une-mini-tornade-a-balaye-villars-pres-de-saint-etienne_8111258.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-on-va-tout-faire-pour-aller-chercher-la-troisieme-place-assure-didier-deschamps-avant-la-petite-finale-contre-l-angleterre_8110199.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/sports/cyclisme/paul-seixas/reportage-c-est-une-fierte-paul-seixas-le-prodige-du-cyclisme-francais-fait-vibrer-les-clubs-de-son-enfance_8118851.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/meurtre-de-thomas-a-crepol/meurtre-de-thomas-a-crepol-la-circonstance-aggravante-de-racisme-retenue-par-les-juges-d-instruction_8119274.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/inde/le-premier-ministre-indien-narendra-modi-promet-de-punir-severement-les-responsables-des-fraudes-aux-examens-a-l-origine-de-la-colere-etudiante_8118764.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-conditionnent-l-accord-sur-le-nucleaire-civil-avec-l-arabie-saoudite-a-une-reconnaissance-d-israel_8119379.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-conditionnent-l-accord-sur-le-nucleaire-civil-avec-l-arabie-saoudite-a-une-reconnaissance-d-israel_8119379.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-epstein-apres-la-mort-de-daniel-siad-quatre-questions-sur-les-suites-de-l-enquete-en-france_8118947.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/richard-carapaz-dompte-ses-compagnons-d-echappee-et-remporte-la-18e-etape-du-tour-de-france-au-sommet-d-orcieres-merlette_8119463.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/apres-l-affaire-barbara-butch-le-chef-de-file-grenoblois-de-lfi-annonce-saisir-la-justice-pour-des-injures-a-caractere-raciste-et-des-menaces_8119475.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/la-mostra-de-venise-devoile-la-programmation-de-sa-83e-edition_8119364.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/a-gaza-la-securite-alimentaire-s-ameliore-mais-reste-fragile-selon-l-onu_8119376.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -438,14 +438,6 @@
    "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/politique/enquete-du-pnf-sur-edouard-philippe-un-tribunal-maintient-le-statut-de-la-lanceuse-d-alerte-20260718",
-   "https://www.lefigaro.fr/faits-divers/il-etait-plus-interessant-de-tenter-de-retrouver-d-autres-parties-du-corps-la-defense-de-cedric-jubillar-regrette-l-arret-des-fouilles-20260718",
-   "https://www.lefigaro.fr/marseille/les-intimidations-ne-peuvent-pas-gagner-la-colere-du-maire-d-ales-menace-de-mort-par-la-dz-mafia-20260718",
-   "https://www.lefigaro.fr/sports/rugby/xv-de-france/japon-france-en-video-l-essai-de-lamothe-qui-lance-les-bleus-a-tokyo-20260718",
-   "https://www.lefigaro.fr/sports/rugby/xv-de-france/rugby-championnat-des-nations-apres-la-lourde-defaite-de-l-irlande-face-aux-all-blacks-la-france-peut-terminer-en-tete-du-groupe-nord-20260718",
-   "https://www.lefigaro.fr/sports/rugby/xv-de-france/japon-france-meafou-emporte-tout-lamothe-casque-d-or-jalibert-regale-encore-les-notes-des-bleus-apres-la-victoire-a-tokyo-20260718",
-   "https://www.lefigaro.fr/sports/rugby/xv-de-france/rugby-championnat-des-nations-les-bleus-finissent-fort-a-tokyo-et-terminent-en-tete-du-groupe-nord-20260718",
-   "https://www.lefigaro.fr/sports/rugby/xv-de-france/japon-france-on-finit-cette-longue-saison-sur-une-bonne-note-savoure-jalibert-apres-la-victoire-des-bleus-a-tokyo-20260718",
    "https://madame.lefigaro.fr/societe/actu/ventilateur-portatif-et-batons-lumineux-l-apparition-caniculaire-d-emmanuel-et-brigitte-macron-au-concert-de-bts-au-stade-de-france-20260718",
    "https://www.lefigaro.fr/faits-divers/venue-pour-une-operation-a-la-cheville-une-jeune-patiente-se-fait-retirer-ses-dents-de-sagesse-par-erreur-20260718",
    "https://www.lefigaro.fr/international/russie-les-images-impressionnantes-du-centre-logistique-wildberries-geant-du-e-commerce-touche-par-des-drones-ukrainiens-20260718",
@@ -737,16 +729,17 @@
    "https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260723",
    "https://www.lefigaro.fr/marseille/policier-grievement-blesse-lors-d-un-refus-d-obtemperer-a-marseille-trois-jeunes-individus-envoyes-en-detention-provisoire-20260723",
    "https://www.lefigaro.fr/actualite-france/narbonne-sept-personnes-hospitalisees-apres-une-fuite-d-ammoniac-dans-une-usine-de-traitement-d-uranium-20260723",
-   "https://www.lefigaro.fr/nice/la-mortalite-routiere-en-hausse-au-mois-de-juin-dans-le-departement-des-alpes-maritimes-20260723"
+   "https://www.lefigaro.fr/nice/la-mortalite-routiere-en-hausse-au-mois-de-juin-dans-le-departement-des-alpes-maritimes-20260723",
+   "https://www.lefigaro.fr/bordeaux/c-est-comme-une-guerre-en-gironde-aux-cotes-des-pompiers-qui-luttent-contre-un-incendie-imprevisible-menacant-la-presqu-ile-du-cap-ferret-20260723",
+   "https://www.lefigaro.fr/meteo/jusqu-a-400c-dans-le-sud-ouest-un-risque-d-incendie-encore-eleve-decouvrez-la-meteo-du-vendredi-24-juillet-20260723",
+   "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260723",
+   "https://avis-vin.lefigaro.fr/terroir-viticulture/on-ne-peut-plus-rester-les-bras-croises-dans-les-pyrenees-orientales-l-appel-des-vignerons-pour-planter-des-vignes-coupe-feu-20241119",
+   "https://www.lefigaro.fr/faits-divers/malhonnetes-et-empreints-d-une-grande-perversion-l-amant-de-delphine-jubillar-sort-du-silence-et-balaye-les-aveux-de-cedric-jubillar-20260723",
+   "https://www.lefigaro.fr/faits-divers/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-juge-20260721",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-le-recital-carapaz-la-bataille-des-favoris-n-a-pas-eu-lieu-inquietude-chez-uae-les-tops-et-les-flops-de-la-18e-etape-20260723",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-l-equatorien-richard-carapaz-s-offre-un-succes-de-prestige-a-orcieres-merlette-les-favoris-se-neutralisent-avant-l-alpe-d-huez-20260723"
   ],
   "https://www.france24.com/fr/rss": [
-   "8e62f438-8122-11f1-bdbc-734d52a072cd",
-   "5fa00ac8-8122-11f1-a5d6-734d52a072cd",
-   "1129839a-8124-11f1-8c39-734d52a072cd",
-   "7be8a5dc-8122-11f1-9053-6939abb0c9d6",
-   "b24519da-811d-11f1-83cf-2b9482933ba4",
-   "56456982-811d-11f1-9918-734d52a072cd",
-   "dca69cf4-811c-11f1-8eec-2b9482933ba4",
    "4067c28c-811c-11f1-988c-2b9482933ba4",
    "7586a60e-8130-11f1-827e-71e2cddb4b69",
    "86d46802-812f-11f1-b036-2bf5ece20ef2",
@@ -1039,7 +1032,14 @@
    "cc2274be-868c-11f1-8f73-15b536c8e6d9",
    "b0f286a8-868b-11f1-ba26-c900f4918ced",
    "20be0d28-868b-11f1-b250-15b536c8e6d9",
-   "8cabb4cc-868b-11f1-8fd0-c900f4918ced"
+   "8cabb4cc-868b-11f1-8fd0-c900f4918ced",
+   "053b7448-86ac-11f1-96b4-85bc00bb1071",
+   "3677b81a-86a6-11f1-995f-23b047e41a7a",
+   "dddec094-86ab-11f1-8950-85bc00bb1071",
+   "87fe749e-86ab-11f1-93d9-f955b988617e",
+   "b9928684-86a7-11f1-a639-23b047e41a7a",
+   "9b639de0-86a4-11f1-944c-73e392453e68",
+   "ffcabd28-86a3-11f1-966c-73e392453e68"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -2039,6 +2039,32 @@
  "evenements_attente": [
   {
    "faits": [
+    "Richard Carapaz a remporté la 18e étape du Tour de France jeudi 23 juillet 2026",
+    "La victoire s'est déroulée au sommet d'Orcières-Merlette",
+    "Carapaz s'est imposé en solitaire après une échappée",
+    "Il s'agit de la deuxième victoire de Carapaz sur le Tour de France",
+    "Valentin Paret-Peintre, coureur français, a terminé quatrième"
+   ],
+   "qui": "Richard Carapaz (Équateur)",
+   "ou": "France (Orcières-Merlette)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "b0525fa018ab057a",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-23T16:12:05.294325+00:00"
+  },
+  {
+   "faits": [
     "La 18e étape du Tour de France 2026 se déroule le 23 juillet entre Voiron et Orcières-Merlette",
     "Cette étape alpine comporte 3 900 mètres de dénivelé positif",
     "Orcières-Merlette a accueilli une victoire mémorable de Luis Ocaña le 8 juillet 1971"
@@ -2114,29 +2140,6 @@
   },
   {
    "faits": [
-    "TotalEnergies a doublé son bénéfice net au 2e trimestre à 4,7 milliards d'euros",
-    "Le bénéfice net du premier semestre s'affiche à 11,2 milliards de dollars (9,8 milliards d'euros)",
-    "La hausse du bénéfice sur un an est de 73% (ou 72% selon une source)"
-   ],
-   "qui": "TotalEnergies",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "a99f2ea787295f77",
-   "score": 96,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-23T10:03:05.823751+00:00"
-  },
-  {
-   "faits": [
     "Le Premier ministre indien Narendra Modi promet de punir sévèrement les responsables des fraudes aux examens",
     "Des dizaines de milliers d'étudiants et jeunes manifestent à New Delhi depuis le 20 juillet",
     "La police a sévèrement réprimé une manifestation lundi où les protestataires tentaient de rallier le Parlement",
@@ -2161,50 +2164,51 @@
   },
   {
    "faits": [
-    "Un incendie en Gironde est qualifié d'exceptionnellement intense par les pompiers",
-    "La surface du feu a été multipliée par six en moins de trois heures",
-    "L'incendie progresse vers Arès et Lège-Cap-Ferret",
-    "Tous les massifs du Var sont fermés à cause des feux",
-    "Un feu dans le Var a parcouru 2 500 hectares et n'était toujours pas fixé"
+    "Un incendie ravage la Gironde depuis mercredi 22 juillet 2026",
+    "Plus de 3400 hectares de forêt ont brûlé (3100 hectares mentionnés dans une autre source)",
+    "Plus de 20 000 personnes ont été évacuées depuis mercredi soir",
+    "L'incendie continue de progresser jeudi 23 juillet près de Lège-Cap-Ferret",
+    "Un seul point de passage pour l'aide est ouvert",
+    "Des températures jusqu'à 40°C sont attendues le 24 juillet dans le Sud-Ouest",
+    "Des orages localement violents sont prévus samedi au sud du pays"
    ],
    "qui": null,
-   "ou": "Gironde (bassin d'Arcachon, Arès, Lège-Cap-Ferret), Var, France",
+   "ou": "Gironde, France (bassin d'Arcachon, Cap-Ferret)",
    "categorie": "meteo_catastrophe",
    "sensible": true,
-   "confiance": 90,
+   "confiance": 92,
    "sources": [
-    "Le Monde"
+    "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 85,
-   "empreinte": "97f4c5992fabdcd4",
+   "importance": 90,
+   "empreinte": "713c75d69b9ca005",
    "score": 89,
-   "fiab_max": 90,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823754+00:00"
+   "depuis": "2026-07-23T16:12:05.293701+00:00"
   },
   {
    "faits": [
-    "Philippe Diallo présentera le successeur de Didier Deschamps à la tête de l'équipe de France",
-    "La présentation aura lieu mardi 28 juillet à 11 heures lors d'une conférence de presse"
+    "Daniel Siad, homme de 69 ans et rabatteur présumé de Jeffrey Epstein, a été retrouvé mort à son domicile lundi 21 juillet 2026",
+    "Siad était visé par au moins six plaintes, notamment pour viols",
+    "Siad n'avait jamais été entendu par la justice française avant sa mort"
    ],
-   "qui": "Philippe Diallo (président FFF), Didier Deschamps",
+   "qui": "Daniel Siad",
    "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
+   "categorie": "justice",
+   "sensible": true,
    "confiance": 90,
    "sources": [
     "franceinfo"
    ],
-   "non_confirme": [
-    "identité du successeur de Deschamps"
-   ],
-   "importance": 80,
-   "empreinte": "6f6da13c637d8993",
-   "score": 88,
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "5c47603fe08a4a10",
+   "score": 87,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823757+00:00"
+   "depuis": "2026-07-23T16:12:05.294332+00:00"
   },
   {
    "faits": [
@@ -2230,94 +2234,69 @@
   },
   {
    "faits": [
-    "Les soldats ukrainiens mènent des opérations d'évacuation de blessés dans la 'kill zone' à Zaporijjia",
-    "La 'kill zone' est une zone saturée de drones où chaque déplacement peut être mortel",
-    "La guerre en Ukraine est marquée par l'utilisation de drones et de frappes à longue portée"
+    "À Gaza, la sécurité alimentaire s'améliore mais reste fragile, selon l'ONU",
+    "Un seul point de passage pour l'aide est ouvert à Gaza",
+    "L'acheminement des biens essentiels y reste limité"
    ],
-   "qui": "Armée ukrainienne",
-   "ou": "Zaporijjia, Ukraine",
+   "qui": "ONU (Programme alimentaire mondial)",
+   "ou": "Gaza",
    "categorie": "international",
    "sensible": true,
-   "confiance": 90,
+   "confiance": 88,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [],
    "importance": 75,
-   "empreinte": "db49f19e7e08b562",
-   "score": 87,
+   "empreinte": "78ea2e45bfe73a7c",
+   "score": 86,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823758+00:00"
+   "depuis": "2026-07-23T16:12:05.294335+00:00"
   },
   {
    "faits": [
-    "Des bombardements ukrainiens ont tué une personne dans la région russe de Belgorod près de la frontière",
-    "Une personne a été tuée en Crimée dans des bombardements ukrainiens",
-    "Moscou poursuit ses attaques contre des installations énergétiques"
+    "Un mégafeu ravage la Castille-La Manche en Espagne depuis le 16 juillet 2026",
+    "Le feu a calciné environ 30 à 32 000 hectares en Sierra Norte de Guadalajara"
    ],
-   "qui": "Ukraine, Russie",
-   "ou": "Belgorod, Crimée, Russie",
-   "categorie": "international",
+   "qui": null,
+   "ou": "Sierra Norte de Guadalajara, Castille-La Manche, Espagne",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 90,
    "sources": [
-    "Le Monde"
+    "France 24"
    ],
    "non_confirme": [],
    "importance": 75,
-   "empreinte": "c7ddb8f5bf43d71d",
-   "score": 87,
-   "fiab_max": 90,
+   "empreinte": "4d58cf24b33b7170",
+   "score": 85,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823760+00:00"
+   "depuis": "2026-07-23T16:12:05.293820+00:00"
   },
   {
    "faits": [
-    "L'Iran revendique des bombardements sur des sites militaires américains en Jordanie et au Koweït",
-    "L'Iran affirme avoir détruit un radar américain du système antimissile Thaad en Jordanie",
-    "L'armée iranienne dit avoir visé notamment des dépôts de munitions et des réservoirs de carburant au Koweït",
-    "L'armée américaine a procédé à une 'nouvelle série de frappes contre l'Iran pour la 12e nuit d'affilée'"
+    "La Mostra de Venise dévoile la programmation de sa 83e édition",
+    "Vingt longs-métrages seront en compétition du 2 au 12 septembre",
+    "Florian Zeller, Stéphane Brizé et Nanni Moretti sont parmi les réalisateurs en compétition",
+    "Le prix décerné est le Lion d'or du meilleur film"
    ],
-   "qui": "Iran, États-Unis",
-   "ou": "Jordanie, Koweït, Moyen-Orient",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
+   "qui": "Mostra de Venise",
+   "ou": "Venise, Italie",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 92,
    "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "dommages réels et efficacité des frappes revendiquées"
-   ],
-   "importance": 80,
-   "empreinte": "d3ddf8004340dcfb",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823762+00:00"
-  },
-  {
-   "faits": [
-    "Salah Abdeslam est sanctionné pour avoir dénoncé ses conditions de détention",
-    "Salah Abdeslam est le dernier membre encore en vie du commando des attentats du 13 novembre 2015",
-    "Il est condamné à la perpétuité incompressible et à l'isolement depuis dix ans"
-   ],
-   "qui": "Salah Abdeslam",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "0209608da6079bf0",
-   "score": 86,
+   "importance": 60,
+   "empreinte": "d2752cc423cb3c66",
+   "score": 85,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823763+00:00"
+   "depuis": "2026-07-23T16:12:05.294336+00:00"
   },
   {
    "faits": [
@@ -2344,71 +2323,25 @@
   },
   {
    "faits": [
-    "Le gouvernement français va doubler le plafond annuel des franchises médicales de 100 à 200 euros",
-    "Ce plafond n'a pas évolué depuis 20 ans",
-    "Le montant des franchises (1€ par boîte de médicament et 2€ par consultation) restera le même"
+    "Allan Brunon, élu insoumis à la mairie de Grenoble, a participé à la manifestation qui a interrompu le concert de la DJ Barbara Butch samedi",
+    "Brunon a saisi la justice pour des injures à caractère raciste et des menaces",
+    "Il dénonce une campagne de cyberharcèlement contre lui"
    ],
-   "qui": "Gouvernement français, Stéphanie Rist (ministre de la Santé)",
-   "ou": "France",
+   "qui": "Allan Brunon (La France Insoumise)",
+   "ou": "Grenoble, France",
    "categorie": "politique",
-   "sensible": false,
-   "confiance": 90,
+   "sensible": true,
+   "confiance": 88,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [],
    "importance": 65,
-   "empreinte": "3dd2815f289d64c7",
-   "score": 85,
+   "empreinte": "0f1e41ea44defe76",
+   "score": 84,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823765+00:00"
-  },
-  {
-   "faits": [
-    "Une épidémie de rougeole est décrite comme 'hors de contrôle' aux États-Unis",
-    "Il y a une accélération du nombre de cas de rougeole",
-    "La baisse de la couverture vaccinale est la principale cause de cette crise",
-    "Le vaccino-scepticisme d'une partie des habitants et de l'administration Trump est en cause"
-   ],
-   "qui": "États-Unis, administration Trump",
-   "ou": "États-Unis",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "d9604680a3a79b93",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823766+00:00"
-  },
-  {
-   "faits": [
-    "Deux assistantes maternelles seront jugées pour avoir entassé 12 enfants dans une voiture",
-    "L'incident s'est produit au sous-sol d'une crèche illégale à Yerres, en Essonne",
-    "L'une des deux femmes avait un agrément suspendu",
-    "Les deux femmes ont tenté de contourner un contrôle de la PMI"
-   ],
-   "qui": "Deux assistantes maternelles (non nommées)",
-   "ou": "Yerres, Essonne, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "29a63fd6e1408d5e",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823768+00:00"
+   "depuis": "2026-07-23T16:12:05.294338+00:00"
   },
   {
    "faits": [
@@ -2457,29 +2390,6 @@
   },
   {
    "faits": [
-    "Gabriel Loustau, figure montante d'extrême droite, a été condamné à six mois de prison",
-    "Gabriel Loustau est le petit-fils de Fernand Loustau et fils d'Axel Loustau",
-    "Il a été reconnu coupable de violences le 21 juillet",
-    "Il est âgé de 25 ans"
-   ],
-   "qui": "Gabriel Loustau",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "721b382298fb32bf",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823772+00:00"
-  },
-  {
-   "faits": [
     "Nestlé se désengage partiellement de son activité d'eau en bouteille",
     "L'activité est éclaboussée par un scandale autour de ses procédés de microfiltration",
     "Nestlé annonce la création d'une coentreprise avec Platinum Equity (société d'investissement américaine)",
@@ -2503,25 +2413,28 @@
   },
   {
    "faits": [
-    "Le Tour de France 2026 entre dans les Alpes avec la 18e étape entre Voiron et Orcières-Merlette",
-    "Les coureurs ont franchi quatre massifs montagneux",
-    "Les sprinteurs éprouvent des difficultés en montagne pour respecter les délais"
+    "Cédric Jubillar a fait des aveux devant la justice mercredi dernier",
+    "Jubillar a déclaré avoir tué la mère de ses enfants",
+    "Il a raconté avoir attrapé sa femme par le cou et avoir serré",
+    "L'amant de Delphine Jubillar a rejeté les aveux de Cédric Jubillar, les qualifiant de nouvelle stratégie"
    ],
-   "qui": "Coureurs du Tour de France 2026",
-   "ou": "Alpes, Voiron, Orcières-Merlette, France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
+   "qui": "Cédric Jubillar",
+   "ou": "France (Montauban)",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
    "sources": [
-    "Le Monde"
+    "Le Figaro"
    ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "108dab842c00bf5d",
-   "score": 83,
-   "fiab_max": 90,
+   "non_confirme": [
+    "La véracité des aveux de Cédric Jubillar selon le compagnon de Delphine"
+   ],
+   "importance": 70,
+   "empreinte": "3fd6cfeff005e76a",
+   "score": 82,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823775+00:00"
+   "depuis": "2026-07-23T16:12:05.293727+00:00"
   },
   {
    "faits": [
@@ -2661,28 +2574,6 @@
   },
   {
    "faits": [
-    "Le guichet 'grands rouleurs' sera ouvert jusqu'au 31 août au lieu du 31 juillet",
-    "Roland Lescure réunira les distributeurs lundi à Bercy",
-    "L'objectif est de 's'assurer qu'il n'y aura pas d'excès sur les marges'"
-   ],
-   "qui": "Roland Lescure (ministre de l'Économie)",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "d63f45c5c2b85e8d",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.823780+00:00"
-  },
-  {
-   "faits": [
     "Le Ghana relance l'appel à l'Union africaine sur les violences xénophobes en Afrique du Sud",
     "Le président du Ghana appelle à débattre ces violences lors du sommet de l'UA prévu en février 2027",
     "Plus de 160 000 étrangers ont quitté l'Afrique du Sud au cours des deux derniers mois",
@@ -2703,6 +2594,51 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T14:26:43.166036+00:00"
+  },
+  {
+   "faits": [
+    "En Tunisie, une canicule frappe le pays depuis une dizaine de jours",
+    "Les températures grimpent durant la canicule",
+    "Des coupures d'électricité se multiplient",
+    "De nombreux Tunisiens dénoncent le manque d'anticipation des autorités"
+   ],
+   "qui": null,
+   "ou": "Tunisie",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "aeaf14f5e8a5c4e1",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T16:12:05.294345+00:00"
+  },
+  {
+   "faits": [
+    "Le Premier ministre britannique Andy Burnham a réduit la taxe professionnelle des pubs, discothèques et lieux de concert de 20 %",
+    "Un pub ferme chaque jour au Royaume-Uni",
+    "Il s'agit de la troisième mesure économique prise par Burnham en trois jours"
+   ],
+   "qui": "Andy Burnham (Premier ministre britannique)",
+   "ou": "Royaume-Uni",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "b8d34e5cc23afa1a",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T16:12:05.294346+00:00"
   },
   {
    "faits": [
@@ -2728,6 +2664,50 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T12:00:05.695565+00:00"
+  },
+  {
+   "faits": [
+    "En Mauritanie, les Imraguens pratiquent une technique de pêche à pied depuis des siècles dans le parc national du Banc d'Arguin",
+    "Le savoir-faire traditionnel de ce peuple de pêcheurs est menacé",
+    "Les menaces incluent le réchauffement climatique, la surpêche et la difficulté de transmission aux générations futures"
+   ],
+   "qui": "Imraguens (peuple de pêcheurs)",
+   "ou": "Parc national du Banc d'Arguin, Mauritanie",
+   "categorie": "autre",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "6360aebc65d22144",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T16:12:05.294349+00:00"
+  },
+  {
+   "faits": [
+    "Au Cap-Vert, l'extraction illégale de sable marin pour le secteur du bâtiment défigure le littoral depuis des décennies",
+    "Certaines plages de l'île de Santiago ont perdu leur aspect de carte postale",
+    "Ce trafic menace les écosystèmes, favorise la salinisation des terres agricoles et pousse des femmes à risquer leur santé"
+   ],
+   "qui": null,
+   "ou": "Cap-Vert (île de Santiago)",
+   "categorie": "autre",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "4403b2cf3c70637b",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T16:12:05.294350+00:00"
   }
  ],
  "publies_48h": [
