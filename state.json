@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/meurtre-d-une-surveillante-par-un-collegien-en-haute-marne/meurtre-d-une-surveillante-a-nogent-un-collegien-de-15-ans-condamne-a-18-ans-de-reclusion-criminelle_8110745.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-radio/affaire-jubillar-le-proces-d-une-disparition/je-ne-comprends-pas-que-cette-depouille-ait-pu-rester-si-longtemps-sur-notre-commune-dit-le-maire-de-mailhoc-apres-la-decouverte-d-ossements-a-l-endroit-ou-cedric-jubillar-affirme-avoir-cache-le-corps-de-delphine_8110691.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-radio/affaire-jubillar-le-proces-d-une-disparition/c-est-une-deuxieme-affaire-qui-demarre-depuis-la-decouverte-d-ossements-dans-le-tarn-apres-les-aveux-de-cedric-jubillar-affirme-l-avocate-d-une-amie-de-delphine-aussaguel_8110820.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/meteo/orages-vingt-six-departements-de-la-moitie-est-du-pays-en-vigilance-orange-16-departements-en-alerte-orange-canicule_8110898.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/recit-des-aveux-de-cedric-jubillar-a-la-decouverte-d-ossements-comment-l-une-des-plus-importantes-affaires-criminelles-a-bascule-en-une-quinzaine-de-jours_8111228.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/culture/a-paris-la-place-maurice-barres-fervent-antisemite-rebaptisee-lucie-dreyfus_8119160.html#xtor=RSS-3-[lestitres]",
    "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/antibes/on-vient-d-assister-au-passage-des-camions-c-est-un-carnage-huit-dauphins-de-marineland-transferes-dans-la-nuit-vers-l-espagne-3390715.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/pollution/qualite-de-l-eau/perrier-san-pellegrino-vittel-les-eaux-nestle-se-detachent-du-groupe-pour-mieux-tourner-la-page-du-scandale_8119190.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/cyclisme/paul-seixas/reportage-c-est-une-fierte-paul-seixas-le-prodige-du-cyclisme-francais-fait-vibrer-les-clubs-de-son-enfance_8118851.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/cyclisme/paul-seixas/reportage-c-est-une-fierte-paul-seixas-le-prodige-du-cyclisme-francais-fait-vibrer-les-clubs-de-son-enfance_8118851.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/meurtre-de-thomas-a-crepol/meurtre-de-thomas-a-crepol-la-circonstance-aggravante-de-racisme-retenue-par-les-juges-d-instruction_8119274.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/inde/le-premier-ministre-indien-narendra-modi-promet-de-punir-severement-les-responsables-des-fraudes-aux-examens-a-l-origine-de-la-colere-etudiante_8118764.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-conditionnent-l-accord-sur-le-nucleaire-civil-avec-l-arabie-saoudite-a-une-reconnaissance-d-israel_8119379.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -438,12 +438,6 @@
    "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/la-maladie-est-plus-contagieuse-que-jamais-l-angleterre-toujours-maudite-depuis-60-ans-20260718",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-angleterre-les-bleus-ont-ils-envie-de-jouer-la-petite-finale-20260718",
-   "https://www.lefigaro.fr/cinema/l-odyssee-une-nouvelle-fois-adapte-en-film-dans-une-version-entierement-generee-par-ia-20260718",
-   "https://www.lefigaro.fr/international/la-turquie-frappee-par-un-seisme-de-magnitude-5-20260718",
-   "https://www.lefigaro.fr/international/capitulation-renoncement-consternation-a-droite-apres-l-interview-de-l-ambassadeur-de-france-en-algerie-favorable-au-retour-a-250-000-visas-par-an-20260718",
-   "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949576/japon-france",
    "https://www.lefigaro.fr/politique/enquete-du-pnf-sur-edouard-philippe-un-tribunal-maintient-le-statut-de-la-lanceuse-d-alerte-20260718",
    "https://www.lefigaro.fr/faits-divers/il-etait-plus-interessant-de-tenter-de-retrouver-d-autres-parties-du-corps-la-defense-de-cedric-jubillar-regrette-l-arret-des-fouilles-20260718",
    "https://www.lefigaro.fr/marseille/les-intimidations-ne-peuvent-pas-gagner-la-colere-du-maire-d-ales-menace-de-mort-par-la-dz-mafia-20260718",
@@ -737,20 +731,15 @@
    "https://www.lefigaro.fr/cinema/l-odyssee-fait-chavirer-le-public-francais-en-enregistrant-1-84-million-d-entrees-en-une-semaine-20260723",
    "https://www.lefigaro.fr/international/ses-convictions-ressemblent-a-celles-d-un-americain-moyen-joe-rogan-le-roi-des-podcasteurs-faiseur-d-opinion-debride-20260723",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-les-grimpeurs-attendus-une-premiere-victoire-tricolore-possible-a-orcieres-merlette-suivez-la-18e-etape-20260723",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/le-panache-c-est-luis-ocana-le-tour-de-france-s-offre-un-voyage-sur-les-ailes-de-l-espagnol-20260722"
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/le-panache-c-est-luis-ocana-le-tour-de-france-s-offre-un-voyage-sur-les-ailes-de-l-espagnol-20260722",
+   "https://www.lefigaro.fr/conjoncture/csg-abattement-fiscal-patrimoine-les-pistes-pour-faire-payer-les-retraites-s-accumulent-a-l-approche-de-2027-20260723",
+   "https://www.lefigaro.fr/meteo/incendie-en-gironde-les-images-impressionnantes-des-feux-pres-du-bassin-d-arcachon-20260723",
+   "https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260723",
+   "https://www.lefigaro.fr/marseille/policier-grievement-blesse-lors-d-un-refus-d-obtemperer-a-marseille-trois-jeunes-individus-envoyes-en-detention-provisoire-20260723",
+   "https://www.lefigaro.fr/actualite-france/narbonne-sept-personnes-hospitalisees-apres-une-fuite-d-ammoniac-dans-une-usine-de-traitement-d-uranium-20260723",
+   "https://www.lefigaro.fr/nice/la-mortalite-routiere-en-hausse-au-mois-de-juin-dans-le-departement-des-alpes-maritimes-20260723"
   ],
   "https://www.france24.com/fr/rss": [
-   "48a039ba-8113-11f1-a558-1f5f45bd9f1e",
-   "187bbb1c-8111-11f1-9636-1f5f45bd9f1e",
-   "2d582d66-8109-11f1-9dc0-d5c4954d972f",
-   "ec11938c-810e-11f1-932a-1f5f45bd9f1e",
-   "391706a2-8106-11f1-947a-d5c4954d972f",
-   "d521453a-8106-11f1-af64-d5c4954d972f",
-   "a1713e32-8108-11f1-ad19-ff1868c275bd",
-   "3a7284fc-8108-11f1-9fca-d5c4954d972f",
-   "dfd054f8-8106-11f1-bd39-d5c4954d972f",
-   "ee226344-8123-11f1-848a-6939abb0c9d6",
-   "541866c8-8122-11f1-8f49-734d52a072cd",
    "8e62f438-8122-11f1-bdbc-734d52a072cd",
    "5fa00ac8-8122-11f1-a5d6-734d52a072cd",
    "1129839a-8124-11f1-8c39-734d52a072cd",
@@ -1039,7 +1028,18 @@
    "df56beb8-867e-11f1-8e80-3124adb8251c",
    "2e1a0f16-866e-11f1-971d-8b91e7fe4f70",
    "db8cf5e2-8677-11f1-84b8-6ff3aff177dc",
-   "f0907546-8676-11f1-9176-579a71d41a78"
+   "f0907546-8676-11f1-9176-579a71d41a78",
+   "ca4bacaa-869b-11f1-8dd0-c1197a591d55",
+   "52d426a2-8691-11f1-9d1e-2dcd50b46637",
+   "d0e1ae98-8691-11f1-964d-2dcd50b46637",
+   "644ea5fa-8692-11f1-af2e-eddc5c5fa818",
+   "87057a82-868e-11f1-ae1e-eddc5c5fa818",
+   "ddf9d2b2-868d-11f1-9cc7-15b536c8e6d9",
+   "2bf6df1a-868d-11f1-8195-c900f4918ced",
+   "cc2274be-868c-11f1-8f73-15b536c8e6d9",
+   "b0f286a8-868b-11f1-ba26-c900f4918ced",
+   "20be0d28-868b-11f1-b250-15b536c8e6d9",
+   "8cabb4cc-868b-11f1-8fd0-c900f4918ced"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -2089,6 +2089,31 @@
   },
   {
    "faits": [
+    "Un incendie ravage 2 400 hectares au nord du bassin d'Arcachon en Gironde",
+    "L'incendie est toujours en cours",
+    "Au moins 44 000 hectares ont brûlé depuis le début de la saison 2026",
+    "Près de 12 000 habitants et touristes ont été évacués",
+    "L'origine est probablement accidentelle"
+   ],
+   "qui": null,
+   "ou": "Gironde, bassin d'Arcachon, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "be71aabf42ee3376",
+   "score": 97,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-23T14:26:43.167044+00:00"
+  },
+  {
+   "faits": [
     "TotalEnergies a doublé son bénéfice net au 2e trimestre à 4,7 milliards d'euros",
     "Le bénéfice net du premier semestre s'affiche à 11,2 milliards de dollars (9,8 milliards d'euros)",
     "La hausse du bénéfice sur un an est de 73% (ou 72% selon une source)"
@@ -2109,6 +2134,30 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-23T10:03:05.823751+00:00"
+  },
+  {
+   "faits": [
+    "Le Premier ministre indien Narendra Modi promet de punir sévèrement les responsables des fraudes aux examens",
+    "Des dizaines de milliers d'étudiants et jeunes manifestent à New Delhi depuis le 20 juillet",
+    "La police a sévèrement réprimé une manifestation lundi où les protestataires tentaient de rallier le Parlement",
+    "Les étudiants exigent la démission du ministre de l'Education"
+   ],
+   "qui": "Narendra Modi, étudiants indiens",
+   "ou": "Inde, New Delhi",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "29ee5e8a237cdf5d",
+   "score": 95,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-23T14:26:43.167048+00:00"
   },
   {
    "faits": [
@@ -2156,6 +2205,28 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T10:03:05.823757+00:00"
+  },
+  {
+   "faits": [
+    "Les juges d'instruction ont retenu la circonstance aggravante de racisme dans le meurtre de Thomas à Crépol",
+    "Cette qualification a été ajoutée après observations de parties civiles",
+    "Le parquet n'avait pas retenu le motif racial dans son réquisitoire de juin"
+   ],
+   "qui": "Juges d'instruction",
+   "ou": "Crépol",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "b6d6dfe68ead2d51",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T14:26:43.167053+00:00"
   },
   {
    "faits": [
@@ -2341,27 +2412,25 @@
   },
   {
    "faits": [
-    "Douze enfants ont été retrouvés entassés dans une voiture au sous-sol d'une maison d'assistantes maternelles",
-    "Le lieu est situé à Yerres en Essonne",
-    "L'une des deux mises en cause avait perdu son agrément",
-    "Des témoignages mentionnent des odeurs de drogue sur place",
-    "La question de la remontée des signalements des parents se pose"
+    "Les États-Unis conditionnent un accord sur le nucléaire civil avec l'Arabie saoudite à une reconnaissance d'Israël",
+    "L'accord ouvre la voie à la construction de centrales nucléaires en Arabie saoudite",
+    "L'accord est critiqué pour le risque de lancer la région dans une course aux armements atomiques"
    ],
-   "qui": null,
-   "ou": "Yerres (Essonne)",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 86,
+   "qui": "États-Unis, Arabie saoudite, Israël",
+   "ou": "Arabie saoudite, Moyen-Orient",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 74,
-   "empreinte": "d85ff54a7ac5679a",
-   "score": 85,
+   "importance": 72,
+   "empreinte": "c8d8a118970b5f6e",
+   "score": 84,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-23T07:25:29.917482+00:00"
+   "depuis": "2026-07-23T14:26:43.167067+00:00"
   },
   {
    "faits": [
@@ -2411,51 +2480,6 @@
   },
   {
    "faits": [
-    "TotalEnergies a enregistré un résultat net de 5,4 milliards de dollars au second trimestre",
-    "Ce résultat est en forte hausse",
-    "Les chiffres sont tirés vers le haut par le conflit au Moyen-Orient",
-    "Le conflit a fait flamber les cours du pétrole"
-   ],
-   "qui": "TotalEnergies",
-   "ou": null,
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "af306134e18c2cc5",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T07:25:29.917489+00:00"
-  },
-  {
-   "faits": [
-    "Une spectaculaire tornade de feu s'est formée au cœur d'un incendie en Gironde",
-    "L'incendie a déjà détruit près de 2000 hectares de forêt",
-    "Le phénomène a été filmé"
-   ],
-   "qui": null,
-   "ou": "Gironde",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 84,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 76,
-   "empreinte": "297fa066f6344e68",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T07:25:17.535569+00:00"
-  },
-  {
-   "faits": [
     "Nestlé se désengage partiellement de son activité d'eau en bouteille",
     "L'activité est éclaboussée par un scandale autour de ses procédés de microfiltration",
     "Nestlé annonce la création d'une coentreprise avec Platinum Equity (société d'investissement américaine)",
@@ -2501,26 +2525,50 @@
   },
   {
    "faits": [
-    "Le Conseil constitutionnel a été saisi 26 fois en 2025, soit dix de plus que la moyenne",
-    "L'année 2026 s'annonce comme record de saisines",
-    "Les questions prioritaires de constitutionnalité sont en hausse",
-    "C'est le plus haut nombre de saisines depuis 15 ans"
+    "Un chauffard de 18 ans a blessé grièvement un policier lors d'un refus d'obtempérer à Marseille",
+    "Le chauffard est connu des services de police",
+    "Il a été mis en examen pour tentative de meurtre sur personne dépositaire de l'autorité publique",
+    "Le chauffard et ses deux passagers de 16 ans ont été écroués",
+    "Un adolescent de 13 ans a été placé sous contrôle judiciaire"
    ],
-   "qui": "Conseil constitutionnel",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
+   "qui": "Chauffard de 18 ans et passagers",
+   "ou": "Marseille",
+   "categorie": "justice",
+   "sensible": true,
    "confiance": 88,
    "sources": [
-    "franceinfo"
+    "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 58,
-   "empreinte": "46844bc9db5f3372",
-   "score": 83,
-   "fiab_max": 90,
+   "importance": 65,
+   "empreinte": "c6122856e66045c5",
+   "score": 82,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-23T07:25:29.917491+00:00"
+   "depuis": "2026-07-23T14:26:43.165880+00:00"
+  },
+  {
+   "faits": [
+    "Une fuite d'ammoniac s'est produite dans une usine de traitement d'uranium à Narbonne",
+    "Sept personnes ont été hospitalisées",
+    "La fuite a été détectée à 8h45 alors que l'usine était à l'arrêt pour maintenance",
+    "La fuite est restée contenue à l'intérieur du site"
+   ],
+   "qui": "Direction de l'usine",
+   "ou": "Narbonne",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "403cf3e827722232",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T14:26:43.165931+00:00"
   },
   {
    "faits": [
@@ -2565,6 +2613,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T12:00:05.694678+00:00"
+  },
+  {
+   "faits": [
+    "Les Houthis, groupe armé yéménite soutenu par l'Iran, ont revendiqué l'attaque de deux pétroliers en mer Rouge",
+    "Cette action s'inscrit dans un blocus naval visant l'Arabie saoudite",
+    "L'objectif est de perturber les livraisons mondiales de pétrole"
+   ],
+   "qui": "Houthis, Iran",
+   "ou": "Mer Rouge, Arabie saoudite",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "f5acee7dd404d9b6",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T14:26:43.167074+00:00"
   },
   {
    "faits": [
@@ -2613,26 +2683,26 @@
   },
   {
    "faits": [
-    "Des milliers de protestataires continuent d'occuper l'esplanade de Jantar Mantar au cœur de New Delhi",
-    "Trois jours après une manifestation sévèrement réprimée, la contestation se poursuit",
-    "Les protestataires exigent la démission du ministre de l'Éducation",
-    "Le gouvernement se dit prêt à entendre le mouvement de contestation pour la première fois depuis plusieurs mois"
+    "Le Ghana relance l'appel à l'Union africaine sur les violences xénophobes en Afrique du Sud",
+    "Le président du Ghana appelle à débattre ces violences lors du sommet de l'UA prévu en février 2027",
+    "Plus de 160 000 étrangers ont quitté l'Afrique du Sud au cours des deux derniers mois",
+    "Les attaques xénophobes se poursuivent"
    ],
-   "qui": "Gouvernement indien ; protestataires étudiants",
-   "ou": "New Delhi (Inde)",
+   "qui": "Président du Ghana, Union africaine",
+   "ou": "Afrique du Sud, Ghana",
    "categorie": "international",
-   "sensible": false,
-   "confiance": 86,
+   "sensible": true,
+   "confiance": 85,
    "sources": [
-    "RFI"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 66,
-   "empreinte": "fa02ccfdf1586a7f",
-   "score": 82,
+   "importance": 65,
+   "empreinte": "37970a18857bb8f2",
+   "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-23T07:25:29.917495+00:00"
+   "depuis": "2026-07-23T14:26:43.166036+00:00"
   },
   {
    "faits": [
@@ -2658,76 +2728,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T12:00:05.695565+00:00"
-  },
-  {
-   "faits": [
-    "En Inde, le Premier ministre Narendra Modi est sorti du silence au quatrième jour de la contestation étudiante",
-    "Modi a promis de punir sévèrement les responsables des fraudes aux examens universitaires",
-    "Les fraudes aux examens sont à l'origine de la colère des étudiants"
-   ],
-   "qui": "Narendra Modi",
-   "ou": "Inde",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 64,
-   "empreinte": "920776cfb668e208",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T07:25:29.917499+00:00"
-  },
-  {
-   "faits": [
-    "En Ukraine, Oleksandr Syrskyi, chef des armées, a quitté son poste",
-    "Volodymyr Zelensky l'a remplacé par le général Mikhailo Drapatyi",
-    "Drapatyi est décrit comme une figure respectée de l'armée ukrainienne",
-    "Le départ de Syrskyi était l'une des principales revendications des manifestants",
-    "Pour une partie des protestataires, cette décision ne répond pas au problème de fond"
-   ],
-   "qui": "Oleksandr Syrskyi ; Mikhailo Drapatyi ; Volodymyr Zelensky",
-   "ou": "Ukraine",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 84,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "si cette décision résout les problèmes soulevés par les manifestants"
-   ],
-   "importance": 69,
-   "empreinte": "9ef3583ff1131396",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T07:25:29.917502+00:00"
-  },
-  {
-   "faits": [
-    "Les ventes de véhicules électriques continuent leur progression en Europe",
-    "Les voitures 100% électriques représentent désormais 20% du marché automobile européen",
-    "Les voitures électriques remplacent progressivement les véhicules thermiques en Europe"
-   ],
-   "qui": null,
-   "ou": "Europe",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 86,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "720699dfe42e2f4a",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T07:25:29.917503+00:00"
   }
  ],
  "publies_48h": [
