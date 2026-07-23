@@ -2,7 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-tadej-pogacar-va-t-il-laisser-les-baroudeurs-s-exprimer-entre-dole-et-belfort-suivez-la-13e-etape_8110052.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-jubillar-pourquoi-la-zone-ou-des-ossements-ont-ete-decouverts-n-avait-jamais-ete-fouillee_8111405.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/on-a-pris-un-but-du-coup-j-ai-remis-ma-veste-pourquoi-le-superstitieux-javier-milei-n-assistera-pas-a-la-finale-de-coupe-du-monde-de-l-argentine_8111552.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-le-16-juillet-devient-la-journee-la-plus-foudroyee-de-2026-avec-plus-de-20-000-eclairs_8111753.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +300,8 @@
    "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/incendie-en-gironde-des-milliers-de-touristes-evacues_8119826.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/drogue-addictions/cocaine/val-de-marne-un-laboratoire-de-cocaine-demantele-dans-un-airbnb_8119781.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement-sexuel/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-suspectes-de-viols-et-de-complicite-d-exploitation-sexuelle-vers-le-royaume-uni_8119814.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/un-mineur-etranger-mis-en-examen-et-ecroue-pour-le-viol-d-une-octogenaire-a-rennes_8119790.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/faits-divers/un-mineur-etranger-mis-en-examen-et-ecroue-pour-le-viol-d-une-octogenaire-a-rennes_8119790.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/justice/en-charente-maritime-la-justice-ordonne-le-demantelement-de-quatre-bassines-d-ici-3-ans_8119850.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -438,9 +438,6 @@
    "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-feu-d-artifice-attendu-au-markstein-suivez-la-14e-etape-20260718",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/c-est-important-d-avoir-un-groupe-fort-autour-de-lui-paul-seixas-l-etincelle-attendue-pour-reveiller-le-tour-de-france-20260718",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/s-agit-il-du-week-end-des-grands-ecarts-sur-le-tour-de-france-20260718",
    "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-il-aurait-volontairement-exerce-des-violences-un-arbitre-bientot-devant-le-tribunal-pour-des-faits-reproches-de-violences-conjugales-20260718",
    "https://www.lefigaro.fr/societes/je-n-aurais-jamais-imagine-l-ampleur-que-ca-allait-prendre-l-insolent-succes-de-climloc-marchand-d-air-frais-sous-le-feu-des-critiques-20260718",
    "https://www.lefigaro.fr/histoire/heureux-qui-comme-ulysse-sylvain-tesson-met-les-voiles-sur-les-traces-du-celebre-heros-20260718",
@@ -737,13 +734,12 @@
    "https://www.lefigaro.fr/international/guerre-en-ukraine-la-fuite-en-avant-de-vladimir-poutine-20260723",
    "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-le-prix-de-la-guerre-de-poutine-20260723",
    "https://www.lefigaro.fr/conso/exces-de-cadmium-des-melons-vendus-chez-carrefour-rappeles-dans-toute-la-france-20260723",
-   "https://www.lefigaro.fr/international/pris-dans-le-piege-iranien-donald-trump-tente-par-l-escalade-20260723"
+   "https://www.lefigaro.fr/international/pris-dans-le-piege-iranien-donald-trump-tente-par-l-escalade-20260723",
+   "https://www.lefigaro.fr/meteo/totalement-inedit-avec-le-retour-de-la-canicule-la-semaine-prochaine-quelles-seront-les-regions-les-plus-touchees-20260723",
+   "https://www.lefigaro.fr/conjoncture/la-maison-blanche-annonce-de-nouveaux-droits-de-douane-a-partir-de-vendredi-20260723",
+   "https://www.lefigaro.fr/secteur/high-tech/piratage-sans-precedent-par-chatgpt-quand-l-ia-devient-indomptable-entre-complots-triche-et-projets-d-assassinat-20260723"
   ],
   "https://www.france24.com/fr/rss": [
-   "0ae21002-8132-11f1-8c63-4bab7b0c19c7",
-   "44cfd960-8138-11f1-90b4-c5f319ad9514",
-   "882b3d00-8159-11f1-ac5c-cf7c83649bc4",
-   "ea9351fa-8157-11f1-83a7-ffddeb2b2c7f",
    "c3979a3a-8160-11f1-b07e-9f6d8cd0d3dd",
    "4f0dd21e-8166-11f1-ad1d-4701f996e5aa",
    "8003186a-818a-11f1-a794-8997a8a8e492",
@@ -1039,7 +1035,11 @@
    "7ff4d57c-86a6-11f1-9371-23b047e41a7a",
    "1df7d29c-86bb-11f1-babf-e195c3ebaf41",
    "4962b738-86c7-11f1-ba93-f5a42eafbefb",
-   "f2fcbbf6-86c5-11f1-9848-f5a42eafbefb"
+   "f2fcbbf6-86c5-11f1-9848-f5a42eafbefb",
+   "60fc85fe-86db-11f1-ab40-9ba9ff8af27a",
+   "ac614ed4-86d2-11f1-a8b7-97471aff8818",
+   "3449606a-86d4-11f1-97f7-97471aff8818",
+   "b9a65bbc-86c2-11f1-8b3f-9bd2ed216422"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1306,10 +1306,6 @@
    "6787a5d4-86a9-11f1-88e0-0388c9290f24"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-16/cheminees-strates-bombes-volcaniques-en-france-ce-volcan-mis-a-nu-par-une-carriere-se-visite-de-l-interieur-66d7d29d-0b7b-4aef-8265-d16e98888b6d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-une-opportunite-magnifique-les-premiers-mots-de-davide-ancelotti-fils-de-carlo-nouvel-entraineur-du-losc-f4b8cf52-8139-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-16/comment-les-ruines-vertigineuses-de-ce-village-francais-racontent-la-chute-d-une-cite-autrefois-puissante-5cb3235f-1ad7-4f75-b8da-6bc31e3bcbf9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-les-etats-unis-annoncent-une-nouvelle-salve-de-frappes-en-iran-caafe170-8146-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-16/voici-l-histoire-de-la-plus-grande-pirate-au-monde-qui-a-fait-trembler-les-flottes-europeennes-et-son-propre-pays-b08f3a7e-5e0a-45f5-a627-a10df8d829a0?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-mohamed-ouahbi-confirme-sur-le-banc-du-maroc-21e370f8-8145-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/meteo/orage/ca-a-souffle-tellement-fort-quun-arbre-sest-couche-sur-ma-cloture-son-assurance-refuse-de-lindemniser-d1f656fe-8122-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1605,7 +1601,11 @@
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-un-coureur-percute-par-une-voiture-et-tenu-pour-responsable-par-le-conducteur-558b6da2-86c7-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-23/l-accroc-qui-a-tout-change-quand-madonna-choquait-une-partie-de-l-amerique-avec-une-prestation-improvisee-20991f35-da8c-4a3d-b30a-0ecffc6840f7?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-combien-de-points-reste-t-il-a-distribuer-pour-le-classement-du-maillot-a-pois-e1014704-86c1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-23/52-morts-17-survivants-ce-crash-d-avion-dont-l-epave-a-ete-retrouvee-a-change-l-histoire-de-la-securite-aerienne-50d7e139-3879-428f-a50a-c3bbd26f274d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-23/52-morts-17-survivants-ce-crash-d-avion-dont-l-epave-a-ete-retrouvee-a-change-l-histoire-de-la-securite-aerienne-50d7e139-3879-428f-a50a-c3bbd26f274d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendies-4-800-hectares-brules-et-20-000-evacues-en-gironde-1-200-hectares-detruits-et-5-000-evacues-dans-les-landes-302bf9d8-86d5-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/juste-envie-de-survivre-les-prochains-jours-vauquelin-deplore-des-sensations-de-merde-sur-le-tour-de-france-622ea114-86d1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-le-sparta-prague-recrute-le-cousin-derling-haaland-avant-de-defier-lyon-au-3e-tour-preliminaire-947ded4a-86cd-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/etats-unis/250-ans-des-etats-unis-lancement-dune-bourse-la-fayette-pour-etudiants-americains-en-france-94d3090c-86d1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1749,7 +1749,13 @@
    "https://www.20minutes.fr/societe/4235978-20260723-comportement-feu-difficile-anticiper-ur-incendie-eprouve-gironde?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/politique/4236065-20260723-reseaux-sociaux-interdits-moins-15-ans-lfi-depose-recours-devant-conseil-constitutionnel?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4235880-20260723-direct-guerre-moyen-orient-attaque-houthis-mer-rouge-menaces-teheran-contre-etats-unis?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/societe/4235983-20260723-apres-decouverte-enfants-entasses-voiture-comment-controlees-creches-structures-accueil?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/societe/4235983-20260723-apres-decouverte-enfants-entasses-voiture-comment-controlees-creches-structures-accueil?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/justice/4236066-20260723-rennes-mineur-origine-marocaine-mis-examen-ecroue-viol-octogenaire?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/canicule/4236057-20260723-pluie-surtout-orages-attendus-france-week-end?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4236052-20260723-guerre-ukraine-rubio-lavrov-discutent-nouveau-paquet-sanctions-europeennes-rabais?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4235887-20260723-direct-incendies-feu-severe-pres-bassin-arcachon-milliers-habitants-touristes-evacues?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/economie/4236061-20260723-tesla-france-ecarte-conduite-automatique-supervisee-raisons-securite?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/justice/4236029-20260723-carrefour-pdg-alexandre-bompard-perquisitionne-fevrier-apres-plainte-casino?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1901,7 +1907,9 @@
    "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-il-pour-il-l-iran-menace-trump-22-07_VN-202607220687.html",
    "https://www.bfmtv.com/international/moyen-orient/iran/video-il-pour-il-l-iran-menace-les-etats-unis-d-une-riposte-puissante-et-decisive_VN-202607220684.html",
    "https://www.bfmtv.com/lyon/face-aux-canicules-successives-ce-village-du-rhone-a-decide-d-arreter-de-faire-sonner-les-cloches-la-nuit_AV-202607220682.html",
-   "https://www.bfmtv.com/alsace/un-veritable-pillage-une-filiere-de-recolte-illegale-de-myrtilles-demantelee-en-alsace_AN-202607220679.html"
+   "https://www.bfmtv.com/alsace/un-veritable-pillage-une-filiere-de-recolte-illegale-de-myrtilles-demantelee-en-alsace_AN-202607220679.html",
+   "https://www.bfmtv.com/meteo/secheresse/direct-incendies-en-france-2-000-hectares-parcourus-et-12-000-personnes-evacuees-en-gironde_LN-202607230037.html",
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-canada-etats-unis-mark-carney-intensifie-les-negociations-apres-les-nouvelles-taxes-des-usa_VN-202607230668.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2130,28 +2138,34 @@
   },
   {
    "faits": [
-    "Un incendie ravage 2 400 hectares au nord du bassin d'Arcachon en Gironde",
-    "L'incendie est toujours en cours",
-    "Au moins 44 000 hectares ont brûlé depuis le début de la saison 2026",
-    "Près de 12 000 habitants et touristes ont été évacués",
-    "L'origine est probablement accidentelle"
+    "Un important incendie sévit en Gironde avec 4 800 hectares brûlés",
+    "Un important incendie sévit dans les Landes avec 1 200 hectares détruits",
+    "20 000 personnes sont évacuées en Gironde",
+    "5 000 personnes sont évacuées dans les Landes",
+    "Plus de 6 000 hectares au total ont été ravagés",
+    "25 000 personnes au total ont dû être évacuées",
+    "Les incendies sont favorisés par une sécheresse inhabituelle",
+    "Un incendie près de Lacanau a parcouru 3 400 hectares (données antérieures du 23 juillet)",
+    "Le feu sévit depuis mercredi à proximité du bassin d'Arcachon en Gironde",
+    "Dans le Var, un incendie contenu n'est toujours pas fixé"
    ],
    "qui": null,
-   "ou": "Gironde, bassin d'Arcachon, France",
+   "ou": "Gironde; Landes; Var; France",
    "categorie": "meteo_catastrophe",
    "sensible": true,
-   "confiance": 92,
+   "confiance": 88,
    "sources": [
-    "Le Figaro",
-    "France 24"
+    "Ouest-France",
+    "20 Minutes",
+    "BFMTV"
    ],
    "non_confirme": [],
-   "importance": 80,
-   "empreinte": "be71aabf42ee3376",
-   "score": 97,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-23T14:26:43.167044+00:00"
+   "importance": 90,
+   "empreinte": "7ce278ad8389a046",
+   "score": 96,
+   "fiab_max": 80,
+   "nb_sources": 3,
+   "depuis": "2026-07-23T21:32:01.834445+00:00"
   },
   {
    "faits": [
@@ -2181,27 +2195,28 @@
   },
   {
    "faits": [
-    "Le Premier ministre indien Narendra Modi promet de punir sévèrement les responsables des fraudes aux examens",
-    "Des dizaines de milliers d'étudiants et jeunes manifestent à New Delhi depuis le 20 juillet",
-    "La police a sévèrement réprimé une manifestation lundi où les protestataires tentaient de rallier le Parlement",
-    "Les étudiants exigent la démission du ministre de l'Education"
+    "La Maison-Blanche annonce de nouveaux droits de douane à partir de vendredi",
+    "Ces droits sont de 10% ou 12,5%",
+    "Ils visent une soixantaine de partenaires commerciaux",
+    "Les droits visent à lutter contre le travail forcé",
+    "Des droits de douane temporaires de 10% arrivent à expiration vendredi"
    ],
-   "qui": "Narendra Modi, étudiants indiens",
-   "ou": "Inde, New Delhi",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 88,
+   "qui": "Maison-Blanche; États-Unis",
+   "ou": "États-Unis",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
    "sources": [
-    "franceinfo",
+    "Le Figaro",
     "France 24"
    ],
    "non_confirme": [],
    "importance": 70,
-   "empreinte": "29ee5e8a237cdf5d",
-   "score": 95,
-   "fiab_max": 90,
+   "empreinte": "bc5bac217330b3ec",
+   "score": 94,
+   "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-23T14:26:43.167048+00:00"
+   "depuis": "2026-07-23T21:32:01.834449+00:00"
   },
   {
    "faits": [
@@ -2298,28 +2313,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T16:12:05.294332+00:00"
-  },
-  {
-   "faits": [
-    "Les juges d'instruction ont retenu la circonstance aggravante de racisme dans le meurtre de Thomas à Crépol",
-    "Cette qualification a été ajoutée après observations de parties civiles",
-    "Le parquet n'avait pas retenu le motif racial dans son réquisitoire de juin"
-   ],
-   "qui": "Juges d'instruction",
-   "ou": "Crépol",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "b6d6dfe68ead2d51",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T14:26:43.167053+00:00"
   },
   {
    "faits": [
@@ -2614,6 +2607,29 @@
   },
   {
    "faits": [
+    "Le bilan d'Ebola en RDC et en Ouganda dépasse 1 000 morts selon l'OMS",
+    "La barre des mille morts pour Ebola a été franchie en RDC",
+    "En Ituri, foyer épidémique, deux essais cliniques ouvrent une piste encourageante",
+    "L'agence sanitaire de l'Union africaine demande aux États-Unis de lever les restrictions de voyage"
+   ],
+   "qui": "OMS; Agence sanitaire de l'Union africaine",
+   "ou": "RDC; Ouganda",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "0b74f9c01a942ce1",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T21:32:01.832918+00:00"
+  },
+  {
+   "faits": [
     "Laboratoire de cocaïne démantelé dans un Airbnb en Val-de-Marne",
     "La drogue arrivait sous forme liquide",
     "Deux occupants interpellés le 14 juillet"
@@ -2729,25 +2745,28 @@
   },
   {
    "faits": [
-    "Les États-Unis conditionnent un accord sur le nucléaire civil avec l'Arabie saoudite à une reconnaissance d'Israël",
-    "L'accord ouvre la voie à la construction de centrales nucléaires en Arabie saoudite",
-    "L'accord est critiqué pour le risque de lancer la région dans une course aux armements atomiques"
+    "Une quatrième canicule est annoncée pour la semaine suivante",
+    "Elle concernera environ trois quarts du territoire français",
+    "Des températures maximales proches de 40°C sont prévues",
+    "Cet événement serait sans précédent depuis 1945 selon La Chaîne météo"
    ],
-   "qui": "États-Unis, Arabie saoudite, Israël",
-   "ou": "Arabie saoudite, Moyen-Orient",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
+   "qui": null,
+   "ou": "France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 80,
    "sources": [
-    "franceinfo"
+    "Le Figaro"
    ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "c8d8a118970b5f6e",
-   "score": 84,
-   "fiab_max": 90,
+   "non_confirme": [
+    "caractère « totalement inédit »"
+   ],
+   "importance": 85,
+   "empreinte": "fbf188010e048c67",
+   "score": 83,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-23T14:26:43.167067+00:00"
+   "depuis": "2026-07-23T21:32:01.832764+00:00"
   }
  ],
  "publies_48h": [
