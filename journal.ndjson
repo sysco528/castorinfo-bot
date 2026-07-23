@@ -5308,3 +5308,39 @@
 {"decision": "controle", "evt": "e0c1a7889bf49ae6", "motif": "ok_sim_0.17", "ts": "2026-07-23T01:08:53+00:00"}
 {"decision": "publie", "empreinte": "1fb98711280787f3", "post_id": "2080097792865821161", "carte": true, "texte": "Nicolas Maduro, ancien président du Venezuela, a été emprisonné aux États-Unis suite à une opération militaire menée à Caracas. Le tribunal de New-York a fixé son procès au 1er juin 2027. Il fait face à quatre chefs d'accusations dont le narcoterrorisme. (franceinfo)", "ts": "2026-07-23T01:08:55+00:00"}
 {"decision": "publie", "empreinte": "9fab063369ece087", "post_id": "2080097810137895221", "carte": true, "texte": "L'Iran menace une riposte « puissante » si les États-Unis attaquent ses infrastructures civiles. Le chef de la diplomatie iranienne Abbas Araghchi répond ainsi aux menaces de Donald Trump de bombarder centrales électriques et ponts iraniens. (20 Minutes, BFMTV)", "ts": "2026-07-23T01:08:59+00:00"}
+{"decision": "abandon_attente", "evt": "000c89d349612ef2", "categorie": "meteo_catastrophe", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "abandon_attente", "evt": "50dbccb5c1ca8a47", "categorie": "meteo_catastrophe", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "abandon_attente", "evt": "332e38436c82b60b", "categorie": "faits_divers", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "abandon_attente", "evt": "1b55e714c93153c5", "categorie": "justice", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "abandon_attente", "evt": "eb150cdf846d1975", "categorie": "international", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "abandon_attente", "evt": "bb86b003616524c7", "categorie": "faits_divers", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "abandon_attente", "evt": "469e040f98dea922", "categorie": "justice", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "abandon_attente", "evt": "92b44bc6d0e7a597", "categorie": "sport", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "abandon_attente", "evt": "178f9e21eff08262", "categorie": "culture", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "abandon_attente", "evt": "b0291828e0ba2cc0", "categorie": "sport", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "abandon_attente", "evt": "6cc6a818c9da18db", "categorie": "culture", "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "2517d25de304e3ac", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo", "Le Figaro", "Ouest-France"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "9a022588dcc773d6", "score": 95, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["Le Figaro", "Ouest-France"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "attente", "evt": "71d4f6da2a6723b0", "score": 88, "categorie": "sante", "sensible": true, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "attente", "evt": "0f264bdea7289897", "score": 83, "categorie": "sante", "sensible": true, "confiance": 82, "sources": ["franceinfo"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "attente", "evt": "e553c7e1aa232d5f", "score": 82, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "14aaa2bb0437a671", "score": 83, "categorie": "sciences", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "b90386d9ababca99", "score": 96, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["France 24", "RFI", "Ouest-France"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "d8d675d277fead99", "score": 76, "categorie": "economie", "sensible": false, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "128bdb3ea9b07b08", "score": 85, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "a856ddcc1672c33f", "score": 93, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["franceinfo", "Le Figaro"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "a84ff6710019a5a8", "score": 82, "categorie": "international", "sensible": false, "confiance": 87, "sources": ["Le Figaro"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "1cb990c013b84fed", "score": 80, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "attente", "evt": "74854fd0103e0ab4", "score": 74, "categorie": "sport", "sensible": false, "confiance": 78, "sources": ["Ouest-France"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "e9549ec6b7401106", "score": 76, "categorie": "culture", "sensible": false, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "c86f8d76d683d70f", "score": 78, "categorie": "sciences", "sensible": false, "confiance": 80, "sources": ["Le Figaro"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "9938df5546195b81", "score": 78, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "76c93f26f52db846", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "publier", "evt": "d33e780dfc5feb50", "score": 75, "categorie": "international", "sensible": false, "confiance": 78, "sources": ["BFMTV"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "attente", "evt": "baa923ed2e6a4096", "score": 74, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["L'Équipe"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "attente", "evt": "9998b0ad1fe2f8f3", "score": 73, "categorie": "economie", "sensible": false, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "attente", "evt": "4397a6937e84b545", "score": 73, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-23T04:42:00+00:00"}
+{"decision": "controle", "evt": "2517d25de304e3ac", "motif": "ok_signal_retrograde_sim_0.51", "ts": "2026-07-23T04:42:05+00:00"}
+{"decision": "controle", "evt": "b90386d9ababca99", "motif": "ok_sim_0.37+alerte_retrogradee", "ts": "2026-07-23T04:42:10+00:00"}
+{"decision": "publie", "empreinte": "b7167ee4fcea80c4", "post_id": "2080151465080037648", "carte": true, "texte": "🌡️ Un incendie ravage plus de 2 000 hectares en Gironde. Au moins 12 000 personnes ont été évacuées depuis mercredi, dont des résidents de campings et d'un domaine naturiste au nord du cap Ferret. (franceinfo)", "ts": "2026-07-23T04:42:11+00:00"}
+{"decision": "publie", "empreinte": "17535aa254e35045", "post_id": "2080151481546854636", "carte": true, "texte": "⚡ FLASH — Tensions au Moyen-Orient. Les Houthis revendiquent des attaques contre deux pétroliers saoudiens en mer Rouge. L'armée américaine poursuit ses frappes contre l'Iran pour la douzième nuit consécutive. (France 24, RFI)", "ts": "2026-07-23T04:42:15+00:00"}

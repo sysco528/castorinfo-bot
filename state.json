@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/c-est-d-abord-la-mefiance-la-prudence-et-surtout-la-stupefaction-dit-l-avocate-de-la-mere-de-cedric-jubillar-apres-la-publication-de-sa-lettre-d-aveux_8097320.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-aveux-de-cedric-jubillar-peuvent-ils-jouer-en-sa-faveur-lors-de-son-proces-en-appel_8095949.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/direct-l-avocat-de-cedric-jubillar-tient-une-conference-de-presse-a-la-mi-journee-apres-les-aveux-de-son-client_8095871.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/reportage-l-argentine-ne-meurt-jamais-d-atlanta-a-buenos-aires-la-folle-emotion-des-supporters-de-l-albiceleste-de-lionel-messi_8110061.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/police/la-petition-contre-la-presomption-d-usage-legitime-des-armes-a-feu-par-les-forces-de-l-ordre-sera-examinee-mardi-en-commission-des-lois_8110139.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/les-grelons-sont-de-plus-en-plus-gros-pourquoi-les-orages-sont-ils-si-violents_8109989.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/appel-a-temoignages-chaleur-isolement-insomnies-vous-etes-traumatise-par-les-dernieres-canicules-et-apprehendez-les-suivantes-racontez-vous_8109023.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/la-decouverte-d-ossements-dans-le-tarn-est-un-grand-soulagement-reagit-l-avocat-de-la-cousine-de-delphine-aussaguel-l-epouse-disparue-de-cedric-jubillar_8110214.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/faits-divers/incendie/les-incendies-ont-brule-au-moins-44-000-hectares-en-france-en-2026-et-128-personnes-ont-ete-interpellees-annonce-laurent-nunez-en-gironde_8118410.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/drogue/je-suis-dans-ce-pays-la-personnalite-la-plus-protegee-apres-le-president-temoigne-amine-kessaci-adjoint-au-maire-de-marseille-devenu-une-cible-pour-sa-lutte-contre-le-narcotrafic_8118398.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/la-dj-barbara-butch-toujours-en-etat-de-choc-apres-l-arret-de-son-concert-se-produira-bien-sur-scene-samedi_8118440.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-epstein-malgre-la-mort-de-daniel-siad-l-enquete-pour-traite-des-etres-humains-se-poursuit-assure-le-parquet-de-paris_8118455.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-epstein-malgre-la-mort-de-daniel-siad-l-enquete-pour-traite-des-etres-humains-se-poursuit-assure-le-parquet-de-paris_8118455.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-2-000-hectares-brules-au-moins-12-000-personnes-evacuees-depuis-hier-annonce-la-prefecture_8118599.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/zones-brulees-hectares-partis-en-fumee-visualisez-et-suivez-les-incendies-dans-l-hexagone-au-fil-de-l-ete_8116688.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-une-situation-sans-precedent-pour-les-pompes-funebres-les-effets-dramatiques-de-la-canicule-perdurent_8111864.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/drogue/quelles-mesures-le-maire-d-ales-a-t-il-prises-pour-lutter-contre-le-narcotrafic-qui-lui-valent-d-etre-menace-par-la-dz-mafia_8117597.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/records-pour-pogacar-bon-cru-francais-etapes-de-folie-pourquoi-ca-vaut-encore-le-coup-de-regarder-les-dernieres-etapes-du-tour-de-france_8116493.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -426,11 +426,6 @@
    "https://www.lemonde.fr/sport/article/2026/07/22/tour-de-france-2026-la-course-contre-le-temps-de-l-equipe-totalenergies-en-quete-d-un-repreneur_6730001_3242.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/on-est-a-un-point-d-inflexion-de-l-ia-aux-robots-la-chine-au-defi-de-briser-le-leadership-technologique-americain-20260717",
-   "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-l-heure-de-la-revanche-de-la-chine-qui-veut-vassaliser-l-europe-20260717",
-   "https://www.lefigaro.fr/international/hongkong-sous-steroides-chongqing-la-megapole-vitrine-du-soft-power-chinois-a-l-ere-de-tiktok-20260717",
-   "https://www.lefigaro.fr/faits-divers/proces-athanor-jusqu-a-30-ans-de-reclusion-pour-les-membres-de-l-officine-criminelle-20260717",
-   "https://www.lefigaro.fr/secteur/high-tech/debauchage-d-employes-soupcons-d-espionnage-messages-revelateurs-les-dessous-du-divorce-choc-entre-apple-et-openai-20260717",
    "https://www.lefigaro.fr/faits-divers/expulse-de-son-logement-social-il-defonce-la-facade-de-son-bailleur-tente-d-y-mettre-le-feu-puis-se-suicide-20260717",
    "https://madame.lefigaro.fr/bien-etre/psycho/ce-que-j-aurais-aime-savoir-avant-de-prendre-un-coup-de-vieux-20260717",
    "https://www.lefigaro.fr/international/ukraine-des-milliers-de-manifestants-a-nouveau-reunis-a-kiev-pour-protester-contre-l-eviction-du-populaire-ministre-de-la-defense-20260717",
@@ -725,11 +720,14 @@
    "https://www.lefigaro.fr/gastronomie/devenir-un-grand-chef-m-obsedait-jean-imbert-avant-la-gloire-et-les-deboires-judiciaires-un-petit-garcon-aime-et-dans-sa-bulle-20260722",
    "https://www.lefigaro.fr/faits-divers/vaste-incendie-en-cours-dans-un-entrepot-pres-de-l-aeroport-charles-de-gaulle-20260722",
    "https://www.lefigaro.fr/secteur/high-tech/la-maison-blanche-accuse-l-ia-chinoise-kimi-d-avoir-siphonne-le-savoir-faire-d-anthropic-20260722",
-   "https://www.lefigaro.fr/musique/la-musique-generee-par-ia-depasse-pour-la-premiere-fois-50-des-titres-mis-en-ligne-quotidiennement-sur-deezer-20260722"
+   "https://www.lefigaro.fr/musique/la-musique-generee-par-ia-depasse-pour-la-premiere-fois-50-des-titres-mis-en-ligne-quotidiennement-sur-deezer-20260722",
+   "https://www.lefigaro.fr/meteo/en-direct-incendies-du-var-a-la-gironde-les-pompiers-se-battent-contre-deux-feux-d-ampleur-20260723",
+   "https://immobilier.lefigaro.fr/article/le-chanteur-vianney-a-toujours-sa-cabane-en-bois-mais-il-n-est-plus-proprietaire-du-43e-etage-de-la-tour-montparnasse-20260723",
+   "https://www.lefigaro.fr/flash-eco/nucleaire-les-etats-unis-envisagent-d-installer-des-reacteurs-en-mer-20260722",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-profil-horaire-favoris-et-le-moment-de-verite-de-la-dix-huitieme-etape-20260723",
+   "https://www.lefigaro.fr/international/colere-etudiante-en-inde-modi-promet-de-punir-severement-les-responsables-des-fraudes-aux-examens-20260723"
   ],
   "https://www.france24.com/fr/rss": [
-   "b972b454-8098-11f1-96fe-597803de63eb",
-   "323e2606-80bd-11f1-b0c2-85fd8de9f78a",
    "3058f11c-80af-11f1-832d-01a8dedbb32f",
    "0c16bfa8-7fbc-11f1-8bbd-7772b74bfb79",
    "ca43b19a-80dc-11f1-95a2-8ba6a0a22865",
@@ -1027,7 +1025,9 @@
    "27d9c512-85fe-11f1-b041-fda11fdbb396",
    "85756ac2-85ff-11f1-ad0f-fda11fdbb396",
    "a0d3787a-85fc-11f1-81c3-fda11fdbb396",
-   "964623be-8622-11f1-8d3b-a53119035be2"
+   "964623be-8622-11f1-8d3b-a53119035be2",
+   "972b7af4-8640-11f1-a849-cf23467db470",
+   "62a9b328-863a-11f1-a851-d767be3f72a3"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1273,14 +1273,12 @@
    "1805fd82-85d0-11f1-8a07-c7f48c98c05f",
    "66b251ac-85ed-11f1-a916-4de02baa7e18",
    "939f7ed4-8614-11f1-8322-2954eb9c8674",
-   "a65fa736-8611-11f1-908a-b96b7307d1da"
+   "a65fa736-8611-11f1-908a-b96b7307d1da",
+   "0dc77f2c-864c-11f1-a693-7bcd5d10debf",
+   "4a8c96be-85ce-11f1-b234-cd8940d8e713",
+   "a0b225be-864a-11f1-be5b-7bcd5d10debf"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/espagne-argentine-une-premiere-la-finale-du-mondial-opposera-le-vainqueur-de-leuro-a-celui-de-la-copa-america-82109444-8094-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/pays-bas/plus-de-900-morts-excedentaires-pendant-la-vague-de-chaleur-aux-pays-bas-8933a464-8094-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-ce-groupe-ne-cesse-de-me-surprendre-dit-scaloni-apres-la-qualification-de-largentine-en-finale-8a37a144-8094-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/angleterre-argentine-les-tops-et-les-flops-de-la-demi-finale-de-coupe-du-monde-messi-eternel-scaloni-etale-tuchel-8218294a-807e-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/palestine/colloque-sur-la-palestine-annule-la-justice-donne-tort-au-college-de-france-86fcdeda-8090-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/espagne-argentine-faut-il-sinquieter-de-la-pelouse-du-metlife-stadium-qui-accueille-la-finale-de-la-coupe-du-monde-bb873760-805c-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/en-images-langleterre-y-a-cru-lautaro-martinez-renversant-messi-eternel-largentine-defendra-son-titre-en-finale-af2c2e20-8076-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/meteo/canicule/canicule-et-orages-violents-46-departements-places-en-vigilance-orange-ce-jeudi-cb87f7be-8096-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1575,7 +1573,12 @@
    "https://www.ouest-france.fr/sport/football/equipe-argentine/une-grave-desinformation-le-dementi-de-la-federation-argentine-apres-louverture-dune-enquete-par-le-fbi-b9c49d1e-8615-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/maltraitance-animale/marineland-le-transfert-de-huit-dauphins-vers-lespagne-a-commence-ccc0b4e6-85f9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/tennis/hugo-gaston/atp-250-destoril-hugo-gaston-domine-titouan-droguet-dans-un-choc-100-pourcent-francais-et-file-en-quart-de-finale-28e3b464-8611-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/hauts-de-france/lens-62300/un-homme-simmole-par-le-feu-dans-le-pas-de-calais-sa-compagne-et-leur-nouveau-ne-gravement-blesses-40dcb7de-860a-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/hauts-de-france/lens-62300/un-homme-simmole-par-le-feu-dans-le-pas-de-calais-sa-compagne-et-leur-nouveau-ne-gravement-blesses-40dcb7de-860a-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/economie/trains-supprimes-reacteurs-a-larret-la-facture-des-canicules-se-precise-52cebea4-85ee-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/du-var-a-la-gironde-les-pompiers-se-battent-contre-deux-incendies-dampleur-9ad59ef4-8623-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/cyclisme/temoignage-je-suis-dans-une-impasse-gravement-blesse-et-en-fin-de-contrat-damien-touze-pousse-vers-la-retraite-536f567c-6035-11f1-b0fc-ddf25559701c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-douzieme-nuit-de-frappes-americaines-iran-et-houthis-prets-a-riposter-les-dernieres-infos-9f503804-85e7-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-le-faux-depart-de-la-ministre-monique-barbut-464a4f40-85e9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2020,180 +2023,188 @@
  "evenements_attente": [
   {
    "faits": [
-    "La France connaît un épisode de sécheresse précoce et exceptionnel en 2026",
-    "Il y a eu 5.764 morts excédentaires en juin",
-    "Cette surmortalité a été « inédite » pour tous les âges",
-    "L'Île-de-France a été particulièrement touchée avec une mortalité doublée",
-    "1.999 décès en Île-de-France en juin (par rapport au niveau normal)",
-    "Des incendies frappent la France le 22 juillet"
+    "5 764 décès excédentaires ont été enregistrés lors de l'épisode de chaleurs extrêmes du 17 juin au 2 juillet",
+    "Pour moitié ces décès se sont concentrés en trois jours (25-27 juin)",
+    "Cette surmortalité n'avait jamais été observée depuis la canicule de 2003",
+    "Les données sont provisoires selon Santé publique France"
    ],
-   "qui": null,
-   "ou": "France, Île-de-France",
-   "categorie": "meteo_catastrophe",
+   "qui": "Santé publique France",
+   "ou": "France",
+   "categorie": "sante",
    "sensible": true,
    "confiance": 90,
    "sources": [
-    "20 Minutes",
-    "20 Minutes",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 90,
-   "empreinte": "000c89d349612ef2",
-   "score": 85,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T20:02:39.371046+00:00"
-  },
-  {
-   "faits": [
-    "Un vaste incendie est en cours dans un entrepôt près de l'aéroport Charles de Gaulle",
-    "De longs panaches de fumée noire sont visibles sur des kilomètres à la ronde"
-   ],
-   "qui": null,
-   "ou": "Aéroport Charles de Gaulle, région parisienne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "50dbccb5c1ca8a47",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T20:02:39.370988+00:00"
-  },
-  {
-   "faits": [
-    "Douze enfants de 4 mois à 7 ans ont été retrouvés entassés dans une voiture",
-    "La voiture était dans le garage d'une crèche illégale à Yerres en Essonne",
-    "Deux assistantes maternelles sont accusées de tenir une crèche illégale",
-    "Le maire Nicolas Dupont-Aignan qualifie les faits de 'gravissimes'"
-   ],
-   "qui": "Deux assistantes maternelles ; Nicolas Dupont-Aignan",
-   "ou": "Yerres (Essonne), France",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "332e38436c82b60b",
-   "score": 80,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T22:29:40.299848+00:00"
-  },
-  {
-   "faits": [
-    "La voiture de David Stévenin a été repêchée le 21 juillet 2026 dans l'Adour",
-    "David Stévenin avait disparu dans la nuit du 25 au 26 septembre 2018 à Urt (Pyrénées-Atlantiques)",
-    "Des restes humains ont été retrouvés à l'intérieur du véhicule",
-    "Un autre corps, celui d'une femme disparue en 2017, a été retrouvé dans la même rivière",
-    "Des plongeurs américains ont contribué à ces découvertes",
-    "Ces découvertes relancent l'enquête près de huit ans après la disparition de Stévenin"
-   ],
-   "qui": "David Stévenin",
-   "ou": "Urt, Pyrénées-Atlantiques, Adour, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
+    "RFI"
    ],
    "non_confirme": [
-    "identification formelle des restes"
+    "données provisoires"
    ],
-   "importance": 70,
-   "empreinte": "1b55e714c93153c5",
-   "score": 80,
-   "fiab_max": 80,
+   "importance": 88,
+   "empreinte": "71d4f6da2a6723b0",
+   "score": 88,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-22T21:19:10.927888+00:00"
+   "depuis": "2026-07-23T04:42:00.444045+00:00"
   },
   {
    "faits": [
-    "L'Unesco a placé la cité antique de Tyr sur la liste du patrimoine mondial en péril",
-    "Tyr est l'une des plus anciennes cités du monde méditerranéen",
-    "Elle est located dans le sud du Liban",
-    "L'inscription date du mercredi 22 juillet",
-    "L'Unesco invoque les dommages causés par les bombardements israéliens",
-    "L'Unesco cite les risques de nouvelles frappes"
+    "Les Jeux olympiques de la Jeunesse (JOJ) se tiendront du 31 octobre au 13 novembre 2026 à Dakar",
+    "Ce sera le premier événement sportif olympique à se dérouler sur le sol africain",
+    "À J-100, Christophe Dubi confirme que toute une société se mobilise"
    ],
-   "qui": "Unesco, Liban, Israël",
-   "ou": "Tyr, Liban",
-   "categorie": "international",
+   "qui": "CIO, Christophe Dubi, Dakar 2026",
+   "ou": "Dakar, Sénégal",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 73,
+   "empreinte": "128bdb3ea9b07b08",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T04:42:10.543319+00:00"
+  },
+  {
+   "faits": [
+    "Les pompes funèbres font face à des chambres funéraires qui ne désemplissent pas plusieurs semaines après les fortes chaleurs",
+    "Les entreprises craignent une nouvelle vague de décès",
+    "Gauthier Caton, patron d'une entreprise parisienne de pompes funèbres, rapporte la situation"
+   ],
+   "qui": "Gauthier Caton, entreprises de pompes funèbres",
+   "ou": "Paris, France",
+   "categorie": "sante",
    "sensible": true,
    "confiance": 82,
    "sources": [
-    "France 24"
+    "franceinfo"
    ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "eb150cdf846d1975",
-   "score": 80,
-   "fiab_max": 85,
+   "non_confirme": [
+    "crainte d'une nouvelle vague de décès"
+   ],
+   "importance": 75,
+   "empreinte": "0f264bdea7289897",
+   "score": 83,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-22T21:19:10.928003+00:00"
+   "depuis": "2026-07-23T04:42:00.444090+00:00"
   },
   {
    "faits": [
-    "Une vague de disparitions frappe Antananarivo depuis fin juin",
-    "Les disparitions touchent en majorité des enfants et adolescents",
-    "En une semaine, quatre personnes ont été retrouvées mortes",
-    "Une fillette de douze ans et un adolescent de dix-sept ans figurent parmi les morts",
-    "Les causes suspectées incluent fugues, négligences et possibles meurtres",
-    "La population bascule dans la psychose"
+    "La chaleur extrême, davantage que le manque de précipitations, est devenue le principal facteur de sécheresse en Europe",
+    "Selon une étude du réseau World Weather Attribution publiée jeudi",
+    "Le changement climatique agrave la sécheresse en Europe"
    ],
-   "qui": null,
-   "ou": "Antananarivo, Madagascar",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 78,
+   "qui": "World Weather Attribution",
+   "ou": "Europe",
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 85,
    "sources": [
     "France 24"
    ],
-   "non_confirme": [
-    "nature exacte des décès",
-    "nombre total de disparitions",
-    "circonstances précises"
-   ],
-   "importance": 65,
-   "empreinte": "bb86b003616524c7",
-   "score": 78,
+   "non_confirme": [],
+   "importance": 74,
+   "empreinte": "14aaa2bb0437a671",
+   "score": 83,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-22T21:19:10.927731+00:00"
+   "depuis": "2026-07-23T04:42:10.543323+00:00"
   },
   {
    "faits": [
-    "Un journaliste mexicain spécialisé dans les questions de sécurité a été assassiné",
-    "L'assassinat s'est déroulé dans l'État d'Oaxaca",
-    "C'est le 7e journaliste assassiné au Mexique en 2026"
+    "Le maire d'Alès a été exfiltré de chez lui",
+    "Il est placé sous protection policière",
+    "Il est menacé par la DZ Mafia",
+    "Il avait mis en place une réponse coordonnée contre le narcotrafic avec le parquet et la police",
+    "Des interpellations et des saisies ont été effectuées"
    ],
-   "qui": "Journaliste mexicain (identité non précisée)",
-   "ou": "Oaxaca, Mexique",
+   "qui": "Maire d'Alès",
+   "ou": "Alès, Gard",
    "categorie": "justice",
    "sensible": true,
    "confiance": 80,
    "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "e553c7e1aa232d5f",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T04:42:00.444132+00:00"
+  },
+  {
+   "faits": [
+    "Le premier ministre indien Modi a promis de punir sévèrement les responsables des fraudes aux examens",
+    "Des fraudes aux examens ont suscité la colère des étudiants",
+    "Les jeunes sont mobilisés depuis lundi dans les rues de New Delhi"
+   ],
+   "qui": "Narendra Modi, étudiants indiens",
+   "ou": "New Delhi, Inde",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 87,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "a84ff6710019a5a8",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T04:42:10.543326+00:00"
+  },
+  {
+   "faits": [
+    "La ministre de la Transition écologique Monique Barbut a présenté sa démission mercredi",
+    "Elle a protesté contre la version définitive du projet de loi d'urgence agricole adopté par le Parlement",
+    "Elle a contesté la mesure controversée sur les pesticides",
+    "Elle a décidé de poursuivre sa mission à la demande du président Emmanuel Macron"
+   ],
+   "qui": "Monique Barbut, Emmanuel Macron, Parlement",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
     "Ouest-France"
    ],
-   "non_confirme": [
-    "identité précise du journaliste",
-    "auteurs du meurtre"
-   ],
-   "importance": 70,
-   "empreinte": "469e040f98dea922",
-   "score": 78,
+   "non_confirme": [],
+   "importance": 71,
+   "empreinte": "1cb990c013b84fed",
+   "score": 80,
    "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-22T21:19:10.927956+00:00"
+   "depuis": "2026-07-23T04:42:10.543328+00:00"
+  },
+  {
+   "faits": [
+    "Les États-Unis envisagent d'installer des réacteurs nucléaires en mer",
+    "La Marine Minerals Administration (MMA) a signé un accord avec le régulateur américain du nucléaire"
+   ],
+   "qui": "Marine Minerals Administration, régulateur américain du nucléaire, États-Unis",
+   "ou": "Zones maritimes au large des États-Unis",
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "détails de l'accord et calendrier de mise en œuvre"
+   ],
+   "importance": 63,
+   "empreinte": "c86f8d76d683d70f",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T04:42:10.543330+00:00"
   },
   {
    "faits": [
@@ -2215,55 +2226,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-22T23:35:23.936706+00:00"
-  },
-  {
-   "faits": [
-    "Aïssa Mandi (123 sélections) a annoncé sa retraite internationale avec l'Algérie",
-    "Champion d'Afrique en 2019 avec les Fennecs",
-    "Défenseur central ayant conclu 13 ans de carrière internationale",
-    "Sa dernière Coupe du monde a été disputée en 2026"
-   ],
-   "qui": "Aïssa Mandi",
-   "ou": "Algérie",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "92b44bc6d0e7a597",
-   "score": 78,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T22:29:52.720978+00:00"
-  },
-  {
-   "faits": [
-    "Un concert de Barbara Butch a été interrompu samedi à Grenoble",
-    "L'interruption est due à une action de militants propalestiniens et LFI",
-    "Les militants répondaient à un appel au boycott",
-    "Barbara Butch a signé une tribune en faveur de la proposition de loi Yadan contre les nouvelles formes d'antisémitisme",
-    "Barbara Butch se produira sur scène samedi (annonce du mercredi 22 juillet)"
-   ],
-   "qui": "Barbara Butch (DJ)",
-   "ou": "Grenoble, France",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "état émotionnel exact de Barbara Butch"
-   ],
-   "importance": 50,
-   "empreinte": "178f9e21eff08262",
-   "score": 78,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T21:19:10.928589+00:00"
   },
   {
    "faits": [
@@ -2289,26 +2251,53 @@
   },
   {
    "faits": [
-    "Hugo Gaston a battu Titouan Droguet au deuxième tour de l'ATP 250 d'Estoril",
-    "Les deux joueurs sont français et partenaires de double à Roland-Garros",
-    "Gaston s'est qualifié pour les quarts de finale",
-    "Le tournoi se joue sur terre battue"
+    "Les vagues de chaleur touchant la France en 2026 ont des conséquences économiques",
+    "Des trains ont été supprimés",
+    "Des réacteurs nucléaires sont à l'arrêt",
+    "Les économistes tentent de dresser des premiers bilans"
    ],
-   "qui": "Hugo Gaston ; Titouan Droguet",
-   "ou": "Estoril",
-   "categorie": "sport",
+   "qui": "Économistes",
+   "ou": "France",
+   "categorie": "economie",
    "sensible": false,
-   "confiance": 90,
+   "confiance": 75,
    "sources": [
     "Ouest-France"
    ],
-   "non_confirme": [],
-   "importance": 35,
-   "empreinte": "b0291828e0ba2cc0",
+   "non_confirme": [
+    "chiffrage précis des impacts économiques"
+   ],
+   "importance": 70,
+   "empreinte": "d8d675d277fead99",
    "score": 76,
    "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-22T22:29:52.720982+00:00"
+   "depuis": "2026-07-23T04:42:10.543336+00:00"
+  },
+  {
+   "faits": [
+    "Le chanteur Vianney avait acquis en avril 2026 80 % du 43e étage de la tour Montparnasse",
+    "Il a acquis le bien via la société Edmond de Vayres qu'il avait créée",
+    "Cette entreprise a été rachetée",
+    "Il n'est plus propriétaire du 43e étage"
+   ],
+   "qui": "Vianney",
+   "ou": "Paris, tour Montparnasse",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "détails sur les raisons de la revente"
+   ],
+   "importance": 48,
+   "empreinte": "e9549ec6b7401106",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T04:42:10.543337+00:00"
   },
   {
    "faits": [
@@ -2334,6 +2323,32 @@
   },
   {
    "faits": [
+    "Damien Touzé a été victime d'une grave chute lors du Tour d'Oman en février 2026",
+    "Il a failli perdre la vie",
+    "Il est en fin de contrat avec Cofidis",
+    "Son équipe ne l'a pas rassuré sur son avenir",
+    "À 30 ans, il doute de pouvoir rebondir sans prolongation"
+   ],
+   "qui": "Damien Touzé, Cofidis",
+   "ou": "France (coureur normand)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "décision finale de Cofidis concernant une prolongation"
+   ],
+   "importance": 52,
+   "empreinte": "74854fd0103e0ab4",
+   "score": 74,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T04:42:00.444446+00:00"
+  },
+  {
+   "faits": [
     "Le Real Madrid envisage de recruter Rodri du Manchester City",
     "Rodri est disposé à rejoindre le Real Madrid",
     "Le Real Madrid cherche un successeur à Toni Kroos au milieu de terrain"
@@ -2355,28 +2370,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-22T23:35:10.972057+00:00"
-  },
-  {
-   "faits": [
-    "Le chargement de huit dauphins de Marineland vers Malaga en Espagne a commencé",
-    "Douze dauphins au total doivent rejoindre Malaga",
-    "Le chargement s'est déroulé mercredi 22 juillet en présence d'associations de défense des animaux"
-   ],
-   "qui": "Marineland",
-   "ou": "Marineland (France) ; Malaga (Espagne)",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 40,
-   "empreinte": "6cc6a818c9da18db",
-   "score": 74,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T22:29:40.299631+00:00"
   },
   {
    "faits": [
@@ -2424,22 +2417,6 @@
   }
  ],
  "publies_48h": [
-  [
-   "77997dd4bc6bc929",
-   "2026-07-21T01:13:11.441305+00:00"
-  ],
-  [
-   "66f52d60459763f2",
-   "2026-07-21T01:13:15.436446+00:00"
-  ],
-  [
-   "29e78075634de192",
-   "2026-07-21T04:38:05.552571+00:00"
-  ],
-  [
-   "aee576f8d8e21963",
-   "2026-07-21T04:38:09.445514+00:00"
-  ],
   [
    "d945f01a05b59ccb",
    "2026-07-21T07:25:03.017680+00:00"
@@ -2511,25 +2488,17 @@
   [
    "9fab063369ece087",
    "2026-07-23T01:08:59.247322+00:00"
+  ],
+  [
+   "b7167ee4fcea80c4",
+   "2026-07-23T04:42:11.557437+00:00"
+  ],
+  [
+   "17535aa254e35045",
+   "2026-07-23T04:42:15.479067+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "893f200fe05c6cbb",
-   "2026-07-21T01:12:56.488384+00:00"
-  ],
-  [
-   "148996c887356a36",
-   "2026-07-21T01:13:10.338208+00:00"
-  ],
-  [
-   "f71d452f84edadae",
-   "2026-07-21T04:37:58.856212+00:00"
-  ],
-  [
-   "5ec9a05271878df2",
-   "2026-07-21T04:38:04.453471+00:00"
-  ],
   [
    "40a598471410a620",
    "2026-07-21T07:24:56.768306+00:00"
@@ -2601,6 +2570,14 @@
   [
    "e0c1a7889bf49ae6",
    "2026-07-23T01:08:53.813346+00:00"
+  ],
+  [
+   "2517d25de304e3ac",
+   "2026-07-23T04:42:05.854326+00:00"
+  ],
+  [
+   "b90386d9ababca99",
+   "2026-07-23T04:42:10.543310+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2609,12 +2586,14 @@
   "⚡ FLASH — Deux sapeurs-pompiers sont décédés en Gironde lors d'interventions contre des incendies majeurs. Plus de 4.600 personnes évacuées, 1.400 hectares brûlés au nord d'Arcachon. Dans le Var, 2.500 hectares ravagés. (France 24)",
   "Deux sapeurs-pompiers de 34 ans du centre de secours de Saint-Médard-en-Jalles (Gironde) ont péri piégés dans un incendie de pins mardi 21 juillet, près de l'aéroport de Bordeaux-Mérignac. Les circonstances restent à établir. (franceinfo)",
   "Nicolas Maduro, ancien président du Venezuela, a été emprisonné aux États-Unis suite à une opération militaire menée à Caracas. Le tribunal de New-York a fixé son procès au 1er juin 2027. Il fait face à quatre chefs d'accusations dont le narcoterrorisme. (franceinfo)",
-  "L'Iran menace une riposte « puissante » si les États-Unis attaquent ses infrastructures civiles. Le chef de la diplomatie iranienne Abbas Araghchi répond ainsi aux menaces de Donald Trump de bombarder centrales électriques et ponts iraniens. (20 Minutes, BFMTV)"
+  "L'Iran menace une riposte « puissante » si les États-Unis attaquent ses infrastructures civiles. Le chef de la diplomatie iranienne Abbas Araghchi répond ainsi aux menaces de Donald Trump de bombarder centrales électriques et ponts iraniens. (20 Minutes, BFMTV)",
+  "🌡️ Un incendie ravage plus de 2 000 hectares en Gironde. Au moins 12 000 personnes ont été évacuées depuis mercredi, dont des résidents de campings et d'un domaine naturiste au nord du cap Ferret. (franceinfo)",
+  "⚡ FLASH — Tensions au Moyen-Orient. Les Houthis revendiquent des attaques contre deux pétroliers saoudiens en mer Rouge. L'armée américaine poursuit ses frappes contre l'Iran pour la douzième nuit consécutive. (France 24, RFI)"
  ],
  "recap_date": "2026-07-22",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-23",
-  "publies": 6
+  "publies": 8
  }
 }
