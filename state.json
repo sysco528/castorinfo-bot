@@ -740,7 +740,6 @@
    "https://www.lefigaro.fr/musique/tous-les-hommes-blancs-a-l-arriere-la-chanteuse-sophie-straat-sous-le-feu-des-critiques-apres-ses-propos-lors-d-un-festival-en-belgique-20260723"
   ],
   "https://www.france24.com/fr/rss": [
-   "c3979a3a-8160-11f1-b07e-9f6d8cd0d3dd",
    "4f0dd21e-8166-11f1-ad1d-4701f996e5aa",
    "8003186a-818a-11f1-a794-8997a8a8e492",
    "b0cdc33c-8130-11f1-a3ec-71e2cddb4b69",
@@ -1039,7 +1038,8 @@
    "60fc85fe-86db-11f1-ab40-9ba9ff8af27a",
    "ac614ed4-86d2-11f1-a8b7-97471aff8818",
    "3449606a-86d4-11f1-97f7-97471aff8818",
-   "b9a65bbc-86c2-11f1-8b3f-9bd2ed216422"
+   "b9a65bbc-86c2-11f1-8b3f-9bd2ed216422",
+   "5ad70142-86e8-11f1-b2f9-55199c4badd2"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1307,7 +1307,6 @@
    "ce248fca-86e3-11f1-a170-f1475f965a5a"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/meteo/orage/ca-a-souffle-tellement-fort-quun-arbre-sest-couche-sur-ma-cloture-son-assurance-refuse-de-lindemniser-d1f656fe-8122-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-16/michael-olise-et-miro-mbappe-en-napoleon-ce-compte-instagram-relie-les-plus-belles-actions-sportives-aux-oeuvres-d-art-a28abf67-9d4f-4760-b371-fe49e3071c43?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-superstitieux-javier-milei-nira-pas-assister-a-la-finale-argentine-espagne-0ec2930e-8141-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/prison/pourquoi-ne-peut-on-pas-les-extraire-de-prison-des-detenus-plus-rares-sur-les-bancs-du-tribunal-de-saint-nazaire-6589fb92-805a-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1606,7 +1605,8 @@
    "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-le-sparta-prague-recrute-le-cousin-derling-haaland-avant-de-defier-lyon-au-3e-tour-preliminaire-947ded4a-86cd-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/etats-unis/250-ans-des-etats-unis-lancement-dune-bourse-la-fayette-pour-etudiants-americains-en-france-94d3090c-86d1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/violence-sexuelle/viol/viols-filmes-en-gironde-enquete-a-paris-visant-le-reseau-libertin-wyylde-0863e026-86e1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/tunisie/tunisie-lopposant-rached-ghannouchi-dans-un-etat-critique-selon-ses-avocats-a54b82dc-86db-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/monde/tunisie/tunisie-lopposant-rached-ghannouchi-dans-un-etat-critique-selon-ses-avocats-a54b82dc-86db-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/etats-unis/le-ministere-americain-de-la-justice-annule-les-citations-a-comparaitre-de-journalistes-du-new-york-times-4fa225a8-86e4-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1756,7 +1756,10 @@
    "https://www.20minutes.fr/monde/ukraine/4236052-20260723-guerre-ukraine-rubio-lavrov-discutent-nouveau-paquet-sanctions-europeennes-rabais?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/planete/4235887-20260723-direct-incendies-feu-severe-pres-bassin-arcachon-milliers-habitants-touristes-evacues?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/economie/4236061-20260723-tesla-france-ecarte-conduite-automatique-supervisee-raisons-securite?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/justice/4236029-20260723-carrefour-pdg-alexandre-bompard-perquisitionne-fevrier-apres-plainte-casino?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/justice/4236029-20260723-carrefour-pdg-alexandre-bompard-perquisitionne-fevrier-apres-plainte-casino?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4236080-20260724-incendies-macron-demande-activation-mecanisme-protection-civile-ue?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4236067-20260724-etats-unis-agent-secret-service-vance-vise-enquete-fuite-presumee-informations?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4236068-20260724-ue-chine-trump-poursuit-guerre-economique-droits-douane?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1920,7 +1923,8 @@
    "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-gironde-var-bfmtv-au-c-ur-des-feux-incontrolables-23-07_VN-202607230666.html",
    "https://www.bfmtv.com/environnement/climat/video-incendies-en-gironde-bfmtv-avec-les-pompiers-en-intervention-a-lege-cap-ferret_VN-202607230663.html",
    "https://www.bfmtv.com/var/incendie-dans-le-var-le-feu-n-est-pas-fixe-mais-stable-400-personnes-evacuees-ont-pu-regagner-leur-habitation_AN-202607230366.html",
-   "https://www.bfmtv.com/environnement/climat/video-feux-en-gironde-les-images-impressionnantes-de-l-incendie-toujours-incontrolable_VN-202607230662.html"
+   "https://www.bfmtv.com/environnement/climat/video-feux-en-gironde-les-images-impressionnantes-de-l-incendie-toujours-incontrolable_VN-202607230662.html",
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2071,110 +2075,19 @@
    "https://www.lequipe.fr/Football/Actualites/Angers-lance-sa-preparation-avec-une-victoire-contre-les-herbiers-pensionnaire-de-national/1706413",
    "https://www.lequipe.fr/Football/Actualites/Apres-la-coupe-du-monde-michael-olise-apercu-en-train-de-jouer-au-foot-avec-des-inconnus-a-new-york-en-chaussettes/1706665",
    "https://www.lequipe.fr/Football/Actualites/Seulement-six-matches-officiels-apres-son-arrivee-jermain-defoe-quitte-son-poste-d-entraineur-en-cinquieme-division-anglaise/1706663",
-   "https://www.lequipe.fr/Football/Actualites/Griezmann-lloris-saint-maximin-qui-sont-les-quatorze-francais-qui-evoluent-en-mls-cette-annee/1706564"
+   "https://www.lequipe.fr/Football/Actualites/Griezmann-lloris-saint-maximin-qui-sont-les-quatorze-francais-qui-evoluent-en-mls-cette-annee/1706564",
+   "https://www.lequipe.fr/Football/Actualites/Nicolas-otamendi-annonce-sa-retraite-internationale-apres-la-defaite-de-l-argentine-en-finale-de-la-coupe-du-monde/1706668",
+   "https://www.lequipe.fr/Football/Article/Entre-autoritarisme-naturel-et-management-plus-consensuel-jose-mourinho-va-t-il-redevenir-special-au-real-madrid/1706646",
+   "https://www.lequipe.fr/Football/Actualites/L-ajax-fait-un-grand-pas-vers-le-3e-tour-preliminaire-de-la-ligue-conference/1706644",
+   "https://www.lequipe.fr/Football/Actualites/Benfica-battu-en-suisse-besiktas-prend-une-legere-option-au-2e-tour-preliminaire-de-la-ligue-europa/1706642",
+   "https://www.lequipe.fr/Football/Actualites/Ancelotti-a-decline-guardiola-est-courtise-mancini-et-pirlo-en-salle-d-attente-l-italie-cherche-encore-son-selectionneur/1706638",
+   "https://www.lequipe.fr/Football/Article/Arrivees-de-sinayoko-et-de-pagis-departs-probables-de-geubbels-et-de-krasso-l-ambitieuse-refonte-du-secteur-offensif-du-paris-fc-au-mercato/1706636",
+   "https://www.lequipe.fr/Football/Actualites/Tous-les-nouveaux-maillots-de-ligue-1-pour-la-saison-2026-2027/1706538",
+   "https://www.lequipe.fr/Football/Actualites/La-coupe-d-afrique-des-nations-2027-se-jouera-bien-a-24-equipes/1706618"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Un concert d'Amir annulé à Marseille pour raisons de sécurité",
-    "L'annulation suit des appels au boycott propalestinien",
-    "Le collectif Union Palestine Marseille avait appelé au boycott du concert gratuit",
-    "Amir est un artiste franco-israélien",
-    "Le Crif exprime sa profonde inquiétude",
-    "Un concert du chanteur à Rognac est maintenu sous haute surveillance"
-   ],
-   "qui": "Amir, Union Palestine Marseille, Crif",
-   "ou": "Marseille, Rognac (Bouches-du-Rhône)",
-   "categorie": "culture",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "e76640e20d338349",
-   "score": 96,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-23T17:52:08.766571+00:00"
-  },
-  {
-   "faits": [
-    "La Maison-Blanche annonce de nouveaux droits de douane à partir de vendredi",
-    "Ces droits sont de 10% ou 12,5%",
-    "Ils visent une soixantaine de partenaires commerciaux",
-    "Les droits visent à lutter contre le travail forcé",
-    "Des droits de douane temporaires de 10% arrivent à expiration vendredi"
-   ],
-   "qui": "Maison-Blanche; États-Unis",
-   "ou": "États-Unis",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "bc5bac217330b3ec",
-   "score": 94,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-23T21:32:01.834449+00:00"
-  },
-  {
-   "faits": [
-    "Conflit États-Unis-Iran au Moyen-Orient",
-    "Armée américaine a envoyé des renforts au Moyen-Orient",
-    "Conflit s'étend en mer Rouge",
-    "Implication des rebelles houthistes pro-iraniens",
-    "Frappe américaine sur l'île de Qeshm",
-    "Royaume-Uni condamne les attaques houthis"
-   ],
-   "qui": "États-Unis, Iran, rebelles houthistes, Royaume-Uni",
-   "ou": "Moyen-Orient, mer Rouge, île de Qeshm",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Le Figaro",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "03d82d5b16bbb013",
-   "score": 92,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-23T20:18:28.659323+00:00"
-  },
-  {
-   "faits": [
-    "Frères Andrew Tate et Tristan arrêtés samedi à Miami",
-    "Recherchés au Royaume-Uni pour viol, traite d'êtres humains à des fins d'exploitation sexuelle et agression",
-    "Donald Trump ne s'opposera pas à leur extradition vers le Royaume-Uni"
-   ],
-   "qui": "Andrew Tate, Tristan Tate, Donald Trump",
-   "ou": "Miami, États-Unis ; Royaume-Uni",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "56d0272087c1cccc",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T20:18:28.659325+00:00"
-  },
   {
    "faits": [
     "Un incendie de forêt hors de contrôle menace la localité d'Aldea del Fresno à l'ouest de Madrid",
@@ -2637,6 +2550,28 @@
   },
   {
    "faits": [
+    "José Mourinho est de retour comme entraîneur du Real Madrid",
+    "Sa mission est de refaire du club une machine à gagner",
+    "Il veut réinstaurer exigence, intensité, professionnalisme et mentalité collective"
+   ],
+   "qui": "José Mourinho ; Real Madrid",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "cab388b24ed3c412",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T23:33:32.725467+00:00"
+  },
+  {
+   "faits": [
     "Le pétrolier 'Deliver' (275 mètres de long, pavillon camerounais) soupçonné de faire partie de la flotte fantôme russe a été autorisé à repartir",
     "Le navire a dû payer une amende",
     "Le 'Deliver' avait été arraisonné le 23 juin au large de la Sicile par la marine française",
@@ -2659,6 +2594,29 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T22:34:47.040810+00:00"
+  },
+  {
+   "faits": [
+    "Nicolás Otamendi annonce sa retraite internationale",
+    "Cette annonce intervient quelques jours après la finale de la Coupe du monde perdue par l'Argentine contre l'Espagne (0-1, a.p.)",
+    "Otamendi a disputé 139 sélections avec l'Albiceleste",
+    "Le défenseur a 38 ans"
+   ],
+   "qui": "Nicolás Otamendi",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "68c12adc810db4ba",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T23:33:32.725471+00:00"
   },
   {
    "faits": [
@@ -2687,6 +2645,53 @@
   },
   {
    "faits": [
+    "Paolo Maldini, directeur technique de l'Italie, poursuit ses recherches pour trouver un sélectionneur",
+    "Carlo Ancelotti a décliné l'offre",
+    "Pep Guardiola est courtisé",
+    "Roberto Mancini et Andrea Pirlo sont en attente"
+   ],
+   "qui": "Paolo Maldini ; Fédération italienne de football ; Carlo Ancelotti ; Pep Guardiola ; Roberto Mancini ; Andrea Pirlo",
+   "ou": "Italie",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [
+    "courtise de Guardiola (non confirmée)"
+   ],
+   "importance": 50,
+   "empreinte": "ba9fea8054da353f",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T23:33:32.725473+00:00"
+  },
+  {
+   "faits": [
+    "La Coupe d'Afrique des nations 2027 se jouera à 24 équipes",
+    "La Confédération africaine de football a confirmé cette décision le 23 juillet 2026",
+    "L'édition 2025 réunissait également 24 sélections"
+   ],
+   "qui": "Confédération africaine de football",
+   "ou": "Afrique",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 40,
+   "empreinte": "1406d946dab439a3",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T23:33:32.725475+00:00"
+  },
+  {
+   "faits": [
     "Quatorze joueurs français évoluent en MLS en 2026",
     "Antoine Griezmann et Hugo Lloris en font partie",
     "Douze autres joueurs français ont rejoint la MLS",
@@ -2707,6 +2712,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T22:34:47.040812+00:00"
+  },
+  {
+   "faits": [
+    "La France va recevoir des renforts aériens européens pour lutter contre les incendies",
+    "Des renforts sont attendus de Croatie, du Portugal, de République tchèque et de Slovaquie",
+    "Macron a demandé l'activation du mécanisme de protection civile de l'UE"
+   ],
+   "qui": "France ; États membres de l'UE (Croatie, Portugal, République tchèque, Slovaquie)",
+   "ou": "France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "fc76566e7cccb612",
+   "score": 75,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T23:33:18.333531+00:00"
   },
   {
    "faits": [
@@ -2751,40 +2778,9 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-23T22:34:39.031052+00:00"
-  },
-  {
-   "faits": [
-    "Jermain Defoe a quitté son poste d'entraîneur du Woking FC",
-    "Il a dirigé le club de cinquième division anglaise pendant seulement six matches officiels",
-    "Il avait entamé sa reconversion sur le banc de Woking FC en mars 2026",
-    "Il a eu une carrière de 22 ans comme joueur"
-   ],
-   "qui": "Jermain Defoe ; Woking FC",
-   "ou": "Angleterre (cinquième division anglaise)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 35,
-   "empreinte": "e7283e7a6ea9373d",
-   "score": 74,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T22:34:39.031145+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "2dac0e4a57c70e42",
-   "2026-07-21T22:41:02.167958+00:00"
-  ],
-  [
-   "bce1bb2724e27bc0",
-   "2026-07-21T22:41:06.350255+00:00"
-  ],
   [
    "5f8c471530b84a6b",
    "2026-07-21T23:44:28.668157+00:00"
@@ -2864,17 +2860,17 @@
   [
    "75f93b3e0883213c",
    "2026-07-23T22:34:52.167138+00:00"
+  ],
+  [
+   "70416180e2c275c7",
+   "2026-07-23T23:33:33.913338+00:00"
+  ],
+  [
+   "8570d4b9a658d844",
+   "2026-07-23T23:33:38.040010+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "2e1a7bdf8d21f9af",
-   "2026-07-21T22:40:55.606808+00:00"
-  ],
-  [
-   "bff42738f9ba719b",
-   "2026-07-21T22:41:00.635899+00:00"
-  ],
   [
    "566146eef7f1a3d3",
    "2026-07-21T23:44:22.313018+00:00"
@@ -2954,16 +2950,26 @@
   [
    "713e811b324de5c7",
    "2026-07-23T22:34:47.040770+00:00"
+  ],
+  [
+   "e76640e20d338349",
+   "2026-07-23T23:33:23.500376+00:00"
+  ],
+  [
+   "03d82d5b16bbb013",
+   "2026-07-23T23:33:32.725435+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚡ FLASH — Un incendie majeur atteint les habitations à Lège-Cap-Ferret en Gironde. Environ 20 000 habitants et touristes ont été évacués en 24 heures. Des avions bombardiers d'eau combattent le sinistre. (franceinfo, 20 Minutes)",
-  "🏆 Quatre mathématiciens ont reçu la médaille Fields le 23 juillet à Philadelphie : deux Chinois, un Américain et un Canadien. Cette distinction récompense des chercheurs de moins de 40 ans et est considérée comme l'équivalent d'un prix Nobel en mathématiques. (franceinfo, RFI)"
+  "🏆 Quatre mathématiciens ont reçu la médaille Fields le 23 juillet à Philadelphie : deux Chinois, un Américain et un Canadien. Cette distinction récompense des chercheurs de moins de 40 ans et est considérée comme l'équivalent d'un prix Nobel en mathématiques. (franceinfo, RFI)",
+  "🎭 Le concert gratuit d'Amir à Marseille annulé pour raisons de sécurité, après appels au boycott du collectif Union Palestine Marseille. Un autre concert à Rognac maintenu sous surveillance. Le Crif exprime son inquiétude. (franceinfo, Le Figaro)",
+  "Les tensions États-Unis-Iran s'intensifient au Moyen-Orient. Washington envoie des renforts militaires tandis que le conflit s'étend en mer Rouge avec les rebelles houthistes. L'armée américaine a frappé l'île de Qeshm. (Le Figaro, 20 Minutes)"
  ],
  "recap_date": "2026-07-23",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-24",
-  "publies": 2
+  "publies": 4
  }
 }
