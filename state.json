@@ -1712,7 +1712,8 @@
    "https://www.20minutes.fr/economie/4235854-20260722-prix-carburants-majorite-automobilistes-disent-avoir-renonce-sorties-familiales-loisirs?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4235714-20260722-secheresse-sentez-surveilles-voisins-periode-restrictions-eau-racontez?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/planete/4235866-20260723-gironde-violent-incendie-detruit-plus-1-400-hectares-milliers-personnes-evacuees?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/faits_divers/4235865-20260723-calais-homme-meurt-immolant-feu-blesse-grievement-compagne-nouveau?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/faits_divers/4235865-20260723-calais-homme-meurt-immolant-feu-blesse-grievement-compagne-nouveau?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235879-20260723-etats-unis-deputes-valident-budget-plus-1-150-milliards-dollars-defense?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2011,58 +2012,12 @@
    "https://www.lequipe.fr/Football/Actualites/Plus-de-temps-de-jeu-moins-de-fautes-et-des-buteurs-efficaces-les-nouvelles-regles-de-la-fifa-ont-elles-porte-leurs-fruits-a-la-coupe-du-monde/1706382",
    "https://www.lequipe.fr/Football/Actualites/Le-defenseur-de-l-algerie-aissa-mandi-annonce-sa-retraite-internationale/1706429",
    "https://www.lequipe.fr/Football/Article/D-abord-gardien-puis-entraineur-des-gardiens-qui-a-fait-eclore-ederson-et-jan-oblak-hugo-oliveira-entend-placer-ce-poste-au-centre-de-sa-tactique-a-strasbourg/1706336",
-   "https://www.lequipe.fr/Football/Article/La-coupe-du-monde-2038-en-france-un-horizon-lointain-et-une-candidature-qui-ne-sera-pas-forcement-possible/1706199"
+   "https://www.lequipe.fr/Football/Article/La-coupe-du-monde-2038-en-france-un-horizon-lointain-et-une-candidature-qui-ne-sera-pas-forcement-possible/1706199",
+   "https://www.lequipe.fr/Football/Actualites/Angers-lance-sa-preparation-avec-une-victoire-contre-les-herbiers-pensionnaire-de-national/1706413"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Nicolas Maduro, ancien président du Venezuela, a été emprisonné aux États-Unis",
-    "Son enlèvement s'est déroulé à Caracas lors d'une opération militaire de l'armée américaine",
-    "Un tribunal de New-York a fixé la date de son procès au 1er juin 2027",
-    "Il est poursuivi sur quatre chefs d'accusations",
-    "L'un des chefs est le narcoterrorisme"
-   ],
-   "qui": "Nicolas Maduro (ancien président du Venezuela)",
-   "ou": "États-Unis, New-York, Caracas",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "1b1a23d987be8eb6",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T20:02:39.372624+00:00"
-  },
-  {
-   "faits": [
-    "L'Iran menace d'une riposte 'puissante' en cas d'attaques américaines sur ses infrastructures civiles",
-    "Donald Trump a menacé de bombarder centrales électriques et ponts iraniens",
-    "Abbas Araghchi, chef de la diplomatie iranienne, a mis en garde les États-Unis"
-   ],
-   "qui": "Iran ; États-Unis ; Donald Trump ; Abbas Araghchi",
-   "ou": "Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "20 Minutes",
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "e0c1a7889bf49ae6",
-   "score": 86,
-   "fiab_max": 75,
-   "nb_sources": 2,
-   "depuis": "2026-07-22T22:29:52.720964+00:00"
-  },
   {
    "faits": [
     "La France connaît un épisode de sécheresse précoce et exceptionnel en 2026",
@@ -2092,247 +2047,6 @@
   },
   {
    "faits": [
-    "Une attaque de drones ukrainiens a visé des entrepôts de Wildberries en Russie",
-    "L'attaque a eu lieu dans la nuit du 21 au 22 juillet 2026 dans la région de Krasnodar",
-    "Une personne a été tuée",
-    "Quinze personnes ont été blessées",
-    "Wildberries est une entreprise de logistique et livraisons populaire en Russie",
-    "Il s'agit de la deuxième attaque contre les infrastructures du groupe en quelques jours",
-    "Une première attaque avait visé deux importants entrepôts près de Moscou le samedi"
-   ],
-   "qui": "Ukraine, Russie, Wildberries",
-   "ou": "Krasnodar, Russie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "a6ea2c26832d9217",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T18:46:57.521998+00:00"
-  },
-  {
-   "faits": [
-    "Volodymyr Zelensky a annoncé la nomination de Mykhaïlo Drapatyi au poste de commandant en chef de l'armée ukrainienne",
-    "L'annonce a eu lieu le 22 juillet 2026 en soirée",
-    "Oleksandr Syrskyi, ancien chef de l'armée, a été limogé",
-    "Des manifestations ont éclaté à travers l'Ukraine réclamant le départ de Syrskyi et le retour de Mykhailo Fedorov",
-    "Fedorov est l'ex-ministre de la Défense",
-    "Ce changement fait suite à un remaniement gouvernemental"
-   ],
-   "qui": "Volodymyr Zelensky, Mykhaïlo Drapatyi, Oleksandr Syrskyi, Mykhailo Fedorov",
-   "ou": "Ukraine",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "0c8989bfc7253964",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T18:46:57.522039+00:00"
-  },
-  {
-   "faits": [
-    "Amine Kessaci, adjoint au maire de Marseille, est sous haute protection policière",
-    "Il lutte contre le narcotrafic et est devenu une cible",
-    "Le maire d'Alès a été exfiltré par le GIGN, menacé par la DZ Mafia",
-    "La maire d'Échirolles en Isère est également sous protection",
-    "Plusieurs élus sont pris pour cible par les narcotrafiquants"
-   ],
-   "qui": "Amine Kessaci, maire d'Alès, maire d'Échirolles",
-   "ou": "Marseille, Alès, Échirolles (Isère), France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "c4a399f60b45db5f",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T21:19:10.928583+00:00"
-  },
-  {
-   "faits": [
-    "Un adolescent de 16 ans est en garde à vue à Rennes après le viol d'une octogénaire",
-    "L'agression a survenu le 4 juillet",
-    "La victime a 80 ans et rentrait d'une soirée",
-    "Le suspect est décrit comme un mineur non accompagné selon le parquet de Rennes",
-    "Le suspect doit être présenté jeudi à la justice"
-   ],
-   "qui": "Adolescent de 16 ans (non nommé), victime de 80 ans",
-   "ou": "Rennes",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "e7364f386ccedfa1",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T17:37:24.945228+00:00"
-  },
-  {
-   "faits": [
-    "Viktor Orban, ancien Premier ministre hongrois, a perdu les élections législatives en avril 2026 après 16 ans à la tête de la Hongrie",
-    "Le nouveau gouvernement est dirigé par Peter Magyar",
-    "Orban accuse le nouveau gouvernement de bafouer la démocratie",
-    "Orban a exhorté ses partisans à se battre contre la 'tyrannie'",
-    "Une perquisition a été menée dans les locaux du parti Fidesz",
-    "Orban a lancé son appel dans un message intitulé 'Déclaration de résistance' publié le 21 juillet sur Facebook"
-   ],
-   "qui": "Viktor Orban, Peter Magyar, Fidesz",
-   "ou": "Hongrie",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "2e57e7da8c1dd703",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T18:46:57.521938+00:00"
-  },
-  {
-   "faits": [
-    "Au Brésil, la campagne pour l'élection présidentielle d'octobre 2026 est entrée dans une nouvelle phase",
-    "De nouvelles surtaxes américaines sur certains produits brésiliens sont entrées en vigueur",
-    "Le président Luiz Inácio Lula da Silva a changé de cible de campagne",
-    "Il attaque désormais Marco Rubio en priorité au lieu de Donald Trump",
-    "Marco Rubio est secrétaire d'État"
-   ],
-   "qui": "Luiz Inácio Lula da Silva, Marco Rubio, Donald Trump",
-   "ou": "Brésil, États-Unis",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "1800ec71900e4e89",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T18:46:57.522260+00:00"
-  },
-  {
-   "faits": [
-    "Abderrahim Fakir, ressortissant marocain de 42 ans, est mort lors d'une interpellation policière à Bologne dimanche",
-    "Une vidéo montre l'homme immobilisé au sol appelant à l'aide",
-    "La mort a provoqué des manifestations en Italie",
-    "Elle ravive le débat sur les violences policières",
-    "Elle a déclenché une passe d'armes politique"
-   ],
-   "qui": "Abderrahim Fakir, police italienne",
-   "ou": "Bologne (Italie)",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "e8b2d9a336f0303a",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T17:37:24.944512+00:00"
-  },
-  {
-   "faits": [
-    "Adam Yates, coureur britannique de l'équipe UAE-Emirates, était malade",
-    "Il a vomi et avait très froid la veille",
-    "Il a terminé l'étape de mercredi à la 162e place",
-    "Il a perdu plus de 26 minutes sur le vainqueur Jasper Philipsen"
-   ],
-   "qui": "Adam Yates, UAE-Emirates",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "1c377b386848670c",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T18:46:57.523400+00:00"
-  },
-  {
-   "faits": [
-    "Une dizaine d'artistes se retirent du Delta Festival de Marseille",
-    "Les artistes incluent Mosimann, Acid Arab, DJ Feder, Kungs",
-    "Le retrait fait suite à des accusations de violences sexuelles visant le cofondateur du festival",
-    "Le festival s'ouvre le 23 juillet avec initialement 200 artistes invités et 150 000 personnes attendues"
-   ],
-   "qui": "Cofondateur du Delta Festival (non nommé)",
-   "ou": "Marseille",
-   "categorie": "culture",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "d4cca61450031662",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T17:37:24.945234+00:00"
-  },
-  {
-   "faits": [
-    "Jasper Philipsen, coureur belge, a remporté la 17e étape du Tour de France mercredi",
-    "La 17e étape s'est disputée à Voiron en Isère",
-    "Philipsen a réglé au sprint un groupe d'une trentaine de coureurs",
-    "C'est sa première victoire sur cette 113e édition du Tour de France"
-   ],
-   "qui": "Jasper Philipsen",
-   "ou": "Voiron (Isère)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "cf67fa5e66ceeea8",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T17:37:24.945236+00:00"
-  },
-  {
-   "faits": [
     "Un vaste incendie est en cours dans un entrepôt près de l'aéroport Charles de Gaulle",
     "De longs panaches de fumée noire sont visibles sur des kilomètres à la ronde"
    ],
@@ -2351,58 +2065,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-22T20:02:39.370988+00:00"
-  },
-  {
-   "faits": [
-    "10% des violences intrafamiliales en France sont concentrées dans les territoires ultramarins",
-    "11% des féminicides en France sont concentrés dans les territoires ultramarins",
-    "Ces chiffres sont paradoxaux car ces départements et régions sont moins peuplés que l'Hexagone",
-    "Un rapport alerte sur le manque d'adaptation des politiques publiques en la matière",
-    "Le rapport a été produit par Aude Luquet, ancienne députée"
-   ],
-   "qui": "Aude Luquet",
-   "ou": "Outre-mer français",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "7a1b94eaf3f982cc",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T18:46:57.522113+00:00"
-  },
-  {
-   "faits": [
-    "Daniel Siad a été retrouvé mort à son domicile",
-    "Il habitait à Colombes (Hauts-de-Seine), près de Paris",
-    "Il a été retrouvé lundi soir",
-    "Le parquet de Nanterre a confirmé l'information le 22 juillet 2026",
-    "Daniel Siad était recruteur de mannequins",
-    "Il était rabatteur présumé de femmes pour Jeffrey Epstein",
-    "Jeffrey Epstein était un pédocriminel américain"
-   ],
-   "qui": "Daniel Siad, Jeffrey Epstein",
-   "ou": "Colombes, Hauts-de-Seine",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "Les causes exactes du décès"
-   ],
-   "importance": 70,
-   "empreinte": "32a076c06e06c5fd",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T18:46:57.522185+00:00"
   },
   {
    "faits": [
@@ -2478,28 +2140,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-22T21:19:10.928003+00:00"
-  },
-  {
-   "faits": [
-    "Les États-Unis ont annoncé un accord avec l'Arabie saoudite sur le nucléaire civil",
-    "L'accord jette les bases juridiques d'un partenariat de plusieurs décennies",
-    "L'accord vise à renforcer les infrastructures énergétiques saoudiennes"
-   ],
-   "qui": "États-Unis ; Arabie saoudite",
-   "ou": null,
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "7a1ea28376950f43",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T22:29:52.720976+00:00"
   },
   {
    "faits": [
@@ -2737,17 +2377,53 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-22T22:29:40.299631+00:00"
+  },
+  {
+   "faits": [
+    "La Chambre des représentants des États-Unis a adopté un projet de budget de la défense 2027",
+    "Le budget s'élève à plus de 1.150 milliards de dollars",
+    "Le texte doit être examiné par le Sénat"
+   ],
+   "qui": "Chambre des représentants des États-Unis",
+   "ou": "États-Unis",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "9998b0ad1fe2f8f3",
+   "score": 73,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T01:08:45.554282+00:00"
+  },
+  {
+   "faits": [
+    "Angers a remporté un match de préparation contre Les Herbiers",
+    "Le score final est 3-1",
+    "Jim Allevinah a marqué un doublé"
+   ],
+   "qui": "Angers, Les Herbiers",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 25,
+   "empreinte": "4397a6937e84b545",
+   "score": 73,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T01:08:45.554337+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "24d33ad4fa892a10",
-   "2026-07-20T23:38:32.721940+00:00"
-  ],
-  [
-   "49cc20797c8fdb55",
-   "2026-07-20T23:38:36.729596+00:00"
-  ],
   [
    "77997dd4bc6bc929",
    "2026-07-21T01:13:11.441305+00:00"
@@ -2827,17 +2503,17 @@
   [
    "030d88ccc2452c1a",
    "2026-07-22T23:35:28.956306+00:00"
+  ],
+  [
+   "1fb98711280787f3",
+   "2026-07-23T01:08:55.116094+00:00"
+  ],
+  [
+   "9fab063369ece087",
+   "2026-07-23T01:08:59.247322+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "2759d769f825ed2e",
-   "2026-07-20T23:38:27.199351+00:00"
-  ],
-  [
-   "05169b158a4c5acd",
-   "2026-07-20T23:38:31.639590+00:00"
-  ],
   [
    "893f200fe05c6cbb",
    "2026-07-21T01:12:56.488384+00:00"
@@ -2917,18 +2593,28 @@
   [
    "be61e4316c565c95",
    "2026-07-22T23:35:23.936679+00:00"
+  ],
+  [
+   "1b1a23d987be8eb6",
+   "2026-07-23T01:08:48.503262+00:00"
+  ],
+  [
+   "e0c1a7889bf49ae6",
+   "2026-07-23T01:08:53.813346+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚡ FLASH — Au moins 44 000 hectares ont brûlé en France en 2026. Le ministre de l'Intérieur Laurent Nuñez l'a annoncé mercredi à Bordeaux. Trois pompiers sont morts en deux semaines, 128 personnes interpellées. (franceinfo, France 24)",
   "⚡ FLASH — Deux sapeurs-pompiers sont morts en Gironde lors d'interventions contre des incendies majeurs. Plus de 1.000 hectares brûlent au bassin d'Arcachon et à Saumos. Plusieurs milliers d'habitants évacués. Un incendie s'est aussi déclaré près de Madrid. (RFI, BFMTV)",
   "⚡ FLASH — Deux sapeurs-pompiers sont décédés en Gironde lors d'interventions contre des incendies majeurs. Plus de 4.600 personnes évacuées, 1.400 hectares brûlés au nord d'Arcachon. Dans le Var, 2.500 hectares ravagés. (France 24)",
-  "Deux sapeurs-pompiers de 34 ans du centre de secours de Saint-Médard-en-Jalles (Gironde) ont péri piégés dans un incendie de pins mardi 21 juillet, près de l'aéroport de Bordeaux-Mérignac. Les circonstances restent à établir. (franceinfo)"
+  "Deux sapeurs-pompiers de 34 ans du centre de secours de Saint-Médard-en-Jalles (Gironde) ont péri piégés dans un incendie de pins mardi 21 juillet, près de l'aéroport de Bordeaux-Mérignac. Les circonstances restent à établir. (franceinfo)",
+  "Nicolas Maduro, ancien président du Venezuela, a été emprisonné aux États-Unis suite à une opération militaire menée à Caracas. Le tribunal de New-York a fixé son procès au 1er juin 2027. Il fait face à quatre chefs d'accusations dont le narcoterrorisme. (franceinfo)",
+  "L'Iran menace une riposte « puissante » si les États-Unis attaquent ses infrastructures civiles. Le chef de la diplomatie iranienne Abbas Araghchi répond ainsi aux menaces de Donald Trump de bombarder centrales électriques et ponts iraniens. (20 Minutes, BFMTV)"
  ],
  "recap_date": "2026-07-22",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-23",
-  "publies": 4
+  "publies": 6
  }
 }

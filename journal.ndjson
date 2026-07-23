@@ -5272,3 +5272,39 @@
 {"decision": "controle", "evt": "be61e4316c565c95", "motif": "ok_sim_0.00", "ts": "2026-07-22T23:35:23+00:00"}
 {"decision": "publie", "empreinte": "8e90220f961bf615", "post_id": "2080074262296068118", "carte": true, "texte": "⚡ FLASH — Deux sapeurs-pompiers sont décédés en Gironde lors d'interventions contre des incendies majeurs. Plus de 4.600 personnes évacuées, 1.400 hectares brûlés au nord d'Arcachon. Dans le Var, 2.500 hectares ravagés. (France 24)", "ts": "2026-07-22T23:35:25+00:00"}
 {"decision": "publie", "empreinte": "030d88ccc2452c1a", "post_id": "2080074278926450768", "carte": true, "texte": "Deux sapeurs-pompiers de 34 ans du centre de secours de Saint-Médard-en-Jalles (Gironde) ont péri piégés dans un incendie de pins mardi 21 juillet, près de l'aéroport de Bordeaux-Mérignac. Les circonstances restent à établir. (franceinfo)", "ts": "2026-07-22T23:35:28+00:00"}
+{"decision": "abandon_attente", "evt": "a6ea2c26832d9217", "categorie": "international", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "abandon_attente", "evt": "0c8989bfc7253964", "categorie": "politique", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "abandon_attente", "evt": "e7364f386ccedfa1", "categorie": "justice", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "abandon_attente", "evt": "2e57e7da8c1dd703", "categorie": "politique", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "abandon_attente", "evt": "1800ec71900e4e89", "categorie": "politique", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "abandon_attente", "evt": "e8b2d9a336f0303a", "categorie": "international", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "abandon_attente", "evt": "1c377b386848670c", "categorie": "sport", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "abandon_attente", "evt": "d4cca61450031662", "categorie": "culture", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "abandon_attente", "evt": "cf67fa5e66ceeea8", "categorie": "sport", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "abandon_attente", "evt": "7a1b94eaf3f982cc", "categorie": "sante", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "abandon_attente", "evt": "32a076c06e06c5fd", "categorie": "justice", "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "9998b0ad1fe2f8f3", "score": 73, "categorie": "economie", "sensible": false, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "4397a6937e84b545", "score": 73, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "publier", "evt": "1b1a23d987be8eb6", "score": 88, "categorie": "international", "sensible": true, "confiance": 92, "sources": ["franceinfo"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "publier", "evt": "e0c1a7889bf49ae6", "score": 86, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["20 Minutes", "BFMTV"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "000c89d349612ef2", "score": 85, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["20 Minutes", "20 Minutes", "20 Minutes"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "publier", "evt": "c4a399f60b45db5f", "score": 84, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "50dbccb5c1ca8a47", "score": 82, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "332e38436c82b60b", "score": 80, "categorie": "faits_divers", "sensible": true, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "1b55e714c93153c5", "score": 80, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "eb150cdf846d1975", "score": 80, "categorie": "international", "sensible": true, "confiance": 82, "sources": ["France 24"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "publier", "evt": "7a1ea28376950f43", "score": 80, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "bb86b003616524c7", "score": 78, "categorie": "faits_divers", "sensible": true, "confiance": 78, "sources": ["France 24"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "469e040f98dea922", "score": 78, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "publier", "evt": "9938df5546195b81", "score": 78, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "publier", "evt": "92b44bc6d0e7a597", "score": 78, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "publier", "evt": "178f9e21eff08262", "score": 78, "categorie": "culture", "sensible": false, "confiance": 82, "sources": ["franceinfo"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "publier", "evt": "76c93f26f52db846", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "publier", "evt": "b0291828e0ba2cc0", "score": 76, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "publier", "evt": "d33e780dfc5feb50", "score": 75, "categorie": "international", "sensible": false, "confiance": 78, "sources": ["BFMTV"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "baa923ed2e6a4096", "score": 74, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["L'Équipe"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "attente", "evt": "6cc6a818c9da18db", "score": 74, "categorie": "culture", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-23T01:08:45+00:00"}
+{"decision": "controle", "evt": "1b1a23d987be8eb6", "motif": "ok_sim_0.00", "ts": "2026-07-23T01:08:48+00:00"}
+{"decision": "controle", "evt": "e0c1a7889bf49ae6", "motif": "ok_sim_0.17", "ts": "2026-07-23T01:08:53+00:00"}
+{"decision": "publie", "empreinte": "1fb98711280787f3", "post_id": "2080097792865821161", "carte": true, "texte": "Nicolas Maduro, ancien président du Venezuela, a été emprisonné aux États-Unis suite à une opération militaire menée à Caracas. Le tribunal de New-York a fixé son procès au 1er juin 2027. Il fait face à quatre chefs d'accusations dont le narcoterrorisme. (franceinfo)", "ts": "2026-07-23T01:08:55+00:00"}
+{"decision": "publie", "empreinte": "9fab063369ece087", "post_id": "2080097810137895221", "carte": true, "texte": "L'Iran menace une riposte « puissante » si les États-Unis attaquent ses infrastructures civiles. Le chef de la diplomatie iranienne Abbas Araghchi répond ainsi aux menaces de Donald Trump de bombarder centrales électriques et ponts iraniens. (20 Minutes, BFMTV)", "ts": "2026-07-23T01:08:59+00:00"}
