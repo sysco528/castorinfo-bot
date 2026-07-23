@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/les-grelons-sont-de-plus-en-plus-gros-pourquoi-les-orages-sont-ils-si-violents_8109989.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/appel-a-temoignages-chaleur-isolement-insomnies-vous-etes-traumatise-par-les-dernieres-canicules-et-apprehendez-les-suivantes-racontez-vous_8109023.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/la-decouverte-d-ossements-dans-le-tarn-est-un-grand-soulagement-reagit-l-avocat-de-la-cousine-de-delphine-aussaguel-l-epouse-disparue-de-cedric-jubillar_8110214.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-volodymyr-zelensky-appelle-a-l-unite-apres-une-passe-d-armes-entre-le-ministre-de-la-defense-sortant-et-le-commandant-en-chef-des-armees_8110262.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-repond-aux-critiques-sur-les-canadair-assurant-avoir-relance-la-production-depuis-2017_8110223.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/taux-d-humidite-vent-fortes-temperatures-a-l-ombre-on-vous-explique-pourquoi-l-incendie-dans-la-foret-de-fontainebleau-s-est-propage-aussi-rapidement_8108528.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-un-deuxieme-rapport-pointe-des-delais-manifestement-excessifs-et-un-manque-de-moyens-d-enquete_8110313.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/scandale-du-logiciel-espion-pegasus-de-nouvelles-preuves-contre-le-maroc_8110370.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/zones-brulees-hectares-partis-en-fumee-visualisez-et-suivez-les-incendies-dans-l-hexagone-au-fil-de-l-ete_8116688.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-une-situation-sans-precedent-pour-les-pompes-funebres-les-effets-dramatiques-de-la-canicule-perdurent_8111864.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/drogue/quelles-mesures-le-maire-d-ales-a-t-il-prises-pour-lutter-contre-le-narcotrafic-qui-lui-valent-d-etre-menace-par-la-dz-mafia_8117597.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/records-pour-pogacar-bon-cru-francais-etapes-de-folie-pourquoi-ca-vaut-encore-le-coup-de-regarder-les-dernieres-etapes-du-tour-de-france_8116493.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/tour-de-france/records-pour-pogacar-bon-cru-francais-etapes-de-folie-pourquoi-ca-vaut-encore-le-coup-de-regarder-les-dernieres-etapes-du-tour-de-france_8116493.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/musique/electro/c-est-important-de-porter-plainte-pour-laisser-la-justice-voir-qui-est-responsable-et-retablir-la-verite-declare-la-dj-barbara-butch_8118848.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-dit-avoir-arrete-trois-petroliers-dans-le-detroit-d-ormuz_8118755.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/les-prix-des-legumes-ont-augmente-de-10-en-un-an-et-ont-plus-que-double-en-10-ans-selon-familles-rurales_8118674.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/le-conseil-constitutionnel-n-a-jamais-ete-autant-saisi-depuis-15-ans-et-l-annee-2026-s-annonce-egalement-record_8118761.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/temoignage-on-a-souvent-senti-des-odeurs-de-drogue-apres-la-decouverte-d-une-creche-illegale-en-essonne-une-mere-de-famille-raconte_8118371.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -426,12 +426,6 @@
    "https://www.lemonde.fr/sport/article/2026/07/22/tour-de-france-2026-la-course-contre-le-temps-de-l-equipe-totalenergies-en-quete-d-un-repreneur_6730001_3242.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/faits-divers/expulse-de-son-logement-social-il-defonce-la-facade-de-son-bailleur-tente-d-y-mettre-le-feu-puis-se-suicide-20260717",
-   "https://madame.lefigaro.fr/bien-etre/psycho/ce-que-j-aurais-aime-savoir-avant-de-prendre-un-coup-de-vieux-20260717",
-   "https://www.lefigaro.fr/international/ukraine-des-milliers-de-manifestants-a-nouveau-reunis-a-kiev-pour-protester-contre-l-eviction-du-populaire-ministre-de-la-defense-20260717",
-   "https://www.lefigaro.fr/sciences/les-scientifiques-sur-la-piste-de-l-asteroide-qui-a-tue-les-dinosaures-20260717",
-   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-iran-dit-avoir-attaque-une-base-militaire-en-syrie-les-bombardements-americains-continuent-20260717",
-   "https://www.lefigaro.fr/international/perou-disparition-inquietante-d-un-touriste-francais-de-30-ans-depuis-le-11-juillet-20260717",
    "https://www.lefigaro.fr/economie/grandes-fortunes-cadres-dirigeants-retraites-pourquoi-les-francais-s-expatrient-en-italie-20260717",
    "https://www.lefigaro.fr/flash-actu/donald-trump-s-emporte-contre-le-canada-pour-la-pollution-de-l-air-aux-etats-unis-causee-par-les-feux-de-foret-20260717",
    "https://www.lefigaro.fr/international/canada-plus-de-200-feux-hors-de-controle-situation-particulierement-critique-dans-l-ontario-20260717",
@@ -725,14 +719,15 @@
    "https://immobilier.lefigaro.fr/article/le-chanteur-vianney-a-toujours-sa-cabane-en-bois-mais-il-n-est-plus-proprietaire-du-43e-etage-de-la-tour-montparnasse-20260723",
    "https://www.lefigaro.fr/flash-eco/nucleaire-les-etats-unis-envisagent-d-installer-des-reacteurs-en-mer-20260722",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-profil-horaire-favoris-et-le-moment-de-verite-de-la-dix-huitieme-etape-20260723",
-   "https://www.lefigaro.fr/international/colere-etudiante-en-inde-modi-promet-de-punir-severement-les-responsables-des-fraudes-aux-examens-20260723"
+   "https://www.lefigaro.fr/international/colere-etudiante-en-inde-modi-promet-de-punir-severement-les-responsables-des-fraudes-aux-examens-20260723",
+   "https://www.lefigaro.fr/meteo/gironde-une-spectaculaire-tornade-de-feu-filmee-au-coeur-de-l-incendie-pres-de-2000-hectares-deja-ravages-20260723",
+   "https://www.lefigaro.fr/sciences/en-2030-ou-pourra-t-on-encore-echapper-aux-canicules-notre-classement-des-villes-les-plus-respirables-20260723",
+   "https://www.lefigaro.fr/societes/5-4-milliards-de-dollars-en-trois-mois-totalenergies-devoile-un-resultat-net-en-forte-hausse-au-second-trimestre-20260723",
+   "https://www.lefigaro.fr/international/37-5-milliards-ce-que-coute-vraiment-la-guerre-en-iran-comparee-aux-precedents-conflits-des-etats-unis-et-aux-budgets-militaires-de-l-otan-20260723",
+   "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
+   "https://www.lefigaro.fr/international/guerre-en-ukraine-lavrov-met-en-garde-rubio-contre-des-livraisons-inadmissibles-d-armes-americaines-20260723"
   ],
   "https://www.france24.com/fr/rss": [
-   "3058f11c-80af-11f1-832d-01a8dedbb32f",
-   "0c16bfa8-7fbc-11f1-8bbd-7772b74bfb79",
-   "ca43b19a-80dc-11f1-95a2-8ba6a0a22865",
-   "cd1b5352-80da-11f1-ae8e-c1f68ea03d55",
-   "1a81eade-80d6-11f1-9096-6d82fec2b497",
    "fbe77e70-8104-11f1-9cea-87745778b465",
    "1620822e-80ff-11f1-907a-5db0ab9006c4",
    "f58cabb0-8053-11f1-aac5-b5654c612066",
@@ -1027,7 +1022,12 @@
    "a0d3787a-85fc-11f1-81c3-fda11fdbb396",
    "964623be-8622-11f1-8d3b-a53119035be2",
    "972b7af4-8640-11f1-a849-cf23467db470",
-   "62a9b328-863a-11f1-a851-d767be3f72a3"
+   "62a9b328-863a-11f1-a851-d767be3f72a3",
+   "19b82a50-8658-11f1-9f01-cfff3918505a",
+   "afd1fdae-8658-11f1-9c02-0571ab935a08",
+   "d31a2014-865a-11f1-a09f-cfff3918505a",
+   "64e847e0-85ee-11f1-b1e8-03741cba6343",
+   "4a25dad6-8633-11f1-b6c5-17bbd799bba4"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1276,7 +1276,11 @@
    "a65fa736-8611-11f1-908a-b96b7307d1da",
    "0dc77f2c-864c-11f1-a693-7bcd5d10debf",
    "4a8c96be-85ce-11f1-b234-cd8940d8e713",
-   "a0b225be-864a-11f1-be5b-7bcd5d10debf"
+   "a0b225be-864a-11f1-be5b-7bcd5d10debf",
+   "51628628-865b-11f1-a138-13099e3234a2",
+   "e7dbaba6-8652-11f1-ae1f-ab0b16b8daec",
+   "b0428e78-865f-11f1-92ed-11e7930ef872",
+   "03bb21be-4e16-11f1-93b4-f5ad95c75990"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/sport/coupe-du-monde/espagne-argentine-faut-il-sinquieter-de-la-pelouse-du-metlife-stadium-qui-accueille-la-finale-de-la-coupe-du-monde-bb873760-805c-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -2048,6 +2052,30 @@
   },
   {
    "faits": [
+    "Douze enfants ont été retrouvés entassés dans une voiture au sous-sol d'une maison d'assistantes maternelles",
+    "Le lieu est situé à Yerres en Essonne",
+    "L'une des deux mises en cause avait perdu son agrément",
+    "Des témoignages mentionnent des odeurs de drogue sur place",
+    "La question de la remontée des signalements des parents se pose"
+   ],
+   "qui": null,
+   "ou": "Yerres (Essonne)",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 86,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 74,
+   "empreinte": "d85ff54a7ac5679a",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T07:25:29.917482+00:00"
+  },
+  {
+   "faits": [
     "Les Jeux olympiques de la Jeunesse (JOJ) se tiendront du 31 octobre au 13 novembre 2026 à Dakar",
     "Ce sera le premier événement sportif olympique à se dérouler sur le sol africain",
     "À J-100, Christophe Dubi confirme que toute une société se mobilise"
@@ -2067,6 +2095,51 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T04:42:10.543319+00:00"
+  },
+  {
+   "faits": [
+    "TotalEnergies a enregistré un résultat net de 5,4 milliards de dollars au second trimestre",
+    "Ce résultat est en forte hausse",
+    "Les chiffres sont tirés vers le haut par le conflit au Moyen-Orient",
+    "Le conflit a fait flamber les cours du pétrole"
+   ],
+   "qui": "TotalEnergies",
+   "ou": null,
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "af306134e18c2cc5",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T07:25:29.917489+00:00"
+  },
+  {
+   "faits": [
+    "Une spectaculaire tornade de feu s'est formée au cœur d'un incendie en Gironde",
+    "L'incendie a déjà détruit près de 2000 hectares de forêt",
+    "Le phénomène a été filmé"
+   ],
+   "qui": null,
+   "ou": "Gironde",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 84,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 76,
+   "empreinte": "297fa066f6344e68",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T07:25:17.535569+00:00"
   },
   {
    "faits": [
@@ -2091,6 +2164,29 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T04:42:00.444090+00:00"
+  },
+  {
+   "faits": [
+    "Le Conseil constitutionnel a été saisi 26 fois en 2025, soit dix de plus que la moyenne",
+    "L'année 2026 s'annonce comme record de saisines",
+    "Les questions prioritaires de constitutionnalité sont en hausse",
+    "C'est le plus haut nombre de saisines depuis 15 ans"
+   ],
+   "qui": "Conseil constitutionnel",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 58,
+   "empreinte": "46844bc9db5f3372",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T07:25:29.917491+00:00"
   },
   {
    "faits": [
@@ -2140,6 +2236,29 @@
   },
   {
    "faits": [
+    "Des milliers de protestataires continuent d'occuper l'esplanade de Jantar Mantar au cœur de New Delhi",
+    "Trois jours après une manifestation sévèrement réprimée, la contestation se poursuit",
+    "Les protestataires exigent la démission du ministre de l'Éducation",
+    "Le gouvernement se dit prêt à entendre le mouvement de contestation pour la première fois depuis plusieurs mois"
+   ],
+   "qui": "Gouvernement indien ; protestataires étudiants",
+   "ou": "New Delhi (Inde)",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 86,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 66,
+   "empreinte": "fa02ccfdf1586a7f",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T07:25:29.917495+00:00"
+  },
+  {
+   "faits": [
     "Le premier ministre indien Modi a promis de punir sévèrement les responsables des fraudes aux examens",
     "Des fraudes aux examens ont suscité la colère des étudiants",
     "Les jeunes sont mobilisés depuis lundi dans les rues de New Delhi"
@@ -2159,6 +2278,98 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T04:42:10.543326+00:00"
+  },
+  {
+   "faits": [
+    "En Inde, le Premier ministre Narendra Modi est sorti du silence au quatrième jour de la contestation étudiante",
+    "Modi a promis de punir sévèrement les responsables des fraudes aux examens universitaires",
+    "Les fraudes aux examens sont à l'origine de la colère des étudiants"
+   ],
+   "qui": "Narendra Modi",
+   "ou": "Inde",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 64,
+   "empreinte": "920776cfb668e208",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T07:25:29.917499+00:00"
+  },
+  {
+   "faits": [
+    "En Ukraine, Oleksandr Syrskyi, chef des armées, a quitté son poste",
+    "Volodymyr Zelensky l'a remplacé par le général Mikhailo Drapatyi",
+    "Drapatyi est décrit comme une figure respectée de l'armée ukrainienne",
+    "Le départ de Syrskyi était l'une des principales revendications des manifestants",
+    "Pour une partie des protestataires, cette décision ne répond pas au problème de fond"
+   ],
+   "qui": "Oleksandr Syrskyi ; Mikhailo Drapatyi ; Volodymyr Zelensky",
+   "ou": "Ukraine",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 84,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "si cette décision résout les problèmes soulevés par les manifestants"
+   ],
+   "importance": 69,
+   "empreinte": "9ef3583ff1131396",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T07:25:29.917502+00:00"
+  },
+  {
+   "faits": [
+    "Les ventes de véhicules électriques continuent leur progression en Europe",
+    "Les voitures 100% électriques représentent désormais 20% du marché automobile européen",
+    "Les voitures électriques remplacent progressivement les véhicules thermiques en Europe"
+   ],
+   "qui": null,
+   "ou": "Europe",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 86,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "720699dfe42e2f4a",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T07:25:29.917503+00:00"
+  },
+  {
+   "faits": [
+    "Sergey Lavrov met en garde Marco Rubio contre des livraisons d'armes américaines en Ukraine",
+    "Lavrov qualifie ces livraisons d'inadmissibles",
+    "Les deux diplomates ont discuté de la relation entre les États-Unis et la Russie et du besoin de mettre fin à la guerre"
+   ],
+   "qui": "Sergey Lavrov ; Marco Rubio",
+   "ou": "Ukraine",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "bbaa6fc99a199a7f",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T07:25:29.917505+00:00"
   },
   {
    "faits": [
@@ -2205,49 +2416,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T04:42:10.543330+00:00"
-  },
-  {
-   "faits": [
-    "La MLS a ouvert une enquête sur le transfert de Casemiro à l'Inter Miami",
-    "Casemiro a rejoint l'Inter Miami alors que ses droits de découverte du Championnat nord-américain appartenaient au Los Angeles Galaxy"
-   ],
-   "qui": "Casemiro, MLS, Inter Miami, Los Angeles Galaxy",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "9938df5546195b81",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T23:35:23.936706+00:00"
-  },
-  {
-   "faits": [
-    "Aïssa Mandi a annoncé sa retraite internationale le 22 juillet 2026",
-    "Le défenseur algérien compte 122 sélections",
-    "Il a 34 ans et termine sa carrière internationale après plus d'une décennie sous le maillot des Fennecs"
-   ],
-   "qui": "Aïssa Mandi",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "76c93f26f52db846",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T23:35:23.936712+00:00"
   },
   {
    "faits": [
@@ -2301,28 +2469,6 @@
   },
   {
    "faits": [
-    "Les États-Unis et l'Iran ont échangé des menaces le 22 juillet 2026",
-    "Donald Trump a menacé l'Iran de répliques sur des ponts et centrales électriques en cas d'attaque de navire dans le détroit d'Ormuz",
-    "Le ministre iranien des Affaires étrangères Abbas Araghchi a répondu en menaçant une riposte 'puissante et décisive'"
-   ],
-   "qui": "Donald Trump (États-Unis), Abbas Araghchi (Iran)",
-   "ou": "Détroit d'Ormuz",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 78,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "d33e780dfc5feb50",
-   "score": 75,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T23:35:23.936716+00:00"
-  },
-  {
-   "faits": [
     "Damien Touzé a été victime d'une grave chute lors du Tour d'Oman en février 2026",
     "Il a failli perdre la vie",
     "Il est en fin de contrat avec Cofidis",
@@ -2346,85 +2492,9 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-23T04:42:00.444446+00:00"
-  },
-  {
-   "faits": [
-    "Le Real Madrid envisage de recruter Rodri du Manchester City",
-    "Rodri est disposé à rejoindre le Real Madrid",
-    "Le Real Madrid cherche un successeur à Toni Kroos au milieu de terrain"
-   ],
-   "qui": "Real Madrid, Rodri, Manchester City",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [
-    "Le transfert reste à confirmer"
-   ],
-   "importance": 55,
-   "empreinte": "baa923ed2e6a4096",
-   "score": 74,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-22T23:35:10.972057+00:00"
-  },
-  {
-   "faits": [
-    "La Chambre des représentants des États-Unis a adopté un projet de budget de la défense 2027",
-    "Le budget s'élève à plus de 1.150 milliards de dollars",
-    "Le texte doit être examiné par le Sénat"
-   ],
-   "qui": "Chambre des représentants des États-Unis",
-   "ou": "États-Unis",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "9998b0ad1fe2f8f3",
-   "score": 73,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T01:08:45.554282+00:00"
-  },
-  {
-   "faits": [
-    "Angers a remporté un match de préparation contre Les Herbiers",
-    "Le score final est 3-1",
-    "Jim Allevinah a marqué un doublé"
-   ],
-   "qui": "Angers, Les Herbiers",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 25,
-   "empreinte": "4397a6937e84b545",
-   "score": 73,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T01:08:45.554337+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "d945f01a05b59ccb",
-   "2026-07-21T07:25:03.017680+00:00"
-  ],
-  [
-   "4092137f7770f5c5",
-   "2026-07-21T07:25:06.986137+00:00"
-  ],
   [
    "2dac0e4a57c70e42",
    "2026-07-21T22:41:02.167958+00:00"
@@ -2496,17 +2566,17 @@
   [
    "17535aa254e35045",
    "2026-07-23T04:42:15.479067+00:00"
+  ],
+  [
+   "c71acdd077aea78b",
+   "2026-07-23T07:25:30.993784+00:00"
+  ],
+  [
+   "c9f876249a7cc2d4",
+   "2026-07-23T07:25:35.020406+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "40a598471410a620",
-   "2026-07-21T07:24:56.768306+00:00"
-  ],
-  [
-   "fae50e3d574aa944",
-   "2026-07-21T07:25:01.869686+00:00"
-  ],
   [
    "2e1a7bdf8d21f9af",
    "2026-07-21T22:40:55.606808+00:00"
@@ -2578,6 +2648,14 @@
   [
    "b90386d9ababca99",
    "2026-07-23T04:42:10.543310+00:00"
+  ],
+  [
+   "ec9e37765864c033",
+   "2026-07-23T07:25:23.047700+00:00"
+  ],
+  [
+   "7bd1589f94d0e8b6",
+   "2026-07-23T07:25:29.917473+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2588,12 +2666,14 @@
   "Nicolas Maduro, ancien président du Venezuela, a été emprisonné aux États-Unis suite à une opération militaire menée à Caracas. Le tribunal de New-York a fixé son procès au 1er juin 2027. Il fait face à quatre chefs d'accusations dont le narcoterrorisme. (franceinfo)",
   "L'Iran menace une riposte « puissante » si les États-Unis attaquent ses infrastructures civiles. Le chef de la diplomatie iranienne Abbas Araghchi répond ainsi aux menaces de Donald Trump de bombarder centrales électriques et ponts iraniens. (20 Minutes, BFMTV)",
   "🌡️ Un incendie ravage plus de 2 000 hectares en Gironde. Au moins 12 000 personnes ont été évacuées depuis mercredi, dont des résidents de campings et d'un domaine naturiste au nord du cap Ferret. (franceinfo)",
-  "⚡ FLASH — Tensions au Moyen-Orient. Les Houthis revendiquent des attaques contre deux pétroliers saoudiens en mer Rouge. L'armée américaine poursuit ses frappes contre l'Iran pour la douzième nuit consécutive. (France 24, RFI)"
+  "⚡ FLASH — Tensions au Moyen-Orient. Les Houthis revendiquent des attaques contre deux pétroliers saoudiens en mer Rouge. L'armée américaine poursuit ses frappes contre l'Iran pour la douzième nuit consécutive. (France 24, RFI)",
+  "L'Iran affirme avoir arrêté trois pétroliers dans le détroit d'Ormuz et revendique des frappes au Koweït et en Jordanie. Les États-Unis bombardent l'Iran pour le douzième jour consécutif. (franceinfo, Le Figaro, France 24)",
+  "🇫🇷 Le concert de la DJ Barbara Butch a été interrompu à Grenoble par des militants propalestiniens contestant son soutien à la loi Yadan. Selon la mairie, elle a reçu des jets de bouteilles. Elle envisage de porter plainte. (franceinfo)"
  ],
  "recap_date": "2026-07-22",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-23",
-  "publies": 8
+  "publies": 10
  }
 }

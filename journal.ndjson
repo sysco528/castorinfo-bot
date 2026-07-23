@@ -5344,3 +5344,37 @@
 {"decision": "controle", "evt": "b90386d9ababca99", "motif": "ok_sim_0.37+alerte_retrogradee", "ts": "2026-07-23T04:42:10+00:00"}
 {"decision": "publie", "empreinte": "b7167ee4fcea80c4", "post_id": "2080151465080037648", "carte": true, "texte": "🌡️ Un incendie ravage plus de 2 000 hectares en Gironde. Au moins 12 000 personnes ont été évacuées depuis mercredi, dont des résidents de campings et d'un domaine naturiste au nord du cap Ferret. (franceinfo)", "ts": "2026-07-23T04:42:11+00:00"}
 {"decision": "publie", "empreinte": "17535aa254e35045", "post_id": "2080151481546854636", "carte": true, "texte": "⚡ FLASH — Tensions au Moyen-Orient. Les Houthis revendiquent des attaques contre deux pétroliers saoudiens en mer Rouge. L'armée américaine poursuit ses frappes contre l'Iran pour la douzième nuit consécutive. (France 24, RFI)", "ts": "2026-07-23T04:42:15+00:00"}
+{"decision": "abandon_attente", "evt": "9938df5546195b81", "categorie": "sport", "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "abandon_attente", "evt": "76c93f26f52db846", "categorie": "sport", "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "abandon_attente", "evt": "d33e780dfc5feb50", "categorie": "international", "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "abandon_attente", "evt": "baa923ed2e6a4096", "categorie": "sport", "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "abandon_attente", "evt": "9998b0ad1fe2f8f3", "categorie": "economie", "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "abandon_attente", "evt": "4397a6937e84b545", "categorie": "sport", "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "7bd1589f94d0e8b6", "score": 94, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["franceinfo", "France 24"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "ec9e37765864c033", "score": 97, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["franceinfo", "Le Figaro", "France 24"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "a53e7b5467bedd82", "score": 85, "categorie": "economie", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "46844bc9db5f3372", "score": 83, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "d85ff54a7ac5679a", "score": 85, "categorie": "faits_divers", "sensible": true, "confiance": 86, "sources": ["franceinfo"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "attente", "evt": "297fa066f6344e68", "score": 83, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 84, "sources": ["Le Figaro"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "af306134e18c2cc5", "score": 84, "categorie": "economie", "sensible": false, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "bbaa6fc99a199a7f", "score": 80, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "920776cfb668e208", "score": 81, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "fa02ccfdf1586a7f", "score": 82, "categorie": "international", "sensible": false, "confiance": 86, "sources": ["RFI"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "25c93072a59f27f6", "score": 86, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "9ef3583ff1131396", "score": 81, "categorie": "international", "sensible": false, "confiance": 84, "sources": ["RFI"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "720699dfe42e2f4a", "score": 81, "categorie": "economie", "sensible": false, "confiance": 86, "sources": ["RFI"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "attente", "evt": "71d4f6da2a6723b0", "score": 88, "categorie": "sante", "sensible": true, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "128bdb3ea9b07b08", "score": 85, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "attente", "evt": "0f264bdea7289897", "score": 83, "categorie": "sante", "sensible": true, "confiance": 82, "sources": ["franceinfo"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "14aaa2bb0437a671", "score": 83, "categorie": "sciences", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "attente", "evt": "e553c7e1aa232d5f", "score": 82, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "a84ff6710019a5a8", "score": 82, "categorie": "international", "sensible": false, "confiance": 87, "sources": ["Le Figaro"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "1cb990c013b84fed", "score": 80, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "c86f8d76d683d70f", "score": 78, "categorie": "sciences", "sensible": false, "confiance": 80, "sources": ["Le Figaro"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "d8d675d277fead99", "score": 76, "categorie": "economie", "sensible": false, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "publier", "evt": "e9549ec6b7401106", "score": 76, "categorie": "culture", "sensible": false, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "attente", "evt": "74854fd0103e0ab4", "score": 74, "categorie": "sport", "sensible": false, "confiance": 78, "sources": ["Ouest-France"], "ts": "2026-07-23T07:25:17+00:00"}
+{"decision": "controle", "evt": "ec9e37765864c033", "motif": "ok_sim_0.34", "ts": "2026-07-23T07:25:23+00:00"}
+{"decision": "controle", "evt": "7bd1589f94d0e8b6", "motif": "ok_sim_0.43", "ts": "2026-07-23T07:25:29+00:00"}
+{"decision": "publie", "empreinte": "c71acdd077aea78b", "post_id": "2080192566817923114", "carte": true, "texte": "L'Iran affirme avoir arrêté trois pétroliers dans le détroit d'Ormuz et revendique des frappes au Koweït et en Jordanie. Les États-Unis bombardent l'Iran pour le douzième jour consécutif. (franceinfo, Le Figaro, France 24)", "ts": "2026-07-23T07:25:30+00:00"}
+{"decision": "publie", "empreinte": "c9f876249a7cc2d4", "post_id": "2080192583578288463", "carte": true, "texte": "🇫🇷 Le concert de la DJ Barbara Butch a été interrompu à Grenoble par des militants propalestiniens contestant son soutien à la loi Yadan. Selon la mairie, elle a reçu des jets de bouteilles. Elle envisage de porter plainte. (franceinfo)", "ts": "2026-07-23T07:25:35+00:00"}
