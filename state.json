@@ -2,12 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/tour-de-france/videos/video-tour-de-france-2026-le-resume-de-la-12e-etape-mouvementee-qui-a-mene-a-la-troisieme-victoire-de-tim-merlier_8110631.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/usa/les-etats-unis-vont-limiter-la-duree-des-sejours-des-journalistes-et-etudiants-etrangers_8110547.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/elections/presidentielle/si-je-peux-etre-utile-je-le-serai-bernard-cazeneuve-s-adresse-aux-francais-mais-maintient-le-suspense-sur-une-candidature-a-la-presidentielle-2027_8110241.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/des-signalements-qui-visaient-jerome-barella-jamais-parvenus-a-la-justice-en-raison-d-un-dysfonctionnement-informatique-pointe-le-deuxieme-pre-rapport-apres-l-affaire-lyhanna_8110613.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-crois-que-je-ne-realise-pas-le-choc-a-cagnac-les-mines-apres-la-decouverte-des-ossements_8110784.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/affaire-cedric-jubillar-des-temoignages-au-c-ur-de-l-enquete_8110763.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/meurtre-d-une-surveillante-par-un-collegien-en-haute-marne/meurtre-d-une-surveillante-a-nogent-un-collegien-de-15-ans-condamne-a-18-ans-de-reclusion-criminelle_8110745.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-radio/affaire-jubillar-le-proces-d-une-disparition/je-ne-comprends-pas-que-cette-depouille-ait-pu-rester-si-longtemps-sur-notre-commune-dit-le-maire-de-mailhoc-apres-la-decouverte-d-ossements-a-l-endroit-ou-cedric-jubillar-affirme-avoir-cache-le-corps-de-delphine_8110691.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +295,13 @@
    "https://www.franceinfo.fr/sante/le-gouvernement-va-doubler-le-plafond-annuel-des-franchises-medicales-sur-les-consultations-et-les-medicaments-de-100-a-200euros_8118890.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/automobile/essence/le-guichet-grands-rouleurs-qui-devait-fermer-au-31-juillet-sera-ouvert-jusqu-au-31-aout-annonce-le-ministre-de-l-economie_8118884.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-double-son-benefice-net-au-2e-trimestre-a-4-7-milliards-d-euros_8118845.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/philippe-diallo-annoncera-le-nom-du-prochain-selectionneur-de-l-equipe-de-france-mardi-28-juillet_8118938.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/foot/philippe-diallo-annoncera-le-nom-du-prochain-selectionneur-de-l-equipe-de-france-mardi-28-juillet_8118938.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-la-derniere-chance-pour-une-victoire-francaise-suivez-la-redoutable-etape-alpine-entre-voiron-et-orcieres-merlette-avec-nous_8118881.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-epstein-l-association-innocence-en-danger-assigne-l-etat-francais-pour-deni-de-justice-apres-la-mort-du-rabatteur-presume-du-pedocriminel_8119124.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/a-paris-la-place-maurice-barres-fervent-antisemite-rebaptisee-lucie-dreyfus_8119160.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/antibes/on-vient-d-assister-au-passage-des-camions-c-est-un-carnage-huit-dauphins-de-marineland-transferes-dans-la-nuit-vers-l-espagne-3390715.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/pollution/qualite-de-l-eau/perrier-san-pellegrino-vittel-les-eaux-nestle-se-detachent-du-groupe-pour-mieux-tourner-la-page-du-scandale_8119190.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/cyclisme/paul-seixas/reportage-c-est-une-fierte-paul-seixas-le-prodige-du-cyclisme-francais-fait-vibrer-les-clubs-de-son-enfance_8118851.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -438,14 +438,6 @@
    "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/flash-actu/venezuela-le-bilan-du-double-seisme-depasse-les-5000-morts-20260717",
-   "https://www.lefigaro.fr/flash-actu/norvege-un-incendie-detruit-plus-d-une-centaine-de-logements-20260717",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-ne-pas-tomber-dans-la-provocation-rodri-se-mefie-du-comportement-de-l-albiceleste-20260718",
-   "https://www.lefigaro.fr/flash-actu/viols-filmes-en-milieu-libertin-cinq-hommes-supplementaires-mis-en-examen-19-au-total-20260717",
-   "https://www.lefigaro.fr/musique/emmanuel-et-brigitte-macron-places-a-2000-euros-la-folie-bts-s-empare-du-stade-de-france-20260718",
-   "https://www.lefigaro.fr/international/en-direct-iran-quatre-petroliers-stoppes-dans-le-detroit-deux-sautent-sur-des-mines-selon-les-gardiens-de-la-revolution-20260718",
-   "https://www.lefigaro.fr/actualite-france/decouvrez-le-vrai-classement-des-prenoms-les-plus-donnes-en-france-20260718",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-angleterre-offrir-a-didier-deschamps-une-derniere-danse-20260718",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/la-maladie-est-plus-contagieuse-que-jamais-l-angleterre-toujours-maudite-depuis-60-ans-20260718",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-angleterre-les-bleus-ont-ils-envie-de-jouer-la-petite-finale-20260718",
    "https://www.lefigaro.fr/cinema/l-odyssee-une-nouvelle-fois-adapte-en-film-dans-une-version-entierement-generee-par-ia-20260718",
@@ -737,15 +729,17 @@
    "https://www.lefigaro.fr/international/guerre-en-ukraine-lavrov-met-en-garde-rubio-contre-des-livraisons-inadmissibles-d-armes-americaines-20260723",
    "https://www.lefigaro.fr/elections/stature-presidentielle-francois-hollande-prend-le-pouvoir-a-gauche-20260723",
    "https://www.lefigaro.fr/nantes/nantes-un-nouvel-incendie-ravage-un-campement-rom-aux-portes-de-la-ville-8-hectares-brules-20260723",
-   "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260714"
+   "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260714",
+   "https://www.lefigaro.fr/faits-divers/meurtre-de-thomas-a-crepol-la-circonstance-aggravante-de-racisme-finalement-retenue-par-les-juges-20260723",
+   "https://tvmag.lefigaro.fr/programme-tv/people/on-attend-les-consignes-julien-courbet-et-ses-chevaux-en-proie-aux-flammes-au-cap-ferret-20260723",
+   "https://www.lefigaro.fr/actualite-france/la-france-est-elle-suffisamment-equipee-en-moyens-aeriens-pour-lutter-contre-les-incendies-de-forets-20260723",
+   "https://www.lefigaro.fr/faits-divers/ils-ont-resolu-deux-cold-cases-en-deux-jours-pres-de-bayonne-l-incroyable-operation-de-plongeurs-americains-dans-l-adour-20260723",
+   "https://www.lefigaro.fr/cinema/l-odyssee-fait-chavirer-le-public-francais-en-enregistrant-1-84-million-d-entrees-en-une-semaine-20260723",
+   "https://www.lefigaro.fr/international/ses-convictions-ressemblent-a-celles-d-un-americain-moyen-joe-rogan-le-roi-des-podcasteurs-faiseur-d-opinion-debride-20260723",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-les-grimpeurs-attendus-une-premiere-victoire-tricolore-possible-a-orcieres-merlette-suivez-la-18e-etape-20260723",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/le-panache-c-est-luis-ocana-le-tour-de-france-s-offre-un-voyage-sur-les-ailes-de-l-espagnol-20260722"
   ],
   "https://www.france24.com/fr/rss": [
-   "fbe77e70-8104-11f1-9cea-87745778b465",
-   "1620822e-80ff-11f1-907a-5db0ab9006c4",
-   "f58cabb0-8053-11f1-aac5-b5654c612066",
-   "6264e5c6-80fa-11f1-a582-b781eb04d957",
-   "1ddf68cc-8113-11f1-ad53-1f5f45bd9f1e",
-   "efafc232-810b-11f1-8b4f-ff1868c275bd",
    "48a039ba-8113-11f1-a558-1f5f45bd9f1e",
    "187bbb1c-8111-11f1-9636-1f5f45bd9f1e",
    "2d582d66-8109-11f1-9dc0-d5c4954d972f",
@@ -1039,7 +1033,13 @@
    "afd1fdae-8658-11f1-9c02-0571ab935a08",
    "d31a2014-865a-11f1-a09f-cfff3918505a",
    "64e847e0-85ee-11f1-b1e8-03741cba6343",
-   "4a25dad6-8633-11f1-b6c5-17bbd799bba4"
+   "4a25dad6-8633-11f1-b6c5-17bbd799bba4",
+   "c05cdb8c-8688-11f1-b908-a90349697956",
+   "e33bf140-8685-11f1-a56b-a90349697956",
+   "df56beb8-867e-11f1-8e80-3124adb8251c",
+   "2e1a0f16-866e-11f1-971d-8b91e7fe4f70",
+   "db8cf5e2-8677-11f1-84b8-6ff3aff177dc",
+   "f0907546-8676-11f1-9176-579a71d41a78"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -2039,6 +2039,56 @@
  "evenements_attente": [
   {
    "faits": [
+    "La 18e étape du Tour de France 2026 se déroule le 23 juillet entre Voiron et Orcières-Merlette",
+    "Cette étape alpine comporte 3 900 mètres de dénivelé positif",
+    "Orcières-Merlette a accueilli une victoire mémorable de Luis Ocaña le 8 juillet 1971"
+   ],
+   "qui": "Tour de France 2026",
+   "ou": "Alpes du Sud (Voiron - Orcières-Merlette)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "029f41d55009a9b4",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-23T12:00:05.695529+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie de forêt sévit au nord du bassin d'Arcachon depuis mercredi 22 juillet 2026",
+    "L'incendie a parcouru au minimum 2 400 hectares",
+    "Environ 20 000 personnes ont été évacuées",
+    "L'incendie est d'origine probablement accidentelle",
+    "Les pompiers continuent de lutter contre les flammes",
+    "Depuis le début de l'année 2026, plus de 12 500 départs de feu ont été recensés en France",
+    "Plus de 44 000 hectares ont brûlé en France depuis le début de l'année, bilan supérieur à celui de 2022"
+   ],
+   "qui": "Pompiers, autorités françaises",
+   "ou": "Gironde, bassin d'Arcachon, Lège-Cap-Ferret",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "da516ab692019052",
+   "score": 98,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-23T12:00:05.695532+00:00"
+  },
+  {
+   "faits": [
     "TotalEnergies a doublé son bénéfice net au 2e trimestre à 4,7 milliards d'euros",
     "Le bénéfice net du premier semestre s'affiche à 11,2 milliards de dollars (9,8 milliards d'euros)",
     "La hausse du bénéfice sur un an est de 73% (ou 72% selon une source)"
@@ -2083,31 +2133,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T10:03:05.823754+00:00"
-  },
-  {
-   "faits": [
-    "5 764 décès excédentaires ont été enregistrés lors de l'épisode de chaleurs extrêmes du 17 juin au 2 juillet",
-    "Pour moitié ces décès se sont concentrés en trois jours (25-27 juin)",
-    "Cette surmortalité n'avait jamais été observée depuis la canicule de 2003",
-    "Les données sont provisoires selon Santé publique France"
-   ],
-   "qui": "Santé publique France",
-   "ou": "France",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "données provisoires"
-   ],
-   "importance": 88,
-   "empreinte": "71d4f6da2a6723b0",
-   "score": 88,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:00.444045+00:00"
   },
   {
    "faits": [
@@ -2225,6 +2250,29 @@
   },
   {
    "faits": [
+    "La place Maurice Barrès à Paris a été rebaptisée place Lucie Dreyfus",
+    "Maurice Barrès était un fervent antisémite",
+    "2026 marque les 120 ans de la décision de la Cour de cassation réhabilitant Alfred Dreyfus",
+    "Alfred Dreyfus avait été condamné à tort en 1894"
+   ],
+   "qui": "Ville de Paris, Alfred Dreyfus, Maurice Barrès",
+   "ou": "Paris",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "a8039650615d455c",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T12:00:05.695545+00:00"
+  },
+  {
+   "faits": [
     "Le gouvernement français va doubler le plafond annuel des franchises médicales de 100 à 200 euros",
     "Ce plafond n'a pas évolué depuis 20 ans",
     "Le montant des franchises (1€ par boîte de médicament et 2€ par consultation) restera le même"
@@ -2317,25 +2365,26 @@
   },
   {
    "faits": [
-    "Les Jeux olympiques de la Jeunesse (JOJ) se tiendront du 31 octobre au 13 novembre 2026 à Dakar",
-    "Ce sera le premier événement sportif olympique à se dérouler sur le sol africain",
-    "À J-100, Christophe Dubi confirme que toute une société se mobilise"
+    "Daniel Siad a été visé par plusieurs plaintes dont deux pour viols",
+    "Les premiers signalements remontent à l'été 2019",
+    "Daniel Siad n'a jamais été entendu par la justice",
+    "L'association Innocence en danger assigne l'État français pour 'déni de justice'"
    ],
-   "qui": "CIO, Christophe Dubi, Dakar 2026",
-   "ou": "Dakar, Sénégal",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
+   "qui": "Daniel Siad, association Innocence en danger, État français",
+   "ou": "France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
    "sources": [
-    "RFI"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 73,
-   "empreinte": "128bdb3ea9b07b08",
-   "score": 85,
-   "fiab_max": 85,
+   "importance": 70,
+   "empreinte": "bc191e73cf21f541",
+   "score": 84,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:10.543319+00:00"
+   "depuis": "2026-07-23T12:00:05.695552+00:00"
   },
   {
    "faits": [
@@ -2407,27 +2456,26 @@
   },
   {
    "faits": [
-    "Les pompes funèbres font face à des chambres funéraires qui ne désemplissent pas plusieurs semaines après les fortes chaleurs",
-    "Les entreprises craignent une nouvelle vague de décès",
-    "Gauthier Caton, patron d'une entreprise parisienne de pompes funèbres, rapporte la situation"
+    "Nestlé se désengage partiellement de son activité d'eau en bouteille",
+    "L'activité est éclaboussée par un scandale autour de ses procédés de microfiltration",
+    "Nestlé annonce la création d'une coentreprise avec Platinum Equity (société d'investissement américaine)",
+    "Les marques concernées incluent Perrier, San Pellegrino et Vittel"
    ],
-   "qui": "Gauthier Caton, entreprises de pompes funèbres",
-   "ou": "Paris, France",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 82,
+   "qui": "Nestlé, Platinum Equity",
+   "ou": null,
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 88,
    "sources": [
     "franceinfo"
    ],
-   "non_confirme": [
-    "crainte d'une nouvelle vague de décès"
-   ],
-   "importance": 75,
-   "empreinte": "0f264bdea7289897",
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "54a6c55387042fd0",
    "score": 83,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:00.444090+00:00"
+   "depuis": "2026-07-23T12:00:05.695557+00:00"
   },
   {
    "faits": [
@@ -2476,49 +2524,70 @@
   },
   {
    "faits": [
-    "La chaleur extrême, davantage que le manque de précipitations, est devenue le principal facteur de sécheresse en Europe",
-    "Selon une étude du réseau World Weather Attribution publiée jeudi",
-    "Le changement climatique agrave la sécheresse en Europe"
+    "Les juges de Valence ont retenu la circonstance aggravante de 'racisme' pour le meurtre de Thomas à Crépol",
+    "Cette circonstance faisait l'objet de débats depuis le début des investigations"
    ],
-   "qui": "World Weather Attribution",
-   "ou": "Europe",
-   "categorie": "sciences",
+   "qui": "Magistrats de Valence, mis en cause (noms non précisés)",
+   "ou": "Crépol, Valence",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "edaefd10bdc5493f",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T12:00:05.694613+00:00"
+  },
+  {
+   "faits": [
+    "Des incendies de forêt ravagent plusieurs régions d'Europe du Sud",
+    "Les incendies affectent l'Espagne et l'Italie",
+    "Les incendies sont attisés par un vent soutenu et des températures très élevées",
+    "Des milliers d'habitants et de touristes ont dû être évacués"
+   ],
+   "qui": "Autorités espagnoles et italiennes",
+   "ou": "Espagne, Italie",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "cd69d0786d46cb1e",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T12:00:05.694678+00:00"
+  },
+  {
+   "faits": [
+    "Sergueï Lavrov (ministre russe des Affaires étrangères) et Marco Rubio (secrétaire d'État américain) se sont entretenus à Manille en marge d'une réunion des ministres de l'Asean",
+    "C'est leur première rencontre depuis septembre 2025",
+    "L'entretien a duré environ trente minutes",
+    "La Russie juge 'inadmissible' la livraison d'armes américaines à Kiev"
+   ],
+   "qui": "Sergueï Lavrov, Marco Rubio, Russie, États-Unis",
+   "ou": "Manille, Kiev",
+   "categorie": "international",
    "sensible": false,
    "confiance": 85,
    "sources": [
     "France 24"
    ],
    "non_confirme": [],
-   "importance": 74,
-   "empreinte": "14aaa2bb0437a671",
-   "score": 83,
+   "importance": 70,
+   "empreinte": "3d736e46325f606e",
+   "score": 82,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:10.543323+00:00"
-  },
-  {
-   "faits": [
-    "Le maire d'Alès a été exfiltré de chez lui",
-    "Il est placé sous protection policière",
-    "Il est menacé par la DZ Mafia",
-    "Il avait mis en place une réponse coordonnée contre le narcotrafic avec le parquet et la police",
-    "Des interpellations et des saisies ont été effectuées"
-   ],
-   "qui": "Maire d'Alès",
-   "ou": "Alès, Gard",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "e553c7e1aa232d5f",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:00.444132+00:00"
+   "depuis": "2026-07-23T12:00:05.695561+00:00"
   },
   {
    "faits": [
@@ -2567,25 +2636,28 @@
   },
   {
    "faits": [
-    "Le premier ministre indien Modi a promis de punir sévèrement les responsables des fraudes aux examens",
-    "Des fraudes aux examens ont suscité la colère des étudiants",
-    "Les jeunes sont mobilisés depuis lundi dans les rues de New Delhi"
+    "Huit dauphins de Marineland (Antibes) ont été transférés dans la nuit du 22 au 23 juillet 2026",
+    "Le transfert s'est fait vers un parc zoologique marin en Espagne",
+    "Marineland compte douze dauphins au total",
+    "Les associations de défense animale craignent les risques pour la santé des cétacés liés aux fortes chaleurs"
    ],
-   "qui": "Narendra Modi, étudiants indiens",
-   "ou": "New Delhi, Inde",
-   "categorie": "international",
+   "qui": "Marineland, associations de défense animale",
+   "ou": "Antibes, Espagne",
+   "categorie": "faits_divers",
    "sensible": false,
-   "confiance": 87,
+   "confiance": 85,
    "sources": [
-    "Le Figaro"
+    "franceinfo"
    ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "a84ff6710019a5a8",
-   "score": 82,
-   "fiab_max": 85,
+   "non_confirme": [
+    "Risques sanitaires précis pour les dauphins"
+   ],
+   "importance": 55,
+   "empreinte": "90350f879b30d6d9",
+   "score": 81,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:10.543326+00:00"
+   "depuis": "2026-07-23T12:00:05.695565+00:00"
   },
   {
    "faits": [
@@ -2656,74 +2728,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T07:25:29.917503+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie a ravagé un campement rom aux portes de Nantes",
-    "8 hectares ont brûlé",
-    "L'incendie a été maîtrisé en un peu plus d'une heure",
-    "Huit caravanes et douze véhicules ont été détruits"
-   ],
-   "qui": null,
-   "ou": "Nantes, France",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "1ab6e8999b053a3c",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T10:03:05.822972+00:00"
-  },
-  {
-   "faits": [
-    "Sergey Lavrov met en garde Marco Rubio contre des livraisons d'armes américaines en Ukraine",
-    "Lavrov qualifie ces livraisons d'inadmissibles",
-    "Les deux diplomates ont discuté de la relation entre les États-Unis et la Russie et du besoin de mettre fin à la guerre"
-   ],
-   "qui": "Sergey Lavrov ; Marco Rubio",
-   "ou": "Ukraine",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "bbaa6fc99a199a7f",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T07:25:29.917505+00:00"
-  },
-  {
-   "faits": [
-    "La ministre de la Transition écologique Monique Barbut a présenté sa démission mercredi",
-    "Elle a protesté contre la version définitive du projet de loi d'urgence agricole adopté par le Parlement",
-    "Elle a contesté la mesure controversée sur les pesticides",
-    "Elle a décidé de poursuivre sa mission à la demande du président Emmanuel Macron"
-   ],
-   "qui": "Monique Barbut, Emmanuel Macron, Parlement",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 71,
-   "empreinte": "1cb990c013b84fed",
-   "score": 80,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:10.543328+00:00"
   }
  ],
  "publies_48h": [
