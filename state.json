@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/taux-d-humidite-vent-fortes-temperatures-a-l-ombre-on-vous-explique-pourquoi-l-incendie-dans-la-foret-de-fontainebleau-s-est-propage-aussi-rapidement_8108528.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-un-deuxieme-rapport-pointe-des-delais-manifestement-excessifs-et-un-manque-de-moyens-d-enquete_8110313.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/scandale-du-logiciel-espion-pegasus-de-nouvelles-preuves-contre-le-maroc_8110370.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-cedric-jubillar-comment-vont-se-derouler-les-analyses-des-ossements-retrouves-pres-de-six-ans-apres-la-disparition-de-delphine-aussaguel_8110277.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/energie/le-regulateur-de-l-energie-propose-une-hausse-de-2-5-des-tarifs-reglementes-de-l-electricite-au-1er-aout_8110583.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/videos/video-tour-de-france-2026-le-resume-de-la-12e-etape-mouvementee-qui-a-mene-a-la-troisieme-victoire-de-tim-merlier_8110631.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/usa/les-etats-unis-vont-limiter-la-duree-des-sejours-des-journalistes-et-etudiants-etrangers_8110547.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/elections/presidentielle/si-je-peux-etre-utile-je-le-serai-bernard-cazeneuve-s-adresse-aux-francais-mais-maintient-le-suspense-sur-une-candidature-a-la-presidentielle-2027_8110241.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-dit-avoir-arrete-trois-petroliers-dans-le-detroit-d-ormuz_8118755.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/les-prix-des-legumes-ont-augmente-de-10-en-un-an-et-ont-plus-que-double-en-10-ans-selon-familles-rurales_8118674.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/le-conseil-constitutionnel-n-a-jamais-ete-autant-saisi-depuis-15-ans-et-l-annee-2026-s-annonce-egalement-record_8118761.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/temoignage-on-a-souvent-senti-des-odeurs-de-drogue-apres-la-decouverte-d-une-creche-illegale-en-essonne-une-mere-de-famille-raconte_8118371.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/temoignage-on-a-souvent-senti-des-odeurs-de-drogue-apres-la-decouverte-d-une-creche-illegale-en-essonne-une-mere-de-famille-raconte_8118371.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pendant-deux-jours-j-ai-tire-le-corps-d-un-mort-dans-la-kill-zone-les-soldats-ukrainiens-vivent-sous-la-menace-permanente-des-drones-russes_8089898.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sante/le-gouvernement-va-doubler-le-plafond-annuel-des-franchises-medicales-sur-les-consultations-et-les-medicaments-de-100-a-200euros_8118890.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/automobile/essence/le-guichet-grands-rouleurs-qui-devait-fermer-au-31-juillet-sera-ouvert-jusqu-au-31-aout-annonce-le-ministre-de-l-economie_8118884.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-double-son-benefice-net-au-2e-trimestre-a-4-7-milliards-d-euros_8118845.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/philippe-diallo-annoncera-le-nom-du-prochain-selectionneur-de-l-equipe-de-france-mardi-28-juillet_8118938.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -423,12 +423,21 @@
    "https://www.lemonde.fr/pixels/article/2026/07/22/openai-fait-etat-d-un-piratage-sans-precedent-d-une-plateforme-par-ses-agents-d-ia_6730004_4408996.html",
    "https://www.lemonde.fr/pixels/article/2026/07/21/comment-l-interdiction-des-reseaux-sociaux-aux-plus-jeunes-s-impose-partout-dans-le-monde_6729144_4408996.html",
    "https://www.lemonde.fr/politique/article/2026/07/22/budget-2027-sebastien-lecornu-juge-preoccupant-le-niveau-de-la-dette-du-pays-et-assure-que-la-reduction-du-deficit-reste-la-priorite_6729952_823448.html",
-   "https://www.lemonde.fr/sport/article/2026/07/22/tour-de-france-2026-la-course-contre-le-temps-de-l-equipe-totalenergies-en-quete-d-un-repreneur_6730001_3242.html"
+   "https://www.lemonde.fr/sport/article/2026/07/22/tour-de-france-2026-la-course-contre-le-temps-de-l-equipe-totalenergies-en-quete-d-un-repreneur_6730001_3242.html",
+   "https://www.lemonde.fr/planete/live/2026/07/23/en-direct-incendie-en-gironde-2-000-hectares-parcourus-par-les-flammes-12-000-personnes-evacuees_6730417_3244.html",
+   "https://www.lemonde.fr/planete/article/2026/07/23/la-rougeole-hors-de-controle-aux-etats-unis-sur-fond-de-vaccino-scepticisme_6730520_3244.html",
+   "https://www.lemonde.fr/economie/article/2026/07/23/totalenergies-engrange-11-2-milliards-de-dollars-de-benefice-en-six-mois-sur-fond-de-guerre-au-moyen-orient_6730624_3234.html",
+   "https://www.lemonde.fr/societe/article/2026/07/23/sanctionne-pour-avoir-conteste-ses-conditions-de-detention-salah-abdeslam-est-decide-a-faire-valoir-ses-droits_6730416_3224.html",
+   "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-au-moyen-orient-l-iran-revendique-des-bombardements-sur-des-sites-militaires-americains-en-jordanie-et-au-koweit_6725301_3210.html",
+   "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-les-dernieres-informations-au-23-juillet-2026_6725306_3210.html",
+   "https://www.lemonde.fr/societe/article/2026/07/23/qui-est-gabriel-loustau-figure-montante-de-l-ultradroite-condamne-a-six-mois-de-prison_6730519_3224.html",
+   "https://www.lemonde.fr/societe/article/2026/07/23/deux-assistantes-maternelles-d-une-creche-illegale-jugees-apres-avoir-cache-12-enfants-dans-une-voiture-lors-d-un-controle-dans-l-essonne_6730383_3224.html",
+   "https://www.lemonde.fr/campus/article/2026/07/23/les-rares-fois-ou-je-ne-porte-pas-ma-prothese-au-travail-les-regards-se-braquent-sur-mon-sein-absent-la-poitrine-cet-objet-du-desir-qui-peut-cacher-la-maladie_6730345_4401467.html",
+   "https://www.lemonde.fr/sport/article/2026/07/23/tour-de-france-2026-la-montagne-terrain-honni-des-sprinteurs-qui-luttent-pour-rentrer-dans-les-delais_6730587_3242.html",
+   "https://www.lemonde.fr/international/article/2026/07/23/en-italie-la-blessure-toujours-ouverte-de-la-repression-lors-du-g8-de-genes-en-2001_6730108_3210.html",
+   "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/economie/grandes-fortunes-cadres-dirigeants-retraites-pourquoi-les-francais-s-expatrient-en-italie-20260717",
-   "https://www.lefigaro.fr/flash-actu/donald-trump-s-emporte-contre-le-canada-pour-la-pollution-de-l-air-aux-etats-unis-causee-par-les-feux-de-foret-20260717",
-   "https://www.lefigaro.fr/international/canada-plus-de-200-feux-hors-de-controle-situation-particulierement-critique-dans-l-ontario-20260717",
    "https://www.lefigaro.fr/flash-actu/venezuela-le-bilan-du-double-seisme-depasse-les-5000-morts-20260717",
    "https://www.lefigaro.fr/flash-actu/norvege-un-incendie-detruit-plus-d-une-centaine-de-logements-20260717",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-ne-pas-tomber-dans-la-provocation-rodri-se-mefie-du-comportement-de-l-albiceleste-20260718",
@@ -725,7 +734,10 @@
    "https://www.lefigaro.fr/societes/5-4-milliards-de-dollars-en-trois-mois-totalenergies-devoile-un-resultat-net-en-forte-hausse-au-second-trimestre-20260723",
    "https://www.lefigaro.fr/international/37-5-milliards-ce-que-coute-vraiment-la-guerre-en-iran-comparee-aux-precedents-conflits-des-etats-unis-et-aux-budgets-militaires-de-l-otan-20260723",
    "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
-   "https://www.lefigaro.fr/international/guerre-en-ukraine-lavrov-met-en-garde-rubio-contre-des-livraisons-inadmissibles-d-armes-americaines-20260723"
+   "https://www.lefigaro.fr/international/guerre-en-ukraine-lavrov-met-en-garde-rubio-contre-des-livraisons-inadmissibles-d-armes-americaines-20260723",
+   "https://www.lefigaro.fr/elections/stature-presidentielle-francois-hollande-prend-le-pouvoir-a-gauche-20260723",
+   "https://www.lefigaro.fr/nantes/nantes-un-nouvel-incendie-ravage-un-campement-rom-aux-portes-de-la-ville-8-hectares-brules-20260723",
+   "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260714"
   ],
   "https://www.france24.com/fr/rss": [
    "fbe77e70-8104-11f1-9cea-87745778b465",
@@ -2027,6 +2039,53 @@
  "evenements_attente": [
   {
    "faits": [
+    "TotalEnergies a doublé son bénéfice net au 2e trimestre à 4,7 milliards d'euros",
+    "Le bénéfice net du premier semestre s'affiche à 11,2 milliards de dollars (9,8 milliards d'euros)",
+    "La hausse du bénéfice sur un an est de 73% (ou 72% selon une source)"
+   ],
+   "qui": "TotalEnergies",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "a99f2ea787295f77",
+   "score": 96,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-23T10:03:05.823751+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie en Gironde est qualifié d'exceptionnellement intense par les pompiers",
+    "La surface du feu a été multipliée par six en moins de trois heures",
+    "L'incendie progresse vers Arès et Lège-Cap-Ferret",
+    "Tous les massifs du Var sont fermés à cause des feux",
+    "Un feu dans le Var a parcouru 2 500 hectares et n'était toujours pas fixé"
+   ],
+   "qui": null,
+   "ou": "Gironde (bassin d'Arcachon, Arès, Lège-Cap-Ferret), Var, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "97f4c5992fabdcd4",
+   "score": 89,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823754+00:00"
+  },
+  {
+   "faits": [
     "5 764 décès excédentaires ont été enregistrés lors de l'épisode de chaleurs extrêmes du 17 juin au 2 juillet",
     "Pour moitié ces décès se sont concentrés en trois jours (25-27 juin)",
     "Cette surmortalité n'avait jamais été observée depuis la canicule de 2003",
@@ -2049,6 +2108,188 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T04:42:00.444045+00:00"
+  },
+  {
+   "faits": [
+    "Philippe Diallo présentera le successeur de Didier Deschamps à la tête de l'équipe de France",
+    "La présentation aura lieu mardi 28 juillet à 11 heures lors d'une conférence de presse"
+   ],
+   "qui": "Philippe Diallo (président FFF), Didier Deschamps",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "identité du successeur de Deschamps"
+   ],
+   "importance": 80,
+   "empreinte": "6f6da13c637d8993",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823757+00:00"
+  },
+  {
+   "faits": [
+    "Les soldats ukrainiens mènent des opérations d'évacuation de blessés dans la 'kill zone' à Zaporijjia",
+    "La 'kill zone' est une zone saturée de drones où chaque déplacement peut être mortel",
+    "La guerre en Ukraine est marquée par l'utilisation de drones et de frappes à longue portée"
+   ],
+   "qui": "Armée ukrainienne",
+   "ou": "Zaporijjia, Ukraine",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "db49f19e7e08b562",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823758+00:00"
+  },
+  {
+   "faits": [
+    "Des bombardements ukrainiens ont tué une personne dans la région russe de Belgorod près de la frontière",
+    "Une personne a été tuée en Crimée dans des bombardements ukrainiens",
+    "Moscou poursuit ses attaques contre des installations énergétiques"
+   ],
+   "qui": "Ukraine, Russie",
+   "ou": "Belgorod, Crimée, Russie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "c7ddb8f5bf43d71d",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823760+00:00"
+  },
+  {
+   "faits": [
+    "L'Iran revendique des bombardements sur des sites militaires américains en Jordanie et au Koweït",
+    "L'Iran affirme avoir détruit un radar américain du système antimissile Thaad en Jordanie",
+    "L'armée iranienne dit avoir visé notamment des dépôts de munitions et des réservoirs de carburant au Koweït",
+    "L'armée américaine a procédé à une 'nouvelle série de frappes contre l'Iran pour la 12e nuit d'affilée'"
+   ],
+   "qui": "Iran, États-Unis",
+   "ou": "Jordanie, Koweït, Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "dommages réels et efficacité des frappes revendiquées"
+   ],
+   "importance": 80,
+   "empreinte": "d3ddf8004340dcfb",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823762+00:00"
+  },
+  {
+   "faits": [
+    "Salah Abdeslam est sanctionné pour avoir dénoncé ses conditions de détention",
+    "Salah Abdeslam est le dernier membre encore en vie du commando des attentats du 13 novembre 2015",
+    "Il est condamné à la perpétuité incompressible et à l'isolement depuis dix ans"
+   ],
+   "qui": "Salah Abdeslam",
+   "ou": "France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "0209608da6079bf0",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823763+00:00"
+  },
+  {
+   "faits": [
+    "Le gouvernement français va doubler le plafond annuel des franchises médicales de 100 à 200 euros",
+    "Ce plafond n'a pas évolué depuis 20 ans",
+    "Le montant des franchises (1€ par boîte de médicament et 2€ par consultation) restera le même"
+   ],
+   "qui": "Gouvernement français, Stéphanie Rist (ministre de la Santé)",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "3dd2815f289d64c7",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823765+00:00"
+  },
+  {
+   "faits": [
+    "Une épidémie de rougeole est décrite comme 'hors de contrôle' aux États-Unis",
+    "Il y a une accélération du nombre de cas de rougeole",
+    "La baisse de la couverture vaccinale est la principale cause de cette crise",
+    "Le vaccino-scepticisme d'une partie des habitants et de l'administration Trump est en cause"
+   ],
+   "qui": "États-Unis, administration Trump",
+   "ou": "États-Unis",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "d9604680a3a79b93",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823766+00:00"
+  },
+  {
+   "faits": [
+    "Deux assistantes maternelles seront jugées pour avoir entassé 12 enfants dans une voiture",
+    "L'incident s'est produit au sous-sol d'une crèche illégale à Yerres, en Essonne",
+    "L'une des deux femmes avait un agrément suspendu",
+    "Les deux femmes ont tenté de contourner un contrôle de la PMI"
+   ],
+   "qui": "Deux assistantes maternelles (non nommées)",
+   "ou": "Yerres, Essonne, France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "29a63fd6e1408d5e",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823768+00:00"
   },
   {
    "faits": [
@@ -2095,6 +2336,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T04:42:10.543319+00:00"
+  },
+  {
+   "faits": [
+    "Gabriel Loustau, figure montante d'extrême droite, a été condamné à six mois de prison",
+    "Gabriel Loustau est le petit-fils de Fernand Loustau et fils d'Axel Loustau",
+    "Il a été reconnu coupable de violences le 21 juillet",
+    "Il est âgé de 25 ans"
+   ],
+   "qui": "Gabriel Loustau",
+   "ou": "France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "721b382298fb32bf",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823772+00:00"
   },
   {
    "faits": [
@@ -2167,6 +2431,28 @@
   },
   {
    "faits": [
+    "Le Tour de France 2026 entre dans les Alpes avec la 18e étape entre Voiron et Orcières-Merlette",
+    "Les coureurs ont franchi quatre massifs montagneux",
+    "Les sprinteurs éprouvent des difficultés en montagne pour respecter les délais"
+   ],
+   "qui": "Coureurs du Tour de France 2026",
+   "ou": "Alpes, Voiron, Orcières-Merlette, France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "108dab842c00bf5d",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823775+00:00"
+  },
+  {
+   "faits": [
     "Le Conseil constitutionnel a été saisi 26 fois en 2025, soit dix de plus que la moyenne",
     "L'année 2026 s'annonce comme record de saisines",
     "Les questions prioritaires de constitutionnalité sont en hausse",
@@ -2233,6 +2519,28 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T04:42:00.444132+00:00"
+  },
+  {
+   "faits": [
+    "Le guichet 'grands rouleurs' sera ouvert jusqu'au 31 août au lieu du 31 juillet",
+    "Roland Lescure réunira les distributeurs lundi à Bercy",
+    "L'objectif est de 's'assurer qu'il n'y aura pas d'excès sur les marges'"
+   ],
+   "qui": "Roland Lescure (ministre de l'Économie)",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "d63f45c5c2b85e8d",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.823780+00:00"
   },
   {
    "faits": [
@@ -2351,6 +2659,29 @@
   },
   {
    "faits": [
+    "Un incendie a ravagé un campement rom aux portes de Nantes",
+    "8 hectares ont brûlé",
+    "L'incendie a été maîtrisé en un peu plus d'une heure",
+    "Huit caravanes et douze véhicules ont été détruits"
+   ],
+   "qui": null,
+   "ou": "Nantes, France",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "1ab6e8999b053a3c",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T10:03:05.822972+00:00"
+  },
+  {
+   "faits": [
     "Sergey Lavrov met en garde Marco Rubio contre des livraisons d'armes américaines en Ukraine",
     "Lavrov qualifie ces livraisons d'inadmissibles",
     "Les deux diplomates ont discuté de la relation entre les États-Unis et la Russie et du besoin de mettre fin à la guerre"
@@ -2393,105 +2724,6 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-23T04:42:10.543328+00:00"
-  },
-  {
-   "faits": [
-    "Les États-Unis envisagent d'installer des réacteurs nucléaires en mer",
-    "La Marine Minerals Administration (MMA) a signé un accord avec le régulateur américain du nucléaire"
-   ],
-   "qui": "Marine Minerals Administration, régulateur américain du nucléaire, États-Unis",
-   "ou": "Zones maritimes au large des États-Unis",
-   "categorie": "sciences",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "détails de l'accord et calendrier de mise en œuvre"
-   ],
-   "importance": 63,
-   "empreinte": "c86f8d76d683d70f",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:10.543330+00:00"
-  },
-  {
-   "faits": [
-    "Les vagues de chaleur touchant la France en 2026 ont des conséquences économiques",
-    "Des trains ont été supprimés",
-    "Des réacteurs nucléaires sont à l'arrêt",
-    "Les économistes tentent de dresser des premiers bilans"
-   ],
-   "qui": "Économistes",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "chiffrage précis des impacts économiques"
-   ],
-   "importance": 70,
-   "empreinte": "d8d675d277fead99",
-   "score": 76,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:10.543336+00:00"
-  },
-  {
-   "faits": [
-    "Le chanteur Vianney avait acquis en avril 2026 80 % du 43e étage de la tour Montparnasse",
-    "Il a acquis le bien via la société Edmond de Vayres qu'il avait créée",
-    "Cette entreprise a été rachetée",
-    "Il n'est plus propriétaire du 43e étage"
-   ],
-   "qui": "Vianney",
-   "ou": "Paris, tour Montparnasse",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "détails sur les raisons de la revente"
-   ],
-   "importance": 48,
-   "empreinte": "e9549ec6b7401106",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:10.543337+00:00"
-  },
-  {
-   "faits": [
-    "Damien Touzé a été victime d'une grave chute lors du Tour d'Oman en février 2026",
-    "Il a failli perdre la vie",
-    "Il est en fin de contrat avec Cofidis",
-    "Son équipe ne l'a pas rassuré sur son avenir",
-    "À 30 ans, il doute de pouvoir rebondir sans prolongation"
-   ],
-   "qui": "Damien Touzé, Cofidis",
-   "ou": "France (coureur normand)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 78,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "décision finale de Cofidis concernant une prolongation"
-   ],
-   "importance": 52,
-   "empreinte": "74854fd0103e0ab4",
-   "score": 74,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T04:42:00.444446+00:00"
   }
  ],
  "publies_48h": [
