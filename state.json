@@ -2,12 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/reportage-on-est-passe-a-cote-des-centaines-de-fois-a-mailhoc-ou-des-ossements-ont-ete-decouverts-sur-les-indications-de-cedric-jubillar-les-habitants-sont-bouleverses_8111192.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/temoignages-la-poutre-s-est-envolee-une-mini-tornade-a-balaye-villars-pres-de-saint-etienne_8111258.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-on-va-tout-faire-pour-aller-chercher-la-troisieme-place-assure-didier-deschamps-avant-la-petite-finale-contre-l-angleterre_8110199.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-dit-avoir-frappe-une-base-militaire-en-syrie-apres-sa-riposte-contre-plusieurs-pays-du-golfe_8111222.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/medicament/le-gouvernement-veut-baisser-le-prix-du-paracetamol-les-professionnels-inquiets-pour-le-developpement-du-made-in-france_8111183.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/un-cap-a-ete-franchi-le-procureur-de-la-republique-prend-tres-au-serieux-les-menaces-recues-par-le-maire-d-ales-dans-le-gard_8111327.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/patrimoine/la-tapisserie-de-bayeux-n-a-subi-aucune-alteration-visible-pendant-son-transfert-a-londres-assure-le-ministere-de-la-culture_8111315.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/direct-affaire-jubillar-les-ossements-decouverts-dans-le-tarn-vont-etre-analyses-au-siege-de-l-institut-de-recherche-criminelle-de-la-gendarmerie-nationale_8111339.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/avant-apres-rivieres-assechees-champs-grilles-forets-jaunies-regardez-comment-la-france-a-perdu-ses-couleurs-sous-l-effet-des-canicules_8108939.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +295,13 @@
    "https://www.franceinfo.fr/tour-de-france/richard-carapaz-dompte-ses-compagnons-d-echappee-et-remporte-la-18e-etape-du-tour-de-france-au-sommet-d-orcieres-merlette_8119463.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/apres-l-affaire-barbara-butch-le-chef-de-file-grenoblois-de-lfi-annonce-saisir-la-justice-pour-des-injures-a-caractere-raciste-et-des-menaces_8119475.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/la-mostra-de-venise-devoile-la-programmation-de-sa-83e-edition_8119364.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/a-gaza-la-securite-alimentaire-s-ameliore-mais-reste-fragile-selon-l-onu_8119376.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/a-gaza-la-securite-alimentaire-s-ameliore-mais-reste-fragile-selon-l-onu_8119376.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/accusations-d-escroqueries-penurie-de-climatiseurs-on-a-verifie-les-pratiques-commerciales-de-l-entreprise-climloc_8063903.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sante/drogue-addictions/je-me-dezinguais-a-m-en-faire-peter-la-couscoussiere-l-ancien-conseiller-en-communication-de-gabriel-attal-revele-son-addiction-passee-a-la-cocaine_8119352.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-candidat-jean-luc-melenchon-lfi-a-dine-avec-des-grands-patrons-sur-invitation-du-lobby-france-industrie_8119691.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/un-concert-d-amir-annule-a-marseille-pour-raisons-de-securite-apres-des-appels-au-boycott-propalestinien_8119625.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/pedocriminalite/un-homme-de-74-ans-mis-en-examen-et-place-en-detention-provisoire-pour-des-viols-et-agressions-sexuelles-sur-17-mineurs_8119670.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/migrants/dans-le-pas-de-calais-150-migrants-secourus-au-large-de-berck-sur-mer_8119568.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -438,11 +438,6 @@
    "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://madame.lefigaro.fr/societe/actu/ventilateur-portatif-et-batons-lumineux-l-apparition-caniculaire-d-emmanuel-et-brigitte-macron-au-concert-de-bts-au-stade-de-france-20260718",
-   "https://www.lefigaro.fr/faits-divers/venue-pour-une-operation-a-la-cheville-une-jeune-patiente-se-fait-retirer-ses-dents-de-sagesse-par-erreur-20260718",
-   "https://www.lefigaro.fr/international/russie-les-images-impressionnantes-du-centre-logistique-wildberries-geant-du-e-commerce-touche-par-des-drones-ukrainiens-20260718",
-   "https://www.lefigaro.fr/international/qui-est-evhen-khmara-ce-general-ukrainien-propulse-ministre-de-la-defense-par-interim-en-contradiction-avec-la-loi-ukrainienne-20260717",
-   "https://www.lefigaro.fr/international/un-systeme-herite-de-l-ere-sovietique-en-ukraine-la-difficile-reforme-du-ministere-de-la-defense-20260717",
    "https://www.lefigaro.fr/international/la-chine-a-mis-a-l-eau-cinq-sous-marins-nucleaires-depuis-le-debut-de-l-annee-dont-deux-d-un-projet-jusqu-ici-inconnu-20260718",
    "https://www.lefigaro.fr/sports/rugby/japon-france-lucu-et-jalibert-exemplaires-des-bleus-rouleaux-compresseurs-saito-et-les-nippons-inexistants-les-tops-et-flops-20260718",
    "https://www.lefigaro.fr/actualite-france/chez-les-baldeck-en-savoie-l-ecole-a-la-maison-et-le-brevet-a-9-ans-pour-agnes-notre-systeme-scolaire-va-dans-le-mur-20260718",
@@ -737,14 +732,14 @@
    "https://www.lefigaro.fr/faits-divers/malhonnetes-et-empreints-d-une-grande-perversion-l-amant-de-delphine-jubillar-sort-du-silence-et-balaye-les-aveux-de-cedric-jubillar-20260723",
    "https://www.lefigaro.fr/faits-divers/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-juge-20260721",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-le-recital-carapaz-la-bataille-des-favoris-n-a-pas-eu-lieu-inquietude-chez-uae-les-tops-et-les-flops-de-la-18e-etape-20260723",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-l-equatorien-richard-carapaz-s-offre-un-succes-de-prestige-a-orcieres-merlette-les-favoris-se-neutralisent-avant-l-alpe-d-huez-20260723"
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-l-equatorien-richard-carapaz-s-offre-un-succes-de-prestige-a-orcieres-merlette-les-favoris-se-neutralisent-avant-l-alpe-d-huez-20260723",
+   "https://www.lefigaro.fr/international/jetes-dans-des-trous-tortures-et-annules-la-sale-guerre-de-poutine-un-business-criminel-et-mafieux-qui-exploite-et-broie-ses-propres-soldats-20260723",
+   "https://www.lefigaro.fr/international/ukraine-limoge-l-ex-ministre-de-la-defense-insiste-pour-reintegrer-ses-fonctions-20260723",
+   "https://www.lefigaro.fr/actualite-france/promotion-de-la-polygamie-femmes-qui-doivent-raser-les-murs-et-se-plier-au-devoir-conjugal-les-derives-d-un-predicateur-islamiste-sur-les-reseaux-20260723",
+   "https://www.lefigaro.fr/gastronomie/marion-cotillard-pharrell-williams-et-meme-robert-de-niro-comment-jean-imbert-est-devenu-le-cuisinier-des-stars-avant-de-se-bruler-les-ailes-20260723",
+   "https://www.lefigaro.fr/musique/un-concert-du-chanteur-franco-israelien-amir-annule-pour-raisons-de-securite-a-marseille-apres-des-appels-au-boycott-propalestinien-20260723"
   ],
   "https://www.france24.com/fr/rss": [
-   "4067c28c-811c-11f1-988c-2b9482933ba4",
-   "7586a60e-8130-11f1-827e-71e2cddb4b69",
-   "86d46802-812f-11f1-b036-2bf5ece20ef2",
-   "cedc9b18-812c-11f1-b04c-2bf5ece20ef2",
-   "a31d513c-8124-11f1-811c-734d52a072cd",
    "19c9acdc-8124-11f1-865a-6939abb0c9d6",
    "3e76779a-8124-11f1-9708-734d52a072cd",
    "c374a4d2-813b-11f1-b881-7d73eb1711b7",
@@ -1039,7 +1034,12 @@
    "87fe749e-86ab-11f1-93d9-f955b988617e",
    "b9928684-86a7-11f1-a639-23b047e41a7a",
    "9b639de0-86a4-11f1-944c-73e392453e68",
-   "ffcabd28-86a3-11f1-966c-73e392453e68"
+   "ffcabd28-86a3-11f1-966c-73e392453e68",
+   "c70eb504-86ba-11f1-9c1d-e195c3ebaf41",
+   "a9c9411a-86a8-11f1-859d-f955b988617e",
+   "60752078-86ae-11f1-a44c-f955b988617e",
+   "17b4e828-86a9-11f1-92dd-f955b988617e",
+   "7ff4d57c-86a6-11f1-9371-23b047e41a7a"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1292,7 +1292,11 @@
    "51628628-865b-11f1-a138-13099e3234a2",
    "e7dbaba6-8652-11f1-ae1f-ab0b16b8daec",
    "b0428e78-865f-11f1-92ed-11e7930ef872",
-   "03bb21be-4e16-11f1-93b4-f5ad95c75990"
+   "03bb21be-4e16-11f1-93b4-f5ad95c75990",
+   "c5bd4104-86ae-11f1-b15e-b5e74476133e",
+   "35c6a3be-8682-11f1-b03b-1d8a95e117a7",
+   "d4d9fd36-866c-11f1-83e7-07709273a6e7",
+   "167c94e8-868a-11f1-8fa6-2396c19eae54"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/sport/coupe-du-monde/espagne-argentine-faut-il-sinquieter-de-la-pelouse-du-metlife-stadium-qui-accueille-la-finale-de-la-coupe-du-monde-bb873760-805c-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -2140,6 +2144,32 @@
   },
   {
    "faits": [
+    "Un concert d'Amir annulé à Marseille pour raisons de sécurité",
+    "L'annulation suit des appels au boycott propalestinien",
+    "Le collectif Union Palestine Marseille avait appelé au boycott du concert gratuit",
+    "Amir est un artiste franco-israélien",
+    "Le Crif exprime sa profonde inquiétude",
+    "Un concert du chanteur à Rognac est maintenu sous haute surveillance"
+   ],
+   "qui": "Amir, Union Palestine Marseille, Crif",
+   "ou": "Marseille, Rognac (Bouches-du-Rhône)",
+   "categorie": "culture",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "e76640e20d338349",
+   "score": 96,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-23T17:52:08.766571+00:00"
+  },
+  {
+   "faits": [
     "Le Premier ministre indien Narendra Modi promet de punir sévèrement les responsables des fraudes aux examens",
     "Des dizaines de milliers d'étudiants et jeunes manifestent à New Delhi depuis le 20 juillet",
     "La police a sévèrement réprimé une manifestation lundi où les protestataires tentaient de rallier le Parlement",
@@ -2234,6 +2264,52 @@
   },
   {
    "faits": [
+    "Louis Jublin, ancien conseiller en communication de Gabriel Attal, révèle son addiction passée à la cocaïne",
+    "Jublin a accompagné Attal de Bercy à Matignon pendant plusieurs années",
+    "Jublin dit vouloir devancer la publication d'une vidéo où on le voit consommer de la drogue",
+    "Un portrait de Jublin est publié dans le magazine Vanity Fair"
+   ],
+   "qui": "Louis Jublin, Gabriel Attal",
+   "ou": null,
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "e408ac57e757d97f",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T17:52:08.766576+00:00"
+  },
+  {
+   "faits": [
+    "Le candidat Jean-Luc Mélenchon (LFI) a dîné avec des grands patrons",
+    "Le dîner s'est déroulé sur invitation du lobby France Industrie",
+    "France Industrie compte 53 grandes entreprises privées adhérentes dont Renault et Dassault",
+    "France Industrie compte 31 fédérations sectorielles de l'industrie"
+   ],
+   "qui": "Jean-Luc Mélenchon, France Industrie",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "7e05f3c1ac877b17",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T17:52:08.766577+00:00"
+  },
+  {
+   "faits": [
     "À Gaza, la sécurité alimentaire s'améliore mais reste fragile, selon l'ONU",
     "Un seul point de passage pour l'aide est ouvert à Gaza",
     "L'acheminement des biens essentiels y reste limité"
@@ -2256,6 +2332,29 @@
   },
   {
    "faits": [
+    "Santé Publique France estime que près de 6 000 personnes sont mortes en raison des fortes chaleurs de juin",
+    "En 30 ans, les décès liés à la chaleur ont augmenté de 85% selon The Lancet",
+    "8 jours de canicule sur 10 ne se seraient pas produits sans le réchauffement climatique selon The Lancet",
+    "Le bouleversement du système climatique est responsable de la mort de centaines de milliers de personnes chaque année"
+   ],
+   "qui": "Santé Publique France, The Lancet",
+   "ou": "France, monde",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 87,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "bb264521d50bb464",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T17:52:08.765726+00:00"
+  },
+  {
+   "faits": [
     "Un mégafeu ravage la Castille-La Manche en Espagne depuis le 16 juillet 2026",
     "Le feu a calciné environ 30 à 32 000 hectares en Sierra Norte de Guadalajara"
    ],
@@ -2274,6 +2373,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T16:12:05.293820+00:00"
+  },
+  {
+   "faits": [
+    "Les niveaux des cours d'eau atteignent des niveaux historiquement bas en Europe",
+    "Le groupe de scientifiques du World Weather Attribution a étudié les causes de cette sécheresse",
+    "La chaleur extrême est la principale cause de la sécheresse, plus que le manque de pluie",
+    "Ce phénomène est largement accéléré par le changement climatique"
+   ],
+   "qui": "World Weather Attribution",
+   "ou": "Europe",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "bd9afe43588efc93",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T17:52:08.766579+00:00"
   },
   {
    "faits": [
@@ -2320,6 +2442,50 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T12:00:05.695545+00:00"
+  },
+  {
+   "faits": [
+    "150 migrants ont été secourus au large de Berck-sur-Mer dans le Pas-de-Calais",
+    "Il s'agit de l'un des sauvetages les plus importants de l'histoire de la crise migratoire selon la SNSM du secteur"
+   ],
+   "qui": "SNSM",
+   "ou": "Berck-sur-Mer (Pas-de-Calais)",
+   "categorie": "faits_divers",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "cff5ab0d149c2dab",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T17:52:08.766582+00:00"
+  },
+  {
+   "faits": [
+    "TotalEnergies a annoncé un doublement de son bénéfice net au 2e trimestre",
+    "Le bénéfice net s'élève à 5,4 milliards de dollars (contre 2,7 milliards un an auparavant)",
+    "Cette augmentation est dopée par les prix élevés des hydrocarbures liés au conflit au Moyen-Orient",
+    "Cette annonce relance le débat sur la taxation des profits des multinationales du pétrole et du gaz"
+   ],
+   "qui": "TotalEnergies",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "a99f2ea787295f77",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T17:52:08.766594+00:00"
   },
   {
    "faits": [
@@ -2387,6 +2553,51 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T12:00:05.695552+00:00"
+  },
+  {
+   "faits": [
+    "Sergueï Lavrov et Marco Rubio se sont rencontrés jeudi 23 juillet à Manille",
+    "La rencontre s'est déroulée en marge d'une réunion de l'Asean",
+    "Lavrov met en garde Rubio contre la poursuite inadmissible de livraisons d'armes à l'Ukraine"
+   ],
+   "qui": "Sergueï Lavrov, Marco Rubio",
+   "ou": "Manille (Philippines)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "91218b989fd5d78c",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T17:52:08.765848+00:00"
+  },
+  {
+   "faits": [
+    "Un homme de 74 ans est mis en examen et placé en détention provisoire",
+    "Il est soupçonné de viols et d'agressions sexuelles sur 17 mineurs",
+    "Les enfants auraient des âges allant de moins de deux ans à une douzaine d'années",
+    "Les abus auraient duré 25 ans"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "5dd2610f857fa1a8",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T17:52:08.766598+00:00"
   },
   {
    "faits": [
@@ -2526,188 +2737,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T12:00:05.694678+00:00"
-  },
-  {
-   "faits": [
-    "Les Houthis, groupe armé yéménite soutenu par l'Iran, ont revendiqué l'attaque de deux pétroliers en mer Rouge",
-    "Cette action s'inscrit dans un blocus naval visant l'Arabie saoudite",
-    "L'objectif est de perturber les livraisons mondiales de pétrole"
-   ],
-   "qui": "Houthis, Iran",
-   "ou": "Mer Rouge, Arabie saoudite",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "f5acee7dd404d9b6",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T14:26:43.167074+00:00"
-  },
-  {
-   "faits": [
-    "Sergueï Lavrov (ministre russe des Affaires étrangères) et Marco Rubio (secrétaire d'État américain) se sont entretenus à Manille en marge d'une réunion des ministres de l'Asean",
-    "C'est leur première rencontre depuis septembre 2025",
-    "L'entretien a duré environ trente minutes",
-    "La Russie juge 'inadmissible' la livraison d'armes américaines à Kiev"
-   ],
-   "qui": "Sergueï Lavrov, Marco Rubio, Russie, États-Unis",
-   "ou": "Manille, Kiev",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "3d736e46325f606e",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T12:00:05.695561+00:00"
-  },
-  {
-   "faits": [
-    "Le Ghana relance l'appel à l'Union africaine sur les violences xénophobes en Afrique du Sud",
-    "Le président du Ghana appelle à débattre ces violences lors du sommet de l'UA prévu en février 2027",
-    "Plus de 160 000 étrangers ont quitté l'Afrique du Sud au cours des deux derniers mois",
-    "Les attaques xénophobes se poursuivent"
-   ],
-   "qui": "Président du Ghana, Union africaine",
-   "ou": "Afrique du Sud, Ghana",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "37970a18857bb8f2",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T14:26:43.166036+00:00"
-  },
-  {
-   "faits": [
-    "En Tunisie, une canicule frappe le pays depuis une dizaine de jours",
-    "Les températures grimpent durant la canicule",
-    "Des coupures d'électricité se multiplient",
-    "De nombreux Tunisiens dénoncent le manque d'anticipation des autorités"
-   ],
-   "qui": null,
-   "ou": "Tunisie",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "aeaf14f5e8a5c4e1",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.294345+00:00"
-  },
-  {
-   "faits": [
-    "Le Premier ministre britannique Andy Burnham a réduit la taxe professionnelle des pubs, discothèques et lieux de concert de 20 %",
-    "Un pub ferme chaque jour au Royaume-Uni",
-    "Il s'agit de la troisième mesure économique prise par Burnham en trois jours"
-   ],
-   "qui": "Andy Burnham (Premier ministre britannique)",
-   "ou": "Royaume-Uni",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "b8d34e5cc23afa1a",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.294346+00:00"
-  },
-  {
-   "faits": [
-    "Huit dauphins de Marineland (Antibes) ont été transférés dans la nuit du 22 au 23 juillet 2026",
-    "Le transfert s'est fait vers un parc zoologique marin en Espagne",
-    "Marineland compte douze dauphins au total",
-    "Les associations de défense animale craignent les risques pour la santé des cétacés liés aux fortes chaleurs"
-   ],
-   "qui": "Marineland, associations de défense animale",
-   "ou": "Antibes, Espagne",
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Risques sanitaires précis pour les dauphins"
-   ],
-   "importance": 55,
-   "empreinte": "90350f879b30d6d9",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T12:00:05.695565+00:00"
-  },
-  {
-   "faits": [
-    "En Mauritanie, les Imraguens pratiquent une technique de pêche à pied depuis des siècles dans le parc national du Banc d'Arguin",
-    "Le savoir-faire traditionnel de ce peuple de pêcheurs est menacé",
-    "Les menaces incluent le réchauffement climatique, la surpêche et la difficulté de transmission aux générations futures"
-   ],
-   "qui": "Imraguens (peuple de pêcheurs)",
-   "ou": "Parc national du Banc d'Arguin, Mauritanie",
-   "categorie": "autre",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "6360aebc65d22144",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.294349+00:00"
-  },
-  {
-   "faits": [
-    "Au Cap-Vert, l'extraction illégale de sable marin pour le secteur du bâtiment défigure le littoral depuis des décennies",
-    "Certaines plages de l'île de Santiago ont perdu leur aspect de carte postale",
-    "Ce trafic menace les écosystèmes, favorise la salinisation des terres agricoles et pousse des femmes à risquer leur santé"
-   ],
-   "qui": null,
-   "ou": "Cap-Vert (île de Santiago)",
-   "categorie": "autre",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "4403b2cf3c70637b",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.294350+00:00"
   }
  ],
  "publies_48h": [
@@ -2886,7 +2915,7 @@
   "L'Iran affirme avoir arrêté trois pétroliers dans le détroit d'Ormuz et revendique des frappes au Koweït et en Jordanie. Les États-Unis bombardent l'Iran pour le douzième jour consécutif. (franceinfo, Le Figaro, France 24)",
   "🇫🇷 Le concert de la DJ Barbara Butch a été interrompu à Grenoble par des militants propalestiniens contestant son soutien à la loi Yadan. Selon la mairie, elle a reçu des jets de bouteilles. Elle envisage de porter plainte. (franceinfo)"
  ],
- "recap_date": "2026-07-22",
+ "recap_date": "2026-07-23",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-23",
