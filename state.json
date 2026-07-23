@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/culture/patrimoine/la-tapisserie-de-bayeux-n-a-subi-aucune-alteration-visible-pendant-son-transfert-a-londres-assure-le-ministere-de-la-culture_8111315.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/direct-affaire-jubillar-les-ossements-decouverts-dans-le-tarn-vont-etre-analyses-au-siege-de-l-institut-de-recherche-criminelle-de-la-gendarmerie-nationale_8111339.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/avant-apres-rivieres-assechees-champs-grilles-forets-jaunies-regardez-comment-la-france-a-perdu-ses-couleurs-sous-l-effet-des-canicules_8108939.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/rachida-dati/periscolaire-emmanuel-gregoire-va-porter-plainte-pour-diffamation-contre-rachida-dati-au-nom-de-la-ville-de-paris_8111615.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-juge-pour-diffusion-de-symboles-extremistes-condamne-a-une-amende-pres-de-moscou_8111507.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-candidat-jean-luc-melenchon-lfi-a-dine-avec-des-grands-patrons-sur-invitation-du-lobby-france-industrie_8119691.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/un-concert-d-amir-annule-a-marseille-pour-raisons-de-securite-apres-des-appels-au-boycott-propalestinien_8119625.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/pedocriminalite/un-homme-de-74-ans-mis-en-examen-et-place-en-detention-provisoire-pour-des-viols-et-agressions-sexuelles-sur-17-mineurs_8119670.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/europe/migrants/dans-le-pas-de-calais-150-migrants-secourus-au-large-de-berck-sur-mer_8119568.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/europe/migrants/dans-le-pas-de-calais-150-migrants-secourus-au-large-de-berck-sur-mer_8119568.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sciences/la-medaille-fields-remise-a-deux-chinois-un-americain-et-un-canadien-pour-leurs-decouvertes-exceptionnelles_8119760.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/medias/google-viole-ses-engagements-avec-ses-nouveaux-resumes-par-ia-denoncent-les-editeurs-de-la-presse-magazine_8119649.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -438,10 +438,6 @@
    "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/la-chine-a-mis-a-l-eau-cinq-sous-marins-nucleaires-depuis-le-debut-de-l-annee-dont-deux-d-un-projet-jusqu-ici-inconnu-20260718",
-   "https://www.lefigaro.fr/sports/rugby/japon-france-lucu-et-jalibert-exemplaires-des-bleus-rouleaux-compresseurs-saito-et-les-nippons-inexistants-les-tops-et-flops-20260718",
-   "https://www.lefigaro.fr/actualite-france/chez-les-baldeck-en-savoie-l-ecole-a-la-maison-et-le-brevet-a-9-ans-pour-agnes-notre-systeme-scolaire-va-dans-le-mur-20260718",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-tadej-pogacar-refuse-de-se-mesurer-a-lance-armstrong-20260718",
    "https://www.lefigaro.fr/histoire/la-bataille-de-gaulle-ce-que-les-americains-avaient-vraiment-prevu-pour-la-france-en-1944-20260718",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-feu-d-artifice-attendu-au-markstein-suivez-la-14e-etape-20260718",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/c-est-important-d-avoir-un-groupe-fort-autour-de-lui-paul-seixas-l-etincelle-attendue-pour-reveiller-le-tour-de-france-20260718",
@@ -737,10 +733,13 @@
    "https://www.lefigaro.fr/international/ukraine-limoge-l-ex-ministre-de-la-defense-insiste-pour-reintegrer-ses-fonctions-20260723",
    "https://www.lefigaro.fr/actualite-france/promotion-de-la-polygamie-femmes-qui-doivent-raser-les-murs-et-se-plier-au-devoir-conjugal-les-derives-d-un-predicateur-islamiste-sur-les-reseaux-20260723",
    "https://www.lefigaro.fr/gastronomie/marion-cotillard-pharrell-williams-et-meme-robert-de-niro-comment-jean-imbert-est-devenu-le-cuisinier-des-stars-avant-de-se-bruler-les-ailes-20260723",
-   "https://www.lefigaro.fr/musique/un-concert-du-chanteur-franco-israelien-amir-annule-pour-raisons-de-securite-a-marseille-apres-des-appels-au-boycott-propalestinien-20260723"
+   "https://www.lefigaro.fr/musique/un-concert-du-chanteur-franco-israelien-amir-annule-pour-raisons-de-securite-a-marseille-apres-des-appels-au-boycott-propalestinien-20260723",
+   "https://www.lefigaro.fr/international/incendies-en-espagne-3500-personnes-evacuees-d-une-localite-a-60-km-de-madrid-20260723",
+   "https://www.lefigaro.fr/international/guerre-en-ukraine-la-fuite-en-avant-de-vladimir-poutine-20260723",
+   "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-le-prix-de-la-guerre-de-poutine-20260723",
+   "https://www.lefigaro.fr/conso/exces-de-cadmium-des-melons-vendus-chez-carrefour-rappeles-dans-toute-la-france-20260723"
   ],
   "https://www.france24.com/fr/rss": [
-   "19c9acdc-8124-11f1-865a-6939abb0c9d6",
    "3e76779a-8124-11f1-9708-734d52a072cd",
    "c374a4d2-813b-11f1-b881-7d73eb1711b7",
    "0ae21002-8132-11f1-8c63-4bab7b0c19c7",
@@ -1039,7 +1038,8 @@
    "a9c9411a-86a8-11f1-859d-f955b988617e",
    "60752078-86ae-11f1-a44c-f955b988617e",
    "17b4e828-86a9-11f1-92dd-f955b988617e",
-   "7ff4d57c-86a6-11f1-9371-23b047e41a7a"
+   "7ff4d57c-86a6-11f1-9371-23b047e41a7a",
+   "1df7d29c-86bb-11f1-babf-e195c3ebaf41"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1296,15 +1296,16 @@
    "c5bd4104-86ae-11f1-b15e-b5e74476133e",
    "35c6a3be-8682-11f1-b03b-1d8a95e117a7",
    "d4d9fd36-866c-11f1-83e7-07709273a6e7",
-   "167c94e8-868a-11f1-8fa6-2396c19eae54"
+   "167c94e8-868a-11f1-8fa6-2396c19eae54",
+   "9608ba72-86bf-11f1-84ba-dbb8c39fdc01",
+   "2ce13dec-86bc-11f1-8c1f-dbb8c39fdc01",
+   "f55abbd4-86a5-11f1-8ec1-41f6cfc017ea",
+   "2e9ff1d4-869c-11f1-9c48-8b7d96a4f501",
+   "817fa4ee-86c4-11f1-b6bf-c55de03f3661",
+   "065cd410-86a3-11f1-b229-41f6cfc017ea",
+   "6787a5d4-86a9-11f1-88e0-0388c9290f24"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/espagne-argentine-faut-il-sinquieter-de-la-pelouse-du-metlife-stadium-qui-accueille-la-finale-de-la-coupe-du-monde-bb873760-805c-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/en-images-langleterre-y-a-cru-lautaro-martinez-renversant-messi-eternel-largentine-defendra-son-titre-en-finale-af2c2e20-8076-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/meteo/canicule/canicule-et-orages-violents-46-departements-places-en-vigilance-orange-ce-jeudi-cb87f7be-8096-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/le-tour-et-la-france-qui-sourit-on-vous-raconte-et-on-vous-montre-0d535cc4-806f-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-la-defaite-des-bleus-aux-portes-de-la-finale-de-coupe-du-monde-de-football-0b3fc95a-8082-11f1-8176-8046d5ae5c47?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/bretagne/dol-de-bretagne-35120/rencontre-christian-taillebois-je-ne-veux-pas-que-la-maladie-de-charcot-prenne-mon-ame-9fb543b6-7e26-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-attaques-a-kiev-et-a-kharkiv-13-morts-au-cours-des-frappes-de-mercredi-le-point-sur-la-nuit-23eed43a-80c0-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/budget-collectivites-etat/travail-defense-ecologie-dans-ce-que-prevoit-le-gouvernement-pour-le-budget-2027-des-gagnants-et-des-perdants-750ddffe-8125-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-donald-trump-sera-bien-present-pour-la-finale-du-mondial-entre-lespagne-et-largentine-8ee50f54-813b-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1598,7 +1599,13 @@
    "https://www.ouest-france.fr/faits-divers/incendie/du-var-a-la-gironde-les-pompiers-se-battent-contre-deux-incendies-dampleur-9ad59ef4-8623-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/cyclisme/temoignage-je-suis-dans-une-impasse-gravement-blesse-et-en-fin-de-contrat-damien-touze-pousse-vers-la-retraite-536f567c-6035-11f1-b0fc-ddf25559701c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-douzieme-nuit-de-frappes-americaines-iran-et-houthis-prets-a-riposter-les-dernieres-infos-9f503804-85e7-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-le-faux-depart-de-la-ministre-monique-barbut-464a4f40-85e9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-le-faux-depart-de-la-ministre-monique-barbut-464a4f40-85e9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/justice/loi-sur-la-justice-criminelle-le-conseil-constitutionnel-censure-le-recours-judiciaire-a-la-genealogie-juridique-b3ea7b02-86c4-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-23/qu-est-ce-que-l-allegorie-de-la-grenouille-et-comment-illustre-t-elle-notre-inaction-face-au-changement-climatique-bf542747-8a81-4e62-b0dd-82302a8fd08a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/culture/patrimoine/notre-dame-de-paris/je-suis-emerveillee-dans-cet-atelier-sont-crees-les-futurs-vitraux-de-notre-dame-de-paris-55c9ca96-86bf-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/canoe-kayak/canoe-kayak-champion-du-monde-en-titre-en-k1-titouan-castryck-elimine-des-les-demi-finales-55761480-86c1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-23/oubliez-musees-et-monuments-ce-lieu-que-tout-le-monde-evite-en-vacances-devient-une-nouvelle-facon-de-visiter-un-pays-2c09788c-5b4c-4c7b-8158-df5deae1c885?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/politique/institutions/conseil-constitutionnel/le-conseil-constitutionnel-valide-lallongement-de-la-retention-detrangers-juges-dangereux-6b5c39dc-86bc-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2069,53 +2076,27 @@
   },
   {
    "faits": [
-    "La 18e étape du Tour de France 2026 se déroule le 23 juillet entre Voiron et Orcières-Merlette",
-    "Cette étape alpine comporte 3 900 mètres de dénivelé positif",
-    "Orcières-Merlette a accueilli une victoire mémorable de Luis Ocaña le 8 juillet 1971"
+    "La médaille Fields 2026 a été remise à quatre mathématiciens le 23 juillet à Philadelphie",
+    "Les lauréats sont deux Chinois, un Américain et un Canadien",
+    "La médaille Fields récompense des chercheurs de moins de 40 ans",
+    "Cette récompense est considérée comme l'équivalent d'un Nobel de mathématiques"
    ],
-   "qui": "Tour de France 2026",
-   "ou": "Alpes du Sud (Voiron - Orcières-Merlette)",
-   "categorie": "sport",
+   "qui": "Deux mathématiciens chinois, un mathématicien américain, un mathématicien canadien",
+   "ou": "Philadelphie, États-Unis",
+   "categorie": "sciences",
    "sensible": false,
    "confiance": 95,
    "sources": [
     "franceinfo",
-    "Le Figaro"
+    "RFI"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "029f41d55009a9b4",
-   "score": 99,
+   "importance": 70,
+   "empreinte": "713e811b324de5c7",
+   "score": 98,
    "fiab_max": 90,
    "nb_sources": 2,
-   "depuis": "2026-07-23T12:00:05.695529+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie de forêt sévit au nord du bassin d'Arcachon depuis mercredi 22 juillet 2026",
-    "L'incendie a parcouru au minimum 2 400 hectares",
-    "Environ 20 000 personnes ont été évacuées",
-    "L'incendie est d'origine probablement accidentelle",
-    "Les pompiers continuent de lutter contre les flammes",
-    "Depuis le début de l'année 2026, plus de 12 500 départs de feu ont été recensés en France",
-    "Plus de 44 000 hectares ont brûlé en France depuis le début de l'année, bilan supérieur à celui de 2022"
-   ],
-   "qui": "Pompiers, autorités françaises",
-   "ou": "Gironde, bassin d'Arcachon, Lège-Cap-Ferret",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "da516ab692019052",
-   "score": 98,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-23T12:00:05.695532+00:00"
+   "depuis": "2026-07-23T19:00:12.393749+00:00"
   },
   {
    "faits": [
@@ -2264,6 +2245,72 @@
   },
   {
    "faits": [
+    "Un incendie de forêt hors de contrôle menace la localité d'Aldea del Fresno à l'ouest de Madrid",
+    "3 500 habitants d'Aldea del Fresno ont été évacués par précaution le 23 juillet"
+   ],
+   "qui": null,
+   "ou": "Aldea del Fresno, à 60 km de Madrid, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "8eefb4ff95facd58",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T19:00:12.392440+00:00"
+  },
+  {
+   "faits": [
+    "De violents incendies de forêt font rage en Europe du Sud (Italie, Espagne, France)",
+    "Dans le Var, un incendie dure depuis trois jours avec de nombreuses reprises de feu le 23 juillet",
+    "Le village historique de Cotignac (Var) est menacé par l'incendie",
+    "Un incendie dans le sud-ouest de la France a parcouru 3 400 hectares et est désormais contenu",
+    "Des milliers de personnes ont été évacuées d'une région touristique du sud-ouest"
+   ],
+   "qui": null,
+   "ou": "Var (sud-est France), sud-ouest de la France, Italie, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "8b22e477c767b18a",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T19:00:12.392484+00:00"
+  },
+  {
+   "faits": [
+    "L'Union européenne a infligé une amende record de 890 millions d'euros à Google",
+    "L'amende concerne des atteintes à la concurrence dans la recherche en ligne et dans Google Play"
+   ],
+   "qui": "Union européenne, Google",
+   "ou": "Union européenne",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "8ede9af9783e28de",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T19:00:12.393759+00:00"
+  },
+  {
+   "faits": [
     "Louis Jublin, ancien conseiller en communication de Gabriel Attal, révèle son addiction passée à la cocaïne",
     "Jublin a accompagné Attal de Bercy à Matignon pendant plusieurs années",
     "Jublin dit vouloir devancer la publication d'une vidéo où on le voit consommer de la drogue",
@@ -2332,6 +2379,29 @@
   },
   {
    "faits": [
+    "Des analyses ont révélé une teneur en cadmium supérieure à la limite réglementaire européenne dans des melons",
+    "Des melons contaminés au cadmium ont été vendus chez Carrefour",
+    "Un rappel de produit concerne toute la France",
+    "Le cadmium est un métal lourd toxique et bioaccumulable"
+   ],
+   "qui": "Carrefour",
+   "ou": "France",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "6fdce9cc1616d10f",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T19:00:12.392605+00:00"
+  },
+  {
+   "faits": [
     "Santé Publique France estime que près de 6 000 personnes sont mortes en raison des fortes chaleurs de juin",
     "En 30 ans, les décès liés à la chaleur ont augmenté de 85% selon The Lancet",
     "8 jours de canicule sur 10 ne se seraient pas produits sans le réchauffement climatique selon The Lancet",
@@ -2373,6 +2443,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T16:12:05.293820+00:00"
+  },
+  {
+   "faits": [
+    "Google a lancé mercredi en France sa fonctionnalité AI Overview (résumés par IA)",
+    "Le Syndicat des éditeurs de la presse magazine dénonce que Google viole ses engagements",
+    "Les éditeurs de presse magazine accusent Google de concurrence déloyale"
+   ],
+   "qui": "Google, Syndicat des éditeurs de la presse magazine (SEPM)",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "cdd079a1aae3ab0e",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T19:00:12.393766+00:00"
   },
   {
    "faits": [
@@ -2419,29 +2511,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T16:12:05.294336+00:00"
-  },
-  {
-   "faits": [
-    "La place Maurice Barrès à Paris a été rebaptisée place Lucie Dreyfus",
-    "Maurice Barrès était un fervent antisémite",
-    "2026 marque les 120 ans de la décision de la Cour de cassation réhabilitant Alfred Dreyfus",
-    "Alfred Dreyfus avait été condamné à tort en 1894"
-   ],
-   "qui": "Ville de Paris, Alfred Dreyfus, Maurice Barrès",
-   "ou": "Paris",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "a8039650615d455c",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T12:00:05.695545+00:00"
   },
   {
    "faits": [
@@ -2533,29 +2602,6 @@
   },
   {
    "faits": [
-    "Daniel Siad a été visé par plusieurs plaintes dont deux pour viols",
-    "Les premiers signalements remontent à l'été 2019",
-    "Daniel Siad n'a jamais été entendu par la justice",
-    "L'association Innocence en danger assigne l'État français pour 'déni de justice'"
-   ],
-   "qui": "Daniel Siad, association Innocence en danger, État français",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "bc191e73cf21f541",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T12:00:05.695552+00:00"
-  },
-  {
-   "faits": [
     "Sergueï Lavrov et Marco Rubio se sont rencontrés jeudi 23 juillet à Manille",
     "La rencontre s'est déroulée en marge d'une réunion de l'Asean",
     "Lavrov met en garde Rubio contre la poursuite inadmissible de livraisons d'armes à l'Ukraine"
@@ -2575,6 +2621,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T17:52:08.765848+00:00"
+  },
+  {
+   "faits": [
+    "Une vague de chaleur et une sécheresse en Europe en juin 2026 ont entraîné la perte de 9 millions de tonnes de récolte de céréales",
+    "Des vagues de chaleur se succèdent en Europe depuis fin mai 2026",
+    "L'analyse a été publiée par l'organisation Energy and Climate Intelligence Unit le 22 juillet 2026"
+   ],
+   "qui": "Energy and Climate Intelligence Unit",
+   "ou": "Europe",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "1a0a75dc6fc2f8fc",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T19:00:12.393777+00:00"
   },
   {
    "faits": [
@@ -2601,26 +2669,25 @@
   },
   {
    "faits": [
-    "Nestlé se désengage partiellement de son activité d'eau en bouteille",
-    "L'activité est éclaboussée par un scandale autour de ses procédés de microfiltration",
-    "Nestlé annonce la création d'une coentreprise avec Platinum Equity (société d'investissement américaine)",
-    "Les marques concernées incluent Perrier, San Pellegrino et Vittel"
+    "Des inondations ont tué 23 personnes et blessé 125 autres dans la ville de Parun, est de l'Afghanistan",
+    "Les inondations ont eu lieu trois jours avant le 23 juillet",
+    "Les acteurs humanitaires craignent que ce type de drame se banalise en Afghanistan en raison du changement climatique"
    ],
-   "qui": "Nestlé, Platinum Equity",
-   "ou": null,
-   "categorie": "economie",
-   "sensible": false,
+   "qui": null,
+   "ou": "Parun, est de l'Afghanistan",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
    "confiance": 88,
    "sources": [
-    "franceinfo"
+    "RFI"
    ],
    "non_confirme": [],
-   "importance": 60,
-   "empreinte": "54a6c55387042fd0",
-   "score": 83,
-   "fiab_max": 90,
+   "importance": 65,
+   "empreinte": "9b3b3e701e072514",
+   "score": 82,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-23T12:00:05.695557+00:00"
+   "depuis": "2026-07-23T19:00:12.392527+00:00"
   },
   {
    "faits": [
@@ -2670,73 +2737,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T14:26:43.165880+00:00"
-  },
-  {
-   "faits": [
-    "Une fuite d'ammoniac s'est produite dans une usine de traitement d'uranium à Narbonne",
-    "Sept personnes ont été hospitalisées",
-    "La fuite a été détectée à 8h45 alors que l'usine était à l'arrêt pour maintenance",
-    "La fuite est restée contenue à l'intérieur du site"
-   ],
-   "qui": "Direction de l'usine",
-   "ou": "Narbonne",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "403cf3e827722232",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T14:26:43.165931+00:00"
-  },
-  {
-   "faits": [
-    "Les juges de Valence ont retenu la circonstance aggravante de 'racisme' pour le meurtre de Thomas à Crépol",
-    "Cette circonstance faisait l'objet de débats depuis le début des investigations"
-   ],
-   "qui": "Magistrats de Valence, mis en cause (noms non précisés)",
-   "ou": "Crépol, Valence",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "edaefd10bdc5493f",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T12:00:05.694613+00:00"
-  },
-  {
-   "faits": [
-    "Des incendies de forêt ravagent plusieurs régions d'Europe du Sud",
-    "Les incendies affectent l'Espagne et l'Italie",
-    "Les incendies sont attisés par un vent soutenu et des températures très élevées",
-    "Des milliers d'habitants et de touristes ont dû être évacués"
-   ],
-   "qui": "Autorités espagnoles et italiennes",
-   "ou": "Espagne, Italie",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "cd69d0786d46cb1e",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T12:00:05.694678+00:00"
   }
  ],
  "publies_48h": [
