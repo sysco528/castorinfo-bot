@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-jubillar-pourquoi-la-zone-ou-des-ossements-ont-ete-decouverts-n-avait-jamais-ete-fouillee_8111405.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/on-a-pris-un-but-du-coup-j-ai-remis-ma-veste-pourquoi-le-superstitieux-javier-milei-n-assistera-pas-a-la-finale-de-coupe-du-monde-de-l-argentine_8111552.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-le-16-juillet-devient-la-journee-la-plus-foudroyee-de-2026-avec-plus-de-20-000-eclairs_8111753.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/gerard-larcher-sur-le-tournage-d-emily-in-paris-la-serie-netflix-deviendrait-elle-une-vitrine-politique-pour-la-france_8111540.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/parlement-francais/senat/le-senat-exclut-temporairement-la-centriste-christine-herzog-soupconnee-de-harcelement-et-de-detournement-de-fonds_8111702.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/mauro-schmid-remporte-la-13e-etape-la-plus-longue-du-tour-de-france-2026-au-terme-d-une-journee-animee_8111765.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/sante/drogue-addictions/cocaine/val-de-marne-un-laboratoire-de-cocaine-demantele-dans-un-airbnb_8119781.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement-sexuel/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-suspectes-de-viols-et-de-complicite-d-exploitation-sexuelle-vers-le-royaume-uni_8119814.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/un-mineur-etranger-mis-en-examen-et-ecroue-pour-le-viol-d-une-octogenaire-a-rennes_8119790.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/justice/en-charente-maritime-la-justice-ordonne-le-demantelement-de-quatre-bassines-d-ici-3-ans_8119850.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/societe/justice/en-charente-maritime-la-justice-ordonne-le-demantelement-de-quatre-bassines-d-ici-3-ans_8119850.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-enquete-ouverte-contre-un-agent-du-secret-service-de-j-d-vance-pour-fuite-presumee-d-informations_8119859.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/justice/une-enquete-ouverte-a-paris-contre-le-reseau-libertin-wyylde-soupconne-d-avoir-ete-utilise-dans-une-affaire-de-viols-collectifs-filmes-en-gironde_8119871.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/justice/soupconne-de-faire-partie-de-la-flotte-fantome-russe-le-petrolier-immobilise-a-marseille-autorise-a-repartir-apres-paiement-d-une-amende_8119811.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -438,7 +438,6 @@
    "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-il-aurait-volontairement-exerce-des-violences-un-arbitre-bientot-devant-le-tribunal-pour-des-faits-reproches-de-violences-conjugales-20260718",
    "https://www.lefigaro.fr/societes/je-n-aurais-jamais-imagine-l-ampleur-que-ca-allait-prendre-l-insolent-succes-de-climloc-marchand-d-air-frais-sous-le-feu-des-critiques-20260718",
    "https://www.lefigaro.fr/histoire/heureux-qui-comme-ulysse-sylvain-tesson-met-les-voiles-sur-les-traces-du-celebre-heros-20260718",
    "https://www.lefigaro.fr/histoire/l-odyssee-de-christopher-nolan-un-produit-marketing-irreprochable-qui-peine-a-capturer-le-mythe-20260718",
@@ -737,7 +736,8 @@
    "https://www.lefigaro.fr/international/pris-dans-le-piege-iranien-donald-trump-tente-par-l-escalade-20260723",
    "https://www.lefigaro.fr/meteo/totalement-inedit-avec-le-retour-de-la-canicule-la-semaine-prochaine-quelles-seront-les-regions-les-plus-touchees-20260723",
    "https://www.lefigaro.fr/conjoncture/la-maison-blanche-annonce-de-nouveaux-droits-de-douane-a-partir-de-vendredi-20260723",
-   "https://www.lefigaro.fr/secteur/high-tech/piratage-sans-precedent-par-chatgpt-quand-l-ia-devient-indomptable-entre-complots-triche-et-projets-d-assassinat-20260723"
+   "https://www.lefigaro.fr/secteur/high-tech/piratage-sans-precedent-par-chatgpt-quand-l-ia-devient-indomptable-entre-complots-triche-et-projets-d-assassinat-20260723",
+   "https://www.lefigaro.fr/musique/tous-les-hommes-blancs-a-l-arriere-la-chanteuse-sophie-straat-sous-le-feu-des-critiques-apres-ses-propos-lors-d-un-festival-en-belgique-20260723"
   ],
   "https://www.france24.com/fr/rss": [
    "c3979a3a-8160-11f1-b07e-9f6d8cd0d3dd",
@@ -1303,11 +1303,10 @@
    "2e9ff1d4-869c-11f1-9c48-8b7d96a4f501",
    "817fa4ee-86c4-11f1-b6bf-c55de03f3661",
    "065cd410-86a3-11f1-b229-41f6cfc017ea",
-   "6787a5d4-86a9-11f1-88e0-0388c9290f24"
+   "6787a5d4-86a9-11f1-88e0-0388c9290f24",
+   "ce248fca-86e3-11f1-a170-f1475f965a5a"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-16/voici-l-histoire-de-la-plus-grande-pirate-au-monde-qui-a-fait-trembler-les-flottes-europeennes-et-son-propre-pays-b08f3a7e-5e0a-45f5-a627-a10df8d829a0?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-mohamed-ouahbi-confirme-sur-le-banc-du-maroc-21e370f8-8145-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/meteo/orage/ca-a-souffle-tellement-fort-quun-arbre-sest-couche-sur-ma-cloture-son-assurance-refuse-de-lindemniser-d1f656fe-8122-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-16/michael-olise-et-miro-mbappe-en-napoleon-ce-compte-instagram-relie-les-plus-belles-actions-sportives-aux-oeuvres-d-art-a28abf67-9d4f-4760-b371-fe49e3071c43?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-superstitieux-javier-milei-nira-pas-assister-a-la-finale-argentine-espagne-0ec2930e-8141-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1605,7 +1604,9 @@
    "https://www.ouest-france.fr/faits-divers/incendie/incendies-4-800-hectares-brules-et-20-000-evacues-en-gironde-1-200-hectares-detruits-et-5-000-evacues-dans-les-landes-302bf9d8-86d5-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/juste-envie-de-survivre-les-prochains-jours-vauquelin-deplore-des-sensations-de-merde-sur-le-tour-de-france-622ea114-86d1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-le-sparta-prague-recrute-le-cousin-derling-haaland-avant-de-defier-lyon-au-3e-tour-preliminaire-947ded4a-86cd-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/etats-unis/250-ans-des-etats-unis-lancement-dune-bourse-la-fayette-pour-etudiants-americains-en-france-94d3090c-86d1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/monde/etats-unis/250-ans-des-etats-unis-lancement-dune-bourse-la-fayette-pour-etudiants-americains-en-france-94d3090c-86d1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/violence-sexuelle/viol/viols-filmes-en-gironde-enquete-a-paris-visant-le-reseau-libertin-wyylde-0863e026-86e1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/tunisie/tunisie-lopposant-rached-ghannouchi-dans-un-etat-critique-selon-ses-avocats-a54b82dc-86db-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1909,7 +1910,17 @@
    "https://www.bfmtv.com/lyon/face-aux-canicules-successives-ce-village-du-rhone-a-decide-d-arreter-de-faire-sonner-les-cloches-la-nuit_AV-202607220682.html",
    "https://www.bfmtv.com/alsace/un-veritable-pillage-une-filiere-de-recolte-illegale-de-myrtilles-demantelee-en-alsace_AN-202607220679.html",
    "https://www.bfmtv.com/meteo/secheresse/direct-incendies-en-france-2-000-hectares-parcourus-et-12-000-personnes-evacuees-en-gironde_LN-202607230037.html",
-   "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-canada-etats-unis-mark-carney-intensifie-les-negociations-apres-les-nouvelles-taxes-des-usa_VN-202607230668.html"
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-canada-etats-unis-mark-carney-intensifie-les-negociations-apres-les-nouvelles-taxes-des-usa_VN-202607230668.html",
+   "https://www.bfmtv.com/environnement/climat/video-c-est-super-anxiogene-et-difficile-a-vivre-la-peur-des-habitants-du-porge-face-a-l-incendie-toujours-en-cours_VN-202607230674.html",
+   "https://www.bfmtv.com/environnement/climat/1-200-hectares-parcourus-un-incendie-se-declare-pres-de-biscarosse-et-menace-la-commune-5-000-personnes-evacuees_AD-202607230673.html",
+   "https://www.bfmtv.com/international/video-michelle-bachelet-se-defend-pour-obtenir-le-poste-de-secretaire-general-des-nations-unies_VN-202607230675.html",
+   "https://www.bfmtv.com/international/video-maria-fernanda-espinosa-se-defend-pour-obtenir-le-poste-de-secretaire-general-des-nations-unies_VN-202607230671.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendies-en-gironde-nous-avons-des-personnes-qui-arrivent-egalement-de-biscarrosse-et-qui-viennent-se-refugier-sur-notre-commune-explique-bruno-lafon-maire-de-biganos_VN-202607230670.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-a-biscarrosse-un-poids-lourd-a-l-origine-du-feu-annonce-arnaud-fabre-directeur-du-sdis-des-landes_VN-202607230664.html",
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-gironde-var-bfmtv-au-c-ur-des-feux-incontrolables-23-07_VN-202607230666.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendies-en-gironde-bfmtv-avec-les-pompiers-en-intervention-a-lege-cap-ferret_VN-202607230663.html",
+   "https://www.bfmtv.com/var/incendie-dans-le-var-le-feu-n-est-pas-fixe-mais-stable-400-personnes-evacuees-ont-pu-regagner-leur-habitation_AN-202607230366.html",
+   "https://www.bfmtv.com/environnement/climat/video-feux-en-gironde-les-images-impressionnantes-de-l-incendie-toujours-incontrolable_VN-202607230662.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2057,116 +2068,14 @@
    "https://www.lequipe.fr/Football/Actualites/Le-defenseur-de-l-algerie-aissa-mandi-annonce-sa-retraite-internationale/1706429",
    "https://www.lequipe.fr/Football/Article/D-abord-gardien-puis-entraineur-des-gardiens-qui-a-fait-eclore-ederson-et-jan-oblak-hugo-oliveira-entend-placer-ce-poste-au-centre-de-sa-tactique-a-strasbourg/1706336",
    "https://www.lequipe.fr/Football/Article/La-coupe-du-monde-2038-en-france-un-horizon-lointain-et-une-candidature-qui-ne-sera-pas-forcement-possible/1706199",
-   "https://www.lequipe.fr/Football/Actualites/Angers-lance-sa-preparation-avec-une-victoire-contre-les-herbiers-pensionnaire-de-national/1706413"
+   "https://www.lequipe.fr/Football/Actualites/Angers-lance-sa-preparation-avec-une-victoire-contre-les-herbiers-pensionnaire-de-national/1706413",
+   "https://www.lequipe.fr/Football/Actualites/Apres-la-coupe-du-monde-michael-olise-apercu-en-train-de-jouer-au-foot-avec-des-inconnus-a-new-york-en-chaussettes/1706665",
+   "https://www.lequipe.fr/Football/Actualites/Seulement-six-matches-officiels-apres-son-arrivee-jermain-defoe-quitte-son-poste-d-entraineur-en-cinquieme-division-anglaise/1706663",
+   "https://www.lequipe.fr/Football/Actualites/Griezmann-lloris-saint-maximin-qui-sont-les-quatorze-francais-qui-evoluent-en-mls-cette-annee/1706564"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Incendie majeur en Gironde atteignant les habitations à Lège-Cap-Ferret",
-    "Environ 20 000 habitants et touristes évacués en 24 heures",
-    "Utilisation d'avions bombardiers d'eau pour combattre l'incendie",
-    "Habitants confinés chez eux ou évacués en urgence"
-   ],
-   "qui": null,
-   "ou": "Lège-Cap-Ferret, Gironde, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "b3e5533e630730ff",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-23T20:18:28.659311+00:00"
-  },
-  {
-   "faits": [
-    "Richard Carapaz a remporté la 18e étape du Tour de France jeudi 23 juillet 2026",
-    "La victoire s'est déroulée au sommet d'Orcières-Merlette",
-    "Carapaz s'est imposé en solitaire après une échappée",
-    "Il s'agit de la deuxième victoire de Carapaz sur le Tour de France",
-    "Valentin Paret-Peintre, coureur français, a terminé quatrième"
-   ],
-   "qui": "Richard Carapaz (Équateur)",
-   "ou": "France (Orcières-Merlette)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "b0525fa018ab057a",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-23T16:12:05.294325+00:00"
-  },
-  {
-   "faits": [
-    "La médaille Fields 2026 a été remise à quatre mathématiciens le 23 juillet à Philadelphie",
-    "Les lauréats sont deux Chinois, un Américain et un Canadien",
-    "La médaille Fields récompense des chercheurs de moins de 40 ans",
-    "Cette récompense est considérée comme l'équivalent d'un Nobel de mathématiques"
-   ],
-   "qui": "Deux mathématiciens chinois, un mathématicien américain, un mathématicien canadien",
-   "ou": "Philadelphie, États-Unis",
-   "categorie": "sciences",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "713e811b324de5c7",
-   "score": 98,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-23T19:00:12.393749+00:00"
-  },
-  {
-   "faits": [
-    "Un important incendie sévit en Gironde avec 4 800 hectares brûlés",
-    "Un important incendie sévit dans les Landes avec 1 200 hectares détruits",
-    "20 000 personnes sont évacuées en Gironde",
-    "5 000 personnes sont évacuées dans les Landes",
-    "Plus de 6 000 hectares au total ont été ravagés",
-    "25 000 personnes au total ont dû être évacuées",
-    "Les incendies sont favorisés par une sécheresse inhabituelle",
-    "Un incendie près de Lacanau a parcouru 3 400 hectares (données antérieures du 23 juillet)",
-    "Le feu sévit depuis mercredi à proximité du bassin d'Arcachon en Gironde",
-    "Dans le Var, un incendie contenu n'est toujours pas fixé"
-   ],
-   "qui": null,
-   "ou": "Gironde; Landes; Var; France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France",
-    "20 Minutes",
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 90,
-   "empreinte": "7ce278ad8389a046",
-   "score": 96,
-   "fiab_max": 80,
-   "nb_sources": 3,
-   "depuis": "2026-07-23T21:32:01.834445+00:00"
-  },
   {
    "faits": [
     "Un concert d'Amir annulé à Marseille pour raisons de sécurité",
@@ -2246,32 +2155,6 @@
   },
   {
    "faits": [
-    "Un incendie ravage la Gironde depuis mercredi 22 juillet 2026",
-    "Plus de 3400 hectares de forêt ont brûlé (3100 hectares mentionnés dans une autre source)",
-    "Plus de 20 000 personnes ont été évacuées depuis mercredi soir",
-    "L'incendie continue de progresser jeudi 23 juillet près de Lège-Cap-Ferret",
-    "Un seul point de passage pour l'aide est ouvert",
-    "Des températures jusqu'à 40°C sont attendues le 24 juillet dans le Sud-Ouest",
-    "Des orages localement violents sont prévus samedi au sud du pays"
-   ],
-   "qui": null,
-   "ou": "Gironde, France (bassin d'Arcachon, Cap-Ferret)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 90,
-   "empreinte": "713c75d69b9ca005",
-   "score": 89,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.293701+00:00"
-  },
-  {
-   "faits": [
     "Frères Andrew Tate et Tristan arrêtés samedi à Miami",
     "Recherchés au Royaume-Uni pour viol, traite d'êtres humains à des fins d'exploitation sexuelle et agression",
     "Donald Trump ne s'opposera pas à leur extradition vers le Royaume-Uni"
@@ -2291,28 +2174,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T20:18:28.659325+00:00"
-  },
-  {
-   "faits": [
-    "Daniel Siad, homme de 69 ans et rabatteur présumé de Jeffrey Epstein, a été retrouvé mort à son domicile lundi 21 juillet 2026",
-    "Siad était visé par au moins six plaintes, notamment pour viols",
-    "Siad n'avait jamais été entendu par la justice française avant sa mort"
-   ],
-   "qui": "Daniel Siad",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "5c47603fe08a4a10",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.294332+00:00"
   },
   {
    "faits": [
@@ -2428,28 +2289,6 @@
   },
   {
    "faits": [
-    "À Gaza, la sécurité alimentaire s'améliore mais reste fragile, selon l'ONU",
-    "Un seul point de passage pour l'aide est ouvert à Gaza",
-    "L'acheminement des biens essentiels y reste limité"
-   ],
-   "qui": "ONU (Programme alimentaire mondial)",
-   "ou": "Gaza",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "78ea2e45bfe73a7c",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.294335+00:00"
-  },
-  {
-   "faits": [
     "Épidémie d'Ebola en RDC et Ouganda",
     "Plus d'un millier de morts selon le dernier bilan de l'OMS",
     "L'OMS estime que le virus a une longueur d'avance sur la riposte"
@@ -2518,27 +2357,6 @@
   },
   {
    "faits": [
-    "Un mégafeu ravage la Castille-La Manche en Espagne depuis le 16 juillet 2026",
-    "Le feu a calciné environ 30 à 32 000 hectares en Sierra Norte de Guadalajara"
-   ],
-   "qui": null,
-   "ou": "Sierra Norte de Guadalajara, Castille-La Manche, Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "4d58cf24b33b7170",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.293820+00:00"
-  },
-  {
-   "faits": [
     "Google a lancé mercredi en France sa fonctionnalité AI Overview (résumés par IA)",
     "Le Syndicat des éditeurs de la presse magazine dénonce que Google viole ses engagements",
     "Les éditeurs de presse magazine accusent Google de concurrence déloyale"
@@ -2581,29 +2399,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T17:52:08.766579+00:00"
-  },
-  {
-   "faits": [
-    "La Mostra de Venise dévoile la programmation de sa 83e édition",
-    "Vingt longs-métrages seront en compétition du 2 au 12 septembre",
-    "Florian Zeller, Stéphane Brizé et Nanni Moretti sont parmi les réalisateurs en compétition",
-    "Le prix décerné est le Lion d'or du meilleur film"
-   ],
-   "qui": "Mostra de Venise",
-   "ou": "Venise, Italie",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "d2752cc423cb3c66",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.294336+00:00"
   },
   {
    "faits": [
@@ -2723,25 +2518,30 @@
   },
   {
    "faits": [
-    "Allan Brunon, élu insoumis à la mairie de Grenoble, a participé à la manifestation qui a interrompu le concert de la DJ Barbara Butch samedi",
-    "Brunon a saisi la justice pour des injures à caractère raciste et des menaces",
-    "Il dénonce une campagne de cyberharcèlement contre lui"
+    "Un incendie de forêt sévit en Gironde depuis mercredi",
+    "L'incendie a parcouru au moins 4.800 hectares",
+    "Environ 19.000 personnes ont été évacuées de manière préventive",
+    "Le feu se dirige vers la commune de Lège-Cap-Ferret",
+    "Aucune victime déclarée à ce stade",
+    "Une seule maison a brûlé à ce stade",
+    "Un sapeur-pompier a été blessé en combattant les flammes",
+    "La situation reste 'défavorable'"
    ],
-   "qui": "Allan Brunon (La France Insoumise)",
-   "ou": "Grenoble, France",
-   "categorie": "politique",
+   "qui": "Pompiers ; autorités locales",
+   "ou": "Gironde (Lège-Cap-Ferret, Biganos)",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 88,
    "sources": [
-    "franceinfo"
+    "BFMTV"
    ],
    "non_confirme": [],
-   "importance": 65,
-   "empreinte": "0f1e41ea44defe76",
-   "score": 84,
-   "fiab_max": 90,
+   "importance": 85,
+   "empreinte": "0bd0a628baac0fe5",
+   "score": 83,
+   "fiab_max": 75,
    "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.294338+00:00"
+   "depuis": "2026-07-23T22:34:39.030860+00:00"
   },
   {
    "faits": [
@@ -2767,6 +2567,213 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T21:32:01.832764+00:00"
+  },
+  {
+   "faits": [
+    "Un agent du Secret Service de J.D. Vance fait l'objet d'une enquête pour fuite présumée d'informations",
+    "L'agent est accusé d'avoir fait fuiter des informations à l'origine de révélations sur le souhait du vice-président américain d'utiliser un hélicoptère militaire pour emmener son fils au golf"
+   ],
+   "qui": "Agent du Secret Service de J.D. Vance ; J.D. Vance (vice-président des États-Unis)",
+   "ou": "États-Unis",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "4ae318ce386995e8",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T22:34:47.040807+00:00"
+  },
+  {
+   "faits": [
+    "Les États-Unis conditionnent l'accord sur un programme nucléaire civil avec l'Arabie saoudite à la reconnaissance d'Israël par Riyad",
+    "Le président américain Donald Trump a posé cette condition le 23 juillet",
+    "Cette condition ne figurait pas dans le texte initial de l'accord"
+   ],
+   "qui": "Donald Trump (président américain) ; États-Unis ; Arabie saoudite ; Israël",
+   "ou": "États-Unis ; Arabie saoudite ; Israël",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 83,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "2abceab509d6dd62",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T22:34:47.040809+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie s'est déclaré en début de soirée jeudi près de Biscarosse",
+    "L'incendie a parcouru 1.200 hectares",
+    "Le feu menace la commune de Biscarosse",
+    "Plus de 5.000 personnes ont été évacuées",
+    "Un poids lourd serait à l'origine du feu selon le directeur du SDIS des Landes"
+   ],
+   "qui": "Pompiers ; Arnaud Fabre (directeur du SDIS des Landes) ; autorités préfectorales",
+   "ou": "Biscarosse (Landes et Gironde)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 82,
+   "empreinte": "d884fd1b82487b65",
+   "score": 81,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T22:34:39.030908+00:00"
+  },
+  {
+   "faits": [
+    "Le pétrolier 'Deliver' (275 mètres de long, pavillon camerounais) soupçonné de faire partie de la flotte fantôme russe a été autorisé à repartir",
+    "Le navire a dû payer une amende",
+    "Le 'Deliver' avait été arraisonné le 23 juin au large de la Sicile par la marine française",
+    "Le navire avait été immobilisé à Marseille"
+   ],
+   "qui": "Navire 'Deliver'",
+   "ou": "Marseille ; Sicile",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "appartenance présumée à la flotte fantôme russe"
+   ],
+   "importance": 58,
+   "empreinte": "9e59099d0fe9e4c2",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T22:34:47.040810+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie sévit dans le Var",
+    "Le feu n'est pas fixé mais reste 'stable' le 23 juillet",
+    "500 personnes ont été évacuées et peuvent regagner leur habitation",
+    "Les habitants doivent se tenir prêts à évacuer de nouveau",
+    "Le département est en vigilance rouge pour risque de feux de forêt",
+    "Du mistral attise les flammes"
+   ],
+   "qui": "Pompiers ; autorités départementales",
+   "ou": "Var",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 84,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "ab2b124f7628fa59",
+   "score": 78,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T22:34:39.030956+00:00"
+  },
+  {
+   "faits": [
+    "Quatorze joueurs français évoluent en MLS en 2026",
+    "Antoine Griezmann et Hugo Lloris en font partie",
+    "Douze autres joueurs français ont rejoint la MLS",
+    "La saison 2026 de MLS a repris à la mi-juillet après une trêve liée à la Coupe du monde"
+   ],
+   "qui": "Antoine Griezmann ; Hugo Lloris ; douze autres joueurs français",
+   "ou": "États-Unis (MLS)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 83,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "444809f874e6a2f2",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T22:34:47.040812+00:00"
+  },
+  {
+   "faits": [
+    "Michelle Bachelet (Chili) est l'une des six candidates au poste de Secrétaire générale de l'ONU",
+    "Les candidates se sont défendues le 23 juillet devant l'Assemblée des Nations unies à New York",
+    "Chaque candidate disposait de deux minutes pour convaincre"
+   ],
+   "qui": "Michelle Bachelet ; six candidates (dont Maria Fernanda Espinosa)",
+   "ou": "Nations unies ; New York",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "a61fc8ab7a205f9b",
+   "score": 75,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T22:34:39.031005+00:00"
+  },
+  {
+   "faits": [
+    "Maria Fernanda Espinosa (Équateur) est l'une des six candidates au poste de Secrétaire générale de l'ONU",
+    "Les candidates se sont défendues le 23 juillet devant l'Assemblée des Nations unies à New York",
+    "Chaque candidate disposait de deux minutes pour convaincre"
+   ],
+   "qui": "Maria Fernanda Espinosa ; six candidates (dont Michelle Bachelet)",
+   "ou": "Nations unies ; New York",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "e2b246bc09fa332f",
+   "score": 75,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T22:34:39.031052+00:00"
+  },
+  {
+   "faits": [
+    "Jermain Defoe a quitté son poste d'entraîneur du Woking FC",
+    "Il a dirigé le club de cinquième division anglaise pendant seulement six matches officiels",
+    "Il avait entamé sa reconversion sur le banc de Woking FC en mars 2026",
+    "Il a eu une carrière de 22 ans comme joueur"
+   ],
+   "qui": "Jermain Defoe ; Woking FC",
+   "ou": "Angleterre (cinquième division anglaise)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 35,
+   "empreinte": "e7283e7a6ea9373d",
+   "score": 74,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T22:34:39.031145+00:00"
   }
  ],
  "publies_48h": [
@@ -2849,6 +2856,14 @@
   [
    "c9f876249a7cc2d4",
    "2026-07-23T07:25:35.020406+00:00"
+  ],
+  [
+   "c01648839fa59987",
+   "2026-07-23T22:34:48.172845+00:00"
+  ],
+  [
+   "75f93b3e0883213c",
+   "2026-07-23T22:34:52.167138+00:00"
   ]
  ],
  "evenements_48h": [
@@ -2931,24 +2946,24 @@
   [
    "7bd1589f94d0e8b6",
    "2026-07-23T07:25:29.917473+00:00"
+  ],
+  [
+   "b3e5533e630730ff",
+   "2026-07-23T22:34:43.551516+00:00"
+  ],
+  [
+   "713e811b324de5c7",
+   "2026-07-23T22:34:47.040770+00:00"
   ]
  ],
  "depeches_du_jour": [
-  "⚡ FLASH — Au moins 44 000 hectares ont brûlé en France en 2026. Le ministre de l'Intérieur Laurent Nuñez l'a annoncé mercredi à Bordeaux. Trois pompiers sont morts en deux semaines, 128 personnes interpellées. (franceinfo, France 24)",
-  "⚡ FLASH — Deux sapeurs-pompiers sont morts en Gironde lors d'interventions contre des incendies majeurs. Plus de 1.000 hectares brûlent au bassin d'Arcachon et à Saumos. Plusieurs milliers d'habitants évacués. Un incendie s'est aussi déclaré près de Madrid. (RFI, BFMTV)",
-  "⚡ FLASH — Deux sapeurs-pompiers sont décédés en Gironde lors d'interventions contre des incendies majeurs. Plus de 4.600 personnes évacuées, 1.400 hectares brûlés au nord d'Arcachon. Dans le Var, 2.500 hectares ravagés. (France 24)",
-  "Deux sapeurs-pompiers de 34 ans du centre de secours de Saint-Médard-en-Jalles (Gironde) ont péri piégés dans un incendie de pins mardi 21 juillet, près de l'aéroport de Bordeaux-Mérignac. Les circonstances restent à établir. (franceinfo)",
-  "Nicolas Maduro, ancien président du Venezuela, a été emprisonné aux États-Unis suite à une opération militaire menée à Caracas. Le tribunal de New-York a fixé son procès au 1er juin 2027. Il fait face à quatre chefs d'accusations dont le narcoterrorisme. (franceinfo)",
-  "L'Iran menace une riposte « puissante » si les États-Unis attaquent ses infrastructures civiles. Le chef de la diplomatie iranienne Abbas Araghchi répond ainsi aux menaces de Donald Trump de bombarder centrales électriques et ponts iraniens. (20 Minutes, BFMTV)",
-  "🌡️ Un incendie ravage plus de 2 000 hectares en Gironde. Au moins 12 000 personnes ont été évacuées depuis mercredi, dont des résidents de campings et d'un domaine naturiste au nord du cap Ferret. (franceinfo)",
-  "⚡ FLASH — Tensions au Moyen-Orient. Les Houthis revendiquent des attaques contre deux pétroliers saoudiens en mer Rouge. L'armée américaine poursuit ses frappes contre l'Iran pour la douzième nuit consécutive. (France 24, RFI)",
-  "L'Iran affirme avoir arrêté trois pétroliers dans le détroit d'Ormuz et revendique des frappes au Koweït et en Jordanie. Les États-Unis bombardent l'Iran pour le douzième jour consécutif. (franceinfo, Le Figaro, France 24)",
-  "🇫🇷 Le concert de la DJ Barbara Butch a été interrompu à Grenoble par des militants propalestiniens contestant son soutien à la loi Yadan. Selon la mairie, elle a reçu des jets de bouteilles. Elle envisage de porter plainte. (franceinfo)"
+  "⚡ FLASH — Un incendie majeur atteint les habitations à Lège-Cap-Ferret en Gironde. Environ 20 000 habitants et touristes ont été évacués en 24 heures. Des avions bombardiers d'eau combattent le sinistre. (franceinfo, 20 Minutes)",
+  "🏆 Quatre mathématiciens ont reçu la médaille Fields le 23 juillet à Philadelphie : deux Chinois, un Américain et un Canadien. Cette distinction récompense des chercheurs de moins de 40 ans et est considérée comme l'équivalent d'un prix Nobel en mathématiques. (franceinfo, RFI)"
  ],
  "recap_date": "2026-07-23",
  "echecs_extraction": 0,
  "compteur": {
-  "date": "2026-07-23",
-  "publies": 10
+  "date": "2026-07-24",
+  "publies": 2
  }
 }
