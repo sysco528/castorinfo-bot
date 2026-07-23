@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/avant-apres-rivieres-assechees-champs-grilles-forets-jaunies-regardez-comment-la-france-a-perdu-ses-couleurs-sous-l-effet-des-canicules_8108939.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/rachida-dati/periscolaire-emmanuel-gregoire-va-porter-plainte-pour-diffamation-contre-rachida-dati-au-nom-de-la-ville-de-paris_8111615.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-juge-pour-diffusion-de-symboles-extremistes-condamne-a-une-amende-pres-de-moscou_8111507.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/france/occitanie/gard/rien-ne-m-arretera-je-continuerai-ma-mission-de-maire-assure-christophe-rivenq-le-maire-d-ales-vise-par-des-menaces-de-la-dz-mafia_8111678.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-andy-burnham-nomme-chef-du-parti-travailliste-britannique-avant-de-devenir-premier-ministre_8111681.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-tadej-pogacar-va-t-il-laisser-les-baroudeurs-s-exprimer-entre-dole-et-belfort-suivez-la-13e-etape_8110052.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-jubillar-pourquoi-la-zone-ou-des-ossements-ont-ete-decouverts-n-avait-jamais-ete-fouillee_8111405.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/on-a-pris-un-but-du-coup-j-ai-remis-ma-veste-pourquoi-le-superstitieux-javier-milei-n-assistera-pas-a-la-finale-de-coupe-du-monde-de-l-argentine_8111552.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/societe/pedocriminalite/un-homme-de-74-ans-mis-en-examen-et-place-en-detention-provisoire-pour-des-viols-et-agressions-sexuelles-sur-17-mineurs_8119670.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/migrants/dans-le-pas-de-calais-150-migrants-secourus-au-large-de-berck-sur-mer_8119568.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sciences/la-medaille-fields-remise-a-deux-chinois-un-americain-et-un-canadien-pour-leurs-decouvertes-exceptionnelles_8119760.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/medias/google-viole-ses-engagements-avec-ses-nouveaux-resumes-par-ia-denoncent-les-editeurs-de-la-presse-magazine_8119649.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/economie/medias/google-viole-ses-engagements-avec-ses-nouveaux-resumes-par-ia-denoncent-les-editeurs-de-la-presse-magazine_8119649.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/j-ai-15-hectares-qui-partent-en-fumee-a-lege-cap-ferret-l-angoisse-des-habitants-devant-la-progression-des-flammes_8119802.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/incendie-en-gironde-des-milliers-de-touristes-evacues_8119826.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sante/drogue-addictions/cocaine/val-de-marne-un-laboratoire-de-cocaine-demantele-dans-un-airbnb_8119781.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/harcelement-sexuel/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-suspectes-de-viols-et-de-complicite-d-exploitation-sexuelle-vers-le-royaume-uni_8119814.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/un-mineur-etranger-mis-en-examen-et-ecroue-pour-le-viol-d-une-octogenaire-a-rennes_8119790.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -438,7 +438,6 @@
    "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/histoire/la-bataille-de-gaulle-ce-que-les-americains-avaient-vraiment-prevu-pour-la-france-en-1944-20260718",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-feu-d-artifice-attendu-au-markstein-suivez-la-14e-etape-20260718",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/c-est-important-d-avoir-un-groupe-fort-autour-de-lui-paul-seixas-l-etincelle-attendue-pour-reveiller-le-tour-de-france-20260718",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/s-agit-il-du-week-end-des-grands-ecarts-sur-le-tour-de-france-20260718",
@@ -737,11 +736,10 @@
    "https://www.lefigaro.fr/international/incendies-en-espagne-3500-personnes-evacuees-d-une-localite-a-60-km-de-madrid-20260723",
    "https://www.lefigaro.fr/international/guerre-en-ukraine-la-fuite-en-avant-de-vladimir-poutine-20260723",
    "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-le-prix-de-la-guerre-de-poutine-20260723",
-   "https://www.lefigaro.fr/conso/exces-de-cadmium-des-melons-vendus-chez-carrefour-rappeles-dans-toute-la-france-20260723"
+   "https://www.lefigaro.fr/conso/exces-de-cadmium-des-melons-vendus-chez-carrefour-rappeles-dans-toute-la-france-20260723",
+   "https://www.lefigaro.fr/international/pris-dans-le-piege-iranien-donald-trump-tente-par-l-escalade-20260723"
   ],
   "https://www.france24.com/fr/rss": [
-   "3e76779a-8124-11f1-9708-734d52a072cd",
-   "c374a4d2-813b-11f1-b881-7d73eb1711b7",
    "0ae21002-8132-11f1-8c63-4bab7b0c19c7",
    "44cfd960-8138-11f1-90b4-c5f319ad9514",
    "882b3d00-8159-11f1-ac5c-cf7c83649bc4",
@@ -1039,7 +1037,9 @@
    "60752078-86ae-11f1-a44c-f955b988617e",
    "17b4e828-86a9-11f1-92dd-f955b988617e",
    "7ff4d57c-86a6-11f1-9371-23b047e41a7a",
-   "1df7d29c-86bb-11f1-babf-e195c3ebaf41"
+   "1df7d29c-86bb-11f1-babf-e195c3ebaf41",
+   "4962b738-86c7-11f1-ba93-f5a42eafbefb",
+   "f2fcbbf6-86c5-11f1-9848-f5a42eafbefb"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1306,12 +1306,6 @@
    "6787a5d4-86a9-11f1-88e0-0388c9290f24"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-attaques-a-kiev-et-a-kharkiv-13-morts-au-cours-des-frappes-de-mercredi-le-point-sur-la-nuit-23eed43a-80c0-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/economie/budget-collectivites-etat/travail-defense-ecologie-dans-ce-que-prevoit-le-gouvernement-pour-le-budget-2027-des-gagnants-et-des-perdants-750ddffe-8125-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-donald-trump-sera-bien-present-pour-la-finale-du-mondial-entre-lespagne-et-largentine-8ee50f54-813b-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/cinema/la-canicule-booste-les-entrees-dans-les-salles-de-cinema-f52fbc0a-811d-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/politique/bernard-cazeneuve/presidentielle-2027-bernard-cazeneuve-presente-sa-candidature-mais-ne-participera-pas-a-la-primaire-socialiste-6272ffbc-8131-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/justice/le-collegien-accuse-davoir-tue-une-surveillante-en-haute-marne-est-condamne-a-18-ans-de-reclusion-df763a30-812a-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-16/cheminees-strates-bombes-volcaniques-en-france-ce-volcan-mis-a-nu-par-une-carriere-se-visite-de-l-interieur-66d7d29d-0b7b-4aef-8265-d16e98888b6d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-une-opportunite-magnifique-les-premiers-mots-de-davide-ancelotti-fils-de-carlo-nouvel-entraineur-du-losc-f4b8cf52-8139-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-16/comment-les-ruines-vertigineuses-de-ce-village-francais-racontent-la-chute-d-une-cite-autrefois-puissante-5cb3235f-1ad7-4f75-b8da-6bc31e3bcbf9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1605,7 +1599,13 @@
    "https://www.ouest-france.fr/culture/patrimoine/notre-dame-de-paris/je-suis-emerveillee-dans-cet-atelier-sont-crees-les-futurs-vitraux-de-notre-dame-de-paris-55c9ca96-86bf-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/canoe-kayak/canoe-kayak-champion-du-monde-en-titre-en-k1-titouan-castryck-elimine-des-les-demi-finales-55761480-86c1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-23/oubliez-musees-et-monuments-ce-lieu-que-tout-le-monde-evite-en-vacances-devient-une-nouvelle-facon-de-visiter-un-pays-2c09788c-5b4c-4c7b-8158-df5deae1c885?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/politique/institutions/conseil-constitutionnel/le-conseil-constitutionnel-valide-lallongement-de-la-retention-detrangers-juges-dangereux-6b5c39dc-86bc-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/politique/institutions/conseil-constitutionnel/le-conseil-constitutionnel-valide-lallongement-de-la-retention-detrangers-juges-dangereux-6b5c39dc-86bc-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/coupe-d-afrique-des-nations/la-can-2027-se-deroulera-bien-a-24-equipes-malgre-lannonce-dun-tournoi-a-28-6ca22e36-86cc-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-evenepoel-sattend-a-une-offensive-de-seixas-et-decathlon-cma-cgm-apres-le-virus-qui-frappe-uae-emirates-31e2c288-86cc-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-un-coureur-percute-par-une-voiture-et-tenu-pour-responsable-par-le-conducteur-558b6da2-86c7-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-23/l-accroc-qui-a-tout-change-quand-madonna-choquait-une-partie-de-l-amerique-avec-une-prestation-improvisee-20991f35-da8c-4a3d-b30a-0ecffc6840f7?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-combien-de-points-reste-t-il-a-distribuer-pour-le-classement-du-maillot-a-pois-e1014704-86c1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-23/52-morts-17-survivants-ce-crash-d-avion-dont-l-epave-a-ete-retrouvee-a-change-l-histoire-de-la-securite-aerienne-50d7e139-3879-428f-a50a-c3bbd26f274d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1743,7 +1743,13 @@
    "https://www.20minutes.fr/societe/4235714-20260722-secheresse-sentez-surveilles-voisins-periode-restrictions-eau-racontez?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/planete/4235866-20260723-gironde-violent-incendie-detruit-plus-1-400-hectares-milliers-personnes-evacuees?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/faits_divers/4235865-20260723-calais-homme-meurt-immolant-feu-blesse-grievement-compagne-nouveau?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/etats-unis/4235879-20260723-etats-unis-deputes-valident-budget-plus-1-150-milliards-dollars-defense?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/etats-unis/4235879-20260723-etats-unis-deputes-valident-budget-plus-1-150-milliards-dollars-defense?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/arts-stars/culture/4235746-20260723-odyssee-christopher-nolan-quoi-loi-zeus-ur-film?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/politique/4235732-20260723-neonicotinoides-dictent-politique-agricole-executif-cede-pressions-fnsea?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4235978-20260723-comportement-feu-difficile-anticiper-ur-incendie-eprouve-gironde?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/politique/4236065-20260723-reseaux-sociaux-interdits-moins-15-ans-lfi-depose-recours-devant-conseil-constitutionnel?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4235880-20260723-direct-guerre-moyen-orient-attaque-houthis-mer-rouge-menaces-teheran-contre-etats-unis?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4235983-20260723-apres-decouverte-enfants-entasses-voiture-comment-controlees-creches-structures-accueil?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2050,6 +2056,30 @@
  "evenements_attente": [
   {
    "faits": [
+    "Incendie majeur en Gironde atteignant les habitations à Lège-Cap-Ferret",
+    "Environ 20 000 habitants et touristes évacués en 24 heures",
+    "Utilisation d'avions bombardiers d'eau pour combattre l'incendie",
+    "Habitants confinés chez eux ou évacués en urgence"
+   ],
+   "qui": null,
+   "ou": "Lège-Cap-Ferret, Gironde, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "b3e5533e630730ff",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-23T20:18:28.659311+00:00"
+  },
+  {
+   "faits": [
     "Richard Carapaz a remporté la 18e étape du Tour de France jeudi 23 juillet 2026",
     "La victoire s'est déroulée au sommet d'Orcières-Merlette",
     "Carapaz s'est imposé en solitaire après une échappée",
@@ -2175,6 +2205,32 @@
   },
   {
    "faits": [
+    "Conflit États-Unis-Iran au Moyen-Orient",
+    "Armée américaine a envoyé des renforts au Moyen-Orient",
+    "Conflit s'étend en mer Rouge",
+    "Implication des rebelles houthistes pro-iraniens",
+    "Frappe américaine sur l'île de Qeshm",
+    "Royaume-Uni condamne les attaques houthis"
+   ],
+   "qui": "États-Unis, Iran, rebelles houthistes, Royaume-Uni",
+   "ou": "Moyen-Orient, mer Rouge, île de Qeshm",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Le Figaro",
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "03d82d5b16bbb013",
+   "score": 92,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-23T20:18:28.659323+00:00"
+  },
+  {
+   "faits": [
     "Un incendie ravage la Gironde depuis mercredi 22 juillet 2026",
     "Plus de 3400 hectares de forêt ont brûlé (3100 hectares mentionnés dans une autre source)",
     "Plus de 20 000 personnes ont été évacuées depuis mercredi soir",
@@ -2198,6 +2254,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T16:12:05.293701+00:00"
+  },
+  {
+   "faits": [
+    "Frères Andrew Tate et Tristan arrêtés samedi à Miami",
+    "Recherchés au Royaume-Uni pour viol, traite d'êtres humains à des fins d'exploitation sexuelle et agression",
+    "Donald Trump ne s'opposera pas à leur extradition vers le Royaume-Uni"
+   ],
+   "qui": "Andrew Tate, Tristan Tate, Donald Trump",
+   "ou": "Miami, États-Unis ; Royaume-Uni",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "56d0272087c1cccc",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T20:18:28.659325+00:00"
   },
   {
    "faits": [
@@ -2379,6 +2457,28 @@
   },
   {
    "faits": [
+    "Épidémie d'Ebola en RDC et Ouganda",
+    "Plus d'un millier de morts selon le dernier bilan de l'OMS",
+    "L'OMS estime que le virus a une longueur d'avance sur la riposte"
+   ],
+   "qui": "OMS",
+   "ou": "RDC, Ouganda",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "6869377b8a0581f4",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T20:18:28.657711+00:00"
+  },
+  {
+   "faits": [
     "Des analyses ont révélé une teneur en cadmium supérieure à la limite réglementaire européenne dans des melons",
     "Des melons contaminés au cadmium ont été vendus chez Carrefour",
     "Un rappel de produit concerne toute la France",
@@ -2514,6 +2614,55 @@
   },
   {
    "faits": [
+    "Laboratoire de cocaïne démantelé dans un Airbnb en Val-de-Marne",
+    "La drogue arrivait sous forme liquide",
+    "Deux occupants interpellés le 14 juillet"
+   ],
+   "qui": null,
+   "ou": "Val-de-Marne, France",
+   "categorie": "justice",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "ff9c66b9592120c0",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T20:18:28.659341+00:00"
+  },
+  {
+   "faits": [
+    "Mineur étranger mis en examen et écroué",
+    "Accusé du viol d'une octogénaire à Rennes",
+    "L'agression a eu lieu le 4 juillet",
+    "Victime âgée de 80 ans",
+    "Suspect identifié par ADN et vidéosurveillance",
+    "Suspect serait né en 2009 au Maroc selon le procureur"
+   ],
+   "qui": null,
+   "ou": "Rennes, France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "Lieu de naissance exact du suspect (présenté comme 'selon le procureur')"
+   ],
+   "importance": 65,
+   "empreinte": "e6e353f2200dc96b",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-23T20:18:28.659343+00:00"
+  },
+  {
+   "faits": [
     "150 migrants ont été secourus au large de Berck-sur-Mer dans le Pas-de-Calais",
     "Il s'agit de l'un des sauvetages les plus importants de l'histoire de la crise migratoire selon la SNSM du secteur"
    ],
@@ -2599,144 +2748,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T14:26:43.167067+00:00"
-  },
-  {
-   "faits": [
-    "Sergueï Lavrov et Marco Rubio se sont rencontrés jeudi 23 juillet à Manille",
-    "La rencontre s'est déroulée en marge d'une réunion de l'Asean",
-    "Lavrov met en garde Rubio contre la poursuite inadmissible de livraisons d'armes à l'Ukraine"
-   ],
-   "qui": "Sergueï Lavrov, Marco Rubio",
-   "ou": "Manille (Philippines)",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "91218b989fd5d78c",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T17:52:08.765848+00:00"
-  },
-  {
-   "faits": [
-    "Une vague de chaleur et une sécheresse en Europe en juin 2026 ont entraîné la perte de 9 millions de tonnes de récolte de céréales",
-    "Des vagues de chaleur se succèdent en Europe depuis fin mai 2026",
-    "L'analyse a été publiée par l'organisation Energy and Climate Intelligence Unit le 22 juillet 2026"
-   ],
-   "qui": "Energy and Climate Intelligence Unit",
-   "ou": "Europe",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "1a0a75dc6fc2f8fc",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T19:00:12.393777+00:00"
-  },
-  {
-   "faits": [
-    "Un homme de 74 ans est mis en examen et placé en détention provisoire",
-    "Il est soupçonné de viols et d'agressions sexuelles sur 17 mineurs",
-    "Les enfants auraient des âges allant de moins de deux ans à une douzaine d'années",
-    "Les abus auraient duré 25 ans"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "5dd2610f857fa1a8",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T17:52:08.766598+00:00"
-  },
-  {
-   "faits": [
-    "Des inondations ont tué 23 personnes et blessé 125 autres dans la ville de Parun, est de l'Afghanistan",
-    "Les inondations ont eu lieu trois jours avant le 23 juillet",
-    "Les acteurs humanitaires craignent que ce type de drame se banalise en Afghanistan en raison du changement climatique"
-   ],
-   "qui": null,
-   "ou": "Parun, est de l'Afghanistan",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "9b3b3e701e072514",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T19:00:12.392527+00:00"
-  },
-  {
-   "faits": [
-    "Cédric Jubillar a fait des aveux devant la justice mercredi dernier",
-    "Jubillar a déclaré avoir tué la mère de ses enfants",
-    "Il a raconté avoir attrapé sa femme par le cou et avoir serré",
-    "L'amant de Delphine Jubillar a rejeté les aveux de Cédric Jubillar, les qualifiant de nouvelle stratégie"
-   ],
-   "qui": "Cédric Jubillar",
-   "ou": "France (Montauban)",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "La véracité des aveux de Cédric Jubillar selon le compagnon de Delphine"
-   ],
-   "importance": 70,
-   "empreinte": "3fd6cfeff005e76a",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T16:12:05.293727+00:00"
-  },
-  {
-   "faits": [
-    "Un chauffard de 18 ans a blessé grièvement un policier lors d'un refus d'obtempérer à Marseille",
-    "Le chauffard est connu des services de police",
-    "Il a été mis en examen pour tentative de meurtre sur personne dépositaire de l'autorité publique",
-    "Le chauffard et ses deux passagers de 16 ans ont été écroués",
-    "Un adolescent de 13 ans a été placé sous contrôle judiciaire"
-   ],
-   "qui": "Chauffard de 18 ans et passagers",
-   "ou": "Marseille",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "c6122856e66045c5",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T14:26:43.165880+00:00"
   }
  ],
  "publies_48h": [
