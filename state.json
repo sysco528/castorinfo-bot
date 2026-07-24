@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-aveux-de-cedric-jubillar-sont-ils-une-strategie-pour-reduire-sa-peine-l-avis-d-une-avocate-specialisee-en-feminicides_8112275.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/lors-de-la-canicule-de-juin-la-mortalite-en-ile-de-france-a-plus-que-double-par-rapport-a-la-normale_8112194.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/un-touriste-francais-porte-disparu-depuis-le-11-juillet-au-perou_8112257.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-frappe-israelienne-fait-huit-morts-pres-d-un-marche-dans-la-bande-de-gaza_8112332.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/bernard-cazeneuve-echangera-avec-francois-hollande-lors-d-un-colloque-a-paris-le-4-septembre_8112230.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/faits-divers/incendie/trois-choses-a-savoir-sur-les-remboursements-auxquels-vous-avez-droit-si-vos-vacances-sont-annulees-ou-perturbees-en-raison-des-incendies_8120591.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/fonctionnement-moyens-disponibles-on-repond-a-quatre-questions-sur-le-mecanisme-de-protection-civile-de-l-union-europeenne-dont-l-activation-a-ete-demandee-par-emmanuel-macron_8120162.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/info-franceinfo-l-autopsie-de-daniel-siad-suspecte-d-etre-le-rabatteur-de-jeffrey-epstein-n-a-pas-mis-en-evidence-de-cause-immediate-du-deces-a-ce-stade_8120354.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/decouverte/vacances/departs-en-vacances-bison-fute-voit-rouge-vendredi-sur-une-large-partie-du-nord-est-et-du-sud-ouest-du-pays-dans-le-sens-des-departs_8120576.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/decouverte/vacances/departs-en-vacances-bison-fute-voit-rouge-vendredi-sur-une-large-partie-du-nord-est-et-du-sud-ouest-du-pays-dans-le-sens-des-departs_8120576.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/cap-ferret-des-milliers-de-vacanciers-evacues-face-a-la-progression-des-flammes_8120636.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-le-peloton-gravit-le-col-du-noyer-avant-de-s-attaquer-aux-pentes-de-la-mythique-alpe-d-huez-suivez-la-19e-etape-avec-nous_8118983.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -450,11 +450,6 @@
    "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/mbappe-titulaire-six-changements-la-compo-des-bleus-est-tombee-pour-defier-l-angleterre-20260718",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-jour-de-petite-finale-pour-les-bleus-trump-invite-la-presidente-mexicaine-haaland-plus-populaire-que-jamais-20260718",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-je-n-ai-pas-envie-d-aller-en-prison-ironise-l-espagnol-borja-iglesias-qui-se-resout-a-saluer-trump-20260718",
-   "https://www.lefigaro.fr/sports/rugby/rugby-mondial-u20-les-bleuets-s-inclinent-en-finale-face-a-l-afrique-du-sud-qui-conserve-son-titre-20260718",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-angleterre-a-quoi-sert-vraiment-cette-petite-finale-20260717",
    "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608361/france-angleterre",
    "https://www.lefigaro.fr/international/guerre-au-moyen-orient-combien-de-militaires-americains-ont-perdu-la-vie-depuis-le-debut-du-conflit-20260718",
    "https://www.lefigaro.fr/actualite-france/incendies-a-fontainebleau-la-situation-se-stabilise-et-mobilise-de-moins-en-moins-de-pompiers-20260718",
@@ -749,16 +744,14 @@
    "https://www.lefigaro.fr/meteo/incendies-dans-le-sud-ouest-pourquoi-l-arrivee-prochaine-d-orages-dans-la-region-est-une-fausse-bonne-nouvelle-20260724",
    "https://www.lefigaro.fr/international/espagne-deux-des-trois-incendies-a-l-ouest-de-madrid-sur-le-point-de-fusionner-le-feu-hors-de-controle-20260724",
    "https://video.lefigaro.fr/figaro/l-homme-est-responsable-de-99-des-feux-de-foret-par-negligence-et-manque-d-education-20260724",
-   "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260724"
+   "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260724",
+   "https://www.lefigaro.fr/actualite-france/incendie-xxl-en-gironde-a-l-origine-du-feu-un-chantier-de-debroussaillage-sous-une-ligne-electrique-20260724",
+   "https://www.lefigaro.fr/bordeaux/fuir-l-incendie-par-la-mer-le-recit-de-l-exode-express-de-la-presqu-ile-du-cap-ferret-20260724",
+   "https://www.lefigaro.fr/bordeaux/rechauffement-canicules-incendies-bordeaux-et-le-bassin-d-arcachon-seront-ils-encore-habitables-en-2050-20260621",
+   "https://www.lefigaro.fr/actualite-france/plus-de-50-maisons-detruites-35-000-personnes-evacuees-les-images-de-l-incendie-xxl-en-gironde-20260724",
+   "https://tvmag.lefigaro.fr/programme-tv/people/laura-smet-sophie-davant-laurent-delahousse-quelles-sont-les-celebrites-presentes-au-cap-ferret-20260724"
   ],
   "https://www.france24.com/fr/rss": [
-   "30c7f224-81d1-11f1-88e7-9f2a8e948542",
-   "aaa2671e-81cc-11f1-9be8-3b70e3dd0237",
-   "2dfeee4e-81e5-11f1-8c39-f71d70ce90a1",
-   "7ed4b728-81df-11f1-b2b1-8b414f483f1f",
-   "889f7dda-81c9-11f1-8eb7-9d39467a08bb",
-   "d4c3cf66-81e4-11f1-afb2-f71d70ce90a1",
-   "38bb4c24-81e5-11f1-94d4-7bd3748971fc",
    "1a6e7614-81dc-11f1-9bf8-8b414f483f1f",
    "18aaba2c-81eb-11f1-875f-77f4476868cf",
    "4ad903ce-81ea-11f1-9994-257ce0fa28bf",
@@ -1051,7 +1044,14 @@
    "818064b4-8445-11f1-8787-5f1325aafd8a",
    "c83edc90-8743-11f1-9b13-f7b6c43501a2",
    "6628d486-8746-11f1-9d63-f7b6c43501a2",
-   "eae6be3e-8743-11f1-a72a-6bf5d0750a63"
+   "eae6be3e-8743-11f1-a72a-6bf5d0750a63",
+   "469d70d6-875a-11f1-b130-63d6494a0699",
+   "3276ef5e-8757-11f1-a9ee-177004e00d19",
+   "5e85b25e-8759-11f1-a2d0-c52558d179f0",
+   "9163ba5e-8759-11f1-bc06-a9bfc9de241e",
+   "f6e0c0c4-8755-11f1-862c-177004e00d19",
+   "4801229a-874d-11f1-a331-d31108dcf04a",
+   "375c45aa-873e-11f1-a5da-5545930ce6ba"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1323,10 +1323,14 @@
    "c4a95830-872a-11f1-8654-8729fd06c85d",
    "ba3cc1ae-871e-11f1-ad47-0b03d16ea254",
    "deec4fd4-8722-11f1-b849-0b03d16ea254",
-   "3182945c-4b04-11f1-93be-431dac8ed338"
+   "3182945c-4b04-11f1-93be-431dac8ed338",
+   "a1016d16-8732-11f1-9d76-f3778ee5cdf9",
+   "42b28428-8739-11f1-93e6-71cb154bf8eb",
+   "7ddfcc9e-872b-11f1-bb9e-cff60193fc38",
+   "59684c78-8740-11f1-8f03-0bec271135f9",
+   "ad449d0a-8732-11f1-8bd1-f3778ee5cdf9"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/faits-divers/affaire-jubillar/cedric-jubillar-sest-enferre-dans-un-mensonge-declare-son-avocat-apres-ses-aveux-devant-la-justice-27202628-815a-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-dorian-godon-devrait-etre-apte-pour-la-13e-etape-malgre-un-protocole-de-commotions-cerebrales-f9a83876-8158-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/espagne/espagne-7-600-hectares-brules-pres-de-saragosse-dans-un-incendie-qui-mettra-des-jours-a-etre-maitrise-94026690-8158-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/meteo/orage/mini-tornade-et-camions-renverses-des-orages-violents-signales-jeudi-soir-dans-la-loire-et-en-isere-21bf9746-8154-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1625,7 +1629,8 @@
    "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-menace-americaine-de-punition-majeure-attaques-en-mer-rouge-les-dernieres-infos-6694a566-8652-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-les-incendies-qui-font-rage-dans-le-sud-de-la-france-3d4bdc46-86cb-11f1-972b-8822177e2f94?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tourisme/connaissez-vous-les-7-plus-beaux-spots-de-la-cote-demeraude-9d96bcae-5527-11f1-a8af-559ef5894fc2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-les-temps-seront-ils-geles-a-paris-a-cause-des-conditions-meteorologiques-8f8db822-8729-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-les-temps-seront-ils-geles-a-paris-a-cause-des-conditions-meteorologiques-8f8db822-8729-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/temoignages-je-ne-voulais-pas-y-croire-en-gironde-et-dans-les-landes-angoisse-et-solidarite-face-aux-incendies-7bdc7a0a-8744-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2111,6 +2116,33 @@
  "evenements_attente": [
   {
    "faits": [
+    "Un incendie en Gironde a ravagé plus de 10 000 hectares",
+    "35 000 personnes ont été évacuées du Cap-Ferret en deux jours",
+    "Plus de 50 maisons ont été détruites",
+    "L'incendie a été déclenché par un chantier de débroussaillage près de lignes électriques à Saumos",
+    "Près de 1 500 personnes ont été évacuées à Arcachon par bateau",
+    "La préfète de Gironde a ordonné l'évacuation du Porge et Lège-Cap-Ferret",
+    "Les pompiers témoignent de difficultés à contenir l'incendie"
+   ],
+   "qui": "Autorités de Gironde, pompiers, habitants et vacanciers",
+   "ou": "Cap-Ferret, Gironde, bassin d'Arcachon",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "fcb1d63d945bdf3d",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-24T13:05:00.377370+00:00"
+  },
+  {
+   "faits": [
     "32 incendies sont en cours en France",
     "Plus de 50 000 hectares ont été brûlés depuis le 1er janvier 2026",
     "Ce chiffre représente environ trois fois plus que l'année précédente",
@@ -2169,6 +2201,32 @@
   },
   {
    "faits": [
+    "L'Espagne est confrontée à plusieurs incendies simultanés",
+    "Plusieurs feux se trouvent aux portes de Madrid",
+    "Plusieurs dizaines de milliers de personnes ont été évacuées",
+    "L'état d'urgence a été déclaré dans la région de Madrid",
+    "Plus de 130 000 hectares ont brûlé depuis le début de l'été",
+    "Pedro Sanchez a décrit la situation comme 'dramatique'",
+    "Les feux sont attisés par les vents et une vague de chaleur"
+   ],
+   "qui": "Gouvernement espagnol, Pedro Sanchez, habitants",
+   "ou": "Espagne, Madrid, province d'Ávila",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 92,
+   "empreinte": "551c8342f4ece9b0",
+   "score": 89,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T13:05:00.376188+00:00"
+  },
+  {
+   "faits": [
     "Députés et sénateurs ont adopté l'interdiction des réseaux sociaux aux moins de 15 ans",
     "Le vote a eu lieu mardi 21 juillet"
    ],
@@ -2187,6 +2245,29 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-24T09:40:01.530528+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie de forêt menace Biscarrosse dans les Landes depuis jeudi",
+    "18 000 personnes ont été évacuées de Biscarrosse",
+    "L'incendie a parcouru 2 600 hectares à la mi-journée vendredi",
+    "105 habitations et bâtiments ont été touchés par les flammes"
+   ],
+   "qui": "Habitants et autorités des Landes",
+   "ou": "Biscarrosse, Landes",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 90,
+   "empreinte": "551346ea63ee365b",
+   "score": 87,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T13:05:00.376139+00:00"
   },
   {
    "faits": [
@@ -2213,6 +2294,29 @@
   },
   {
    "faits": [
+    "Le corridor maritime de la mer Noire est paralysé après une série d'attaques russes",
+    "Aucun navire ne rentre dans les ports de la région d'Odessa",
+    "C'est la première paralysie depuis la création du corridor maritime ukrainien en 2023",
+    "La situation menace les exportations agricoles de l'Ukraine et l'approvisionnement mondial en céréales"
+   ],
+   "qui": "Russie, Ukraine, communauté internationale",
+   "ou": "Mer Noire, Odessa, Ukraine",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 86,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 82,
+   "empreinte": "1e5d485014b57436",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T13:05:00.376416+00:00"
+  },
+  {
+   "faits": [
     "Les États membres de la CPI votent sur la révocation de Karim Khan (procureur)",
     "Karim Khan est suspendu pour « usage abusif de pouvoir ou d'autorité » sur son assistante",
     "Le vote se déroule vendredi 24 juillet",
@@ -2233,6 +2337,73 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-24T09:40:01.530536+00:00"
+  },
+  {
+   "faits": [
+    "L'armée américaine a lancé une nouvelle série de frappes contre des cibles militaires en Iran",
+    "Il s'agit de la 13e nuit consécutive de frappes américaines",
+    "Les frappes visent à réduire les menaces du Corps des gardiens de la révolution islamique sur la marine marchande"
+   ],
+   "qui": "Armée américaine, Iran, Corps des gardiens de la révolution islamique",
+   "ou": "Iran, Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 86,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 78,
+   "empreinte": "798eea3489556398",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T13:05:00.376341+00:00"
+  },
+  {
+   "faits": [
+    "Valentin Paret-Peintre passe en tête du col de Bayard",
+    "Valentin Paret-Peintre s'empare du maillot à pois",
+    "La course du jour comprend trois cols compliqués avant une montée vers l'Alpe d'Huez"
+   ],
+   "qui": "Valentin Paret-Peintre",
+   "ou": "Tour de France, Alpe d'Huez",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "f50f10b969a1754b",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T13:05:00.377382+00:00"
+  },
+  {
+   "faits": [
+    "L'UE a infligé à Google un total de 890 millions d'euros d'amendes",
+    "Les amendes concernent des atteintes à la concurrence dans la recherche en ligne",
+    "Les amendes concernent des atteintes à la concurrence au sein du magasin d'application Google Play",
+    "Cette décision risque une nouvelle crise avec Washington"
+   ],
+   "qui": "Union européenne, Google",
+   "ou": null,
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "f560e330177b6bc4",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T13:05:00.377384+00:00"
   },
   {
    "faits": [
@@ -2356,6 +2527,31 @@
   },
   {
    "faits": [
+    "Une nouvelle attaque de drones ukrainiens a touché des entrepôts de Wildberries",
+    "L'attaque a visé des entrepôts à Saint-Pétersbourg",
+    "Il s'agit de la troisième attaque contre Wildberries en quelques jours",
+    "L'Ukraine assure que Wildberries participe à la chaîne de fabrication de matériel militaire"
+   ],
+   "qui": "Ukraine, Wildberries, Russie",
+   "ou": "Saint-Pétersbourg, Russie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 84,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "La participation de Wildberries à la chaîne de fabrication de matériel militaire selon l'Ukraine"
+   ],
+   "importance": 76,
+   "empreinte": "3ba81609e772e181",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T13:05:00.376379+00:00"
+  },
+  {
+   "faits": [
     "Donald Trump doit assister vendredi soir au dîner des correspondants de la Maison Blanche",
     "Cet événement a été reprogrammé trois mois après une tentative d'assassinat présumée le visant lors du gala annuel précédent"
    ],
@@ -2418,6 +2614,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-24T07:14:16.702178+00:00"
+  },
+  {
+   "faits": [
+    "Six candidats se lancent dans la course à la tête de l'ONU",
+    "Les candidats ont participé à un débat le 23 juillet dans la salle de l'Assemblée générale",
+    "Les candidats ont défendu l'importance de restaurer la crédibilité de l'ONU",
+    "Le processus de sélection formel commence une semaine après le débat"
+   ],
+   "qui": "Six candidats au poste de secrétaire général de l'ONU",
+   "ou": "ONU, Assemblée générale",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "e9b8ece725585f0e",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T13:05:00.377396+00:00"
   },
   {
    "faits": [
@@ -2513,6 +2732,28 @@
   },
   {
    "faits": [
+    "110 enfants français sont détenus dans le camp de Roj en Syrie",
+    "Deux orphelines françaises sont abandonnées par l'État français dans le camp de Roj",
+    "L'État français refuse de rapatrier ces deux orphelines"
+   ],
+   "qui": "État français, enfants français, autorités syriennes",
+   "ou": "Camp de Roj, Syrie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "a967b5e330b02c83",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T13:05:00.376454+00:00"
+  },
+  {
+   "faits": [
     "En Inde, un mouvement de contestation étudiant cible Narendra Modi",
     "Les étudiants dénoncent la corruption du système éducatif",
     "Les partis d'opposition soutiennent le mouvement",
@@ -2581,101 +2822,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-24T09:39:53.489273+00:00"
-  },
-  {
-   "faits": [
-    "Une campagne numérique a été lancée en Guinée pour dénoncer les violences sexuelles",
-    "Une vidéo montrant le viol collectif présumé d'une fille mineure a suscité une vague d'indignation",
-    "Le jeudi a été qualifié de 'jeudi noir' contre les violences sexuelles"
-   ],
-   "qui": "Activistes guinéens",
-   "ou": "Guinée",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 78,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "89ec97447c8c0123",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T11:27:32.723250+00:00"
-  },
-  {
-   "faits": [
-    "Des frappes aériennes américaines se poursuivent en Iran pour la treizième nuit consécutive"
-   ],
-   "qui": "États-Unis",
-   "ou": "Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 70,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Détails spécifiques sur les frappes (le titre annonce un direct mais le résumé est vide)"
-   ],
-   "importance": 75,
-   "empreinte": "08aa39202c3ff519",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T07:14:16.702139+00:00"
-  },
-  {
-   "faits": [
-    "En Inde, le leader du « parti des cafards » a arrêté sa grève de la faim après avoir obtenu des garanties du gouvernement",
-    "Le leader est Sonam Wangchuk",
-    "Une journée de protestation nationale a eu lieu pour réclamer la démission du ministre de l'Éducation",
-    "Les protestations portent sur les fraudes à répétition aux examens nationaux",
-    "Le « parti des cafards » s'est popularisé sur les réseaux sociaux"
-   ],
-   "qui": "Sonam Wangchuk, ministre de l'Éducation de l'Inde (non nommé)",
-   "ou": "Inde",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "La nature exacte des garanties obtenues du gouvernement"
-   ],
-   "importance": 45,
-   "empreinte": "db06defbfdf1efb3",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T07:14:36.884710+00:00"
-  },
-  {
-   "faits": [
-    "Un dispositif de sécurité spécifique a été prévu pour une représentation de DJ Barbara Butch en Yonne",
-    "Des gendarmes, des policiers et une unité spécialisée de la police ferroviaire sont mobilisés",
-    "Un dispositif de sécurité privé sera déployé sur le site",
-    "Les organisateurs ont pris des mesures inédites"
-   ],
-   "qui": "DJ Barbara Butch",
-   "ou": "Yonne, France",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Les raisons précises justifiant ce dispositif renforcé"
-   ],
-   "importance": 40,
-   "empreinte": "9ae1c023879f3197",
-   "score": 73,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T07:14:16.702095+00:00"
   }
  ],
  "publies_48h": [
