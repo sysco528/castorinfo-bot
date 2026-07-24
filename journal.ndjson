@@ -5892,3 +5892,36 @@
 {"decision": "controle", "evt": "59e434d6018e7919", "motif": "ok_sim_0.44", "ts": "2026-07-24T04:27:28+00:00"}
 {"decision": "publie", "empreinte": "1939a4f583fa5deb", "post_id": "2080510155288907893", "carte": true, "texte": "🌡️ Des incendies ravagent 6000 hectares en Gironde et Landes. Près de 30000 personnes évacuées en Nouvelle-Aquitaine, dont au Cap-Ferret. Macron demande l'activation du mécanisme de protection civile de l'UE. (franceinfo)", "ts": "2026-07-24T04:27:29+00:00"}
 {"decision": "publie", "empreinte": "76a5cd81c7db9e1f", "post_id": "2080510172342915426", "carte": true, "texte": "Les États-Unis ont lancé vendredi une treizième nuit consécutive de frappes en Iran. Les houthis intensifient leurs attaques en mer Rouge, bloquant le détroit de Bab El-Mandeb. Le pétrole dépasse 100 dollars le baril. (France 24, RFI)", "ts": "2026-07-24T04:27:34+00:00"}
+{"decision": "abandon_attente", "evt": "0bd0a628baac0fe5", "categorie": "meteo_catastrophe", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "4ae318ce386995e8", "categorie": "politique", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "2abceab509d6dd62", "categorie": "international", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "d884fd1b82487b65", "categorie": "meteo_catastrophe", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "cab388b24ed3c412", "categorie": "sport", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "9e59099d0fe9e4c2", "categorie": "international", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "68c12adc810db4ba", "categorie": "sport", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "ab2b124f7628fa59", "categorie": "meteo_catastrophe", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "ba9fea8054da353f", "categorie": "sport", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "1406d946dab439a3", "categorie": "sport", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "444809f874e6a2f2", "categorie": "sport", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "fc76566e7cccb612", "categorie": "meteo_catastrophe", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "a61fc8ab7a205f9b", "categorie": "international", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "e2b246bc09fa332f", "categorie": "international", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "abandon_attente", "evt": "29dc50978b94a552", "categorie": "justice", "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "publier", "evt": "466e68f83d3abbab", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 95, "sources": ["franceinfo", "Le Figaro", "RFI"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "publier", "evt": "7830954fa3cd33a4", "score": 97, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["franceinfo", "France 24", "Ouest-France"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "publier", "evt": "02e5b658cd5a399e", "score": 84, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "publier", "evt": "cf0f86d02c4b2646", "score": 95, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["franceinfo", "France 24"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "publier", "evt": "54d2ade3f89b8255", "score": 83, "categorie": "faits_divers", "sensible": true, "confiance": 92, "sources": ["franceinfo"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "attente", "evt": "9ae1c023879f3197", "score": 73, "categorie": "culture", "sensible": false, "confiance": 75, "sources": ["franceinfo"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "attente", "evt": "08aa39202c3ff519", "score": 76, "categorie": "international", "sensible": true, "confiance": 70, "sources": ["France 24"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "attente", "evt": "71e5cb3254a93364", "score": 82, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "publier", "evt": "db06defbfdf1efb3", "score": 76, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["RFI"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "attente", "evt": "4f951dae4e907075", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "publier", "evt": "9cc5858d8aaf331e", "score": 82, "categorie": "sante", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "attente", "evt": "34217d8eb669c598", "score": 79, "categorie": "justice", "sensible": true, "confiance": 78, "sources": ["franceinfo"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "publier", "evt": "c21ee018298be03e", "score": 76, "categorie": "politique", "sensible": false, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-07-24T07:14:16+00:00"}
+{"decision": "controle", "evt": "466e68f83d3abbab", "motif": "controle_refuse:{\"faits_exacts\": false, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": false}", "ts": "2026-07-24T07:14:23+00:00"}
+{"decision": "controle", "evt": "7830954fa3cd33a4", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-24T07:14:29+00:00"}
+{"decision": "controle", "evt": "cf0f86d02c4b2646", "motif": "ok_sim_0.38", "ts": "2026-07-24T07:14:35+00:00"}
+{"decision": "controle", "evt": "02e5b658cd5a399e", "motif": "similarite_0.67", "ts": "2026-07-24T07:14:36+00:00"}
+{"decision": "publie", "empreinte": "c33c2eba2bd0fd33", "post_id": "2080552216667058330", "carte": true, "texte": "⚡ FLASH — Des drones ukrainiens ont attaqué plusieurs entrepôts de Wildberries, l'équivalent russe d'Amazon, en Russie. Au moins 8 personnes sont mortes. L'Ukraine accuse la plateforme de stocker des composants militaires sous sanctions. (franceinfo, France 24)", "ts": "2026-07-24T07:14:38+00:00"}
