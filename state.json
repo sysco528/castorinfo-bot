@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/un-touriste-francais-porte-disparu-depuis-le-11-juillet-au-perou_8112257.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-frappe-israelienne-fait-huit-morts-pres-d-un-marche-dans-la-bande-de-gaza_8112332.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/bernard-cazeneuve-echangera-avec-francois-hollande-lors-d-un-colloque-a-paris-le-4-septembre_8112230.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/six-departements-du-sud-est-en-vigilance-orange-canicule-le-departement-des-alpes-maritimes-en-alerte-orange-a-partir-de-samedi-midi_8112380.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/venezuela/au-venezuela-le-bilan-du-double-seisme-depasse-desormais-les-5-000-morts_8112368.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/foot/au-debut-il-ne-savait-pas-comment-tenir-le-bebe-les-coulisses-de-la-photo-de-lionel-messi-baignant-lamine-yamal-bebe_8112356.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-les-etats-unis-bombardent-l-iran-pour-la-septieme-nuit-consecutive_8112626.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/la-petite-finale-de-la-coupe-du-monde-ce-match-mal-aime-que-la-fifa-defend-mordicus-depuis-pres-d-un-siecle_8108783.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/info-franceinfo-l-autopsie-de-daniel-siad-suspecte-d-etre-le-rabatteur-de-jeffrey-epstein-n-a-pas-mis-en-evidence-de-cause-immediate-du-deces-a-ce-stade_8120354.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/decouverte/vacances/departs-en-vacances-bison-fute-voit-rouge-vendredi-sur-une-large-partie-du-nord-est-et-du-sud-ouest-du-pays-dans-le-sens-des-departs_8120576.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/cap-ferret-des-milliers-de-vacanciers-evacues-face-a-la-progression-des-flammes_8120636.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-le-peloton-gravit-le-col-du-noyer-avant-de-s-attaquer-aux-pentes-de-la-mythique-alpe-d-huez-suivez-la-19e-etape-avec-nous_8118983.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-le-peloton-gravit-le-col-du-noyer-avant-de-s-attaquer-aux-pentes-de-la-mythique-alpe-d-huez-suivez-la-19e-etape-avec-nous_8118983.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/un-feu-imprevisible-et-vorace-on-fait-le-recit-en-images-des-incendies-en-gironde-et-dans-les-landes_8120582.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/incendies-dans-le-sud-ouest-des-plans-blancs-declenches-dans-les-hopitaux-en-gironde-et-dans-les-landes_8120822.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/palestine/un-israelien-et-quatre-palestiniens-tues-dans-des-affrontements-en-cisjordanie-l-armee-israelienne-annonce-se-preparer-a-mener-une-vaste-operation-antiterroriste_8120618.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/proche-orient/guerre/direct-guerre-au-moyen-orient-nouvelles-frappes-de-l-armee-americaine-en-iran-pour-la-treizieme-nuit-consecutive_8120123.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/can/coupe-d-afrique-des-nations-l-appel-du-senegal-declare-perdant-de-la-finale-2026-sur-tapis-vert-examine-par-le-tribunal-arbitral-du-sport-le-8-octobre_8120852.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -450,8 +450,6 @@
    "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608361/france-angleterre",
-   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-combien-de-militaires-americains-ont-perdu-la-vie-depuis-le-debut-du-conflit-20260718",
    "https://www.lefigaro.fr/actualite-france/incendies-a-fontainebleau-la-situation-se-stabilise-et-mobilise-de-moins-en-moins-de-pompiers-20260718",
    "https://www.lefigaro.fr/flash-actu/paris-un-homme-en-garde-a-vue-pour-avoir-allume-un-incendie-dans-le-bois-de-boulogne-20260718",
    "https://www.lefigaro.fr/international/c-est-un-criminel-de-guerre-le-maire-de-new-york-envisage-d-arreter-netanyahou-en-septembre-lors-de-l-assemblee-generale-de-l-onu-20260718",
@@ -749,14 +747,11 @@
    "https://www.lefigaro.fr/bordeaux/fuir-l-incendie-par-la-mer-le-recit-de-l-exode-express-de-la-presqu-ile-du-cap-ferret-20260724",
    "https://www.lefigaro.fr/bordeaux/rechauffement-canicules-incendies-bordeaux-et-le-bassin-d-arcachon-seront-ils-encore-habitables-en-2050-20260621",
    "https://www.lefigaro.fr/actualite-france/plus-de-50-maisons-detruites-35-000-personnes-evacuees-les-images-de-l-incendie-xxl-en-gironde-20260724",
-   "https://tvmag.lefigaro.fr/programme-tv/people/laura-smet-sophie-davant-laurent-delahousse-quelles-sont-les-celebrites-presentes-au-cap-ferret-20260724"
+   "https://tvmag.lefigaro.fr/programme-tv/people/laura-smet-sophie-davant-laurent-delahousse-quelles-sont-les-celebrites-presentes-au-cap-ferret-20260724",
+   "https://www.lefigaro.fr/actualite-france/journaliste-ecrivain-conseillere-d-elisabeth-borne-les-mille-vies-de-sophie-brocas-nouveau-visage-de-la-lutte-contre-les-incendies-en-gironde-20260724",
+   "https://www.lefigaro.fr/actualite-france/quatre-ans-apres-les-incendies-geants-de-2022-pourquoi-la-gironde-reste-si-vulnerable-aux-feux-20260724"
   ],
   "https://www.france24.com/fr/rss": [
-   "1a6e7614-81dc-11f1-9bf8-8b414f483f1f",
-   "18aaba2c-81eb-11f1-875f-77f4476868cf",
-   "4ad903ce-81ea-11f1-9994-257ce0fa28bf",
-   "3f20c5fe-81bc-11f1-b589-d37e6ad1b671",
-   "90fd1f52-81ea-11f1-a698-77f4476868cf",
    "c4236ffa-81e8-11f1-9cf7-77f4476868cf",
    "fe365ef2-81e1-11f1-a41b-7bd3748971fc",
    "cb726434-81fa-11f1-a60c-6be8dfe14aa3",
@@ -1051,7 +1046,12 @@
    "9163ba5e-8759-11f1-bc06-a9bfc9de241e",
    "f6e0c0c4-8755-11f1-862c-177004e00d19",
    "4801229a-874d-11f1-a331-d31108dcf04a",
-   "375c45aa-873e-11f1-a5da-5545930ce6ba"
+   "375c45aa-873e-11f1-a5da-5545930ce6ba",
+   "0336e882-876d-11f1-bec2-375373b53a72",
+   "5881fcd4-876b-11f1-ae41-375373b53a72",
+   "f1b173c8-8769-11f1-a174-4934a3436f9b",
+   "7e7f39b6-876a-11f1-931f-11b314cb6257",
+   "0c53c658-8761-11f1-b071-d1c391772bdf"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1328,13 +1328,13 @@
    "42b28428-8739-11f1-93e6-71cb154bf8eb",
    "7ddfcc9e-872b-11f1-bb9e-cff60193fc38",
    "59684c78-8740-11f1-8f03-0bec271135f9",
-   "ad449d0a-8732-11f1-8bd1-f3778ee5cdf9"
+   "ad449d0a-8732-11f1-8bd1-f3778ee5cdf9",
+   "9a7fc05e-8760-11f1-95d9-118601b03238",
+   "0dfe2b58-874b-11f1-b362-852f3d9356bc",
+   "75c794b8-874b-11f1-953b-852f3d9356bc",
+   "27a25774-874a-11f1-9feb-852f3d9356bc"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-dorian-godon-devrait-etre-apte-pour-la-13e-etape-malgre-un-protocole-de-commotions-cerebrales-f9a83876-8158-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/espagne/espagne-7-600-hectares-brules-pres-de-saragosse-dans-un-incendie-qui-mettra-des-jours-a-etre-maitrise-94026690-8158-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/meteo/orage/mini-tornade-et-camions-renverses-des-orages-violents-signales-jeudi-soir-dans-la-loire-et-en-isere-21bf9746-8154-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/france-angleterre-vers-un-forfait-chez-les-gardiens-des-bleus-pour-la-petite-finale-de-coupe-du-monde-29160812-8155-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/futsal/futsal-les-groupes-de-d1-d2-d1-feminine-et-u19-sont-connus-pour-la-saison-2026-2027-22ec0962-8152-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/d3-feminine/football-les-groupes-de-d3f-devoiles-avec-un-groupe-a-tres-a-louest-ce065f42-8151-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/argentine-angleterre-suspension-amende-que-risque-lalbiceleste-apres-le-deploiement-dune-banderole-politique-ceb461ba-813c-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1630,7 +1630,11 @@
    "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-les-incendies-qui-font-rage-dans-le-sud-de-la-france-3d4bdc46-86cb-11f1-972b-8822177e2f94?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tourisme/connaissez-vous-les-7-plus-beaux-spots-de-la-cote-demeraude-9d96bcae-5527-11f1-a8af-559ef5894fc2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-les-temps-seront-ils-geles-a-paris-a-cause-des-conditions-meteorologiques-8f8db822-8729-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/temoignages-je-ne-voulais-pas-y-croire-en-gironde-et-dans-les-landes-angoisse-et-solidarite-face-aux-incendies-7bdc7a0a-8744-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/faits-divers/incendie/temoignages-je-ne-voulais-pas-y-croire-en-gironde-et-dans-les-landes-angoisse-et-solidarite-face-aux-incendies-7bdc7a0a-8744-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://programmetv.ouest-france.fr/plateformes/apple-tv-plus/the-morning-show-la-cinquieme-saison-de-la-serie-avec-reese-witherspoon-et-jennifer-aniston-sera-la-derniere-4536b702-874b-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/bretagne/rennes-35000/on-apercevait-les-flammes-depuis-la-piscine-les-animateurs-protegent-300-enfants-de-ce-centre-de-loisirs-a-rennes-19e4d536-8762-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/faits-divers/un-pere-et-sa-fille-se-perdent-en-randonnant-dans-le-gard-ils-sont-retrouves-epuises-cinq-heures-plus-tard-5a2615e2-876c-11f1-80e5-03ffc2b22a3a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/faits-divers/une-factrice-mordue-au-visage-par-un-chien-lors-de-sa-tournee-dans-une-commune-du-nord-de-la-sarthe-3ed55c58-8758-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2116,6 +2120,33 @@
  "evenements_attente": [
   {
    "faits": [
+    "Un incendie s'est déclenché mercredi en Gironde près de la presqu'île du Cap Ferret",
+    "Un autre incendie est survenu jeudi dans les Landes",
+    "Des milliers d'hectares ont été brûlés (environ 12 500 hectares selon les sources)",
+    "Plus de 55 000 personnes ont été évacuées (44 000 à 55 000 selon les sources)",
+    "Des plans blancs ont été déclenchés dans les hôpitaux en Gironde et dans les Landes",
+    "L'incendie est décrit comme 'imprévisible' et 'vorace'"
+   ],
+   "qui": null,
+   "ou": "Gironde, Landes, presqu'île du Cap Ferret (France)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "France 24",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 90,
+   "empreinte": "e22b7013d1ea2e62",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-24T15:04:39.547210+00:00"
+  },
+  {
+   "faits": [
     "Un incendie en Gironde a ravagé plus de 10 000 hectares",
     "35 000 personnes ont été évacuées du Cap-Ferret en deux jours",
     "Plus de 50 maisons ont été détruites",
@@ -2176,6 +2207,32 @@
   },
   {
    "faits": [
+    "Donald Trump annonce de nouveaux droits de douane sur les produits provenant d'une soixantaine de pays",
+    "Ces tarifs visent les principaux partenaires commerciaux des États-Unis",
+    "L'annonce intervient six mois après une décision de la Cour suprême jugeant illégaux la plupart des tarifs précédents",
+    "L'Union européenne figure parmi les pays relativement bien lotis mais reste préoccupée"
+   ],
+   "qui": "Donald Trump (président américain), Karoline Leavitt (porte-parole de la Maison Blanche)",
+   "ou": "États-Unis",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [
+    "Les droits de douane devraient être annoncés 'très prochainement'"
+   ],
+   "importance": 75,
+   "empreinte": "90625d307ee66ca8",
+   "score": 93,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-24T15:04:39.547217+00:00"
+  },
+  {
+   "faits": [
     "Deux incendies à l'ouest de Madrid (San Martín et Villa del Prado) sont sur le point de fusionner",
     "Un incendie particulièrement virulent frappe la province d'Ávila, au nord-ouest de Madrid",
     "Des milliers d'habitants ont dû être évacués dans la province d'Ávila",
@@ -2224,6 +2281,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-24T13:05:00.376188+00:00"
+  },
+  {
+   "faits": [
+    "Quatre Palestiniens et deux Israéliens ont été tués dans des affrontements en Cisjordanie occupée",
+    "Benyamin Nétanyahou a qualifié l'événement d''attentat meurtrier'",
+    "Israël a annoncé une 'vaste opération antiterroriste'",
+    "Israël annonce l'accélération de la légalisation d'avant-postes de colonies"
+   ],
+   "qui": "Benyamin Nétanyahou (Premier ministre israélien), Palestiniens, Israéliens",
+   "ou": "Cisjordanie occupée",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "9d95cbd74dbf9c3e",
+   "score": 89,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T15:04:39.547220+00:00"
   },
   {
    "faits": [
@@ -2291,6 +2371,53 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-24T09:40:01.530533+00:00"
+  },
+  {
+   "faits": [
+    "L'armée jordanienne déclare avoir abattu sept missiles et six drones en provenance d'Iran",
+    "Cette interception suit une treizième nuit de frappes américaines",
+    "L'armée américaine a visé le quartier général de la marine des Gardiens de la Révolution",
+    "Aucune victime n'est signalée selon les autorités locales citées par l'agence Irna"
+   ],
+   "qui": "Armée jordanienne, armée américaine, Iran",
+   "ou": "Moyen-Orient, Jordanie, Iran",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "Absence de victimes selon les autorités locales"
+   ],
+   "importance": 80,
+   "empreinte": "347e44246021131c",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T15:04:39.547225+00:00"
+  },
+  {
+   "faits": [
+    "Au moins 19 000 personnes ont été évacuées ou sont confinées dans la région de Madrid",
+    "Un incendie décrit comme le 'pire de l'histoire' de la région madrilène a ravagé 6 000 hectares",
+    "La présidente régionale Isabel Díaz Ayuso a annoncé ces chiffres vendredi 24 juillet"
+   ],
+   "qui": "Isabel Díaz Ayuso (présidente régionale)",
+   "ou": "Région de Madrid, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "401206f885dd1583",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T15:04:39.545713+00:00"
   },
   {
    "faits": [
@@ -2502,31 +2629,6 @@
   },
   {
    "faits": [
-    "Un ostéopathe des Pyrénées-Atlantiques a été mis en examen pour viol et agressions sexuelles",
-    "L'homme est un ancien élu FN et ex-joueur de rugby",
-    "Il exerçait à Bassussarry",
-    "Plusieurs patientes ont porté plainte"
-   ],
-   "qui": "Ostéopathe non nommé, ancien élu FN, ex-joueur de rugby",
-   "ou": "Bassussarry, Pyrénées-Atlantiques, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Les allégations de patients concernant l'hypnose et la soumission"
-   ],
-   "importance": 65,
-   "empreinte": "02e5b658cd5a399e",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T07:14:36.884695+00:00"
-  },
-  {
-   "faits": [
     "Une nouvelle attaque de drones ukrainiens a touché des entrepôts de Wildberries",
     "L'attaque a visé des entrepôts à Saint-Pétersbourg",
     "Il s'agit de la troisième attaque contre Wildberries en quelques jours",
@@ -2573,47 +2675,50 @@
   },
   {
    "faits": [
-    "Un enfant de 2 ans s'est noyé dans une piscine privée en Isère jeudi soir",
-    "L'enfant a échappé à la vigilance de ses parents",
-    "Les pompiers n'ont pas pu le ranimer"
+    "Rached Ghannouchi, opposant tunisien emprisonné et chef du parti islamiste Ennahdha, est dans un état 'critique' selon ses avocats",
+    "Il s'est évanoui et se trouve en état d'épuisement le 23 juillet 2026",
+    "Il a 85 ans",
+    "Il a été condamné à plusieurs dizaines d'années de prison et à la perpétuité dans plusieurs affaires"
    ],
-   "qui": null,
-   "ou": "Isère, France",
-   "categorie": "faits_divers",
+   "qui": "Rached Ghannouchi",
+   "ou": "Tunisie",
+   "categorie": "sante",
    "sensible": true,
-   "confiance": 92,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "État de santé 'critique' selon ses avocats"
+   ],
+   "importance": 70,
+   "empreinte": "fa2a5cf2c406ede6",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T15:04:39.546014+00:00"
+  },
+  {
+   "faits": [
+    "Le Tribunal arbitral du sport examinera l'appel du Sénégal concernant la finale 2026 de la Coupe d'Afrique des nations",
+    "Le Sénégal avait été déclaré perdant de la finale 'sur tapis vert'",
+    "L'audience aura lieu le 8 octobre"
+   ],
+   "qui": "Sénégal, Tribunal arbitral du sport (TAS)",
+   "ou": "International (sport)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 50,
-   "empreinte": "54d2ade3f89b8255",
-   "score": 83,
+   "importance": 60,
+   "empreinte": "1ddef23138413c1c",
+   "score": 82,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-24T07:14:36.884704+00:00"
-  },
-  {
-   "faits": [
-    "Le statut de protection temporaire (TPS) pour les Haïtiens aux États-Unis doit prendre fin le 27 juillet",
-    "Plus de 300 000 ressortissants haïtiens risquent de perdre leur protection contre l'expulsion",
-    "Des milliers de familles haïtiennes dépendent des transferts d'argent de la diaspora"
-   ],
-   "qui": "Ressortissants haïtiens aux États-Unis",
-   "ou": "Haiti, États-Unis (Port-au-Prince, New York)",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "71e5cb3254a93364",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T07:14:16.702178+00:00"
+   "depuis": "2026-07-24T15:04:39.547239+00:00"
   },
   {
    "faits": [
@@ -2729,99 +2834,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-24T09:40:01.530554+00:00"
-  },
-  {
-   "faits": [
-    "110 enfants français sont détenus dans le camp de Roj en Syrie",
-    "Deux orphelines françaises sont abandonnées par l'État français dans le camp de Roj",
-    "L'État français refuse de rapatrier ces deux orphelines"
-   ],
-   "qui": "État français, enfants français, autorités syriennes",
-   "ou": "Camp de Roj, Syrie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "a967b5e330b02c83",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T13:05:00.376454+00:00"
-  },
-  {
-   "faits": [
-    "En Inde, un mouvement de contestation étudiant cible Narendra Modi",
-    "Les étudiants dénoncent la corruption du système éducatif",
-    "Les partis d'opposition soutiennent le mouvement",
-    "Plusieurs personnalités de Bollywood ont apporté leur soutien"
-   ],
-   "qui": "Narendra Modi, partis d'opposition indiens, étudiants, personnalités de Bollywood",
-   "ou": "Inde",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "f24ebeb0ce14fd4d",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530556+00:00"
-  },
-  {
-   "faits": [
-    "2026 s'annonce comme l'une des pires années sur le front des incendies",
-    "Des feux de forêt hors normes sont observés en 2026",
-    "La respiration de fumées représente un risque sanitaire"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 78,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "l'évaluation précise du nombre d'hectares brûlés"
-   ],
-   "importance": 70,
-   "empreinte": "fbf188010e048c67",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T09:39:53.489821+00:00"
-  },
-  {
-   "faits": [
-    "L'amant de Delphine Aussaguel critique les aveux de Cédric Jubillar",
-    "L'amant affirme que Cédric Jubillar avait l'intention de « détruire » le corps de sa femme",
-    "Cédric Jubillar aurait envisagé d'enfouir le corps dans un compost ou tas de fumier"
-   ],
-   "qui": "Donat-Jean (amant de Delphine Aussaguel), Cédric Jubillar",
-   "ou": null,
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "l'intention précise de Cédric Jubillar (selon l'amant)"
-   ],
-   "importance": 65,
-   "empreinte": "805e50c894d4bd71",
-   "score": 78,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T09:39:53.489273+00:00"
   }
  ],
  "publies_48h": [
