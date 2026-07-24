@@ -2,12 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/politique/parlement-francais/senat/le-senat-exclut-temporairement-la-centriste-christine-herzog-soupconnee-de-harcelement-et-de-detournement-de-fonds_8111702.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/mauro-schmid-remporte-la-13e-etape-la-plus-longue-du-tour-de-france-2026-au-terme-d-une-journee-animee_8111765.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/il-faisait-deja-29-c-a-10-heures-deux-compagnies-de-crs-refusent-de-se-cantonner-dans-le-var-en-raison-des-fortes-chaleurs-dans-leur-hebergement_8111831.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/la-france-bloque-completement-l-acces-a-polymarket-le-site-americain-de-paris-sur-l-actualite_8112008.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-radio/info-culture/aux-rencontres-d-arles-des-regards-sur-l-amerique-et-les-grands-noms-de-la-photographie_8063867.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/elections/presidentielle/mefiez-vous-des-sondages-emmanuel-macron-interroge-sur-une-potentielle-victoire-du-rn-en-2027_8111972.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/si-l-objectif-etait-de-rendre-le-pass-sport-inefficace-il-serait-difficile-de-s-y-prendre-autrement-tance-le-cnosf-a-un-mois-et-demi-de-la-rentree-scolaire_8111750.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/afrique/algerie/capitulation-aplaventrisme-le-rn-et-la-droite-s-insurgent-contre-la-hausse-des-visas-pour-les-algeriens-envisagee-par-paris_8111960.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/plus-de-200-000-euros-mobilises-en-24-heures-par-la-fondation-du-patrimoine-pour-les-incendies-en-foret-de-fontainebleau_8112131.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +295,13 @@
    "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-enquete-ouverte-contre-un-agent-du-secret-service-de-j-d-vance-pour-fuite-presumee-d-informations_8119859.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/justice/une-enquete-ouverte-a-paris-contre-le-reseau-libertin-wyylde-soupconne-d-avoir-ete-utilise-dans-une-affaire-de-viols-collectifs-filmes-en-gironde_8119871.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/justice/soupconne-de-faire-partie-de-la-flotte-fantome-russe-le-petrolier-immobilise-a-marseille-autorise-a-repartir-apres-paiement-d-une-amende_8119811.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/face-aux-incendies-emmanuel-macron-demande-l-activation-du-mecanisme-de-protection-civile-de-l-ue-des-renforts-aeriens-europeens-attendus-rapidement_8119946.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/face-aux-incendies-emmanuel-macron-demande-l-activation-du-mecanisme-de-protection-civile-de-l-ue-des-renforts-aeriens-europeens-attendus-rapidement_8119946.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-comparez-l-ampleur-de-la-surface-brulee-cette-annee-par-les-incendies-avec-la-taille-de-votre-commune_8117633.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-il-y-a-de-la-fumee-la-bas-a-marseille-des-scouts-sillonnent-les-calanques-pour-traquer-les-incendies_8116745.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/usa/midterms-2018/si-les-prix-a-la-pompe-continuent-d-augmenter-ce-sera-un-vrai-probleme-la-guerre-avec-l-iran-pourrait-elle-couter-cher-a-donald-trump-lors-des-elections-de-mi-mandat_8117624.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/drogue/ce-que-l-on-sait-de-la-video-des-hommes-cagoules-qui-se-presentent-comme-etant-des-membres-de-la-dz-mafia-et-nient-avoir-menace-le-maire-d-ales_8119217.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/tour-de-france-2026-horaires-parcours-routes-barrees-tout-savoir-sur-l-etape-du-25-juillet-entre-le-bourg-d-oisans-et-l-alpe-d-huez-3380917.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -438,11 +438,6 @@
    "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/societes/je-n-aurais-jamais-imagine-l-ampleur-que-ca-allait-prendre-l-insolent-succes-de-climloc-marchand-d-air-frais-sous-le-feu-des-critiques-20260718",
-   "https://www.lefigaro.fr/histoire/heureux-qui-comme-ulysse-sylvain-tesson-met-les-voiles-sur-les-traces-du-celebre-heros-20260718",
-   "https://www.lefigaro.fr/histoire/l-odyssee-de-christopher-nolan-un-produit-marketing-irreprochable-qui-peine-a-capturer-le-mythe-20260718",
-   "https://www.lefigaro.fr/vox/histoire/michel-de-jaeghere-l-odyssee-les-splendeurs-de-la-paix-20260717",
-   "https://www.lefigaro.fr/politique/folie-absolue-reactions-politiques-indignees-apres-l-opposition-de-lfi-a-la-perpetuite-pour-les-viols-en-serie-sur-mineurs-de-moins-de-15-ans-20260718",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-pogacar-assomme-encore-plus-la-concurrence-et-remporte-la-14e-etape-20260718",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-avant-france-angleterre-posez-toutes-vos-questions-a-nos-journalistes-20260718",
    "https://tvmag.lefigaro.fr/programme-tv/actu-tele/tf1-un-comedien-du-feuilleton-ici-tout-commence-ecarte-du-tournage-apres-une-violente-altercation-20260718",
@@ -737,11 +732,14 @@
    "https://www.lefigaro.fr/meteo/totalement-inedit-avec-le-retour-de-la-canicule-la-semaine-prochaine-quelles-seront-les-regions-les-plus-touchees-20260723",
    "https://www.lefigaro.fr/conjoncture/la-maison-blanche-annonce-de-nouveaux-droits-de-douane-a-partir-de-vendredi-20260723",
    "https://www.lefigaro.fr/secteur/high-tech/piratage-sans-precedent-par-chatgpt-quand-l-ia-devient-indomptable-entre-complots-triche-et-projets-d-assassinat-20260723",
-   "https://www.lefigaro.fr/musique/tous-les-hommes-blancs-a-l-arriere-la-chanteuse-sophie-straat-sous-le-feu-des-critiques-apres-ses-propos-lors-d-un-festival-en-belgique-20260723"
+   "https://www.lefigaro.fr/musique/tous-les-hommes-blancs-a-l-arriere-la-chanteuse-sophie-straat-sous-le-feu-des-critiques-apres-ses-propos-lors-d-un-festival-en-belgique-20260723",
+   "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
+   "https://www.lefigaro.fr/actualite-france/sous-l-effet-des-canicules-l-inquietante-hausse-des-deces-chez-les-animaux-de-compagnie-20260723",
+   "https://www.lefigaro.fr/sciences/les-elevages-bretons-ont-souffert-des-canicules-et-redoutent-maintenant-la-secheresse-20260723",
+   "https://www.lefigaro.fr/international/bab-el-mandeb-l-autre-detroit-qui-menace-d-etrangler-le-petrole-mondial-20260723",
+   "https://www.lefigaro.fr/politique/emotion-blagues-et-mondanites-a-l-elysee-les-coulisses-des-ceremonies-de-decoration-d-emmanuel-macron-20260724"
   ],
   "https://www.france24.com/fr/rss": [
-   "8003186a-818a-11f1-a794-8997a8a8e492",
-   "b0cdc33c-8130-11f1-a3ec-71e2cddb4b69",
    "1bb11f40-81c8-11f1-b82b-9d39467a08bb",
    "a5e9055a-81bf-11f1-960f-c7637cda2800",
    "fbe01340-81bf-11f1-ba48-c7637cda2800",
@@ -1039,7 +1037,9 @@
    "3449606a-86d4-11f1-97f7-97471aff8818",
    "b9a65bbc-86c2-11f1-8b3f-9bd2ed216422",
    "5ad70142-86e8-11f1-b2f9-55199c4badd2",
-   "b472f794-86dc-11f1-95b0-e704118d06ff"
+   "b472f794-86dc-11f1-95b0-e704118d06ff",
+   "b5a334ee-8704-11f1-9ef9-159ab5435f5b",
+   "c0ea5c18-8701-11f1-b933-159ab5435f5b"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1305,14 +1305,11 @@
    "065cd410-86a3-11f1-b229-41f6cfc017ea",
    "6787a5d4-86a9-11f1-88e0-0388c9290f24",
    "ce248fca-86e3-11f1-a170-f1475f965a5a",
-   "bb08452a-86da-11f1-88e5-31fc64c1b9e6"
+   "bb08452a-86da-11f1-88e5-31fc64c1b9e6",
+   "fe69ed56-8715-11f1-bb11-919e0bb0b8c9",
+   "9fdf99e4-7fa3-11f1-9189-297832b44f6d"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-superstitieux-javier-milei-nira-pas-assister-a-la-finale-argentine-espagne-0ec2930e-8141-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/prison/pourquoi-ne-peut-on-pas-les-extraire-de-prison-des-detenus-plus-rares-sur-les-bancs-du-tribunal-de-saint-nazaire-6589fb92-805a-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-incroyable-william-saliba-a-joue-tout-le-mondial-avec-les-bleus-en-souffrant-dune-fracture-du-dos-f876daf8-814d-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-la-fifa-annonce-que-sa-commission-de-discipline-examinera-laffaire-de-la-banderole-des-argentins-8d69f220-814a-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-lamine-yamal-et-pedro-porro-menages-a-lentrainement-a-trois-jours-de-la-finale-espagne-argentine-51b893c4-814c-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-long-human-rights-watch-appelle-a-une-minute-de-silence-en-hommage-aux-personnes-tuees-par-lice-4c9ea264-8149-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sante/virus/virus-du-nil-occidental-un-premier-cas-autochtone-identifie-en-france-cette-annee-23fe6af2-815c-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/affaire-jubillar/cedric-jubillar-sest-enferre-dans-un-mensonge-declare-son-avocat-apres-ses-aveux-devant-la-justice-27202628-815a-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1607,7 +1604,12 @@
    "https://www.ouest-france.fr/faits-divers/violence-sexuelle/viol/viols-filmes-en-gironde-enquete-a-paris-visant-le-reseau-libertin-wyylde-0863e026-86e1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/tunisie/tunisie-lopposant-rached-ghannouchi-dans-un-etat-critique-selon-ses-avocats-a54b82dc-86db-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/etats-unis/le-ministere-americain-de-la-justice-annule-les-citations-a-comparaitre-de-journalistes-du-new-york-times-4fa225a8-86e4-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/etats-unis/new-york/deux-personnes-blessees-au-couteau-a-new-york-lauteur-crie-allah-akbar-3a00ac7e-86f3-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/monde/etats-unis/new-york/deux-personnes-blessees-au-couteau-a-new-york-lauteur-crie-allah-akbar-3a00ac7e-86f3-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendies-en-nouvelle-aquitaine-6000-hectares-brules-et-pres-de-30-000-evacues-des-renforts-aeriens-attendus-9dc071be-870b-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/michael-olise/video-michael-olise-joue-au-football-avec-des-inconnus-a-new-york-en-chaussettes-04ce9d80-86d6-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/entretien-vincent-lavenu-paul-seixas-a-besoin-de-respirer-de-serrer-des-mains-il-ne-faut-pas-le-surproteger-5ee0ee02-86ab-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-menace-americaine-de-punition-majeure-attaques-en-mer-rouge-les-dernieres-infos-6694a566-8652-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-les-incendies-qui-font-rage-dans-le-sud-de-la-france-3d4bdc46-86cb-11f1-972b-8822177e2f94?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2093,36 +2095,13 @@
  "evenements_attente": [
   {
    "faits": [
-    "Épidémie d'Ebola en RDC et Ouganda",
-    "Plus d'un millier de morts selon le dernier bilan de l'OMS",
-    "L'OMS estime que le virus a une longueur d'avance sur la riposte"
+    "Incendies massifs en Espagne près de Madrid",
+    "L'Espagne a déclaré l'état d'urgence national",
+    "Incendies en Europe du Sud"
    ],
-   "qui": "OMS",
-   "ou": "RDC, Ouganda",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "6869377b8a0581f4",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T20:18:28.657711+00:00"
-  },
-  {
-   "faits": [
-    "Le bilan d'Ebola en RDC et en Ouganda dépasse 1 000 morts selon l'OMS",
-    "La barre des mille morts pour Ebola a été franchie en RDC",
-    "En Ituri, foyer épidémique, deux essais cliniques ouvrent une piste encourageante",
-    "L'agence sanitaire de l'Union africaine demande aux États-Unis de lever les restrictions de voyage"
-   ],
-   "qui": "OMS; Agence sanitaire de l'Union africaine",
-   "ou": "RDC; Ouganda",
-   "categorie": "sante",
+   "qui": "Espagne, gouvernement espagnol",
+   "ou": "Espagne, Madrid",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 88,
    "sources": [
@@ -2130,38 +2109,11 @@
    ],
    "non_confirme": [],
    "importance": 75,
-   "empreinte": "0b74f9c01a942ce1",
+   "empreinte": "4f951dae4e907075",
    "score": 84,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-23T21:32:01.832918+00:00"
-  },
-  {
-   "faits": [
-    "Mineur étranger mis en examen et écroué",
-    "Accusé du viol d'une octogénaire à Rennes",
-    "L'agression a eu lieu le 4 juillet",
-    "Victime âgée de 80 ans",
-    "Suspect identifié par ADN et vidéosurveillance",
-    "Suspect serait né en 2009 au Maroc selon le procureur"
-   ],
-   "qui": null,
-   "ou": "Rennes, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Lieu de naissance exact du suspect (présenté comme 'selon le procureur')"
-   ],
-   "importance": 65,
-   "empreinte": "e6e353f2200dc96b",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T20:18:28.659343+00:00"
+   "depuis": "2026-07-24T04:27:18.363677+00:00"
   },
   {
    "faits": [
@@ -2192,31 +2144,6 @@
   },
   {
    "faits": [
-    "Une quatrième canicule est annoncée pour la semaine suivante",
-    "Elle concernera environ trois quarts du territoire français",
-    "Des températures maximales proches de 40°C sont prévues",
-    "Cet événement serait sans précédent depuis 1945 selon La Chaîne météo"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "caractère « totalement inédit »"
-   ],
-   "importance": 85,
-   "empreinte": "fbf188010e048c67",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T21:32:01.832764+00:00"
-  },
-  {
-   "faits": [
     "Un agent du Secret Service de J.D. Vance fait l'objet d'une enquête pour fuite présumée d'informations",
     "L'agent est accusé d'avoir fait fuiter des informations à l'origine de révélations sur le souhait du vice-président américain d'utiliser un hélicoptère militaire pour emmener son fils au golf"
    ],
@@ -2235,6 +2162,30 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T22:34:47.040807+00:00"
+  },
+  {
+   "faits": [
+    "Les canicules à répétition causent une hausse des décès chez les animaux de compagnie",
+    "Les services d'urgences vétérinaires font face à un pic de mortalité inédit",
+    "Les canicules impactent durement les animaux d'élevage",
+    "En Bretagne, des éleveurs réduisent le nombre de traites quotidiennes pour préserver leurs troupeaux",
+    "Xavier Goubin a réduit la traite à une fois par jour, perdant 20% de sa production de lait"
+   ],
+   "qui": "Vétérinaires, services d'urgences vétérinaires, éleveurs (Xavier Goubin)",
+   "ou": "France, Bretagne, Côtes-d'Armor",
+   "categorie": "sante",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "9cc5858d8aaf331e",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T04:27:28.712966+00:00"
   },
   {
    "faits": [
@@ -2331,6 +2282,30 @@
   },
   {
    "faits": [
+    "Une vidéo montre six hommes cagoulés, gantés et vêtus de noir se présentant comme membres de la DZ Mafia",
+    "Ces hommes nient être à l'origine des menaces contre le maire d'Alès, Christophe Rivenq",
+    "Le maire Christophe Rivenq a été exfiltré de son domicile par le Raid en pleine nuit lundi"
+   ],
+   "qui": "DZ Mafia, Christophe Rivenq (maire d'Alès), Raid",
+   "ou": "Alès",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 78,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "Responsabilité de la DZ Mafia dans les menaces contre le maire"
+   ],
+   "importance": 60,
+   "empreinte": "34217d8eb669c598",
+   "score": 79,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T04:27:18.363713+00:00"
+  },
+  {
+   "faits": [
     "Nicolás Otamendi annonce sa retraite internationale",
     "Cette annonce intervient quelques jours après la finale de la Coupe du monde perdue par l'Argentine contre l'Espagne (0-1, a.p.)",
     "Otamendi a disputé 139 sélections avec l'Albiceleste",
@@ -2401,6 +2376,27 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T23:33:32.725473+00:00"
+  },
+  {
+   "faits": [
+    "Emmanuel Macron remet des insignes de la Légion d'honneur et du Mérite à un rythme soutenu",
+    "Les cérémonies de décoration sont une facette du pouvoir présidentiel"
+   ],
+   "qui": "Emmanuel Macron",
+   "ou": "Palais de l'Élysée",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "c21ee018298be03e",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T04:27:28.712982+00:00"
   },
   {
    "faits": [
@@ -2539,14 +2535,6 @@
  ],
  "publies_48h": [
   [
-   "c96707eae0104603",
-   "2026-07-22T01:11:55.078114+00:00"
-  ],
-  [
-   "a4fb33923063884e",
-   "2026-07-22T01:11:59.141074+00:00"
-  ],
-  [
    "e3a5e4a8b90972c6",
    "2026-07-22T04:39:51.438227+00:00"
   ],
@@ -2625,17 +2613,17 @@
   [
    "8a32d222ed4df0ce",
    "2026-07-24T01:03:22.782265+00:00"
+  ],
+  [
+   "1939a4f583fa5deb",
+   "2026-07-24T04:27:29.977718+00:00"
+  ],
+  [
+   "76a5cd81c7db9e1f",
+   "2026-07-24T04:27:34.032104+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "204deaaa1fb728a7",
-   "2026-07-22T01:11:48.915189+00:00"
-  ],
-  [
-   "30f87c713ecaf801",
-   "2026-07-22T01:11:53.690265+00:00"
-  ],
   [
    "dd13ad82e8a24190",
    "2026-07-22T04:39:45.201893+00:00"
@@ -2715,6 +2703,14 @@
   [
    "cb36f6ee44cc163d",
    "2026-07-24T01:03:17.762182+00:00"
+  ],
+  [
+   "9e3ad471c3d12490",
+   "2026-07-24T04:27:23.609202+00:00"
+  ],
+  [
+   "59e434d6018e7919",
+   "2026-07-24T04:27:28.712931+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2723,12 +2719,14 @@
   "🎭 Le concert gratuit d'Amir à Marseille annulé pour raisons de sécurité, après appels au boycott du collectif Union Palestine Marseille. Un autre concert à Rognac maintenu sous surveillance. Le Crif exprime son inquiétude. (franceinfo, Le Figaro)",
   "Les tensions États-Unis-Iran s'intensifient au Moyen-Orient. Washington envoie des renforts militaires tandis que le conflit s'étend en mer Rouge avec les rebelles houthistes. L'armée américaine a frappé l'île de Qeshm. (Le Figaro, 20 Minutes)",
   "Six candidats ont débattu jeudi à New York pour succéder à António Guterres à la tête de l'ONU en janvier 2027. Macky Sall est le seul représentant africain parmi les postulants. (France 24, RFI)",
-  "Macron active le mécanisme de protection civile de l'UE face aux incendies en France, décrite comme « sous très forte tension ». La France reçoit des renforts aériens croates, portugais, tchèques et slovaques. (franceinfo)"
+  "Macron active le mécanisme de protection civile de l'UE face aux incendies en France, décrite comme « sous très forte tension ». La France reçoit des renforts aériens croates, portugais, tchèques et slovaques. (franceinfo)",
+  "🌡️ Des incendies ravagent 6000 hectares en Gironde et Landes. Près de 30000 personnes évacuées en Nouvelle-Aquitaine, dont au Cap-Ferret. Macron demande l'activation du mécanisme de protection civile de l'UE. (franceinfo)",
+  "Les États-Unis ont lancé vendredi une treizième nuit consécutive de frappes en Iran. Les houthis intensifient leurs attaques en mer Rouge, bloquant le détroit de Bab El-Mandeb. Le pétrole dépasse 100 dollars le baril. (France 24, RFI)"
  ],
  "recap_date": "2026-07-23",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-24",
-  "publies": 6
+  "publies": 8
  }
 }
