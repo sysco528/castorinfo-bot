@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/grele-tornade-les-violents-orages-font-d-importants-degats-en-france_8112224.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-leslie-et-kevin/le-proces-concernant-l-assassinat-de-leslie-et-kevin-en-2022-aura-lieu-au-printemps-2027_8112239.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/incendies-de-fontainebleau-les-images-impressionnantes-de-la-foret-devastee-apres-une-semaine-de-lutte-contre-les-flammes_8112290.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-milliers-de-personnes-manifestent-a-kiev-contre-l-eviction-du-ministre-de-la-defense_8112320.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-aveux-de-cedric-jubillar-sont-ils-une-strategie-pour-reduire-sa-peine-l-avis-d-une-avocate-specialisee-en-feminicides_8112275.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/lors-de-la-canicule-de-juin-la-mortalite-en-ile-de-france-a-plus-que-double-par-rapport-a-la-normale_8112194.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/un-touriste-francais-porte-disparu-depuis-le-11-juillet-au-perou_8112257.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/l-amant-de-delphine-aussaguel-denonce-les-aveux-malhonnetes-et-empreints-d-une-grande-perversion-de-cedric-jubillar_8120438.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/doublement-des-franchises-medicales-et-hausse-du-ticket-moderateur-les-economies-esperees-sont-de-pres-de-3-milliards-d-euros_8120318.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-les-ecologistes-et-lfi-saisissent-le-conseil-constitutionnel_8120381.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/impots/impots-des-millions-de-francais-rembourses-a-partir-du-24-juillet_8116445.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/economie/impots/impots-des-millions-de-francais-rembourses-a-partir-du-24-juillet_8116445.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/trois-choses-a-savoir-sur-les-remboursements-auxquels-vous-avez-droit-si-vos-vacances-sont-annulees-ou-perturbees-en-raison-des-incendies_8120591.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/fonctionnement-moyens-disponibles-on-repond-a-quatre-questions-sur-le-mecanisme-de-protection-civile-de-l-union-europeenne-dont-l-activation-a-ete-demandee-par-emmanuel-macron_8120162.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/info-franceinfo-l-autopsie-de-daniel-siad-suspecte-d-etre-le-rabatteur-de-jeffrey-epstein-n-a-pas-mis-en-evidence-de-cause-immediate-du-deces-a-ce-stade_8120354.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/decouverte/vacances/departs-en-vacances-bison-fute-voit-rouge-vendredi-sur-une-large-partie-du-nord-est-et-du-sud-ouest-du-pays-dans-le-sens-des-departs_8120576.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -450,13 +450,6 @@
    "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/soutien-de-viktor-orban-le-president-hongrois-tamas-sulyok-va-finalement-demissionner-20260718",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-inoubliable-je-n-ai-jamais-rien-vu-de-pareil-pogacar-impressionne-par-la-foule-immense-dans-les-vosges-20260718",
-   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-ce-que-l-on-sait-de-la-mort-de-deux-soldats-americains-en-jordanie-apres-une-attaque-iranienne-20260718",
-   "https://avis-vin.lefigaro.fr/economie-du-vin/je-sais-que-je-vais-payer-ma-boisson-au-meme-prix-que-dans-un-bar-a-monaco-mais-c-est-le-rituel-la-strategie-payante-de-la-sncf-dans-ses-wagons-bars-20260718",
-   "https://www.lefigaro.fr/sports/football/equipe-de-france/coupe-du-monde-2026-je-me-sens-privilegie-mbappe-rend-hommage-a-deschamps-avant-le-match-face-a-l-angleterre-20260718",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/le-carnet-de-route-de-paul-seixas-incroyable-un-tour-magnifiquement-dur-savoure-le-nouveau-maillot-blanc-20260718",
-   "https://www.lefigaro.fr/actualite-france/quand-on-exclut-les-enfants-on-exclut-les-parents-ces-lieux-qui-nagent-a-contre-courant-de-la-tendance-no-kids-20260718",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/mbappe-titulaire-six-changements-la-compo-des-bleus-est-tombee-pour-defier-l-angleterre-20260718",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-jour-de-petite-finale-pour-les-bleus-trump-invite-la-presidente-mexicaine-haaland-plus-populaire-que-jamais-20260718",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-je-n-ai-pas-envie-d-aller-en-prison-ironise-l-espagnol-borja-iglesias-qui-se-resout-a-saluer-trump-20260718",
@@ -749,18 +742,16 @@
    "https://www.lefigaro.fr/meteo/un-feu-apocalyptique-23-000-personnes-evacuees-au-total-dans-les-landes-20260724",
    "https://www.lefigaro.fr/actualite-france/incendies-en-france-l-avion-militaire-a400m-equivalent-de-trois-canadair-va-etre-deploye-d-ici-a-fin-juillet-annonce-le-gouvernement-20260723",
    "https://sante.lefigaro.fr/social/sante-publique/incendie-a-marseille-quelles-consequences-pour-la-sante-des-riverains-20250708",
-   "https://www.lefigaro.fr/flash-actu/combien-d-hectares-de-foret-ont-deja-brule-cette-annee-20260724"
+   "https://www.lefigaro.fr/flash-actu/combien-d-hectares-de-foret-ont-deja-brule-cette-annee-20260724",
+   "https://www.lefigaro.fr/bordeaux/incendies-au-cap-ferret-les-images-de-l-explosion-d-une-bonbonne-de-gaz-en-plein-direct-qui-a-blesse-un-pompier-20260724",
+   "https://tvmag.lefigaro.fr/programme-tv/actu-tele/j-ai-commence-a-avoir-peur-julien-courbet-parti-en-urgence-du-cap-ferret-prend-la-parole-sur-la-situation-20260724",
+   "https://www.lefigaro.fr/meteo/feux-en-france-32-incendies-en-cours-et-50-000-hectares-brules-depuis-debut-2026-selon-laurent-nunez-20260724",
+   "https://www.lefigaro.fr/meteo/incendies-dans-le-sud-ouest-pourquoi-l-arrivee-prochaine-d-orages-dans-la-region-est-une-fausse-bonne-nouvelle-20260724",
+   "https://www.lefigaro.fr/international/espagne-deux-des-trois-incendies-a-l-ouest-de-madrid-sur-le-point-de-fusionner-le-feu-hors-de-controle-20260724",
+   "https://video.lefigaro.fr/figaro/l-homme-est-responsable-de-99-des-feux-de-foret-par-negligence-et-manque-d-education-20260724",
+   "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260724"
   ],
   "https://www.france24.com/fr/rss": [
-   "b1c34c28-81d3-11f1-b721-3b23e5248633",
-   "45944fde-81d8-11f1-b57b-3deaa23a12c4",
-   "190fc960-811b-11f1-acaa-2b9482933ba4",
-   "154a58a2-81d1-11f1-98e1-9f2a8e948542",
-   "8d612174-81d4-11f1-a5a1-9f2a8e948542",
-   "9bc69022-81cb-11f1-87d7-3b70e3dd0237",
-   "294a2e70-81d3-11f1-b3e5-9f2a8e948542",
-   "03354b8c-81cb-11f1-876e-9d39467a08bb",
-   "3e2152c6-81d1-11f1-a9ac-9f2a8e948542",
    "30c7f224-81d1-11f1-88e7-9f2a8e948542",
    "aaa2671e-81cc-11f1-9be8-3b70e3dd0237",
    "2dfeee4e-81e5-11f1-8c39-f71d70ce90a1",
@@ -1051,7 +1042,16 @@
    "c0ea5c18-8701-11f1-b933-159ab5435f5b",
    "50e97074-8725-11f1-98de-2b550e93cf3c",
    "ef823ed8-8724-11f1-9058-71641f724c59",
-   "64453e2a-8700-11f1-a249-159ab5435f5b"
+   "64453e2a-8700-11f1-a249-159ab5435f5b",
+   "108f3062-874e-11f1-a9ee-d31108dcf04a",
+   "3dbc179a-871b-11f1-95c1-6388eb2569fc",
+   "bccf5fac-85b2-11f1-abd4-2f0be75ed477",
+   "3f9f3ae8-85b2-11f1-8fae-d13250b1822a",
+   "2bf391ac-81e7-11f1-943f-f71d70ce90a1",
+   "818064b4-8445-11f1-8787-5f1325aafd8a",
+   "c83edc90-8743-11f1-9b13-f7b6c43501a2",
+   "6628d486-8746-11f1-9d63-f7b6c43501a2",
+   "eae6be3e-8743-11f1-a72a-6bf5d0750a63"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -2111,6 +2111,64 @@
  "evenements_attente": [
   {
    "faits": [
+    "32 incendies sont en cours en France",
+    "Plus de 50 000 hectares ont été brûlés depuis le 1er janvier 2026",
+    "Ce chiffre représente environ trois fois plus que l'année précédente",
+    "Plus de 10 000 hectares ont été ravagés au Cap Ferret",
+    "Plus de 8 700 hectares ont brûlé sur la presqu'île du Cap Ferret",
+    "L'évacuation totale de la presqu'île du Cap Ferret a été ordonnée",
+    "Plusieurs dizaines de milliers de personnes ont dû être évacuées",
+    "Des renforts aériens européens ont été activés pour aider la France",
+    "Un sapeur-pompier a été blessé lors de l'explosion d'une bonbonne de gaz au Cap Ferret",
+    "La commune de Lège-Cap-Ferret a été évacuée",
+    "Des orages sont attendus en Gironde et dans les Landes dès vendredi soir",
+    "La circulation sera 'rouge' samedi dans toute la France"
+   ],
+   "qui": "Emmanuel Macron (demande de mécanisme européen), Laurent Nuñez (ministre)",
+   "ou": "France (Gironde, Landes, Var, Fontainebleau), Cap Ferret, presqu'île du bassin d'Arcachon",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "80e57b929f5012ef",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-24T11:27:32.723901+00:00"
+  },
+  {
+   "faits": [
+    "Deux incendies à l'ouest de Madrid (San Martín et Villa del Prado) sont sur le point de fusionner",
+    "Un incendie particulièrement virulent frappe la province d'Ávila, au nord-ouest de Madrid",
+    "Des milliers d'habitants ont dû être évacués dans la province d'Ávila",
+    "L'état d'urgence nationale a été déclaré en Espagne",
+    "Les flammes menacent plusieurs communes espagnoles"
+   ],
+   "qui": "Autorités espagnoles",
+   "ou": "Espagne (région de Madrid, province d'Ávila, Navas del Rey)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "63df48adf9f41b4b",
+   "score": 93,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-24T11:27:32.723904+00:00"
+  },
+  {
+   "faits": [
     "Députés et sénateurs ont adopté l'interdiction des réseaux sociaux aux moins de 15 ans",
     "Le vote a eu lieu mardi 21 juillet"
    ],
@@ -2178,25 +2236,30 @@
   },
   {
    "faits": [
-    "Incendies massifs en Espagne près de Madrid",
-    "L'Espagne a déclaré l'état d'urgence national",
-    "Incendies en Europe du Sud"
+    "Daniel Siad, suspecté d'avoir agi comme rabatteur pour Jeffrey Epstein, est décédé",
+    "Son autopsie n'a pas mis en évidence de cause immédiate du décès à ce stade",
+    "Aucune trace de violences récentes n'a été trouvée",
+    "L'autopsie a constaté un état de santé altéré et des traces d'un infarctus ancien",
+    "Des analyses toxicologiques sont en attente"
    ],
-   "qui": "Espagne, gouvernement espagnol",
-   "ou": "Espagne, Madrid",
-   "categorie": "meteo_catastrophe",
+   "qui": "Daniel Siad",
+   "ou": "France (parquet de Nanterre)",
+   "categorie": "justice",
    "sensible": true,
    "confiance": 88,
    "sources": [
-    "France 24"
+    "franceinfo"
    ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "4f951dae4e907075",
+   "non_confirme": [
+    "La cause immédiate du décès",
+    "Les résultats des analyses toxicologiques"
+   ],
+   "importance": 65,
+   "empreinte": "586fa449e75fa72d",
    "score": 84,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-24T04:27:18.363677+00:00"
+   "depuis": "2026-07-24T11:27:32.723912+00:00"
   },
   {
    "faits": [
@@ -2293,6 +2356,27 @@
   },
   {
    "faits": [
+    "Donald Trump doit assister vendredi soir au dîner des correspondants de la Maison Blanche",
+    "Cet événement a été reprogrammé trois mois après une tentative d'assassinat présumée le visant lors du gala annuel précédent"
+   ],
+   "qui": "Donald Trump",
+   "ou": "États-Unis (Maison Blanche)",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "97cb1e7a8077ad87",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T11:27:32.723920+00:00"
+  },
+  {
+   "faits": [
     "Un enfant de 2 ans s'est noyé dans une piscine privée en Isère jeudi soir",
     "L'enfant a échappé à la vigilance de ses parents",
     "Les pompiers n'ont pas pu le ranimer"
@@ -2381,30 +2465,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-24T09:40:01.530549+00:00"
-  },
-  {
-   "faits": [
-    "Les canicules à répétition causent une hausse des décès chez les animaux de compagnie",
-    "Les services d'urgences vétérinaires font face à un pic de mortalité inédit",
-    "Les canicules impactent durement les animaux d'élevage",
-    "En Bretagne, des éleveurs réduisent le nombre de traites quotidiennes pour préserver leurs troupeaux",
-    "Xavier Goubin a réduit la traite à une fois par jour, perdant 20% de sa production de lait"
-   ],
-   "qui": "Vétérinaires, services d'urgences vétérinaires, éleveurs (Xavier Goubin)",
-   "ou": "France, Bretagne, Côtes-d'Armor",
-   "categorie": "sante",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "9cc5858d8aaf331e",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T04:27:28.712966+00:00"
   },
   {
    "faits": [
@@ -2500,30 +2560,6 @@
   },
   {
    "faits": [
-    "Une vidéo montre six hommes cagoulés, gantés et vêtus de noir se présentant comme membres de la DZ Mafia",
-    "Ces hommes nient être à l'origine des menaces contre le maire d'Alès, Christophe Rivenq",
-    "Le maire Christophe Rivenq a été exfiltré de son domicile par le Raid en pleine nuit lundi"
-   ],
-   "qui": "DZ Mafia, Christophe Rivenq (maire d'Alès), Raid",
-   "ou": "Alès",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 78,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Responsabilité de la DZ Mafia dans les menaces contre le maire"
-   ],
-   "importance": 60,
-   "empreinte": "34217d8eb669c598",
-   "score": 79,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T04:27:18.363713+00:00"
-  },
-  {
-   "faits": [
     "L'amant de Delphine Aussaguel critique les aveux de Cédric Jubillar",
     "L'amant affirme que Cédric Jubillar avait l'intention de « détruire » le corps de sa femme",
     "Cédric Jubillar aurait envisagé d'enfouir le corps dans un compost ou tas de fumier"
@@ -2545,6 +2581,28 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-24T09:39:53.489273+00:00"
+  },
+  {
+   "faits": [
+    "Une campagne numérique a été lancée en Guinée pour dénoncer les violences sexuelles",
+    "Une vidéo montrant le viol collectif présumé d'une fille mineure a suscité une vague d'indignation",
+    "Le jeudi a été qualifié de 'jeudi noir' contre les violences sexuelles"
+   ],
+   "qui": "Activistes guinéens",
+   "ou": "Guinée",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 78,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "89ec97447c8c0123",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T11:27:32.723250+00:00"
   },
   {
    "faits": [
@@ -2593,27 +2651,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-24T07:14:36.884710+00:00"
-  },
-  {
-   "faits": [
-    "Emmanuel Macron remet des insignes de la Légion d'honneur et du Mérite à un rythme soutenu",
-    "Les cérémonies de décoration sont une facette du pouvoir présidentiel"
-   ],
-   "qui": "Emmanuel Macron",
-   "ou": "Palais de l'Élysée",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "c21ee018298be03e",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T04:27:28.712982+00:00"
   },
   {
    "faits": [
