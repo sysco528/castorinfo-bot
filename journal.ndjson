@@ -5823,3 +5823,41 @@
 {"decision": "controle", "evt": "03d82d5b16bbb013", "motif": "ok_sim_0.15", "ts": "2026-07-23T23:33:32+00:00"}
 {"decision": "publie", "empreinte": "70416180e2c275c7", "post_id": "2080436184333902002", "carte": true, "texte": "🎭 Le concert gratuit d'Amir à Marseille annulé pour raisons de sécurité, après appels au boycott du collectif Union Palestine Marseille. Un autre concert à Rognac maintenu sous surveillance. Le Crif exprime son inquiétude. (franceinfo, Le Figaro)", "ts": "2026-07-23T23:33:33+00:00"}
 {"decision": "publie", "empreinte": "8570d4b9a658d844", "post_id": "2080436201534705896", "carte": true, "texte": "Les tensions États-Unis-Iran s'intensifient au Moyen-Orient. Washington envoie des renforts militaires tandis que le conflit s'étend en mer Rouge avec les rebelles houthistes. L'armée américaine a frappé l'île de Qeshm. (Le Figaro, 20 Minutes)", "ts": "2026-07-23T23:33:38+00:00"}
+{"decision": "abandon_attente", "evt": "8eefb4ff95facd58", "categorie": "meteo_catastrophe", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "8b22e477c767b18a", "categorie": "meteo_catastrophe", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "8ede9af9783e28de", "categorie": "economie", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "e408ac57e757d97f", "categorie": "politique", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "7e05f3c1ac877b17", "categorie": "politique", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "6fdce9cc1616d10f", "categorie": "sante", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "bb264521d50bb464", "categorie": "sante", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "cdd079a1aae3ab0e", "categorie": "economie", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "bd9afe43588efc93", "categorie": "meteo_catastrophe", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "cff5ab0d149c2dab", "categorie": "faits_divers", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "abandon_attente", "evt": "a99f2ea787295f77", "categorie": "economie", "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "cb36f6ee44cc163d", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "f7745f986de5d731", "score": 92, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["France 24", "RFI"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "19e7d66dcc9db10e", "score": 85, "categorie": "faits_divers", "sensible": true, "confiance": 75, "sources": ["Ouest-France", "20 Minutes"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "attente", "evt": "29dc50978b94a552", "score": 71, "categorie": "justice", "sensible": true, "confiance": 72, "sources": ["20 Minutes"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "attente", "evt": "6869377b8a0581f4", "score": 85, "categorie": "sante", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "attente", "evt": "0b74f9c01a942ce1", "score": 84, "categorie": "sante", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "ff9c66b9592120c0", "score": 84, "categorie": "justice", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "e6e353f2200dc96b", "score": 84, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "attente", "evt": "0bd0a628baac0fe5", "score": 83, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["BFMTV"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "attente", "evt": "fbf188010e048c67", "score": 83, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["Le Figaro"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "4ae318ce386995e8", "score": 83, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "2abceab509d6dd62", "score": 82, "categorie": "international", "sensible": false, "confiance": 83, "sources": ["RFI"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "attente", "evt": "d884fd1b82487b65", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "cab388b24ed3c412", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "9e59099d0fe9e4c2", "score": 80, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["franceinfo"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "68c12adc810db4ba", "score": 79, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "attente", "evt": "ab2b124f7628fa59", "score": 78, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 84, "sources": ["BFMTV"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "ba9fea8054da353f", "score": 78, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "1406d946dab439a3", "score": 76, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "publier", "evt": "444809f874e6a2f2", "score": 76, "categorie": "sport", "sensible": false, "confiance": 83, "sources": ["L'Équipe"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "attente", "evt": "fc76566e7cccb612", "score": 75, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "attente", "evt": "a61fc8ab7a205f9b", "score": 75, "categorie": "international", "sensible": false, "confiance": 78, "sources": ["BFMTV"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "attente", "evt": "e2b246bc09fa332f", "score": 75, "categorie": "international", "sensible": false, "confiance": 78, "sources": ["BFMTV"], "ts": "2026-07-24T01:03:07+00:00"}
+{"decision": "controle", "evt": "f7745f986de5d731", "motif": "ok_sim_0.29", "ts": "2026-07-24T01:03:12+00:00"}
+{"decision": "controle", "evt": "cb36f6ee44cc163d", "motif": "ok_sim_0.40", "ts": "2026-07-24T01:03:17+00:00"}
+{"decision": "publie", "empreinte": "ebadb6b2943dd383", "post_id": "2080458770178793878", "carte": true, "texte": "Six candidats ont débattu jeudi à New York pour succéder à António Guterres à la tête de l'ONU en janvier 2027. Macky Sall est le seul représentant africain parmi les postulants. (France 24, RFI)", "ts": "2026-07-24T01:03:18+00:00"}
+{"decision": "publie", "empreinte": "8a32d222ed4df0ce", "post_id": "2080458786909855794", "carte": true, "texte": "Macron active le mécanisme de protection civile de l'UE face aux incendies en France, décrite comme « sous très forte tension ». La France reçoit des renforts aériens croates, portugais, tchèques et slovaques. (franceinfo)", "ts": "2026-07-24T01:03:22+00:00"}

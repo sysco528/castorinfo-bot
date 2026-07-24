@@ -2,7 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/culture/gerard-larcher-sur-le-tournage-d-emily-in-paris-la-serie-netflix-deviendrait-elle-une-vitrine-politique-pour-la-france_8111540.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/parlement-francais/senat/le-senat-exclut-temporairement-la-centriste-christine-herzog-soupconnee-de-harcelement-et-de-detournement-de-fonds_8111702.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/mauro-schmid-remporte-la-13e-etape-la-plus-longue-du-tour-de-france-2026-au-terme-d-une-journee-animee_8111765.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/il-faisait-deja-29-c-a-10-heures-deux-compagnies-de-crs-refusent-de-se-cantonner-dans-le-var-en-raison-des-fortes-chaleurs-dans-leur-hebergement_8111831.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +300,8 @@
    "https://www.franceinfo.fr/societe/justice/en-charente-maritime-la-justice-ordonne-le-demantelement-de-quatre-bassines-d-ici-3-ans_8119850.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-enquete-ouverte-contre-un-agent-du-secret-service-de-j-d-vance-pour-fuite-presumee-d-informations_8119859.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/justice/une-enquete-ouverte-a-paris-contre-le-reseau-libertin-wyylde-soupconne-d-avoir-ete-utilise-dans-une-affaire-de-viols-collectifs-filmes-en-gironde_8119871.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/justice/soupconne-de-faire-partie-de-la-flotte-fantome-russe-le-petrolier-immobilise-a-marseille-autorise-a-repartir-apres-paiement-d-une-amende_8119811.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/societe/justice/soupconne-de-faire-partie-de-la-flotte-fantome-russe-le-petrolier-immobilise-a-marseille-autorise-a-repartir-apres-paiement-d-une-amende_8119811.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/face-aux-incendies-emmanuel-macron-demande-l-activation-du-mecanisme-de-protection-civile-de-l-ue-des-renforts-aeriens-europeens-attendus-rapidement_8119946.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -740,7 +740,6 @@
    "https://www.lefigaro.fr/musique/tous-les-hommes-blancs-a-l-arriere-la-chanteuse-sophie-straat-sous-le-feu-des-critiques-apres-ses-propos-lors-d-un-festival-en-belgique-20260723"
   ],
   "https://www.france24.com/fr/rss": [
-   "4f0dd21e-8166-11f1-ad1d-4701f996e5aa",
    "8003186a-818a-11f1-a794-8997a8a8e492",
    "b0cdc33c-8130-11f1-a3ec-71e2cddb4b69",
    "1bb11f40-81c8-11f1-b82b-9d39467a08bb",
@@ -1039,7 +1038,8 @@
    "ac614ed4-86d2-11f1-a8b7-97471aff8818",
    "3449606a-86d4-11f1-97f7-97471aff8818",
    "b9a65bbc-86c2-11f1-8b3f-9bd2ed216422",
-   "5ad70142-86e8-11f1-b2f9-55199c4badd2"
+   "5ad70142-86e8-11f1-b2f9-55199c4badd2",
+   "b472f794-86dc-11f1-95b0-e704118d06ff"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1304,10 +1304,10 @@
    "817fa4ee-86c4-11f1-b6bf-c55de03f3661",
    "065cd410-86a3-11f1-b229-41f6cfc017ea",
    "6787a5d4-86a9-11f1-88e0-0388c9290f24",
-   "ce248fca-86e3-11f1-a170-f1475f965a5a"
+   "ce248fca-86e3-11f1-a170-f1475f965a5a",
+   "bb08452a-86da-11f1-88e5-31fc64c1b9e6"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-16/michael-olise-et-miro-mbappe-en-napoleon-ce-compte-instagram-relie-les-plus-belles-actions-sportives-aux-oeuvres-d-art-a28abf67-9d4f-4760-b371-fe49e3071c43?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-superstitieux-javier-milei-nira-pas-assister-a-la-finale-argentine-espagne-0ec2930e-8141-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/prison/pourquoi-ne-peut-on-pas-les-extraire-de-prison-des-detenus-plus-rares-sur-les-bancs-du-tribunal-de-saint-nazaire-6589fb92-805a-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-incroyable-william-saliba-a-joue-tout-le-mondial-avec-les-bleus-en-souffrant-dune-fracture-du-dos-f876daf8-814d-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1606,7 +1606,8 @@
    "https://www.ouest-france.fr/monde/etats-unis/250-ans-des-etats-unis-lancement-dune-bourse-la-fayette-pour-etudiants-americains-en-france-94d3090c-86d1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/violence-sexuelle/viol/viols-filmes-en-gironde-enquete-a-paris-visant-le-reseau-libertin-wyylde-0863e026-86e1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/tunisie/tunisie-lopposant-rached-ghannouchi-dans-un-etat-critique-selon-ses-avocats-a54b82dc-86db-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/etats-unis/le-ministere-americain-de-la-justice-annule-les-citations-a-comparaitre-de-journalistes-du-new-york-times-4fa225a8-86e4-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/monde/etats-unis/le-ministere-americain-de-la-justice-annule-les-citations-a-comparaitre-de-journalistes-du-new-york-times-4fa225a8-86e4-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/etats-unis/new-york/deux-personnes-blessees-au-couteau-a-new-york-lauteur-crie-allah-akbar-3a00ac7e-86f3-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1759,7 +1760,9 @@
    "https://www.20minutes.fr/justice/4236029-20260723-carrefour-pdg-alexandre-bompard-perquisitionne-fevrier-apres-plainte-casino?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/planete/4236080-20260724-incendies-macron-demande-activation-mecanisme-protection-civile-ue?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4236067-20260724-etats-unis-agent-secret-service-vance-vise-enquete-fuite-presumee-informations?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/etats-unis/4236068-20260724-ue-chine-trump-poursuit-guerre-economique-droits-douane?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/etats-unis/4236068-20260724-ue-chine-trump-poursuit-guerre-economique-droits-douane?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/justice/4236081-20260724-reseau-libertin-wyylde-vise-enquete-viols-filmes-gironde?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4236082-20260724-etats-unis-attaque-couteau-fait-deux-blesses-new-york-auteur-crie-allah-akbar?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2090,118 +2093,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "Un incendie de forêt hors de contrôle menace la localité d'Aldea del Fresno à l'ouest de Madrid",
-    "3 500 habitants d'Aldea del Fresno ont été évacués par précaution le 23 juillet"
-   ],
-   "qui": null,
-   "ou": "Aldea del Fresno, à 60 km de Madrid, Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "8eefb4ff95facd58",
-   "score": 86,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T19:00:12.392440+00:00"
-  },
-  {
-   "faits": [
-    "De violents incendies de forêt font rage en Europe du Sud (Italie, Espagne, France)",
-    "Dans le Var, un incendie dure depuis trois jours avec de nombreuses reprises de feu le 23 juillet",
-    "Le village historique de Cotignac (Var) est menacé par l'incendie",
-    "Un incendie dans le sud-ouest de la France a parcouru 3 400 hectares et est désormais contenu",
-    "Des milliers de personnes ont été évacuées d'une région touristique du sud-ouest"
-   ],
-   "qui": null,
-   "ou": "Var (sud-est France), sud-ouest de la France, Italie, Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "8b22e477c767b18a",
-   "score": 86,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T19:00:12.392484+00:00"
-  },
-  {
-   "faits": [
-    "L'Union européenne a infligé une amende record de 890 millions d'euros à Google",
-    "L'amende concerne des atteintes à la concurrence dans la recherche en ligne et dans Google Play"
-   ],
-   "qui": "Union européenne, Google",
-   "ou": "Union européenne",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "8ede9af9783e28de",
-   "score": 86,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T19:00:12.393759+00:00"
-  },
-  {
-   "faits": [
-    "Louis Jublin, ancien conseiller en communication de Gabriel Attal, révèle son addiction passée à la cocaïne",
-    "Jublin a accompagné Attal de Bercy à Matignon pendant plusieurs années",
-    "Jublin dit vouloir devancer la publication d'une vidéo où on le voit consommer de la drogue",
-    "Un portrait de Jublin est publié dans le magazine Vanity Fair"
-   ],
-   "qui": "Louis Jublin, Gabriel Attal",
-   "ou": null,
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "e408ac57e757d97f",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T17:52:08.766576+00:00"
-  },
-  {
-   "faits": [
-    "Le candidat Jean-Luc Mélenchon (LFI) a dîné avec des grands patrons",
-    "Le dîner s'est déroulé sur invitation du lobby France Industrie",
-    "France Industrie compte 53 grandes entreprises privées adhérentes dont Renault et Dassault",
-    "France Industrie compte 31 fédérations sectorielles de l'industrie"
-   ],
-   "qui": "Jean-Luc Mélenchon, France Industrie",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "7e05f3c1ac877b17",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T17:52:08.766577+00:00"
-  },
-  {
-   "faits": [
     "Épidémie d'Ebola en RDC et Ouganda",
     "Plus d'un millier de morts selon le dernier bilan de l'OMS",
     "L'OMS estime que le virus a une longueur d'avance sur la riposte"
@@ -2221,97 +2112,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T20:18:28.657711+00:00"
-  },
-  {
-   "faits": [
-    "Des analyses ont révélé une teneur en cadmium supérieure à la limite réglementaire européenne dans des melons",
-    "Des melons contaminés au cadmium ont été vendus chez Carrefour",
-    "Un rappel de produit concerne toute la France",
-    "Le cadmium est un métal lourd toxique et bioaccumulable"
-   ],
-   "qui": "Carrefour",
-   "ou": "France",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "6fdce9cc1616d10f",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T19:00:12.392605+00:00"
-  },
-  {
-   "faits": [
-    "Santé Publique France estime que près de 6 000 personnes sont mortes en raison des fortes chaleurs de juin",
-    "En 30 ans, les décès liés à la chaleur ont augmenté de 85% selon The Lancet",
-    "8 jours de canicule sur 10 ne se seraient pas produits sans le réchauffement climatique selon The Lancet",
-    "Le bouleversement du système climatique est responsable de la mort de centaines de milliers de personnes chaque année"
-   ],
-   "qui": "Santé Publique France, The Lancet",
-   "ou": "France, monde",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 87,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "bb264521d50bb464",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T17:52:08.765726+00:00"
-  },
-  {
-   "faits": [
-    "Google a lancé mercredi en France sa fonctionnalité AI Overview (résumés par IA)",
-    "Le Syndicat des éditeurs de la presse magazine dénonce que Google viole ses engagements",
-    "Les éditeurs de presse magazine accusent Google de concurrence déloyale"
-   ],
-   "qui": "Google, Syndicat des éditeurs de la presse magazine (SEPM)",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "cdd079a1aae3ab0e",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T19:00:12.393766+00:00"
-  },
-  {
-   "faits": [
-    "Les niveaux des cours d'eau atteignent des niveaux historiquement bas en Europe",
-    "Le groupe de scientifiques du World Weather Attribution a étudié les causes de cette sécheresse",
-    "La chaleur extrême est la principale cause de la sécheresse, plus que le manque de pluie",
-    "Ce phénomène est largement accéléré par le changement climatique"
-   ],
-   "qui": "World Weather Attribution",
-   "ou": "Europe",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "bd9afe43588efc93",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T17:52:08.766579+00:00"
   },
   {
    "faits": [
@@ -2335,28 +2135,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-23T21:32:01.832918+00:00"
-  },
-  {
-   "faits": [
-    "Laboratoire de cocaïne démantelé dans un Airbnb en Val-de-Marne",
-    "La drogue arrivait sous forme liquide",
-    "Deux occupants interpellés le 14 juillet"
-   ],
-   "qui": null,
-   "ou": "Val-de-Marne, France",
-   "categorie": "justice",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "ff9c66b9592120c0",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T20:18:28.659341+00:00"
   },
   {
    "faits": [
@@ -2384,50 +2162,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-23T20:18:28.659343+00:00"
-  },
-  {
-   "faits": [
-    "150 migrants ont été secourus au large de Berck-sur-Mer dans le Pas-de-Calais",
-    "Il s'agit de l'un des sauvetages les plus importants de l'histoire de la crise migratoire selon la SNSM du secteur"
-   ],
-   "qui": "SNSM",
-   "ou": "Berck-sur-Mer (Pas-de-Calais)",
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "cff5ab0d149c2dab",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T17:52:08.766582+00:00"
-  },
-  {
-   "faits": [
-    "TotalEnergies a annoncé un doublement de son bénéfice net au 2e trimestre",
-    "Le bénéfice net s'élève à 5,4 milliards de dollars (contre 2,7 milliards un an auparavant)",
-    "Cette augmentation est dopée par les prix élevés des hydrocarbures liés au conflit au Moyen-Orient",
-    "Cette annonce relance le débat sur la taxation des profits des multinationales du pétrole et du gaz"
-   ],
-   "qui": "TotalEnergies",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "a99f2ea787295f77",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-23T17:52:08.766594+00:00"
   },
   {
    "faits": [
@@ -2778,17 +2512,32 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-23T22:34:39.031052+00:00"
+  },
+  {
+   "faits": [
+    "Dix-neuf hommes sont mis en examen",
+    "Enquête ouverte pour viols collectifs filmés en Gironde",
+    "Les faits sont accompagnés d'actes de barbarie",
+    "Le réseau libertin Wyylde est visé"
+   ],
+   "qui": "Dix-neuf hommes (noms non communiqués)",
+   "ou": "Gironde",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 72,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "29dc50978b94a552",
+   "score": 71,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T01:03:07.409619+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "5f8c471530b84a6b",
-   "2026-07-21T23:44:28.668157+00:00"
-  ],
-  [
-   "b28d73e9333fb1d9",
-   "2026-07-21T23:44:32.749751+00:00"
-  ],
   [
    "c96707eae0104603",
    "2026-07-22T01:11:55.078114+00:00"
@@ -2868,17 +2617,17 @@
   [
    "8570d4b9a658d844",
    "2026-07-23T23:33:38.040010+00:00"
+  ],
+  [
+   "ebadb6b2943dd383",
+   "2026-07-24T01:03:18.789893+00:00"
+  ],
+  [
+   "8a32d222ed4df0ce",
+   "2026-07-24T01:03:22.782265+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "566146eef7f1a3d3",
-   "2026-07-21T23:44:22.313018+00:00"
-  ],
-  [
-   "2ea2c92db72066e9",
-   "2026-07-21T23:44:27.250874+00:00"
-  ],
   [
    "204deaaa1fb728a7",
    "2026-07-22T01:11:48.915189+00:00"
@@ -2958,18 +2707,28 @@
   [
    "03d82d5b16bbb013",
    "2026-07-23T23:33:32.725435+00:00"
+  ],
+  [
+   "f7745f986de5d731",
+   "2026-07-24T01:03:12.389389+00:00"
+  ],
+  [
+   "cb36f6ee44cc163d",
+   "2026-07-24T01:03:17.762182+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚡ FLASH — Un incendie majeur atteint les habitations à Lège-Cap-Ferret en Gironde. Environ 20 000 habitants et touristes ont été évacués en 24 heures. Des avions bombardiers d'eau combattent le sinistre. (franceinfo, 20 Minutes)",
   "🏆 Quatre mathématiciens ont reçu la médaille Fields le 23 juillet à Philadelphie : deux Chinois, un Américain et un Canadien. Cette distinction récompense des chercheurs de moins de 40 ans et est considérée comme l'équivalent d'un prix Nobel en mathématiques. (franceinfo, RFI)",
   "🎭 Le concert gratuit d'Amir à Marseille annulé pour raisons de sécurité, après appels au boycott du collectif Union Palestine Marseille. Un autre concert à Rognac maintenu sous surveillance. Le Crif exprime son inquiétude. (franceinfo, Le Figaro)",
-  "Les tensions États-Unis-Iran s'intensifient au Moyen-Orient. Washington envoie des renforts militaires tandis que le conflit s'étend en mer Rouge avec les rebelles houthistes. L'armée américaine a frappé l'île de Qeshm. (Le Figaro, 20 Minutes)"
+  "Les tensions États-Unis-Iran s'intensifient au Moyen-Orient. Washington envoie des renforts militaires tandis que le conflit s'étend en mer Rouge avec les rebelles houthistes. L'armée américaine a frappé l'île de Qeshm. (Le Figaro, 20 Minutes)",
+  "Six candidats ont débattu jeudi à New York pour succéder à António Guterres à la tête de l'ONU en janvier 2027. Macky Sall est le seul représentant africain parmi les postulants. (France 24, RFI)",
+  "Macron active le mécanisme de protection civile de l'UE face aux incendies en France, décrite comme « sous très forte tension ». La France reçoit des renforts aériens croates, portugais, tchèques et slovaques. (franceinfo)"
  ],
  "recap_date": "2026-07-23",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-24",
-  "publies": 4
+  "publies": 6
  }
 }
