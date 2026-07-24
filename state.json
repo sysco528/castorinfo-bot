@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/energie/le-tarif-preferentiel-accorde-par-edf-a-ses-salaries-represente-un-cout-demesure-selon-la-cour-des-comptes_8112668.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/reportage-ce-qui-reste-autour-de-nous-c-est-ce-paysage-en-noir-et-blanc-au-c-ur-de-la-desolation-avec-une-agente-de-l-onf-dans-la-foret-brulee-de-fontainebleau_8112773.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/musique/reportage-apres-sept-ans-d-absence-bts-retrouve-la-scene-francaise-et-fait-exulter-le-stade-de-france_8112737.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/decouverte/vacances/c-est-important-pour-notre-equilibre-psychique-quand-la-science-confirme-les-bienfaits-des-vacances-sur-notre-cerveau_8101226.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/le-racisme-est-toujours-bien-vivace-on-vous-explique-pourquoi-les-bleus-ont-ete-la-cible-d-attaques-pendant-le-mondial_8109878.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/faits-divers/incendie/ca-fait-tres-mal-au-c-ur-c-est-notre-terrain-la-detresse-des-habitants-contraints-d-evacuer-face-aux-incendies-qui-ravagent-le-sud-ouest_8121194.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/justice/le-procureur-de-la-cpi-karim-khan-vise-par-des-allegations-d-agression-sexuelle-releve-de-ses-fonctions_8121227.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/en-irlande-une-bombe-trouvee-par-la-police-dans-un-vehicule-la-conductrice-inculpee_8121254.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/venezuela/le-venezuela-annonce-son-retrait-definitif-de-la-cour-penale-internationale-accusee-de-concentrer-son-action-sur-les-pays-africains-et-latino-americains_8121266.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/venezuela/le-venezuela-annonce-son-retrait-definitif-de-la-cour-penale-internationale-accusee-de-concentrer-son-action-sur-les-pays-africains-et-latino-americains_8121266.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-a-des-renseignements-clairs-indiquant-que-moscou-prepare-une-mobilisation-militaire-affirme-volodymyr-zelensky_8121251.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/emmanuel-macron-demande-aux-armees-de-se-mobiliser-pour-lutter-contre-les-incendies-dans-le-sud-ouest-500-militaires-supplementaires-deployes_8121302.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -1338,12 +1338,10 @@
    "e03b03e4-8768-11f1-96e4-e5412e939f48",
    "a88bd1aa-8789-11f1-a1f1-fd68475dbdfa",
    "e435061e-8797-11f1-ac6b-4145ab484758",
-   "cdf8e818-8781-11f1-983a-fd68475dbdfa"
+   "cdf8e818-8781-11f1-983a-fd68475dbdfa",
+   "b78fdfba-87ad-11f1-8190-65fceb94572d"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/meteo/orage/11-000-foyers-toujours-prives-delectricite-en-france-apres-de-violents-orages-cb8f1eae-820d-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/rugby/pro-d2/rugby-les-dirigeants-de-nice-demissionnent-lavenir-reste-incertain-pour-le-club-dd53ad54-8211-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/transferts/mercato-libre-de-tout-contrat-mohamed-salah-agite-le-marche-et-se-rapprocherait-de-la-turquie-aee7c02c-8211-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/justice/affaire-athanor-jusqua-30-ans-de-reclusion-pour-les-cerveaux-de-ce-reseau-criminel-dans-lombre-dune-loge-maconnique-f024ca70-81b8-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/espagne-argentine-marc-cucurella-annonce-sa-retraite-internationale-en-cas-de-succes-en-finale-de-la-coupe-du-monde-c8586e0e-821a-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/france-angleterre-il-fera-du-didier-jusquau-bout-avant-sa-last-dance-deschamps-reste-fidele-a-ses-principes-3acfd46a-820a-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1640,7 +1638,10 @@
    "https://www.ouest-france.fr/sport/football/ea-guingamp/ea-guingamp-une-nouvelle-tete-pour-le-match-face-a-lorient-75ce0af0-875f-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/equipe-italie/apres-les-refus-de-guardiola-et-ancelotti-andrea-pirlo-devrait-succeder-a-gennaro-gattuso-a-la-tete-de-litalie-cb7bd7ac-8791-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/zinedine-zidane/equipe-de-france-pourquoi-la-fff-na-pas-besoin-de-demander-une-derogation-pour-le-salaire-de-zinedine-zidane-a0337958-8780-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/tennis/atp/tennis-jannik-sinner-et-novak-djokovic-declarent-forfait-pour-le-masters-1000-de-montreal-88cb4328-8798-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/tennis/atp/tennis-jannik-sinner-et-novak-djokovic-declarent-forfait-pour-le-masters-1000-de-montreal-88cb4328-8798-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/venezuela/le-venezuela-annonce-son-retrait-de-la-cour-penale-internationale-c9ec0f7c-87ac-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/athletisme/athletisme-robert-michon-battue-kpatcha-ce-quil-faut-retenir-de-la-premiere-journee-des-championnats-de-france-182b3920-87a7-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/organismes-internationaux/onu/tuerk-prolonge-comme-chef-des-droits-de-lhomme-de-lonu-malgre-les-mises-en-garde-americaines-453ef436-87a4-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1802,7 +1803,12 @@
    "https://www.20minutes.fr/planete/4236181-20260724-incendies-evacuations-gironde-var-toujours-inquiet-point-brasiers-ravagent-france?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/ukraine/4236218-20260724-guerre-ukraine-nouveaux-bombardements-meurtriers-pres-kiev-sanctions-contournees-georgie?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4236223-20260724-etats-unis-suite-amende-infligee-google-trump-menace-faire-payer-tres-lourd-prix-ue?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/royaume-uni/4236226-20260724-royaume-uni-nouveau-premier-ministre-andy-burnham-inaugure-downing-street-nord-manchester?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/royaume-uni/4236226-20260724-royaume-uni-nouveau-premier-ministre-andy-burnham-inaugure-downing-street-nord-manchester?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4236089-20260724-direct-guerre-moyen-orient-iran-appelle-civils-moyen-orient-tenir-eloignes-forces-americaines?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/4236227-20260725-cour-penale-internationale-procureur-karim-khan-releve-fonctions-faute-grave?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/diaporama/diaporama-4236117-images-terribles-incendies-menacent-cap-ferret-biscarrosse?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4236200-20260724-incendies-comment-agriculteurs-font-face-risques-depart-feu-champs?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/faits_divers/4236159-20260724-mort-thomas-crepol-pourquoi-ajout-circonstance-racisme-fait-basculer-dossier?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -1967,7 +1973,16 @@
    "https://www.bfmtv.com/environnement/climat/video-incendies-en-gironde-bfmtv-avec-les-pompiers-en-intervention-a-lege-cap-ferret_VN-202607230663.html",
    "https://www.bfmtv.com/var/incendie-dans-le-var-le-feu-n-est-pas-fixe-mais-stable-400-personnes-evacuees-ont-pu-regagner-leur-habitation_AN-202607230366.html",
    "https://www.bfmtv.com/environnement/climat/video-feux-en-gironde-les-images-impressionnantes-de-l-incendie-toujours-incontrolable_VN-202607230662.html",
-   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html"
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
+   "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-edition-speciale-gironde-l-incendie-se-dirige-vers-bordeaux-24-07_VN-202607240654.html",
+   "https://www.bfmtv.com/politique/video-les-incendies-qui-frappent-notre-pays-ont-atteint-un-niveau-inedit-declare-le-premier-ministre-sebastien-lecornu_VN-202607240651.html",
+   "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-edition-speciale-gironde-14-000-ha-brules-110-000-evacues-nunez-24-07_VN-202607240655.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-dans-le-var-le-feu-est-toujours-actif-detaille-le-prefet-du-departement_VN-202607240647.html",
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump/donald-trump-assure-que-le-venezuela-n-est-pas-vraiment-pret-pour-des-elections-sept-mois-apres-la-capture-de-nicolas-maduro_AD-202607240645.html",
+   "https://rmcsport.bfmtv.com/football/ligue-1/om-nice-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-amical-100-ligue-1_AV-202607240644.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-des-milliers-d-habitants-se-preparent-a-une-evacuation-d-urgence_VN-202607240643.html",
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-feu-en-gironde-trois-nouvelles-communes-evacuees-24-07_VN-202607240646.html",
+   "https://www.bfmtv.com/international/releve-de-ses-fonctions-apres-des-accusations-d-agression-sexuelle-le-procureur-general-de-la-cour-penale-internationale-karim-khan-va-contester-son-eviction_AD-202607240642.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2133,80 +2148,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "75 000 personnes ont été évacuées dans les Landes et en Gironde",
-    "Un incendie en Gironde a pris une ampleur inédite et se dirige vers Bordeaux",
-    "De nouvelles évacuations de plusieurs dizaines de milliers de personnes sont anticipées"
-   ],
-   "qui": null,
-   "ou": "Landes, Gironde, Bordeaux (France)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "RFI",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "427c0aafd1864735",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-24T21:19:20.866733+00:00"
-  },
-  {
-   "faits": [
-    "Incendie majeur en Gironde au nord du bassin d'Arcachon",
-    "Plus de 12 500 hectares parcourus par le feu",
-    "Une cinquantaine de maisons détruites",
-    "Un camping détruit",
-    "Le feu était hors de contrôle le vendredi 24 juillet en soirée",
-    "Évacuations à Cap Ferret et Arcachon"
-   ],
-   "qui": null,
-   "ou": "Gironde, bassin d'Arcachon, Cap Ferret",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "8a4931b60aeb4ed1",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-24T20:06:14.394629+00:00"
-  },
-  {
-   "faits": [
-    "Tadej Pogacar remporte la 19e étape du Tour de France à l'Alpe d'Huez",
-    "Pogacar bat le record de la montée établi par Marco Pantani en 1995",
-    "Pogacar conforte son statut de Maillot Jaune"
-   ],
-   "qui": "Tadej Pogacar",
-   "ou": "Alpe d'Huez, Isère (France)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "b49da7584709b313",
-   "score": 98,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-24T16:54:15.753907+00:00"
-  },
-  {
-   "faits": [
     "Karim Khan, procureur général de la Cour Pénale Internationale, a été démis de ses fonctions",
     "La décision a été prise le vendredi 24 juillet",
     "Khan est relevé de ses fonctions suite à des allégations d'agression sexuelle et harcèlement sexuel",
@@ -2282,6 +2223,32 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-24T16:54:15.753911+00:00"
+  },
+  {
+   "faits": [
+    "Karim Khan, procureur général de la Cour pénale internationale, a été relevé de ses fonctions",
+    "82 États membres ont voté pour son éviction le 24 juillet 2026",
+    "Khan était accusé d'agression sexuelle par une femme",
+    "Khan conteste les accusations et annonce faire un recours"
+   ],
+   "qui": "Karim Khan (procureur CPI), Cour pénale internationale",
+   "ou": "La Haye (siège de la CPI)",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "20 Minutes",
+    "BFMTV"
+   ],
+   "non_confirme": [
+    "Détails des accusations précises"
+   ],
+   "importance": 75,
+   "empreinte": "a77b91d7a86e1931",
+   "score": 90,
+   "fiab_max": 75,
+   "nb_sources": 2,
+   "depuis": "2026-07-24T22:31:58.206208+00:00"
   },
   {
    "faits": [
@@ -2696,6 +2663,31 @@
   },
   {
    "faits": [
+    "Volodymyr Zelensky affirme que Kiev a des renseignements « clairs » indiquant que Moscou prépare une mobilisation militaire",
+    "Cette nouvelle vague de mobilisation russe devrait survenir à l'automne selon Zelensky",
+    "Zelensky affirme que Poutine « a toujours l'intention d'étendre cette guerre »"
+   ],
+   "qui": "Volodymyr Zelensky (Ukraine), Vladimir Poutine (Russie)",
+   "ou": "Ukraine, Russie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "Date précise de la mobilisation russe prévue",
+    "Détails des renseignements ukrainiens"
+   ],
+   "importance": 85,
+   "empreinte": "bd4b2e2c64515078",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T22:31:48.603394+00:00"
+  },
+  {
+   "faits": [
     "Donald Trump a annoncé la visite d'État de Xi Jinping aux États-Unis le 24 septembre",
     "Trump s'est progressivement adouci dans sa rhétorique envers la Chine après une rhétorique hostile en campagne",
     "Trump s'est rendu en Chine"
@@ -2762,6 +2754,33 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-24T20:06:14.394661+00:00"
+  },
+  {
+   "faits": [
+    "Abderrahim Fakir, autoentrepreneur d'origine marocaine de 42 ans, est mort suite à une intervention policière à Bologne le 19 juillet",
+    "L'intervention a eu lieu dans une rue d'un quartier périphérique de Bologne",
+    "Fakir était dans un état d'altération psychique au moment de l'intervention",
+    "Deux jeunes policiers de 23 et 28 ans ont effectué l'intervention",
+    "D'après les premiers éléments de l'autopsie, les techniques employées pour le maintenir au sol pourraient lui avoir été fatales"
+   ],
+   "qui": "Abderrahim Fakir (décédé), deux policiers (23 et 28 ans)",
+   "ou": "Bologne, Italie",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "Conclusions définitives de l'autopsie",
+    "Responsabilité pénale des policiers"
+   ],
+   "importance": 70,
+   "empreinte": "e51cc1755dc435b0",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T22:31:48.603474+00:00"
   },
   {
    "faits": [
@@ -2835,18 +2854,6 @@
  ],
  "publies_48h": [
   [
-   "5da83e64040a1ea6",
-   "2026-07-22T10:04:06.599470+00:00"
-  ],
-  [
-   "c08e8402f9bd0181",
-   "2026-07-22T22:29:53.759986+00:00"
-  ],
-  [
-   "f66901d33dadb3e2",
-   "2026-07-22T22:29:57.674387+00:00"
-  ],
-  [
    "8e90220f961bf615",
    "2026-07-22T23:35:25.003393+00:00"
   ],
@@ -2917,17 +2924,17 @@
   [
    "b79dba448b603f7f",
    "2026-07-24T09:40:02.582287+00:00"
+  ],
+  [
+   "34920ab5380416de",
+   "2026-07-24T22:31:59.320800+00:00"
+  ],
+  [
+   "309e8261f9f44ddc",
+   "2026-07-24T22:32:03.313263+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "9baca8afc7fc8861",
-   "2026-07-22T22:29:45.593893+00:00"
-  ],
-  [
-   "cf4369f568c0592c",
-   "2026-07-22T22:29:52.720948+00:00"
-  ],
   [
    "fdaafea73c6a5b94",
    "2026-07-22T23:35:15.776513+00:00"
@@ -2999,24 +3006,24 @@
   [
    "bb26c4f9e8bb5aa7",
    "2026-07-24T09:40:01.530513+00:00"
+  ],
+  [
+   "427c0aafd1864735",
+   "2026-07-24T22:31:53.622107+00:00"
+  ],
+  [
+   "8a4931b60aeb4ed1",
+   "2026-07-24T22:31:58.206194+00:00"
   ]
  ],
  "depeches_du_jour": [
-  "⚡ FLASH — Un incendie majeur atteint les habitations à Lège-Cap-Ferret en Gironde. Environ 20 000 habitants et touristes ont été évacués en 24 heures. Des avions bombardiers d'eau combattent le sinistre. (franceinfo, 20 Minutes)",
-  "🏆 Quatre mathématiciens ont reçu la médaille Fields le 23 juillet à Philadelphie : deux Chinois, un Américain et un Canadien. Cette distinction récompense des chercheurs de moins de 40 ans et est considérée comme l'équivalent d'un prix Nobel en mathématiques. (franceinfo, RFI)",
-  "🎭 Le concert gratuit d'Amir à Marseille annulé pour raisons de sécurité, après appels au boycott du collectif Union Palestine Marseille. Un autre concert à Rognac maintenu sous surveillance. Le Crif exprime son inquiétude. (franceinfo, Le Figaro)",
-  "Les tensions États-Unis-Iran s'intensifient au Moyen-Orient. Washington envoie des renforts militaires tandis que le conflit s'étend en mer Rouge avec les rebelles houthistes. L'armée américaine a frappé l'île de Qeshm. (Le Figaro, 20 Minutes)",
-  "Six candidats ont débattu jeudi à New York pour succéder à António Guterres à la tête de l'ONU en janvier 2027. Macky Sall est le seul représentant africain parmi les postulants. (France 24, RFI)",
-  "Macron active le mécanisme de protection civile de l'UE face aux incendies en France, décrite comme « sous très forte tension ». La France reçoit des renforts aériens croates, portugais, tchèques et slovaques. (franceinfo)",
-  "🌡️ Des incendies ravagent 6000 hectares en Gironde et Landes. Près de 30000 personnes évacuées en Nouvelle-Aquitaine, dont au Cap-Ferret. Macron demande l'activation du mécanisme de protection civile de l'UE. (franceinfo)",
-  "Les États-Unis ont lancé vendredi une treizième nuit consécutive de frappes en Iran. Les houthis intensifient leurs attaques en mer Rouge, bloquant le détroit de Bab El-Mandeb. Le pétrole dépasse 100 dollars le baril. (France 24, RFI)",
-  "⚡ FLASH — Des drones ukrainiens ont attaqué plusieurs entrepôts de Wildberries, l'équivalent russe d'Amazon, en Russie. Au moins 8 personnes sont mortes. L'Ukraine accuse la plateforme de stocker des composants militaires sous sanctions. (franceinfo, France 24)",
-  "🌡️ Les incendies en Gironde ont parcouru plus de 10 000 hectares. La presqu'île du Cap-Ferret est évacuée et sa route d'accès fermée. Le dispositif de protection à Lège-Cap-Ferret n'a pas tenu, selon la Sécurité civile. (franceinfo, Le Monde)"
+  "Un incendie d'ampleur inédite gagne la Gironde vers Bordeaux. Déjà 75 000 personnes évacuées dans les Landes et la Gironde. De nouvelles évacuations de plusieurs dizaines de milliers de personnes sont anticipées. (franceinfo)",
+  "🔴 ALERTE — Un incendie majeur ravage plus de 12 500 hectares en Gironde, au nord du bassin d'Arcachon. Le feu, hors de contrôle vendredi soir, a détruit environ 50 maisons et un camping. Des évacuations ont été ordonnées à Cap Ferret et Arcachon. (franceinfo, 20 Minutes)"
  ],
  "recap_date": "2026-07-24",
  "echecs_extraction": 0,
  "compteur": {
-  "date": "2026-07-24",
-  "publies": 10
+  "date": "2026-07-25",
+  "publies": 2
  }
 }
