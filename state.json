@@ -2,12 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/energie/l-intersyndicale-des-industries-electriques-et-gazieres-appelle-a-la-greve-le-15-septembre-devant-la-remise-en-cause-du-tarif-agent-de-l-energie-par-le-gouvernement_8112053.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/france-angleterre-ce-sera-le-clap-de-fin-mais-ce-n-est-pas-un-match-anonyme-appuie-didier-deschamps-avant-son-dernier-match-a-la-tete-des-bleus_8111900.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/elections/presidentielle/emmanuel-macron-appelle-a-se-mefier-des-sondages-predisant-la-victoire-de-marine-le-pen-lors-de-l-election-presidentielle-de-2027_8112149.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/document-franceinfo-incendies-l-ete-infernal-regardez-le-documentaire-de-franceinfo-consacre-aux-feux-qui-ravagent-les-forets-francaises_8111477.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/justice/proces-athanor-les-tetes-pensantes-de-l-officine-criminelle-des-hauts-de-seine-condamnees-a-25-ans-et-30-ans-de-reclusion_8112248.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/greve/permis-de-tuer-en-toute-impunite-plusieurs-collectifs-associations-et-syndicats-appellent-a-une-grande-mobilisation-le-19-septembre-contre-la-presomption-d-usage-legitime-des-armes-pour-les-forces-de-l-ordre_8112254.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/grele-tornade-les-violents-orages-font-d-importants-degats-en-france_8112224.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-leslie-et-kevin/le-proces-concernant-l-assassinat-de-leslie-et-kevin-en-2022-aura-lieu-au-printemps-2027_8112239.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/incendies-de-fontainebleau-les-images-impressionnantes-de-la-foret-devastee-apres-une-semaine-de-lutte-contre-les-flammes_8112290.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +295,13 @@
    "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-l-heure-des-grandes-man-uvres-entre-pogacar-evenepoel-del-toro-et-seixas-pour-une-explication-au-sommet-de-l-alpe-d-huez-la-19e-etape-en-questions_8116304.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-l-ukraine-cible-des-entrepots-du-geant-de-l-e-commerce-wildberries-connu-comme-l-amazon-russe_8118971.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement-sexuel/un-osteopathe-des-pyrenees-atlantiques-mis-en-examen-pour-viol-et-agressions-sexuelles-sur-des-patientes_8120180.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/noyades/un-enfant-de-2-ans-se-noie-dans-une-piscine-privee-en-isere_8120255.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/faits-divers/noyades/un-enfant-de-2-ans-se-noie-dans-une-piscine-privee-en-isere_8120255.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/le-maire-de-bordeaux-appelle-les-vacanciers-a-attendre-avant-de-se-deplacer-en-raison-des-incendies_8120111.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-autorites-ont-recense-274-morts-par-noyade-entre-le-1er-mai-et-le-15-juillet-33-de-plus-que-l-annee-derniere-en-majorite-lors-des-canicules_8120345.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/l-amant-de-delphine-aussaguel-denonce-les-aveux-malhonnetes-et-empreints-d-une-grande-perversion-de-cedric-jubillar_8120438.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sante/doublement-des-franchises-medicales-et-hausse-du-ticket-moderateur-les-economies-esperees-sont-de-pres-de-3-milliards-d-euros_8120318.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-les-ecologistes-et-lfi-saisissent-le-conseil-constitutionnel_8120381.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/impots/impots-des-millions-de-francais-rembourses-a-partir-du-24-juillet_8116445.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -435,11 +435,21 @@
    "https://www.lemonde.fr/campus/article/2026/07/23/les-rares-fois-ou-je-ne-porte-pas-ma-prothese-au-travail-les-regards-se-braquent-sur-mon-sein-absent-la-poitrine-cet-objet-du-desir-qui-peut-cacher-la-maladie_6730345_4401467.html",
    "https://www.lemonde.fr/sport/article/2026/07/23/tour-de-france-2026-la-montagne-terrain-honni-des-sprinteurs-qui-luttent-pour-rentrer-dans-les-delais_6730587_3242.html",
    "https://www.lemonde.fr/international/article/2026/07/23/en-italie-la-blessure-toujours-ouverte-de-la-repression-lors-du-g8-de-genes-en-2001_6730108_3210.html",
-   "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html"
+   "https://www.lemonde.fr/planete/article/2026/07/23/marineland-d-antibes-le-transfert-de-huit-dauphins-a-commence-vers-l-espagne_6730621_3244.html",
+   "https://www.lemonde.fr/planete/live/2026/07/24/en-direct-incendies-plus-de-23-000-personnes-evacuees-dans-les-landes-en-gironde-la-prefecture-ordonne-l-evacuation-de-plusieurs-villages-de-la-presqu-ile-du-cap-ferret_6730417_3244.html",
+   "https://www.lemonde.fr/politique/article/2026/07/24/concert-interrompu-de-barbara-butch-pour-l-insoumis-bally-bagayoko-la-dj-a-raison-de-porter-plainte_6731470_823448.html",
+   "https://www.lemonde.fr/pixels/live/2026/07/24/posez-vos-questions-sur-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans_6731466_4408996.html",
+   "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-a-saint-petersbourg-provoque-un-incendie-dans-un-entrepot_6725306_3210.html",
+   "https://www.lemonde.fr/politique/article/2026/07/24/presidentielle-2027-en-bretagne-gabriel-attal-mene-campagne-pour-faire-decoller-sa-candidature_6731467_823448.html",
+   "https://www.lemonde.fr/international/article/2026/07/24/en-inde-le-gouvernement-peine-a-desamorcer-un-mouvement-de-contestation-qui-cible-desormais-narendra-modi_6731469_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/24/les-etats-membres-de-la-cpi-s-appretent-a-decider-du-sort-de-son-procureur-suspendu-pour-un-usage-abusif-de-pouvoir-ou-d-autorite-sur-son-assistante_6731464_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/24/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-vers-le-royaume-uni-selon-la-maison-blanche_6731242_3210.html",
+   "https://www.lemonde.fr/planete/article/2026/07/24/quatre-bassines-d-irrigation-doivent-etre-demantelees-en-charente-maritime-ordonne-la-justice_6731275_3244.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/24/l-ete-au-bureau-vu-par-colcanopa-business-plantes_6731417_3451060.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/24/dans-les-permeables-judith-vanistendael-se-tient-au-chevet-des-migrants-belges-de-2071_6731463_3451060.html",
+   "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/entraines-par-tromperie-le-botswana-accuse-la-russie-de-recruter-de-plus-en-plus-de-mercenaires-pour-combattre-en-ukraine-20260718",
-   "https://www.lefigaro.fr/international/barboter-bronzer-boire-des-spritz-a-odessa-en-ukraine-la-vie-plus-forte-que-la-guerre-20260718",
    "https://www.lefigaro.fr/international/soutien-de-viktor-orban-le-president-hongrois-tamas-sulyok-va-finalement-demissionner-20260718",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-inoubliable-je-n-ai-jamais-rien-vu-de-pareil-pogacar-impressionne-par-la-foule-immense-dans-les-vosges-20260718",
    "https://www.lefigaro.fr/international/guerre-au-moyen-orient-ce-que-l-on-sait-de-la-mort-de-deux-soldats-americains-en-jordanie-apres-une-attaque-iranienne-20260718",
@@ -737,7 +747,9 @@
    "https://www.lefigaro.fr/actualite-france/incendies-a-quoi-sert-le-mecanisme-de-protection-civile-de-l-union-europeenne-active-par-emmanuel-macron-20260724",
    "https://www.lefigaro.fr/meteo/pres-du-cap-ferret-les-images-d-une-interminable-nuit-de-combat-contre-les-flammes-20260724",
    "https://www.lefigaro.fr/meteo/un-feu-apocalyptique-23-000-personnes-evacuees-au-total-dans-les-landes-20260724",
-   "https://www.lefigaro.fr/actualite-france/incendies-en-france-l-avion-militaire-a400m-equivalent-de-trois-canadair-va-etre-deploye-d-ici-a-fin-juillet-annonce-le-gouvernement-20260723"
+   "https://www.lefigaro.fr/actualite-france/incendies-en-france-l-avion-militaire-a400m-equivalent-de-trois-canadair-va-etre-deploye-d-ici-a-fin-juillet-annonce-le-gouvernement-20260723",
+   "https://sante.lefigaro.fr/social/sante-publique/incendie-a-marseille-quelles-consequences-pour-la-sante-des-riverains-20250708",
+   "https://www.lefigaro.fr/flash-actu/combien-d-hectares-de-foret-ont-deja-brule-cette-annee-20260724"
   ],
   "https://www.france24.com/fr/rss": [
    "b1c34c28-81d3-11f1-b721-3b23e5248633",
@@ -2099,6 +2111,73 @@
  "evenements_attente": [
   {
    "faits": [
+    "Députés et sénateurs ont adopté l'interdiction des réseaux sociaux aux moins de 15 ans",
+    "Le vote a eu lieu mardi 21 juillet"
+   ],
+   "qui": "Députés, sénateurs français",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "177bcb54c631c24c",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530528+00:00"
+  },
+  {
+   "faits": [
+    "Une attaque de drones ukrainiens vise Saint-Pétersbourg",
+    "L'attaque provoque un incendie dans un entrepôt",
+    "Des entrepôts appartenant à Wildberries (équivalent russe d'Amazon) sont ciblés",
+    "La frappe aurait visé des installations d'infrastructures civiles selon le gouverneur"
+   ],
+   "qui": "Ukraine, Gouverneur Alexandre Beglov de Saint-Pétersbourg, Wildberries",
+   "ou": "Saint-Pétersbourg, Russie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "226a387aff83d62d",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530533+00:00"
+  },
+  {
+   "faits": [
+    "Les États membres de la CPI votent sur la révocation de Karim Khan (procureur)",
+    "Karim Khan est suspendu pour « usage abusif de pouvoir ou d'autorité » sur son assistante",
+    "Le vote se déroule vendredi 24 juillet",
+    "Les États-Unis mènent des attaques contre la Cour pénale internationale"
+   ],
+   "qui": "Karim Khan, États membres de la CPI, États-Unis",
+   "ou": null,
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "ef9643d6d6c67ec7",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530536+00:00"
+  },
+  {
+   "faits": [
     "Incendies massifs en Espagne près de Madrid",
     "L'Espagne a déclaré l'état d'urgence national",
     "Incendies en Europe du Sud"
@@ -2118,6 +2197,74 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-24T04:27:18.363677+00:00"
+  },
+  {
+   "faits": [
+    "Les Écologistes et LFI saisissent le Conseil constitutionnel sur la loi d'urgence agricole",
+    "Les députés contestent la réintroduction de pesticides interdits",
+    "Les députés contestent le doublement des volumes de stockage d'eau pour les usages agricoles"
+   ],
+   "qui": "Les Écologistes, La France Insoumise (LFI), Conseil constitutionnel",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "f504bd58373b5df1",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530538+00:00"
+  },
+  {
+   "faits": [
+    "À partir du 24 juillet, des millions de Français reçoivent un remboursement du fisc",
+    "Les remboursements suivent la régularisation de l'impôt sur le revenu",
+    "Les montants sont versés automatiquement",
+    "D'autres contribuables devront s'acquitter d'un complément à partir de septembre"
+   ],
+   "qui": "Fisc français",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "8e1b907b0cfc3176",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530539+00:00"
+  },
+  {
+   "faits": [
+    "Gabriel Attal mène campagne en Bretagne pour sa candidature à la présidentielle 2027",
+    "Attal s'est affiché aux côtés de Michel-Edouard Leclerc",
+    "Il affirme sa volonté de réduire l'écart entre le salaire net et le brut",
+    "Il multiplie les déplacements pendant la trêve estivale"
+   ],
+   "qui": "Gabriel Attal, Michel-Edouard Leclerc",
+   "ou": "Bretagne, France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "6a6bc866159e3b87",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530541+00:00"
   },
   {
    "faits": [
@@ -2190,6 +2337,53 @@
   },
   {
    "faits": [
+    "Doublement annoncé du plafond annuel des franchises médicales",
+    "Hausse du ticket modérateur",
+    "Économies estimées entre un et deux milliards d'euros",
+    "Le doublement devrait permettre d'économiser 750 millions d'euros"
+   ],
+   "qui": "Gouvernement français",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "3e9865c767d9ad2d",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530547+00:00"
+  },
+  {
+   "faits": [
+    "Concert de Barbara Butch interrompu à Grenoble samedi soir",
+    "L'interruption est due à une action de militants propalestiniens et de LFI",
+    "La DJ est de confession juive",
+    "Un appel au boycott avait été lancé notamment par la section iséroise des « insoumis »",
+    "Bally Bagayoko (« insoumis ») estime que la DJ « a raison » de porter plainte"
+   ],
+   "qui": "Barbara Butch, militants propalestiniens, La France Insoumise, Bally Bagayoko",
+   "ou": "Grenoble, France",
+   "categorie": "autre",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "256ebf1e0b3fb041",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530549+00:00"
+  },
+  {
+   "faits": [
     "Les canicules à répétition causent une hausse des décès chez les animaux de compagnie",
     "Les services d'urgences vétérinaires font face à un pic de mortalité inédit",
     "Les canicules impactent durement les animaux d'élevage",
@@ -2214,6 +2408,98 @@
   },
   {
    "faits": [
+    "Donald Trump ne s'opposera pas à l'extradition des frères Tate vers le Royaume-Uni",
+    "La Maison Blanche affirme qu'il n'y a aucun rôle à jouer pour les États-Unis",
+    "Le secrétaire d'État Marco Rubio a fait cette déclaration mercredi"
+   ],
+   "qui": "Donald Trump, frères Tate, Marco Rubio, Maison Blanche",
+   "ou": "États-Unis, Royaume-Uni",
+   "categorie": "justice",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "d6f972b5f990b709",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530552+00:00"
+  },
+  {
+   "faits": [
+    "Une justice ordonne le démantèlement de quatre bassines d'irrigation en Charente-Maritime",
+    "De nombreux manquements ont entaché l'édification de ces réserves d'eau",
+    "Les agriculteurs ont trois ans pour remettre les lieux en état",
+    "Les agriculteurs font appel de cette décision"
+   ],
+   "qui": "Justice, agriculteurs",
+   "ou": "Charente-Maritime, France",
+   "categorie": "justice",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "ed9a75482cb60f12",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530554+00:00"
+  },
+  {
+   "faits": [
+    "En Inde, un mouvement de contestation étudiant cible Narendra Modi",
+    "Les étudiants dénoncent la corruption du système éducatif",
+    "Les partis d'opposition soutiennent le mouvement",
+    "Plusieurs personnalités de Bollywood ont apporté leur soutien"
+   ],
+   "qui": "Narendra Modi, partis d'opposition indiens, étudiants, personnalités de Bollywood",
+   "ou": "Inde",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "f24ebeb0ce14fd4d",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:40:01.530556+00:00"
+  },
+  {
+   "faits": [
+    "2026 s'annonce comme l'une des pires années sur le front des incendies",
+    "Des feux de forêt hors normes sont observés en 2026",
+    "La respiration de fumées représente un risque sanitaire"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 78,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "l'évaluation précise du nombre d'hectares brûlés"
+   ],
+   "importance": 70,
+   "empreinte": "fbf188010e048c67",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:39:53.489821+00:00"
+  },
+  {
+   "faits": [
     "Une vidéo montre six hommes cagoulés, gantés et vêtus de noir se présentant comme membres de la DZ Mafia",
     "Ces hommes nient être à l'origine des menaces contre le maire d'Alès, Christophe Rivenq",
     "Le maire Christophe Rivenq a été exfiltré de son domicile par le Raid en pleine nuit lundi"
@@ -2235,6 +2521,30 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-24T04:27:18.363713+00:00"
+  },
+  {
+   "faits": [
+    "L'amant de Delphine Aussaguel critique les aveux de Cédric Jubillar",
+    "L'amant affirme que Cédric Jubillar avait l'intention de « détruire » le corps de sa femme",
+    "Cédric Jubillar aurait envisagé d'enfouir le corps dans un compost ou tas de fumier"
+   ],
+   "qui": "Donat-Jean (amant de Delphine Aussaguel), Cédric Jubillar",
+   "ou": null,
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "l'intention précise de Cédric Jubillar (selon l'amant)"
+   ],
+   "importance": 65,
+   "empreinte": "805e50c894d4bd71",
+   "score": 78,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T09:39:53.489273+00:00"
   },
   {
    "faits": [
@@ -2333,10 +2643,6 @@
  ],
  "publies_48h": [
   [
-   "bcb0708f8f32bdf7",
-   "2026-07-22T07:27:10.942819+00:00"
-  ],
-  [
    "5da83e64040a1ea6",
    "2026-07-22T10:04:06.599470+00:00"
   ],
@@ -2415,17 +2721,13 @@
   [
    "c33c2eba2bd0fd33",
    "2026-07-24T07:14:38.283260+00:00"
+  ],
+  [
+   "b79dba448b603f7f",
+   "2026-07-24T09:40:02.582287+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "7cb4e463123c3c57",
-   "2026-07-22T07:27:02.690898+00:00"
-  ],
-  [
-   "9e0a1cfe211a8d55",
-   "2026-07-22T07:27:08.919303+00:00"
-  ],
   [
    "9baca8afc7fc8861",
    "2026-07-22T22:29:45.593893+00:00"
@@ -2501,6 +2803,10 @@
   [
    "cf0f86d02c4b2646",
    "2026-07-24T07:14:35.749757+00:00"
+  ],
+  [
+   "bb26c4f9e8bb5aa7",
+   "2026-07-24T09:40:01.530513+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2512,12 +2818,13 @@
   "Macron active le mécanisme de protection civile de l'UE face aux incendies en France, décrite comme « sous très forte tension ». La France reçoit des renforts aériens croates, portugais, tchèques et slovaques. (franceinfo)",
   "🌡️ Des incendies ravagent 6000 hectares en Gironde et Landes. Près de 30000 personnes évacuées en Nouvelle-Aquitaine, dont au Cap-Ferret. Macron demande l'activation du mécanisme de protection civile de l'UE. (franceinfo)",
   "Les États-Unis ont lancé vendredi une treizième nuit consécutive de frappes en Iran. Les houthis intensifient leurs attaques en mer Rouge, bloquant le détroit de Bab El-Mandeb. Le pétrole dépasse 100 dollars le baril. (France 24, RFI)",
-  "⚡ FLASH — Des drones ukrainiens ont attaqué plusieurs entrepôts de Wildberries, l'équivalent russe d'Amazon, en Russie. Au moins 8 personnes sont mortes. L'Ukraine accuse la plateforme de stocker des composants militaires sous sanctions. (franceinfo, France 24)"
+  "⚡ FLASH — Des drones ukrainiens ont attaqué plusieurs entrepôts de Wildberries, l'équivalent russe d'Amazon, en Russie. Au moins 8 personnes sont mortes. L'Ukraine accuse la plateforme de stocker des composants militaires sous sanctions. (franceinfo, France 24)",
+  "🌡️ Les incendies en Gironde ont parcouru plus de 10 000 hectares. La presqu'île du Cap-Ferret est évacuée et sa route d'accès fermée. Le dispositif de protection à Lège-Cap-Ferret n'a pas tenu, selon la Sécurité civile. (franceinfo, Le Monde)"
  ],
  "recap_date": "2026-07-23",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-24",
-  "publies": 9
+  "publies": 10
  }
 }
