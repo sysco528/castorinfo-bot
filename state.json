@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/sports/foot/au-debut-il-ne-savait-pas-comment-tenir-le-bebe-les-coulisses-de-la-photo-de-lionel-messi-baignant-lamine-yamal-bebe_8112356.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-les-etats-unis-bombardent-l-iran-pour-la-septieme-nuit-consecutive_8112626.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/la-petite-finale-de-la-coupe-du-monde-ce-match-mal-aime-que-la-fifa-defend-mordicus-depuis-pres-d-un-siecle_8108783.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/reportage-affaire-jubillar-les-gendarmes-specialises-engages-dans-une-course-contre-la-montre-pour-identifier-les-ossements-retrouves-dans-le-tarn_8112218.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-aide-a-mourir-le-patient-ne-rencontrera-t-il-qu-un-seul-medecin-avant-la-validation-de-sa-demande-comme-le-denonce-francois-xavier-bellamy_8110238.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/alerte-secheresse-le-syndicat-eau-17-demande-aux-habitants-de-l-ile-de-re-de-reduire-leur-consommation-d-eau_8112695.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/loi-d-urgence-agricole-chaque-depute-va-etre-mis-devant-ses-responsabilites-previent-la-deputee-lfi-aurelie-trouve_8112587.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/incendies-dans-le-sud-ouest-des-plans-blancs-declenches-dans-les-hopitaux-en-gironde-et-dans-les-landes_8120822.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/palestine/un-israelien-et-quatre-palestiniens-tues-dans-des-affrontements-en-cisjordanie-l-armee-israelienne-annonce-se-preparer-a-mener-une-vaste-operation-antiterroriste_8120618.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/proche-orient/guerre/direct-guerre-au-moyen-orient-nouvelles-frappes-de-l-armee-americaine-en-iran-pour-la-treizieme-nuit-consecutive_8120123.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/can/coupe-d-afrique-des-nations-l-appel-du-senegal-declare-perdant-de-la-finale-2026-sur-tapis-vert-examine-par-le-tribunal-arbitral-du-sport-le-8-octobre_8120852.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/foot/can/coupe-d-afrique-des-nations-l-appel-du-senegal-declare-perdant-de-la-finale-2026-sur-tapis-vert-examine-par-le-tribunal-arbitral-du-sport-le-8-octobre_8120852.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-suivez-au-fil-des-heures-l-avancee-des-incendies-qui-ravagent-la-gironde-et-les-landes_8120696.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/espagne/c-est-une-catastrophe-19-000-personnes-evacuees-ou-confinees-dans-la-region-de-madrid-ou-sevit-le-pire-incendie-de-l-histoire-de-la-zone_8120666.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/impressionnant-tadej-pogacar-ec-ure-les-echappes-et-s-impose-brillamment-au-sommet-de-l-alpe-d-huez-a-l-issue-de-la-19e-etape-du-tour-de-france_8120942.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/basket/nba/lebron-james-annonce-s-engager-a-philadelphie-a-41-ans-je-suis-vraiment-impatient-de-me-lancer-une-derniere-fois-dans-cette-incroyable-aventure_8120984.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -450,10 +450,6 @@
    "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/actualite-france/incendies-a-fontainebleau-la-situation-se-stabilise-et-mobilise-de-moins-en-moins-de-pompiers-20260718",
-   "https://www.lefigaro.fr/flash-actu/paris-un-homme-en-garde-a-vue-pour-avoir-allume-un-incendie-dans-le-bois-de-boulogne-20260718",
-   "https://www.lefigaro.fr/international/c-est-un-criminel-de-guerre-le-maire-de-new-york-envisage-d-arreter-netanyahou-en-septembre-lors-de-l-assemblee-generale-de-l-onu-20260718",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-angleterre-en-video-l-ouverture-du-score-de-declan-rice-qui-punit-les-bleus-20260718",
    "https://www.lefigaro.fr/international/cuba-apres-5-ans-de-prison-l-artiste-dissident-luis-manuel-otero-alcantara-a-quitte-l-ile-pour-les-etats-unis-20260718",
    "https://www.lefigaro.fr/faits-divers/nancy-une-femme-meurt-apres-une-defenestration-du-4e-etage-son-compagnon-place-en-garde-a-vue-puis-libere-20260718",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-kylian-mbappe-egale-le-record-de-21-buts-de-lionel-messi-et-entre-un-peu-plus-dans-la-legende-20260719",
@@ -749,17 +745,13 @@
    "https://www.lefigaro.fr/actualite-france/plus-de-50-maisons-detruites-35-000-personnes-evacuees-les-images-de-l-incendie-xxl-en-gironde-20260724",
    "https://tvmag.lefigaro.fr/programme-tv/people/laura-smet-sophie-davant-laurent-delahousse-quelles-sont-les-celebrites-presentes-au-cap-ferret-20260724",
    "https://www.lefigaro.fr/actualite-france/journaliste-ecrivain-conseillere-d-elisabeth-borne-les-mille-vies-de-sophie-brocas-nouveau-visage-de-la-lutte-contre-les-incendies-en-gironde-20260724",
-   "https://www.lefigaro.fr/actualite-france/quatre-ans-apres-les-incendies-geants-de-2022-pourquoi-la-gironde-reste-si-vulnerable-aux-feux-20260724"
+   "https://www.lefigaro.fr/actualite-france/quatre-ans-apres-les-incendies-geants-de-2022-pourquoi-la-gironde-reste-si-vulnerable-aux-feux-20260724",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-tadej-pogacar-et-les-cadors-vont-s-expliquer-a-l-alpe-d-huez-suivez-la-19e-etape-20260724",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-le-show-pogacar-l-occasion-ratee-de-kuss-et-visma-seixas-a-la-peine-les-tops-et-les-flops-de-la-19e-etape-20260724",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-le-recital-d-un-immense-tadej-pogacar-dans-l-alpe-d-huez-20260724",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-en-video-quand-tadej-pogacar-vole-sur-l-alpe-d-huez-et-fait-la-police-en-ecartant-la-foule-20260724"
   ],
   "https://www.france24.com/fr/rss": [
-   "c4236ffa-81e8-11f1-9cf7-77f4476868cf",
-   "fe365ef2-81e1-11f1-a41b-7bd3748971fc",
-   "cb726434-81fa-11f1-a60c-6be8dfe14aa3",
-   "b0ab486c-81c0-11f1-b500-31b26f632ae5",
-   "de0824c8-81f8-11f1-84c7-ad536ef69cc6",
-   "871d577a-81f6-11f1-b0ac-ad536ef69cc6",
-   "53940db2-81f7-11f1-bebb-ad536ef69cc6",
-   "1ca91e34-8100-11f1-9a99-5db0ab9006c4",
    "dc91ba78-81f3-11f1-b095-09d5cdd8fc2b",
    "4dde3aa4-81fd-11f1-987e-6be8dfe14aa3",
    "4165c6d4-81f3-11f1-a68a-ad536ef69cc6",
@@ -1051,7 +1043,15 @@
    "5881fcd4-876b-11f1-ae41-375373b53a72",
    "f1b173c8-8769-11f1-a174-4934a3436f9b",
    "7e7f39b6-876a-11f1-931f-11b314cb6257",
-   "0c53c658-8761-11f1-b071-d1c391772bdf"
+   "0c53c658-8761-11f1-b071-d1c391772bdf",
+   "157a43f0-8771-11f1-8bb2-375373b53a72",
+   "9bf4cb3a-876c-11f1-9fe3-11b314cb6257",
+   "f705b734-875b-11f1-b0d3-c52558d179f0",
+   "8bf464a0-876e-11f1-9f72-375373b53a72",
+   "469f99c4-8769-11f1-93eb-4934a3436f9b",
+   "0e495a06-8773-11f1-80af-375373b53a72",
+   "b40096e4-8769-11f1-84a1-11b314cb6257",
+   "ae2970fa-876f-11f1-9f16-b73d34bc3205"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1332,11 +1332,11 @@
    "9a7fc05e-8760-11f1-95d9-118601b03238",
    "0dfe2b58-874b-11f1-b362-852f3d9356bc",
    "75c794b8-874b-11f1-953b-852f3d9356bc",
-   "27a25774-874a-11f1-9feb-852f3d9356bc"
+   "27a25774-874a-11f1-9feb-852f3d9356bc",
+   "f9197d94-877e-11f1-ad5c-43fd9f11d94b",
+   "a699791e-8771-11f1-ac98-c35eb1561de1"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/football/futsal/futsal-les-groupes-de-d1-d2-d1-feminine-et-u19-sont-connus-pour-la-saison-2026-2027-22ec0962-8152-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/d3-feminine/football-les-groupes-de-d3f-devoiles-avec-un-groupe-a-tres-a-louest-ce065f42-8151-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/argentine-angleterre-suspension-amende-que-risque-lalbiceleste-apres-le-deploiement-dune-banderole-politique-ceb461ba-813c-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/police/le-maire-dales-recoit-chez-lui-deux-balles-de-9-mm-signees-dz-mafia-a57715dc-815e-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/football-les-groupes-des-championnats-u17-u19-u19f-nationaux-pour-la-saison-2026-2027-dd7cfae0-815a-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1634,7 +1634,9 @@
    "https://programmetv.ouest-france.fr/plateformes/apple-tv-plus/the-morning-show-la-cinquieme-saison-de-la-serie-avec-reese-witherspoon-et-jennifer-aniston-sera-la-derniere-4536b702-874b-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/bretagne/rennes-35000/on-apercevait-les-flammes-depuis-la-piscine-les-animateurs-protegent-300-enfants-de-ce-centre-de-loisirs-a-rennes-19e4d536-8762-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/faits-divers/un-pere-et-sa-fille-se-perdent-en-randonnant-dans-le-gard-ils-sont-retrouves-epuises-cinq-heures-plus-tard-5a2615e2-876c-11f1-80e5-03ffc2b22a3a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/faits-divers/une-factrice-mordue-au-visage-par-un-chien-lors-de-sa-tournee-dans-une-commune-du-nord-de-la-sarthe-3ed55c58-8758-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/societe/faits-divers/une-factrice-mordue-au-visage-par-un-chien-lors-de-sa-tournee-dans-une-commune-du-nord-de-la-sarthe-3ed55c58-8758-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/basket/lebron-james/nba-fin-du-suspense-pour-la-superstar-lebron-james-qui-signe-aux-philadephia-sixers-9ca48d4a-8776-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/tennis/tennis-atp-250-destoril-van-assche-rejoint-son-compatriote-hugo-gaston-en-demi-finale-6b64f91c-877c-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2207,6 +2209,80 @@
   },
   {
    "faits": [
+    "Tadej Pogacar remporte la 19e étape du Tour de France à l'Alpe d'Huez",
+    "Pogacar bat le record de la montée établi par Marco Pantani en 1995",
+    "Pogacar conforte son statut de Maillot Jaune"
+   ],
+   "qui": "Tadej Pogacar",
+   "ou": "Alpe d'Huez, Isère (France)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "b49da7584709b313",
+   "score": 98,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-24T16:54:15.753907+00:00"
+  },
+  {
+   "faits": [
+    "LeBron James s'engage aux Philadelphia Sixers pour la saison prochaine",
+    "LeBron James a 41 ans",
+    "C'est sa 24e saison en NBA",
+    "Il quitte les Los Angeles Lakers après trois semaines de réflexion"
+   ],
+   "qui": "LeBron James, Philadelphia Sixers, Los Angeles Lakers",
+   "ou": "Philadelphie, États-Unis",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo",
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "7816342234899c40",
+   "score": 95,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-24T16:54:15.753909+00:00"
+  },
+  {
+   "faits": [
+    "Plus de 26 000 personnes évacuées dans la région de Madrid",
+    "Plus de 40 000 personnes touchées au total selon les autorités révisées",
+    "Trois fronts de feu dans la Communauté de Madrid menacent de fusionner",
+    "Un incendie d'Ávila en Castille-et-León menace de fusionner avec celui de Madrid",
+    "La Garde civile a arrêté une personne soupçonnée d'avoir déclenché l'incendie d'Ávila",
+    "Qualifié de 'pire incendie de l'histoire' de la zone"
+   ],
+   "qui": "Autorités espagnoles, Garde civile",
+   "ou": "Madrid, Ávila, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "franceinfo",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "b18d0cf4c3280d47",
+   "score": 94,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-24T16:54:15.753911+00:00"
+  },
+  {
+   "faits": [
     "Donald Trump annonce de nouveaux droits de douane sur les produits provenant d'une soixantaine de pays",
     "Ces tarifs visent les principaux partenaires commerciaux des États-Unis",
     "L'annonce intervient six mois après une décision de la Cour suprême jugeant illégaux la plupart des tarifs précédents",
@@ -2307,27 +2383,6 @@
   },
   {
    "faits": [
-    "Députés et sénateurs ont adopté l'interdiction des réseaux sociaux aux moins de 15 ans",
-    "Le vote a eu lieu mardi 21 juillet"
-   ],
-   "qui": "Députés, sénateurs français",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "177bcb54c631c24c",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530528+00:00"
-  },
-  {
-   "faits": [
     "Un incendie de forêt menace Biscarrosse dans les Landes depuis jeudi",
     "18 000 personnes ont été évacuées de Biscarrosse",
     "L'incendie a parcouru 2 600 hectares à la mi-journée vendredi",
@@ -2348,29 +2403,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-24T13:05:00.376139+00:00"
-  },
-  {
-   "faits": [
-    "Une attaque de drones ukrainiens vise Saint-Pétersbourg",
-    "L'attaque provoque un incendie dans un entrepôt",
-    "Des entrepôts appartenant à Wildberries (équivalent russe d'Amazon) sont ciblés",
-    "La frappe aurait visé des installations d'infrastructures civiles selon le gouverneur"
-   ],
-   "qui": "Ukraine, Gouverneur Alexandre Beglov de Saint-Pétersbourg, Wildberries",
-   "ou": "Saint-Pétersbourg, Russie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "226a387aff83d62d",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530533+00:00"
   },
   {
    "faits": [
@@ -2444,26 +2476,25 @@
   },
   {
    "faits": [
-    "Les États membres de la CPI votent sur la révocation de Karim Khan (procureur)",
-    "Karim Khan est suspendu pour « usage abusif de pouvoir ou d'autorité » sur son assistante",
-    "Le vote se déroule vendredi 24 juillet",
-    "Les États-Unis mènent des attaques contre la Cour pénale internationale"
+    "Incendies ravagent la Gironde et les Landes en France",
+    "L'Union européenne déploie quatre avions bombardiers d'eau pour lutter contre les feux en Espagne",
+    "Trois avions supplémentaires ont été annoncés pour la France dès jeudi"
    ],
-   "qui": "Karim Khan, États membres de la CPI, États-Unis",
-   "ou": null,
-   "categorie": "justice",
+   "qui": "Union européenne, autorités françaises",
+   "ou": "Gironde, Landes (France)",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
-   "confiance": 88,
+   "confiance": 85,
    "sources": [
-    "Le Monde"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "ef9643d6d6c67ec7",
+   "importance": 75,
+   "empreinte": "05dc414717559ebe",
    "score": 85,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530536+00:00"
+   "depuis": "2026-07-24T16:54:15.753918+00:00"
   },
   {
    "faits": [
@@ -2558,74 +2589,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-24T11:27:32.723912+00:00"
-  },
-  {
-   "faits": [
-    "Les Écologistes et LFI saisissent le Conseil constitutionnel sur la loi d'urgence agricole",
-    "Les députés contestent la réintroduction de pesticides interdits",
-    "Les députés contestent le doublement des volumes de stockage d'eau pour les usages agricoles"
-   ],
-   "qui": "Les Écologistes, La France Insoumise (LFI), Conseil constitutionnel",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "f504bd58373b5df1",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530538+00:00"
-  },
-  {
-   "faits": [
-    "À partir du 24 juillet, des millions de Français reçoivent un remboursement du fisc",
-    "Les remboursements suivent la régularisation de l'impôt sur le revenu",
-    "Les montants sont versés automatiquement",
-    "D'autres contribuables devront s'acquitter d'un complément à partir de septembre"
-   ],
-   "qui": "Fisc français",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "8e1b907b0cfc3176",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530539+00:00"
-  },
-  {
-   "faits": [
-    "Gabriel Attal mène campagne en Bretagne pour sa candidature à la présidentielle 2027",
-    "Attal s'est affiché aux côtés de Michel-Edouard Leclerc",
-    "Il affirme sa volonté de réduire l'écart entre le salaire net et le brut",
-    "Il multiplie les déplacements pendant la trêve estivale"
-   ],
-   "qui": "Gabriel Attal, Michel-Edouard Leclerc",
-   "ou": "Bretagne, France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "6a6bc866159e3b87",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530541+00:00"
   },
   {
    "faits": [
@@ -2745,95 +2708,143 @@
   },
   {
    "faits": [
-    "Doublement annoncé du plafond annuel des franchises médicales",
-    "Hausse du ticket modérateur",
-    "Économies estimées entre un et deux milliards d'euros",
-    "Le doublement devrait permettre d'économiser 750 millions d'euros"
+    "La sécheresse s'installe en Outre-mer",
+    "À Futuna, l'absence de pluie menace les cultures",
+    "Sept communes à La Réunion subissent des restrictions d'eau",
+    "La Martinique et la Guadeloupe connaissent des niveaux de nappes phréatiques faibles"
    ],
-   "qui": "Gouvernement français",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "3e9865c767d9ad2d",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530547+00:00"
-  },
-  {
-   "faits": [
-    "Concert de Barbara Butch interrompu à Grenoble samedi soir",
-    "L'interruption est due à une action de militants propalestiniens et de LFI",
-    "La DJ est de confession juive",
-    "Un appel au boycott avait été lancé notamment par la section iséroise des « insoumis »",
-    "Bally Bagayoko (« insoumis ») estime que la DJ « a raison » de porter plainte"
-   ],
-   "qui": "Barbara Butch, militants propalestiniens, La France Insoumise, Bally Bagayoko",
-   "ou": "Grenoble, France",
-   "categorie": "autre",
+   "qui": null,
+   "ou": "Outre-mer français (Caraïbe, océan Indien, Pacifique, La Réunion, Martinique, Guadeloupe, Futuna)",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 85,
    "sources": [
-    "Le Monde"
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "2146cdc0dbf68531",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T16:54:15.752969+00:00"
+  },
+  {
+   "faits": [
+    "L'Iran affirme avoir frappé au moyen de drones des installations utilisées par l'armée américaine",
+    "Les installations touchées sont situées au Bahreïn, en Jordanie et au Koweït",
+    "Ces frappes sont présentées comme une riposte à des bombardements contre le sol iranien",
+    "Les bombardements américains auraient eu lieu pendant 13 nuits consécutives"
+   ],
+   "qui": "Iran, États-Unis",
+   "ou": "Moyen-Orient (Bahreïn, Jordanie, Koweït, Iran)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "nature et ampleur des dégâts des frappes iraniennes"
+   ],
+   "importance": 70,
+   "empreinte": "9f9919bba0bd4dd5",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T16:54:15.752896+00:00"
+  },
+  {
+   "faits": [
+    "La CAN féminine 2026 débute dimanche 26 juillet",
+    "Elle se déroule au Maroc à Rabat",
+    "Pour la première fois, elle oppose les 16 meilleures sélections africaines",
+    "C'est la 14e édition",
+    "La VAR est introduite",
+    "L'événement avait été reporté en mars"
+   ],
+   "qui": "Confédération africaine de football",
+   "ou": "Rabat, Maroc",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "52b16d9b36a855a3",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-24T16:54:15.753929+00:00"
+  },
+  {
+   "faits": [
+    "La Coupe du monde 2026 s'est déroulée",
+    "L'Espagne a remporté le deuxième titre mondial",
+    "Le tournoi a accueilli 48 équipes",
+    "Il y a eu des polémiques autour de l'Argentine"
+   ],
+   "qui": "Fédérations de football",
+   "ou": "International",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "RFI"
    ],
    "non_confirme": [],
    "importance": 60,
-   "empreinte": "256ebf1e0b3fb041",
-   "score": 82,
-   "fiab_max": 90,
+   "empreinte": "41e2ca2d6358505b",
+   "score": 78,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530549+00:00"
+   "depuis": "2026-07-24T16:54:15.753930+00:00"
   },
   {
    "faits": [
-    "Donald Trump ne s'opposera pas à l'extradition des frères Tate vers le Royaume-Uni",
-    "La Maison Blanche affirme qu'il n'y a aucun rôle à jouer pour les États-Unis",
-    "Le secrétaire d'État Marco Rubio a fait cette déclaration mercredi"
+    "À 100 jours des JOJ Dakar 2026, le Comité d'organisation tient une conférence de presse",
+    "Les infrastructures seront livrées dans les délais",
+    "Les derniers tests sont en cours"
    ],
-   "qui": "Donald Trump, frères Tate, Marco Rubio, Maison Blanche",
-   "ou": "États-Unis, Royaume-Uni",
-   "categorie": "justice",
+   "qui": "Comité d'organisation des JOJ Dakar 2026",
+   "ou": "Dakar, Sénégal",
+   "categorie": "sport",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 80,
    "sources": [
-    "Le Monde"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 55,
-   "empreinte": "d6f972b5f990b709",
-   "score": 81,
-   "fiab_max": 90,
+   "importance": 45,
+   "empreinte": "33af9850ad164e09",
+   "score": 75,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530552+00:00"
+   "depuis": "2026-07-24T16:54:15.752821+00:00"
   },
   {
    "faits": [
-    "Une justice ordonne le démantèlement de quatre bassines d'irrigation en Charente-Maritime",
-    "De nombreux manquements ont entaché l'édification de ces réserves d'eau",
-    "Les agriculteurs ont trois ans pour remettre les lieux en état",
-    "Les agriculteurs font appel de cette décision"
+    "Macky Sall participe au premier débat des six candidats au poste de secrétaire général de l'ONU",
+    "Macky Sall est l'ancien président du Sénégal",
+    "Il défend une vision axée sur le dialogue, les réformes et le rétablissement de la confiance au sein de l'organisation"
    ],
-   "qui": "Justice, agriculteurs",
-   "ou": "Charente-Maritime, France",
-   "categorie": "justice",
+   "qui": "Macky Sall, Organisation des Nations unies",
+   "ou": "International",
+   "categorie": "international",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 80,
    "sources": [
-    "Le Monde"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 55,
-   "empreinte": "ed9a75482cb60f12",
-   "score": 81,
-   "fiab_max": 90,
+   "importance": 45,
+   "empreinte": "6049308d0bb55fb0",
+   "score": 75,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-24T09:40:01.530554+00:00"
+   "depuis": "2026-07-24T16:54:15.753007+00:00"
   }
  ],
  "publies_48h": [
