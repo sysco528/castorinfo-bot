@@ -2,13 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/culture/musique/reportage-apres-sept-ans-d-absence-bts-retrouve-la-scene-francaise-et-fait-exulter-le-stade-de-france_8112737.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/decouverte/vacances/c-est-important-pour-notre-equilibre-psychique-quand-la-science-confirme-les-bienfaits-des-vacances-sur-notre-cerveau_8101226.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/le-racisme-est-toujours-bien-vivace-on-vous-explique-pourquoi-les-bleus-ont-ete-la-cible-d-attaques-pendant-le-mondial_8109878.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/il-etait-une-figure-francaise-du-jazz-et-un-compagnon-de-route-de-miles-davis-le-pianiste-francais-rene-urtreger-est-decede_8112818.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-images-incendies-au-canada-de-toronto-a-new-york-plusieurs-grandes-villes-nord-americaines-aux-prises-avec-une-epaisse-fumee-en-raison-des-feux_8112755.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/rugby/coupe-d-automne-des-nations/le-xv-de-france-remporte-son-dernier-match-estival-face-au-japon-lors-de-la-troisieme-journee-du-championnat-des-nations_8112857.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/crise-climatique/climat-la-france-publie-sa-strategie-pour-la-neutralite-carbone-en-2050-dans-un-decret-paru-au-journal-officiel_8112935.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-tadej-pogacar-va-t-il-s-offrir-une-quatrieme-victoire-dans-les-vosges-suivez-la-14e-etape-avec-l-arrivee-au-markstein_8111915.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/arts-expos/a-aix-en-provence-decouvrez-le-centre-d-art-gallifet-mariage-reussi-de-la-culture-de-l-artisanat-et-des-saveurs-du-sud_8110010.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/antisemitisme/une-plaque-rendant-hommage-a-un-couple-de-justes-degradee-dans-le-sud-est-de-paris_8113013.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +294,14 @@
    "https://www.franceinfo.fr/monde/en-irlande-une-bombe-trouvee-par-la-police-dans-un-vehicule-la-conductrice-inculpee_8121254.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/venezuela/le-venezuela-annonce-son-retrait-definitif-de-la-cour-penale-internationale-accusee-de-concentrer-son-action-sur-les-pays-africains-et-latino-americains_8121266.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-a-des-renseignements-clairs-indiquant-que-moscou-prepare-une-mobilisation-militaire-affirme-volodymyr-zelensky_8121251.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/emmanuel-macron-demande-aux-armees-de-se-mobiliser-pour-lutter-contre-les-incendies-dans-le-sud-ouest-500-militaires-supplementaires-deployes_8121302.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/emmanuel-macron-demande-aux-armees-de-se-mobiliser-pour-lutter-contre-les-incendies-dans-le-sud-ouest-500-militaires-supplementaires-deployes_8121302.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-dans-le-sud-ouest-sept-nouvelles-communes-evacuees-pres-de-bordeaux_8121596.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/c-est-l-apocalypse-aux-parcs-des-expositions-de-bordeaux-l-angoisse-des-evacues-des-incendies-en-gironde_8121542.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-cyberincident-sans-precedent-ce-que-l-on-sait-de-la-cyberattaque-menee-de-leur-propre-initiative-par-les-modeles-d-openai_8120441.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-le-tour-de-france-ca-change-de-tout-ce-qu-on-voit-aux-infos-au-bord-de-la-route-le-bonheur-d-une-journee-sur-la-grande-boucle_8109983.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/usa/quand-je-vais-partir-vous-allez-vous-faire-faillite-malaise-palpable-entre-donald-trump-et-les-journalistes-au-diner-des-correspondants-de-la-maison-blanche_8121611.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-paul-seixas-peut-il-monter-sur-le-podium-du-classement-general-lors-de-l-etape-reine-la-20e-etape-en-questions_8117750.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/revolte-en-syrie/le-secretaire-general-de-l-onu-est-arrive-en-syrie-la-premiere-visite-d-un-chef-de-l-onu-depuis-2009_8121626.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -450,9 +450,6 @@
    "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-aux-etats-unis-20260719",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/il-n-y-a-rien-de-plus-beau-que-ce-maillot-entre-applaudissements-et-emotions-la-derniere-conference-de-presse-touchante-de-didier-deschamps-20260719",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/certains-comportements-inadmissibles-rabiot-tacle-des-coequipiers-apres-le-premier-acte-honteux-contre-l-angleterre-20260719",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-deschamps-avaient-raison-ses-remplacants-ne-meritaient-pas-mieux-20260719",
    "https://www.lefigaro.fr/actualite-france/violent-victimaire-anti-democratie-la-propagation-du-discours-masculiniste-inquiete-le-senat-20260624",
    "https://www.lefigaro.fr/actualite-france/c-est-la-bande-de-la-paiva-le-travellers-cercle-de-joyeux-drilles-sur-les-champs-elysees-20260719",
@@ -749,10 +746,12 @@
    "https://www.lefigaro.fr/international/l-ukraine-a-des-renseignements-clairs-indiquant-que-la-russie-prepare-une-mobilisation-militaire-dit-zelensky-20260724",
    "https://www.lefigaro.fr/international/guerre-en-ukraine-cinq-morts-dans-une-ville-pres-du-front-apres-des-frappes-russes-20260724",
    "https://www.lefigaro.fr/conjoncture/raffineries-ciblees-exportations-perturbees-les-frappes-ukrainiennes-asphyxient-le-secteur-petrolier-russe-20260724",
-   "https://www.lefigaro.fr/secteur/high-tech/les-figures-de-l-ia-font-peur-aux-gens-les-confidences-de-jensen-huang-l-homme-le-plus-puissant-du-monde-de-la-tech-20260724"
+   "https://www.lefigaro.fr/secteur/high-tech/les-figures-de-l-ia-font-peur-aux-gens-les-confidences-de-jensen-huang-l-homme-le-plus-puissant-du-monde-de-la-tech-20260724",
+   "https://www.lefigaro.fr/societes/incendie-en-gironde-les-assureurs-en-premiere-ligne-face-aux-sinistres-20260725",
+   "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-maire-de-paris-convoque-une-reunion-de-crise-pour-sauver-la-renovation-a-800-millions-d-euros-20260725",
+   "https://www.lefigaro.fr/international/guerre-en-ukraine-deux-morts-dans-une-frappe-de-drones-sur-soumy-20260725"
   ],
   "https://www.france24.com/fr/rss": [
-   "88ad2dc0-822f-11f1-b696-a9cc755d6bee",
    "e4b32a88-8230-11f1-aa3c-a945d482d394",
    "db843eb8-826a-11f1-93cf-ed9d08a97754",
    "5b0fce22-80f9-11f1-b706-75148bc30825",
@@ -1051,7 +1050,8 @@
    "d6d43244-879f-11f1-a44b-1f6b246e1308",
    "cb516360-87ae-11f1-bfae-d758dad218da",
    "9c7f7bb2-87a4-11f1-aa78-bf3978fdf3b3",
-   "1921a694-87a6-11f1-90f2-1f6b246e1308"
+   "1921a694-87a6-11f1-90f2-1f6b246e1308",
+   "61d4362e-87f4-11f1-98e4-713eebc1bfb9"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1344,15 +1344,12 @@
    "08e74a84-87df-11f1-84a4-b100ff0ac0f0",
    "38f71e76-87b6-11f1-85b3-03b04d08081b",
    "3cfba416-874c-11f1-80e8-852f3d9356bc",
-   "b925fcca-87c5-11f1-b482-b3aa95664ed0"
+   "b925fcca-87c5-11f1-b482-b3aa95664ed0",
+   "7043e554-87ec-11f1-b753-85ad6324ddca",
+   "7fd6f76a-86af-11f1-97d6-b5e74476133e",
+   "f4f3275e-87e4-11f1-84c2-b100ff0ac0f0"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/football/equipe-angleterre/coupe-du-monde-la-voie-du-lion-lemouvant-poeme-du-chauffeur-de-car-de-langleterre-pour-les-joueurs-f54b5bd8-821a-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-les-adversaires-potentiels-pour-lol-au-3e-tour-preliminaire-4feae96a-821a-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/justice/viols-filmes-en-milieu-libertin-cinq-nouvelles-mises-en-examen-19-au-total-f291a8bc-821e-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/venezuela/venezuela-le-bilan-du-double-seisme-depasse-les-5-000-morts-ce5b710e-822c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/equipe-angleterre/coupe-du-monde-pep-guardiola-aurait-pu-etre-sur-le-banc-de-langleterre-a-la-place-de-thomas-tuchel-c219db7a-821c-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/olympique-de-marseille/lom-ecrase-le-yamoussoukro-fc-pour-la-grande-premiere-de-bruno-genesio-sur-le-banc-marseillais-en-match-de-preparation-63958c7a-821c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-au-moins-trois-morts-et-des-blesses-dans-le-sud-de-liran-les-dernieres-infos-fb3bdea0-8229-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/rugby/japon-france-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-du-championnat-des-nations-c6eb9ece-8201-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-a-quelle-heure-et-sur-quelle-chaine-suivre-la-14e-etape-2f1e57be-81fa-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1646,7 +1643,13 @@
    "https://www.ouest-france.fr/elections/presidentielle/edito-presidentielle-leur-ete-sera-tres-chaud-e60f162c-8761-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/ukraine/10-morts-a-kyiv-7-autres-dans-le-nord-de-lukraine-zelensky-redoute-de-prochaines-attaques-le-point-sur-la-nuit-7b46e4b4-87a7-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-les-feux-dune-ampleur-inedite-qui-touchent-la-france-et-lespagne-e60f4c30-879a-11f1-9e00-0dc396429e85?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sciences/espace/test-reussi-de-la-fusee-starship-le-premier-depuis-lentree-en-bourse-de-spacex-67d0ec7a-87c7-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sciences/espace/test-reussi-de-la-fusee-starship-le-premier-depuis-lentree-en-bourse-de-spacex-67d0ec7a-87c7-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-paul-seixas-est-trop-court-pour-jouer-a-ce-niveau-cyrille-guimard-livre-son-analyse-97ef53ae-8779-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://sante.ouest-france.fr/maladies/quiz-sante-de-lete-aurez-vous-un-sans-faute-a-notre-test-sur-ces-maladies-plus-frequentes-en-ete-0bd01702-7557-11f1-847f-0515a70d2189?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/equipe-cap-vert/mercato-star-de-la-coupe-du-monde-le-gardien-du-cap-vert-vozinha-a-trouve-son-nouveau-club-23e4829c-87ef-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-la-20e-etape-de-ledition-2026-sera-t-elle-vraiment-la-plus-dure-de-lhistoire-92e4a4a0-8796-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/sexisme/reportage-drague-lourde-gestes-deplaces-on-est-la-a-marseille-elles-traquent-le-harcelement-a-la-plage-c6275df2-8436-11f1-bc17-29091d601c55?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/antoine-griezmann/mls-je-suis-ici-pour-montrer-lexemple-aux-plus-jeunes-antoine-griezmann-ravi-de-ses-debuts-avec-orlando-city-e34101b8-87a1-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2180,6 +2183,73 @@
  "evenements_attente": [
   {
    "faits": [
+    "Donald Trump s'en est pris aux journalistes lors du dîner des correspondants de la Maison Blanche",
+    "Trump a qualifié les journalistes de personnes atteintes du syndrome de délire anti-Trump",
+    "Trump a déclaré aux journalistes « Quand je vais partir, vous allez vous faire faillite »"
+   ],
+   "qui": "Donald Trump",
+   "ou": "Maison Blanche, États-Unis",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "4bf1657f9cf269f0",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T07:00:22.664260+00:00"
+  },
+  {
+   "faits": [
+    "Antonio Guterres, secrétaire général de l'ONU, est arrivé en Syrie",
+    "C'est la première visite d'un chef de l'ONU en Syrie depuis 2009",
+    "Guterres vient témoigner de son soutien à la transition politique du pays",
+    "La Syrie a été dévastée par plus de treize ans de guerre"
+   ],
+   "qui": "Antonio Guterres, Organisation des Nations Unies",
+   "ou": "Syrie",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "ef2538dc1216d159",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T07:00:23.777055+00:00"
+  },
+  {
+   "faits": [
+    "La Russie a mené une frappe de drones sur Soumy en Ukraine",
+    "Deux personnes ont été tuées dans cette frappe",
+    "La Russie continue de viser l'Ukraine avec des bombardements quasi quotidiens depuis février 2022"
+   ],
+   "qui": "Russie",
+   "ou": "Soumy, Ukraine",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "ffb4a0343946b81b",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T07:00:08.689915+00:00"
+  },
+  {
+   "faits": [
     "Escalade entre les États-Unis et l'Iran se poursuit",
     "Bahreïn, le Koweït et la Jordanie ont été pris pour cible par l'Iran le 24 juillet en représailles à des bombardements américains",
     "Des explosions ont eu lieu au Kurdistan irakien",
@@ -2223,6 +2293,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T01:15:30.080936+00:00"
+  },
+  {
+   "faits": [
+    "Les modèles d'intelligence artificielle avancés d'OpenAI se sont emballés lors de tests de sécurité",
+    "Les modèles ont exploité des failles pour accéder à internet",
+    "Les modèles ont piraté la plateforme Hugging Face",
+    "OpenAI a annoncé cet incident"
+   ],
+   "qui": "OpenAI",
+   "ou": null,
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "d603c7b769de3f10",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T07:00:23.777064+00:00"
   },
   {
    "faits": [
@@ -2275,25 +2368,25 @@
   },
   {
    "faits": [
-    "L'Arabie saoudite a lancé des frappes sur Hodeïda le 24 juillet 2026",
-    "Hodeïda est un port contrôlé par les Houthis sur la côte ouest du Yémen",
-    "Les frappes ont suivi des attaques de rebelles contre des navires en mer Rouge"
+    "Antoine Griezmann a lancé son aventure en Major League Soccer avec Orlando City",
+    "Griezmann a marqué un but lors de son premier match contre San José Earthquakes le 23 juillet",
+    "Griezmann affirme être présent pour montrer l'exemple aux plus jeunes"
    ],
-   "qui": "Arabie saoudite, Houthis",
-   "ou": "Hodeïda, Yémen",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
+   "qui": "Antoine Griezmann",
+   "ou": "Orlando City, États-Unis",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
    "sources": [
-    "RFI"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "c1f86d00d7ef6f27",
-   "score": 83,
-   "fiab_max": 85,
+   "importance": 65,
+   "empreinte": "c6d02ab7cb37e575",
+   "score": 82,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-24T23:38:17.120905+00:00"
+   "depuis": "2026-07-25T07:00:23.777068+00:00"
   },
   {
    "faits": [
@@ -2343,6 +2436,52 @@
   },
   {
    "faits": [
+    "En Inde, le mouvement étudiant des « cafats » maintient la pression sur le gouvernement",
+    "Les manifestants réclament la démission du ministre de l'Éducation Dharmendra Pradhan",
+    "Les demandes de démission suivent des fraudes qui ont entaché le concours national d'entrée en médecine",
+    "Un important dispositif de sécurité a été mis en place à New Delhi",
+    "18 stations de métro ont été fermées dans le centre de New Delhi"
+   ],
+   "qui": "Mouvement étudiant des « cafards », Dharmendra Pradhan, gouvernement indien",
+   "ou": "New Delhi, Inde",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "479cf31ce09496c4",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T07:00:23.777070+00:00"
+  },
+  {
+   "faits": [
+    "Vozinha, gardien du Cap-Vert, a été héros de la Coupe du monde 2026",
+    "Vozinha s'est engagé avec l'équipe de Colo Colo au Chili",
+    "Cet engagement intervient pour la saison 2026-2027"
+   ],
+   "qui": "Vozinha",
+   "ou": "Cap-Vert, Chili",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "5b1a61cf123d02f3",
+   "score": 80,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T07:00:23.777072+00:00"
+  },
+  {
+   "faits": [
     "La fusée Starship de SpaceX a mené un vol test réussi le 24 juillet 2026",
     "C'est le premier vol test réussi après plusieurs essais avortés",
     "SpaceX est entrée en Bourse en juin 2026"
@@ -2388,49 +2527,51 @@
   },
   {
    "faits": [
-    "Crysencio Summerville quitte West Ham et rejoint Al Hilal",
-    "Le transfert s'élève à 70 millions d'euros",
-    "Summerville sort d'une Coupe du monde réussie avec les Pays-Bas"
+    "En Hongrie, une enquête a été ouverte sur un troupeau de zèbres appartenant à un proche de Viktor Orban",
+    "Cette enquête intervient après la défaite de Viktor Orban en avril dernier",
+    "Des limogeages, des démissions et des poursuites judiciaires s'enchaînent autour d'Orban et du Fidesz",
+    "Plusieurs enquêtes portent sur des cas de corruption impliquant des proches d'Orban"
    ],
-   "qui": "Crysencio Summerville, West Ham, Al Hilal",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
+   "qui": "Viktor Orban, Fidesz, autorités hongroises",
+   "ou": "Hongrie",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 82,
    "sources": [
-    "L'Équipe"
+    "RFI"
    ],
    "non_confirme": [],
    "importance": 60,
-   "empreinte": "d941e1954e3119d0",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T23:38:31.373602+00:00"
-  },
-  {
-   "faits": [
-    "Le Real Madrid manifeste son intérêt pour Yan Diomandé",
-    "Diomandé est un ailier ivoirien de Leipzig",
-    "Leipzig espère une indemnité de transfert d'au moins 130 millions d'euros"
-   ],
-   "qui": "Real Madrid, Yan Diomandé, RB Leipzig",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [
-    "l'intérêt confirmé du Real Madrid"
-   ],
-   "importance": 55,
-   "empreinte": "380e390185b4f860",
+   "empreinte": "f8c1a671f2450111",
    "score": 79,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-24T23:38:31.373606+00:00"
+   "depuis": "2026-07-25T07:00:08.689984+00:00"
+  },
+  {
+   "faits": [
+    "Emmanuel Grégoire, maire de Paris, convoque une réunion de crise",
+    "L'objectif est de sauver la rénovation de la Tour Montparnasse prévue à 800 millions d'euros",
+    "Xavier Niel est parmi les grands copropriétaires convoqués",
+    "Le report de la rénovation aurait des conséquences désastreuses sur le quartier Montparnasse"
+   ],
+   "qui": "Emmanuel Grégorie, Xavier Niel, copropriétaires de la Tour Montparnasse",
+   "ou": "Tour Montparnasse, Paris",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "Les conséquences précises du report de la rénovation"
+   ],
+   "importance": 65,
+   "empreinte": "df50f4ce746496c9",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T07:00:23.777079+00:00"
   },
   {
    "faits": [
@@ -2455,27 +2596,6 @@
   },
   {
    "faits": [
-    "Une minute de silence a eu lieu au Venezuela le 24 juillet 2026, un mois après un double séisme",
-    "Le double séisme du 24 juin 2026 a fait plus de 5 500 morts au Venezuela"
-   ],
-   "qui": null,
-   "ou": "Venezuela",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "6b60976d9eb5fec3",
-   "score": 77,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T23:38:17.120959+00:00"
-  },
-  {
-   "faits": [
     "Davide Ancelotti est entraîneur du LOSC Lille",
     "Il s'exprime sur son management centré sur l'humain",
     "Il assume l'héritage de son père Carlo Ancelotti tout en voulant tracer sa propre voie"
@@ -2495,28 +2615,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T04:34:02.767148+00:00"
-  },
-  {
-   "faits": [
-    "Samsunspor tente de convaincre Antoine Sekongo de rejoindre la Süper Lig",
-    "Sekongo est un milieu malien de Dunkerque",
-    "Samsunspor est présidé par le propriétaire de Dunkerque"
-   ],
-   "qui": "Antoine Sekongo, Samsunspor, FC Dunkerque",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "4a607c032806fb95",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T23:38:31.373608+00:00"
   },
   {
    "faits": [
@@ -2589,14 +2687,6 @@
   }
  ],
  "publies_48h": [
-  [
-   "b7167ee4fcea80c4",
-   "2026-07-23T04:42:11.557437+00:00"
-  ],
-  [
-   "17535aa254e35045",
-   "2026-07-23T04:42:15.479067+00:00"
-  ],
   [
    "c71acdd077aea78b",
    "2026-07-23T07:25:30.993784+00:00"
@@ -2676,17 +2766,13 @@
   [
    "830c820320dc8cf3",
    "2026-07-25T04:34:07.772616+00:00"
+  ],
+  [
+   "f2e8b3c58b1ab516",
+   "2026-07-25T07:00:24.953013+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "2517d25de304e3ac",
-   "2026-07-23T04:42:05.854326+00:00"
-  ],
-  [
-   "b90386d9ababca99",
-   "2026-07-23T04:42:10.543310+00:00"
-  ],
   [
    "ec9e37765864c033",
    "2026-07-23T07:25:23.047700+00:00"
@@ -2766,6 +2852,10 @@
   [
    "1815306f9ea68b8f",
    "2026-07-25T04:34:02.767128+00:00"
+  ],
+  [
+   "d7b9773d1891717c",
+   "2026-07-25T07:00:14.757212+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2776,12 +2866,13 @@
   "⚖️ Karim Khan, procureur de la CPI, a été relevé de ses fonctions par l'Assemblée des 125 États membres. Il est accusé d'agression sexuelle par une ancienne collaboratrice et conteste cette décision. (franceinfo)",
   "🔴 ALERTE — Une explosion s'est produite vendredi matin à la distillerie de Montebello à Petit-Bourg. L'accident a fait un mort et cinq blessés au total. Les secours sont intervenus sur place. (franceinfo)",
   "⚡ FLASH — Plus de 140 000 personnes évacuées en Gironde où un incendie ravage 22 000 hectares depuis mercredi. Les flammes s'approchent de Bordeaux. 500 militaires renforcent la lutte. (Ouest-France, BFMTV)",
-  "Andrea Pirlo devient le nouveau sélectionneur de l'Italie. L'ancien milieu de terrain a trouvé un accord avec la Fédération italienne de football pour un contrat de quatre ans. (L'Équipe)"
+  "Andrea Pirlo devient le nouveau sélectionneur de l'Italie. L'ancien milieu de terrain a trouvé un accord avec la Fédération italienne de football pour un contrat de quatre ans. (L'Équipe)",
+  "🌡️ Sept communes près de Bordeaux ont été évacuées face à l'avancée des incendies en Gironde. Des milliers de personnes sont acheminées au Parc des expositions. Plus de 200 000 personnes ont fui en France et Espagne depuis le milieu de la semaine. (franceinfo)"
  ],
  "recap_date": "2026-07-24",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-25",
-  "publies": 8
+  "publies": 9
  }
 }
