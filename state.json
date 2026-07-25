@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-tadej-pogacar-va-t-il-s-offrir-une-quatrieme-victoire-dans-les-vosges-suivez-la-14e-etape-avec-l-arrivee-au-markstein_8111915.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/arts-expos/a-aix-en-provence-decouvrez-le-centre-d-art-gallifet-mariage-reussi-de-la-culture-de-l-artisanat-et-des-saveurs-du-sud_8110010.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/antisemitisme/une-plaque-rendant-hommage-a-un-couple-de-justes-degradee-dans-le-sud-est-de-paris_8113013.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/reportage-tenebreux-morbide-sur-la-route-des-vacances-ces-automobilistes-decouvrent-l-ampleur-des-degats-de-l-incendie-de-fontainebleau_8113016.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/equipe-de-france/coupe-du-monde-la-course-aux-records-de-kylian-mbappe-rendre-hommage-a-didier-deschamps-les-enjeux-de-la-petite-finale-france-angleterre_8110970.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/tourisme/australie-un-lac-rose-aux-multiples-nuances-qui-fascine-les-visiteurs_8113070.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/biodiversite/c-est-l-horreur-des-habitants-a-bout-face-a-des-invasions-de-fourmis-impossibles-a-eliminer_8113010.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/transports/autoroutes-face-aux-embouteillages-aux-bornes-electriques-les-bornistes-viennent-aider-les-automobilistes_8113097.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-le-tour-de-france-ca-change-de-tout-ce-qu-on-voit-aux-infos-au-bord-de-la-route-le-bonheur-d-une-journee-sur-la-grande-boucle_8109983.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/usa/quand-je-vais-partir-vous-allez-vous-faire-faillite-malaise-palpable-entre-donald-trump-et-les-journalistes-au-diner-des-correspondants-de-la-maison-blanche_8121611.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-paul-seixas-peut-il-monter-sur-le-podium-du-classement-general-lors-de-l-etape-reine-la-20e-etape-en-questions_8117750.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/revolte-en-syrie/le-secretaire-general-de-l-onu-est-arrive-en-syrie-la-premiere-visite-d-un-chef-de-l-onu-depuis-2009_8121626.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/revolte-en-syrie/le-secretaire-general-de-l-onu-est-arrive-en-syrie-la-premiere-visite-d-un-chef-de-l-onu-depuis-2009_8121626.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/c-est-scandaleux-d-avoir-cinq-canadair-disponibles-sur-12-pour-lutter-contre-les-incendies-deplore-un-commandant-de-bord-de-canadair_8121659.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/correze-aveyron-charente-les-fumees-des-incendies-dans-le-sud-ouest-se-propagent-sur-une-partie-du-territoire_8121710.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-suivez-avec-nous-l-etape-la-plus-dantesque-de-la-grande-boucle-avec-un-record-de-denivele-positif-entre-le-bourg-d-oisans-et-l-alpe-d-huez_8120327.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/meteo/les-bouches-du-rhone-et-le-var-sont-places-en-vigilance-orange-orages_8121608.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/otan/une-stagiaire-de-l-otan-soupconnee-d-espionnage-arretee-en-belgique_8121653.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -447,12 +447,21 @@
    "https://www.lemonde.fr/planete/article/2026/07/24/quatre-bassines-d-irrigation-doivent-etre-demantelees-en-charente-maritime-ordonne-la-justice_6731275_3244.html",
    "https://www.lemonde.fr/series-d-ete/article/2026/07/24/l-ete-au-bureau-vu-par-colcanopa-business-plantes_6731417_3451060.html",
    "https://www.lemonde.fr/series-d-ete/article/2026/07/24/dans-les-permeables-judith-vanistendael-se-tient-au-chevet-des-migrants-belges-de-2071_6731463_3451060.html",
-   "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html"
+   "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html",
+   "https://www.lemonde.fr/planete/live/2026/07/25/en-direct-incendies-evacuation-preventive-de-sept-communes-pres-de-bordeaux-140-000-personnes-evacuees-en-gironde-et-dans-les-landes_6730417_3244.html",
+   "https://www.lemonde.fr/international/article/2026/07/25/l-arabie-saoudite-et-les-houthistes-au-seuil-d-une-nouvelle-guerre-au-moyen-orient_6731930_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/25/de-propagandiste-du-kremlin-a-avocate-de-la-cause-ukrainienne-la-conversion-spectaculaire-de-laura-loomer-l-influenceuse-maga-qui-a-l-oreille-de-donald-trump_6731754_3210.html",
+   "https://www.lemonde.fr/sport/article/2026/07/25/tour-de-france-2026-le-parcours-de-la-vingtieme-etape-le-bourg-d-oisans-l-alpe-d-huez_6731891_3242.html",
+   "https://www.lemonde.fr/culture/article/2026/07/25/le-festival-d-avignon-malgre-son-affiche-sombre-se-clot-sur-une-note-optimiste_6731751_3246.html",
+   "https://www.lemonde.fr/international/article/2026/07/25/en-allemagne-friedrich-merz-remanie-son-gouvernement-a-quelques-semaines-d-elections-regionales-ou-une-poussee-inedite-de-l-extreme-droite-est-attendue_6732030_3210.html",
+   "https://www.lemonde.fr/videos/video/2026/07/25/pourquoi-l-incarceration-au-maroc-de-mehdi-black-wind-est-elle-denoncee-a-l-international_6731752_1669088.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/25/port-antique-crypte-mysterieuse-ou-villa-opulente-a-naples-des-experiences-d-exception-hors-des-sentiers-battus_6731649_3451060.html",
+   "https://www.lemonde.fr/m-styles/article/2026/07/25/vol-au-dessus-de-la-peninsule-norvegienne-de-varanger_6731892_4497319.html",
+   "https://www.lemonde.fr/les-decodeurs/article/2025/02/17/savez-vous-ce-qui-emet-un-peu-ou-beaucoup-de-co-prendre-l-avion-manger-de-la-viande-ou-utiliser-un-seche-linge-pendant-un-an_6145983_4355771.html",
+   "https://www.lemonde.fr/culture/article/2026/07/25/le-cinema-de-l-allemand-ulrich-kohler-entre-ironie-et-melancolie_6731929_3246.html",
+   "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-deschamps-avaient-raison-ses-remplacants-ne-meritaient-pas-mieux-20260719",
-   "https://www.lefigaro.fr/actualite-france/violent-victimaire-anti-democratie-la-propagation-du-discours-masculiniste-inquiete-le-senat-20260624",
-   "https://www.lefigaro.fr/actualite-france/c-est-la-bande-de-la-paiva-le-travellers-cercle-de-joyeux-drilles-sur-les-champs-elysees-20260719",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-une-finale-pour-entrer-dans-la-legende-20260719",
    "https://www.lefigaro.fr/actualite-france/christine-mauguee-nommee-presidente-de-la-section-du-contentieux-la-gauche-enracinee-au-conseil-d-etat-20260717",
    "https://www.lefigaro.fr/actualite-france/collusion-avec-l-extreme-gauche-bruno-retailleau-denonce-la-presence-d-un-juge-du-syndicat-de-la-magistrature-a-une-conference-de-presse-de-lfi-20260719",
@@ -749,7 +758,10 @@
    "https://www.lefigaro.fr/secteur/high-tech/les-figures-de-l-ia-font-peur-aux-gens-les-confidences-de-jensen-huang-l-homme-le-plus-puissant-du-monde-de-la-tech-20260724",
    "https://www.lefigaro.fr/societes/incendie-en-gironde-les-assureurs-en-premiere-ligne-face-aux-sinistres-20260725",
    "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-maire-de-paris-convoque-une-reunion-de-crise-pour-sauver-la-renovation-a-800-millions-d-euros-20260725",
-   "https://www.lefigaro.fr/international/guerre-en-ukraine-deux-morts-dans-une-frappe-de-drones-sur-soumy-20260725"
+   "https://www.lefigaro.fr/international/guerre-en-ukraine-deux-morts-dans-une-frappe-de-drones-sur-soumy-20260725",
+   "https://www.lefigaro.fr/actualite-france/incendie-en-gironde-sebastien-lecornu-a-demande-l-envoi-d-un-a400m-des-ce-samedi-20260725",
+   "https://www.lefigaro.fr/sciences/une-situation-totalement-inedite-qu-est-ce-qu-un-feu-convectif-comme-celui-qui-ravage-la-gironde-20260725",
+   "https://photo.lefigaro.fr/actualite-france/gironde-les-images-apocalyptiques-de-l-incendie-au-cap-ferret-20260724"
   ],
   "https://www.france24.com/fr/rss": [
    "e4b32a88-8230-11f1-aa3c-a945d482d394",
@@ -2183,6 +2195,30 @@
  "evenements_attente": [
   {
    "faits": [
+    "Karim Khan, procureur de la CPI, a été révoqué",
+    "Visé par une procédure pour faute grave",
+    "Accusé d'avoir engagé une relation sexuelle 'inappropriée' avec son assistante",
+    "Révocation risque de fragiliser la Cour pénale internationale",
+    "Pression croissante des États-Unis et d'Israël contre les enquêtes de la CPI sur les crimes en territoires palestiniens"
+   ],
+   "qui": "Karim Khan, Cour pénale internationale",
+   "ou": null,
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "92443fa2d8c14402",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T09:08:49.686259+00:00"
+  },
+  {
+   "faits": [
     "Donald Trump s'en est pris aux journalistes lors du dîner des correspondants de la Maison Blanche",
     "Trump a qualifié les journalistes de personnes atteintes du syndrome de délire anti-Trump",
     "Trump a déclaré aux journalistes « Quand je vais partir, vous allez vous faire faillite »"
@@ -2202,6 +2238,28 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-25T07:00:22.664260+00:00"
+  },
+  {
+   "faits": [
+    "Une stagiaire de l'Otan, ressortissante canadienne d'origine chinoise, arrêtée en Belgique",
+    "Soupçonnée d'espionnage",
+    "Travaillait au quartier général stratégique des Puissances Alliées en Europe de l'Otan à Mons"
+   ],
+   "qui": "Stagiaire de l'Otan (non nommée), Otan",
+   "ou": "Belgique, Mons",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "297882d60cb3cdf4",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T09:08:49.686266+00:00"
   },
   {
    "faits": [
@@ -2225,6 +2283,30 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-25T07:00:23.777055+00:00"
+  },
+  {
+   "faits": [
+    "Friedrich Merz, chancelier allemand, remanié son gouvernement",
+    "Élections régionales prévues à quelques semaines",
+    "Poussée inédite de l'extrême droite attendue",
+    "Reproches d'être trop tourné vers l'international",
+    "L'AfD est une force politique de plus en plus menaçante"
+   ],
+   "qui": "Friedrich Merz, AfD",
+   "ou": "Allemagne",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "e2f3c6bce9dc1fc3",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T09:08:49.686271+00:00"
   },
   {
    "faits": [
@@ -2274,25 +2356,47 @@
   },
   {
    "faits": [
-    "Des incendies se déclarent en Gironde, en particulier autour du bassin d'Arcachon",
-    "Des évacuations sont ordonnées à Andernos-les-Bains et dans la région",
-    "Des embouteillages importants se forment sur les routes lors de l'évacuation"
+    "Vigilance orange aux orages placée sur les Bouches-du-Rhône et le Var",
+    "Début d'événement météorologique prévu en début d'après-midi samedi"
    ],
-   "qui": null,
-   "ou": "Gironde, bassin d'Arcachon, Andernos-les-Bains",
+   "qui": "Météo France",
+   "ou": "Bouches-du-Rhône, Var",
    "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
+   "sensible": false,
+   "confiance": 90,
    "sources": [
-    "France 24"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 78,
-   "empreinte": "ac776c277fb433f3",
+   "importance": 60,
+   "empreinte": "5a3dc4da3866e810",
    "score": 84,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-25T01:15:30.080936+00:00"
+   "depuis": "2026-07-25T09:08:49.686273+00:00"
+  },
+  {
+   "faits": [
+    "80e édition du Festival d'Avignon s'est clôturée",
+    "Affiche sombre avec des créations à tonalité anxiogène et formats audacieux",
+    "Festival s'est déroulé malgré la canicule et la mobilisation sociale contre les coupes budgétaires",
+    "Taux de remplissage de 92 %"
+   ],
+   "qui": "Festival d'Avignon",
+   "ou": "Avignon",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "229cfb61bae360f0",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T09:08:49.686274+00:00"
   },
   {
    "faits": [
@@ -2368,6 +2472,29 @@
   },
   {
    "faits": [
+    "Laura Loomer, influenceuse complotiste d'extrême droite, a rencontré Volodymyr Zelensky à Kiev",
+    "Elle admet avoir cru que 'l'armée ukrainienne n'était qu'une bande de nazis'",
+    "Elle reconnaît être tombée dans la propagande russe",
+    "Conversion de propagandiste du Kremlin à avocate de la cause ukrainienne"
+   ],
+   "qui": "Laura Loomer, Volodymyr Zelensky",
+   "ou": "Kiev, Ukraine",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "4b01ad85bc841221",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T09:08:49.686278+00:00"
+  },
+  {
+   "faits": [
     "Antoine Griezmann a lancé son aventure en Major League Soccer avec Orlando City",
     "Griezmann a marqué un but lors de son premier match contre San José Earthquakes le 23 juillet",
     "Griezmann affirme être présent pour montrer l'exemple aux plus jeunes"
@@ -2387,6 +2514,29 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-25T07:00:23.777068+00:00"
+  },
+  {
+   "faits": [
+    "Mehdi Black Wind, rappeur marocain, est incarcéré au Maroc",
+    "Accusé d''outrage à une institution constitutionnelle'",
+    "Son incarcération est dénoncée à l'international",
+    "Nombreux soutiens notamment en France"
+   ],
+   "qui": "Mehdi Black Wind",
+   "ou": "Maroc",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "d3c8026dbd96c933",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T09:08:44.948029+00:00"
   },
   {
    "faits": [
@@ -2504,29 +2654,6 @@
   },
   {
    "faits": [
-    "Imane Ayissi est le premier créateur d'Afrique subsaharienne inscrit au calendrier officiel de la haute couture à Paris",
-    "Styliste camerounais ayant débuté comme danseur et mannequin",
-    "Il promeut les savoir-faire textiles africains sur les podiums de haute couture",
-    "Il défend une vision d'une mode africaine affranchie des clichés"
-   ],
-   "qui": "Imane Ayissi",
-   "ou": "Paris, Cameroun",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "87d3ba0fbe88077e",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T01:15:38.065435+00:00"
-  },
-  {
-   "faits": [
     "En Hongrie, une enquête a été ouverte sur un troupeau de zèbres appartenant à un proche de Viktor Orban",
     "Cette enquête intervient après la défaite de Viktor Orban en avril dernier",
     "Des limogeages, des démissions et des poursuites judiciaires s'enchaînent autour d'Orban et du Fidesz",
@@ -2618,28 +2745,6 @@
   },
   {
    "faits": [
-    "Un incendie détruit un centre de communication de la Nasa implanté en Espagne, près de Madrid",
-    "Ce site était utilisé pour communiquer avec des sondes spatiales",
-    "La Nasa a basculé ses opérations vers la Californie pour assurer la continuité"
-   ],
-   "qui": "Nasa",
-   "ou": "Espagne, région de Madrid",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "82b15b64091b9f41",
-   "score": 73,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T01:15:30.081004+00:00"
-  },
-  {
-   "faits": [
     "Un rapport de l'ONG Coffee Watch alerte sur la présence massive de pesticides dans le café",
     "Dans les pays producteurs, le café peut être cultivé avec de nombreux pesticides, dont certains sont interdits en Europe",
     "Des résidus de pesticides peuvent se retrouver dans les tasses consommées en Europe"
@@ -2659,42 +2764,9 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-25T04:33:52.477295+00:00"
-  },
-  {
-   "faits": [
-    "Le Washington Post affirme que l'Administration Trump étudie des options militaires au Mali",
-    "Les États-Unis envisagent une possible intervention militaire au Mali",
-    "Les autorités de Bamako ne confirment pas cette information"
-   ],
-   "qui": "États-Unis, administration Trump, Mali",
-   "ou": "Mali",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 60,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Confirmation par les autorités maliennes",
-    "Détails des options militaires étudiées"
-   ],
-   "importance": 72,
-   "empreinte": "94aba5ca180a2000",
-   "score": 71,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T01:15:30.081110+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "c71acdd077aea78b",
-   "2026-07-23T07:25:30.993784+00:00"
-  ],
-  [
-   "c9f876249a7cc2d4",
-   "2026-07-23T07:25:35.020406+00:00"
-  ],
   [
    "c01648839fa59987",
    "2026-07-23T22:34:48.172845+00:00"
@@ -2770,17 +2842,13 @@
   [
    "f2e8b3c58b1ab516",
    "2026-07-25T07:00:24.953013+00:00"
+  ],
+  [
+   "ad20cf0a5ffb9f30",
+   "2026-07-25T09:08:50.747412+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "ec9e37765864c033",
-   "2026-07-23T07:25:23.047700+00:00"
-  ],
-  [
-   "7bd1589f94d0e8b6",
-   "2026-07-23T07:25:29.917473+00:00"
-  ],
   [
    "b3e5533e630730ff",
    "2026-07-23T22:34:43.551516+00:00"
@@ -2856,6 +2924,10 @@
   [
    "d7b9773d1891717c",
    "2026-07-25T07:00:14.757212+00:00"
+  ],
+  [
+   "a397709bcdd70518",
+   "2026-07-25T09:08:49.686250+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2867,12 +2939,13 @@
   "🔴 ALERTE — Une explosion s'est produite vendredi matin à la distillerie de Montebello à Petit-Bourg. L'accident a fait un mort et cinq blessés au total. Les secours sont intervenus sur place. (franceinfo)",
   "⚡ FLASH — Plus de 140 000 personnes évacuées en Gironde où un incendie ravage 22 000 hectares depuis mercredi. Les flammes s'approchent de Bordeaux. 500 militaires renforcent la lutte. (Ouest-France, BFMTV)",
   "Andrea Pirlo devient le nouveau sélectionneur de l'Italie. L'ancien milieu de terrain a trouvé un accord avec la Fédération italienne de football pour un contrat de quatre ans. (L'Équipe)",
-  "🌡️ Sept communes près de Bordeaux ont été évacuées face à l'avancée des incendies en Gironde. Des milliers de personnes sont acheminées au Parc des expositions. Plus de 200 000 personnes ont fui en France et Espagne depuis le milieu de la semaine. (franceinfo)"
+  "🌡️ Sept communes près de Bordeaux ont été évacuées face à l'avancée des incendies en Gironde. Des milliers de personnes sont acheminées au Parc des expositions. Plus de 200 000 personnes ont fui en France et Espagne depuis le milieu de la semaine. (franceinfo)",
+  "Un incendie ravage la Gironde depuis mercredi, forçant l'évacuation de 140 000 personnes. Sept communes près de Bordeaux sont évacuées préventivement. Ce « feu convectif » se propage violemment. Seulement 5 Canadair sur 12 sont opérationnels."
  ],
  "recap_date": "2026-07-24",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-25",
-  "publies": 9
+  "publies": 10
  }
 }

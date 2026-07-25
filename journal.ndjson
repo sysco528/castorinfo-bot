@@ -6436,3 +6436,36 @@
 {"decision": "controle", "evt": "4bf1657f9cf269f0", "motif": "similarite_0.69", "ts": "2026-07-25T07:00:22+00:00"}
 {"decision": "controle", "evt": "ef2538dc1216d159", "motif": "similarite_0.59", "ts": "2026-07-25T07:00:23+00:00"}
 {"decision": "publie", "empreinte": "f2e8b3c58b1ab516", "post_id": "2080911025784668460", "carte": true, "texte": "🌡️ Sept communes près de Bordeaux ont été évacuées face à l'avancée des incendies en Gironde. Des milliers de personnes sont acheminées au Parc des expositions. Plus de 200 000 personnes ont fui en France et Espagne depuis le milieu de la semaine. (franceinfo)", "ts": "2026-07-25T07:00:24+00:00"}
+{"decision": "abandon_attente", "evt": "ac776c277fb433f3", "categorie": "meteo_catastrophe", "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "abandon_attente", "evt": "87d3ba0fbe88077e", "categorie": "culture", "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "abandon_attente", "evt": "82b15b64091b9f41", "categorie": "meteo_catastrophe", "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "abandon_attente", "evt": "94aba5ca180a2000", "categorie": "international", "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "a397709bcdd70518", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 95, "sources": ["franceinfo", "Le Monde", "Le Figaro"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "5a3dc4da3866e810", "score": 84, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "297882d60cb3cdf4", "score": 86, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "56286f47a1a2c34f", "score": 89, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "4b01ad85bc841221", "score": 83, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "e2f3c6bce9dc1fc3", "score": 85, "categorie": "politique", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "attente", "evt": "d3c8026dbd96c933", "score": 81, "categorie": "justice", "sensible": true, "confiance": 82, "sources": ["Le Monde"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "92443fa2d8c14402", "score": 87, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "229cfb61bae360f0", "score": 84, "categorie": "culture", "sensible": false, "confiance": 92, "sources": ["Le Monde"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "4bf1657f9cf269f0", "score": 87, "categorie": "politique", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "ef2538dc1216d159", "score": 86, "categorie": "international", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "attente", "evt": "ffb4a0343946b81b", "score": 84, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "attente", "evt": "bf63659af82c9fa6", "score": 84, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "d603c7b769de3f10", "score": 84, "categorie": "sciences", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "attente", "evt": "25f540cf190031ec", "score": 83, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "attente", "evt": "cbfabd87eb7247e8", "score": 83, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "c6d02ab7cb37e575", "score": 82, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "attente", "evt": "1adf5f2c5a766257", "score": 81, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "attente", "evt": "f5bce44c3f3d5a3b", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "479cf31ce09496c4", "score": 81, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "5b1a61cf123d02f3", "score": 80, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "2d33cdf2e5ce958c", "score": 80, "categorie": "sciences", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "attente", "evt": "f8c1a671f2450111", "score": 79, "categorie": "politique", "sensible": true, "confiance": 82, "sources": ["RFI"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "df50f4ce746496c9", "score": 79, "categorie": "economie", "sensible": false, "confiance": 80, "sources": ["Le Figaro"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "5328a31fb5efa4f3", "score": 78, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "publier", "evt": "7b7b2e4d17bd2681", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "attente", "evt": "8c152285981527fc", "score": 71, "categorie": "sante", "sensible": true, "confiance": 75, "sources": ["BFMTV"], "ts": "2026-07-25T09:08:44+00:00"}
+{"decision": "controle", "evt": "a397709bcdd70518", "motif": "ok_sim_0.33", "ts": "2026-07-25T09:08:49+00:00"}
+{"decision": "publie", "empreinte": "ad20cf0a5ffb9f30", "post_id": "2080943346265014490", "carte": true, "texte": "Un incendie ravage la Gironde depuis mercredi, forçant l'évacuation de 140 000 personnes. Sept communes près de Bordeaux sont évacuées préventivement. Ce « feu convectif » se propage violemment. Seulement 5 Canadair sur 12 sont opérationnels.", "ts": "2026-07-25T09:08:50+00:00"}
