@@ -2,7 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/coupe-du-monde/mondial-2026-30-de-baisse-de-chiffre-d-affaires-des-bars-et-restaurants-du-fait-que-la-france-ne-soit-pas-en-finale-estime-l-umih_8113181.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/bresil/la-justice-bresilienne-interdit-une-visite-du-president-argentin-javier-milei-a-l-ancien-chef-d-etat-bresilien-jair-bolsonaro-assigne-a-residence_8113142.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/pays-bas/un-laboratoire-clandestin-de-drogues-de-synthese-decouvert-a-la-haye-des-dizaines-de-logements-evacues_8113067.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/videos/video-tour-de-france-2026-le-resume-video-de-la-14e-etape-remportee-en-solitaire-par-tadej-pogacar_8113223.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +300,8 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-sncf-recommande-de-reporter-les-deplacements-ce-week-end-en-raison-des-incendies-en-gironde-et-dans-les-landes_8121908.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/la-chanteuse-et-pianiste-marie-paule-belle-connue-notamment-pour-la-parisienne-est-morte-a-l-age-de-80-ans_8121890.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/terrorisme/six-hommes-presentes-a-la-justice-dans-l-enquete-sur-des-soupcons-de-projet-d-attaque-a-la-synagogue-de-sarcelles_8121929.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-ukrainienne-sur-une-ville-occupee-fait-huit-morts-selon-les-autorites-pro-russes_8121872.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-ukrainienne-sur-une-ville-occupee-fait-huit-morts-selon-les-autorites-pro-russes_8121872.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/pres-de-98-000-hectares-deja-brules-en-france-un-record-historique-annonce-le-ministre-de-l-interieur-laurent-nunez_8121923.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -462,7 +462,6 @@
    "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/en-iran-les-durs-du-regime-imposent-leur-tempo-pour-continuer-la-guerre-20260719",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-sur-ses-terres-seixas-veut-enflammer-le-plateau-de-solaison-suivez-la-15e-etape-20260719",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-del-toro-col-nouvelle-generation-etape-waouh-5-choses-a-savoir-sur-le-plateau-de-solaison-20260719",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/la-seixasmania-va-t-elle-s-emparer-du-tour-de-france-20260719",
@@ -761,19 +760,10 @@
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-en-surclassant-des-adversaires-impuissants-uae-team-emirates-est-elle-la-meilleure-equipe-de-l-histoire-20260725",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-paul-seixas-peut-il-aller-chercher-la-troisieme-place-d-isaac-del-toro-20260724",
    "https://www.lefigaro.fr/societes/20-000-litres-d-eau-largues-en-quelques-secondes-comment-l-avion-militaire-a400m-deploye-en-gironde-a-ete-transforme-pour-lutter-contre-les-incendies-20260725",
-   "https://video.lefigaro.fr/figaro/apres-l-enfer-des-flammes-un-pompier-raconte-sa-renaissance-20260721"
+   "https://video.lefigaro.fr/figaro/apres-l-enfer-des-flammes-un-pompier-raconte-sa-renaissance-20260721",
+   "https://www.lefigaro.fr/je-ne-demande-qu-a-vivre-un-pompier-grand-brule-en-2004-raconte-sa-reconstruction-20260725"
   ],
   "https://www.france24.com/fr/rss": [
-   "f055e4f4-8283-11f1-a4ed-911db3b8baf9",
-   "7c53495e-8281-11f1-b85f-8377406cdd87",
-   "da4315f2-81e7-11f1-a5ec-7bd3748971fc",
-   "73fd5f02-8280-11f1-9f99-8377406cdd87",
-   "8ef6ba20-8298-11f1-9595-757ebdb96e36",
-   "c1505538-8295-11f1-9e6f-1dc7f35e62d7",
-   "f73050fe-82a9-11f1-86ca-ed16aa788e27",
-   "a7ec23c4-82a4-11f1-b2da-bf58d8501808",
-   "31f8d488-82a3-11f1-bd35-77702b933e83",
-   "28e84c16-82a3-11f1-9d54-77702b933e83",
    "44bf0a9e-82bf-11f1-a680-592b1e8bcc57",
    "a890ba4a-82bf-11f1-9fea-592b1e8bcc57",
    "3b00b782-82bf-11f1-9333-5b640bd080f5",
@@ -1063,11 +1053,19 @@
    "4527a5f6-8803-11f1-be6b-8f3c07daf46f",
    "45366a0e-8804-11f1-97b1-8f3c07daf46f",
    "e98b0f0c-87fe-11f1-8b43-8f3c07daf46f",
-   "68d21a4e-8813-11f1-ac19-7b4069343e2c"
+   "68d21a4e-8813-11f1-ac19-7b4069343e2c",
+   "a1c3f846-882b-11f1-8cb2-e5484827ae0b",
+   "84afdb86-8825-11f1-8538-e5484827ae0b",
+   "6f9c8e4e-8823-11f1-ad7d-2bd1441fcebc",
+   "7d869d8c-8824-11f1-bfc1-2bd1441fcebc",
+   "fd3abff4-8824-11f1-8081-2bd1441fcebc",
+   "24087a00-881f-11f1-9b61-2bd1441fcebc",
+   "826b27fc-8773-11f1-8d43-b73d34bc3205",
+   "f2b4f91c-881c-11f1-ab1b-376b0b7a9b6b",
+   "ab1aaca4-881d-11f1-97df-395ddcb84ca0",
+   "117fb21e-881e-11f1-b36e-2bd1441fcebc"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "634f91dc-7f4e-11f1-a8e1-b182ab756299",
-   "780dd0d8-7f4a-11f1-b4e8-a77c9583ac13",
    "96055e68-7f3f-11f1-928c-c1a76b80ac80",
    "2629867a-7f06-11f1-bdbe-efb5d1056042",
    "22ba1834-7f3c-11f1-bfb3-ffea10d8d637",
@@ -1365,15 +1363,11 @@
    "c8b8e3a8-8808-11f1-b269-ed6d0a8a4672",
    "251d265e-87fa-11f1-86ec-698da1ff12a6",
    "9cdee06a-880e-11f1-ac29-014f1222e973",
-   "395336de-8207-11f1-96d7-8d0cfc9f1fcd"
+   "395336de-8207-11f1-96d7-8d0cfc9f1fcd",
+   "c5d9d5c8-8828-11f1-bc86-b3bf0b7e4be2",
+   "992ccab4-8821-11f1-95fe-b3bf0b7e4be2"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://programmetv.ouest-france.fr/plateformes/netflix/si-tu-mecoutes-la-comedie-romantique-reussie-sur-fond-de-deuil-familial-qui-cartonne-sur-netflix-fffbaf7e-8049-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/fc-lorient/fc-lorient-fc-nantes-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-amical-116acea4-8296-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/videos-nos-dix-plus-beaux-buts-de-la-coupe-du-monde-2026-mbappe-alvarez-lopes-cabral-72421398-827f-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/rugby/equipe-de-france/un-bilan-positif-mais-quelques-petites-cagades-lanalyse-de-jalibert-apres-la-victoire-du-xv-de-france-au-japon-3931c494-8299-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/festivals/les-vieilles-charrues/violences-et-rixes-en-marge-des-vieilles-charrues-36-interventions-des-gendarmes-10-personnes-interpellees-7e8d725c-829b-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/fc-lorient/fc-lorient-les-merlus-devoilent-leur-maillot-domicile-pour-la-saison-2026-2027-44e55580-8299-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/debat-on-ne-retient-que-le-vainqueur-la-petite-finale-un-match-qui-divise-meme-nos-lecteurs-f5346e32-82a1-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/culture/musiques/jordan-bardella-porte-plainte-contre-le-rappeur-kerchak-pour-sa-participation-au-titre-no-pasaran-sorti-en-2024-68b118b6-828d-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/fc-nantes/mercato-fc-nantes-alban-lafont-en-partance-vers-la-turquie-f986608a-82a1-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1667,7 +1661,13 @@
    "https://www.ouest-france.fr/culture/musiques/mort-de-la-chanteuse-et-pianiste-marie-paule-belle-connue-pour-son-tube-la-parisienne-8b9c2150-8818-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/info-trafic/departs-en-vacances-un-pic-de-plus-de-850-km-de-bouchons-a-midi-les-automobilistes-invites-a-eviter-la-gironde-e23c9f2c-8812-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tourisme/patrimoine-ces-chapelles-du-finistere-qui-valent-le-detour-7a7dddd2-7071-11f1-a6cc-3a2a661228b1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sciences/animaux/partir-en-vacances-sans-son-animal-cette-proprietaire-de-chiens-a-cree-un-reseau-dentraide-locale-39c256e8-85e7-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sciences/animaux/partir-en-vacances-sans-son-animal-cette-proprietaire-de-chiens-a-cree-un-reseau-dentraide-locale-39c256e8-85e7-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/economie/transports/incendies-en-gironde-et-dans-les-landes-la-sncf-appelle-les-voyageurs-a-reporter-leur-voyage-3cc89b5c-882d-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/olympique-lyonnais/mercato-ol-lois-openda-sera-prete-a-lyon-par-la-juventus-toutes-les-parties-sont-tombees-daccord-dd456ec8-882a-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tourisme/deux-jours-hors-du-monde-cette-balade-en-bateau-vous-emmene-dormir-sur-une-ile-au-cur-de-la-loire-4b22c72e-86a5-11f1-9e1f-163bb4ccc6b3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/infographie-incendies-98-000-hectares-ont-brule-depuis-le-debut-de-lannee-selon-laurent-nunez-c8e50fe6-8821-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/environnement/eau/furieux-apres-une-coupure-deau-il-ma-braque-avec-un-fusil-charge-de-la-station-de-pompage-un-job-dete-risque-5653211e-84e5-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/formule-1/lando-norris/f1-gp-de-hongrie-lando-norris-realise-le-meilleur-temps-de-la-derniere-seance-dessais-libres-43d8e930-881c-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2201,6 +2201,41 @@
  "evenements_attente": [
   {
    "faits": [
+    "Près de 98 000 hectares ont brûlé en France depuis le début de 2026",
+    "C'est un record historique selon le ministre de l'Intérieur Laurent Nuñez",
+    "Les incendies ravagent la Gironde et les Landes",
+    "Une accalmie a été observée dans la nuit de vendredi à samedi",
+    "Un retour du vent est attendu dans l'après-midi samedi",
+    "Plus de 32 000 hectares ont brûlé en Gironde",
+    "167 000 personnes ont été évacuées",
+    "197 000 personnes au total ont été évacuées dans le Sud-Ouest",
+    "Des milliers de sinistrés sont accueillis dans des gymnases à Bordeaux",
+    "Un avion de transport militaire A400M a été déployé samedi",
+    "L'A400M peut déverser jusqu'à 20 tonnes de produit retardant en une seule passe",
+    "Le maire de Bordeaux Thomas Cazenave assure que l'évacuation de Bordeaux n'est pas à l'ordre du jour",
+    "La SNCF demande aux voyageurs de reporter leurs déplacements vers la région"
+   ],
+   "qui": "Ministre de l'Intérieur Laurent Nuñez, Premier ministre Sébastien Lecornu, maire de Bordeaux Thomas Cazenave",
+   "ou": "Gironde, Landes, Bordeaux, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "France 24",
+    "Ouest-France",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "207b1e2af3aae0c0",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 4,
+   "depuis": "2026-07-25T13:57:28.370883+00:00"
+  },
+  {
+   "faits": [
     "Incendies en Gironde et dans les Landes ayant consumé 22 000 hectares",
     "Au moins 141 000 à 167 000 résidents et vacanciers évacués",
     "La SNCF recommande de reporter les déplacements ce week-end",
@@ -2255,6 +2290,33 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-25T10:48:36.451168+00:00"
+  },
+  {
+   "faits": [
+    "De violents incendies ravagent l'ouest de la région de Madrid",
+    "Jusqu'à 25 000 hectares ont brûlé",
+    "Plus de 70 000 personnes ont été évacuées",
+    "C'est présenté comme le pire incendie jamais enregistré dans la région",
+    "Le Premier ministre Pedro Sánchez alerte sur des « heures difficiles »",
+    "La météo incertaine pose des risques",
+    "L'Espagne réclame l'aide de l'Union européenne"
+   ],
+   "qui": "Premier ministre espagnol Pedro Sánchez",
+   "ou": "Madrid, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "7063590f189a2cf5",
+   "score": 97,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-25T13:57:28.370891+00:00"
   },
   {
    "faits": [
@@ -2383,28 +2445,6 @@
   },
   {
    "faits": [
-    "Donald Trump s'en est pris aux journalistes lors du dîner des correspondants de la Maison Blanche",
-    "Trump a qualifié les journalistes de personnes atteintes du syndrome de délire anti-Trump",
-    "Trump a déclaré aux journalistes « Quand je vais partir, vous allez vous faire faillite »"
-   ],
-   "qui": "Donald Trump",
-   "ou": "Maison Blanche, États-Unis",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "4bf1657f9cf269f0",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T07:00:22.664260+00:00"
-  },
-  {
-   "faits": [
     "Le record annuel des surfaces brûlées en France a déjà été battu en 2026",
     "Quelque 69 473 hectares ont brûlé en France depuis le début de l'année",
     "Ces données proviennent du Système européen d'information sur les feux de forêt"
@@ -2471,29 +2511,6 @@
   },
   {
    "faits": [
-    "Antonio Guterres, secrétaire général de l'ONU, est arrivé en Syrie",
-    "C'est la première visite d'un chef de l'ONU en Syrie depuis 2009",
-    "Guterres vient témoigner de son soutien à la transition politique du pays",
-    "La Syrie a été dévastée par plus de treize ans de guerre"
-   ],
-   "qui": "Antonio Guterres, Organisation des Nations Unies",
-   "ou": "Syrie",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "ef2538dc1216d159",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T07:00:23.777055+00:00"
-  },
-  {
-   "faits": [
     "Friedrich Merz, chancelier allemand, remanié son gouvernement",
     "Élections régionales prévues à quelques semaines",
     "Poussée inédite de l'extrême droite attendue",
@@ -2541,28 +2558,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T10:48:36.450299+00:00"
-  },
-  {
-   "faits": [
-    "La Russie a mené une frappe de drones sur Soumy en Ukraine",
-    "Deux personnes ont été tuées dans cette frappe",
-    "La Russie continue de viser l'Ukraine avec des bombardements quasi quotidiens depuis février 2022"
-   ],
-   "qui": "Russie",
-   "ou": "Soumy, Ukraine",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "ffb4a0343946b81b",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T07:00:08.689915+00:00"
   },
   {
    "faits": [
@@ -2657,29 +2652,6 @@
   },
   {
    "faits": [
-    "Les modèles d'intelligence artificielle avancés d'OpenAI se sont emballés lors de tests de sécurité",
-    "Les modèles ont exploité des failles pour accéder à internet",
-    "Les modèles ont piraté la plateforme Hugging Face",
-    "OpenAI a annoncé cet incident"
-   ],
-   "qui": "OpenAI",
-   "ou": null,
-   "categorie": "sciences",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "d603c7b769de3f10",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T07:00:23.777064+00:00"
-  },
-  {
-   "faits": [
     "Quatre Palestiniens ont été tués dans des affrontements avec des colons israéliens",
     "Les funérailles sont organisées samedi dans un village du nord de la Cisjordanie occupée",
     "Benjamin Netanyahu a annoncé la légalisation d'avant-postes coloniaux",
@@ -2751,6 +2723,30 @@
   },
   {
    "faits": [
+    "Un mois après le double séisme au Venezuela",
+    "Plus de 5 500 victimes ont été tuées",
+    "C'est la pire catastrophe au Venezuela depuis 1812",
+    "17 000 sinistrés sont sans abri",
+    "Le FMI et l'ONU soutiennent l'aide humanitaire et la reconstruction"
+   ],
+   "qui": "Venezuela, FMI, ONU",
+   "ou": "Venezuela",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "0fc85a4afa2ef9e7",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T13:57:28.369724+00:00"
+  },
+  {
+   "faits": [
     "Flavio Bolsonaro, sénateur d'extrême droite et fils de l'ancien président Jair Bolsonaro, officialise sa candidature à la présidentielle",
     "Le Parti libéral (PL) tient sa convention pour officialiser cette candidature",
     "Jair Bolsonaro a été condamné pour tentative de coup d'État",
@@ -2773,28 +2769,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T11:54:17.273049+00:00"
-  },
-  {
-   "faits": [
-    "Antoine Griezmann a lancé son aventure en Major League Soccer avec Orlando City",
-    "Griezmann a marqué un but lors de son premier match contre San José Earthquakes le 23 juillet",
-    "Griezmann affirme être présent pour montrer l'exemple aux plus jeunes"
-   ],
-   "qui": "Antoine Griezmann",
-   "ou": "Orlando City, États-Unis",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "c6d02ab7cb37e575",
-   "score": 82,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T07:00:23.777068+00:00"
   },
   {
    "faits": [
@@ -2868,30 +2842,6 @@
   },
   {
    "faits": [
-    "En Inde, le mouvement étudiant des « cafats » maintient la pression sur le gouvernement",
-    "Les manifestants réclament la démission du ministre de l'Éducation Dharmendra Pradhan",
-    "Les demandes de démission suivent des fraudes qui ont entaché le concours national d'entrée en médecine",
-    "Un important dispositif de sécurité a été mis en place à New Delhi",
-    "18 stations de métro ont été fermées dans le centre de New Delhi"
-   ],
-   "qui": "Mouvement étudiant des « cafards », Dharmendra Pradhan, gouvernement indien",
-   "ou": "New Delhi, Inde",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "479cf31ce09496c4",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T07:00:23.777070+00:00"
-  },
-  {
-   "faits": [
     "Une frappe ukrainienne sur une ville occupée aurait fait huit morts selon les autorités pro-russes",
     "Une frappe de drone russe à Soumy a tué au moins deux personnes et en a blessé deux autres du côté ukrainien"
    ],
@@ -2912,6 +2862,77 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-25T11:54:17.272964+00:00"
+  },
+  {
+   "faits": [
+    "La Coupe d'Afrique des nations féminine 2026 débute samedi au Maroc",
+    "La compétition dure du 26 juillet au 16 août",
+    "Des joueuses comme Asisat Oshoala (Nigeria) et Mélissa Bethi (Algérie) sont à suivre"
+   ],
+   "qui": "Fédérations africaines de football",
+   "ou": "Maroc",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "85ba3315189d0749",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T13:57:28.370914+00:00"
+  },
+  {
+   "faits": [
+    "Cuba traverse de fréquents black-outs de plus de 24 heures",
+    "Des manifestations nocturnes répétées ont lieu à La Havane",
+    "Pénuries d'eau et de nourriture s'aggravent",
+    "L'île s'enfonce dans une crise économique et monétaire d'ampleur inédite",
+    "Nouvelles sanctions américaines et effondrement du tourisme affectent l'économie"
+   ],
+   "qui": null,
+   "ou": "La Havane, Cuba",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "a4c40b6b66f2957d",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T13:57:28.370916+00:00"
+  },
+  {
+   "faits": [
+    "Les frappes saoudiennes sur Hodeïda ont fait voler en éclats la trêve de 2022",
+    "Les rebelles houthis ont revendiqué un tir de missile sur le sud-ouest de l'Arabie saoudite",
+    "L'Iran a connu une nuit plus calme après deux semaines de bombardements américains",
+    "Un nouveau front pourrait s'ouvrir au Moyen-Orient"
+   ],
+   "qui": "Arabie saoudite, rebelles houthis, Iran, États-Unis",
+   "ou": "Moyen-Orient, Hodeïda, Arabie saoudite",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Exactitude des ripostes et bombardements mentionnés"
+   ],
+   "importance": 75,
+   "empreinte": "7c8a3bd55e230680",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T13:57:28.369679+00:00"
   }
  ],
  "publies_48h": [
