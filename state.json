@@ -752,9 +752,6 @@
    "https://www.lefigaro.fr/secteur/high-tech/les-figures-de-l-ia-font-peur-aux-gens-les-confidences-de-jensen-huang-l-homme-le-plus-puissant-du-monde-de-la-tech-20260724"
   ],
   "https://www.france24.com/fr/rss": [
-   "0d4788ac-821f-11f1-9d9f-8d17914052f0",
-   "7abe4634-821d-11f1-aada-4b666086fb39",
-   "63982f38-8227-11f1-9eaf-4ba013b1d5db",
    "88ad2dc0-822f-11f1-b696-a9cc755d6bee",
    "e4b32a88-8230-11f1-aa3c-a945d482d394",
    "db843eb8-826a-11f1-93cf-ed9d08a97754",
@@ -1051,7 +1048,10 @@
    "50b32aa2-8787-11f1-bd5a-69e1c6a20272",
    "7473672e-8776-11f1-8afe-6bd81621131e",
    "088e2d92-878e-11f1-8afb-73c0f482dd55",
-   "d6d43244-879f-11f1-a44b-1f6b246e1308"
+   "d6d43244-879f-11f1-a44b-1f6b246e1308",
+   "cb516360-87ae-11f1-bfae-d758dad218da",
+   "9c7f7bb2-87a4-11f1-aa78-bf3978fdf3b3",
+   "1921a694-87a6-11f1-90f2-1f6b246e1308"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -1810,7 +1810,8 @@
    "https://www.20minutes.fr/diaporama/diaporama-4236117-images-terribles-incendies-menacent-cap-ferret-biscarrosse?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4236200-20260724-incendies-comment-agriculteurs-font-face-risques-depart-feu-champs?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/faits_divers/4236159-20260724-mort-thomas-crepol-pourquoi-ajout-circonstance-racisme-fait-basculer-dossier?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/planete/4236228-20260725-incendies-armee-plan-blanc-masques-ffp2-lecornu-annonce-renforcement-massif-moyens-etat?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/planete/4236228-20260725-incendies-armee-plan-blanc-masques-ffp2-lecornu-annonce-renforcement-massif-moyens-etat?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/espagne/4236240-20260725-incendies-implante-espagne-site-majeur-communication-nasa-detruit-flammes?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2165,121 +2166,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "Karim Khan, procureur de la CPI, a été relevé de ses fonctions",
-    "L'Assemblée des 125 États membres de la CPI a voté son relevé de fonctions",
-    "Khan est accusé d'agression sexuelle par une ancienne collaboratrice",
-    "Khan conteste cette décision selon son avocat"
-   ],
-   "qui": "Karim Khan (procureur de la CPI)",
-   "ou": null,
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "3ca5a82e4ce99505",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T21:19:20.866745+00:00"
-  },
-  {
-   "faits": [
-    "110 000 personnes ont été évacuées en Gironde",
-    "Les autorités déclarent qu'elles vont tout faire pour protéger la ville de Bordeaux",
-    "Des incendies ravagent la Gironde",
-    "44 000 personnes ont été évacuées en Gironde (chiffre antérieur)"
-   ],
-   "qui": "Autorités françaises",
-   "ou": "Gironde, Bordeaux",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "8cc8266de28e90b3",
-   "score": 87,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T18:41:16.621473+00:00"
-  },
-  {
-   "faits": [
-    "Explosion à la distillerie de Montebello à Petit-Bourg",
-    "Un décès enregistré",
-    "Quatre blessés graves initialement, cinq au total mentionnés",
-    "Explosion survenue vendredi matin"
-   ],
-   "qui": null,
-   "ou": "Petit-Bourg, distillerie de Montebello, quartier de Montebello",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "8542300a06ea812d",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T20:06:14.394645+00:00"
-  },
-  {
-   "faits": [
-    "Une bombe a été trouvée par la police irlandaise dans un véhicule",
-    "Le véhicule était situé près de la frontière avec l'Irlande du Nord",
-    "La conductrice, âgée de 25 ans, a été inculpée",
-    "Un homme d'une quarantaine d'années a également été interpellé"
-   ],
-   "qui": "Conductrice (25 ans), homme (quarantaine d'années)",
-   "ou": "Irlande (près frontière Irlande du Nord)",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "cb15cbcfc3ec946b",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T21:19:20.866748+00:00"
-  },
-  {
-   "faits": [
-    "Le Venezuela annonce son retrait définitif de la Cour pénale internationale",
-    "Le Venezuela est visé par une enquête pour de possibles crimes contre l'humanité commis sous la présidence de Nicolas Maduro",
-    "Le Venezuela accuse la CPI de concentrer son action sur les pays africains et latino-américains",
-    "Le Venezuela juge que la juridiction internationale aggrave les inégalités entre les peuples"
-   ],
-   "qui": "Venezuela (gouvernement de Nicolas Maduro)",
-   "ou": "Venezuela",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "b2816f38ce440833",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T21:19:20.866750+00:00"
-  },
-  {
-   "faits": [
     "Un surveillant de collège de 24 ans mis en examen pour viol sur mineur",
     "Les faits se sont déroulés entre septembre 2025 et juin 2026",
     "L'année scolaire couverte par les accusations"
@@ -2370,30 +2256,6 @@
   },
   {
    "faits": [
-    "Deux colons israéliens ont été tués près du village de Tell en Cisjordanie",
-    "Quatre Palestiniens ont été tués lors du même incident",
-    "Les violences ont été déclenchées par une altercation autour d'un groupe d'Israéliens entrés sans autorisation",
-    "Un Palestinien s'est emparé d'une arme et a ouvert le feu",
-    "Israël lance une vaste opération de répression en Cisjordanie"
-   ],
-   "qui": "Israël, colons israéliens, Palestiniens",
-   "ou": "Cisjordanie occupée, village de Tell",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "0f4ec53b35a3629d",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T18:41:16.621650+00:00"
-  },
-  {
-   "faits": [
     "Tadej Pogacar a remporté une nouvelle victoire dans la montée de l'Alpe d'Huez lors de la 19e étape du Tour de France",
     "Il est revenu sur les hommes de tête qui possédaient environ trois minutes d'avance au pied de la difficulté",
     "Pogacar porte le maillot jaune"
@@ -2413,6 +2275,28 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-24T21:19:20.866754+00:00"
+  },
+  {
+   "faits": [
+    "Des incendies se déclarent en Gironde, en particulier autour du bassin d'Arcachon",
+    "Des évacuations sont ordonnées à Andernos-les-Bains et dans la région",
+    "Des embouteillages importants se forment sur les routes lors de l'évacuation"
+   ],
+   "qui": null,
+   "ou": "Gironde, bassin d'Arcachon, Andernos-les-Bains",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 78,
+   "empreinte": "ac776c277fb433f3",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T01:15:30.080936+00:00"
   },
   {
    "faits": [
@@ -2438,75 +2322,6 @@
   },
   {
    "faits": [
-    "L'Algérie, le Maroc et la Tunisie sont frappés par une vague d'incendies",
-    "Une vague de chaleur d'intensité exceptionnelle frappe ces pays",
-    "Le mercure frôle les 50 °C dans plusieurs régions",
-    "Des centaines de feux de forêt mobilisent les secours depuis plusieurs jours"
-   ],
-   "qui": null,
-   "ou": "Algérie, Maroc, Tunisie",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "e9ce5c8141490577",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T18:41:16.621514+00:00"
-  },
-  {
-   "faits": [
-    "L'Unédic demande à l'État de cesser les prélèvements dans les caisses du régime d'assurance chômage",
-    "Les signataires jugent urgent que le régime amorce son désendettement"
-   ],
-   "qui": "Unédic",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "171c4a9114e6d02e",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T18:41:16.622852+00:00"
-  },
-  {
-   "faits": [
-    "Jacques Leveugle, septuagénaire, est soupçonné de viols pendant des décennies",
-    "Cinq nouvelles plaintes ont été déposées après un appel à témoins du parquet de Grenoble",
-    "L'enquête a débuté en octobre 2023",
-    "L'enquête a été lancée après la découverte de clés USB contenant des mémoires écrits par Leveugle"
-   ],
-   "qui": "Jacques Leveugle",
-   "ou": "Grenoble",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "L'intégralité des accusations contre Leveugle"
-   ],
-   "importance": 65,
-   "empreinte": "d083f01e5d8f7a48",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T18:41:16.622854+00:00"
-  },
-  {
-   "faits": [
     "L'Arabie saoudite a lancé des frappes sur Hodeïda le 24 juillet 2026",
     "Hodeïda est un port contrôlé par les Houthis sur la côte ouest du Yémen",
     "Les frappes ont suivi des attaques de rebelles contre des navires en mer Rouge"
@@ -2526,53 +2341,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-24T23:38:17.120905+00:00"
-  },
-  {
-   "faits": [
-    "Google a reçu une amende de 890 millions d'euros de l'UE",
-    "Donald Trump a menacé d'imposer de nouveaux droits de douane en réponse",
-    "Trump a menacé d'ouvrir une enquête commerciale contre l'UE",
-    "Trump déclare que l'UE va payer un très lourd prix pour ce comportement"
-   ],
-   "qui": "Google, Union Européenne, Donald Trump",
-   "ou": null,
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "181269c963921744",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T18:41:16.622858+00:00"
-  },
-  {
-   "faits": [
-    "Une nouvelle vague de chaleur est annoncée pour la semaine prochaine",
-    "Météo France annonce une quatrième canicule",
-    "Les températures attendues avoisinent les 40 °C",
-    "Une accalmie est prévue ce week-end",
-    "La France a récemment connu trois canicules consécutives"
-   ],
-   "qui": "Météo France",
-   "ou": "France",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "6f63e7833b9b9615",
-   "score": 83,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T18:41:16.622860+00:00"
   },
   {
    "faits": [
@@ -2645,31 +2413,6 @@
   },
   {
    "faits": [
-    "Un incendie volontaire a été déclenché mercredi soir près de la dune du Pilat à La Teste-de-Buch",
-    "Les pompiers ont trouvé un briquet sur les lieux",
-    "Le parquet de Bordeaux enquête pour destruction volontaire par incendie",
-    "Plusieurs incendies touchent la Gironde"
-   ],
-   "qui": null,
-   "ou": "La Teste-de-Buch, Gironde, dune du Pilat",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "L'identité du responsable"
-   ],
-   "importance": 70,
-   "empreinte": "edc6d930ba558d31",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-24T18:41:16.621316+00:00"
-  },
-  {
-   "faits": [
     "Plus de 80 % des capacités de raffinage russes ont été ciblées par des attaques ukrainiennes en 2026",
     "La Russie rationne les stations-service",
     "Les ventes de pétrole brut russe augmentent paradoxalement"
@@ -2739,6 +2482,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-24T20:06:14.393672+00:00"
+  },
+  {
+   "faits": [
+    "Imane Ayissi est le premier créateur d'Afrique subsaharienne inscrit au calendrier officiel de la haute couture à Paris",
+    "Styliste camerounais ayant débuté comme danseur et mannequin",
+    "Il promeut les savoir-faire textiles africains sur les podiums de haute couture",
+    "Il défend une vision d'une mode africaine affranchie des clichés"
+   ],
+   "qui": "Imane Ayissi",
+   "ou": "Paris, Cameroun",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "87d3ba0fbe88077e",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T01:15:38.065435+00:00"
   },
   {
    "faits": [
@@ -2850,17 +2616,56 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-24T23:38:31.373608+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie détruit un centre de communication de la Nasa implanté en Espagne, près de Madrid",
+    "Ce site était utilisé pour communiquer avec des sondes spatiales",
+    "La Nasa a basculé ses opérations vers la Californie pour assurer la continuité"
+   ],
+   "qui": "Nasa",
+   "ou": "Espagne, région de Madrid",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "82b15b64091b9f41",
+   "score": 73,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T01:15:30.081004+00:00"
+  },
+  {
+   "faits": [
+    "Le Washington Post affirme que l'Administration Trump étudie des options militaires au Mali",
+    "Les États-Unis envisagent une possible intervention militaire au Mali",
+    "Les autorités de Bamako ne confirment pas cette information"
+   ],
+   "qui": "États-Unis, administration Trump, Mali",
+   "ou": "Mali",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 60,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Confirmation par les autorités maliennes",
+    "Détails des options militaires étudiées"
+   ],
+   "importance": 72,
+   "empreinte": "94aba5ca180a2000",
+   "score": 71,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T01:15:30.081110+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "1fb98711280787f3",
-   "2026-07-23T01:08:55.116094+00:00"
-  ],
-  [
-   "9fab063369ece087",
-   "2026-07-23T01:08:59.247322+00:00"
-  ],
   [
    "b7167ee4fcea80c4",
    "2026-07-23T04:42:11.557437+00:00"
@@ -2932,17 +2737,17 @@
   [
    "3b2f770c97702692",
    "2026-07-24T23:38:36.444631+00:00"
+  ],
+  [
+   "8ce36a03b0af2810",
+   "2026-07-25T01:15:39.156003+00:00"
+  ],
+  [
+   "a1e2dd78f180e4c1",
+   "2026-07-25T01:15:43.149042+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "1b1a23d987be8eb6",
-   "2026-07-23T01:08:48.503262+00:00"
-  ],
-  [
-   "e0c1a7889bf49ae6",
-   "2026-07-23T01:08:53.813346+00:00"
-  ],
   [
    "2517d25de304e3ac",
    "2026-07-23T04:42:05.854326+00:00"
@@ -3014,18 +2819,28 @@
   [
    "a77b91d7a86e1931",
    "2026-07-24T23:38:31.373564+00:00"
+  ],
+  [
+   "3ca5a82e4ce99505",
+   "2026-07-25T01:15:34.369732+00:00"
+  ],
+  [
+   "8542300a06ea812d",
+   "2026-07-25T01:15:38.065411+00:00"
   ]
  ],
  "depeches_du_jour": [
   "Un incendie d'ampleur inédite gagne la Gironde vers Bordeaux. Déjà 75 000 personnes évacuées dans les Landes et la Gironde. De nouvelles évacuations de plusieurs dizaines de milliers de personnes sont anticipées. (franceinfo)",
   "🔴 ALERTE — Un incendie majeur ravage plus de 12 500 hectares en Gironde, au nord du bassin d'Arcachon. Le feu, hors de contrôle vendredi soir, a détruit environ 50 maisons et un camping. Des évacuations ont été ordonnées à Cap Ferret et Arcachon. (franceinfo, 20 Minutes)",
   "⚡ FLASH — Karim Khan, procureur général de la Cour Pénale Internationale, a été démis de ses fonctions vendredi 24 juillet suite à des allégations d'agression et harcèlement sexuel. Khan, suspendu depuis 2025, rejette ces accusations. (France 24, RFI)",
-  "⚖️ Karim Khan, procureur de la Cour pénale internationale, a été relevé de ses fonctions le 24 juillet 2026. Les 82 États membres ont voté pour son éviction suite à des accusations d'agression sexuelle. Khan conteste et annonce un recours. (20 Minutes)"
+  "⚖️ Karim Khan, procureur de la Cour pénale internationale, a été relevé de ses fonctions le 24 juillet 2026. Les 82 États membres ont voté pour son éviction suite à des accusations d'agression sexuelle. Khan conteste et annonce un recours. (20 Minutes)",
+  "⚖️ Karim Khan, procureur de la CPI, a été relevé de ses fonctions par l'Assemblée des 125 États membres. Il est accusé d'agression sexuelle par une ancienne collaboratrice et conteste cette décision. (franceinfo)",
+  "🔴 ALERTE — Une explosion s'est produite vendredi matin à la distillerie de Montebello à Petit-Bourg. L'accident a fait un mort et cinq blessés au total. Les secours sont intervenus sur place. (franceinfo)"
  ],
  "recap_date": "2026-07-24",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-25",
-  "publies": 4
+  "publies": 6
  }
 }
