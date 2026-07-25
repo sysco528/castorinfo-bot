@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-parquet-ukrainien-diffuse-les-images-de-l-explosion-a-monaco-visant-vadim-ermolaev-et-sa-famille_8113331.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/israel/tu-songes-a-t-evader-reflechis-y-a-deux-fois-israel-autorise-l-utilisation-de-crocodiles-pour-dissuader-d-eventuelles-evasions-de-prisons_8113241.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/l-equipe-de-france-boucle-sa-coupe-du-monde-avec-une-defaite-contre-l-angleterre-lors-d-une-petite-finale-completement-folle_8113397.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-bombardent-a-nouveau-l-iran-apres-la-mort-de-deux-soldats-americains-dans-une-base-militaire-en-jordanie_8113670.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-bombarde-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-1-mort-et-13-blesses-recenses_8113676.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/tour-de-france/c-est-peut-etre-mon-dernier-confie-julian-alaphilippe-extenue-apres-la-20e-etape-de-son-huitieme-tour-de-france_8122196.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/trois-hommes-ont-ete-arretes-en-gironde-en-lien-avec-les-incendies-dont-deux-pour-avoir-tire-des-feux-d-artifice_8122259.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-sud-ouest-une-bataille-acharnee-pour-sauver-les-maisons_8122265.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/bresil/au-bresil-flavio-bolsonaro-investi-candidat-pour-la-presidentielle-d-octobre-par-le-principal-parti-de-droite_8122241.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/bresil/au-bresil-flavio-bolsonaro-investi-candidat-pour-la-presidentielle-d-octobre-par-le-principal-parti-de-droite_8122241.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-sud-ouest-la-vitesse-de-circulation-abaissee-dans-huit-departements-en-raison-de-la-pollution-de-l-air_8122325.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/paris-ile-de-france/val-de-marne/9-000-habitants-evacues-pour-le-deminage-d-une-bombe-de-500-kg-datant-de-la-seconde-guerre-mondiale-3392047.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -764,8 +764,6 @@
    "https://www.lefigaro.fr/flash-actu/haute-corse-un-incendie-tres-virulent-se-declare-entre-furiani-et-biguglia-20260725"
   ],
   "https://www.france24.com/fr/rss": [
-   "98f5e496-82d5-11f1-a79d-e762aa4d8129",
-   "16bafd48-82e1-11f1-878b-c36f7642adee",
    "702e3e92-82e3-11f1-8e46-21c449e46752",
    "8af76742-82f4-11f1-97a5-4169ff10435a",
    "58dad95c-82fd-11f1-ad19-7be5563113f7",
@@ -1063,10 +1061,11 @@
    "7806cbb6-8838-11f1-8c09-ffc18a25e0d3",
    "aea48260-73c7-11f1-b0e0-37c595ecb8de",
    "4371661a-8854-11f1-8948-f196ec96fdbf",
-   "30fafca0-884d-11f1-b932-6334aabc7576"
+   "30fafca0-884d-11f1-b932-6334aabc7576",
+   "e58c4206-8856-11f1-82a4-f196ec96fdbf",
+   "cfba9402-8859-11f1-b29c-93078b74c309"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "804503be-7f38-11f1-b087-552a703408cf",
    "82bd7cd0-7f19-11f1-980b-3194a8eaba1e",
    "49970cc4-7f13-11f1-a693-075d24e898bd",
    "9fc402e4-7f6a-11f1-a01c-01014d2074c2",
@@ -1365,15 +1364,10 @@
    "c0dc65dc-8840-11f1-9ff9-65042d0c5951",
    "f991f49e-8838-11f1-9b83-a9deaecae3f9",
    "b067680a-87cd-11f1-9365-034d18351ea0",
-   "448d1722-883d-11f1-b589-65042d0c5951"
+   "448d1722-883d-11f1-b589-65042d0c5951",
+   "b3007fbe-885b-11f1-94e3-9f65143c79d8"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/societe/faits-divers/une-femme-meurt-en-chutant-du-4e-etage-a-nancy-son-compagnon-place-en-garde-a-vue-avant-detre-libere-122e4a1c-82de-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/hongrie/en-hongrie-le-president-pro-orban-dit-quil-signera-la-reforme-constitutionnelle-mettant-fin-a-son-mandat-83ada4ea-82d8-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-deux-militaires-americains-tues-menaces-de-liran-les-dernieres-infos-0f663492-82da-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/france-angleterre-nous-aurions-du-toffrir-une-meilleure-fin-lhommage-touchant-de-mbappe-a-didier-deschamps-dbfd858c-82da-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/incendies-a-fontainebleau-la-situation-se-stabilise-environ-650-pompiers-encore-mobilises-fc8af5ec-82d4-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/22-vehicules-brules-un-hectare-parti-en-fumee-ce-que-lon-sait-de-lincendie-qui-a-eu-lieu-dans-le-sud-de-la-mayenne-29ea03b6-82d0-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/incendie/carte-incendies-le-var-et-les-bouches-du-rhone-en-vigilance-rouge-dimanche-le-danger-setendra-la-semaine-prochaine-d00fd1a4-82c5-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/justice/paris-un-homme-en-garde-a-vue-pour-avoir-allume-un-incendie-dans-le-bois-de-boulogne-8cb6ba7a-82e4-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/tennis/atp/tennis-lespagnol-daniel-merida-sadjuge-un-premier-titre-a-21-ans-48265ce4-82e4-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1667,7 +1661,13 @@
    "https://www.ouest-france.fr/pays-de-la-loire/brissac-loire-aubance-49320/en-images-cette-fete-on-la-dans-nos-veines-en-anjou-les-lumas-stars-de-la-foire-c67eb012-8836-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/formule-1/f1-pourquoi-lewis-hamilton-a-recule-de-trois-places-sur-la-grille-de-depart-du-grand-prix-de-hongrie-1265e87e-884b-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/cyclisme/tour-de-france-femmes/tour-de-france-femmes-2026-objectif-maillot-jaune-pour-fdj-united-suez-qui-voudra-prendre-ce-tour-a-lendroit-0f226ef6-8767-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-warren-barguil-apres-la-20e-etape-cest-peut-etre-ma-derniere-etape-de-montagne-sur-le-tour-60c823e4-8849-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-warren-barguil-apres-la-20e-etape-cest-peut-etre-ma-derniere-etape-de-montagne-sur-le-tour-60c823e4-8849-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/reportage-a-biscarrosse-la-solidarite-sorganise-autour-des-evacues-qui-fuient-les-incendies-36df0b3c-8854-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/mma/mma-le-francais-salahdine-parnasse-rejoint-officiellement-lufc-et-affrontera-dan-hooker-en-main-event-a-paris-42319c7c-885c-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/tennis/tennis-luca-van-assche-jouera-sa-premiere-finale-sur-le-circuit-atp-a-estoril-apres-avoir-elimine-hugo-gaston-b216ccfc-885b-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/allemagne/allemagne-deux-morts-dans-le-crash-dun-avion-sur-le-toit-dune-maison-8eab9d4a-8858-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/formule-1/f1-la-grille-de-depart-du-grand-prix-de-hongrie-sur-le-circuit-de-hungaroring-avec-norris-en-pole-e9c96350-8845-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/a-80-ans-jai-pris-mon-tuyau-deau-pour-proteger-ma-maison-a-laval-un-feu-sest-arrete-aux-portes-des-habitations-46412690-884b-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1848,7 +1848,9 @@
    "https://www.20minutes.fr/justice/4236280-20260725-incendies-gironde-cigarette-feu-artifice-arbustes-incendies-nouvelles-interpellations-annoncees?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4236242-20260725-direct-guerre-moyen-orient-trump-brandit-menace-offensive-massive-contre-iran-arabie-saoudite-cible-houthis?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/auto/4235736-20260725-alarme-permanente-finit-etre-ignoree-pourquoi-alertes-sonores-multipliees-voitures?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/societe/4236245-20260725-incendie-gironde-attendait-vivre-jour-habitants-refugies-parc-expos-bordeaux?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/societe/4236245-20260725-incendie-gironde-attendait-vivre-jour-habitants-refugies-parc-expos-bordeaux?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4236283-20260725-incendies-sud-ouest-agi-autrement-photo-vacanciers-fait-tant-parler?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/tempo/4235719-20260725-airport-divorce-si-secret-eviter-disputes-vacances-commencait-aeroport?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2033,7 +2035,14 @@
    "https://www.bfmtv.com/meteo/secheresse/direct-gironde-landes-var-suivez-cette-nouvelle-journee-de-lutte-contre-les-incendies_LN-202607250053.html",
    "https://www.bfmtv.com/meteo/video-du-soleil-dans-le-nord-du-pays-des-orages-attendus-localement-dans-le-sud-la-meteo-du-samedi-25-juillet_VN-202607250054.html",
    "https://www.bfmtv.com/meteo/secheresse/incendies-dans-le-sud-ouest-plus-de-22-000-hectares-brules-et-140-000-personnes-evacuees-bison-fute-appelle-a-eviter-la-gironde_AN-202607250057.html",
-   "https://rmc.bfmtv.com/conso/alimentation/des-cocktails-toxiques-dans-votre-tasse-un-rapport-alerte-sur-la-presence-massive-de-pesticides-dans-le-cafe_AN-202607250049.html"
+   "https://rmc.bfmtv.com/conso/alimentation/des-cocktails-toxiques-dans-votre-tasse-un-rapport-alerte-sur-la-presence-massive-de-pesticides-dans-le-cafe_AN-202607250049.html",
+   "https://www.bfmtv.com/politique/video-largage-de-l-a400m-incendie-en-gironde-le-point-presse-de-la-ministre-des-armees-catherine-vautrin_VN-202607250326.html",
+   "https://www.bfmtv.com/politique/video-incendie-en-gironde-nous-avons-une-mobilisation-tout-a-fait-exceptionnelle-declare-la-ministre-des-armees-catherine-vautrin_VN-202607250322.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-ce-qu-il-faut-retenir-du-premier-largage-de-l-a400m_VN-202607250320.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-on-se-prepare-au-pire-explique-laurent-peyrondet-maire-de-lacanau_VN-202607250319.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-de-fortes-reprises-de-feux-ont-ete-observees_VN-202607250315.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-a-biscarrosse-dans-les-landes-3-000-habitants-sont-autorises-a-rentrer_VN-202607250314.html",
+   "https://www.bfmtv.com/environnement/climat/video-gironde-le-maire-de-bordeaux-fait-le-point-alors-que-l-incendie-est-aux-portes-de-la-metropole_VN-202607250313.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2211,6 +2220,38 @@
  },
  "en_attente_publication": [],
  "evenements_attente": [
+  {
+   "faits": [
+    "Incendie en Gironde depuis mercredi 23 juillet ayant atteint une ampleur inédite",
+    "Le feu s'est propagé vers l'agglomération de Bordeaux",
+    "Sept communes aux portes de Bordeaux évacuées de manière préventive",
+    "Des incendies également actifs dans le Var et en Corse",
+    "Premier largage de l'A400M effectué pour combattre le feu",
+    "Environ 30 000 personnes évacuées près de Biscarrosse (Landes)",
+    "Le feu n'était ni fixé ni maîtrisé samedi soir",
+    "3 000 habitants de Biscarrosse autorisés à rentrer",
+    "Vitesse de circulation abaissée dans huit départements en raison de la pollution de l'air",
+    "Orages prévus sur la moitié sud du pays samedi",
+    "Forte reprise de feux observée"
+   ],
+   "qui": "Ministère des armées (Catherine Vautrin), pompiers, maire de Bordeaux, maire de Lacanau",
+   "ou": "Gironde, Landes, Bordeaux, Var, Corse, France (moitié sud)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo",
+    "BFMTV",
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "6851dcaf2f6ab963",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-25T19:50:38.799137+00:00"
+  },
   {
    "faits": [
     "Trois hommes arrêtés en Gironde en lien avec les incendies",
@@ -2526,6 +2567,30 @@
   },
   {
    "faits": [
+    "Environ 9 000 habitants évacués à Choisy-le-Roi (Val-de-Marne) samedi matin",
+    "Évacuation des quartiers du Port et des Navigateurs",
+    "Une bombe de 500 kg datant de la Seconde Guerre mondiale découverte sur un chantier",
+    "Opération de déminage menée en deux étapes par les démineurs",
+    "Retour des riverains attendu en début de soirée"
+   ],
+   "qui": "Démineurs, habitants du Val-de-Marne",
+   "ou": "Choisy-le-Roi (Val-de-Marne)",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "7c26729c39ea4b94",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T19:50:38.799164+00:00"
+  },
+  {
+   "faits": [
     "L'avion militaire A400M a réalisé son premier largage contre le feu en Gironde",
     "C'est la première fois que cet appareil est déployé en conditions réelles pour combattre un incendie"
    ],
@@ -2569,6 +2634,32 @@
   },
   {
    "faits": [
+    "Situation extrêmement tendue en Cisjordanie occupée samedi 25 juillet",
+    "Incident dans le village de Tell près de Naplouse vendredi 24 juillet",
+    "Incident a coûté la vie à quatre Palestiniens et deux Israéliens",
+    "Raids de l'armée israélienne en cours",
+    "Ripostes du gouvernement israélien en cours",
+    "Provocations répétées de colons radicalisés",
+    "Territoire au bord de l'embrasement"
+   ],
+   "qui": "Armée israélienne, gouvernement israélien, colons radicalisés, Palestiniens",
+   "ou": "Cisjordanie occupée, Tell (près de Naplouse)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "4686918833223e44",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T19:50:38.797587+00:00"
+  },
+  {
+   "faits": [
     "Les six médinas des Sultanats historiques des Comores sont inscrites au patrimoine mondial de l'Unesco",
     "L'inscription a été décidée samedi 25 juillet lors du Comité du patrimoine mondial réuni à Busan, Corée du Sud",
     "Cela marque une étape historique pour l'archipel"
@@ -2588,6 +2679,30 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T15:15:42.847991+00:00"
+  },
+  {
+   "faits": [
+    "Flavio Bolsonaro investi samedi pour la présidentielle brésilienne d'octobre",
+    "Flavio Bolsonaro est le fils de Jair Bolsonaro",
+    "Jair Bolsonaro, ancien chef de l'État d'extrême droite, emprisonné pour tentative de coup d'État",
+    "Flavio Bolsonaro affrontera le président sortant Lula",
+    "Scrutin à fort enjeu politique"
+   ],
+   "qui": "Flavio Bolsonaro, Jair Bolsonaro (père), Lula (président sortant du Brésil)",
+   "ou": "Brésil",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "d36ef42ad6aa1c9f",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T19:50:38.797538+00:00"
   },
   {
    "faits": [
@@ -2734,6 +2849,30 @@
   },
   {
    "faits": [
+    "Lando Norris remporte la pole position du Grand Prix de Hongrie",
+    "Grand Prix de Hongrie dimanche 26 juillet",
+    "Circuit : Hungaroring",
+    "Norris est tenant du titre à Budapest",
+    "Deuxième ligne : Lewis Hamilton (Ferrari) et Charles Leclerc (Ferrari)"
+   ],
+   "qui": "Lando Norris (Britannique), Lewis Hamilton (Ferrari), Charles Leclerc (Ferrari)",
+   "ou": "Budapest (Hungaroring), Hongrie",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "fa290f9c52b0e522",
+   "score": 81,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T19:50:38.799172+00:00"
+  },
+  {
+   "faits": [
     "Le Venezuela va engager son retrait définitif de la Cour pénale internationale",
     "L'annonce a été faite vendredi 24 juillet par le ministre des Affaires étrangères sur les réseaux sociaux",
     "Caracas avait déjà averti de son intention de se retirer de cette juridiction"
@@ -2753,6 +2892,31 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T16:15:21.624510+00:00"
+  },
+  {
+   "faits": [
+    "Une vingtaine de personnes tuées dans une attaque du groupe djihadiste ADF",
+    "Attaque aux localités de Mambasa et Béni en Est de RD Congo",
+    "Groupe ADF affilié à l'État islamique intensifie ses violences",
+    "Épidémie d'Ebola progresse dans la région"
+   ],
+   "qui": "Groupe djihadiste ADF (État islamique), société civile rapportant l'attaque",
+   "ou": "Mambasa et Béni (Est de la République démocratique du Congo)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Exact du nombre de morts (« une vingtaine »)"
+   ],
+   "importance": 65,
+   "empreinte": "5ba7ee50e956edd2",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T19:50:38.797486+00:00"
   },
   {
    "faits": [
@@ -2799,157 +2963,25 @@
   },
   {
    "faits": [
-    "Cassandre Beaugrand a remporté une victoire en triathlon à Londres le 25 juillet 2026",
-    "C'est la troisième victoire de Cassandre Beaugrand en trois mois",
-    "Les victoires précédentes étaient à Alghero et Quiberon",
-    "Cassandre Beaugrand a battu le record du 3 000 m sur la piste de Monaco lors de la Ligue de Diamant"
+    "Deux occupants d'un petit avion de tourisme décédés dans le crash",
+    "Crash du samedi 25 juillet sur le toit d'une maison",
+    "Lieu du crash : nord-ouest de l'Allemagne"
    ],
-   "qui": "Cassandre Beaugrand",
-   "ou": "Londres, Grande-Bretagne",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
+   "qui": "Deux occupants d'un avion de tourisme",
+   "ou": "Nord-ouest de l'Allemagne",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 88,
    "sources": [
     "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 60,
-   "empreinte": "107bd390beda6156",
+   "importance": 50,
+   "empreinte": "e9f5bccd453b97a1",
    "score": 78,
    "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-25T17:26:37.671828+00:00"
-  },
-  {
-   "faits": [
-    "Le gardien cap-verdien Vozinha, 40 ans, s'engage avec Colo-Colo",
-    "Vozinha a été l'un des héros du dernier Mondial de football",
-    "Vozinha rejoint le championnat chilien"
-   ],
-   "qui": "Vozinha",
-   "ou": "Chili",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "e018a6a33fa5eadc",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T17:26:37.671829+00:00"
-  },
-  {
-   "faits": [
-    "Moscou et Kiev ont fait état de 20 personnes mortes dans des bombardements le 25 juillet",
-    "La Roumanie a abattu des drones",
-    "Le président kazakh s'est prononcé sur le conflit"
-   ],
-   "qui": "Moscou, Kiev, Roumanie, Kazakhstan",
-   "ou": "Ukraine",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "ed8505e29a650072",
-   "score": 75,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T17:26:37.671384+00:00"
-  },
-  {
-   "faits": [
-    "Marie Le Net participe au Tour de France femmes 2026 qui débute le 1er août",
-    "Marie Le Net fait partie de la sélection FDJ United-SUEZ",
-    "Marie Le Net aura un rôle d'équipière pour protéger Demi Vollering"
-   ],
-   "qui": "Marie Le Net, Demi Vollering",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "16ab3cfc34498e11",
-   "score": 75,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T17:26:37.671830+00:00"
-  },
-  {
-   "faits": [
-    "Cinq hommes, dont un mineur, renvoyés devant la cour d'assises de Vendée après deux ans d'enquête",
-    "Enquête issue du braquage d'une bijouterie de Pouzauges en Vendée",
-    "Le braquage révèle une organisation criminelle"
-   ],
-   "qui": null,
-   "ou": "Vendée, Pouzauges",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "18608d24cf45203f",
-   "score": 74,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T18:32:46.958662+00:00"
-  },
-  {
-   "faits": [
-    "Julia Cherot s'est qualifiée pour la finale du 800 m aux championnats de France",
-    "Julia Cherot vise le titre national en 800 m"
-   ],
-   "qui": "Julia Cherot",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "3ca33581431a2b79",
-   "score": 74,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T17:26:37.671307+00:00"
-  },
-  {
-   "faits": [
-    "Des hauts fonctionnaires ont été écartés après un test antidrogue positif",
-    "Ces personnes travaillaient dans des cabinets ministériels",
-    "Le Premier ministre Sébastien Lecornu a annoncé cette information"
-   ],
-   "qui": "Sébastien Lecornu, hauts fonctionnaires",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "06c61a2dad674327",
-   "score": 74,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T17:26:37.671345+00:00"
+   "depuis": "2026-07-25T19:50:38.797628+00:00"
   }
  ],
  "publies_48h": [
