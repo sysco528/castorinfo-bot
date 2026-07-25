@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/economie/tourisme/australie-un-lac-rose-aux-multiples-nuances-qui-fascine-les-visiteurs_8113070.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/biodiversite/c-est-l-horreur-des-habitants-a-bout-face-a-des-invasions-de-fourmis-impossibles-a-eliminer_8113010.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/transports/autoroutes-face-aux-embouteillages-aux-bornes-electriques-les-bornistes-viennent-aider-les-automobilistes_8113097.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-toutes-les-productions-agricoles-sont-touchees-alerte-le-co-president-de-legumes-de-france_8113085.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/allemagne/attaque-pour-avoir-eu-un-enfant-via-la-gestation-pour-autrui-le-chef-des-deputes-conservateurs-allemand-demissionne_8113031.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/insatiable-tadej-pogacar-s-impose-au-markstein-lors-de-la-14e-etape-du-tour-de-france-et-renforce-son-maillot-jaune-paul-seixas-prend-le-maillot-blanc-de-meilleur-jeune_8113130.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/faits-divers/incendie/correze-aveyron-charente-les-fumees-des-incendies-dans-le-sud-ouest-se-propagent-sur-une-partie-du-territoire_8121710.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-suivez-avec-nous-l-etape-la-plus-dantesque-de-la-grande-boucle-avec-un-record-de-denivele-positif-entre-le-bourg-d-oisans-et-l-alpe-d-huez_8120327.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/meteo/les-bouches-du-rhone-et-le-var-sont-places-en-vigilance-orange-orages_8121608.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/otan/une-stagiaire-de-l-otan-soupconnee-d-espionnage-arretee-en-belgique_8121653.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/otan/une-stagiaire-de-l-otan-soupconnee-d-espionnage-arretee-en-belgique_8121653.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/transports/trafic/departs-en-vacances-plus-de-200-km-de-bouchons-cumules-au-niveau-national-samedi-matin_8121776.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/basket/nba/peut-etre-qu-il-est-raciste-la-surprenante-accusation-de-donald-trump-a-l-encontre-la-star-de-la-nba-lebron-james_8121773.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-espagne-les-incendies-dans-les-regions-de-madrid-et-d-avila-ont-ravage-jusqu-a-25-000-hectares_8121785.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -462,11 +462,6 @@
    "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-une-finale-pour-entrer-dans-la-legende-20260719",
-   "https://www.lefigaro.fr/actualite-france/christine-mauguee-nommee-presidente-de-la-section-du-contentieux-la-gauche-enracinee-au-conseil-d-etat-20260717",
-   "https://www.lefigaro.fr/actualite-france/collusion-avec-l-extreme-gauche-bruno-retailleau-denonce-la-presence-d-un-juge-du-syndicat-de-la-magistrature-a-une-conference-de-presse-de-lfi-20260719",
-   "https://www.lefigaro.fr/politique/presidentielle-2027-melenchon-le-pen-derniere-bataille-apres-un-quart-de-siecle-d-affrontement-20260719",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/revolte-folle-mbappe-digne-cherki-l-embrouille-coups-de-coeur-et-coups-de-griffe-de-notre-envoye-special-apres-france-angleterre-20260719",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/un-environnement-devenu-irrespirable-deschamps-assure-qu-il-part-pour-le-bien-de-l-equipe-de-france-20260719",
    "https://www.lefigaro.fr/sports/football/didier-deschamps-a-t-il-ete-le-meilleur-selectionneur-de-l-equipe-de-france-de-l-histoire-du-football-francais-20260719",
    "https://www.lefigaro.fr/international/en-iran-les-durs-du-regime-imposent-leur-tempo-pour-continuer-la-guerre-20260719",
@@ -761,21 +756,14 @@
    "https://www.lefigaro.fr/international/guerre-en-ukraine-deux-morts-dans-une-frappe-de-drones-sur-soumy-20260725",
    "https://www.lefigaro.fr/actualite-france/incendie-en-gironde-sebastien-lecornu-a-demande-l-envoi-d-un-a400m-des-ce-samedi-20260725",
    "https://www.lefigaro.fr/sciences/une-situation-totalement-inedite-qu-est-ce-qu-un-feu-convectif-comme-celui-qui-ravage-la-gironde-20260725",
-   "https://photo.lefigaro.fr/actualite-france/gironde-les-images-apocalyptiques-de-l-incendie-au-cap-ferret-20260724"
+   "https://photo.lefigaro.fr/actualite-france/gironde-les-images-apocalyptiques-de-l-incendie-au-cap-ferret-20260724",
+   "https://www.lefigaro.fr/actualite-france/incendies-le-record-annuel-des-surfaces-brulees-en-france-deja-battu-en-2026-d-apres-des-donnees-satellitaires-20260725",
+   "https://www.lefigaro.fr/sciences/stephane-delpeyrat-maire-de-saint-medard-en-jalles-pres-de-bordeaux-le-gros-du-feu-prend-une-direction-plus-au-nord-20260725",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-une-nouvelle-explication-entre-cadors-a-l-alpe-d-huez-en-perspective-suivez-la-20e-etape-20260725",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-en-surclassant-des-adversaires-impuissants-uae-team-emirates-est-elle-la-meilleure-equipe-de-l-histoire-20260725",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-paul-seixas-peut-il-aller-chercher-la-troisieme-place-d-isaac-del-toro-20260724"
   ],
   "https://www.france24.com/fr/rss": [
-   "e4b32a88-8230-11f1-aa3c-a945d482d394",
-   "db843eb8-826a-11f1-93cf-ed9d08a97754",
-   "5b0fce22-80f9-11f1-b706-75148bc30825",
-   "c2005a9a-8269-11f1-8811-952c444945ff",
-   "7b03164c-8268-11f1-9ea4-952c444945ff",
-   "b0f0c1c2-8282-11f1-bafb-911db3b8baf9",
-   "3d01961c-828a-11f1-b114-e9f8147d0e51",
-   "c73c54c4-821d-11f1-a557-8d17914052f0",
-   "cd2be6aa-8287-11f1-a0ab-e9f8147d0e51",
-   "a04e62a8-8286-11f1-8078-e9f8147d0e51",
-   "3820bcf8-8286-11f1-a264-8377406cdd87",
-   "975c0e08-8285-11f1-94d9-911db3b8baf9",
    "6eaffb82-8284-11f1-9b1f-911db3b8baf9",
    "f055e4f4-8283-11f1-a4ed-911db3b8baf9",
    "7c53495e-8281-11f1-b85f-8377406cdd87",
@@ -1063,7 +1051,19 @@
    "cb516360-87ae-11f1-bfae-d758dad218da",
    "9c7f7bb2-87a4-11f1-aa78-bf3978fdf3b3",
    "1921a694-87a6-11f1-90f2-1f6b246e1308",
-   "61d4362e-87f4-11f1-98e4-713eebc1bfb9"
+   "61d4362e-87f4-11f1-98e4-713eebc1bfb9",
+   "be821da2-8815-11f1-a90f-376b0b7a9b6b",
+   "50d8a910-880b-11f1-9eb3-21842c5259e7",
+   "bdd10130-880a-11f1-9422-7181e7814b62",
+   "4a39c8a6-8805-11f1-9d12-7181e7814b62",
+   "1180f2c0-8808-11f1-a1b3-21842c5259e7",
+   "0396dc9e-8806-11f1-93b1-21842c5259e7",
+   "880cdb7e-87ff-11f1-ad78-8f3c07daf46f",
+   "58f54856-87cf-11f1-a506-7116f01aceb2",
+   "cbbd5a4e-8802-11f1-9590-230c41de1e00",
+   "4527a5f6-8803-11f1-be6b-8f3c07daf46f",
+   "45366a0e-8804-11f1-97b1-8f3c07daf46f",
+   "e98b0f0c-87fe-11f1-8b43-8f3c07daf46f"
   ],
   "https://www.rfi.fr/fr/rss": [
    "634f91dc-7f4e-11f1-a8e1-b182ab756299",
@@ -2195,6 +2195,86 @@
  "evenements_attente": [
   {
    "faits": [
+    "Des incendies sévissent dans les régions de Madrid et d'Avila en Espagne",
+    "Jusqu'à 25 000 hectares ont été ravagés",
+    "Le Premier ministre a déclaré que la priorité était de sauver des vies",
+    "Des vents erratiques risquent d'aggraver la situation",
+    "Plus de 63 000 personnes sont affectées par le feu",
+    "Les incendies sont décrits comme incontrôlables",
+    "Les fumées sont visibles depuis Madrid, à des dizaines de kilomètres"
+   ],
+   "qui": "Autorités espagnoles",
+   "ou": "Espagne (régions de Madrid et Avila)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "7cc51fde811e40de",
+   "score": 98,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-25T10:48:36.451168+00:00"
+  },
+  {
+   "faits": [
+    "Des incendies progressent vers Bordeaux et la région de la Gironde",
+    "Un avion militaire a été déployé",
+    "Des communes près de Bordeaux dont Saint-Médard-en-Jalles ont été évacuées",
+    "Environ 150 000 personnes ont été déplacées depuis mercredi soir",
+    "Une halle à Bordeaux accueille des milliers d'évacués",
+    "La zone est fortement touchée par les fumées et les pluies de cendres",
+    "Les pompiers sont au bord de l'épuisement"
+   ],
+   "qui": "Autorités françaises",
+   "ou": "France (Gironde, Bordeaux, Saint-Médard-en-Jalles)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 90,
+   "empreinte": "c06963ea7db51e50",
+   "score": 97,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-25T10:48:36.451173+00:00"
+  },
+  {
+   "faits": [
+    "Le Tour de France en est à sa 20e étape",
+    "L'étape se déroule du Col de la Croix de Fer aux cols du Télégraphe et du Galibier avant l'Alpe d'Huez",
+    "C'est la deuxième journée consécutive avec ascension de l'Alpe d'Huez",
+    "Tadej Pogacar a remporté la première ascension de l'Alpe d'Huez",
+    "Paul Seixas pointait à 24 secondes d'Isaac del Toro pour la 3e place",
+    "UAE Team Emirates affiche une domination intense sur la Grande Boucle"
+   ],
+   "qui": "Tadej Pogacar, Paul Seixas, Isaac del Toro, UAE Team Emirates",
+   "ou": "France (Alpes)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "0d652388019f5375",
+   "score": 94,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-25T10:48:36.451175+00:00"
+  },
+  {
+   "faits": [
     "Karim Khan, procureur de la CPI, a été révoqué",
     "Visé par une procédure pour faute grave",
     "Accusé d'avoir engagé une relation sexuelle 'inappropriée' avec son assistante",
@@ -2238,6 +2318,50 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-25T07:00:22.664260+00:00"
+  },
+  {
+   "faits": [
+    "Le record annuel des surfaces brûlées en France a déjà été battu en 2026",
+    "Quelque 69 473 hectares ont brûlé en France depuis le début de l'année",
+    "Ces données proviennent du Système européen d'information sur les feux de forêt"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "fbf188010e048c67",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T10:48:36.450136+00:00"
+  },
+  {
+   "faits": [
+    "Plus de 850 km de bouchons cumulés au niveau national samedi matin",
+    "Les autoroutes A7, A9 et A10 sont principalement concernées",
+    "Les bouchons sont liés aux départs en vacances"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "faits_divers",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "54b54f7669843032",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T10:48:36.451180+00:00"
   },
   {
    "faits": [
@@ -2310,6 +2434,32 @@
   },
   {
    "faits": [
+    "L'Assemblée des États parties à la Cour pénale internationale a révoqué le procureur Karim Khan",
+    "Khan est accusé d'agression sexuelle, faits qu'il conteste",
+    "Khan est une figure centrale d'enquêtes visant Vladimir Poutine, Benjamin Netanyahu et des dirigeants du Hamas",
+    "Khan annonce contester cette décision en justice",
+    "Les procureurs adjoints assureront l'intérim"
+   ],
+   "qui": "Karim Khan, Assemblée des États parties à la CPI",
+   "ou": "International",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Les accusations d'agression sexuelle contre Karim Khan (qu'il conteste)"
+   ],
+   "importance": 72,
+   "empreinte": "d22330951a865f1e",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T10:48:36.450299+00:00"
+  },
+  {
+   "faits": [
     "La Russie a mené une frappe de drones sur Soumy en Ukraine",
     "Deux personnes ont été tuées dans cette frappe",
     "La Russie continue de viser l'Ukraine avec des bombardements quasi quotidiens depuis février 2022"
@@ -2332,27 +2482,27 @@
   },
   {
    "faits": [
-    "Escalade entre les États-Unis et l'Iran se poursuit",
-    "Bahreïn, le Koweït et la Jordanie ont été pris pour cible par l'Iran le 24 juillet en représailles à des bombardements américains",
-    "Des explosions ont eu lieu au Kurdistan irakien",
-    "Téhéran appelle les civils à s'éloigner de tout site abritant des forces américaines au Moyen-Orient",
-    "Les deux pays n'ont pas fermé la porte à un processus diplomatique"
+    "Jürgen Klopp a été officiellement nommé sélectionneur de l'Allemagne vendredi",
+    "Andrea Pirlo a été nommé sélectionneur de l'Italie",
+    "Zinédine Zidane devrait être nommé sélectionneur de la France mardi"
    ],
-   "qui": "États-Unis, Iran",
-   "ou": "Moyen-Orient (Bahreïn, Koweït, Jordanie, Kurdistan irakien)",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
+   "qui": "Jürgen Klopp, Andrea Pirlo, Zinédine Zidane",
+   "ou": "Allemagne, Italie, France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
    "sources": [
-    "RFI"
+    "France 24"
    ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "bf63659af82c9fa6",
+   "non_confirme": [
+    "La nomination de Zinédine Zidane en tant que sélectionneur des Bleus (formulée comme devant intervenir mardi)"
+   ],
+   "importance": 75,
+   "empreinte": "e3bccf0e29130dfb",
    "score": 84,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-25T04:33:52.477026+00:00"
+   "depuis": "2026-07-25T10:48:36.451186+00:00"
   },
   {
    "faits": [
@@ -2423,52 +2573,51 @@
   },
   {
    "faits": [
-    "Les rebelles houthis du Yémen ont revendiqué une attaque de missile dans le sud-ouest de l'Arabie saoudite le 25 juillet 2026",
-    "Cette attaque intervient après des frappes de Riyad contre une ville portuaire sous contrôle houthi",
-    "Les houthis ont pris pour cible des navires en mer Rouge",
-    "Les houthis sont proches de l'Iran"
+    "Quatre Palestiniens ont été tués dans des affrontements avec des colons israéliens",
+    "Les funérailles sont organisées samedi dans un village du nord de la Cisjordanie occupée",
+    "Benjamin Netanyahu a annoncé la légalisation d'avant-postes coloniaux",
+    "Il existe des attaques quasi quotidiennes de colons israéliens contre des Palestiniens en toute impunité"
    ],
-   "qui": "Rebelles houthis du Yémen",
-   "ou": "Sud-ouest de l'Arabie saoudite, mer Rouge",
+   "qui": "Benjamin Netanyahu, colons israéliens, Palestiniens",
+   "ou": "Cisjordanie occupée",
    "categorie": "international",
    "sensible": true,
-   "confiance": 85,
+   "confiance": 86,
    "sources": [
-    "RFI"
+    "France 24"
    ],
    "non_confirme": [],
    "importance": 75,
-   "empreinte": "25f540cf190031ec",
+   "empreinte": "e010425f59638e40",
    "score": 83,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-25T04:33:52.476973+00:00"
+   "depuis": "2026-07-25T10:48:36.450380+00:00"
   },
   {
    "faits": [
-    "Au moins 17 morts depuis vendredi 24 juillet en Ukraine",
-    "Dix morts à Kyiv",
-    "Sept morts dans le nord de l'Ukraine",
-    "Plusieurs explosions ont eu lieu",
-    "Le président ukrainien Volodymyr Zelensky redoute de prochaines attaques russes"
+    "Les Houthis ont relancé les hostilités contre l'Arabie saoudite",
+    "Les Houthis revendiquent des attaques contre deux pétroliers",
+    "Les Houthis annoncent un blocus maritime",
+    "Riyad dit avoir riposté en frappant le port d'Hodeïda",
+    "L'ONU dénonce cette escalade",
+    "Donald Trump menace l'Iran et les Houthis de représailles en cas de nouvelles attaques"
    ],
-   "qui": "Volodymyr Zelensky (président ukrainien), forces russes",
-   "ou": "Kyiv, nord de l'Ukraine",
+   "qui": "Houthis, Arabie saoudite, Iran, Donald Trump",
+   "ou": "Mer Rouge",
    "categorie": "international",
    "sensible": true,
-   "confiance": 85,
+   "confiance": 86,
    "sources": [
-    "Ouest-France"
+    "France 24"
    ],
-   "non_confirme": [
-    "De prochaines attaques redoutées par Zelensky"
-   ],
-   "importance": 85,
-   "empreinte": "cbfabd87eb7247e8",
+   "non_confirme": [],
+   "importance": 73,
+   "empreinte": "0d954cc41d3a17f3",
    "score": 83,
-   "fiab_max": 80,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-25T04:33:52.477204+00:00"
+   "depuis": "2026-07-25T10:48:36.450478+00:00"
   },
   {
    "faits": [
@@ -2517,6 +2666,29 @@
   },
   {
    "faits": [
+    "À Gaza, le risque de famine a reculé depuis le cessez-le-feu",
+    "La population reste entièrement dépendante d'une aide humanitaire limitée",
+    "Les enfants demeurent particulièrement vulnérables à la malnutrition",
+    "La quasi-totalité des terres agricoles est inutilisable"
+   ],
+   "qui": "Population de Gaza, UNICEF",
+   "ou": "Gaza",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 84,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "7c71e247fa3ec820",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T10:48:36.450429+00:00"
+  },
+  {
+   "faits": [
     "Mehdi Black Wind, rappeur marocain, est incarcéré au Maroc",
     "Accusé d''outrage à une institution constitutionnelle'",
     "Son incarcération est dénoncée à l'international",
@@ -2540,49 +2712,27 @@
   },
   {
    "faits": [
-    "Le 25 juillet 2026 marque les cinq ans du coup constitutionnel du président Kaïs Saïed",
-    "Le 25 juillet 2021, Kaïs Saïed s'est emparé des pouvoirs, a limogé le gouvernement et gelé les travaux du Parlement",
-    "Cet acte s'est fait sur fond de crise sanitaire et politique",
-    "Cinq ans après, la Tunisie vit une dérive autoritaire et une période de fortes tensions",
-    "La colère monte en Tunisie selon les sources"
+    "Donald Trump a émis l'hypothèse que le joueur LeBron James serait raciste",
+    "L'accusation a été formulée vendredi lors d'une conférence de presse à la Maison-Blanche",
+    "LeBron James est le nouveau joueur de Philadelphie"
    ],
-   "qui": "Kaïs Saïed (président tunisien)",
-   "ou": "Tunisie",
-   "categorie": "politique",
+   "qui": "Donald Trump, LeBron James",
+   "ou": "États-Unis",
+   "categorie": "international",
    "sensible": true,
    "confiance": 85,
    "sources": [
-    "RFI"
+    "franceinfo"
    ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "1adf5f2c5a766257",
+   "non_confirme": [
+    "L'hypothèse que LeBron James serait raciste (formulée comme supposition par Trump)"
+   ],
+   "importance": 55,
+   "empreinte": "8c7c3e7567f22e2f",
    "score": 81,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-25T04:33:52.477099+00:00"
-  },
-  {
-   "faits": [
-    "Des incendies de forêt touchent la France et l'Espagne",
-    "En Espagne, les feux ont parcouru 125 000 hectares depuis le 1er janvier 2026",
-    "En France, 50 000 hectares ont brûlé"
-   ],
-   "qui": null,
-   "ou": "France, Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "f5bce44c3f3d5a3b",
-   "score": 81,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T04:33:52.477264+00:00"
+   "depuis": "2026-07-25T10:48:36.451195+00:00"
   },
   {
    "faits": [
@@ -2610,6 +2760,53 @@
   },
   {
    "faits": [
+    "Des manifestations d'une ampleur inédite depuis 2022 se sont déroulées vendredi à Kiev",
+    "Les manifestants réclament la réintégration de Mykhailo Fedorov, ex-ministre de la Défense",
+    "Fedorov refuse tout autre poste",
+    "Les protestataires promettent de maintenir la pression ce week-end"
+   ],
+   "qui": "Mykhailo Fedorov",
+   "ou": "Ukraine (Kiev)",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "425ed30a77d02137",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T10:48:36.451198+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump a menacé l'Iran de frappes encore plus dures lors du gala des correspondants de la Maison-Blanche",
+    "Le gala s'est déroulé samedi soir sans incident, sous haute sécurité",
+    "Trump a affiché une casquette « Trump 2028 »",
+    "Trump a feint de vouloir briguer un troisième mandat",
+    "Trump s'est en pris aux journalistes dans son discours"
+   ],
+   "qui": "Donald Trump",
+   "ou": "États-Unis",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "f60794057f054271",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T10:48:36.451200+00:00"
+  },
+  {
+   "faits": [
     "Vozinha, gardien du Cap-Vert, a été héros de la Coupe du monde 2026",
     "Vozinha s'est engagé avec l'équipe de Colo Colo au Chili",
     "Cet engagement intervient pour la saison 2026-2027"
@@ -2629,28 +2826,6 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-25T07:00:23.777072+00:00"
-  },
-  {
-   "faits": [
-    "La fusée Starship de SpaceX a mené un vol test réussi le 24 juillet 2026",
-    "C'est le premier vol test réussi après plusieurs essais avortés",
-    "SpaceX est entrée en Bourse en juin 2026"
-   ],
-   "qui": "SpaceX, Elon Musk",
-   "ou": null,
-   "categorie": "sciences",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "2d33cdf2e5ce958c",
-   "score": 80,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T04:34:02.767136+00:00"
   },
   {
    "faits": [
@@ -2699,71 +2874,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T07:00:23.777079+00:00"
-  },
-  {
-   "faits": [
-    "Maxence Lacroix quitte Crystal Palace pour signer à Chelsea",
-    "Cela intervient après une bonne Coupe du monde avec l'équipe de France"
-   ],
-   "qui": "Maxence Lacroix (footballeur français)",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "5328a31fb5efa4f3",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T04:34:02.767146+00:00"
-  },
-  {
-   "faits": [
-    "Davide Ancelotti est entraîneur du LOSC Lille",
-    "Il s'exprime sur son management centré sur l'humain",
-    "Il assume l'héritage de son père Carlo Ancelotti tout en voulant tracer sa propre voie"
-   ],
-   "qui": "Davide Ancelotti (entraîneur de Lille)",
-   "ou": "Lille (France)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "7b7b2e4d17bd2681",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T04:34:02.767148+00:00"
-  },
-  {
-   "faits": [
-    "Un rapport de l'ONG Coffee Watch alerte sur la présence massive de pesticides dans le café",
-    "Dans les pays producteurs, le café peut être cultivé avec de nombreux pesticides, dont certains sont interdits en Europe",
-    "Des résidus de pesticides peuvent se retrouver dans les tasses consommées en Europe"
-   ],
-   "qui": "ONG Coffee Watch",
-   "ou": null,
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "8c152285981527fc",
-   "score": 71,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T04:33:52.477295+00:00"
   }
  ],
  "publies_48h": [
