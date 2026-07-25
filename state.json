@@ -764,8 +764,6 @@
    "https://www.lefigaro.fr/flash-actu/haute-corse-un-incendie-tres-virulent-se-declare-entre-furiani-et-biguglia-20260725"
   ],
   "https://www.france24.com/fr/rss": [
-   "702e3e92-82e3-11f1-8e46-21c449e46752",
-   "8af76742-82f4-11f1-97a5-4169ff10435a",
    "58dad95c-82fd-11f1-ad19-7be5563113f7",
    "5e2b886a-82e0-11f1-b235-c36f7642adee",
    "b40b33b2-8302-11f1-a43a-b33bfae6cb64",
@@ -1063,7 +1061,9 @@
    "4371661a-8854-11f1-8948-f196ec96fdbf",
    "30fafca0-884d-11f1-b932-6334aabc7576",
    "e58c4206-8856-11f1-82a4-f196ec96fdbf",
-   "cfba9402-8859-11f1-b29c-93078b74c309"
+   "cfba9402-8859-11f1-b29c-93078b74c309",
+   "9daedbc8-8861-11f1-b9b6-fd5dcb1104bb",
+   "6669d474-8839-11f1-ad53-b759e0edc550"
   ],
   "https://www.rfi.fr/fr/rss": [
    "82bd7cd0-7f19-11f1-980b-3194a8eaba1e",
@@ -1368,9 +1368,6 @@
    "b3007fbe-885b-11f1-94e3-9f65143c79d8"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/faits-divers/incendie/carte-incendies-le-var-et-les-bouches-du-rhone-en-vigilance-rouge-dimanche-le-danger-setendra-la-semaine-prochaine-d00fd1a4-82c5-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/justice/paris-un-homme-en-garde-a-vue-pour-avoir-allume-un-incendie-dans-le-bois-de-boulogne-8cb6ba7a-82e4-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/tennis/atp/tennis-lespagnol-daniel-merida-sadjuge-un-premier-titre-a-21-ans-48265ce4-82e4-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/france-angleterre-qui-est-jesus-valenzuela-arbitre-de-la-petite-finale-qui-avait-mis-en-colere-messi-a7b66c4e-81b8-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/merci-pour-les-victoires-legendaires-et-avoir-fait-vibrer-la-france-emmanuel-macron-rend-hommage-a-didier-deschamps-7110bea4-82eb-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-les-argentins-pourront-afficher-leur-banderole-sur-les-malouines-dimanche-sans-etre-sanctionnes-ea113cf6-82e7-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1667,7 +1664,10 @@
    "https://www.ouest-france.fr/sport/tennis/tennis-luca-van-assche-jouera-sa-premiere-finale-sur-le-circuit-atp-a-estoril-apres-avoir-elimine-hugo-gaston-b216ccfc-885b-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/allemagne/allemagne-deux-morts-dans-le-crash-dun-avion-sur-le-toit-dune-maison-8eab9d4a-8858-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/formule-1/f1-la-grille-de-depart-du-grand-prix-de-hongrie-sur-le-circuit-de-hungaroring-avec-norris-en-pole-e9c96350-8845-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/a-80-ans-jai-pris-mon-tuyau-deau-pour-proteger-ma-maison-a-laval-un-feu-sest-arrete-aux-portes-des-habitations-46412690-884b-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/faits-divers/incendie/a-80-ans-jai-pris-mon-tuyau-deau-pour-proteger-ma-maison-a-laval-un-feu-sest-arrete-aux-portes-des-habitations-46412690-884b-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-avec-seixas-et-martinez-deux-francais-terminent-dans-le-top-5-du-general-une-premiere-depuis-2014-71b79746-885f-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/rc-strasbourg/amical-apres-la-gifle-recue-face-au-sporting-le-rc-strasbourg-na-pas-redresse-la-barre-et-sincline-face-a-blackburn-c916c20e-8860-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/fc-metz/bousculee-larbitre-de-la-rencontre-entre-le-fc-metz-et-le-fortuna-sittard-tombe-au-sol-puis-cede-sa-place-197db494-885e-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1850,7 +1850,9 @@
    "https://www.20minutes.fr/auto/4235736-20260725-alarme-permanente-finit-etre-ignoree-pourquoi-alertes-sonores-multipliees-voitures?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4236245-20260725-incendie-gironde-attendait-vivre-jour-habitants-refugies-parc-expos-bordeaux?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4236283-20260725-incendies-sud-ouest-agi-autrement-photo-vacanciers-fait-tant-parler?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/tempo/4235719-20260725-airport-divorce-si-secret-eviter-disputes-vacances-commencait-aeroport?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/tempo/4235719-20260725-airport-divorce-si-secret-eviter-disputes-vacances-commencait-aeroport?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4236284-20260725-incendies-sud-ouest-comment-naissent-pyrocumulonimbus-surnommes-orages-feu?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/4236281-20260725-bresil-bolsonaro-candidat-presidentielle-octobre-oui-fils-flavio?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2042,7 +2044,11 @@
    "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-on-se-prepare-au-pire-explique-laurent-peyrondet-maire-de-lacanau_VN-202607250319.html",
    "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-de-fortes-reprises-de-feux-ont-ete-observees_VN-202607250315.html",
    "https://www.bfmtv.com/environnement/climat/video-incendie-a-biscarrosse-dans-les-landes-3-000-habitants-sont-autorises-a-rentrer_VN-202607250314.html",
-   "https://www.bfmtv.com/environnement/climat/video-gironde-le-maire-de-bordeaux-fait-le-point-alors-que-l-incendie-est-aux-portes-de-la-metropole_VN-202607250313.html"
+   "https://www.bfmtv.com/environnement/climat/video-gironde-le-maire-de-bordeaux-fait-le-point-alors-que-l-incendie-est-aux-portes-de-la-metropole_VN-202607250313.html",
+   "https://www.bfmtv.com/societe/video-incendie-en-gironde-8-000-nouvelles-evacuations-en-cours-aux-abords-de-bordeaux_VN-202607250340.html",
+   "https://www.bfmtv.com/societe/video-incendie-en-gironde-a-bordeaux-une-organisation-rigoureuse-est-deployee-pour-prendre-en-charge-les-personnes-deplacees_VN-202607250334.html",
+   "https://www.bfmtv.com/loto/decouvrez-les-resultats-du-tirage-du-loto-du-samedi-25-juillet-2026_AN-202607250045.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-ca-brule-toujours-sur-la-commune-raconte-martial-zaninetti-maire-du-porge_VN-202607250333.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2215,7 +2221,16 @@
    "https://www.lequipe.fr/Football/Actualites/-j-aimerais-dire-que-j-ai-fait-expres-qui-est-nicolas-le-dernier-du-classement-mon-petit-prono-de-la-coupe-du-monde-2026/1706628",
    "https://www.lequipe.fr/Football/Actualites/Un-contrat-signe-avant-l-application-de-la-loi-sur-la-gouvernance-du-sport-pour-un-salaire-superieur-a-450-000-et-8364-zidane-dribble-la-derogation/1706776",
    "https://www.lequipe.fr/Football/Article/Mercato-le-grand-saut-pour-maxence-lacroix-qui-va-quitter-crystal-palace-pour-rejoindre-chelsea/1706864",
-   "https://www.lequipe.fr/Football/Article/Davide-ancelotti-entraineur-de-lille-je-ne-suis-pas-quelqu-un-qui-tape-beaucoup/1706855"
+   "https://www.lequipe.fr/Football/Article/Davide-ancelotti-entraineur-de-lille-je-ne-suis-pas-quelqu-un-qui-tape-beaucoup/1706855",
+   "https://www.lequipe.fr/Football/Article/Un-echec-a-la-juve-mais-un-buteur-qui-a-marque-la-ligue-1-et-la-bundesliga-lois-openda-le-nouveau-pari-de-l-ol/1707020",
+   "https://www.lequipe.fr/Football/Actualites/Toulouse-fait-match-nul-contre-rodez-pour-debuter-l-ere-de-l-entraineur-jens-berthel-askou/1707043",
+   "https://www.lequipe.fr/Football/Actualites/Strasbourg-s-incline-contre-blackburn/1707035",
+   "https://www.lequipe.fr/Football/Actualites/L-ogc-nice-domine-l-olympique-de-marseille-en-amical-a-la-commanderie/1707031",
+   "https://www.lequipe.fr/Football/Actualites/Rennes-dompte-le-club-bruges-en-amical-grace-a-un-nouveau-but-d-esteban-lepaul/1707023",
+   "https://www.lequipe.fr/Football/Actualites/Le-fc-lorient-s-impose-face-a-guingamp-en-match-amical/1707010",
+   "https://www.lequipe.fr/Football/Actualites/Apres-avoir-resilie-le-contrat-de-son-entraineur-jermain-defoe-le-woking-fc-evoque-des-absences-injustifiees/1707009",
+   "https://www.lequipe.fr/Football/Actualites/Le-mans-enchaine-en-dominant-nantes-l2-en-match-de-preparation/1707007",
+   "https://www.lequipe.fr/Football/Actualites/Mercato-mohamed-salah-dusan-vlahovic-des-defenseurs-aux-multiples-victoires-en-ligue-des-champions-un-champion-du-monde-qui-sont-les-joueurs-libres/1706984"
   ]
  },
  "en_attente_publication": [],
@@ -2374,41 +2389,6 @@
   },
   {
    "faits": [
-    "Près de 98 000 hectares ont brûlé en France depuis le début de 2026",
-    "C'est un record historique selon le ministre de l'Intérieur Laurent Nuñez",
-    "Les incendies ravagent la Gironde et les Landes",
-    "Une accalmie a été observée dans la nuit de vendredi à samedi",
-    "Un retour du vent est attendu dans l'après-midi samedi",
-    "Plus de 32 000 hectares ont brûlé en Gironde",
-    "167 000 personnes ont été évacuées",
-    "197 000 personnes au total ont été évacuées dans le Sud-Ouest",
-    "Des milliers de sinistrés sont accueillis dans des gymnases à Bordeaux",
-    "Un avion de transport militaire A400M a été déployé samedi",
-    "L'A400M peut déverser jusqu'à 20 tonnes de produit retardant en une seule passe",
-    "Le maire de Bordeaux Thomas Cazenave assure que l'évacuation de Bordeaux n'est pas à l'ordre du jour",
-    "La SNCF demande aux voyageurs de reporter leurs déplacements vers la région"
-   ],
-   "qui": "Ministre de l'Intérieur Laurent Nuñez, Premier ministre Sébastien Lecornu, maire de Bordeaux Thomas Cazenave",
-   "ou": "Gironde, Landes, Bordeaux, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "France 24",
-    "Ouest-France",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "207b1e2af3aae0c0",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 4,
-   "depuis": "2026-07-25T13:57:28.370883+00:00"
-  },
-  {
-   "faits": [
     "Un incendie parti de Saumos a brûlé près de 32.700 hectares en Gironde",
     "L'incendie se rapproche de l'agglomération bordelaise",
     "Des personnes âgées des Ehpad des communes évacuées en Gironde sont accueillies au Parc des expositions de Bordeaux",
@@ -2462,6 +2442,36 @@
   },
   {
    "faits": [
+    "Des incendies font rage samedi en France et en Espagne",
+    "Près de 260 000 personnes évacuées près de Bordeaux",
+    "La situation reste critique en Gironde",
+    "La région de Madrid fait face au pire feu de son histoire",
+    "8 000 nouvelles évacuations en cours aux abords de Bordeaux",
+    "L'incendie sévit depuis mercredi en Gironde",
+    "Des incendies se déclarent notamment dans le Var et en Corse",
+    "Des orages sont prévus sur la moitié sud du pays le samedi",
+    "Un pyrocumulonimbus a été observé vendredi en Gironde"
+   ],
+   "qui": null,
+   "ou": "Gironde, Bordeaux, Var, Corse, France; Madrid, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "France 24",
+    "BFMTV",
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "99d71d1ed3496c79",
+   "score": 98,
+   "fiab_max": 85,
+   "nb_sources": 3,
+   "depuis": "2026-07-25T20:38:48.856108+00:00"
+  },
+  {
+   "faits": [
     "La chanteuse, autrice-compositrice et interprète française Marie-Paule Belle est décédée",
     "Elle avait 80 ans",
     "Elle connut un immense succès en 1976 avec la chanson 'La Parisienne'"
@@ -2483,33 +2493,6 @@
    "fiab_max": 90,
    "nb_sources": 3,
    "depuis": "2026-07-25T15:15:42.847979+00:00"
-  },
-  {
-   "faits": [
-    "De violents incendies ravagent l'ouest de la région de Madrid",
-    "Jusqu'à 25 000 hectares ont brûlé",
-    "Plus de 70 000 personnes ont été évacuées",
-    "C'est présenté comme le pire incendie jamais enregistré dans la région",
-    "Le Premier ministre Pedro Sánchez alerte sur des « heures difficiles »",
-    "La météo incertaine pose des risques",
-    "L'Espagne réclame l'aide de l'Union européenne"
-   ],
-   "qui": "Premier ministre espagnol Pedro Sánchez",
-   "ou": "Madrid, Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "7063590f189a2cf5",
-   "score": 97,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-25T13:57:28.370891+00:00"
   },
   {
    "faits": [
@@ -2564,6 +2547,32 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-25T16:15:21.624477+00:00"
+  },
+  {
+   "faits": [
+    "Le RC Strasbourg s'est incliné face à Blackburn (0-2) samedi 25 juillet",
+    "C'est le deuxième match amical du RC Strasbourg de l'été",
+    "Le RC Strasbourg avait perdu 0-7 face au Sporting Lisbonne lors de son premier match amical",
+    "L'équipe de Strasbourg n'a pas encore marqué le moindre but en match amical",
+    "Hugo Oliveira est l'entraîneur du RC Strasbourg",
+    "Samuel Amo-Ameyaw a raté un penalty pour Strasbourg"
+   ],
+   "qui": "RC Strasbourg, Blackburn",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France",
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "ab60352a2021601f",
+   "score": 87,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-25T20:38:48.856114+00:00"
   },
   {
    "faits": [
@@ -2657,6 +2666,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T19:50:38.797587+00:00"
+  },
+  {
+   "faits": [
+    "Paul Seixas termine 4e du classement général du Tour de France 2026",
+    "Lenny Martinez termine 5e du classement général du Tour de France 2026",
+    "C'est la première fois depuis 2014 que deux Français terminent dans le top 5 du Tour de France",
+    "La 20e étape du Tour de France s'est déroulée samedi 25 juillet"
+   ],
+   "qui": "Paul Seixas, Lenny Martinez",
+   "ou": "Tour de France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "eb18d1f12e49f2f3",
+   "score": 84,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T20:38:48.856120+00:00"
   },
   {
    "faits": [
@@ -2781,30 +2813,6 @@
   },
   {
    "faits": [
-    "Un mois après le double séisme au Venezuela",
-    "Plus de 5 500 victimes ont été tuées",
-    "C'est la pire catastrophe au Venezuela depuis 1812",
-    "17 000 sinistrés sont sans abri",
-    "Le FMI et l'ONU soutiennent l'aide humanitaire et la reconstruction"
-   ],
-   "qui": "Venezuela, FMI, ONU",
-   "ou": "Venezuela",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "0fc85a4afa2ef9e7",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T13:57:28.369724+00:00"
-  },
-  {
-   "faits": [
     "Richard Carapaz remporte la 20e étape du Tour de France entre Bourg d'Oisans et l'Alpe d'Huez",
     "Deuxième victoire en trois jours pour Richard Carapaz",
     "Carapaz assuré d'être le meilleur grimpeur de cette 113e édition"
@@ -2846,6 +2854,28 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-25T18:32:46.958532+00:00"
+  },
+  {
+   "faits": [
+    "Le 25 juillet 2026 marque l'anniversaire de la République tunisienne et les 5 ans du coup de force de Kaïs Saïed",
+    "Des centaines de personnes ont manifesté à Tunis pour dénoncer la crise politique",
+    "Les manifestants dénoncent les difficultés économiques et les coupures d'électricité"
+   ],
+   "qui": "Société civile tunisienne",
+   "ou": "Tunis, Tunisie",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "bcd90c916ff9f432",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T20:38:48.856124+00:00"
   },
   {
    "faits": [
@@ -2960,28 +2990,6 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-25T17:26:37.671826+00:00"
-  },
-  {
-   "faits": [
-    "Deux occupants d'un petit avion de tourisme décédés dans le crash",
-    "Crash du samedi 25 juillet sur le toit d'une maison",
-    "Lieu du crash : nord-ouest de l'Allemagne"
-   ],
-   "qui": "Deux occupants d'un avion de tourisme",
-   "ou": "Nord-ouest de l'Allemagne",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "e9f5bccd453b97a1",
-   "score": 78,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T19:50:38.797628+00:00"
   }
  ],
  "publies_48h": [
