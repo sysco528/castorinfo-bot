@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-un-ukraine-plus-de-300-drones-lances-vers-moscou_8113187.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/series/un-acteur-de-la-serie-ici-tout-commence-ecarte-par-tf1-apres-une-violente-altercation-entre-deux-comediens_8113178.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/edith-cresson-a-conserve-sa-voiture-avec-chauffeur-malgre-la-fin-des-avantages-a-vie-pour-les-anciens-premier-ministre_8113265.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/paul-seixas-le-maillot-blanc-et-une-nouveau-podium-pour-s-imposer-comme-troisieme-homme-du-tour-de-france-2026_8113235.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/basket/basket-victor-wembanyama-selectionne-en-equipe-de-france-pour-la-premiere-fois-depuis-les-jo-2024_8113274.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/espagne/l-espagne-va-connaitre-sa-troisieme-vague-de-chaleur-depuis-le-debut-de-l-ete-a-partir-de-la-semaine-prochaine_8113247.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/france/rentree/reportage-il-n-y-a-pas-de-petites-economies-les-fournitures-scolaires-deja-disponibles-et-moins-cheres-que-juste-avant-la-rentree_8121980.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/video-l-avion-militaire-a400m-a-realise-son-premier-largage-contre-le-feu-en-gironde_8122133.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/video-l-americain-sepp-kuss-chute-deux-fois-en-deux-minutes-et-voit-s-envoler-la-victoire-de-la-20e-etape-du-tour-de-france_8122073.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/video-le-resume-d-une-monstrueuse-20e-etape-du-tour-de-france-remportee-par-le-maillot-a-pois-richard-carapaz-a-l-alpe-d-huez_8122145.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/tour-de-france/video-le-resume-d-une-monstrueuse-20e-etape-du-tour-de-france-remportee-par-le-maillot-a-pois-richard-carapaz-a-l-alpe-d-huez_8122145.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/quels-sont-les-risques-pour-la-sante-des-fumees-generees-par-les-incendies-et-comment-s-en-proteger_8122163.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-on-doit-gerer-toutes-les-places-au-parc-des-expositions-de-bordeaux-une-unite-medicalisee-dediee-aux-personnes-agees-evacuees-a-cause-de-l-incendie_8122193.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/c-est-peut-etre-mon-dernier-confie-julian-alaphilippe-extenue-apres-la-20e-etape-de-son-huitieme-tour-de-france_8122196.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -462,8 +462,6 @@
    "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/politique/retraites-voile-fin-de-vie-au-rn-un-seminaire-presidentiel-pour-contrer-l-incertitude-20260717",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-pogacar-et-vingegaard-controles-dans-la-nuit-20260719",
    "https://sante.lefigaro.fr/mieux-etre/nutrition-aliments/tour-de-france-les-gels-de-lactate-nouvel-allie-nutritionnel-de-tadej-pogacar-a-l-efficacite-incertaine-20260719",
    "https://www.lefigaro.fr/faits-divers/et-pourquoi-pas-un-camping-archeologique-apres-la-decouverte-d-ossements-dans-l-affaire-jubillar-la-crainte-d-un-tourisme-morbide-20260719",
    "https://www.lefigaro.fr/faits-divers/val-de-marne-arrestation-d-un-homme-arme-d-un-couteau-et-menacant-des-forces-de-l-ordre-20260719",
@@ -761,10 +759,11 @@
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-le-trace-de-la-derniere-etape-modifie-les-passages-a-montmartre-conserves-20260725",
    "https://www.lefigaro.fr/conso/incendies-dans-le-sud-ouest-peut-on-annuler-ses-vacances-et-se-faire-rembourser-20260725",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-le-geant-des-alpes-carapaz-le-cauchemar-de-seixas-et-le-regard-noir-de-pogacar-les-tops-et-les-flops-de-la-20e-etape-20260725",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-pogacar-assure-d-etre-sacre-del-toro-brise-les-espoirs-de-seixas-le-classement-general-apres-la-20e-etape-20260725"
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-pogacar-assure-d-etre-sacre-del-toro-brise-les-espoirs-de-seixas-le-classement-general-apres-la-20e-etape-20260725",
+   "https://www.lefigaro.fr/sciences/qu-est-ce-qui-finit-par-arreter-un-incendie-geant-les-lecons-de-1949-et-du-megafeu-grec-de-2023-20260725",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/le-carnet-de-route-de-paul-seixas-j-ai-craque-j-ai-explose-le-reve-de-podium-s-est-effondre-a-l-alpe-d-huez-20260725"
   ],
   "https://www.france24.com/fr/rss": [
-   "154c1b38-82c6-11f1-8c60-d9b4a24a6d8c",
    "3b491838-82d3-11f1-8687-fff6f3fce3c1",
    "2adbf038-82ce-11f1-9ff4-fff6f3fce3c1",
    "98f5e496-82d5-11f1-a79d-e762aa4d8129",
@@ -1063,11 +1062,10 @@
    "5ecd05ee-8832-11f1-8cec-97e186093d20",
    "c42125b0-883c-11f1-9e0e-9d7fbb9cb9c9",
    "f49e8eec-8839-11f1-a8bd-ffc18a25e0d3",
-   "7806cbb6-8838-11f1-8c09-ffc18a25e0d3"
+   "7806cbb6-8838-11f1-8c09-ffc18a25e0d3",
+   "aea48260-73c7-11f1-b0e0-37c595ecb8de"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "52673a9a-7f36-11f1-b90e-316dba4b7f7c",
-   "94a32782-7ec5-11f1-94d8-dbb701fa6098",
    "290f0404-7ef3-11f1-a463-bd95cf1bd1c7",
    "804503be-7f38-11f1-b087-552a703408cf",
    "82bd7cd0-7f19-11f1-980b-3194a8eaba1e",
@@ -1365,14 +1363,11 @@
    "9a15d660-8820-11f1-93f8-379e3d78a4be",
    "88873d84-8835-11f1-8142-a9deaecae3f9",
    "5c9aebc0-8827-11f1-900d-b3bf0b7e4be2",
-   "c0dc65dc-8840-11f1-9ff9-65042d0c5951"
+   "c0dc65dc-8840-11f1-9ff9-65042d0c5951",
+   "f991f49e-8838-11f1-9b83-a9deaecae3f9",
+   "b067680a-87cd-11f1-9365-034d18351ea0"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/tour-de-france/entretien-paul-seixas-apres-son-gros-coup-au-markstein-je-vis-un-peu-un-reve-4fa5ef06-82c7-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/high-tech/intelligence-artificielle/partie-des-etats-unis-la-fronde-contre-les-data-centers-va-t-elle-gagner-la-france-6ad2a990-81fa-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/tennis/tennis-finaliste-malheureuse-a-wimbledon-karolina-muchova-absente-quelques-semaines-53104efa-82c9-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-largentine-est-une-vraie-plaie-vincente-del-bosque-se-mefie-de-lalbiceleste-avant-la-finale-575c3370-82c4-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/high-tech/numerique/entretien-la-souverainete-numerique-ce-nest-pas-un-slogan-cest-tres-concret-explique-le-patron-de-iliad-free-d1dc72ba-76f6-11f1-980a-970130a57304?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/culture/musiques/concert/reportage-paris-est-magique-apres-sept-ans-dabsence-bts-a-enflamme-le-stade-de-france-dans-un-show-explosif-a6846686-82cc-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/france-angleterre-est-ce-quil-y-a-une-prolongation-et-des-tirs-au-but-en-petite-finale-de-la-coupe-du-monde-904d26a2-81bc-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-deux-militaires-americains-tues-et-un-porte-disparu-apres-des-frappes-iraniennes-en-jordanie-4b96f5ce-82cf-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1667,7 +1662,12 @@
    "https://www.ouest-france.fr/monde/organismes-internationaux/unesco/plages-du-debarquement-en-normandie-chronique-dun-sacre-annonce-au-patrimoine-mondial-de-lunesco-629f7b76-877d-11f1-951f-03a8cbb1543a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-24/quiz-testez-votre-culture-generale-en-100-questions-1825cd7c-ba30-4de2-8461-d375f9a387c5?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/commerce/on-narrete-pas-parce-que-ca-ne-marche-pas-malgre-un-concept-unique-ces-deux-amies-ferment-leur-boutique-fa2fd1be-8757-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/en-images-incendies-en-gironde-et-dans-les-landes-des-milliers-dhectares-brules-et-dhabitants-evacues-a-bordeaux-4e49a392-87fd-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/faits-divers/incendie/en-images-incendies-en-gironde-et-dans-les-landes-des-milliers-dhectares-brules-et-dhabitants-evacues-a-bordeaux-4e49a392-87fd-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendies-en-gironde-des-flammes-plus-hautes-que-les-sapins-cette-famille-a-fui-lenfer-du-cap-ferret-ea09498e-8827-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/triathlon/triathlon-troisieme-victoire-en-trois-mois-pour-cassandre-beaugrand-a-londres-apres-alghero-et-quiberon-d30026fa-8849-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/athletisme/athletisme-sans-trembler-la-vannetaise-julia-cherot-se-qualifie-en-finale-du-800-m-et-reve-dor-aux-france-c3b90980-8841-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/cyclisme/tour-de-france-femmes/tour-de-france-femmes-2026-marie-le-net-ma-famille-ne-pourra-pas-faire-le-meme-virage-qua-cadoudal-en-suisse-d2ec6d36-875e-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/tennis/tennis-cest-incroyable-quentin-halys-ravi-apres-son-premier-titre-sur-le-circuit-atp-decroche-a-kitzbuehel-74b41ddc-883e-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1836,7 +1836,14 @@
    "https://www.20minutes.fr/societe/4236200-20260724-incendies-comment-agriculteurs-font-face-risques-depart-feu-champs?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/faits_divers/4236159-20260724-mort-thomas-crepol-pourquoi-ajout-circonstance-racisme-fait-basculer-dossier?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/planete/4236228-20260725-incendies-armee-plan-blanc-masques-ffp2-lecornu-annonce-renforcement-massif-moyens-etat?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/espagne/4236240-20260725-incendies-implante-espagne-site-majeur-communication-nasa-detruit-flammes?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/espagne/4236240-20260725-incendies-implante-espagne-site-majeur-communication-nasa-detruit-flammes?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sante/4235975-20260725-incendies-gironde-asthme-bronchites-maladies-chroniques-consequences-feux-sante?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4236268-20260725-tour-france-paul-seixas-tente-tout-tout-francais-4e-honneurs?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4236241-20260725-direct-incendies-plus-140-000-personnes-evacuees-sud-ouest-communes-metropole-bordelaise-concernees?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4235829-20260725-hauts-fonctionnaires-peuvent-etre-licencies-avoir-consomme-drogues?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/4236276-20260725-menaces-gironde-espagne-ecosse-tour-percute-point-incendies-europe?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4236273-20260725-guerre-ukraine-morts-accumulent-deux-cotes-roumanie-abat-drones?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4236277-20260725-tour-france-2026-faut-attendre-revoir-peut-etre-der-julian-alaphilippe?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2353,6 +2360,33 @@
   },
   {
    "faits": [
+    "Un incendie parti de Saumos a brûlé près de 32.700 hectares en Gironde",
+    "L'incendie se rapproche de l'agglomération bordelaise",
+    "Des personnes âgées des Ehpad des communes évacuées en Gironde sont accueillies au Parc des expositions de Bordeaux",
+    "Les panaches de fumée se propagent bien au-delà des zones touchées",
+    "Les fumées d'incendies génèrent des risques sanitaires dépassant les irritations respiratoires"
+   ],
+   "qui": null,
+   "ou": "Gironde, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "Ouest-France",
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "c659041a46c8fa0d",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 4,
+   "depuis": "2026-07-25T17:26:37.671811+00:00"
+  },
+  {
+   "faits": [
     "Incendies en cours en Gironde et dans les Landes depuis le 22 juillet",
     "Environ 170 000 personnes évacuées depuis mercredi",
     "Un incendie à Saumos génère un épais panache de fumée transporté jusqu'à Bordeaux",
@@ -2403,33 +2437,6 @@
   },
   {
    "faits": [
-    "Des incendies sévissent dans les régions de Madrid et d'Avila en Espagne",
-    "Jusqu'à 25 000 hectares ont été ravagés",
-    "Le Premier ministre a déclaré que la priorité était de sauver des vies",
-    "Des vents erratiques risquent d'aggraver la situation",
-    "Plus de 63 000 personnes sont affectées par le feu",
-    "Les incendies sont décrits comme incontrôlables",
-    "Les fumées sont visibles depuis Madrid, à des dizaines de kilomètres"
-   ],
-   "qui": "Autorités espagnoles",
-   "ou": "Espagne (régions de Madrid et Avila)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "7cc51fde811e40de",
-   "score": 98,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-25T10:48:36.451168+00:00"
-  },
-  {
-   "faits": [
     "De violents incendies ravagent l'ouest de la région de Madrid",
     "Jusqu'à 25 000 hectares ont brûlé",
     "Plus de 70 000 personnes ont été évacuées",
@@ -2457,30 +2464,32 @@
   },
   {
    "faits": [
-    "Des incendies progressent vers Bordeaux et la région de la Gironde",
-    "Un avion militaire a été déployé",
-    "Des communes près de Bordeaux dont Saint-Médard-en-Jalles ont été évacuées",
-    "Environ 150 000 personnes ont été déplacées depuis mercredi soir",
-    "Une halle à Bordeaux accueille des milliers d'évacués",
-    "La zone est fortement touchée par les fumées et les pluies de cendres",
-    "Les pompiers sont au bord de l'épuisement"
+    "Richard Carapaz (Équateur) a remporté l'étape-reine du Tour de France 2026 à l'Alpe d'Huez",
+    "Tadej Pogacar a validé sa victoire finale du Tour de France 2026",
+    "Julian Alaphilippe a terminé 29e de la 20e étape à 26 minutes du vainqueur",
+    "Julian Alaphilippe a laissé entendre que ce pourrait être son dernier Tour de France",
+    "Paul Seixas a terminé 4e du Tour de France 2026"
    ],
-   "qui": "Autorités françaises",
-   "ou": "France (Gironde, Bordeaux, Saint-Médard-en-Jalles)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
+   "qui": "Richard Carapaz, Tadej Pogacar, Julian Alaphilippe, Paul Seixas",
+   "ou": "Alpe d'Huez, France",
+   "categorie": "sport",
+   "sensible": false,
    "confiance": 88,
    "sources": [
+    "franceinfo",
     "Le Figaro",
-    "France 24"
+    "RFI",
+    "20 Minutes"
    ],
-   "non_confirme": [],
-   "importance": 90,
-   "empreinte": "c06963ea7db51e50",
-   "score": 97,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-25T10:48:36.451173+00:00"
+   "non_confirme": [
+    "Retraite définitive de Julian Alaphilippe"
+   ],
+   "importance": 75,
+   "empreinte": "a4224e065b27af04",
+   "score": 96,
+   "fiab_max": 90,
+   "nb_sources": 4,
+   "depuis": "2026-07-25T17:26:37.671817+00:00"
   },
   {
    "faits": [
@@ -2509,32 +2518,6 @@
   },
   {
    "faits": [
-    "Le Tour de France en est à sa 20e étape",
-    "L'étape se déroule du Col de la Croix de Fer aux cols du Télégraphe et du Galibier avant l'Alpe d'Huez",
-    "C'est la deuxième journée consécutive avec ascension de l'Alpe d'Huez",
-    "Tadej Pogacar a remporté la première ascension de l'Alpe d'Huez",
-    "Paul Seixas pointait à 24 secondes d'Isaac del Toro pour la 3e place",
-    "UAE Team Emirates affiche une domination intense sur la Grande Boucle"
-   ],
-   "qui": "Tadej Pogacar, Paul Seixas, Isaac del Toro, UAE Team Emirates",
-   "ou": "France (Alpes)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "0d652388019f5375",
-   "score": 94,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-25T10:48:36.451175+00:00"
-  },
-  {
-   "faits": [
     "Le ministre indien de l'Éducation Dharmendra Pradhan a annoncé sa démission",
     "Démission suite à six jours de fronde étudiante exigeant son départ",
     "Les étudiants dénonçaient des fraudes lors des examens universitaires"
@@ -2558,28 +2541,6 @@
   },
   {
    "faits": [
-    "Le record annuel des surfaces brûlées en France a déjà été battu en 2026",
-    "Quelque 69 473 hectares ont brûlé en France depuis le début de l'année",
-    "Ces données proviennent du Système européen d'information sur les feux de forêt"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "fbf188010e048c67",
-   "score": 86,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T10:48:36.450136+00:00"
-  },
-  {
-   "faits": [
     "L'avion militaire A400M a réalisé son premier largage contre le feu en Gironde",
     "C'est la première fois que cet appareil est déployé en conditions réelles pour combattre un incendie"
    ],
@@ -2598,54 +2559,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-25T16:15:21.624501+00:00"
-  },
-  {
-   "faits": [
-    "Plus de 850 km de bouchons cumulés au niveau national samedi matin",
-    "Les autoroutes A7, A9 et A10 sont principalement concernées",
-    "Les bouchons sont liés aux départs en vacances"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "54b54f7669843032",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T10:48:36.451180+00:00"
-  },
-  {
-   "faits": [
-    "L'Assemblée des États parties à la Cour pénale internationale a révoqué le procureur Karim Khan",
-    "Khan est accusé d'agression sexuelle, faits qu'il conteste",
-    "Khan est une figure centrale d'enquêtes visant Vladimir Poutine, Benjamin Netanyahu et des dirigeants du Hamas",
-    "Khan annonce contester cette décision en justice",
-    "Les procureurs adjoints assureront l'intérim"
-   ],
-   "qui": "Karim Khan, Assemblée des États parties à la CPI",
-   "ou": "International",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Les accusations d'agression sexuelle contre Karim Khan (qu'il conteste)"
-   ],
-   "importance": 72,
-   "empreinte": "d22330951a865f1e",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T10:48:36.450299+00:00"
   },
   {
    "faits": [
@@ -2691,30 +2604,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-25T11:54:17.274353+00:00"
-  },
-  {
-   "faits": [
-    "Jürgen Klopp a été officiellement nommé sélectionneur de l'Allemagne vendredi",
-    "Andrea Pirlo a été nommé sélectionneur de l'Italie",
-    "Zinédine Zidane devrait être nommé sélectionneur de la France mardi"
-   ],
-   "qui": "Jürgen Klopp, Andrea Pirlo, Zinédine Zidane",
-   "ou": "Allemagne, Italie, France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "La nomination de Zinédine Zidane en tant que sélectionneur des Bleus (formulée comme devant intervenir mardi)"
-   ],
-   "importance": 75,
-   "empreinte": "e3bccf0e29130dfb",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T10:48:36.451186+00:00"
   },
   {
    "faits": [
@@ -2793,54 +2682,6 @@
   },
   {
    "faits": [
-    "Quatre Palestiniens ont été tués dans des affrontements avec des colons israéliens",
-    "Les funérailles sont organisées samedi dans un village du nord de la Cisjordanie occupée",
-    "Benjamin Netanyahu a annoncé la légalisation d'avant-postes coloniaux",
-    "Il existe des attaques quasi quotidiennes de colons israéliens contre des Palestiniens en toute impunité"
-   ],
-   "qui": "Benjamin Netanyahu, colons israéliens, Palestiniens",
-   "ou": "Cisjordanie occupée",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 86,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "e010425f59638e40",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T10:48:36.450380+00:00"
-  },
-  {
-   "faits": [
-    "Les Houthis ont relancé les hostilités contre l'Arabie saoudite",
-    "Les Houthis revendiquent des attaques contre deux pétroliers",
-    "Les Houthis annoncent un blocus maritime",
-    "Riyad dit avoir riposté en frappant le port d'Hodeïda",
-    "L'ONU dénonce cette escalade",
-    "Donald Trump menace l'Iran et les Houthis de représailles en cas de nouvelles attaques"
-   ],
-   "qui": "Houthis, Arabie saoudite, Iran, Donald Trump",
-   "ou": "Mer Rouge",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 86,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 73,
-   "empreinte": "0d954cc41d3a17f3",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T10:48:36.450478+00:00"
-  },
-  {
-   "faits": [
     "Un mois après le double séisme au Venezuela",
     "Plus de 5 500 victimes ont été tuées",
     "C'est la pire catastrophe au Venezuela depuis 1812",
@@ -2890,29 +2731,6 @@
   },
   {
    "faits": [
-    "À Gaza, le risque de famine a reculé depuis le cessez-le-feu",
-    "La population reste entièrement dépendante d'une aide humanitaire limitée",
-    "Les enfants demeurent particulièrement vulnérables à la malnutrition",
-    "La quasi-totalité des terres agricoles est inutilisable"
-   ],
-   "qui": "Population de Gaza, UNICEF",
-   "ou": "Gaza",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 84,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "7c71e247fa3ec820",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T10:48:36.450429+00:00"
-  },
-  {
-   "faits": [
     "Le Venezuela va engager son retrait définitif de la Cour pénale internationale",
     "L'annonce a été faite vendredi 24 juillet par le ministre des Affaires étrangères sur les réseaux sociaux",
     "Caracas avait déjà averti de son intention de se retirer de cette juridiction"
@@ -2935,27 +2753,179 @@
   },
   {
    "faits": [
-    "Donald Trump a émis l'hypothèse que le joueur LeBron James serait raciste",
-    "L'accusation a été formulée vendredi lors d'une conférence de presse à la Maison-Blanche",
-    "LeBron James est le nouveau joueur de Philadelphie"
+    "Quentin Halys a décroché son premier titre sur le circuit ATP à Kitzbühel le 25 juillet 2026",
+    "Quentin Halys a battu Alexander Bublik (6-4, 7-6) en finale"
    ],
-   "qui": "Donald Trump, LeBron James",
-   "ou": "États-Unis",
-   "categorie": "international",
-   "sensible": true,
+   "qui": "Quentin Halys",
+   "ou": "Kitzbühel",
+   "categorie": "sport",
+   "sensible": false,
    "confiance": 85,
    "sources": [
-    "franceinfo"
+    "Ouest-France"
    ],
-   "non_confirme": [
-    "L'hypothèse que LeBron James serait raciste (formulée comme supposition par Trump)"
-   ],
-   "importance": 55,
-   "empreinte": "8c7c3e7567f22e2f",
-   "score": 81,
-   "fiab_max": 90,
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "280049c775bf1168",
+   "score": 79,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-25T10:48:36.451195+00:00"
+   "depuis": "2026-07-25T17:26:37.671826+00:00"
+  },
+  {
+   "faits": [
+    "Cassandre Beaugrand a remporté une victoire en triathlon à Londres le 25 juillet 2026",
+    "C'est la troisième victoire de Cassandre Beaugrand en trois mois",
+    "Les victoires précédentes étaient à Alghero et Quiberon",
+    "Cassandre Beaugrand a battu le record du 3 000 m sur la piste de Monaco lors de la Ligue de Diamant"
+   ],
+   "qui": "Cassandre Beaugrand",
+   "ou": "Londres, Grande-Bretagne",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "107bd390beda6156",
+   "score": 78,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T17:26:37.671828+00:00"
+  },
+  {
+   "faits": [
+    "Le gardien cap-verdien Vozinha, 40 ans, s'engage avec Colo-Colo",
+    "Vozinha a été l'un des héros du dernier Mondial de football",
+    "Vozinha rejoint le championnat chilien"
+   ],
+   "qui": "Vozinha",
+   "ou": "Chili",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "e018a6a33fa5eadc",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T17:26:37.671829+00:00"
+  },
+  {
+   "faits": [
+    "Moscou et Kiev ont fait état de 20 personnes mortes dans des bombardements le 25 juillet",
+    "La Roumanie a abattu des drones",
+    "Le président kazakh s'est prononcé sur le conflit"
+   ],
+   "qui": "Moscou, Kiev, Roumanie, Kazakhstan",
+   "ou": "Ukraine",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "ed8505e29a650072",
+   "score": 75,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T17:26:37.671384+00:00"
+  },
+  {
+   "faits": [
+    "Marie Le Net participe au Tour de France femmes 2026 qui débute le 1er août",
+    "Marie Le Net fait partie de la sélection FDJ United-SUEZ",
+    "Marie Le Net aura un rôle d'équipière pour protéger Demi Vollering"
+   ],
+   "qui": "Marie Le Net, Demi Vollering",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "16ab3cfc34498e11",
+   "score": 75,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T17:26:37.671830+00:00"
+  },
+  {
+   "faits": [
+    "Julia Cherot s'est qualifiée pour la finale du 800 m aux championnats de France",
+    "Julia Cherot vise le titre national en 800 m"
+   ],
+   "qui": "Julia Cherot",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "3ca33581431a2b79",
+   "score": 74,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T17:26:37.671307+00:00"
+  },
+  {
+   "faits": [
+    "Des hauts fonctionnaires ont été écartés après un test antidrogue positif",
+    "Ces personnes travaillaient dans des cabinets ministériels",
+    "Le Premier ministre Sébastien Lecornu a annoncé cette information"
+   ],
+   "qui": "Sébastien Lecornu, hauts fonctionnaires",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "06c61a2dad674327",
+   "score": 74,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T17:26:37.671345+00:00"
+  },
+  {
+   "faits": [
+    "Il y a des menaces d'incendies en Espagne",
+    "Il y a des menaces d'incendies en Écosse",
+    "La capitale espagnole est menacée par les incendies",
+    "Les incendies menacent le Tour de France"
+   ],
+   "qui": null,
+   "ou": "Espagne, Écosse, Europe",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 70,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "b891a5fce22ee9df",
+   "score": 73,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T17:26:37.671365+00:00"
   }
  ],
  "publies_48h": [
@@ -3134,7 +3104,7 @@
   "🌡️ Sept communes près de Bordeaux ont été évacuées face à l'avancée des incendies en Gironde. Des milliers de personnes sont acheminées au Parc des expositions. Plus de 200 000 personnes ont fui en France et Espagne depuis le milieu de la semaine. (franceinfo)",
   "Un incendie ravage la Gironde depuis mercredi, forçant l'évacuation de 140 000 personnes. Sept communes près de Bordeaux sont évacuées préventivement. Ce « feu convectif » se propage violemment. Seulement 5 Canadair sur 12 sont opérationnels."
  ],
- "recap_date": "2026-07-24",
+ "recap_date": "2026-07-25",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-25",
