@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/bresil/la-justice-bresilienne-interdit-une-visite-du-president-argentin-javier-milei-a-l-ancien-chef-d-etat-bresilien-jair-bolsonaro-assigne-a-residence_8113142.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/pays-bas/un-laboratoire-clandestin-de-drogues-de-synthese-decouvert-a-la-haye-des-dizaines-de-logements-evacues_8113067.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/videos/video-tour-de-france-2026-le-resume-video-de-la-14e-etape-remportee-en-solitaire-par-tadej-pogacar_8113223.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/directs/direct-france-angleterre-la-der-de-didier-deschamps-pour-conquerir-la-3e-place-suivez-avec-nous-la-petite-finale-de-la-coupe-du-monde-a-23-heures_8111705.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/trois-questions-sur-le-tarif-agent-avantage-dont-beneficient-les-salaries-d-edf-et-que-la-cour-des-comptes-veut-raboter_8113136.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-radio/info-culture/le-festival-de-musique-des-vieilles-charrues-fait-de-la-place-aux-nouvelles-generations_8064119.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/culture/la-chanteuse-et-pianiste-marie-paule-belle-connue-notamment-pour-la-parisienne-est-morte-a-l-age-de-80-ans_8121890.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/terrorisme/six-hommes-presentes-a-la-justice-dans-l-enquete-sur-des-soupcons-de-projet-d-attaque-a-la-synagogue-de-sarcelles_8121929.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-ukrainienne-sur-une-ville-occupee-fait-huit-morts-selon-les-autorites-pro-russes_8121872.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/pres-de-98-000-hectares-deja-brules-en-france-un-record-historique-annonce-le-ministre-de-l-interieur-laurent-nunez_8121923.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/pres-de-98-000-hectares-deja-brules-en-france-un-record-historique-annonce-le-ministre-de-l-interieur-laurent-nunez_8121923.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/le-trace-de-la-21e-et-derniere-etape-du-tour-de-france-modifie-en-derniere-minute-pour-permettre-de-liberer-des-forces-de-l-ordre-dans-la-lutte-contre-les-incendies_8122046.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/l-equatorien-richard-carapaz-remporte-l-etape-reine-du-tour-de-france-apres-un-final-haletant-face-a-l-americain-sepp-kuss_8121815.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/france/rentree/reportage-il-n-y-a-pas-de-petites-economies-les-fournitures-scolaires-deja-disponibles-et-moins-cheres-que-juste-avant-la-rentree_8121980.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -462,9 +462,6 @@
    "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-sur-ses-terres-seixas-veut-enflammer-le-plateau-de-solaison-suivez-la-15e-etape-20260719",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-del-toro-col-nouvelle-generation-etape-waouh-5-choses-a-savoir-sur-le-plateau-de-solaison-20260719",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/la-seixasmania-va-t-elle-s-emparer-du-tour-de-france-20260719",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-profil-horaire-favoris-et-le-moment-de-verite-de-la-quinzieme-etape-20260719",
    "https://www.lefigaro.fr/international/tu-as-vu-la-liberation-qu-il-nous-apporte-le-monde-russe-reportage-le-long-du-dniepr-fleuve-vital-des-ukrainiens-transforme-en-piege-mortel-20260719",
    "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-va-t-il-se-separer-du-commandant-en-chef-de-l-armee-le-general-syrsky-20260719",
@@ -761,12 +758,12 @@
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-paul-seixas-peut-il-aller-chercher-la-troisieme-place-d-isaac-del-toro-20260724",
    "https://www.lefigaro.fr/societes/20-000-litres-d-eau-largues-en-quelques-secondes-comment-l-avion-militaire-a400m-deploye-en-gironde-a-ete-transforme-pour-lutter-contre-les-incendies-20260725",
    "https://video.lefigaro.fr/figaro/apres-l-enfer-des-flammes-un-pompier-raconte-sa-renaissance-20260721",
-   "https://www.lefigaro.fr/je-ne-demande-qu-a-vivre-un-pompier-grand-brule-en-2004-raconte-sa-reconstruction-20260725"
+   "https://www.lefigaro.fr/je-ne-demande-qu-a-vivre-un-pompier-grand-brule-en-2004-raconte-sa-reconstruction-20260725",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-l-equatorien-carapaz-s-offre-l-etape-reine-a-l-alpe-d-huez-del-toro-conforte-son-maillot-blanc-face-a-seixas-20260725",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-en-video-la-double-chute-de-sepp-kuss-qui-lui-prive-de-la-victoire-a-l-alpe-d-huez-20260725",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-le-trace-de-la-derniere-etape-modifie-les-passages-a-montmartre-conserves-20260725"
   ],
   "https://www.france24.com/fr/rss": [
-   "44bf0a9e-82bf-11f1-a680-592b1e8bcc57",
-   "a890ba4a-82bf-11f1-9fea-592b1e8bcc57",
-   "3b00b782-82bf-11f1-9333-5b640bd080f5",
    "ab22fa70-82ba-11f1-90a9-5b640bd080f5",
    "feeb78b8-82b9-11f1-b69e-5b640bd080f5",
    "4e2f4186-82ae-11f1-9e2b-ed16aa788e27",
@@ -1063,12 +1060,12 @@
    "826b27fc-8773-11f1-8d43-b73d34bc3205",
    "f2b4f91c-881c-11f1-ab1b-376b0b7a9b6b",
    "ab1aaca4-881d-11f1-97df-395ddcb84ca0",
-   "117fb21e-881e-11f1-b36e-2bd1441fcebc"
+   "117fb21e-881e-11f1-b36e-2bd1441fcebc",
+   "9b2a81a4-882f-11f1-9e98-f1242413d923",
+   "0147325e-8838-11f1-89d4-ffc18a25e0d3",
+   "5ecd05ee-8832-11f1-8cec-97e186093d20"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "96055e68-7f3f-11f1-928c-c1a76b80ac80",
-   "2629867a-7f06-11f1-bdbe-efb5d1056042",
-   "22ba1834-7f3c-11f1-bfb3-ffea10d8d637",
    "a212b0cc-7c72-11f1-9800-e107db1ef8df",
    "52673a9a-7f36-11f1-b90e-316dba4b7f7c",
    "94a32782-7ec5-11f1-94d8-dbb701fa6098",
@@ -1365,17 +1362,12 @@
    "9cdee06a-880e-11f1-ac29-014f1222e973",
    "395336de-8207-11f1-96d7-8d0cfc9f1fcd",
    "c5d9d5c8-8828-11f1-bc86-b3bf0b7e4be2",
-   "992ccab4-8821-11f1-95fe-b3bf0b7e4be2"
+   "992ccab4-8821-11f1-95fe-b3bf0b7e4be2",
+   "9a15d660-8820-11f1-93f8-379e3d78a4be",
+   "88873d84-8835-11f1-8142-a9deaecae3f9",
+   "5c9aebc0-8827-11f1-900d-b3bf0b7e4be2"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/debat-on-ne-retient-que-le-vainqueur-la-petite-finale-un-match-qui-divise-meme-nos-lecteurs-f5346e32-82a1-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/culture/musiques/jordan-bardella-porte-plainte-contre-le-rappeur-kerchak-pour-sa-participation-au-titre-no-pasaran-sorti-en-2024-68b118b6-828d-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/fc-nantes/mercato-fc-nantes-alban-lafont-en-partance-vers-la-turquie-f986608a-82a1-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/nous-respectons-les-anglais-qui-nous-aident-a-la-maison-largentin-enzo-fernandez-provocant-ou-maladroit-38dbbe44-82a5-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/allemagne/le-chef-des-deputes-conservateurs-allemands-pousse-a-la-demission-apres-son-recours-a-la-gpa-bd3636da-82a3-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/pays-de-la-loire/les-epesses-85590/puy-du-fou/90-000-pieces-des-matieres-insolites-a-linterieur-de-latelier-a-costumes-qui-donne-au-puy-du-fou-toute-sa-magie-6847e424-667a-11f1-99fc-6db54956824f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/le-collaborateur-de-christelle-morancais-agresse-la-presidente-de-region-denonce-le-debut-de-la-barbarie-a-nantes-b5017dec-82a0-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/culture/livres/lire-magazine/xavier-de-moulins-mon-ideal-serait-la-litterature-daft-punk-avancer-masque-19f3ae08-7e7f-11f1-a3cc-61ee167b6bba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tourisme/calvados-decouvrez-la-station-balneaire-la-plus-nature-de-la-cote-fleurie-7df8e4a0-471f-11f1-8cf0-8f7da57c611b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/athletisme/athletisme-armand-duplantis-abandonne-au-meeting-londres-kendricks-simpose-a-la-perche-e331634e-82b4-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/fc-lorient/de-merlevenez-a-arsenal-illan-meslier-leternel-enfant-du-pays-6b7c55f6-829c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1667,7 +1659,15 @@
    "https://www.ouest-france.fr/tourisme/deux-jours-hors-du-monde-cette-balade-en-bateau-vous-emmene-dormir-sur-une-ile-au-cur-de-la-loire-4b22c72e-86a5-11f1-9e1f-163bb4ccc6b3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/incendie/infographie-incendies-98-000-hectares-ont-brule-depuis-le-debut-de-lannee-selon-laurent-nunez-c8e50fe6-8821-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/environnement/eau/furieux-apres-une-coupure-deau-il-ma-braque-avec-un-fusil-charge-de-la-station-de-pompage-un-job-dete-risque-5653211e-84e5-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/formule-1/lando-norris/f1-gp-de-hongrie-lando-norris-realise-le-meilleur-temps-de-la-derniere-seance-dessais-libres-43d8e930-881c-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/formule-1/lando-norris/f1-gp-de-hongrie-lando-norris-realise-le-meilleur-temps-de-la-derniere-seance-dessais-libres-43d8e930-881c-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/pedocriminalite/un-animateur-periscolaire-mis-en-examen-pour-agressions-sexuelles-sur-mineurs-et-detention-dimages-pedopornographiques-94a975ee-8837-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendies-en-gironde-extraordinaire-sauves-dun-feu-ils-parcourent-600-kilometres-pour-faire-un-don-aux-pompiers-ee8d303a-882f-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/justice/un-animateur-periscolaire-place-en-detention-provisoire-en-maine-et-loire-e0bf8490-8833-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/culture/arts/expositions/explorer-dautres-recits-de-la-colonisation-lors-dune-exposition-au-memorial-de-caen-a3e64678-4722-11f1-8cf0-8f7da57c611b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/organismes-internationaux/unesco/inscription-des-plages-du-d-day-a-lunesco-un-parcours-du-combattant-depuis-plus-de-20-ans-c27f2f1e-7553-11f1-9172-187ee382b87f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-le-classement-general-apres-la-20e-et-avant-derniere-etape-remportee-par-richard-carapaz-45480688-8827-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendie-en-cours-a-treillieres-au-nord-de-nantes-un-secteur-a-eviter-99e65efe-8833-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-12e-du-general-au-depart-de-la-20e-etape-ilan-van-wilder-chute-violemment-et-abandonne-86bea89a-882e-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2201,6 +2201,37 @@
  "evenements_attente": [
   {
    "faits": [
+    "Richard Carapaz (Équateur, EF Education-EasyPost) remporte la 20e étape du Tour de France à l'Alpe d'Huez",
+    "C'est le deuxième succès de Carapaz en trois jours",
+    "Tadej Pogacar conserve le maillot jaune",
+    "Isaac Del Toro remporte le maillot blanc",
+    "Paul Seixas (France, Decathlon CMA CGM) quitte le podium",
+    "Sepp Kuss (États-Unis) chute deux fois dans le final alors qu'il se dirigeait vers la victoire",
+    "Ilan Van Wilder abandonne après une chute dans la descente du col de la Croix de Fer",
+    "La dernière étape du Tour (dimanche) est raccourcie et limitée à Paris",
+    "Le tracé est modifié pour redéployer services de secours et forces de police en Gironde"
+   ],
+   "qui": "Richard Carapaz, Tadej Pogacar, coureurs du Tour de France 2026",
+   "ou": "Alpe d'Huez (Isère), Paris",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24",
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "e5848e965490a773",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 4,
+   "depuis": "2026-07-25T15:15:42.847971+00:00"
+  },
+  {
+   "faits": [
     "Près de 98 000 hectares ont brûlé en France depuis le début de 2026",
     "C'est un record historique selon le ministre de l'Intérieur Laurent Nuñez",
     "Les incendies ravagent la Gironde et les Landes",
@@ -2263,6 +2294,56 @@
    "fiab_max": 90,
    "nb_sources": 4,
    "depuis": "2026-07-25T11:54:17.274331+00:00"
+  },
+  {
+   "faits": [
+    "Incendies en cours en Gironde et dans les Landes depuis le 22 juillet",
+    "Environ 170 000 personnes évacuées depuis mercredi",
+    "Un incendie à Saumos génère un épais panache de fumée transporté jusqu'à Bordeaux",
+    "La ville de Bordeaux est recouverte d'un nuage de poussière obscurcissant le ciel",
+    "Le nuage contient un 'cocktail de polluants' présentant des risques sanitaires"
+   ],
+   "qui": null,
+   "ou": "Gironde, Landes, Bordeaux, Arcachon",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "France 24",
+    "RFI",
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 88,
+   "empreinte": "9b9b2c100c11f8c6",
+   "score": 99,
+   "fiab_max": 85,
+   "nb_sources": 3,
+   "depuis": "2026-07-25T15:15:42.847978+00:00"
+  },
+  {
+   "faits": [
+    "La chanteuse, autrice-compositrice et interprète française Marie-Paule Belle est décédée",
+    "Elle avait 80 ans",
+    "Elle connut un immense succès en 1976 avec la chanson 'La Parisienne'"
+   ],
+   "qui": "Marie-Paule Belle",
+   "ou": "France",
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 93,
+   "sources": [
+    "Ouest-France",
+    "RFI",
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "058a58592d22e12f",
+   "score": 98,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-25T15:15:42.847979+00:00"
   },
   {
    "faits": [
@@ -2347,31 +2428,6 @@
   },
   {
    "faits": [
-    "Décès de la chanteuse et pianiste Marie-Paule Belle à 80 ans",
-    "Connue notamment pour la chanson « La Parisienne »",
-    "Révélée en 1969 en remportant un concours à la radio",
-    "A commencé le piano dès l'âge de 3 ans",
-    "Était atteinte d'un cancer"
-   ],
-   "qui": "Marie-Paule Belle",
-   "ou": "France",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 93,
-   "sources": [
-    "franceinfo",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "058a58592d22e12f",
-   "score": 96,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-25T11:54:17.274339+00:00"
-  },
-  {
-   "faits": [
     "Le Tour de France en est à sa 20e étape",
     "L'étape se déroule du Col de la Croix de Fer aux cols du Télégraphe et du Galibier avant l'Alpe d'Huez",
     "C'est la deuxième journée consécutive avec ascension de l'Alpe d'Huez",
@@ -2421,30 +2477,6 @@
   },
   {
    "faits": [
-    "Karim Khan, procureur de la CPI, a été révoqué",
-    "Visé par une procédure pour faute grave",
-    "Accusé d'avoir engagé une relation sexuelle 'inappropriée' avec son assistante",
-    "Révocation risque de fragiliser la Cour pénale internationale",
-    "Pression croissante des États-Unis et d'Israël contre les enquêtes de la CPI sur les crimes en territoires palestiniens"
-   ],
-   "qui": "Karim Khan, Cour pénale internationale",
-   "ou": null,
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "92443fa2d8c14402",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T09:08:49.686259+00:00"
-  },
-  {
-   "faits": [
     "Le record annuel des surfaces brûlées en France a déjà été battu en 2026",
     "Quelque 69 473 hectares ont brûlé en France depuis le début de l'année",
     "Ces données proviennent du Système européen d'information sur les feux de forêt"
@@ -2489,52 +2521,6 @@
   },
   {
    "faits": [
-    "Une stagiaire de l'Otan, ressortissante canadienne d'origine chinoise, arrêtée en Belgique",
-    "Soupçonnée d'espionnage",
-    "Travaillait au quartier général stratégique des Puissances Alliées en Europe de l'Otan à Mons"
-   ],
-   "qui": "Stagiaire de l'Otan (non nommée), Otan",
-   "ou": "Belgique, Mons",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "297882d60cb3cdf4",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T09:08:49.686266+00:00"
-  },
-  {
-   "faits": [
-    "Friedrich Merz, chancelier allemand, remanié son gouvernement",
-    "Élections régionales prévues à quelques semaines",
-    "Poussée inédite de l'extrême droite attendue",
-    "Reproches d'être trop tourné vers l'international",
-    "L'AfD est une force politique de plus en plus menaçante"
-   ],
-   "qui": "Friedrich Merz, AfD",
-   "ou": "Allemagne",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "e2f3c6bce9dc1fc3",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T09:08:49.686271+00:00"
-  },
-  {
-   "faits": [
     "L'Assemblée des États parties à la Cour pénale internationale a révoqué le procureur Karim Khan",
     "Khan est accusé d'agression sexuelle, faits qu'il conteste",
     "Khan est une figure centrale d'enquêtes visant Vladimir Poutine, Benjamin Netanyahu et des dirigeants du Hamas",
@@ -2558,6 +2544,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T10:48:36.450299+00:00"
+  },
+  {
+   "faits": [
+    "Les six médinas des Sultanats historiques des Comores sont inscrites au patrimoine mondial de l'Unesco",
+    "L'inscription a été décidée samedi 25 juillet lors du Comité du patrimoine mondial réuni à Busan, Corée du Sud",
+    "Cela marque une étape historique pour l'archipel"
+   ],
+   "qui": "Comité du patrimoine mondial de l'Unesco, Comores",
+   "ou": "Comores, Busan (Corée du Sud)",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "3aa7aebe1a76fd89",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T15:15:42.847991+00:00"
   },
   {
    "faits": [
@@ -2608,47 +2616,53 @@
   },
   {
    "faits": [
-    "Vigilance orange aux orages placée sur les Bouches-du-Rhône et le Var",
-    "Début d'événement météorologique prévu en début d'après-midi samedi"
+    "Un animateur périscolaire de 26 ans, nommé Thomas V, a été interpellé le 23 juillet à Angers",
+    "Il est mis en examen pour agressions sexuelles sur mineurs",
+    "Il est mis en examen pour enregistrement et détention d'images pédopornographiques",
+    "Il est mis en examen pour voyeurisme",
+    "Il intervient dans un centre aéré et une école d'Angers",
+    "Il a été placé en détention provisoire"
    ],
-   "qui": "Météo France",
-   "ou": "Bouches-du-Rhône, Var",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 90,
+   "qui": "Thomas V, 26 ans, animateur périscolaire",
+   "ou": "Angers (Maine-et-Loire)",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
    "sources": [
-    "franceinfo"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 60,
-   "empreinte": "5a3dc4da3866e810",
-   "score": 84,
-   "fiab_max": 90,
+   "importance": 75,
+   "empreinte": "9edb307b3d791666",
+   "score": 83,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-25T09:08:49.686273+00:00"
+   "depuis": "2026-07-25T15:15:42.846866+00:00"
   },
   {
    "faits": [
-    "80e édition du Festival d'Avignon s'est clôturée",
-    "Affiche sombre avec des créations à tonalité anxiogène et formats audacieux",
-    "Festival s'est déroulé malgré la canicule et la mobilisation sociale contre les coupes budgétaires",
-    "Taux de remplissage de 92 %"
+    "Des attaques du groupe djihadiste ADF en République démocratique du Congo font une vingtaine de morts",
+    "L'ADF est affilié au groupe État islamique",
+    "Les attaques se multiplient dans l'est de la RDC",
+    "Cette intensification des violences coïncide avec une progression de l'épidémie d'Ebola dans la région"
    ],
-   "qui": "Festival d'Avignon",
-   "ou": "Avignon",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 92,
+   "qui": "ADF (groupe djihadiste affilié à l'État islamique)",
+   "ou": "République démocratique du Congo, est du pays",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
    "sources": [
-    "Le Monde"
+    "France 24"
    ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "229cfb61bae360f0",
-   "score": 84,
-   "fiab_max": 90,
+   "non_confirme": [
+    "Nombre exact de victimes selon la société civile"
+   ],
+   "importance": 76,
+   "empreinte": "4ea005092643d6b0",
+   "score": 83,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-25T09:08:49.686274+00:00"
+   "depuis": "2026-07-25T15:15:42.846953+00:00"
   },
   {
    "faits": [
@@ -2697,29 +2711,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T10:48:36.450478+00:00"
-  },
-  {
-   "faits": [
-    "Laura Loomer, influenceuse complotiste d'extrême droite, a rencontré Volodymyr Zelensky à Kiev",
-    "Elle admet avoir cru que 'l'armée ukrainienne n'était qu'une bande de nazis'",
-    "Elle reconnaît être tombée dans la propagande russe",
-    "Conversion de propagandiste du Kremlin à avocate de la cause ukrainienne"
-   ],
-   "qui": "Laura Loomer, Volodymyr Zelensky",
-   "ou": "Kiev, Ukraine",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "4b01ad85bc841221",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T09:08:49.686278+00:00"
   },
   {
    "faits": [
@@ -2795,29 +2786,6 @@
   },
   {
    "faits": [
-    "Mehdi Black Wind, rappeur marocain, est incarcéré au Maroc",
-    "Accusé d''outrage à une institution constitutionnelle'",
-    "Son incarcération est dénoncée à l'international",
-    "Nombreux soutiens notamment en France"
-   ],
-   "qui": "Mehdi Black Wind",
-   "ou": "Maroc",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "d3c8026dbd96c933",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T09:08:44.948029+00:00"
-  },
-  {
-   "faits": [
     "Donald Trump a émis l'hypothèse que le joueur LeBron James serait raciste",
     "L'accusation a été formulée vendredi lors d'une conférence de presse à la Maison-Blanche",
     "LeBron James est le nouveau joueur de Philadelphie"
@@ -2887,6 +2855,29 @@
   },
   {
    "faits": [
+    "Un incendie est en cours samedi 25 juillet à Treillières au nord de Nantes",
+    "Le sinistre est situé route du Pont du Gué",
+    "Une maison et un champ sont touchés",
+    "D'importants moyens sont mobilisés en raison du risque de propagation"
+   ],
+   "qui": null,
+   "ou": "Treillières, Loire-Atlantique, nord de Nantes",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "874a49135eb0f1c4",
+   "score": 79,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T15:15:42.846995+00:00"
+  },
+  {
+   "faits": [
     "Cuba traverse de fréquents black-outs de plus de 24 heures",
     "Des manifestations nocturnes répétées ont lieu à La Havane",
     "Pénuries d'eau et de nourriture s'aggravent",
@@ -2933,6 +2924,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T13:57:28.369679+00:00"
+  },
+  {
+   "faits": [
+    "Les fournitures scolaires sont déjà en rayons dans de nombreux magasins",
+    "Les prix des fournitures scolaires sont moins élevés en juillet qu'en fin août",
+    "Selon l'association Que Choisir Ensemble, les prix baissent entre juillet et la rentrée"
+   ],
+   "qui": "association Que Choisir Ensemble, distributeurs",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "a038dc712117dac1",
+   "score": 78,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T15:15:42.848000+00:00"
   }
  ],
  "publies_48h": [
