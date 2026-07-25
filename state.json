@@ -764,11 +764,6 @@
    "https://www.lefigaro.fr/international/allemagne-plusieurs-blesses-en-marge-de-la-gay-pride-a-berlin-apres-un-probable-incident-impliquant-une-voiture-20260725"
   ],
   "https://www.france24.com/fr/rss": [
-   "b40b33b2-8302-11f1-a43a-b33bfae6cb64",
-   "00612f70-8306-11f1-98d1-45752ece6a6d",
-   "7da89db0-832e-11f1-8291-b76502d2199b",
-   "6968f426-832e-11f1-a316-c59dda712897",
-   "3a3ab42a-832c-11f1-96e9-b76502d2199b",
    "f79009a6-81bc-11f1-ad66-31b26f632ae5",
    "059e097e-81ce-11f1-84b1-9f2a8e948542",
    "56f5147c-835c-11f1-b54c-1d268c19448e",
@@ -1063,12 +1058,14 @@
    "9daedbc8-8861-11f1-b9b6-fd5dcb1104bb",
    "6669d474-8839-11f1-ad53-b759e0edc550",
    "323cf742-8868-11f1-b84e-a9ee680a102f",
-   "4a27ca8a-8868-11f1-9b13-a9ee680a102f"
+   "4a27ca8a-8868-11f1-9b13-a9ee680a102f",
+   "d9cc80ec-887f-11f1-9d7b-2950be6c7393",
+   "c4d50b32-887a-11f1-9793-2528b92ceeba",
+   "23cf0376-8877-11f1-8afc-4f7246a3c7d7",
+   "37abdb28-887a-11f1-b786-2528b92ceeba",
+   "0c67a1a0-8874-11f1-a5d8-4f7246a3c7d7"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "9fc402e4-7f6a-11f1-a01c-01014d2074c2",
-   "b4237600-7f6c-11f1-a2d2-01014d2074c2",
-   "6a4ef746-7f7d-11f1-8023-977e3176709b",
    "ce750da6-7f72-11f1-a0df-cd65218e4cca",
    "b584d338-7f79-11f1-a18f-977e3176709b",
    "ebad2732-7f72-11f1-a07c-cd65218e4cca",
@@ -1365,7 +1362,10 @@
    "448d1722-883d-11f1-b589-65042d0c5951",
    "b3007fbe-885b-11f1-94e3-9f65143c79d8",
    "d4a44b42-886e-11f1-90a7-f192ae8cdfbf",
-   "9013f9ae-886f-11f1-9526-0328645e9020"
+   "9013f9ae-886f-11f1-9526-0328645e9020",
+   "eb57e7a2-887a-11f1-8e24-ad54b1fdae55",
+   "01ea2676-8842-11f1-a959-65042d0c5951",
+   "cbcde8a6-880b-11f1-bbf2-81f4c6a80390"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/sport/coupe-du-monde/kylian-mbappe-rejoint-lionel-messi-au-classement-des-meilleurs-buteurs-de-lhistoire-de-la-coupe-du-monde-97e838e4-7f9f-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -2057,7 +2057,8 @@
    "https://www.bfmtv.com/replay-emissions/robin-de-bfm/video-robin-de-bfm-3-000-habitants-de-biscarrosse-autorises-a-rentrer-chez-eux-ce-samedi_VN-202607250347.html",
    "https://www.bfmtv.com/international/europe/allemagne/plusieurs-blesses-en-marge-de-la-gay-pride-a-berlin-apres-un-probable-incident-impliquant-une-voiture_AD-202607250346.html",
    "https://www.bfmtv.com/environnement/climat/video-incendie-plus-de-50-000-nouvelles-evacuations-ordonnees-en-gironde-ce-samedi_VN-202607250353.html",
-   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-gironde-de-fortes-reprises-de-feux-observees-25-07_VN-202607250354.html"
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-gironde-de-fortes-reprises-de-feux-observees-25-07_VN-202607250354.html",
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-gironde-32-700-hectares-detruits-167-000-evacuations-25-07_VN-202607250356.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2249,97 +2250,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "Incendie en Gironde depuis mercredi 23 juillet ayant atteint une ampleur inédite",
-    "Le feu s'est propagé vers l'agglomération de Bordeaux",
-    "Sept communes aux portes de Bordeaux évacuées de manière préventive",
-    "Des incendies également actifs dans le Var et en Corse",
-    "Premier largage de l'A400M effectué pour combattre le feu",
-    "Environ 30 000 personnes évacuées près de Biscarrosse (Landes)",
-    "Le feu n'était ni fixé ni maîtrisé samedi soir",
-    "3 000 habitants de Biscarrosse autorisés à rentrer",
-    "Vitesse de circulation abaissée dans huit départements en raison de la pollution de l'air",
-    "Orages prévus sur la moitié sud du pays samedi",
-    "Forte reprise de feux observée"
-   ],
-   "qui": "Ministère des armées (Catherine Vautrin), pompiers, maire de Bordeaux, maire de Lacanau",
-   "ou": "Gironde, Landes, Bordeaux, Var, Corse, France (moitié sud)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "BFMTV",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "6851dcaf2f6ab963",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-25T19:50:38.799137+00:00"
-  },
-  {
-   "faits": [
-    "Des incendies font rage samedi en France et en Espagne",
-    "Près de 260 000 personnes évacuées près de Bordeaux",
-    "La situation reste critique en Gironde",
-    "La région de Madrid fait face au pire feu de son histoire",
-    "8 000 nouvelles évacuations en cours aux abords de Bordeaux",
-    "L'incendie sévit depuis mercredi en Gironde",
-    "Des incendies se déclarent notamment dans le Var et en Corse",
-    "Des orages sont prévus sur la moitié sud du pays le samedi",
-    "Un pyrocumulonimbus a été observé vendredi en Gironde"
-   ],
-   "qui": null,
-   "ou": "Gironde, Bordeaux, Var, Corse, France; Madrid, Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24",
-    "BFMTV",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "99d71d1ed3496c79",
-   "score": 98,
-   "fiab_max": 85,
-   "nb_sources": 3,
-   "depuis": "2026-07-25T20:38:48.856108+00:00"
-  },
-  {
-   "faits": [
-    "Richard Carapaz (Équateur) a remporté l'étape-reine du Tour de France 2026 à l'Alpe d'Huez",
-    "Tadej Pogacar a validé sa victoire finale du Tour de France 2026",
-    "Julian Alaphilippe a terminé 29e de la 20e étape à 26 minutes du vainqueur",
-    "Julian Alaphilippe a laissé entendre que ce pourrait être son dernier Tour de France",
-    "Paul Seixas a terminé 4e du Tour de France 2026"
-   ],
-   "qui": "Richard Carapaz, Tadej Pogacar, Julian Alaphilippe, Paul Seixas",
-   "ou": "Alpe d'Huez, France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "RFI",
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "Retraite définitive de Julian Alaphilippe"
-   ],
-   "importance": 75,
-   "empreinte": "a4224e065b27af04",
-   "score": 96,
-   "fiab_max": 90,
-   "nb_sources": 4,
-   "depuis": "2026-07-25T17:26:37.671817+00:00"
-  },
-  {
-   "faits": [
     "Plusieurs personnes ont été blessées lors de la gay pride à Berlin samedi soir",
     "Les blessés ont probablement été percutés par une voiture",
     "L'incident s'est déroulé dans le parc Tiergarten ou en marge de la marche des fiertés",
@@ -2393,6 +2303,29 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-25T21:40:25.828998+00:00"
+  },
+  {
+   "faits": [
+    "Un utilitaire a percuté la foule lors de la Marche des fiertés à Berlin samedi 25 juillet",
+    "Un mort et 16 blessés sont à déplorer (dont 11 graves)",
+    "Le véhicule a été abandonné sur place",
+    "Les occupants du véhicule sont recherchés"
+   ],
+   "qui": null,
+   "ou": "Berlin",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "bbed6447026a0a89",
+   "score": 87,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T23:45:52.431356+00:00"
   },
   {
    "faits": [
@@ -2563,30 +2496,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T19:50:38.797538+00:00"
-  },
-  {
-   "faits": [
-    "Le président sénégalais Bassirou Diomaye Faye a dévoilé le nom de son nouveau parti",
-    "Le nouveau parti s'appelle Kiiraay, les patriotes républicains",
-    "Le Premier ministre Ousmane Sonko consolide les rangs du Pastef",
-    "La majorité sénégalaise se réorganise",
-    "Le paysage politique sénégalais est en pleine recomposition avec de nouvelles adhésions, départs et jeux d'alliances"
-   ],
-   "qui": "Bassirou Diomaye Faye, Ousmane Sonko",
-   "ou": "Sénégal",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "2bb7b9116942eb9b",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T21:40:25.829006+00:00"
   },
   {
    "faits": [
@@ -2823,6 +2732,28 @@
   },
   {
    "faits": [
+    "Des bénévoles se forment au Royaume-Uni pour sauver les mammifères marins échoués",
+    "Les échouages de dauphins et de baleines deviennent plus fréquents sur les côtes européennes et britanniques",
+    "Des associations de biodiversité organisent des ateliers de premiers secours"
+   ],
+   "qui": null,
+   "ou": "Royaume-Uni",
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "0fd76d3be7244a4e",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-25T23:46:02.162166+00:00"
+  },
+  {
+   "faits": [
     "Manifestations en Tunisie contre le pouvoir et la dégradation des conditions de vie",
     "L'opposition et des ONG dénoncent un recul des droits et libertés sous la présidence de Kais Saied",
     "Kais Saied est président de la Tunisie depuis 2019"
@@ -2867,14 +2798,6 @@
   }
  ],
  "publies_48h": [
-  [
-   "70416180e2c275c7",
-   "2026-07-23T23:33:33.913338+00:00"
-  ],
-  [
-   "8570d4b9a658d844",
-   "2026-07-23T23:33:38.040010+00:00"
-  ],
   [
    "ebadb6b2943dd383",
    "2026-07-24T01:03:18.789893+00:00"
@@ -2946,17 +2869,17 @@
   [
    "bb1fe198c6cd6dbd",
    "2026-07-25T22:40:20.735626+00:00"
+  ],
+  [
+   "25a32ab24079b0bf",
+   "2026-07-25T23:46:03.454011+00:00"
+  ],
+  [
+   "0b4a2efd6732e4c7",
+   "2026-07-25T23:46:07.605969+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "e76640e20d338349",
-   "2026-07-23T23:33:23.500376+00:00"
-  ],
-  [
-   "03d82d5b16bbb013",
-   "2026-07-23T23:33:32.725435+00:00"
-  ],
   [
    "f7745f986de5d731",
    "2026-07-24T01:03:12.389389+00:00"
@@ -3028,16 +2951,26 @@
   [
    "42c3e96aff76e82f",
    "2026-07-25T22:40:15.492062+00:00"
+  ],
+  [
+   "6851dcaf2f6ab963",
+   "2026-07-25T23:45:57.205647+00:00"
+  ],
+  [
+   "99d71d1ed3496c79",
+   "2026-07-25T23:46:02.162130+00:00"
   ]
  ],
  "depeches_du_jour": [
   "🔴 ALERTE — Environ 8 000 nouvelles évacuations ordonnées en Gironde samedi. L'incendie qui sévit depuis mercredi a pris une ampleur inédite, poussé vers Bordeaux par le vent, avec de violentes reprises de feu observées. (franceinfo)",
-  "🌡️ Trois hommes arrêtés en Gironde pour les incendies. Deux ont tiré des feux d'artifice, un a mis le feu à des arbustes. Plus de 32.000 hectares brûlés. Biscarrosse ravagée : 105 habitations détruites, 6.000 personnes évacuées."
+  "🌡️ Trois hommes arrêtés en Gironde pour les incendies. Deux ont tiré des feux d'artifice, un a mis le feu à des arbustes. Plus de 32.000 hectares brûlés. Biscarrosse ravagée : 105 habitations détruites, 6.000 personnes évacuées.",
+  "🔴 ALERTE — Un incendie d'ampleur inédite se propage en Gironde vers Bordeaux depuis mercredi. Sept communes évacuées préventivement, 30 000 personnes près de Biscarrosse. Le feu reste samedi soir non maîtrisé. L'A400M larguant pour la première fois.",
+  "⚡ FLASH — Des incendies ravagent la France et l'Espagne. En Gironde, près de 260 000 personnes évacuées, le feu sévit depuis mercredi. Madrid connaît son pire incendie. Foyers actifs aussi dans le Var et en Corse. (France 24, BFMTV)"
  ],
  "recap_date": "2026-07-25",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-26",
-  "publies": 2
+  "publies": 4
  }
 }
