@@ -6364,3 +6364,41 @@
 {"decision": "controle", "evt": "8542300a06ea812d", "motif": "ok_sim_0.00", "ts": "2026-07-25T01:15:38+00:00"}
 {"decision": "publie", "empreinte": "8ce36a03b0af2810", "post_id": "2080824263234232383", "carte": true, "texte": "⚖️ Karim Khan, procureur de la CPI, a été relevé de ses fonctions par l'Assemblée des 125 États membres. Il est accusé d'agression sexuelle par une ancienne collaboratrice et conteste cette décision. (franceinfo)", "ts": "2026-07-25T01:15:39+00:00"}
 {"decision": "publie", "empreinte": "a1e2dd78f180e4c1", "post_id": "2080824279948501391", "carte": true, "texte": "🔴 ALERTE — Une explosion s'est produite vendredi matin à la distillerie de Montebello à Petit-Bourg. L'accident a fait un mort et cinq blessés au total. Les secours sont intervenus sur place. (franceinfo)", "ts": "2026-07-25T01:15:43+00:00"}
+{"decision": "abandon_attente", "evt": "e850d3c8a504ede4", "categorie": "justice", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "972cd8b7b432953d", "categorie": "economie", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "33f06ed22405b4d0", "categorie": "international", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "8f24dce37e52874e", "categorie": "international", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "32e85463fdc2e063", "categorie": "sport", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "2bba2c04ba0094e8", "categorie": "justice", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "bd4b2e2c64515078", "categorie": "international", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "79979c5e50873f81", "categorie": "international", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "4546c6de65605ef5", "categorie": "economie", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "e51cc1755dc435b0", "categorie": "justice", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "35d2b981c72e7995", "categorie": "international", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "abandon_attente", "evt": "d76cd3c95698bf3d", "categorie": "sport", "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "25f540cf190031ec", "score": 83, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "bf63659af82c9fa6", "score": 84, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "ae10bb754e4c3b64", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "1adf5f2c5a766257", "score": 81, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "fdd5ebd06377b119", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "328df994ad254da9", "score": 95, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Ouest-France", "BFMTV"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "cbfabd87eb7247e8", "score": 83, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "2d33cdf2e5ce958c", "score": 80, "categorie": "sciences", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "f5bce44c3f3d5a3b", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "8c152285981527fc", "score": 71, "categorie": "sante", "sensible": true, "confiance": 75, "sources": ["BFMTV"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "5328a31fb5efa4f3", "score": 78, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "7b7b2e4d17bd2681", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "ac776c277fb433f3", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "c1f86d00d7ef6f27", "score": 83, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "1815306f9ea68b8f", "score": 82, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "87d3ba0fbe88077e", "score": 80, "categorie": "culture", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "d941e1954e3119d0", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "380e390185b4f860", "score": 79, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "6b60976d9eb5fec3", "score": 77, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "publier", "evt": "4a607c032806fb95", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "82b15b64091b9f41", "score": 73, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "attente", "evt": "94aba5ca180a2000", "score": 71, "categorie": "international", "sensible": true, "confiance": 60, "sources": ["France 24"], "ts": "2026-07-25T04:33:52+00:00"}
+{"decision": "controle", "evt": "328df994ad254da9", "motif": "ok_sim_0.33+alerte_retrogradee", "ts": "2026-07-25T04:34:01+00:00"}
+{"decision": "controle", "evt": "1815306f9ea68b8f", "motif": "ok_sim_0.17", "ts": "2026-07-25T04:34:02+00:00"}
+{"decision": "publie", "empreinte": "26ed59f86debd281", "post_id": "2080874195118956991", "carte": true, "texte": "⚡ FLASH — Plus de 140 000 personnes évacuées en Gironde où un incendie ravage 22 000 hectares depuis mercredi. Les flammes s'approchent de Bordeaux. 500 militaires renforcent la lutte. (Ouest-France, BFMTV)", "ts": "2026-07-25T04:34:03+00:00"}
+{"decision": "publie", "empreinte": "830c820320dc8cf3", "post_id": "2080874211615113603", "carte": true, "texte": "Andrea Pirlo devient le nouveau sélectionneur de l'Italie. L'ancien milieu de terrain a trouvé un accord avec la Fédération italienne de football pour un contrat de quatre ans. (L'Équipe)", "ts": "2026-07-25T04:34:07+00:00"}
