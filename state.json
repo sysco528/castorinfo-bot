@@ -2,7 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/coupe-du-monde/ce-n-est-pas-possible-de-soutenir-l-argentine-des-supporters-des-bleus-racontent-pourquoi-ils-preferent-une-victoire-de-l-espagne-en-finale-de-coupe-du-monde_8110454.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/venezuela/pres-d-un-mois-apres-le-double-seisme-au-venezuela-un-chat-sorti-des-decombres-par-un-etudiant-recherchant-son-amie-disparue-dans-les-decombres_8113760.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/deux-jeunes-hommes-coinces-au-sommet-de-la-cathedrale-d-orleans-ils-voulaient-faire-des-photos-avec-un-drone_8113886.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/un-ferry-a-fait-naufrage-avec-116-personnes-a-bord-au-large-des-cotes-du-guyana_8113817.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +300,8 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-afrique-du-nord-touchee-par-des-chaleurs-extremes-et-des-incendies_8122685.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/patrimoine/les-plages-du-debarquement-en-normandie-ont-ete-inscrites-au-patrimoine-mondial-de-l-unesco_8122673.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/dix-ans-apres-l-assassinat-du-pere-hamel-on-ne-doit-pas-rester-fige-dans-le-passe-declare-le-maire-de-saint-etienne-du-rouvray_8122652.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/cinema/nous-avons-une-relation-tres-intime-avec-l-odyssee-en-grece-des-spectateurs-curieux-de-voir-ce-que-hollywood-a-fait-de-leur-uvre_8122226.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/culture/cinema/nous-avons-une-relation-tres-intime-avec-l-odyssee-en-grece-des-spectateurs-curieux-de-voir-ce-que-hollywood-a-fait-de-leur-uvre_8122226.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/pere-hamel-les-ceremonies-du-10e-anniversaire-a-saint-etienne-du-rouvray-a-vivre-en-direct-3390889.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -474,10 +474,6 @@
    "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-pogacar-toujours-en-jaune-evenepoel-et-del-toro-s-affirment-sur-le-podium-vingegaard-perd-tout-le-classement-general-apres-la-15e-etape-20260719",
-   "https://www.lefigaro.fr/international/etats-unis-deux-hommes-decouvrent-a-38-ans-avoir-ete-echanges-a-la-naissance-et-portent-plainte-contre-l-hopital-20260719",
-   "https://www.lefigaro.fr/faits-divers/affaire-cedric-jubillar-les-ossements-retrouves-sont-bien-ceux-de-sa-femme-delphine-disparue-en-2020-20260719",
-   "https://www.lefigaro.fr/faits-divers/apres-la-confirmation-que-les-ossements-sont-bien-ceux-de-son-epouse-cedric-jubillar-reste-le-maitre-du-jeu-20260719",
    "https://www.lefigaro.fr/international/a-kiev-une-nuit-de-bombardements-massifs-sur-fond-de-crise-politique-20260719",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/est-ce-qu-on-reveillerait-messi-avant-la-finale-du-mondial-polemique-au-sujet-des-controles-antidopage-nocturnes-de-pogacar-et-vingegaard-20260719",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-epique-evenepoel-seixas-qui-coince-et-le-duo-pogacar-del-toro-pris-a-son-propre-piege-les-tops-et-les-flops-de-la-15e-etape-20260719",
@@ -773,21 +769,13 @@
    "https://www.lefigaro.fr/bordeaux/incendies-en-gironde-face-au-feu-a-l-ocean-et-a-l-etat-benoit-bartherotte-l-irreductible-du-cap-ferret-20260726",
    "https://www.lefigaro.fr/actualite-france/c-est-fini-pour-nous-a-saint-etienne-du-rouvray-les-derniers-instants-du-pere-hamel-racontes-par-une-religieuse-rescapee-de-l-attentat-djihadiste-20260726",
    "https://www.lefigaro.fr/vox/religion/remi-brague-aux-yeux-de-ses-deux-assassins-le-pere-jacques-hamel-meritait-d-etre-elimine-pour-des-raisons-theologiques-20260726",
-   "https://www.lefigaro.fr/international/a-berlin-la-marche-des-fiertes-frappee-par-une-attaque-meurtriere-un-suspect-lie-au-milieu-islamiste-en-fuite-20260726"
+   "https://www.lefigaro.fr/international/a-berlin-la-marche-des-fiertes-frappee-par-une-attaque-meurtriere-un-suspect-lie-au-milieu-islamiste-en-fuite-20260726",
+   "https://www.lefigaro.fr/faits-divers/incendie-en-gironde-44-bouteilles-de-grands-crus-volees-dans-une-maison-evacuee-un-suspect-en-garde-a-vue-20260726",
+   "https://www.lefigaro.fr/actualite-france/incendie-en-gironde-cinq-jours-d-enfer-du-depart-du-feu-a-la-menace-aux-abords-de-bordeaux-20260726",
+   "https://www.lefigaro.fr/culture/patrimoine/les-plages-du-debarquement-en-normandie-inscrites-au-patrimoine-mondial-de-l-unesco-20260726",
+   "https://www.lefigaro.fr/culture/patrimoine/la-longue-croisade-des-chateaux-cathares-pour-conquerir-le-monde-20250517"
   ],
   "https://www.france24.com/fr/rss": [
-   "56f5147c-835c-11f1-b54c-1d268c19448e",
-   "3d36f23c-8355-11f1-b8ad-9fcd7faf88a2",
-   "3bbc4366-831a-11f1-838b-fbd93e59214d",
-   "3002b6fa-8350-11f1-9c07-d5488c772bf7",
-   "0eced3b0-8355-11f1-bcda-3d0b575f5f4a",
-   "dd73429c-8354-11f1-9e55-9fcd7faf88a2",
-   "9851fff0-834f-11f1-b225-d5488c772bf7",
-   "1e4c75a6-834e-11f1-9b9c-4df4613e8d4a",
-   "0e33e89a-8365-11f1-a588-97054a54b0e3",
-   "7fb4b4dc-8364-11f1-9142-7920679f8e7d",
-   "4e2958be-8364-11f1-b1a8-7920679f8e7d",
-   "7be33d2a-8363-11f1-864f-7920679f8e7d",
    "f9dc4d9e-8362-11f1-bede-8bbf1fab4a2f",
    "2bc1e43c-8362-11f1-85b5-7920679f8e7d",
    "ba043fca-8361-11f1-bbfe-7920679f8e7d",
@@ -1075,11 +1063,21 @@
    "37abdb28-887a-11f1-b786-2528b92ceeba",
    "0c67a1a0-8874-11f1-a5d8-4f7246a3c7d7",
    "ebdd9bb8-8893-11f1-b17b-cb0184709bff",
-   "e1360702-88b8-11f1-9cc1-af5b057c5015"
+   "e1360702-88b8-11f1-9cc1-af5b057c5015",
+   "7cbc19c8-88dc-11f1-976e-3d9b8ac489ed",
+   "454b295c-88dc-11f1-8211-597bc1245c31",
+   "651f9766-88d4-11f1-8945-77c0b51a317e",
+   "e8ef5b5c-88d5-11f1-a747-3d9b8ac489ed",
+   "669f5562-88d5-11f1-bdf3-1df37415510c",
+   "8cf37ac4-88d3-11f1-9c2c-77c0b51a317e",
+   "e790694c-889c-11f1-8649-b35dc32f3f6b",
+   "ef865b9c-88cf-11f1-8119-ad70c394a75c",
+   "58e308a2-88cf-11f1-a274-1df37415510c",
+   "9fc0b030-88cf-11f1-858c-ad70c394a75c",
+   "15e6e74e-88cf-11f1-8861-1df37415510c",
+   "e96d2520-88ce-11f1-9c1c-ad70c394a75c"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "1a519c5e-7f95-11f1-98a5-87588271e398",
-   "c884a0b0-7f8f-11f1-be87-87588271e398",
    "4c6372da-7f8b-11f1-878c-43f83f13f92f",
    "8b2accc6-7f8f-11f1-abcf-43f83f13f92f",
    "ccf1965a-7f83-11f1-985b-8358536c0987",
@@ -1377,10 +1375,11 @@
    "84dbc652-8847-11f1-bd21-75bcb7ca2d8f",
    "10b8f674-7153-11f1-84be-3b237fcfe9a2",
    "8c10cf14-88bd-11f1-ba0a-531140b3a001",
-   "f29b8a0e-88c1-11f1-b97d-2b2a6df8b1bf"
+   "f29b8a0e-88c1-11f1-b97d-2b2a6df8b1bf",
+   "4a4f846a-88c9-11f1-b7ec-2b2a6df8b1bf",
+   "39b3788a-88d5-11f1-9ccb-3bda1c3a55d9"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/formule-1/f1-a-quelle-heure-et-sur-quelle-chaine-suivre-la-course-du-grand-prix-de-belgique-40cb4ec8-82c1-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-explosions-a-kiev-huit-morts-dans-une-attaque-ukrainienne-en-russie-le-point-sur-la-nuit-6f1d6368-82e6-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/afrique-du-sud/rdc-121-ressortissants-rapatries-apres-des-violences-xenophobes-en-afrique-du-sud-b02459c4-830f-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/justice/enquete-sur-la-mort-dune-femme-defenestree-a-nancy-2f998b54-830e-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1679,7 +1678,8 @@
    "https://www.ouest-france.fr/faits-divers/incendie/incendies-dans-le-sud-situation-toujours-critique-en-gironde-55-000-nouvelles-evacuations-le-point-sur-la-nuit-feff8460-8882-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-21e-etape-le-profil-de-letape-du-jour-qui-part-et-arrive-aux-champs-elysees-et-qui-passe-a-montmartre-1e380bc8-65a5-11f1-bb6e-df703f58b398?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/reflexion/editorial/editorial-plages-du-d-day-un-patrimoine-deja-mondial-8fde7dc2-8763-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/bretagne/langue-bretonne/brezhoneg/yaouankiz-er-vro-ar-raktres-man-a-ziskouez-eman-bev-ar-brezhoneg-35e4644e-8123-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/bretagne/langue-bretonne/brezhoneg/yaouankiz-er-vro-ar-raktres-man-a-ziskouez-eman-bev-ar-brezhoneg-35e4644e-8123-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/equipe-argentine/kit-de-mate-gourde-stanley-lionel-messi-offre-des-cadeaux-a-ses-coequipiers-de-largentine-apres-la-coupe-du-monde-bf87457a-88d7-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2314,6 +2314,54 @@
   },
   {
    "faits": [
+    "Les plages du Débarquement en Normandie inscrites au patrimoine mondial de l'Unesco",
+    "Projet aboutissant après près de 20 ans",
+    "Site couvrant plus de 80 km de côtes entre la Manche et le Calvados",
+    "Théâtre de la bataille du 6 juin 1944"
+   ],
+   "qui": null,
+   "ou": "Normandie, plages du Débarquement",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "134327b2f12bad9f",
+   "score": 95,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-26T11:10:39.965602+00:00"
+  },
+  {
+   "faits": [
+    "Incendie en Gironde pendant cinq jours, parti de Saumos",
+    "Les flammes s'approchent de Bordeaux",
+    "Environ 220 000 personnes ont été évacuées",
+    "Un homme interpellé et placé en garde à vue pour vol de 44 bouteilles de grands crus dans une propriété évacuée à Eysines"
+   ],
+   "qui": null,
+   "ou": "Gironde, Saumos, Eysines, Bordeaux",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "3d899dc564fe0881",
+   "score": 94,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-26T11:10:39.965604+00:00"
+  },
+  {
+   "faits": [
     "Iran affirme que la guerre au Moyen-Orient va s'étendre si attaques américaines reprennent",
     "Porte-parole armée iranienne Mohammad Akraminia déclare que guerre s'étendra géographiquement",
     "Déclaration faite avant visite du Premier ministre israélien Benyamin Nétanyahou à Washington"
@@ -2405,30 +2453,24 @@
   },
   {
    "faits": [
-    "Le Parti libéral brésilien a lancé officiellement la candidature de Flavio Bolsonaro à la présidence",
-    "Le lancement a eu lieu samedi 25 juillet",
-    "Les élections présidentielles auront lieu le 4 octobre",
-    "Flavio Bolsonaro est sénateur et fils de l'ancien président Jair Bolsonaro",
-    "Jair Bolsonaro est actuellement détenu pour tentative de coup d'État",
-    "Lula, président sortant, devrait annoncer sa candidature pour un quatrième mandat"
+    "Commémoration du 10e anniversaire de l'attentat de Saint-Étienne-du-Rouvray",
+    "Le père Jacques Hamel a été tué lors de cet attentat dans son église"
    ],
-   "qui": "Flavio Bolsonaro, Jair Bolsonaro, Lula, Parti libéral",
-   "ou": "Brésil",
-   "categorie": "politique",
+   "qui": "Père Jacques Hamel",
+   "ou": "Saint-Étienne-du-Rouvray",
+   "categorie": "deces_personnalite",
    "sensible": true,
    "confiance": 90,
    "sources": [
-    "RFI"
+    "franceinfo"
    ],
-   "non_confirme": [
-    "annonce de candidature de Lula (prévue pour le week-end suivant)"
-   ],
-   "importance": 75,
-   "empreinte": "862a7aa62b15cea9",
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "523bc997be885960",
    "score": 85,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:07.345664+00:00"
+   "depuis": "2026-07-26T11:10:39.965611+00:00"
   },
   {
    "faits": [
@@ -2454,51 +2496,53 @@
   },
   {
    "faits": [
-    "Le président du Sénégal Bassirou Diomaye Faye a lancé son nouveau parti baptisé 'Kiiraay'",
-    "Ce lancement a eu lieu samedi lors d'une conférence à Dakar",
-    "Cela confirme la rupture avec l'ancien Premier ministre Ousmane Sonko"
+    "Nouvelle flambée de violences en Cisjordanie occupée",
+    "Quatre Palestiniens ont été tués lors d'affrontements avec des colons israéliens",
+    "Les affrontements se sont intensifiés depuis le 7 octobre 2023 et la guerre à Gaza",
+    "Funérailles des quatre Palestiniens à Naplouse"
    ],
-   "qui": "Bassirou Diomaye Faye, Ousmane Sonko",
-   "ou": "Sénégal, Dakar",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "6383f22df5f3485d",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:07.345639+00:00"
-  },
-  {
-   "faits": [
-    "Au moins 20 personnes sont mortes samedi 25 juillet dans des frappes en Ukraine et en Russie",
-    "C'est le cinquième été de guerre",
-    "Les deux pays intensifient les attaques de longue portée",
-    "Un nombre grandissant de victimes civiles est observé",
-    "Les négociations pour un cessez-le-feu sont au point mort",
-    "Le doute grandit autour de Vladimir Poutine parmi sa population et ses alliés",
-    "Le président du Kazakhstan a appelé à 'geler' la guerre"
-   ],
-   "qui": "Ukraine, Russie, Vladimir Poutine, président du Kazakhstan",
-   "ou": "Ukraine, Russie",
+   "qui": null,
+   "ou": "Cisjordanie occupée, Naplouse",
    "categorie": "international",
    "sensible": true,
    "confiance": 85,
    "sources": [
-    "RFI"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 80,
-   "empreinte": "d0c55713fa97fcd2",
-   "score": 84,
+   "importance": 75,
+   "empreinte": "de44e4ba6f7545ef",
+   "score": 83,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:07.345684+00:00"
+   "depuis": "2026-07-26T11:10:39.964298+00:00"
+  },
+  {
+   "faits": [
+    "Incendies en Espagne entre Madrid et Ávila maîtrisés",
+    "Autres feux continuent de mobiliser les secours, notamment celui de Tolède",
+    "Situation incertaine en raison de vents changeants",
+    "Incendies ravagent plusieurs régions d'Espagne due aux fortes chaleurs et vents violents",
+    "Nouvelles communes évacuées près de Madrid",
+    "Renforts internationaux mobilisés"
+   ],
+   "qui": null,
+   "ou": "Espagne, Madrid, Ávila, Tolède",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "situation incertaine due aux vents changeants"
+   ],
+   "importance": 75,
+   "empreinte": "f1e767228278d3e6",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T11:10:39.964388+00:00"
   },
   {
    "faits": [
@@ -2552,6 +2596,30 @@
   },
   {
    "faits": [
+    "Coupe d'Afrique des Nations féminine débute au Maroc",
+    "Tournoi élargi à 16 équipes pour la première fois",
+    "Match d'ouverture oppose l'Algérie au Sénégal",
+    "Nigeria est grand favori pour conserver son titre",
+    "Le Cameroun, repêché après une première élimination, participe à la compétition"
+   ],
+   "qui": null,
+   "ou": "Maroc, Rabat",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "92ed6e3224fcf680",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T11:10:39.965614+00:00"
+  },
+  {
+   "faits": [
     "Doctolib va utiliser données utilisateurs (ordonnances, antécédents, médicaments) pour recherche en IA",
     "Programme débute en août",
     "Objectif : améliorer parcours de soins grâce à l'intelligence artificielle",
@@ -2596,6 +2664,56 @@
   },
   {
    "faits": [
+    "Flávio Bolsonaro investi candidat à la présidentielle d'octobre au Brésil",
+    "Il affronte le chef d'État sortant Lula",
+    "Soutenu par une partie de la droite brésilienne et par Javier Milei",
+    "Il enregistre un recul dans les sondages"
+   ],
+   "qui": "Flávio Bolsonaro, Lula",
+   "ou": "Brésil",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "d2c3b8c689992a32",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T11:10:39.964257+00:00"
+  },
+  {
+   "faits": [
+    "Un véhicule utilitaire a percuté plusieurs personnes samedi soir dans un parc de Berlin",
+    "Incident s'est produit après la Marche des Fiertés (Gay Pride)",
+    "Plusieurs victimes",
+    "Festivités ont été annulées",
+    "Police privilégie la piste d'un suspect connu pour son appartenance au milieu islamiste"
+   ],
+   "qui": null,
+   "ou": "Berlin",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "nombre exact de victimes non spécifié",
+    "intention du suspect"
+   ],
+   "importance": 80,
+   "empreinte": "bbed6447026a0a89",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T11:10:39.964614+00:00"
+  },
+  {
+   "faits": [
     "Incendie au parc national des Cairngorms en Écosse depuis douze jours",
     "Ravage plusieurs kilomètres carrés du parc",
     "Autorités ont déclaré un « incident majeur »",
@@ -2616,6 +2734,53 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-26T07:28:05.409824+00:00"
+  },
+  {
+   "faits": [
+    "Huit forteresses royales du Languedoc (châteaux du Pays cathare) inscrites au patrimoine mondial de l'Unesco",
+    "De Carcassonne à Montségur inclus",
+    "Aboutissement d'une bataille menée pendant dix ans pour faire reconnaître leur spécificité"
+   ],
+   "qui": null,
+   "ou": "Languedoc, Pays cathare (Carcassonne, Montségur)",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "b136d0d3d2d481db",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T11:10:39.965619+00:00"
+  },
+  {
+   "faits": [
+    "En Inde, le mouvement des « cafards » a remporté samedi 25 juillet une victoire avec la démission du ministre de l'Éducation",
+    "Mouvement né dans le sillage du scandale des fuites au concours national d'entrée en médecine",
+    "Manifestants célèbrent ce rare recul du gouvernement de Narendra Modi",
+    "Les étudiants poursuivent leur combat pour réformer le système éducatif"
+   ],
+   "qui": "Narendra Modi",
+   "ou": "Inde, New Delhi",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "suite des réformes souhaitées"
+   ],
+   "importance": 70,
+   "empreinte": "ed7386c41809fb44",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T11:10:39.965620+00:00"
   },
   {
    "faits": [
@@ -2644,6 +2809,30 @@
   },
   {
    "faits": [
+    "Manifestation à Tunis contre le président Kais Saied",
+    "Environ 2 500 personnes ont défilé",
+    "Protestation contre la détérioration des conditions de vie",
+    "Manifestation au cinquième anniversaire du coup de force du président",
+    "Le pays connaît une vague de chaleur et des coupures d'électricité et d'eau"
+   ],
+   "qui": "Kais Saied",
+   "ou": "Tunisie, Tunis",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "7dfa61527eb76205",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T11:10:39.965622+00:00"
+  },
+  {
+   "faits": [
     "Aziz Abu Sarah (Palestinien) et Maoz Inon (Israélien), militants pour la paix, publient livre 'La paix est notre avenir'",
     "Tous deux ont perdu des êtres chers du fait du conflit israélo-palestinien",
     "Livre décrit raisons d'espérer malgré violence exacerbée au Proche-Orient"
@@ -2663,6 +2852,29 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-26T09:37:52.393318+00:00"
+  },
+  {
+   "faits": [
+    "Président du Sénégal Bassirou Diomaye Faye a lancé un nouveau parti politique",
+    "Rupture avec l'ex-Premier ministre Ousmane Sonko",
+    "Les deux hommes appartenaient au parti Pastef",
+    "Pastef a porté Faye au pouvoir en 2024"
+   ],
+   "qui": "Bassirou Diomaye Faye, Ousmane Sonko",
+   "ou": "Sénégal, Dakar",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "6383f22df5f3485d",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T11:10:39.965625+00:00"
   },
   {
    "faits": [
@@ -2741,30 +2953,6 @@
   },
   {
    "faits": [
-    "Le père Hamel a été assassiné le 26 juillet 2016, il y a dix ans",
-    "Il a été tué par deux islamistes radicalisés dans son église",
-    "L'église était à Saint-Étienne-du-Rouvray en Seine-Maritime",
-    "Un documentaire intitulé 'Au nom du père Hamel, Roseline et Nassera' revient sur cet événement",
-    "Le documentaire évoque l'amitié nouée entre la sœur du prêtre et la mère de l'un des jeunes terroristes"
-   ],
-   "qui": "père Hamel, Roseline (sœur), Nassera (mère)",
-   "ou": "Saint-Étienne-du-Rouvray, Seine-Maritime",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "913a4f7e88a5bfca",
-   "score": 79,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:07.345724+00:00"
-  },
-  {
-   "faits": [
     "Iran a déclaré avoir réalisé des progrés dans les négociations avec Oman",
     "Négociations concernent la gestion du détroit d'Ormuz",
     "États-Unis ont repris leurs attaques contre l'Iran",
@@ -2789,190 +2977,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-26T07:28:21.071215+00:00"
-  },
-  {
-   "faits": [
-    "Bruno Le Maire, ancien ministre de l'Économie d'Emmanuel Macron, ne ferme pas la porte à une candidature à la présidentielle 2027",
-    "Il se positionne dans la course à l'Élysée"
-   ],
-   "qui": "Bruno Le Maire",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "candidature officielle"
-   ],
-   "importance": 65,
-   "empreinte": "a378183f61e980dc",
-   "score": 75,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:07.345889+00:00"
-  },
-  {
-   "faits": [
-    "La 21e étape du Tour de France 2026 se déroule le dimanche 26 juillet",
-    "Elle part de Thoiry et arrive aux Champs-Élysées à Paris",
-    "La distance est de 89 km au lieu de 133 km initialement prévus",
-    "L'étape passe à Montmartre avec une montée de la Butte"
-   ],
-   "qui": null,
-   "ou": "Thoiry, Montmartre, Champs-Élysées, Paris",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "0a278070ef2cdd72",
-   "score": 75,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:25.347785+00:00"
-  },
-  {
-   "faits": [
-    "Film 'L'Odyssée' produit par Hollywood sur base de l'épopée grecque",
-    "Presse grecque avait entretenu polémique autour du casting",
-    "Public grec enthousiaste à l'idée de voir récit prendre vie sur grand écran"
-   ],
-   "qui": null,
-   "ou": "Grèce, Hollywood",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "63f10757baf91f87",
-   "score": 74,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:46.600411+00:00"
-  },
-  {
-   "faits": [
-    "Les plages du Débarquement devraient être classées au patrimoine mondial de l'Unesco le dimanche 26 juillet 2026",
-    "Cette décision est très attendue par les acteurs investis dans le travail de mémoire"
-   ],
-   "qui": "Unesco",
-   "ou": "Normandie, plages du D-Day",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "classification au patrimoine mondial (sauf surprise)"
-   ],
-   "importance": 60,
-   "empreinte": "175dd1e454666cb3",
-   "score": 74,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:07.345852+00:00"
-  },
-  {
-   "faits": [
-    "David Gaudu (Groupama-FDJ United) ne disputera pas le Tour d'Espagne en août",
-    "Gaudu était absent du Tour de France",
-    "Il va reprendre la compétition sur le Tour de Burgos le 4 août",
-    "Son manager est Thierry Cornec"
-   ],
-   "qui": "David Gaudu, Thierry Cornec",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 35,
-   "empreinte": "ef3f5d443f317b2a",
-   "score": 73,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:07.345760+00:00"
-  },
-  {
-   "faits": [
-    "Aucun bombardement américain n'a été signalé en Iran depuis deux jours",
-    "Les opérations sont 'en pause' selon CNN"
-   ],
-   "qui": "États-Unis, Iran",
-   "ou": "Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 65,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "statut 'en pause' des opérations (source CNN non directement vérifiée)"
-   ],
-   "importance": 70,
-   "empreinte": "2fe33bfc93016653",
-   "score": 71,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:07.345742+00:00"
-  },
-  {
-   "faits": [
-    "La DJ Barbara Butch a pu se produire dans l'Yonne",
-    "Cela intervient une semaine après l'interruption de son concert à Grenoble par des militants propalestiniens",
-    "Le concert s'est déroulé dans le calme"
-   ],
-   "qui": "DJ Barbara Butch",
-   "ou": "Yonne, Grenoble",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 40,
-   "empreinte": "359f31a2ece76e15",
-   "score": 70,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:07.345870+00:00"
-  },
-  {
-   "faits": [
-    "Six jeunes Avrillais, âgés de 15 à 17 ans, vont gravir le pic Carlit du 27 au 29 juillet",
-    "Ils sont inspirés par un célèbre youtubeur",
-    "Ils n'ont pas d'expérience en montagne",
-    "Ils seront accompagnés par l'équipe de médiation de la Ville d'Avrillé",
-    "Ils partageront leur ascension sur les réseaux sociaux",
-    "Le pic Carlit est le plus haut sommet des Pyrénées-Orientales à 2.921 mètres"
-   ],
-   "qui": "six adolescents Avrillais",
-   "ou": "Avrillé, Pyrénées-Orientales",
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 70,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 40,
-   "empreinte": "adc4a829d75d7200",
-   "score": 68,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T04:48:07.345705+00:00"
   }
  ],
  "publies_48h": [
@@ -3062,10 +3066,6 @@
   ]
  ],
  "evenements_48h": [
-  [
-   "bb26c4f9e8bb5aa7",
-   "2026-07-24T09:40:01.530513+00:00"
-  ],
   [
    "427c0aafd1864735",
    "2026-07-24T22:31:53.622107+00:00"
