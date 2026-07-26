@@ -7454,3 +7454,43 @@
 {"decision": "controle", "evt": "c58ba5a381c2e70b", "motif": "ok_sim_0.23+alerte_retrogradee", "ts": "2026-07-26T22:16:51+00:00"}
 {"decision": "publie", "empreinte": "185cfc5d174c5438", "post_id": "2081504048797106251", "carte": true, "texte": "Un incendie massif ravage la Gironde depuis vendredi soir, avec 42 000 hectares brûlés. Environ 220 000 personnes évacuées, dont 55 000 à Cestas. Le feu restait non maîtrisé dimanche. (France 24, BFMTV)", "ts": "2026-07-26T22:16:52+00:00"}
 {"decision": "publie", "empreinte": "a3d2899c0d74338a", "post_id": "2081504065926676830", "carte": true, "texte": "⚡ FLASH — Des incendies ravagent la Gironde et les Landes, détruisant 42 000 hectares. Environ 200 000 personnes ont été évacuées, dont 55 000 à Cestas. Le village du Porge compte 175 maisons détruites. (franceinfo, BFMTV)", "ts": "2026-07-26T22:16:56+00:00"}
+{"decision": "abandon_attente", "evt": "d26dad5f066f8c12", "categorie": "meteo_catastrophe", "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "abandon_attente", "evt": "989c92101a038aaa", "categorie": "sport", "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "abandon_attente", "evt": "a49f6ee56d6f139a", "categorie": "meteo_catastrophe", "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "abandon_attente", "evt": "d77c1a013953230c", "categorie": "sport", "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "abandon_attente", "evt": "ff278329a6059ac3", "categorie": "sport", "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "abandon_attente", "evt": "b522d951b9407b1b", "categorie": "faits_divers", "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "abandon_attente", "evt": "171fd36cb0f0cee5", "categorie": "international", "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "abandon_attente", "evt": "b5ebbb981bfd1f5d", "categorie": "politique", "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "abandon_attente", "evt": "d4e5695d3609e661", "categorie": "sport", "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "attente", "evt": "e163bd9b278e1ae2", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "80bb6c5915695890", "score": 90, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 82, "sources": ["Ouest-France", "BFMTV"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "e4a778b5b379bb08", "score": 78, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "41c1e936c3a0de5f", "score": 75, "categorie": "sport", "sensible": false, "confiance": 78, "sources": ["L'Équipe"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "5b9576d4bf23cbe8", "score": 81, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "attente", "evt": "ad42968038202dcf", "score": 73, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["L'Équipe"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "1e16e0d9e6419ed6", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["Le Figaro", "BFMTV", "franceinfo"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "d2912757e8ea8860", "score": 98, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["Le Figaro", "France 24", "Ouest-France"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "ed159ed15d9241b7", "score": 96, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["franceinfo", "France 24", "RFI"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "fbf188010e048c67", "score": 93, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["Le Figaro", "20 Minutes"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "5e272647aa371d55", "score": 91, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Ouest-France", "L'Équipe"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "ff4cc77be2d01783", "score": 86, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "74a4531900a01237", "score": 86, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["Ouest-France"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "attente", "evt": "34e314b654703827", "score": 85, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "229f67cbf856b843", "score": 85, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Ouest-France", "L'Équipe"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "fe0c5d3a501fe52f", "score": 82, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "attente", "evt": "9a7365fcb8e77855", "score": 80, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 82, "sources": ["BFMTV"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "fdc6ffca30f0a647", "score": 80, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "attente", "evt": "6599226e74ca9077", "score": 79, "categorie": "deces_personnalite", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "d60e650410091777", "score": 79, "categorie": "culture", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "attente", "evt": "3453aee11411bccd", "score": 78, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "attente", "evt": "0ec00bbf58537e00", "score": 78, "categorie": "faits_divers", "sensible": true, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "0d2c6b583eea7274", "score": 78, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "attente", "evt": "4a9b7ae144005ade", "score": 77, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["20 Minutes"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "attente", "evt": "6a6615c90cfdba1e", "score": 76, "categorie": "deces_personnalite", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "publier", "evt": "084dbeefd56aff43", "score": 76, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "attente", "evt": "27d33f607680b3e6", "score": 75, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["20 Minutes"], "ts": "2026-07-26T23:17:06+00:00"}
+{"decision": "controle", "evt": "1e16e0d9e6419ed6", "motif": "ok_sim_0.12", "ts": "2026-07-26T23:17:11+00:00"}
+{"decision": "controle", "evt": "d2912757e8ea8860", "motif": "ok_sim_0.16", "ts": "2026-07-26T23:17:15+00:00"}
+{"decision": "publie", "empreinte": "aadad54d22c1e7bc", "post_id": "2081519247503802861", "carte": true, "texte": "🔴 ALERTE — Les incendies en Gironde ont brûlé plus de 42 000 hectares et forcé l'évacuation de 220 000 personnes. Le feu n'est pas fixé. Nouvelles évacuations ordonnées samedi près de Bordeaux. Emmanuel Macron présidera lundi une cellule de crise.", "ts": "2026-07-26T23:17:16+00:00"}
+{"decision": "publie", "empreinte": "184e2f8bd4472b50", "post_id": "2081519264905998666", "carte": true, "texte": "⚽ Tadej Pogacar remporte son cinquième Tour de France. L'étape finale, raccourcie à 89 km, s'est déroulée de Montmartre aux Champs-Élysées, les temps ayant été gelés au kilomètre 40,8 avant la côte de Montmartre. (Le Figaro, France 24, Ouest-France)", "ts": "2026-07-26T23:17:20+00:00"}
