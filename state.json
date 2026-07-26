@@ -2,13 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/economie/dons-reconditionnement-recyclage-le-secteur-de-la-mode-a-desormais-l-interdiction-de-detruire-les-vetements-et-chaussures-invendus_8113049.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/equipe-de-france/hugo-lloris-paul-pogba-benjamin-pavard-le-onze-des-joueurs-les-plus-utilises-par-didier-deschamps-en-tant-que-selectionneur-de-l-equipe-de-france_8108630.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/furie-totale-l-exploit-amer-de-mbappe-a-zidane-de-jouer-la-presse-francaise-et-etrangere-revient-sur-la-defaite-de-l-equipe-de-france-lors-de-la-petite-finale-contre-l-angleterre_8113724.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/decouverte-scientifique/reportage-voir-comment-cela-evolue-a-travers-les-saisons-la-station-tara-va-passer-18-mois-dans-la-nuit-polaire-pour-etudier-le-rechauffement-climatique_8113682.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/cinema/sorties-de-films/de-la-comedie-francaise-la-folle-course-contre-la-montre-de-la-troupe-du-francais-avant-le-lever-de-rideau-d-une-premiere-mise-en-scene_8056118.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/le-concert-de-la-dj-barbara-butch-a-grenoble-interrompu-samedi-par-une-centaine-de-militants-pro-palestiniens_8113775.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-frappes-israeliennes-a-gaza-tuent-11-personnes-dont-trois-enfants_8113700.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/ce-n-est-pas-possible-de-soutenir-l-argentine-des-supporters-des-bleus-racontent-pourquoi-ils-preferent-une-victoire-de-l-espagne-en-finale-de-coupe-du-monde_8110454.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/venezuela/pres-d-un-mois-apres-le-double-seisme-au-venezuela-un-chat-sorti-des-decombres-par-un-etudiant-recherchant-son-amie-disparue-dans-les-decombres_8113760.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/deux-jeunes-hommes-coinces-au-sommet-de-la-cathedrale-d-orleans-ils-voulaient-faire-des-photos-avec-un-drone_8113886.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +294,14 @@
    "https://www.franceinfo.fr/monde/europe/allemagne/un-vehicule-fonce-dans-la-foule-a-la-gay-pride-de-berlin-faisant-un-mort-et-16-blesses_8122580.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-la-revanche-de-tadej-pogacar-dans-la-butte-montmartre-les-horaires-le-parcours-la-21e-et-derniere-etape-ecourtee-en-questions_8118059.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/teheran-cherche-t-il-a-renforcer-les-moyens-de-ses-allies-houthis-afin-de-perturber-le-trafic-en-mer-rouge_8120726.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/pourquoi-les-donnees-geographiques-du-telephone-de-cedric-jubillar-relancent-la-piste-d-une-possible-premeditation-du-meurtre-de-son-epouse_8116580.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/pourquoi-les-donnees-geographiques-du-telephone-de-cedric-jubillar-relancent-la-piste-d-une-possible-premeditation-du-meurtre-de-son-epouse_8116580.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/trains-interrompus-a69-partiellement-fermee-les-transports-perturbes-par-les-incendies-en-gironde_8122646.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-pompiers-ne-peuvent-pas-etre-partout-ces-habitants-qui-tentent-de-ralentir-les-flammes-par-leurs-propres-moyens-en-gironde_8121926.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/reportage-c-est-l-enfer-du-nord-de-paris-a-montmartre-les-habitues-des-paves-mesurent-la-difficulte-pour-les-coureurs-du-tour-de-france_8122631.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-afrique-du-nord-touchee-par-des-chaleurs-extremes-et-des-incendies_8122685.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/patrimoine/les-plages-du-debarquement-en-normandie-ont-ete-inscrites-au-patrimoine-mondial-de-l-unesco_8122673.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/dix-ans-apres-l-assassinat-du-pere-hamel-on-ne-doit-pas-rester-fige-dans-le-passe-declare-le-maire-de-saint-etienne-du-rouvray_8122652.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/cinema/nous-avons-une-relation-tres-intime-avec-l-odyssee-en-grece-des-spectateurs-curieux-de-voir-ce-que-hollywood-a-fait-de-leur-uvre_8122226.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -459,10 +459,21 @@
    "https://www.lemonde.fr/m-styles/article/2026/07/25/vol-au-dessus-de-la-peninsule-norvegienne-de-varanger_6731892_4497319.html",
    "https://www.lemonde.fr/les-decodeurs/article/2025/02/17/savez-vous-ce-qui-emet-un-peu-ou-beaucoup-de-co-prendre-l-avion-manger-de-la-viande-ou-utiliser-un-seche-linge-pendant-un-an_6145983_4355771.html",
    "https://www.lemonde.fr/culture/article/2026/07/25/le-cinema-de-l-allemand-ulrich-kohler-entre-ironie-et-melancolie_6731929_3246.html",
-   "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html"
+   "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html",
+   "https://www.lemonde.fr/planete/article/2026/07/26/au-porge-en-gironde-avec-les-pompiers-qui-tentent-de-maitriser-le-feu-il-y-a-eu-2022-ce-qu-on-vit-aujourd-hui-est-encore-pire_6732808_3244.html",
+   "https://www.lemonde.fr/pixels/article/2026/07/26/doctolib-et-l-ia-ce-qu-il-faut-savoir-sur-son-programme-de-recherche-utilisant-vos-donnees-personnelles-a-partir-du-mois-d-aout_6732692_4408996.html",
+   "https://www.lemonde.fr/international/article/2026/07/26/marche-des-fiertes-de-berlin-un-mort-et-une-quinzaine-de-blesses-apres-un-incident-impliquant-un-vehicule_6732524_3210.html",
+   "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-accuse-l-ukraine-d-avoir-attaque-un-de-ses-navires-en-mer-caspienne_6725301_3210.html",
+   "https://www.lemonde.fr/un-si-proche-orient/article/2026/07/26/l-impossible-victoire-d-israel-contre-le-hezbollah-a-amene-a-solliciter-la-france-en-2006-et-la-syrie-en-2026_6732908_6116995.html",
+   "https://www.lemonde.fr/culture/article/2026/07/26/les-plages-du-debarquement-en-normandie-inscrites-au-patrimoine-mondial-de-l-unesco_6733114_3246.html",
+   "https://www.lemonde.fr/le-monde-des-religions/article/2026/07/26/aziz-abu-sarah-palestinien-et-maoz-inon-israelien-militants-pour-la-paix-le-courage-c-est-de-sortir-de-sa-zone-de-confort-et-du-recit-dans-lequel-on-est-ne_6732767_6038514.html",
+   "https://www.lemonde.fr/politique/article/2026/07/26/presidentielle-2027-les-insoumis-et-leurs-caravanes-populaires-a-la-conquete-des-abstentionnistes_6732763_823448.html",
+   "https://www.lemonde.fr/economie/article/2026/07/26/demarchage-telephonique-a-partir-du-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs_6733043_3234.html",
+   "https://www.lemonde.fr/international/article/2026/07/26/au-bresil-l-heritier-flavio-bolsonaro-investi-pour-la-presidentielle-d-octobre_6732875_3210.html",
+   "https://www.lemonde.fr/sport/article/2026/07/26/tour-de-france-2026-le-parcours-de-la-vingt-et-unieme-et-derniere-etape-modifiee-en-raison-des-incendies-paris-champs-elysees_6732976_3242.html",
+   "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-apres-l-abandon-de-vingegaard-evenepoel-s-offre-pogacar-au-plateau-de-solaison-seixas-perd-son-maillot-blanc-20260719",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-pogacar-toujours-en-jaune-evenepoel-et-del-toro-s-affirment-sur-le-podium-vingegaard-perd-tout-le-classement-general-apres-la-15e-etape-20260719",
    "https://www.lefigaro.fr/international/etats-unis-deux-hommes-decouvrent-a-38-ans-avoir-ete-echanges-a-la-naissance-et-portent-plainte-contre-l-hopital-20260719",
    "https://www.lefigaro.fr/faits-divers/affaire-cedric-jubillar-les-ossements-retrouves-sont-bien-ceux-de-sa-femme-delphine-disparue-en-2020-20260719",
@@ -761,7 +772,8 @@
    "https://www.lefigaro.fr/economie/incendies-en-gironde-le-trafic-ferroviaire-totalement-interrompu-au-sud-de-bordeaux-20260726",
    "https://www.lefigaro.fr/bordeaux/incendies-en-gironde-face-au-feu-a-l-ocean-et-a-l-etat-benoit-bartherotte-l-irreductible-du-cap-ferret-20260726",
    "https://www.lefigaro.fr/actualite-france/c-est-fini-pour-nous-a-saint-etienne-du-rouvray-les-derniers-instants-du-pere-hamel-racontes-par-une-religieuse-rescapee-de-l-attentat-djihadiste-20260726",
-   "https://www.lefigaro.fr/vox/religion/remi-brague-aux-yeux-de-ses-deux-assassins-le-pere-jacques-hamel-meritait-d-etre-elimine-pour-des-raisons-theologiques-20260726"
+   "https://www.lefigaro.fr/vox/religion/remi-brague-aux-yeux-de-ses-deux-assassins-le-pere-jacques-hamel-meritait-d-etre-elimine-pour-des-raisons-theologiques-20260726",
+   "https://www.lefigaro.fr/international/a-berlin-la-marche-des-fiertes-frappee-par-une-attaque-meurtriere-un-suspect-lie-au-milieu-islamiste-en-fuite-20260726"
   ],
   "https://www.france24.com/fr/rss": [
    "56f5147c-835c-11f1-b54c-1d268c19448e",
@@ -2256,6 +2268,143 @@
  "evenements_attente": [
   {
    "faits": [
+    "Plages du Débarquement en Normandie inscrites au patrimoine mondial de l'Unesco",
+    "Les plages furent le théâtre de la bataille du 6 juin 1944 pour libérer l'Europe du nazisme"
+   ],
+   "qui": "Unesco",
+   "ou": "Normandie, nord-ouest de la France",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "de60c014ac880412",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-26T09:37:52.393306+00:00"
+  },
+  {
+   "faits": [
+    "Tour de France 2026 : étape finale modifiée en raison des incendies",
+    "Départ initialement prévu à Thoiry (Yvelines) transféré aux Champs-Élysées",
+    "Étape raccourcie pour soulager les forces de l'ordre mobilisées par les incendies",
+    "Parcours inclut depuis 2025 la gravissade de Montmartre trois fois avant conclusion"
+   ],
+   "qui": null,
+   "ou": "Champs-Élysées, Montmartre, Paris, Thoiry (Yvelines)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 93,
+   "sources": [
+    "franceinfo",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "920ad6107f1779b1",
+   "score": 98,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-26T09:37:52.393308+00:00"
+  },
+  {
+   "faits": [
+    "Iran affirme que la guerre au Moyen-Orient va s'étendre si attaques américaines reprennent",
+    "Porte-parole armée iranienne Mohammad Akraminia déclare que guerre s'étendra géographiquement",
+    "Déclaration faite avant visite du Premier ministre israélien Benyamin Nétanyahou à Washington"
+   ],
+   "qui": "Mohammad Akraminia (porte-parole armée iranienne), Benyamin Nétanyahou (PM israélien)",
+   "ou": "Moyen-Orient, Iran, Israël, États-Unis",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Guerre va s'étendre géographiquement si attaques américaines reprennent"
+   ],
+   "importance": 80,
+   "empreinte": "8030e7a9390aa096",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:52.393310+00:00"
+  },
+  {
+   "faits": [
+    "Flavio Bolsonaro (fils de Jair Bolsonaro) investi par Parti libéral brésilien pour présidentielle octobre 2026",
+    "Affrontera président sortant Luiz Inacio Lula da Silva"
+   ],
+   "qui": "Flavio Bolsonaro, Jair Bolsonaro, Luiz Inacio Lula da Silva, Parti libéral brésilien",
+   "ou": "Brésil",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "438ef0c0e9f694b4",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:52.393311+00:00"
+  },
+  {
+   "faits": [
+    "Incendies d'ampleur inédite en Algérie ayant fait 6 morts",
+    "900 départs de feu en Tunisie en 72 heures",
+    "Maroc affrontant sa quatrième vague de chaleur",
+    "Afrique du Nord touchée par des chaleurs extrêmes"
+   ],
+   "qui": null,
+   "ou": "Afrique du Nord (Algérie, Tunisie, Maroc)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "e02c44521243a924",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:52.393313+00:00"
+  },
+  {
+   "faits": [
+    "La France insoumise organise caravanes populaires tout l'été pour conquérir abstentionnistes",
+    "Militants sillonnent la France en privilégiant quartiers populaires",
+    "Objectif : encourager habitants à s'inscrire sur listes électorales",
+    "Campagne pour candidature de Jean-Luc Mélenchon pour présidentielle 2027"
+   ],
+   "qui": "La France insoumise, Jean-Luc Mélenchon",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "591a3338ac6f5217",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:52.393314+00:00"
+  },
+  {
+   "faits": [
     "Le Parti libéral brésilien a lancé officiellement la candidature de Flavio Bolsonaro à la présidence",
     "Le lancement a eu lieu samedi 25 juillet",
     "Les élections présidentielles auront lieu le 4 octobre",
@@ -2280,6 +2429,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-26T04:48:07.345664+00:00"
+  },
+  {
+   "faits": [
+    "Cérémonie commémorative dix ans après l'assassinat du père Hamel",
+    "Premier ministre Sébastien Lecornu et ancien président François Hollande présents",
+    "Maire Joachim Moyse appelle à travailler sur la fraternité"
+   ],
+   "qui": "Sébastien Lecornu (Premier ministre), François Hollande (ancien président), Joachim Moyse (maire)",
+   "ou": "Saint-Étienne-du-Rouvray",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "79505e777ee2383b",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:52.393315+00:00"
   },
   {
    "faits": [
@@ -2381,6 +2552,50 @@
   },
   {
    "faits": [
+    "Doctolib va utiliser données utilisateurs (ordonnances, antécédents, médicaments) pour recherche en IA",
+    "Programme débute en août",
+    "Objectif : améliorer parcours de soins grâce à l'intelligence artificielle",
+    "Utilisateurs peuvent s'y opposer"
+   ],
+   "qui": "Doctolib",
+   "ou": null,
+   "categorie": "sante",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "1a5386e6b09f180e",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:52.393316+00:00"
+  },
+  {
+   "faits": [
+    "À partir du 11 août, les entreprises devront obtenir consentement des consommateurs avant démarchage téléphonique",
+    "Consentement défini comme manifestation de volonté libre, spécifique, éclairée, univoque et révocable"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "3ba93a0ea4507518",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:52.393317+00:00"
+  },
+  {
+   "faits": [
     "Incendie au parc national des Cairngorms en Écosse depuis douze jours",
     "Ravage plusieurs kilomètres carrés du parc",
     "Autorités ont déclaré un « incident majeur »",
@@ -2401,6 +2616,53 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-26T07:28:05.409824+00:00"
+  },
+  {
+   "faits": [
+    "Ukraine : Zelensky affirme que Russie veut recevoir 30 000 soldats supplémentaires de Corée du Nord",
+    "Préparatifs en cours depuis juin dans oblast russe de Voronej",
+    "Corée du Nord se préparerait à transférer lanceurs missiles balistiques supplémentaires à Russie"
+   ],
+   "qui": "Volodymyr Zelensky, Russie, Corée du Nord",
+   "ou": "Ukraine, Russie, oblast Voronej, Corée du Nord",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Russie reçoit 30 000 soldats nord-coréens",
+    "Corée du Nord transfère lanceurs balistiques à Russie"
+   ],
+   "importance": 80,
+   "empreinte": "434b55d07fd73fd7",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:46.600394+00:00"
+  },
+  {
+   "faits": [
+    "Aziz Abu Sarah (Palestinien) et Maoz Inon (Israélien), militants pour la paix, publient livre 'La paix est notre avenir'",
+    "Tous deux ont perdu des êtres chers du fait du conflit israélo-palestinien",
+    "Livre décrit raisons d'espérer malgré violence exacerbée au Proche-Orient"
+   ],
+   "qui": "Aziz Abu Sarah, Maoz Inon",
+   "ou": "Israël, Palestine, Proche-Orient",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "29b118732e24a803",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:52.393318+00:00"
   },
   {
    "faits": [
@@ -2452,6 +2714,30 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-26T07:28:21.071212+00:00"
+  },
+  {
+   "faits": [
+    "Conflit au Moyen-Orient : analyse comparative entre intervention française en 2006 et syrienne en 2026 concernant désarmement du Hezbollah",
+    "Désarmement de la milice pro-iranienne n'a pas été imposé par France en 2006",
+    "Ne sera pas imposé par Syrie en 2026 malgré pressions d'Israël et États-Unis"
+   ],
+   "qui": "France, Syrie, Israël, États-Unis, Hezbollah",
+   "ou": "Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Syrie imposera ou non désarmement du Hezbollah en 2026"
+   ],
+   "importance": 70,
+   "empreinte": "6c18ebd630a39721",
+   "score": 79,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:46.600306+00:00"
   },
   {
    "faits": [
@@ -2549,6 +2835,28 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-26T04:48:25.347785+00:00"
+  },
+  {
+   "faits": [
+    "Film 'L'Odyssée' produit par Hollywood sur base de l'épopée grecque",
+    "Presse grecque avait entretenu polémique autour du casting",
+    "Public grec enthousiaste à l'idée de voir récit prendre vie sur grand écran"
+   ],
+   "qui": null,
+   "ou": "Grèce, Hollywood",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "63f10757baf91f87",
+   "score": 74,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T09:37:46.600411+00:00"
   },
   {
    "faits": [
@@ -2747,6 +3055,10 @@
   [
    "08ec3450161e1423",
    "2026-07-26T07:28:26.206927+00:00"
+  ],
+  [
+   "3e437a61b66bab50",
+   "2026-07-26T09:37:53.418594+00:00"
   ]
  ],
  "evenements_48h": [
@@ -2829,6 +3141,10 @@
   [
    "22d10e10c412c9d0",
    "2026-07-26T07:28:21.071199+00:00"
+  ],
+  [
+   "1971c02b2755b4f5",
+   "2026-07-26T09:37:52.393300+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2840,12 +3156,13 @@
   "⚽ L'AS Monaco s'est inclinée 0-2 face au Sporting Portugal samedi à Lisbonne, en match amical de préparation. Paul Pogba et Ansu Fati n'ont pas participé à la rencontre. (Ouest-France, L'Équipe)",
   "⚡ FLASH — Les incendies du sud-ouest créent une situation critique en Gironde. Samedi, 55.000 évacuations supplémentaires portent le total à 300.000 personnes. L'avion A400M a réalisé son premier largage de retardant le 25 juillet. (Ouest-France, BFMTV)",
   "🌡️ La Gironde subit d'importants incendies depuis le 22 juillet. Bilan : 42 000 hectares brûlés et 220 000 personnes évacuées. Le trafic ferroviaire et routier est paralysé entre Bordeaux et le sud-ouest. (franceinfo, Le Figaro)",
-  "🇫🇷 La France commémore le père Jacques Hamel, tué le 26 juillet 2016 à l'autel de son église près de Rouen. Une messe en sa mémoire dimanche réunira le Premier ministre et François Hollande. (franceinfo)"
+  "🇫🇷 La France commémore le père Jacques Hamel, tué le 26 juillet 2016 à l'autel de son église près de Rouen. Une messe en sa mémoire dimanche réunira le Premier ministre et François Hollande. (franceinfo)",
+  "🔴 ALERTE — Des incendies massifs ravagent la Gironde depuis quatre jours, détruisant plus de 20 000 hectares. L'A63 vers l'Espagne est fermée sur 60 km. Les pompiers combattent dans des conditions éprouvantes. (franceinfo, Le Monde)"
  ],
  "recap_date": "2026-07-25",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-26",
-  "publies": 9
+  "publies": 10
  }
 }
