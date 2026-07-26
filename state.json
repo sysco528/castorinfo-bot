@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-ossements-retrouves-dans-le-tarn-apres-les-aveux-de-cedric-jubillar-sont-bien-ceux-de-son-epouse-delphine-aussaguel_8114231.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-qui-s-est-declare-a-taradeau-a-saute-en-direction-des-arcs-annonce-le-prefet-du-var_8114180.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/musique/polemique-apres-l-annulation-d-un-concert-hommage-a-queen-par-la-mairie-rn-d-orange_8114129.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-discriminations-ce-qu-il-faut-retenir-du-rapport-d-une-association-sur-le-consentement-en-gynecologie_8114072.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/italie/en-italie-le-corps-calcine-d-un-journaliste-retrouve-pres-de-naples-la-piste-d-un-homicide-privilegiee_8114168.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/remco-evenepoel-s-impose-au-plateau-de-solaison-au-terme-d-une-15e-etape-du-tour-de-france-marquee-par-l-abandon-de-jonas-vingegaard_8114189.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-l-espagne-de-yamal-et-l-argentine-de-messi-ont-rendez-vous-avec-l-histoire-en-finale-scenario-incroyable-pour-france-angleterre_8113370.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-suivez-l-epilogue-en-apotheose-de-la-grande-boucle-avec-une-triple-ascension-de-la-butte-montmartre_8120396.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-le-champion-du-monde-en-titre-lando-norris-signe-sa-premiere-victoire-de-la-saison-au-grand-prix-de-hongrie-devant-max-verstappen_8122964.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde-la-prefete-incite-les-touristes-a-ne-pas-venir-alors-que-le-feu-poursuit-sa-progression_8123063.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-crois-que-je-peux-rester-encore-un-peu-malgre-l-incendie-en-gironde-caroline-74-ans-refuse-de-quitter-sa-maison-avec-sa-fille-et-ses-animaux_8123117.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-crois-que-je-peux-rester-encore-un-peu-malgre-l-incendie-en-gironde-caroline-74-ans-refuse-de-quitter-sa-maison-avec-sa-fille-et-ses-animaux_8123117.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-en-gironde-pres-de-15-000-entreprises-situees-dans-les-zones-evacuees-ne-peuvent-plus-fonctionner-normalement-selon-la-chambre-de-commerce_8123156.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/arcachon/dois-je-aller-au-travail-ou-trouver-un-logement-temporaire-les-reponses-aux-questions-que-se-posent-les-evacues-des-incendies-en-gironde-3392338.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/mathieu-van-der-poel-l-emporte-sur-les-champs-elysees-pour-la-derniere-etape-tadej-pogacar-egale-le-legendaire-record-avec-un-cinquieme-sacre-sur-le-tour-de-france_8123171.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/terrorisme/le-suspect-de-l-attaque-meurtriere-survenue-samedi-soir-a-berlin-lors-de-la-marche-des-fiertes-tue-par-la-police_8123168.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -474,9 +474,6 @@
    "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-affirme-frapper-l-iran-tres-durement-pour-venger-les-militaires-americains-tues-20260720",
-   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-marco-rubio-felicite-le-liban-pour-sa-demarche-vers-la-paix-apres-une-rencontre-avec-joseph-aoun-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-l-espagne-sacree-le-football-a-gagne-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-un-adolescent-meurt-apres-l-effondrement-d-une-fontaine-lors-des-celebrations-de-la-victoire-en-coupe-du-monde-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-face-a-l-argentine-les-rois-espagnols-ont-sauve-le-football-aux-yeux-de-la-presse-internationale-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-le-controle-total-de-la-roja-des-argentins-miserables-messi-rate-sa-sortie-les-tops-et-flops-20260720",
@@ -773,11 +770,12 @@
    "https://www.lefigaro.fr/meteo/en-direct-incendies-emmanuel-macron-presidera-lundi-a-10-heures-une-cellule-interministerielle-de-crise-20260726",
    "https://www.lefigaro.fr/meteo/la-meteo-du-lundi-27-juillet-l-ete-de-retour-une-nouvelle-vague-de-chaleur-pressentie-20260726",
    "https://www.lefigaro.fr/international/allemagne-l-auteur-presume-de-l-attentat-de-berlin-est-mort-lors-d-une-importante-operation-de-police-20260726",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-dernier-feu-d-artifice-attendu-dans-la-butte-montmartre-suivez-la-21e-et-derniere-etape-20260726"
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-dernier-feu-d-artifice-attendu-dans-la-butte-montmartre-suivez-la-21e-et-derniere-etape-20260726",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/intouchable-implacable-inflexible-tadej-pogacar-dans-la-legende-du-tour-de-france-avec-une-cinquieme-victoire-20260726",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tadej-pogacar-remportera-t-il-un-6-e-tour-de-france-20260726",
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-malgre-tadej-pogacar-et-le-peloton-l-exploit-ahurissant-de-mathieu-van-der-poel-20260726"
   ],
   "https://www.france24.com/fr/rss": [
-   "723b1ebe-83bd-11f1-ac32-972aeb226ac9",
-   "d1fdd002-83a0-11f1-9474-4dbf629a4b81",
    "42c1b092-83b0-11f1-8dc4-a9503bbde6cd",
    "25bed80c-83b6-11f1-94e6-a9503bbde6cd",
    "929b4dde-83a7-11f1-a969-79ddcaecbccd",
@@ -1075,11 +1073,11 @@
    "023e4f12-81d0-11f1-bd2e-9f2a8e948542",
    "e53e5e2e-8905-11f1-aba0-2105def2c34c",
    "ce904d9e-8906-11f1-8295-b7a93e253e13",
-   "6eca206c-88f5-11f1-be5b-9f85fd884513"
+   "6eca206c-88f5-11f1-be5b-9f85fd884513",
+   "e986021a-891a-11f1-88e7-557b173bdfb1",
+   "f9634432-8919-11f1-bc6a-557b173bdfb1"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "d9672ccc-7e9a-11f1-a052-c9fcf0245687",
-   "06713d90-7fa7-11f1-8a60-d5565cad0015",
    "1419b390-7fa8-11f1-8763-d5565cad0015",
    "0630cf42-7fc7-11f1-bcee-b35c70128a99",
    "b253c32c-7fce-11f1-943c-6d81a971eef2",
@@ -1377,18 +1375,11 @@
    "39b3788a-88d5-11f1-9ccb-3bda1c3a55d9",
    "2a8adfc6-88ec-11f1-9709-bbeca11b4b2c",
    "c727f7d6-8902-11f1-bf72-8942973439f7",
-   "2c81ddc8-8907-11f1-81c3-7760fdd76449"
+   "2c81ddc8-8907-11f1-81c3-7760fdd76449",
+   "acb3ad58-8918-11f1-844f-816556919eec",
+   "1bd30b5a-886c-11f1-8033-e11aa620d7f6"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/basket/nba/nba-le-francais-zaccharie-risacher-transfere-a-dallas-apres-deux-ans-a-atlanta-7f246ba4-8394-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/mer/direction-le-pole-nord-pour-la-soucoupe-flottante-de-la-fondation-tara-b5bd919c-835b-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/maltraitance-animale/ils-etaient-terrorises-amaigris-tres-sales-et-recouverts-de-puces-quatre-chiens-sauves-par-la-spa-en-mayenne-fb938e48-8382-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-pourquoi-la-jordanie-est-elle-de-nouveau-la-cible-de-liran-95284436-834c-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/on-a-essaye-de-mouiller-nos-affaires-le-feu-sapproche-de-leur-maison-ils-ont-evacue-en-urgence-a-trignac-3df9bf32-8388-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/pays-de-la-loire/maine-et-loire/une-petition-demande-la-demission-des-elus-de-chalonnes-sur-loire-apres-la-condamnation-du-maire-a-la-prison-51fb9cf2-8389-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-les-gens-nont-pas-aime-arsene-wenger-et-la-fifa-reflechissent-a-lavenir-des-pauses-fraicheurs-c075afb0-838e-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/mma/mma-il-va-subir-une-operation-du-genou-dana-white-prend-la-parole-apres-la-blessure-de-conor-mcgregor-f693213c-838d-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-la-fifa-vend-des-morceaux-de-la-pelouse-de-la-finale-et-provoque-une-vive-polemique-aux-etats-unis-b8d7b92a-838d-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/la-derniere-chose-que-je-te-demande-la-presse-argentine-implore-le-capitaine-des-miracles-messi-avant-la-finale-cad91e0c-833d-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-quand-messi-annoncait-sa-retraite-internationale-avec-largentine-dans-le-stade-de-la-finale-du-mondial-fb7caaf0-8113-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-cest-une-honte-on-ne-peut-pas-accepter-ca-la-colere-de-remco-evenepoel-ad05ed88-838d-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1679,7 +1670,16 @@
    "https://www.ouest-france.fr/societe/faits-divers/attentat/attentat-saint-etienne-du-rouvray/dix-ans-apres-lattentat-du-pere-hamel-a-leglise-de-saint-etienne-du-rouvray-la-fraternite-comme-heritage-4776598a-88f1-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-comprenez-vous-que-lorganisation-gele-les-temps-avant-montmartre-lors-de-la-21e-et-derniere-etape-7af8d2b6-890e-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/festivals/cornouaille/festival-de-cornouaille-2026-a-quimper-margaux-le-grand-devient-la-nouvelle-reine-e97f2c78-88e9-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/violences/menace-au-couteau-un-homme-de-30-ans-se-fracture-la-clavicule-en-echappant-a-ses-agresseurs-dans-une-rue-de-caen-88d0c26e-8908-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/faits-divers/violences/menace-au-couteau-un-homme-de-30-ans-se-fracture-la-clavicule-en-echappant-a-ses-agresseurs-dans-une-rue-de-caen-88d0c26e-8908-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-seulement-la-troisieme-fois-de-lhistoire-aucun-francais-nest-parvenu-a-simposer-sur-ledition-2026-201d45fa-8744-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-rien-nest-parfait-mais-on-a-fait-au-mieux-le-premier-bilan-de-paul-seixas-apres-sa-4e-place-a8bcc5e8-891f-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-veistroffer-accord-entre-leaders-canicule-dopage-les-tops-et-flops-de-nos-envoyes-speciaux-60368750-881b-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-montagne-sprint-jeunes-tous-les-classements-annexes-finaux-apres-la-21e-et-derniere-etape-c1a1b978-890c-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-le-classement-de-la-21e-et-derniere-etape-remportee-par-mathieu-van-der-poel-1c20243e-8903-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/on-est-tous-concernes-en-sarthe-ils-lancent-une-collecte-pour-les-sinistres-des-incendies-dans-le-sud-ouest-1b8295a0-8900-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-je-me-rapproche-de-la-fin-julian-alaphilippe-fait-ses-adieux-au-tour-86685dc6-8911-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/en-images-incendie-en-gironde-maisons-detruites-habitants-evacues-les-pompiers-face-a-un-orage-de-feu-inedit-fb6d0252-88f8-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-le-classement-general-final-apres-la-21e-et-derniere-etape-remportee-par-mathieu-van-der-poel-31c3f058-88ff-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2283,6 +2283,69 @@
  "evenements_attente": [
   {
    "faits": [
+    "Tadej Pogacar remporte le Tour de France 2026",
+    "Pogacar obtient son cinquième sacre sur le Tour de France, égalant le record de Anquetil, Merckx, Hinault et Indurain",
+    "Il s'agit du troisième Tour de France consécutif pour Pogacar",
+    "Mathieu van der Poel remporte la 21e et dernière étape sur les Champs-Élysées",
+    "La dernière étape était initialement de 132,5 km, réduite à 89 km",
+    "Jasper Philipsen et Mads Pedersen complètent le podium de l'étape finale",
+    "Richard Carapaz remporte le maillot pois, Isaac Del Toro le maillot blanc",
+    "Mads Pedersen remporte le maillot vert",
+    "Paul Seixas termine 4e à sa première participation au Tour de France à 19 ans",
+    "Aucun Français n'a remporté d'étape lors de cette édition 2026, seulement la 3e fois dans l'histoire du Tour",
+    "Julian Alaphilippe dispute probablement son dernier Tour de France"
+   ],
+   "qui": "Tadej Pogacar, Mathieu van der Poel",
+   "ou": "France, Champs-Élysées (Paris)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24",
+    "RFI",
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "cbfcef6a2435c5f8",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 5,
+   "depuis": "2026-07-26T18:46:20.091323+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie se déroule en Gironde depuis le 22 juillet 2026",
+    "Environ 220 000 personnes sont évacuées",
+    "Près de 42 000 hectares sont ravagés",
+    "240 habitations ont été détruites selon le dernier bilan préfectoral",
+    "Environ 15 000 entreprises dans les zones évacuées ne peuvent plus fonctionner normalement",
+    "Patrick Seguin, président de la CCI de Gironde, qualifie la situation de 'jamais-vu depuis le Covid'",
+    "L'incendie est qualifié de 'hors norme' avec une progression imprévisible",
+    "Le sinistre menace les abords de Bordeaux",
+    "Les pompiers font face à un 'orage de feu' inédit"
+   ],
+   "qui": "Population de Gironde, Chambre de commerce et d'industrie de Gironde",
+   "ou": "Gironde, Bordeaux",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 90,
+   "empreinte": "0f8cc00566d6baf8",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-26T18:46:20.091326+00:00"
+  },
+  {
+   "faits": [
     "Incendies en Gironde ont brûlé plus de 42 000 hectares",
     "220 000 personnes évacuées en raison des incendies",
     "L'incendie n'est pas fixé",
@@ -2410,33 +2473,6 @@
   },
   {
    "faits": [
-    "Un incendie géant en Gironde progresse depuis cinq jours après s'être déclenché à Saumos",
-    "Les flammes sont à 15 km de l'agglomération de Bordeaux",
-    "Plus d'une dizaine de communes proches de Bordeaux ont été évacuées",
-    "Le maire de Bordeaux Thomas Cazenave affirme que l'évacuation de Bordeaux n'est pas à l'ordre du jour",
-    "Les gendarmes patrouillent dans les villes évacuées pour éviter les cambriolages",
-    "Un homme a été interpellé après le vol de 44 bouteilles de grands crus dans une maison évacuée",
-    "Les habitants de Lège-Cap-Ferret soutiennent les pompiers via un poste de ravitaillement"
-   ],
-   "qui": "Pompiers, gendarmes, habitants de Gironde, maire Thomas Cazenave",
-   "ou": "Gironde, Saumos, Lège-Cap-Ferret, agglomération de Bordeaux",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 92,
-   "empreinte": "3eb62abe56e5e655",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-26T12:34:09.532727+00:00"
-  },
-  {
-   "faits": [
     "Un incendie de forêt sévit en Espagne, notamment dans les régions de Madrid et Valence",
     "75 000 personnes ont été évacuées en Espagne",
     "Une personne est morte près de Valence",
@@ -2483,6 +2519,31 @@
    "fiab_max": 85,
    "nb_sources": 3,
    "depuis": "2026-07-26T17:39:14.503630+00:00"
+  },
+  {
+   "faits": [
+    "Un véhicule a foncé sur la foule lors de la Marche des fiertés de Berlin samedi 25 juillet 2026",
+    "Au moins un mort et 29 blessés sont à déplorer",
+    "Le principal suspect de l'attaque a été tué par la police allemande dimanche 26 juillet",
+    "Alexander Dobrindt, ministre de l'Intérieur allemand, a confirmé l'opération policière"
+   ],
+   "qui": "Suspect abattu (identité non précisée), police allemande, Alexander Dobrindt",
+   "ou": "Berlin, Allemagne",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo",
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "ed159ed15d9241b7",
+   "score": 96,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-26T18:46:20.091338+00:00"
   },
   {
    "faits": [
@@ -2605,27 +2666,6 @@
   },
   {
    "faits": [
-    "Le Grand Prix de Bahreïn, annulé en avril en raison de la guerre au Moyen-Orient, sera organisé en Malaisie début octobre",
-    "La F1 et la Fédération internationale de l'automobile ont annoncé la nouvelle dimanche"
-   ],
-   "qui": "Fédération internationale de l'automobile, F1",
-   "ou": "Malaisie",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "dd6f9c275206a97f",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T12:34:09.532744+00:00"
-  },
-  {
-   "faits": [
     "Une voiture a percuté la foule samedi soir lors de la Gay Pride de Berlin",
     "Un mort et une quinzaine de blessés selon un premier bilan",
     "Un bilan révisé mentionne un mort et 29 blessés",
@@ -2650,53 +2690,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-26T14:12:46.079165+00:00"
-  },
-  {
-   "faits": [
-    "La Roumanie a abattu un drone au-dessus de la mer Noire dimanche",
-    "Le drone venait d'entrer dans l'espace aérien roumain",
-    "Deux autres drones avaient déjà été abattus vendredi et samedi",
-    "L'un des drones a été identifié comme un drone Shahed utilisé par la Russie",
-    "La Roumanie fustige la Russie"
-   ],
-   "qui": "Roumanie, Russie",
-   "ou": "Espace aérien roumain, mer Noire",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "879eadd6ed08d4f7",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T12:34:09.531456+00:00"
-  },
-  {
-   "faits": [
-    "Un torrent de montagne a emporté des campeurs dimanche dans la province du Gansu",
-    "Le torrent a été provoqué par de violentes pluies",
-    "Au moins dix personnes sont mortes",
-    "Cent soixante-quatorze personnes ont pu être secourues"
-   ],
-   "qui": null,
-   "ou": "Province du Gansu, Chine",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "c527bf625190f89f",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T12:34:09.531505+00:00"
   },
   {
    "faits": [
@@ -2742,30 +2735,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-26T15:34:26.434549+00:00"
-  },
-  {
-   "faits": [
-    "Une canicule élevée est attendue à partir de mercredi 29 juillet",
-    "Le thermomètre atteindra 40 °C dans le sud de la France à partir de mercredi",
-    "41 °C sont attendus à Bordeaux",
-    "Les températures ne descendront pas en dessous de 20 °C la nuit pour la moitié sud",
-    "Météo France estime que le risque canicule est élevé"
-   ],
-   "qui": "Météo France",
-   "ou": "France, particulièrement sud et Bordeaux",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "9408dd5e5aff33c1",
-   "score": 81,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T12:34:09.531542+00:00"
   },
   {
    "faits": [
