@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/tour-de-france/jonas-vingegaard-et-tadej-pogacar-ont-subi-des-controles-antidopage-dans-la-nuit-avant-le-depart-de-la-15e-etape-du-tour-de-france_8113982.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/reportage-meme-un-match-de-football-c-est-de-la-politique-israeliens-et-palestiniens-choisissent-leur-favori-avant-la-finale-de-la-coupe-du-monde_8113127.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/afrique/mali/guerre-au-mali/au-moins-50-militaires-tues-dans-une-attaque-des-independantistes-et-des-jihadistes-au-mali_8113877.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-qui-va-s-imposer-au-plateau-de-solaison-au-terme-de-l-etape-la-plus-difficile-de-cette-edition_8113469.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/inde/au-moins-19-morts-dans-le-nord-de-l-inde-apres-des-inondations-et-glissements-de-terrain_8114015.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/le-responsable-d-un-centre-equestre-du-nord-mis-en-examen-pour-viols-sur-six-personnes_8114093.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-ossements-retrouves-dans-le-tarn-apres-les-aveux-de-cedric-jubillar-sont-bien-ceux-de-son-epouse-delphine-aussaguel_8114231.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-flammes-ne-sont-plus-qu-a-15-km-de-bordeaux_8122862.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/13-heures/incendies-en-gironde-il-n-y-a-pas-d-evacuation-de-la-ville-de-bordeaux-programmee-assure-le-maire-de-la-ville_8122883.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-prix-du-carburant-est-repasse-au-dessus-des-2-euros-le-litre-alors-qu-un-nouveau-week-end-de-chasse-croise-se-profile_8122901.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-espagne-le-premier-ministre-evoque-des-heures-difficiles-a-venir-face-aux-incendies-apres-l-evacuation-de-75-000-personnes-dans-les-regions-de-madrid-et-valence_8122907.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-espagne-le-premier-ministre-evoque-des-heures-difficiles-a-venir-face-aux-incendies-apres-l-evacuation-de-75-000-personnes-dans-les-regions-de-madrid-et-valence_8122907.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/en-gironde-le-maire-du-porge-compte-20-d-habitations-detruites-dans-sa-commune-et-evoque-un-paysage-catastrophique_8122970.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/un-orage-de-feu-qu-est-ce-que-le-pyrocumulonimbus-ce-phenomene-jamais-vu-en-france-observe-dans-l-incendie-en-gironde-3392173.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-suivez-l-epilogue-en-apotheose-de-la-grande-boucle-avec-une-triple-ascension-de-la-butte-montmartre_8120396.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-le-champion-du-monde-en-titre-lando-norris-signe-sa-premiere-victoire-de-la-saison-au-grand-prix-de-hongrie-devant-max-verstappen_8122964.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -474,10 +474,6 @@
    "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://photo-madame.lefigaro.fr/celebrites/actu-people/les-stars-presentes-pour-la-finale-espagne-argentine-de-la-coupe-du-monde-2026-20260719",
-   "https://www.lefigaro.fr/flash-actu/macedoine-du-nord-1500-habitants-d-une-ville-soignes-apres-une-intoxication-massive-probablement-par-l-eau-20260719",
-   "https://www.lefigaro.fr/flash-actu/ebola-le-canada-ferme-ses-frontieres-aux-etrangers-ayant-sejourne-recemment-en-rdc-20260719",
-   "https://madame.lefigaro.fr/celebrites/actu-people/le-couple-trump-matt-damon-zinedine-zidane-du-tres-beau-monde-a-la-finale-de-la-coupe-du-monde-2026-20260719",
    "https://www.lefigaro.fr/conjoncture/une-position-fragile-face-a-la-chine-et-aux-etats-unis-la-cour-des-comptes-appelle-la-france-a-accelerer-dans-le-quantique-20260719",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-au-bout-du-suspense-l-espagne-s-offre-une-deuxieme-etoile-face-a-l-argentine-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-l-espagnol-rodri-elu-meilleur-joueur-du-tournoi-20260720",
@@ -773,10 +769,13 @@
    "https://www.lefigaro.fr/actualite-france/un-parasol-deux-transats-et-l-incendie-au-loin-une-photo-des-feux-de-gironde-erigee-en-symbole-20260726",
    "https://www.lefigaro.fr/actualite-france/les-mesures-prises-face-aux-incendies-de-foret-vous-paraissent-elles-suffisantes-20260726",
    "https://immobilier.lefigaro.fr/article/notre-palmares-2026-des-villes-ou-s-installer-en-val-de-loire-20260725",
-   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-chef-de-l-onu-appelle-a-lever-immediatement-toutes-les-sanctions-contre-la-syrie-20260726"
+   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-chef-de-l-onu-appelle-a-lever-immediatement-toutes-les-sanctions-contre-la-syrie-20260726",
+   "https://www.lefigaro.fr/sciences/spatial-aeronautique-defense-autour-de-bordeaux-des-sites-sensibles-sous-haute-surveillance-face-aux-incendies-20260726",
+   "https://sante.lefigaro.fr/social/sante-publique/je-n-ai-jamais-vu-ca-au-chu-de-bordeaux-on-pousse-les-murs-pour-accueillir-les-patients-et-residents-d-ehpad-naufrages-du-feu-20260726",
+   "https://www.lefigaro.fr/actualite-france/a-parentis-en-born-une-lutte-acharnee-pour-proteger-le-bourg-20260726",
+   "https://www.lefigaro.fr/sciences/incendies-en-gironde-pour-diminuer-l-intensite-des-feux-il-faut-creer-des-zones-tampon-dans-les-forets-20260726"
   ],
   "https://www.france24.com/fr/rss": [
-   "a0f5d68c-8385-11f1-a3d7-85fd1485f019",
    "d0edefde-8383-11f1-b82a-85fd1485f019",
    "a4b4aeae-8382-11f1-a1b0-85fd1485f019",
    "3ebc3cba-8383-11f1-ad19-85fd1485f019",
@@ -1075,10 +1074,10 @@
    "658fb904-88ef-11f1-80fa-0fdd97c67c8b",
    "e4ef5778-88ee-11f1-a1c4-33854ea01278",
    "7d47871c-88ee-11f1-b0c6-33854ea01278",
-   "295c0c74-88e2-11f1-aa8c-597bc1245c31"
+   "295c0c74-88e2-11f1-aa8c-597bc1245c31",
+   "52fb91a8-8900-11f1-bc71-1daaea4a4731"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "8b2accc6-7f8f-11f1-abcf-43f83f13f92f",
    "ccf1965a-7f83-11f1-985b-8358536c0987",
    "d9672ccc-7e9a-11f1-a052-c9fcf0245687",
    "06713d90-7fa7-11f1-8a60-d5565cad0015",
@@ -1377,18 +1376,10 @@
    "f29b8a0e-88c1-11f1-b97d-2b2a6df8b1bf",
    "4a4f846a-88c9-11f1-b7ec-2b2a6df8b1bf",
    "39b3788a-88d5-11f1-9ccb-3bda1c3a55d9",
-   "2a8adfc6-88ec-11f1-9709-bbeca11b4b2c"
+   "2a8adfc6-88ec-11f1-9709-bbeca11b4b2c",
+   "c727f7d6-8902-11f1-bf72-8942973439f7"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/athletisme/athletisme-je-suis-un-peu-emu-la-performance-de-thibaut-gromala-vecue-par-son-entraineur-6d149a64-8363-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/formule-1/video-f1-kimi-antonelli-en-tete-george-russell-dans-les-graviers-revivez-le-depart-du-grand-prix-de-belgique-b9ff6610-8372-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://sante.ouest-france.fr/bien-etre/comment-prendre-soin-de-ses-pieds-en-randonnee-c18bd31c-76f9-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/un-incendie-se-declare-pres-de-saint-nazaire-un-nuage-de-fumee-visible-a-plusieurs-kilometres-des-habitants-evacues-e4656be0-837f-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/italie/le-corps-dun-journaliste-italien-retrouve-calcine-pres-de-naples-933a3922-8383-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/catastrophes/seisme/au-moins-cinq-morts-21-blesses-et-300-sinistres-dans-un-seisme-de-magnitude-5-1-au-perou-ed529da4-837f-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/video-victime-dune-chute-jonas-vingegaard-dauphin-du-general-abandonne-le-tour-de-france-1cc56042-8382-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tourisme/bayeux-omaha-beach-six-spots-du-bessin-a-decouvrir-a-velo-86f86764-5521-11f1-8f25-b8bf821ee814?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/equipe-de-france/vos-mots-resonnent-encore-aujourdhui-dans-ma-tete-lhommage-dolivier-giroud-a-didier-deschamps-9cd206d8-837c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/formule-1/f1-le-classement-du-championnat-du-monde-des-pilotes-apres-le-grand-prix-de-belgique-remporte-par-4c6c9b28-8371-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/faits-divers/lhomme-retranche-chez-lui-a-plabennec-a-ete-retrouve-decede-apres-avoir-mis-fin-a-ses-jours-1c3e930e-8379-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/affaire-jubillar/affaire-jubillar-les-ossements-retrouves-dans-le-tarn-sont-bien-ceux-de-delphine-jubillar-selon-les-analyses-448b6da8-81be-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1679,7 +1670,16 @@
    "https://www.ouest-france.fr/bretagne/quimper-29000/cest-quoi-exactement-la-faience-de-quimper-022a68d0-707d-11f1-a6cc-3a2a661228b1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/pays-de-la-loire/maine-et-loire/les-pompiers-appeles-pour-une-maison-en-feu-a-valanjou-91e35f6a-885e-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/incendie/reportage-la-situation-est-catastrophique-devaste-par-le-feu-le-village-du-porge-decouvre-lampleur-du-desastre-844beaa4-88f2-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tourisme/quatre-super-spots-a-decouvrir-le-long-de-la-cote-damour-3c8b917e-6359-11f1-a709-ca0e705ecc31?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/tourisme/quatre-super-spots-a-decouvrir-le-long-de-la-cote-damour-3c8b917e-6359-11f1-a709-ca0e705ecc31?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/organismes-internationaux/unesco/les-plages-du-debarquement-en-normandie-classees-au-patrimoine-mondial-de-lunesco-643b65ec-88d3-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/pedocriminalite/il-y-a-urgence-a-proteger-nos-enfants-lopposition-angevine-reagit-apres-la-mise-en-examen-dun-animateur-periscolaire-f42f57b2-88fb-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-amende-penalite-sepp-kuss-a-ete-sanctionne-pour-avoir-jete-des-dechets-7bcc3108-88f3-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://programmetv.ouest-france.fr/divers/telerealite/koh-lanta-m96969668/je-ne-suis-pas-aigri-laurent-maistret-se-confie-sur-son-absence-de-la-prochaine-edition-all-stars-de-koh-lanta-0a0ba9be-8695-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/culture/patrimoine/lhabitat-des-petites-gens-du-moyen-age-cet-architecte-lance-loperation-sauvetage-dune-maison-a-pan-de-bois-755e68a6-6989-11f1-a3cf-41dac410473f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendie-en-gironde-un-feu-avait-ravage-50-000-hectares-et-cause-la-mort-de-82-personnes-en-1949-fe71392e-88f7-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/athletisme/athletisme-samuel-vessat-sempare-du-record-de-france-du-400-m-detenu-par-leslie-djhone-22d1b080-88ff-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/running/running-ronde-des-douaniers-matthias-gourgues-et-milena-rechede-des-vainqueurs-toujours-aussi-impitoyables-22e18c22-88f9-11f1-80e5-03ffc2b22a3a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/bretagne/dinan-22100/incendie-en-gironde-la-ville-de-dinan-sera-au-rendez-vous-de-la-solidarite-assure-le-maire-didier-lechien-774a8c9e-88fb-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1869,7 +1869,8 @@
    "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4236266-20260725-tour-france-2026-21e-etape-reduite-soulager-services-secours-mobilises-lutter-contre-feux?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4236301-20260726-contente-etre-concert-calme-dj-barbara-butch?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/politique/4236303-20260726-presidentielle-2027-changer-systeme-bruno-maire-positionne-course-elysee?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/ukraine/4236298-20260726-guerre-ukraine-selon-zelensky-russie-reclame-renforts-massifs-coree-nord?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/ukraine/4236298-20260726-guerre-ukraine-selon-zelensky-russie-reclame-renforts-massifs-coree-nord?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4236321-20260726-incendie-gironde-pourquoi-feu-sevit-actuellement-different-tous-ceux-france-deja-connu?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2266,6 +2267,44 @@
  },
  "en_attente_publication": [],
  "evenements_attente": [
+  {
+   "faits": [
+    "Incendie en Gironde depuis le 22 juillet 2026",
+    "Environ 42 000 hectares ont brûlé",
+    "Le feu progresse vers Bordeaux, atteignant des zones à 15 km de la métropole",
+    "Le maire du Porge signale 20% d'habitations détruites dans sa commune",
+    "Un pyrocumulonimbus (orage de feu) s'est formé le 24 juillet, phénomène jamais observé en France",
+    "Ce phénomène crée de nouveaux foyers en projetant des braises au sol",
+    "L'incendie reste hors de contrôle et progresse de manière imprévisible",
+    "Des sites sensibles (spatial, aéronautique, défense) autour de Bordeaux sont menacés",
+    "Le CHU de Bordeaux accueille des patients et résidents d'Ehpad évacués",
+    "Plusieurs communes ont été évacuées dont Parentis-en-Born",
+    "Les pompiers et habitants font face au manque d'eau et à des conditions extrêmes",
+    "L'étape du Tour de France 2026 a été rabotée pour envoyer des secours"
+   ],
+   "qui": "Autorités girondines, pompiers, maire du Porge",
+   "ou": "Gironde, France (commune du Porge, région bordelaise, Parentis-en-Born)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24",
+    "Ouest-France",
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "Nombre exact de décès (non mentionné dans les entrées)",
+    "Bilan définitif des dégâts"
+   ],
+   "importance": 98,
+   "empreinte": "4697692857662d21",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 5,
+   "depuis": "2026-07-26T15:34:26.434532+00:00"
+  },
   {
    "faits": [
     "Un incendie s'est déclaré jeudi après-midi en Gironde, entre Biscarrosse et Sanguinet, à partir d'une camionnette",
@@ -2843,6 +2882,28 @@
   },
   {
    "faits": [
+    "Arrivée du Tour de France 2025 avec une triple ascension de la butte Montmartre",
+    "L'étape dans les Yvelines et les Hauts-de-Seine a été rabotée",
+    "Cette modification permet d'envoyer des secours sur les sites d'incendies"
+   ],
+   "qui": "Organisation du Tour de France",
+   "ou": "Île-de-France (Montmartre, Yvelines, Hauts-de-Seine)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "0fc20faafc97a858",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T15:34:26.434549+00:00"
+  },
+  {
+   "faits": [
     "Huit forteresses royales du Languedoc (châteaux du Pays cathare) inscrites au patrimoine mondial de l'Unesco",
     "De Carcassonne à Montségur inclus",
     "Aboutissement d'une bataille menée pendant dix ans pour faire reconnaître leur spécificité"
@@ -2936,52 +2997,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-26T09:37:46.600394+00:00"
-  },
-  {
-   "faits": [
-    "Manifestation à Tunis contre le président Kais Saied",
-    "Environ 2 500 personnes ont défilé",
-    "Protestation contre la détérioration des conditions de vie",
-    "Manifestation au cinquième anniversaire du coup de force du président",
-    "Le pays connaît une vague de chaleur et des coupures d'électricité et d'eau"
-   ],
-   "qui": "Kais Saied",
-   "ou": "Tunisie, Tunis",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "7dfa61527eb76205",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T11:10:39.965622+00:00"
-  },
-  {
-   "faits": [
-    "Aziz Abu Sarah (Palestinien) et Maoz Inon (Israélien), militants pour la paix, publient livre 'La paix est notre avenir'",
-    "Tous deux ont perdu des êtres chers du fait du conflit israélo-palestinien",
-    "Livre décrit raisons d'espérer malgré violence exacerbée au Proche-Orient"
-   ],
-   "qui": "Aziz Abu Sarah, Maoz Inon",
-   "ou": "Israël, Palestine, Proche-Orient",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "29b118732e24a803",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:52.393318+00:00"
   }
  ],
  "publies_48h": [
