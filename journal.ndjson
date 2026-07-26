@@ -6963,3 +6963,40 @@
 {"decision": "controle", "evt": "57f990413e3b30ef", "motif": "ok_sim_0.17", "ts": "2026-07-26T01:18:29+00:00"}
 {"decision": "publie", "empreinte": "b2f5819e4b5b6550", "post_id": "2081187370565570957", "carte": true, "texte": "🇩🇪 Plusieurs personnes blessées samedi lors de la gay pride à Berlin. Elles auraient été percutées par une voiture dans le parc Tiergarten. Le ou les auteurs sont en fuite. La police les recherche activement.", "ts": "2026-07-26T01:18:30+00:00"}
 {"decision": "publie", "empreinte": "21b70ac9856b5f1b", "post_id": "2081187387477033240", "carte": true, "texte": "⚽ L'AS Monaco s'est inclinée 0-2 face au Sporting Portugal samedi à Lisbonne, en match amical de préparation. Paul Pogba et Ansu Fati n'ont pas participé à la rencontre. (Ouest-France, L'Équipe)", "ts": "2026-07-26T01:18:34+00:00"}
+{"decision": "abandon_attente", "evt": "0bddedd2dda59040", "categorie": "international", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "4686918833223e44", "categorie": "international", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "eb18d1f12e49f2f3", "categorie": "sport", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "d36ef42ad6aa1c9f", "categorie": "politique", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "4c5b89701b11d693", "categorie": "politique", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "2c27d59eb0e012fe", "categorie": "sport", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "bcd90c916ff9f432", "categorie": "politique", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "fa290f9c52b0e522", "categorie": "sport", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "88b4d16e35fa43ec", "categorie": "faits_divers", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "a33000aebd0c1a8a", "categorie": "sport", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "2c56354ffd292a8b", "categorie": "meteo_catastrophe", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "5ba7ee50e956edd2", "categorie": "international", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "a9bab6a745e0748b", "categorie": "politique", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "abandon_attente", "evt": "4fef1ef1ddbb67fc", "categorie": "sport", "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "publier", "evt": "e7020fb633003bc3", "score": 88, "categorie": "international", "sensible": false, "confiance": 75, "sources": ["Le Figaro", "20 Minutes"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "6383f22df5f3485d", "score": 84, "categorie": "politique", "sensible": true, "confiance": 90, "sources": ["France 24"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "862a7aa62b15cea9", "score": 85, "categorie": "politique", "sensible": true, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "d0c55713fa97fcd2", "score": 84, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "adc4a829d75d7200", "score": 68, "categorie": "faits_divers", "sensible": false, "confiance": 70, "sources": ["Ouest-France"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "913a4f7e88a5bfca", "score": 79, "categorie": "deces_personnalite", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "2fe33bfc93016653", "score": 71, "categorie": "international", "sensible": true, "confiance": 65, "sources": ["Ouest-France"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "ef3f5d443f317b2a", "score": 73, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "publier", "evt": "3e9865c767d9ad2d", "score": 77, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "publier", "evt": "686d783afc5129aa", "score": 78, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "publier", "evt": "24bb2ed3c17574ad", "score": 96, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["Ouest-France", "BFMTV"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "publier", "evt": "0a278070ef2cdd72", "score": 75, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "175dd1e454666cb3", "score": 74, "categorie": "culture", "sensible": false, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "359f31a2ece76e15", "score": 70, "categorie": "culture", "sensible": false, "confiance": 80, "sources": ["20 Minutes"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "a378183f61e980dc", "score": 75, "categorie": "politique", "sensible": true, "confiance": 80, "sources": ["20 Minutes"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "bbed6447026a0a89", "score": 87, "categorie": "faits_divers", "sensible": true, "confiance": 90, "sources": ["France 24"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "publier", "evt": "0fd76d3be7244a4e", "score": 77, "categorie": "sciences", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "attente", "evt": "a50a444f259da0b7", "score": 75, "categorie": "politique", "sensible": true, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-26T04:48:07+00:00"}
+{"decision": "controle", "evt": "24bb2ed3c17574ad", "motif": "ok_sim_0.34+alerte_retrogradee", "ts": "2026-07-26T04:48:11+00:00"}
+{"decision": "controle", "evt": "e7020fb633003bc3", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-26T04:48:17+00:00"}
+{"decision": "controle", "evt": "686d783afc5129aa", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-26T04:48:21+00:00"}
+{"decision": "controle", "evt": "3e9865c767d9ad2d", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-26T04:48:25+00:00"}
+{"decision": "publie", "empreinte": "ff5ba902c927696d", "post_id": "2081240201360539853", "carte": true, "texte": "⚡ FLASH — Les incendies du sud-ouest créent une situation critique en Gironde. Samedi, 55.000 évacuations supplémentaires portent le total à 300.000 personnes. L'avion A400M a réalisé son premier largage de retardant le 25 juillet. (Ouest-France, BFMTV)", "ts": "2026-07-26T04:48:26+00:00"}
