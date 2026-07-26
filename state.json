@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/accident/une-femme-meurt-percutee-par-une-voiture-roulant-a-une-vitesse-excessive-dans-le-2e-arrondissement-de-paris_8113901.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-ce-que-l-on-sait-de-la-nouvelle-nuit-de-bombardements-entre-l-iran-et-les-etats-unis_8113793.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/tourisme/reportage-amazing-le-telepherique-de-creteil-succes-inattendu-aupres-des-touristes-etrangers_8113715.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/asie/en-indonesie-deux-survivants-d-un-naufrage-retrouves-sur-une-ile-deserte-apres-un-periple-sur-un-radeau-de-fortune_8114024.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/en-iran-deux-hommes-ont-ete-pendus-en-lien-avec-les-manifestations-anti-gouvernementales-de-janvier_8113979.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/jonas-vingegaard-et-tadej-pogacar-ont-subi-des-controles-antidopage-dans-la-nuit-avant-le-depart-de-la-15e-etape-du-tour-de-france_8113982.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/reportage-meme-un-match-de-football-c-est-de-la-politique-israeliens-et-palestiniens-choisissent-leur-favori-avant-la-finale-de-la-coupe-du-monde_8113127.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/afrique/mali/guerre-au-mali/au-moins-50-militaires-tues-dans-une-attaque-des-independantistes-et-des-jihadistes-au-mali_8113877.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +296,12 @@
    "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/pere-hamel-les-ceremonies-du-10e-anniversaire-a-saint-etienne-du-rouvray-a-vivre-en-direct-3390889.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/meme-s-ils-sont-extenues-ils-sont-la-et-ils-y-vont-la-solidarite-et-l-admiration-des-habitants-de-lege-cap-ferret-pour-les-soldats-du-feu_8122823.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-un-homme-soupconne-du-vol-de-44-bouteilles-de-grands-crus-dans-une-maison-evacuee-a-eysines-interpelle_8122859.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-le-grand-prix-de-bahrein-annule-en-avril-en-raison-de-la-guerre-au-moyen-orient-sera-organise-en-malaisie-debut-octobre_8122853.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-le-grand-prix-de-bahrein-annule-en-avril-en-raison-de-la-guerre-au-moyen-orient-sera-organise-en-malaisie-debut-octobre_8122853.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-dans-les-landes-l-enquete-s-oriente-vers-un-depart-de-feu-accidentel_8122940.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-flammes-ne-sont-plus-qu-a-15-km-de-bordeaux_8122862.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/13-heures/incendies-en-gironde-il-n-y-a-pas-d-evacuation-de-la-ville-de-bordeaux-programmee-assure-le-maire-de-la-ville_8122883.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-prix-du-carburant-est-repasse-au-dessus-des-2-euros-le-litre-alors-qu-un-nouveau-week-end-de-chasse-croise-se-profile_8122901.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-espagne-le-premier-ministre-evoque-des-heures-difficiles-a-venir-face-aux-incendies-apres-l-evacuation-de-75-000-personnes-dans-les-regions-de-madrid-et-valence_8122907.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -474,10 +474,6 @@
    "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-l-espagne-ne-change-rien-contre-l-argentine-d-un-messi-record-les-compositions-de-la-finale-20260719",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-rien-ne-nous-a-ete-offert-sur-un-plateau-l-eleve-scaloni-defie-le-maitre-de-la-fuente-20260719",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-hall-de-gare-kaka-pelouse-le-figaro-vous-plonge-dans-les-coulisses-du-metlife-stadium-theatre-de-la-finale-20260719",
-   "https://www.lefigaro.fr/vox/societe/l-editorial-d-yves-threard-coupe-du-monde-des-joies-et-des-larmes-20260719",
    "https://photo-madame.lefigaro.fr/celebrites/actu-people/les-stars-presentes-pour-la-finale-espagne-argentine-de-la-coupe-du-monde-2026-20260719",
    "https://www.lefigaro.fr/flash-actu/macedoine-du-nord-1500-habitants-d-une-ville-soignes-apres-une-intoxication-massive-probablement-par-l-eau-20260719",
    "https://www.lefigaro.fr/flash-actu/ebola-le-canada-ferme-ses-frontieres-aux-etrangers-ayant-sejourne-recemment-en-rdc-20260719",
@@ -773,17 +769,13 @@
    "https://www.lefigaro.fr/sports/football/transferts/journal-du-mercato-barcola-refuse-de-prolonger-au-psg-l-om-cible-un-defenseur-du-real-un-bourreau-des-bleus-vers-la-juventus-20260726",
    "https://www.lefigaro.fr/international/chine-un-torrent-de-montagne-emporte-des-campeurs-et-fait-au-moins-dix-morts-20260726",
    "https://www.lefigaro.fr/musique/le-rappeur-naza-realise-un-clip-pour-les-80-ans-d-edf-au-coeur-de-l-usine-maremotrice-de-la-rance-20260726",
-   "https://www.lefigaro.fr/livres/roger-nimier-contre-herge-la-brouille-secrete-autour-de-tintin-20260726"
+   "https://www.lefigaro.fr/livres/roger-nimier-contre-herge-la-brouille-secrete-autour-de-tintin-20260726",
+   "https://www.lefigaro.fr/actualite-france/un-parasol-deux-transats-et-l-incendie-au-loin-une-photo-des-feux-de-gironde-erigee-en-symbole-20260726",
+   "https://www.lefigaro.fr/actualite-france/les-mesures-prises-face-aux-incendies-de-foret-vous-paraissent-elles-suffisantes-20260726",
+   "https://immobilier.lefigaro.fr/article/notre-palmares-2026-des-villes-ou-s-installer-en-val-de-loire-20260725",
+   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-chef-de-l-onu-appelle-a-lever-immediatement-toutes-les-sanctions-contre-la-syrie-20260726"
   ],
   "https://www.france24.com/fr/rss": [
-   "2bc1e43c-8362-11f1-85b5-7920679f8e7d",
-   "ba043fca-8361-11f1-bbfe-7920679f8e7d",
-   "43756794-8361-11f1-be3f-1d268c19448e",
-   "369d2684-8374-11f1-a6e8-4930c3700c96",
-   "e3361da8-8372-11f1-a308-4930c3700c96",
-   "6e36d348-8373-11f1-a113-25b97fe5396c",
-   "9a4d7648-8351-11f1-bbed-4df4613e8d4a",
-   "b1982a3a-836c-11f1-afeb-d9bb3a371989",
    "a0f5d68c-8385-11f1-a3d7-85fd1485f019",
    "d0edefde-8383-11f1-b82a-85fd1485f019",
    "a4b4aeae-8382-11f1-a1b0-85fd1485f019",
@@ -1075,10 +1067,17 @@
    "9fc0b030-88cf-11f1-858c-ad70c394a75c",
    "15e6e74e-88cf-11f1-8861-1df37415510c",
    "e96d2520-88ce-11f1-9c1c-ad70c394a75c",
-   "40a1d9e2-88d6-11f1-a729-77c0b51a317e"
+   "40a1d9e2-88d6-11f1-a729-77c0b51a317e",
+   "c8af1d9a-8750-11f1-9122-177004e00d19",
+   "80d4b41a-88f1-11f1-97de-0fdd97c67c8b",
+   "affbef7a-88f0-11f1-98f4-0fdd97c67c8b",
+   "d4440b84-88ef-11f1-9a26-0fdd97c67c8b",
+   "658fb904-88ef-11f1-80fa-0fdd97c67c8b",
+   "e4ef5778-88ee-11f1-a1c4-33854ea01278",
+   "7d47871c-88ee-11f1-b0c6-33854ea01278",
+   "295c0c74-88e2-11f1-aa8c-597bc1245c31"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "4c6372da-7f8b-11f1-878c-43f83f13f92f",
    "8b2accc6-7f8f-11f1-abcf-43f83f13f92f",
    "ccf1965a-7f83-11f1-985b-8358536c0987",
    "d9672ccc-7e9a-11f1-a052-c9fcf0245687",
@@ -1377,11 +1376,10 @@
    "8c10cf14-88bd-11f1-ba0a-531140b3a001",
    "f29b8a0e-88c1-11f1-b97d-2b2a6df8b1bf",
    "4a4f846a-88c9-11f1-b7ec-2b2a6df8b1bf",
-   "39b3788a-88d5-11f1-9ccb-3bda1c3a55d9"
+   "39b3788a-88d5-11f1-9ccb-3bda1c3a55d9",
+   "2a8adfc6-88ec-11f1-9709-bbeca11b4b2c"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/tennis/atp-250-de-bastad-andrey-rublev-simpose-contre-luciano-darderi-le-tenant-du-titre-9c798b1e-8379-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/didier-deschamps/equipe-de-france-didier-deschamps-a-garde-la-clef-de-sa-chambre-a-clairefontaine-58420c72-8370-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/athletisme/athletisme-je-suis-un-peu-emu-la-performance-de-thibaut-gromala-vecue-par-son-entraineur-6d149a64-8363-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/formule-1/video-f1-kimi-antonelli-en-tete-george-russell-dans-les-graviers-revivez-le-depart-du-grand-prix-de-belgique-b9ff6610-8372-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://sante.ouest-france.fr/bien-etre/comment-prendre-soin-de-ses-pieds-en-randonnee-c18bd31c-76f9-11f1-acd0-0e20d5055cca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1679,7 +1677,9 @@
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-on-connait-le-nom-du-super-combatif-de-ledition-2026-f98a77fe-88d9-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-paul-seixas-etait-amoindri-avant-le-depart-de-la-grande-boucle-490461a6-88d9-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/bretagne/quimper-29000/cest-quoi-exactement-la-faience-de-quimper-022a68d0-707d-11f1-a6cc-3a2a661228b1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/pays-de-la-loire/maine-et-loire/les-pompiers-appeles-pour-une-maison-en-feu-a-valanjou-91e35f6a-885e-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/pays-de-la-loire/maine-et-loire/les-pompiers-appeles-pour-une-maison-en-feu-a-valanjou-91e35f6a-885e-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/reportage-la-situation-est-catastrophique-devaste-par-le-feu-le-village-du-porge-decouvre-lampleur-du-desastre-844beaa4-88f2-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tourisme/quatre-super-spots-a-decouvrir-le-long-de-la-cote-damour-3c8b917e-6359-11f1-a709-ca0e705ecc31?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2268,6 +2268,36 @@
  "evenements_attente": [
   {
    "faits": [
+    "Un incendie s'est déclaré jeudi après-midi en Gironde, entre Biscarrosse et Sanguinet, à partir d'une camionnette",
+    "42 000 hectares ont brûlé au nord du bassin d'Arcachon",
+    "220 000 personnes ont été évacuées en Gironde",
+    "Le feu se situe à environ 15 km de Bordeaux le dimanche 26 juillet",
+    "1 500 pompiers sont engagés en Gironde",
+    "L'enquête s'oriente vers un départ de feu accidentel",
+    "Le maire de Bordeaux affirme qu'aucune évacuation de la ville n'est programmée"
+   ],
+   "qui": "Pompiers de Gironde; Thomas Cazenave (maire de Bordeaux)",
+   "ou": "Gironde (Landes, entre Biscarrosse et Sanguinet, bassin d'Arcachon, Bordeaux, Le Porge)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "France 24",
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "Risque d'évacuation de Bordeaux (dénié par le maire)"
+   ],
+   "importance": 95,
+   "empreinte": "3d42ba0c16bf51ad",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-26T14:12:46.080364+00:00"
+  },
+  {
+   "faits": [
     "Un incendie géant en Gironde progresse depuis cinq jours après s'être déclenché à Saumos",
     "Les flammes sont à 15 km de l'agglomération de Bordeaux",
     "Plus d'une dizaine de communes proches de Bordeaux ont été évacuées",
@@ -2292,6 +2322,31 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-26T12:34:09.532727+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie de forêt sévit en Espagne, notamment dans les régions de Madrid et Valence",
+    "75 000 personnes ont été évacuées en Espagne",
+    "Une personne est morte près de Valence",
+    "Le feu dépasse les capacités d'extinction selon le président de la région de Valence",
+    "Le roi Felipe VI a visité un centre d'hébergement pour personnes évacuées"
+   ],
+   "qui": "Gouvernement espagnol; Roi Felipe VI; Premier ministre espagnol",
+   "ou": "Espagne (Madrid, Valence)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "6aa27ddb0fbb0c89",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-26T14:12:46.080371+00:00"
   },
   {
    "faits": [
@@ -2386,6 +2441,29 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-26T11:10:39.965604+00:00"
+  },
+  {
+   "faits": [
+    "Le prix du carburant est repassé au-dessus de 2 euros le litre",
+    "Un nouveau week-end de chassé-croisé se profile",
+    "Plus des deux tiers des Français ont changé leurs plans en raison de cette hausse"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde",
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "3ba93a0ea4507518",
+   "score": 92,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-26T14:12:46.080379+00:00"
   },
   {
    "faits": [
@@ -2544,6 +2622,33 @@
   },
   {
    "faits": [
+    "Une voiture a percuté la foule samedi soir lors de la Gay Pride de Berlin",
+    "Un mort et une quinzaine de blessés selon un premier bilan",
+    "Un bilan révisé mentionne un mort et 29 blessés",
+    "Un Allemand de 21 ans a été interpellé, soupçonné de liens avec la mouvance islamiste et le groupe État islamique",
+    "Le gouvernement allemand a qualifié les faits d'attentat terroriste islamiste"
+   ],
+   "qui": "Suspect interpellé (Allemand, 21 ans); police allemande; gouvernement allemand",
+   "ou": "Berlin (Allemagne)",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Lien définitif avec État islamique (soupçonné)",
+    "Nombre exact de blessés (15 ou 29 mentionnés)"
+   ],
+   "importance": 75,
+   "empreinte": "8fc0c32c5302e078",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T14:12:46.079165+00:00"
+  },
+  {
+   "faits": [
     "La Roumanie a abattu un drone au-dessus de la mer Noire dimanche",
     "Le drone venait d'entrer dans l'espace aérien roumain",
     "Deux autres drones avaient déjà été abattus vendredi et samedi",
@@ -2618,56 +2723,6 @@
   },
   {
    "faits": [
-    "Incendies en Espagne, région de Madrid et provinces d'Avila et Tolède",
-    "Pires incendies de l'histoire dans ces régions",
-    "Dizaines de milliers de personnes évacuées ou confinées",
-    "Centre sportif à Las Rozas utilisé comme refuge pour évacués"
-   ],
-   "qui": null,
-   "ou": "Madrid, Avila, Tolède, Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "3653e9b6f5485a45",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T07:28:05.409780+00:00"
-  },
-  {
-   "faits": [
-    "Données géographiques du téléphone de Cédric Jubillar relancent la piste d'une possible préméditation",
-    "Données GPS du smartphone de Cédric Jubillar identifiées autour du champ de Mailhoc dans le Tarn",
-    "Restes de Delphine Aussaguel récemment retrouvés au champ de Mailhoc",
-    "Cédric Jubillar aurait consulté cette zone sur Google Maps le 5 décembre 2020",
-    "La disparition de Delphine Aussaguel date de 15 décembre 2020",
-    "Cédric Jubillar est peintre-plaquiste"
-   ],
-   "qui": "Cédric Jubillar, Delphine Aussaguel",
-   "ou": "Tarn, champ de Mailhoc, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Cédric Jubillar aurait consulté la zone sur Google Maps le 5 décembre 2020"
-   ],
-   "importance": 75,
-   "empreinte": "055218adda451f99",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T07:28:05.409933+00:00"
-  },
-  {
-   "faits": [
     "Coupe d'Afrique des Nations féminine débute au Maroc",
     "Tournoi élargi à 16 équipes pour la première fois",
     "Match d'ouverture oppose l'Algérie au Sénégal",
@@ -2712,27 +2767,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-26T09:37:52.393316+00:00"
-  },
-  {
-   "faits": [
-    "À partir du 11 août, les entreprises devront obtenir consentement des consommateurs avant démarchage téléphonique",
-    "Consentement défini comme manifestation de volonté libre, spécifique, éclairée, univoque et révocable"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "3ba93a0ea4507518",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:52.393317+00:00"
   },
   {
    "faits": [
@@ -2806,29 +2840,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-26T11:10:39.964614+00:00"
-  },
-  {
-   "faits": [
-    "Incendie au parc national des Cairngorms en Écosse depuis douze jours",
-    "Ravage plusieurs kilomètres carrés du parc",
-    "Autorités ont déclaré un « incident majeur »",
-    "Royaume-Uni confronté à plusieurs feux de forêt"
-   ],
-   "qui": "Autorités écossaises",
-   "ou": "Cairngorms, Highlands, Écosse, Royaume-Uni",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "23390919d132226d",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T07:28:05.409824+00:00"
   },
   {
    "faits": [
