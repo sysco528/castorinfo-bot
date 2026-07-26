@@ -2,7 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/inde/au-moins-19-morts-dans-le-nord-de-l-inde-apres-des-inondations-et-glissements-de-terrain_8114015.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/le-responsable-d-un-centre-equestre-du-nord-mis-en-examen-pour-viols-sur-six-personnes_8114093.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-ossements-retrouves-dans-le-tarn-apres-les-aveux-de-cedric-jubillar-sont-bien-ceux-de-son-epouse-delphine-aussaguel_8114231.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-qui-s-est-declare-a-taradeau-a-saute-en-direction-des-arcs-annonce-le-prefet-du-var_8114180.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +300,8 @@
    "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/en-gironde-le-maire-du-porge-compte-20-d-habitations-detruites-dans-sa-commune-et-evoque-un-paysage-catastrophique_8122970.html#xtor=RSS-3-[lestitres]",
    "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/un-orage-de-feu-qu-est-ce-que-le-pyrocumulonimbus-ce-phenomene-jamais-vu-en-france-observe-dans-l-incendie-en-gironde-3392173.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-suivez-l-epilogue-en-apotheose-de-la-grande-boucle-avec-une-triple-ascension-de-la-butte-montmartre_8120396.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-le-champion-du-monde-en-titre-lando-norris-signe-sa-premiere-victoire-de-la-saison-au-grand-prix-de-hongrie-devant-max-verstappen_8122964.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-le-champion-du-monde-en-titre-lando-norris-signe-sa-premiere-victoire-de-la-saison-au-grand-prix-de-hongrie-devant-max-verstappen_8122964.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde-la-prefete-incite-les-touristes-a-ne-pas-venir-alors-que-le-feu-poursuit-sa-progression_8123063.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -474,8 +474,6 @@
    "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/conjoncture/une-position-fragile-face-a-la-chine-et-aux-etats-unis-la-cour-des-comptes-appelle-la-france-a-accelerer-dans-le-quantique-20260719",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-au-bout-du-suspense-l-espagne-s-offre-une-deuxieme-etoile-face-a-l-argentine-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-l-espagnol-rodri-elu-meilleur-joueur-du-tournoi-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-trump-et-infantino-siffles-lors-de-leur-arrivee-sur-la-pelouse-pour-la-remise-du-trophee-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-en-video-le-but-du-sacre-espagnol-de-ferran-torres-20260720",
@@ -773,13 +771,11 @@
    "https://www.lefigaro.fr/sciences/spatial-aeronautique-defense-autour-de-bordeaux-des-sites-sensibles-sous-haute-surveillance-face-aux-incendies-20260726",
    "https://sante.lefigaro.fr/social/sante-publique/je-n-ai-jamais-vu-ca-au-chu-de-bordeaux-on-pousse-les-murs-pour-accueillir-les-patients-et-residents-d-ehpad-naufrages-du-feu-20260726",
    "https://www.lefigaro.fr/actualite-france/a-parentis-en-born-une-lutte-acharnee-pour-proteger-le-bourg-20260726",
-   "https://www.lefigaro.fr/sciences/incendies-en-gironde-pour-diminuer-l-intensite-des-feux-il-faut-creer-des-zones-tampon-dans-les-forets-20260726"
+   "https://www.lefigaro.fr/sciences/incendies-en-gironde-pour-diminuer-l-intensite-des-feux-il-faut-creer-des-zones-tampon-dans-les-forets-20260726",
+   "https://sante.lefigaro.fr/social/sante-publique/une-degradation-importante-de-la-qualite-de-l-air-dans-quatre-departements-du-sud-ouest-a-cause-des-incendies-20260726",
+   "https://www.lefigaro.fr/bordeaux/ca-fait-mal-au-coeur-de-voir-ca-a-bordeaux-les-refugies-des-incendies-sonnes-par-l-ampleur-des-feux-20260726"
   ],
   "https://www.france24.com/fr/rss": [
-   "d0edefde-8383-11f1-b82a-85fd1485f019",
-   "a4b4aeae-8382-11f1-a1b0-85fd1485f019",
-   "3ebc3cba-8383-11f1-ad19-85fd1485f019",
-   "2392611e-8395-11f1-b29a-51165aef559c",
    "77d1758e-83af-11f1-bdf8-3b6c0fec207b",
    "723b1ebe-83bd-11f1-ac32-972aeb226ac9",
    "d1fdd002-83a0-11f1-9474-4dbf629a4b81",
@@ -1075,10 +1071,13 @@
    "e4ef5778-88ee-11f1-a1c4-33854ea01278",
    "7d47871c-88ee-11f1-b0c6-33854ea01278",
    "295c0c74-88e2-11f1-aa8c-597bc1245c31",
-   "52fb91a8-8900-11f1-bc71-1daaea4a4731"
+   "52fb91a8-8900-11f1-bc71-1daaea4a4731",
+   "a09c67be-8907-11f1-b49c-b7a93e253e13",
+   "023e4f12-81d0-11f1-bd2e-9f2a8e948542",
+   "e53e5e2e-8905-11f1-aba0-2105def2c34c",
+   "ce904d9e-8906-11f1-8295-b7a93e253e13"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "ccf1965a-7f83-11f1-985b-8358536c0987",
    "d9672ccc-7e9a-11f1-a052-c9fcf0245687",
    "06713d90-7fa7-11f1-8a60-d5565cad0015",
    "1419b390-7fa8-11f1-8763-d5565cad0015",
@@ -1377,17 +1376,10 @@
    "4a4f846a-88c9-11f1-b7ec-2b2a6df8b1bf",
    "39b3788a-88d5-11f1-9ccb-3bda1c3a55d9",
    "2a8adfc6-88ec-11f1-9709-bbeca11b4b2c",
-   "c727f7d6-8902-11f1-bf72-8942973439f7"
+   "c727f7d6-8902-11f1-bf72-8942973439f7",
+   "2c81ddc8-8907-11f1-81c3-7760fdd76449"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/formule-1/f1-le-classement-du-championnat-du-monde-des-pilotes-apres-le-grand-prix-de-belgique-remporte-par-4c6c9b28-8371-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/faits-divers/lhomme-retranche-chez-lui-a-plabennec-a-ete-retrouve-decede-apres-avoir-mis-fin-a-ses-jours-1c3e930e-8379-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/affaire-jubillar/affaire-jubillar-les-ossements-retrouves-dans-le-tarn-sont-bien-ceux-de-delphine-jubillar-selon-les-analyses-448b6da8-81be-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/culture/musiques/un-concert-de-la-dj-barbara-butch-interrompu-par-des-militants-propalestiniens-lors-dun-festival-a-grenoble-44182034-8388-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-montagne-sprint-jeune-tous-les-classements-apres-la-15e-etape-remportee-par-remco-evenepoel-608a44ca-8385-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/papa-je-nen-peux-plus-ce-que-lon-sait-sur-les-circonstances-de-la-mort-du-footballeur-jayden-adams-06e94c54-8385-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-le-classement-de-la-15e-etape-remportee-par-remco-evenepoel-devant-tadej-pogacar-f6446256-8386-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/politique/gouvernement/entretien-loi-durgence-agricole-budget-2027-le-ministre-laurent-panifous-plaide-pour-un-compromis-au-parlement-ce5e82f2-8369-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-le-classement-general-apres-la-15e-etape-marquee-par-labandon-de-vingegaard-et-la-victoire-devenepoel-a9d81a0e-837a-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/prison/un-juge-ordonne-la-fin-des-intimidations-et-propos-racistes-et-supremacistes-a-la-prison-de-conde-sur-sarthe-ce395118-8377-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/festivals/les-vieilles-charrues/vieilles-charrues-2026-cinq-enquetes-ouvertes-pour-agressions-sexuelles-deux-personnes-placees-en-garde-a-vue-4429d848-837d-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1679,7 +1671,15 @@
    "https://www.ouest-france.fr/faits-divers/incendie/incendie-en-gironde-un-feu-avait-ravage-50-000-hectares-et-cause-la-mort-de-82-personnes-en-1949-fe71392e-88f7-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/athletisme/athletisme-samuel-vessat-sempare-du-record-de-france-du-400-m-detenu-par-leslie-djhone-22d1b080-88ff-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/running/running-ronde-des-douaniers-matthias-gourgues-et-milena-rechede-des-vainqueurs-toujours-aussi-impitoyables-22e18c22-88f9-11f1-80e5-03ffc2b22a3a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/bretagne/dinan-22100/incendie-en-gironde-la-ville-de-dinan-sera-au-rendez-vous-de-la-solidarite-assure-le-maire-didier-lechien-774a8c9e-88fb-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/bretagne/dinan-22100/incendie-en-gironde-la-ville-de-dinan-sera-au-rendez-vous-de-la-solidarite-assure-le-maire-didier-lechien-774a8c9e-88fb-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/bretagne/saint-malo-35400/jai-des-souvenirs-partout-59-ans-queric-passe-ses-etes-a-saint-malo-0e74869e-7090-11f1-b8a9-4a6626afbf8d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/girondins-de-bordeaux/incendie-en-gironde-un-defenseur-des-girondins-de-bordeaux-remercie-le-club-pour-les-solutions-de-relogement-3958e5ba-8906-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/athletisme/athletisme-le-perchiste-thibaut-collet-remporte-son-quatrieme-titre-de-champion-de-france-devant-son-frere-mathieu-f77b35da-890a-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendies-en-espagne-le-pays-connait-son-plus-important-feu-de-foret-75-000-personnes-evacuees-01bb0c54-8902-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/pompiers/je-naurais-jamais-pense-pouvoir-tenir-des-pompiers-qui-ont-lutte-contre-lincendie-en-gironde-se-livrent-c5d59e98-88de-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/culture/arts/theatre/festival-avignon/festival-davignon-une-80e-edition-qui-sacheve-sur-de-nombreuses-interrogations-027fecb8-88cb-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/formule-1/f1-le-classement-du-championnat-du-monde-des-constructeurs-apres-le-grand-prix-de-hongrie-remporte-par-lando-norris-9e6084e6-8905-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-comme-en-2025-quinn-simmons-est-elu-meilleur-coequipier-de-cette-113e-edition-1092cf74-8906-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1870,7 +1870,11 @@
    "https://www.20minutes.fr/societe/4236301-20260726-contente-etre-concert-calme-dj-barbara-butch?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/politique/4236303-20260726-presidentielle-2027-changer-systeme-bruno-maire-positionne-course-elysee?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/ukraine/4236298-20260726-guerre-ukraine-selon-zelensky-russie-reclame-renforts-massifs-coree-nord?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/planete/4236321-20260726-incendie-gironde-pourquoi-feu-sevit-actuellement-different-tous-ceux-france-deja-connu?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/planete/4236321-20260726-incendie-gironde-pourquoi-feu-sevit-actuellement-different-tous-ceux-france-deja-connu?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4236304-20260726-direct-incendies-nombre-personnes-evacuees-gironde-franchit-largement-200-000?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4236309-20260726-direct-tour-france-moins-km-trois-passages-montmartre-derniere-etape-va-envoyer-bois-suivez-bouquet-final?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/allemagne/4236323-20260726-allemagne-suspect-radicalise-victimes-enquete-sait-attaque-terroriste-pride-berlin?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4236318-20260726-guerre-ukraine-six-morts-zones-occupees-village-russe-frontalier-apres-nouvelles-frappes?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2269,6 +2273,37 @@
  "evenements_attente": [
   {
    "faits": [
+    "Incendies de très haute intensité en cours en Gironde",
+    "La préfète Sophie Brocas incite les touristes à ne pas venir en Gironde",
+    "Hausse des températures prévue à partir de mardi",
+    "Seuil d'alerte de pollution aux particules fines dépassé en Gironde, Landes, Dordogne et Lot-et-Garonne",
+    "Familles évacuées accueillies au parc des expositions de Bordeaux",
+    "Plusieurs joueurs des Girondins de Bordeaux ont dû être relogés",
+    "Pompiers des Deux-Sèvres engagés dans la lutte contre l'incendie",
+    "Pas de travail prévu lundi dans les zones évacuées"
+   ],
+   "qui": "Préfète Sophie Brocas, familles évacuées, pompiers, Girondins de Bordeaux",
+   "ou": "Gironde, Landes, Dordogne, Lot-et-Garonne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24",
+    "Ouest-France",
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "d26dad5f066f8c12",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 5,
+   "depuis": "2026-07-26T16:32:49.923532+00:00"
+  },
+  {
+   "faits": [
     "Incendie en Gironde depuis le 22 juillet 2026",
     "Environ 42 000 hectares ont brûlé",
     "Le feu progresse vers Bordeaux, atteignant des zones à 15 km de la métropole",
@@ -2389,52 +2424,6 @@
   },
   {
    "faits": [
-    "Plages du Débarquement en Normandie inscrites au patrimoine mondial de l'Unesco",
-    "Les plages furent le théâtre de la bataille du 6 juin 1944 pour libérer l'Europe du nazisme"
-   ],
-   "qui": "Unesco",
-   "ou": "Normandie, nord-ouest de la France",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "de60c014ac880412",
-   "score": 99,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-26T09:37:52.393306+00:00"
-  },
-  {
-   "faits": [
-    "Tour de France 2026 : étape finale modifiée en raison des incendies",
-    "Départ initialement prévu à Thoiry (Yvelines) transféré aux Champs-Élysées",
-    "Étape raccourcie pour soulager les forces de l'ordre mobilisées par les incendies",
-    "Parcours inclut depuis 2025 la gravissade de Montmartre trois fois avant conclusion"
-   ],
-   "qui": null,
-   "ou": "Champs-Élysées, Montmartre, Paris, Thoiry (Yvelines)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 93,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "920ad6107f1779b1",
-   "score": 98,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-26T09:37:52.393308+00:00"
-  },
-  {
-   "faits": [
     "Les plages du Débarquement en Normandie inscrites au patrimoine mondial de l'Unesco",
     "Projet aboutissant après près de 20 ans",
     "Site couvrant plus de 80 km de côtes entre la Manche et le Calvados",
@@ -2456,6 +2445,30 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-26T11:10:39.965602+00:00"
+  },
+  {
+   "faits": [
+    "Tour de France : dernière étape modifiée pour soulager les forces de l'ordre mobilisées sur les incendies",
+    "La boucle se déroulera uniquement dans Paris intra-muros",
+    "Passage attendu par Montmartre avant l'arrivée sur les Champs-Élysées",
+    "Tadej Pogačar est bien parti pour remporter cette édition du Tour"
+   ],
+   "qui": "Tadej Pogačar, organisateurs du Tour de France",
+   "ou": "Paris, Gironde",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "France 24",
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "989c92101a038aaa",
+   "score": 94,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-26T16:32:49.923542+00:00"
   },
   {
    "faits": [
@@ -2506,94 +2519,28 @@
   },
   {
    "faits": [
-    "Iran affirme que la guerre au Moyen-Orient va s'étendre si attaques américaines reprennent",
-    "Porte-parole armée iranienne Mohammad Akraminia déclare que guerre s'étendra géographiquement",
-    "Déclaration faite avant visite du Premier ministre israélien Benyamin Nétanyahou à Washington"
+    "Incendies ravagent l'Espagne depuis début juillet",
+    "75 000 personnes évacuées en Espagne",
+    "Le feu est qualifié de plus grand feu de forêt connu par l'Espagne",
+    "L'état d'urgence national a été déclaré vendredi 24 juillet",
+    "Le feu se situe au sud de Madrid",
+    "Les autorités locales estiment que des heures difficiles sont à venir"
    ],
-   "qui": "Mohammad Akraminia (porte-parole armée iranienne), Benyamin Nétanyahou (PM israélien)",
-   "ou": "Moyen-Orient, Iran, Israël, États-Unis",
-   "categorie": "international",
+   "qui": "Autorités espagnoles locales",
+   "ou": "Espagne, sud de Madrid",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 88,
    "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Guerre va s'étendre géographiquement si attaques américaines reprennent"
-   ],
-   "importance": 80,
-   "empreinte": "8030e7a9390aa096",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:52.393310+00:00"
-  },
-  {
-   "faits": [
-    "Flavio Bolsonaro (fils de Jair Bolsonaro) investi par Parti libéral brésilien pour présidentielle octobre 2026",
-    "Affrontera président sortant Luiz Inacio Lula da Silva"
-   ],
-   "qui": "Flavio Bolsonaro, Jair Bolsonaro, Luiz Inacio Lula da Silva, Parti libéral brésilien",
-   "ou": "Brésil",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "Le Monde"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "438ef0c0e9f694b4",
-   "score": 87,
-   "fiab_max": 90,
+   "importance": 85,
+   "empreinte": "a49f6ee56d6f139a",
+   "score": 85,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:52.393311+00:00"
-  },
-  {
-   "faits": [
-    "Incendies d'ampleur inédite en Algérie ayant fait 6 morts",
-    "900 départs de feu en Tunisie en 72 heures",
-    "Maroc affrontant sa quatrième vague de chaleur",
-    "Afrique du Nord touchée par des chaleurs extrêmes"
-   ],
-   "qui": null,
-   "ou": "Afrique du Nord (Algérie, Tunisie, Maroc)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "e02c44521243a924",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:52.393313+00:00"
-  },
-  {
-   "faits": [
-    "La France insoumise organise caravanes populaires tout l'été pour conquérir abstentionnistes",
-    "Militants sillonnent la France en privilégiant quartiers populaires",
-    "Objectif : encourager habitants à s'inscrire sur listes électorales",
-    "Campagne pour candidature de Jean-Luc Mélenchon pour présidentielle 2027"
-   ],
-   "qui": "La France insoumise, Jean-Luc Mélenchon",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "591a3338ac6f5217",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:52.393314+00:00"
+   "depuis": "2026-07-26T16:32:49.922546+00:00"
   },
   {
    "faits": [
@@ -2636,28 +2583,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-26T11:10:39.965611+00:00"
-  },
-  {
-   "faits": [
-    "Cérémonie commémorative dix ans après l'assassinat du père Hamel",
-    "Premier ministre Sébastien Lecornu et ancien président François Hollande présents",
-    "Maire Joachim Moyse appelle à travailler sur la fraternité"
-   ],
-   "qui": "Sébastien Lecornu (Premier ministre), François Hollande (ancien président), Joachim Moyse (maire)",
-   "ou": "Saint-Étienne-du-Rouvray",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "79505e777ee2383b",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:52.393315+00:00"
   },
   {
    "faits": [
@@ -2786,29 +2711,6 @@
   },
   {
    "faits": [
-    "Doctolib va utiliser données utilisateurs (ordonnances, antécédents, médicaments) pour recherche en IA",
-    "Programme débute en août",
-    "Objectif : améliorer parcours de soins grâce à l'intelligence artificielle",
-    "Utilisateurs peuvent s'y opposer"
-   ],
-   "qui": "Doctolib",
-   "ou": null,
-   "categorie": "sante",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "1a5386e6b09f180e",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:52.393316+00:00"
-  },
-  {
-   "faits": [
     "Un torrent de montagne a emporté des campeurs dimanche dans la province du Gansu",
     "Le torrent a été provoqué par de violentes pluies",
     "Au moins dix personnes sont mortes",
@@ -2879,6 +2781,29 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-26T11:10:39.964614+00:00"
+  },
+  {
+   "faits": [
+    "Grand Prix de Hongrie remporté par Lando Norris",
+    "McLaren décroche sa première victoire de la saison",
+    "Oscar Piastri a abandonné",
+    "Mercedes reste en tête du classement des constructeurs"
+   ],
+   "qui": "Lando Norris, McLaren, Mercedes, Oscar Piastri",
+   "ou": "Hongrie",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "d77c1a013953230c",
+   "score": 82,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T16:32:49.923551+00:00"
   },
   {
    "faits": [
@@ -2975,28 +2900,125 @@
   },
   {
    "faits": [
-    "Ukraine : Zelensky affirme que Russie veut recevoir 30 000 soldats supplémentaires de Corée du Nord",
-    "Préparatifs en cours depuis juin dans oblast russe de Voronej",
-    "Corée du Nord se préparerait à transférer lanceurs missiles balistiques supplémentaires à Russie"
+    "Thibaut Collet remporte son quatrième titre de champion de France au saut à la perche",
+    "Il a franchi 5,87 m à son ultime essai",
+    "Son frère Mathieu a également participé",
+    "Mathieu Collet a explosé son record et s'est qualifié pour l'Euro (10-16 août)"
    ],
-   "qui": "Volodymyr Zelensky, Russie, Corée du Nord",
-   "ou": "Ukraine, Russie, oblast Voronej, Corée du Nord",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 75,
+   "qui": "Thibaut Collet, Mathieu Collet",
+   "ou": "Albi, Tarn",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 92,
    "sources": [
-    "Le Monde"
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "ff278329a6059ac3",
+   "score": 81,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T16:32:49.923557+00:00"
+  },
+  {
+   "faits": [
+    "Attaque terroriste islamiste à la pride de Berlin samedi soir",
+    "Un mort et une trentaine de blessés",
+    "Le suspect est un Allemand d'origine libanaise",
+    "Le suspect est activement recherché"
+   ],
+   "qui": "Suspect Allemand d'origine libanaise (identité non confirmée)",
+   "ou": "Berlin, Allemagne",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "20 Minutes"
    ],
    "non_confirme": [
-    "Russie reçoit 30 000 soldats nord-coréens",
-    "Corée du Nord transfère lanceurs balistiques à Russie"
+    "Identité exacte du suspect"
    ],
    "importance": 80,
-   "empreinte": "434b55d07fd73fd7",
-   "score": 81,
-   "fiab_max": 90,
+   "empreinte": "b522d951b9407b1b",
+   "score": 80,
+   "fiab_max": 75,
    "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:46.600394+00:00"
+   "depuis": "2026-07-26T16:32:49.922587+00:00"
+  },
+  {
+   "faits": [
+    "Moyen-Orient : L'Iran n'a subi aucune frappe américaine pour la deuxième nuit consécutive",
+    "Des médias américains évoquent un possible manque de missiles intercepteurs Patriot américains",
+    "L'administration Trump minimise cette information",
+    "L'administration Trump se dit ouverte aux négociations",
+    "Téhéran affirme avoir suspendu ses représailles en réponse à l'arrêt des attaques américaines",
+    "Le Premier ministre israélien doit se rendre à Washington la semaine prochaine pour évoquer le conflit iranien"
+   ],
+   "qui": "Iran, États-Unis (administration Trump), Israël",
+   "ou": "Moyen-Orient, Téhéran, Washington",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 78,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Manque de missiles intercepteurs Patriot américains",
+    "Suspension confirmée des représailles iraniennes"
+   ],
+   "importance": 75,
+   "empreinte": "171fd36cb0f0cee5",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T16:32:49.922621+00:00"
+  },
+  {
+   "faits": [
+    "Pologne : le parti d'opposition PiS se déchire en interne",
+    "Élections prévues dans un peu plus d'un an",
+    "Une coalition des partis d'extrême droite est donnée gagnante face au camp du Premier ministre Donald Tusk",
+    "Une scission s'est opérée le week-end du 25-26 juillet auprès du PiS"
+   ],
+   "qui": "PiS, Donald Tusk, partis d'extrême droite polonais",
+   "ou": "Pologne",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "Certaines prédictions électorales"
+   ],
+   "importance": 65,
+   "empreinte": "b5ebbb981bfd1f5d",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T16:32:49.922790+00:00"
+  },
+  {
+   "faits": [
+    "Quinn Simmons élu meilleur coéquipier du Tour de France 2026",
+    "L'Américain de Lidl-Trek double la mise après un sacre en 2025"
+   ],
+   "qui": "Quinn Simmons, Lidl-Trek",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "d4e5695d3609e661",
+   "score": 79,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T16:32:49.923558+00:00"
   }
  ],
  "publies_48h": [
