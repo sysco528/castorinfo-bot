@@ -776,10 +776,6 @@
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-exceptionnel-van-der-poel-le-volcan-montmartre-un-gel-inutile-du-classement-les-tops-et-les-flops-de-la-21e-etape-20260726"
   ],
   "https://www.france24.com/fr/rss": [
-   "42c1b092-83b0-11f1-8dc4-a9503bbde6cd",
-   "25bed80c-83b6-11f1-94e6-a9503bbde6cd",
-   "929b4dde-83a7-11f1-a969-79ddcaecbccd",
-   "2642a9b2-83c9-11f1-b9ec-1108e2394b4c",
    "6b228d42-83c7-11f1-9fdf-4942debde5c5",
    "bb1aeda6-83bf-11f1-879f-bfe8f6e4b3dd",
    "05085eda-83de-11f1-8dfd-3743e049f8b5",
@@ -1075,7 +1071,11 @@
    "ce904d9e-8906-11f1-8295-b7a93e253e13",
    "6eca206c-88f5-11f1-be5b-9f85fd884513",
    "e986021a-891a-11f1-88e7-557b173bdfb1",
-   "f9634432-8919-11f1-bc6a-557b173bdfb1"
+   "f9634432-8919-11f1-bc6a-557b173bdfb1",
+   "1c1f1dd6-8927-11f1-91dc-2765613a3aab",
+   "0b14ae36-892f-11f1-816a-b35f243f3bc3",
+   "114a1cb8-8926-11f1-b61f-b11455daee6b",
+   "93f7abaa-891f-11f1-af9b-557b173bdfb1"
   ],
   "https://www.rfi.fr/fr/rss": [
    "1419b390-7fa8-11f1-8763-d5565cad0015",
@@ -1380,16 +1380,6 @@
    "1bd30b5a-886c-11f1-8033-e11aa620d7f6"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/faits-divers/incendie/220-pompiers-trois-maisons-detruites-vingt-hectares-brules-ce-que-lon-sait-de-lincendie-pres-de-saint-nazaire-796cd1fe-83a0-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/qui-sont-ces-joueurs-ayant-dispute-trois-finales-de-coupe-du-monde-8809db6c-83af-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/en-images-zinedine-zidane-timothee-chalamet-pharrell-williams-la-finale-de-la-coupe-du-monde-attire-les-stars-3126ed12-83a5-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-heureusement-ce-nest-quune-clavicule-cassee-jonas-vingegaard-reste-positif-apres-son-abandon-7d4f464a-83ae-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/tennis/wta/wta-250-dathenes-la-tcheque-barbora-krejcikova-domine-maria-sakkari-et-soffre-un-neuvieme-titre-63ab5c0e-83b0-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/madonna-decoit-le-playback-de-shakira-le-show-bts-on-a-note-les-artistes-du-show-de-la-finale-espagne-argentine-6b3c114a-839f-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/bretagne/cotes-d-armor/je-ne-suis-pas-un-singe-je-suis-joelle-dambo-la-crepiere-a-gomene-300-personnes-mobilisees-contre-le-racisme-2f5222b6-8398-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sante/virus-ebola/ebola-le-canada-ferme-ses-frontieres-aux-etrangers-ayant-sejourne-recemment-en-rdc-efbc49da-83b8-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/video-espagne-argentine-ferran-torres-libere-les-espagnols-en-finale-de-la-coupe-du-monde-9dfd00d8-839c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/macedoine-du-nord/macedoine-du-nord-intoxication-massive-dans-une-ville-probablement-par-leau-6f5556a4-83b0-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-vous-avez-porte-le-nom-de-lespagne-au-sommet-la-maison-royale-salue-la-victoire-de-la-roja-f5aa0ff2-83c3-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-rodri-meilleur-joueur-cubarsi-meilleur-jeune-mbappe-meilleur-buteur-le-palmares-du-mondial-27bbcad2-83c2-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/en-images-largentine-degoupille-messi-seffondre-les-espagnols-exultent-les-emotions-dune-fin-de-coupe-du-monde-66265db8-83be-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1679,7 +1669,17 @@
    "https://www.ouest-france.fr/tour-de-france/en-images-les-plus-belles-photos-et-videos-de-la-113e-edition-du-tour-de-france-3d205be4-88eb-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-jai-plus-dexperience-je-gere-mieux-mes-emotions-tadej-pogacar-une-cinquieme-victoire-facile-881e06d0-8825-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/video-tour-de-france-le-final-epique-de-la-21e-et-derniere-etape-remportee-par-mathieu-van-der-poel-face-aux-sprinteurs-21306594-891f-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-tadej-pogacar-quintuple-vainqueur-quelle-place-occupe-t-il-parmi-les-legendes-du-tour-74e888e6-88ee-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-tadej-pogacar-quintuple-vainqueur-quelle-place-occupe-t-il-parmi-les-legendes-du-tour-74e888e6-88ee-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/argentine/javier-milei/milei-accuse-bresil-mexique-et-parti-democrate-americain-davoir-finance-une-campagne-anti-argentine-f6cb0450-8930-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-ledition-2026-devient-la-plus-rapide-de-lhistoire-et-pulverise-le-precedent-record-4297a402-8908-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/athletisme/athletisme-jai-cru-que-jallais-gagner-julia-david-smith-a-confirme-chez-les-grandes-56188938-8912-11f1-80e5-03ffc2b22a3a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/fc-sochaux/ancien-milieu-de-terrain-du-fc-sochaux-montbeliard-kalilou-traore-est-mort-a-lage-de-38-ans-9d93eb8c-892a-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-des-controles-antidopage-un-peu-fous-les-premiers-mots-de-tadej-pogacar-apres-son-cinquieme-sacre-f0c7fa74-8929-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/equipe-belgique/jai-hate-de-faire-sa-connaissance-courtois-sexprime-sur-la-nomination-de-van-bommel-a-la-tete-de-la-belgique-53f7f6c8-890f-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/formule-1/f1-rageant-lewis-hamilton-a-ete-penalise-pour-un-ridicule-exces-de-vitesse-au-grand-prix-de-hongrie-3fa494f0-8929-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-jai-tout-donne-un-immense-mathieu-van-der-poel-simpose-sur-les-champs-aux-airs-de-criterium-b65cc2ea-8913-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-pas-de-victoire-pour-la-france-litalie-et-lespagne-une-premiere-en-302-grands-tours-353ee53e-8928-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-jai-grandi-je-peux-etre-fier-de-moi-remco-evenepoel-ravi-detre-deuxieme-derriere-tadej-pogacar-7b234b36-8927-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1880,7 +1880,9 @@
    "https://www.20minutes.fr/societe/4236327-20260726-canicule-meteo-france-annonce-probable-nouvelle-vague-chaleur-partir-mardi?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/israel/4236325-20260726-israel-attendu-etats-unis-netanyahou-denonce-arnaque-mandat-arret-international?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/sante/4235997-20260726-touchera-montants-americaine-comment-indemnisees-erreurs-medicales-france?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/4236330-20260726-attaque-terroriste-pride-berlin-suspect-tue-police?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/4236330-20260726-attaque-terroriste-pride-berlin-suspect-tue-police?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/faits_divers/faits-divers-lyon/4236332-20260726-loire-mere-famille-immole-feu-pleine-rue?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/economie/4236331-20260726-lvmh-apparemment-discute-bernard-arnault-dement-toute-fissure-famille?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2098,7 +2100,11 @@
    "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-et-evacuations-les-benevoles-organisent-la-distribution-de-dons-aupres-des-evacues-a-bordeaux_VN-202607260278.html",
    "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-il-faut-que-l-etat-ait-enfin-des-priorites-insiste-alain-rousset-president-du-conseil-regional-de-nouvelle-aquitaine_VN-202607260276.html",
    "https://www.bfmtv.com/environnement/climat/video-incendies-en-france-115-000-hectares-ont-ete-parcourus-par-les-flammes-depuis-le-debut-de-l-annee-annonce-laurent-nunez_VN-202607260267.html",
-   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-il-a-fallu-evacuer-le-haillan-raconte-arnaud-cormier-entraineur-adjoint-des-girondins-de-bordeaux_VN-202607260266.html"
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-il-a-fallu-evacuer-le-haillan-raconte-arnaud-cormier-entraineur-adjoint-des-girondins-de-bordeaux_VN-202607260266.html",
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-gironde-42-000-hectares-brules-et-220-000-evacues-26-07_VN-202607260296.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-hier-dans-la-nuit-on-a-commence-a-faire-nos-valises-raconte-margaux-habitante-de-leognan_VN-202607260295.html",
+   "https://www.bfmtv.com/international/europe/allemagne/attaque-contre-la-gay-pride-de-berlin-plus-aucun-blesse-n-est-en-danger-de-mort-annonce-friedrich-merz_AD-202607260292.html",
+   "https://www.bfmtv.com/environnement/climat/video-impressionnantes-flammes-a-marcheprime-on-est-encore-sur-tous-les-fronts-raconte-le-maire_VN-202607260291.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2290,6 +2296,34 @@
  "evenements_attente": [
   {
    "faits": [
+    "Incendie massif en Gironde depuis vendredi soir",
+    "42 000 hectares brûlés en Gironde",
+    "115 000 hectares parcourus par les incendies depuis le début de la saison en France",
+    "Environ 220 000 personnes évacuées",
+    "Fumées épaisses enveloppant Bordeaux",
+    "Feu aux portes de la métropole bordelaise",
+    "Nouvelles évacuations décidées samedi soir dans plusieurs communes (Cestas 55 000 habitants, Léognan, Marcheprime)",
+    "Incendie toujours non fixé dimanche 26 juillet"
+   ],
+   "qui": "Autorités locales françaises, pompiers français",
+   "ou": "Gironde, Bordeaux, Cestas, Léognan, Marcheprime",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "France 24",
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "58aca09dc2047a25",
+   "score": 100,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-26T21:09:13.722967+00:00"
+  },
+  {
+   "faits": [
     "Incendies majeurs en Gironde et Landes ayant ravagé 42 000 hectares",
     "220 000 personnes évacuées en Gironde",
     "175 maisons détruites dans le village du Porge",
@@ -2478,61 +2512,6 @@
   },
   {
    "faits": [
-    "Un incendie s'est déclaré jeudi après-midi en Gironde, entre Biscarrosse et Sanguinet, à partir d'une camionnette",
-    "42 000 hectares ont brûlé au nord du bassin d'Arcachon",
-    "220 000 personnes ont été évacuées en Gironde",
-    "Le feu se situe à environ 15 km de Bordeaux le dimanche 26 juillet",
-    "1 500 pompiers sont engagés en Gironde",
-    "L'enquête s'oriente vers un départ de feu accidentel",
-    "Le maire de Bordeaux affirme qu'aucune évacuation de la ville n'est programmée"
-   ],
-   "qui": "Pompiers de Gironde; Thomas Cazenave (maire de Bordeaux)",
-   "ou": "Gironde (Landes, entre Biscarrosse et Sanguinet, bassin d'Arcachon, Bordeaux, Le Porge)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "France 24",
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "Risque d'évacuation de Bordeaux (dénié par le maire)"
-   ],
-   "importance": 95,
-   "empreinte": "3d42ba0c16bf51ad",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-26T14:12:46.080364+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie de forêt sévit en Espagne, notamment dans les régions de Madrid et Valence",
-    "75 000 personnes ont été évacuées en Espagne",
-    "Une personne est morte près de Valence",
-    "Le feu dépasse les capacités d'extinction selon le président de la région de Valence",
-    "Le roi Felipe VI a visité un centre d'hébergement pour personnes évacuées"
-   ],
-   "qui": "Gouvernement espagnol; Roi Felipe VI; Premier ministre espagnol",
-   "ou": "Espagne (Madrid, Valence)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "6aa27ddb0fbb0c89",
-   "score": 99,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-26T14:12:46.080371+00:00"
-  },
-  {
-   "faits": [
     "Tadej Pogacar remporte son cinquième Tour de France",
     "Dernière étape raccourcie à 89 km de Montmartre aux Champs-Élysées",
     "Les temps ont été gelés au kilomètre 40,8 avant la côte de Montmartre"
@@ -2630,26 +2609,31 @@
   },
   {
    "faits": [
-    "Le prix du carburant est repassé au-dessus de 2 euros le litre",
-    "Un nouveau week-end de chassé-croisé se profile",
-    "Plus des deux tiers des Français ont changé leurs plans en raison de cette hausse"
+    "Tour de France 2026 se conclut dimanche 26 juillet",
+    "Vitesse moyenne de 43,227 km/h, la plus rapide de l'histoire du Tour",
+    "Record précédent datait de 2025",
+    "Tadej Pogacar (Slovénie, UAE Team Emirates) remporte son cinquième Tour de France",
+    "Remco Evenepoel (Belgique) deuxième du classement général avec deux victoires d'étape",
+    "Mathieu van der Poel (Pays-Bas, Alpecin-PremierTech) remporte la 21e et dernière étape",
+    "Aucune victoire pour coureurs français, italiens ou espagnols",
+    "Première fois en 302 Grands Tours depuis 1903 qu'aucun coureur de ces trois nations ne gagne",
+    "Pogacar s'est présenté aux contrôles antidopage en plein Tour"
    ],
-   "qui": null,
+   "qui": "Tadej Pogacar, Remco Evenepoel, Mathieu van der Poel",
    "ou": "France",
-   "categorie": "economie",
+   "categorie": "sport",
    "sensible": false,
    "confiance": 90,
    "sources": [
-    "Le Monde",
-    "franceinfo"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 50,
-   "empreinte": "3ba93a0ea4507518",
-   "score": 92,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-26T14:12:46.080379+00:00"
+   "importance": 85,
+   "empreinte": "ff4cc77be2d01783",
+   "score": 86,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T21:09:13.722996+00:00"
   },
   {
    "faits": [
@@ -2728,30 +2712,28 @@
   },
   {
    "faits": [
-    "Une voiture a percuté la foule samedi soir lors de la Gay Pride de Berlin",
-    "Un mort et une quinzaine de blessés selon un premier bilan",
-    "Un bilan révisé mentionne un mort et 29 blessés",
-    "Un Allemand de 21 ans a été interpellé, soupçonné de liens avec la mouvance islamiste et le groupe État islamique",
-    "Le gouvernement allemand a qualifié les faits d'attentat terroriste islamiste"
+    "Coupe d'Afrique des Nations féminine 2026 débute au Maroc",
+    "Seize sélections en lice",
+    "Nigeria champion en titre et détenteur de dix sacres continentaux",
+    "Maroc espère remporter son premier trophée",
+    "Édition qualificative pour la Coupe du monde féminine 2027",
+    "Hausse historique des dotations financières décidée par la CAF"
    ],
-   "qui": "Suspect interpellé (Allemand, 21 ans); police allemande; gouvernement allemand",
-   "ou": "Berlin (Allemagne)",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
+   "qui": "Nigeria, Maroc, sélections féminines africaines",
+   "ou": "Maroc",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
    "sources": [
     "France 24"
    ],
-   "non_confirme": [
-    "Lien définitif avec État islamique (soupçonné)",
-    "Nombre exact de blessés (15 ou 29 mentionnés)"
-   ],
-   "importance": 75,
-   "empreinte": "8fc0c32c5302e078",
-   "score": 83,
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "fe0c5d3a501fe52f",
+   "score": 82,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-26T14:12:46.079165+00:00"
+   "depuis": "2026-07-26T21:09:13.722998+00:00"
   },
   {
    "faits": [
@@ -2990,6 +2972,31 @@
   },
   {
    "faits": [
+    "Attaque à la voiture-bélier en marge de la marche des fiertés de Berlin",
+    "Date : samedi 25 juillet 2026",
+    "Bilan : un mort",
+    "Bilan : environ trente blessés",
+    "Auteur présumé tué par la police",
+    "Plus aucun blessé n'est en danger de mort selon le chancelier Friedrich Merz"
+   ],
+   "qui": "Friedrich Merz (chancelier allemand), auteur de l'attaque (décédé)",
+   "ou": "Berlin, Allemagne",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "0ec00bbf58537e00",
+   "score": 78,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T21:09:13.722226+00:00"
+  },
+  {
+   "faits": [
     "Luca Van Assche remporte l'Open d'Estoril (ATP 250) au Portugal",
     "Victoire en finale face à Alexander Blockx avec un score de 6-4, 4-6, 7-5",
     "Il s'agit du premier titre de Van Assche sur le circuit principal",
@@ -3036,26 +3043,28 @@
   },
   {
    "faits": [
-    "Attaque terroriste à la Pride de Berlin commise par un suspect allemand d'origine libanaise",
-    "L'attaque a impliqué une voiture bélier puis une machette",
-    "Le suspect était recherché depuis samedi soir",
-    "Le suspect a été tué par la police"
+    "Kalilou Traoré, ancien milieu de terrain du FC Sochaux-Montbéliard, décédé",
+    "Âge au décès : 38 ans",
+    "Date du décès : dimanche 26 juillet 2026",
+    "Cause du décès : accident de la route",
+    "Ancienne internationnale malienne",
+    "A joué pour Sochaux de 2012 à 2014"
    ],
-   "qui": "Suspect allemand d'origine libanaise",
-   "ou": "Berlin, Allemagne",
-   "categorie": "international",
+   "qui": "Kalilou Traoré, FC Sochaux-Montbéliard",
+   "ou": "Mali",
+   "categorie": "deces_personnalite",
    "sensible": true,
-   "confiance": 75,
+   "confiance": 85,
    "sources": [
-    "20 Minutes"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 80,
-   "empreinte": "a13e1aa505e125ea",
+   "importance": 50,
+   "empreinte": "6a6615c90cfdba1e",
    "score": 76,
-   "fiab_max": 75,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-26T20:00:19.231095+00:00"
+   "depuis": "2026-07-26T21:09:13.722198+00:00"
   }
  ],
  "publies_48h": [
