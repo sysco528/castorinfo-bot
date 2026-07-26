@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/venezuela/pres-d-un-mois-apres-le-double-seisme-au-venezuela-un-chat-sorti-des-decombres-par-un-etudiant-recherchant-son-amie-disparue-dans-les-decombres_8113760.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/deux-jeunes-hommes-coinces-au-sommet-de-la-cathedrale-d-orleans-ils-voulaient-faire-des-photos-avec-un-drone_8113886.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/un-ferry-a-fait-naufrage-avec-116-personnes-a-bord-au-large-des-cotes-du-guyana_8113817.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/accident/une-femme-meurt-percutee-par-une-voiture-roulant-a-une-vitesse-excessive-dans-le-2e-arrondissement-de-paris_8113901.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-ce-que-l-on-sait-de-la-nouvelle-nuit-de-bombardements-entre-l-iran-et-les-etats-unis_8113793.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/tourisme/reportage-amazing-le-telepherique-de-creteil-succes-inattendu-aupres-des-touristes-etrangers_8113715.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/culture/patrimoine/les-plages-du-debarquement-en-normandie-ont-ete-inscrites-au-patrimoine-mondial-de-l-unesco_8122673.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/dix-ans-apres-l-assassinat-du-pere-hamel-on-ne-doit-pas-rester-fige-dans-le-passe-declare-le-maire-de-saint-etienne-du-rouvray_8122652.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/cinema/nous-avons-une-relation-tres-intime-avec-l-odyssee-en-grece-des-spectateurs-curieux-de-voir-ce-que-hollywood-a-fait-de-leur-uvre_8122226.html#xtor=RSS-3-[lestitres]",
-   "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/pere-hamel-les-ceremonies-du-10e-anniversaire-a-saint-etienne-du-rouvray-a-vivre-en-direct-3390889.html#xtor=RSS-3-[lestitres]"
+   "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/pere-hamel-les-ceremonies-du-10e-anniversaire-a-saint-etienne-du-rouvray-a-vivre-en-direct-3390889.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/meme-s-ils-sont-extenues-ils-sont-la-et-ils-y-vont-la-solidarite-et-l-admiration-des-habitants-de-lege-cap-ferret-pour-les-soldats-du-feu_8122823.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-un-homme-soupconne-du-vol-de-44-bouteilles-de-grands-crus-dans-une-maison-evacuee-a-eysines-interpelle_8122859.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-le-grand-prix-de-bahrein-annule-en-avril-en-raison-de-la-guerre-au-moyen-orient-sera-organise-en-malaisie-debut-octobre_8122853.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -474,13 +474,6 @@
    "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/a-kiev-une-nuit-de-bombardements-massifs-sur-fond-de-crise-politique-20260719",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/est-ce-qu-on-reveillerait-messi-avant-la-finale-du-mondial-polemique-au-sujet-des-controles-antidopage-nocturnes-de-pogacar-et-vingegaard-20260719",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-epique-evenepoel-seixas-qui-coince-et-le-duo-pogacar-del-toro-pris-a-son-propre-piege-les-tops-et-les-flops-de-la-15e-etape-20260719",
-   "https://www.lefigaro.fr/actualite-france/var-un-incendie-provoque-des-evacuations-pres-de-draguignan-20260719",
-   "https://www.lefigaro.fr/politique/il-va-continuer-a-cultiver-son-rapport-a-l-opinion-francois-hollande-les-coulisses-d-un-retour-annonce-20260719",
-   "https://www.lefigaro.fr/politique/hollande-et-cazeneuve-passent-leur-tour-glucksmann-temporise-au-ps-la-primaire-cherche-ses-candidats-20260719",
-   "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608362/espagne-argentine",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-l-espagne-ne-change-rien-contre-l-argentine-d-un-messi-record-les-compositions-de-la-finale-20260719",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-rien-ne-nous-a-ete-offert-sur-un-plateau-l-eleve-scaloni-defie-le-maitre-de-la-fuente-20260719",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-hall-de-gare-kaka-pelouse-le-figaro-vous-plonge-dans-les-coulisses-du-metlife-stadium-theatre-de-la-finale-20260719",
@@ -773,10 +766,16 @@
    "https://www.lefigaro.fr/faits-divers/incendie-en-gironde-44-bouteilles-de-grands-crus-volees-dans-une-maison-evacuee-un-suspect-en-garde-a-vue-20260726",
    "https://www.lefigaro.fr/actualite-france/incendie-en-gironde-cinq-jours-d-enfer-du-depart-du-feu-a-la-menace-aux-abords-de-bordeaux-20260726",
    "https://www.lefigaro.fr/culture/patrimoine/les-plages-du-debarquement-en-normandie-inscrites-au-patrimoine-mondial-de-l-unesco-20260726",
-   "https://www.lefigaro.fr/culture/patrimoine/la-longue-croisade-des-chateaux-cathares-pour-conquerir-le-monde-20250517"
+   "https://www.lefigaro.fr/culture/patrimoine/la-longue-croisade-des-chateaux-cathares-pour-conquerir-le-monde-20250517",
+   "https://www.lefigaro.fr/bordeaux/incendies-avec-les-gendarmes-qui-patrouillent-dans-les-villes-evacuees-pour-eviter-les-cambriolages-20260726",
+   "https://www.lefigaro.fr/bordeaux/incendie-monstre-en-gironde-les-flammes-desormais-a-15-km-de-l-agglomeration-de-bordeaux-20260726",
+   "https://www.lefigaro.fr/faits-divers/ivry-sur-seine-un-chauffeur-de-bus-conduisant-sans-permis-et-sous-stupefiants-percute-un-pieton-20260726",
+   "https://www.lefigaro.fr/sports/football/transferts/journal-du-mercato-barcola-refuse-de-prolonger-au-psg-l-om-cible-un-defenseur-du-real-un-bourreau-des-bleus-vers-la-juventus-20260726",
+   "https://www.lefigaro.fr/international/chine-un-torrent-de-montagne-emporte-des-campeurs-et-fait-au-moins-dix-morts-20260726",
+   "https://www.lefigaro.fr/musique/le-rappeur-naza-realise-un-clip-pour-les-80-ans-d-edf-au-coeur-de-l-usine-maremotrice-de-la-rance-20260726",
+   "https://www.lefigaro.fr/livres/roger-nimier-contre-herge-la-brouille-secrete-autour-de-tintin-20260726"
   ],
   "https://www.france24.com/fr/rss": [
-   "f9dc4d9e-8362-11f1-bede-8bbf1fab4a2f",
    "2bc1e43c-8362-11f1-85b5-7920679f8e7d",
    "ba043fca-8361-11f1-bbfe-7920679f8e7d",
    "43756794-8361-11f1-be3f-1d268c19448e",
@@ -1075,7 +1074,8 @@
    "58e308a2-88cf-11f1-a274-1df37415510c",
    "9fc0b030-88cf-11f1-858c-ad70c394a75c",
    "15e6e74e-88cf-11f1-8861-1df37415510c",
-   "e96d2520-88ce-11f1-9c1c-ad70c394a75c"
+   "e96d2520-88ce-11f1-9c1c-ad70c394a75c",
+   "40a1d9e2-88d6-11f1-a729-77c0b51a317e"
   ],
   "https://www.rfi.fr/fr/rss": [
    "4c6372da-7f8b-11f1-878c-43f83f13f92f",
@@ -1380,15 +1380,6 @@
    "39b3788a-88d5-11f1-9ccb-3bda1c3a55d9"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-explosions-a-kiev-huit-morts-dans-une-attaque-ukrainienne-en-russie-le-point-sur-la-nuit-6f1d6368-82e6-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/afrique-du-sud/rdc-121-ressortissants-rapatries-apres-des-violences-xenophobes-en-afrique-du-sud-b02459c4-830f-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/justice/enquete-sur-la-mort-dune-femme-defenestree-a-nancy-2f998b54-830e-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-les-etats-unis-ciblent-une-centrale-nucleaire-liran-vise-ses-voisins-les-dernieres-infos-1dfee17a-8370-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/cyclisme/bmx/championnats-du-monde-de-bmx-racing-laustralien-asmus-sacre-le-vent-annule-les-finales-les-francais-detrones-c54864c2-837c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-la-petite-finale-france-angleterre-a-reuni-plus-de-8-6-millions-de-telespectateurs-154863a0-8378-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-affaire-balogun-pour-la-maison-blanche-intervenir-etait-un-devoir-a-legard-des-contribuables-c4176a32-8375-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/pays-de-la-loire/angers-49000/un-bagage-abandonne-entraine-un-perimetre-de-securite-au-chu-dangers-dcd6f238-8378-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://programmetv.ouest-france.fr/france-televisions-b1000/un-parcours-au-nord-du-cercle-polaire-maitena-biraben-participera-au-nouveau-jeu-daventure-de-france-televisions-5089de74-81e5-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/tennis/atp-250-de-bastad-andrey-rublev-simpose-contre-luciano-darderi-le-tenant-du-titre-9c798b1e-8379-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/didier-deschamps/equipe-de-france-didier-deschamps-a-garde-la-clef-de-sa-chambre-a-clairefontaine-58420c72-8370-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/athletisme/athletisme-je-suis-un-peu-emu-la-performance-de-thibaut-gromala-vecue-par-son-entraineur-6d149a64-8363-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1679,7 +1670,16 @@
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-21e-etape-le-profil-de-letape-du-jour-qui-part-et-arrive-aux-champs-elysees-et-qui-passe-a-montmartre-1e380bc8-65a5-11f1-bb6e-df703f58b398?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/reflexion/editorial/editorial-plages-du-d-day-un-patrimoine-deja-mondial-8fde7dc2-8763-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/bretagne/langue-bretonne/brezhoneg/yaouankiz-er-vro-ar-raktres-man-a-ziskouez-eman-bev-ar-brezhoneg-35e4644e-8123-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/equipe-argentine/kit-de-mate-gourde-stanley-lionel-messi-offre-des-cadeaux-a-ses-coequipiers-de-largentine-apres-la-coupe-du-monde-bf87457a-88d7-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/football/equipe-argentine/kit-de-mate-gourde-stanley-lionel-messi-offre-des-cadeaux-a-ses-coequipiers-de-largentine-apres-la-coupe-du-monde-bf87457a-88d7-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/meteo/meteo-risque-de-canicule-eleve-41-c-attendus-a-bordeaux-a-quoi-sattendre-pour-la-semaine-a-venir-e57e61dc-88d2-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/gastronomie/restaurants/vous-ne-savez-pas-qui-est-mon-mari-au-restaurant-la-cliente-monte-sur-ses-grands-chevaux-puis-tombe-de-haut-a420ef44-8502-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://programmetv.ouest-france.fr/divers/telerealite/drag-race-france-une-seule-sera-la-reine-m217420991/il-a-un-pouvoir-pedagogique-face-aux-critiques-daphne-buerki-defend-la-place-de-drag-race-france-sur-france-2-392f22c8-874b-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/organismes-internationaux/unesco/mont-olympe-en-grece-theatres-en-italie-quels-sites-ont-ete-inscrits-au-patrimoine-mondial-de-lunesco-en-2026-ec482bec-88cd-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/football-avant-sa-probable-nomination-comme-selectionneur-de-litalie-pirlo-secoue-pour-ses-liens-avec-la-russie-056129ae-88cd-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-on-connait-le-nom-du-super-combatif-de-ledition-2026-f98a77fe-88d9-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-paul-seixas-etait-amoindri-avant-le-depart-de-la-grande-boucle-490461a6-88d9-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/bretagne/quimper-29000/cest-quoi-exactement-la-faience-de-quimper-022a68d0-707d-11f1-a6cc-3a2a661228b1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/pays-de-la-loire/maine-et-loire/les-pompiers-appeles-pour-une-maison-en-feu-a-valanjou-91e35f6a-885e-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2268,6 +2268,33 @@
  "evenements_attente": [
   {
    "faits": [
+    "Un incendie géant en Gironde progresse depuis cinq jours après s'être déclenché à Saumos",
+    "Les flammes sont à 15 km de l'agglomération de Bordeaux",
+    "Plus d'une dizaine de communes proches de Bordeaux ont été évacuées",
+    "Le maire de Bordeaux Thomas Cazenave affirme que l'évacuation de Bordeaux n'est pas à l'ordre du jour",
+    "Les gendarmes patrouillent dans les villes évacuées pour éviter les cambriolages",
+    "Un homme a été interpellé après le vol de 44 bouteilles de grands crus dans une maison évacuée",
+    "Les habitants de Lège-Cap-Ferret soutiennent les pompiers via un poste de ravitaillement"
+   ],
+   "qui": "Pompiers, gendarmes, habitants de Gironde, maire Thomas Cazenave",
+   "ou": "Gironde, Saumos, Lège-Cap-Ferret, agglomération de Bordeaux",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 92,
+   "empreinte": "3eb62abe56e5e655",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-26T12:34:09.532727+00:00"
+  },
+  {
+   "faits": [
     "Plages du Débarquement en Normandie inscrites au patrimoine mondial de l'Unesco",
     "Les plages furent le théâtre de la bataille du 6 juin 1944 pour libérer l'Europe du nazisme"
    ],
@@ -2453,6 +2480,27 @@
   },
   {
    "faits": [
+    "Le Grand Prix de Bahreïn, annulé en avril en raison de la guerre au Moyen-Orient, sera organisé en Malaisie début octobre",
+    "La F1 et la Fédération internationale de l'automobile ont annoncé la nouvelle dimanche"
+   ],
+   "qui": "Fédération internationale de l'automobile, F1",
+   "ou": "Malaisie",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "dd6f9c275206a97f",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T12:34:09.532744+00:00"
+  },
+  {
+   "faits": [
     "Commémoration du 10e anniversaire de l'attentat de Saint-Étienne-du-Rouvray",
     "Le père Jacques Hamel a été tué lors de cet attentat dans son église"
    ],
@@ -2493,6 +2541,30 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-26T09:37:52.393315+00:00"
+  },
+  {
+   "faits": [
+    "La Roumanie a abattu un drone au-dessus de la mer Noire dimanche",
+    "Le drone venait d'entrer dans l'espace aérien roumain",
+    "Deux autres drones avaient déjà été abattus vendredi et samedi",
+    "L'un des drones a été identifié comme un drone Shahed utilisé par la Russie",
+    "La Roumanie fustige la Russie"
+   ],
+   "qui": "Roumanie, Russie",
+   "ou": "Espace aérien roumain, mer Noire",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "879eadd6ed08d4f7",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T12:34:09.531456+00:00"
   },
   {
    "faits": [
@@ -2664,6 +2736,29 @@
   },
   {
    "faits": [
+    "Un torrent de montagne a emporté des campeurs dimanche dans la province du Gansu",
+    "Le torrent a été provoqué par de violentes pluies",
+    "Au moins dix personnes sont mortes",
+    "Cent soixante-quatorze personnes ont pu être secourues"
+   ],
+   "qui": null,
+   "ou": "Province du Gansu, Chine",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "c527bf625190f89f",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T12:34:09.531505+00:00"
+  },
+  {
+   "faits": [
     "Flávio Bolsonaro investi candidat à la présidentielle d'octobre au Brésil",
     "Il affronte le chef d'État sortant Lula",
     "Soutenu par une partie de la droite brésilienne et par Javier Milei",
@@ -2784,6 +2879,30 @@
   },
   {
    "faits": [
+    "Une canicule élevée est attendue à partir de mercredi 29 juillet",
+    "Le thermomètre atteindra 40 °C dans le sud de la France à partir de mercredi",
+    "41 °C sont attendus à Bordeaux",
+    "Les températures ne descendront pas en dessous de 20 °C la nuit pour la moitié sud",
+    "Météo France estime que le risque canicule est élevé"
+   ],
+   "qui": "Météo France",
+   "ou": "France, particulièrement sud et Bordeaux",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "9408dd5e5aff33c1",
+   "score": 81,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T12:34:09.531542+00:00"
+  },
+  {
+   "faits": [
     "Ukraine : Zelensky affirme que Russie veut recevoir 30 000 soldats supplémentaires de Corée du Nord",
     "Préparatifs en cours depuis juin dans oblast russe de Voronej",
     "Corée du Nord se préparerait à transférer lanceurs missiles balistiques supplémentaires à Russie"
@@ -2852,131 +2971,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-26T09:37:52.393318+00:00"
-  },
-  {
-   "faits": [
-    "Président du Sénégal Bassirou Diomaye Faye a lancé un nouveau parti politique",
-    "Rupture avec l'ex-Premier ministre Ousmane Sonko",
-    "Les deux hommes appartenaient au parti Pastef",
-    "Pastef a porté Faye au pouvoir en 2024"
-   ],
-   "qui": "Bassirou Diomaye Faye, Ousmane Sonko",
-   "ou": "Sénégal, Dakar",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "6383f22df5f3485d",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T11:10:39.965625+00:00"
-  },
-  {
-   "faits": [
-    "Rebelles du Yémen (Houthis) ont annoncé un blocus maritime de l'Arabie saoudite en mer Rouge",
-    "Les Houthis ont ciblé deux pétroliers saoudiens mercredi",
-    "Téhéran cherche à renforcer les moyens de ses alliés houthis",
-    "Objectif : perturber le trafic en mer Rouge"
-   ],
-   "qui": "Rebelles du Yémen (Houthis), Arabie saoudite, Téhéran",
-   "ou": "Mer Rouge, Yémen, Arabie saoudite, Iran",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Téhéran cherche à renforcer les moyens des Houthis"
-   ],
-   "importance": 65,
-   "empreinte": "2ea7bd712e7c116c",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T07:28:21.071208+00:00"
-  },
-  {
-   "faits": [
-    "Près de 2 500 personnes ont manifesté samedi à Tunis",
-    "Manifestation cinq ans après le coup de force du président Kaïs Saïed",
-    "Protestations contre un recul des droits et des libertés",
-    "Protestations contre la détérioration des conditions de vie",
-    "Vague de chaleur en Tunisie",
-    "Coupures de courant programmées partout dans le pays",
-    "Coupures suscitent colère et inquiétude, notamment pour les hôpitaux"
-   ],
-   "qui": "Manifestants, président Kaïs Saïed",
-   "ou": "Tunis, Tunisie",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "f5a560e9bd9aa3a7",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T07:28:21.071212+00:00"
-  },
-  {
-   "faits": [
-    "Conflit au Moyen-Orient : analyse comparative entre intervention française en 2006 et syrienne en 2026 concernant désarmement du Hezbollah",
-    "Désarmement de la milice pro-iranienne n'a pas été imposé par France en 2006",
-    "Ne sera pas imposé par Syrie en 2026 malgré pressions d'Israël et États-Unis"
-   ],
-   "qui": "France, Syrie, Israël, États-Unis, Hezbollah",
-   "ou": "Moyen-Orient",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Syrie imposera ou non désarmement du Hezbollah en 2026"
-   ],
-   "importance": 70,
-   "empreinte": "6c18ebd630a39721",
-   "score": 79,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T09:37:46.600306+00:00"
-  },
-  {
-   "faits": [
-    "Iran a déclaré avoir réalisé des progrés dans les négociations avec Oman",
-    "Négociations concernent la gestion du détroit d'Ormuz",
-    "États-Unis ont repris leurs attaques contre l'Iran",
-    "Objectif américain : mettre fin au contrôle exercé par Téhéran sur le détroit",
-    "Protocole d'accord signé en juin visant à mettre fin à la guerre",
-    "Accord avait brièvement apaisé les tensions"
-   ],
-   "qui": "Iran, Oman, États-Unis",
-   "ou": "Détroit d'Ormuz, Moyen-Orient",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 78,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "Progrès réalisés lors des pourparlers"
-   ],
-   "importance": 65,
-   "empreinte": "67fb1be33cf8e9d3",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T07:28:21.071215+00:00"
   }
  ],
  "publies_48h": [
