@@ -6935,3 +6935,31 @@
 {"decision": "controle", "evt": "99d71d1ed3496c79", "motif": "ok_sim_0.21+alerte_retrogradee", "ts": "2026-07-25T23:46:02+00:00"}
 {"decision": "publie", "empreinte": "25a32ab24079b0bf", "post_id": "2081164103653974033", "carte": true, "texte": "🔴 ALERTE — Un incendie d'ampleur inédite se propage en Gironde vers Bordeaux depuis mercredi. Sept communes évacuées préventivement, 30 000 personnes près de Biscarrosse. Le feu reste samedi soir non maîtrisé. L'A400M larguant pour la première fois.", "ts": "2026-07-25T23:46:03+00:00"}
 {"decision": "publie", "empreinte": "0b4a2efd6732e4c7", "post_id": "2081164120829657543", "carte": true, "texte": "⚡ FLASH — Des incendies ravagent la France et l'Espagne. En Gironde, près de 260 000 personnes évacuées, le feu sévit depuis mercredi. Madrid connaît son pire incendie. Foyers actifs aussi dans le Var et en Corse. (France 24, BFMTV)", "ts": "2026-07-25T23:46:07+00:00"}
+{"decision": "abandon_attente", "evt": "6102ef2511e3f889", "categorie": "politique", "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "abandon_attente", "evt": "746921313c42eea0", "categorie": "sport", "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "abandon_attente", "evt": "2bffa308768d5f85", "categorie": "international", "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "attente", "evt": "a50a444f259da0b7", "score": 75, "categorie": "politique", "sensible": true, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "64aba3d23c757fff", "score": 92, "categorie": "faits_divers", "sensible": true, "confiance": 85, "sources": ["Le Figaro", "RFI", "20 Minutes", "BFMTV"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "57f990413e3b30ef", "score": 90, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France", "L'Équipe"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "attente", "evt": "bbed6447026a0a89", "score": 87, "categorie": "faits_divers", "sensible": true, "confiance": 90, "sources": ["France 24"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "attente", "evt": "0bddedd2dda59040", "score": 87, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "ab60352a2021601f", "score": 87, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Ouest-France", "L'Équipe"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "7c26729c39ea4b94", "score": 87, "categorie": "faits_divers", "sensible": true, "confiance": 92, "sources": ["franceinfo"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "attente", "evt": "4686918833223e44", "score": 84, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "eb18d1f12e49f2f3", "score": 84, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "attente", "evt": "d36ef42ad6aa1c9f", "score": 83, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "attente", "evt": "4c5b89701b11d693", "score": 81, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "2c27d59eb0e012fe", "score": 81, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "bcd90c916ff9f432", "score": 81, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "fa290f9c52b0e522", "score": 81, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["Ouest-France"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "attente", "evt": "88b4d16e35fa43ec", "score": 80, "categorie": "faits_divers", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "a33000aebd0c1a8a", "score": 80, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["20 Minutes"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "attente", "evt": "2c56354ffd292a8b", "score": 79, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 78, "sources": ["BFMTV"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "attente", "evt": "5ba7ee50e956edd2", "score": 79, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["France 24"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "0fd76d3be7244a4e", "score": 77, "categorie": "sciences", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "attente", "evt": "a9bab6a745e0748b", "score": 75, "categorie": "politique", "sensible": true, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "publier", "evt": "4fef1ef1ddbb67fc", "score": 75, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-26T01:18:23+00:00"}
+{"decision": "controle", "evt": "64aba3d23c757fff", "motif": "ok_sim_0.00", "ts": "2026-07-26T01:18:27+00:00"}
+{"decision": "controle", "evt": "57f990413e3b30ef", "motif": "ok_sim_0.17", "ts": "2026-07-26T01:18:29+00:00"}
+{"decision": "publie", "empreinte": "b2f5819e4b5b6550", "post_id": "2081187370565570957", "carte": true, "texte": "🇩🇪 Plusieurs personnes blessées samedi lors de la gay pride à Berlin. Elles auraient été percutées par une voiture dans le parc Tiergarten. Le ou les auteurs sont en fuite. La police les recherche activement.", "ts": "2026-07-26T01:18:30+00:00"}
+{"decision": "publie", "empreinte": "21b70ac9856b5f1b", "post_id": "2081187387477033240", "carte": true, "texte": "⚽ L'AS Monaco s'est inclinée 0-2 face au Sporting Portugal samedi à Lisbonne, en match amical de préparation. Paul Pogba et Ansu Fati n'ont pas participé à la rencontre. (Ouest-France, L'Équipe)", "ts": "2026-07-26T01:18:34+00:00"}

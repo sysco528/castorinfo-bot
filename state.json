@@ -1368,7 +1368,6 @@
    "cbcde8a6-880b-11f1-bbf2-81f4c6a80390"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/kylian-mbappe-rejoint-lionel-messi-au-classement-des-meilleurs-buteurs-de-lhistoire-de-la-coupe-du-monde-97e838e4-7f9f-11f1-a2c0-b0e90323cd29?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/video-le-troisieme-but-signe-saka-les-bleus-sombrent-completement-contre-langleterre-aedefbae-82ed-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/canada/feux-le-dirigeant-de-lontario-juge-les-critiques-des-etats-unis-inacceptables-ba576bde-82f1-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-le-classement-des-buteurs-et-des-passeurs-apres-la-deuxieme-journee-de-la-phase-de-groupes-du-mondial-a0760aca-6b51-11f1-a3cf-41dac410473f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1667,7 +1666,8 @@
    "https://www.ouest-france.fr/sport/football/monaco/amical-sans-paul-pogba-ni-ansu-fati-las-monaco-sincline-face-au-sporting-portugal-33781108-8865-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-je-ne-vais-plus-courir-tres-longtemps-et-del-toro-pourrait-me-remplacer-laveu-de-tadej-pogacar-9a35a33a-8863-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/tunisie/tunisie-manifestations-contre-le-pouvoir-et-la-degradation-des-conditions-de-vie-aaa5d35e-886b-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/lgbt/gay-pride-a-berlin-plusieurs-blesses-probablement-percutes-par-une-voiture-2e37ae76-886d-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/societe/lgbt/gay-pride-a-berlin-plusieurs-blesses-probablement-percutes-par-une-voiture-2e37ae76-886d-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/senegal/senegal-le-president-lance-son-nouveau-parti-la-rupture-consommee-avec-son-ex-premier-ministre-22a37560-8884-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2250,62 +2250,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "Plusieurs personnes ont été blessées lors de la gay pride à Berlin samedi soir",
-    "Les blessés ont probablement été percutés par une voiture",
-    "L'incident s'est déroulé dans le parc Tiergarten ou en marge de la marche des fiertés",
-    "Le ou les auteurs sont en fuite",
-    "Les organisateurs ont appelé les participants à rentrer chez eux",
-    "La police recherche activement les personnes soupçonnées d'être impliquées"
-   ],
-   "qui": "Police de Berlin",
-   "ou": "Berlin, parc Tiergarten, Allemagne",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro",
-    "RFI",
-    "20 Minutes",
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Nature exacte du véhicule",
-    "Nombre précis de blessés",
-    "Identité et motifs du ou des auteurs"
-   ],
-   "importance": 70,
-   "empreinte": "64aba3d23c757fff",
-   "score": 92,
-   "fiab_max": 85,
-   "nb_sources": 4,
-   "depuis": "2026-07-25T21:40:25.828997+00:00"
-  },
-  {
-   "faits": [
-    "L'AS Monaco s'est inclinée face au Sporting Portugal (0-2) samedi 25 juillet en match amical",
-    "Paul Pogba et Ansu Fati n'ont pas participé au match",
-    "C'était le deuxième match de préparation de Monaco",
-    "Le match s'est déroulé à Lisbonne"
-   ],
-   "qui": "AS Monaco, Sporting Portugal",
-   "ou": "Lisbonne, Portugal",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Ouest-France",
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "57f990413e3b30ef",
-   "score": 90,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-25T21:40:25.828998+00:00"
-  },
-  {
-   "faits": [
     "Un utilitaire a percuté la foule lors de la Marche des fiertés à Berlin samedi 25 juillet",
     "Un mort et 16 blessés sont à déplorer (dont 11 graves)",
     "Le véhicule a été abandonné sur place",
@@ -2351,78 +2295,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-25T21:40:25.828165+00:00"
-  },
-  {
-   "faits": [
-    "Le RC Strasbourg s'est incliné face à Blackburn (0-2) samedi 25 juillet",
-    "C'est le deuxième match amical du RC Strasbourg de l'été",
-    "Le RC Strasbourg avait perdu 0-7 face au Sporting Lisbonne lors de son premier match amical",
-    "L'équipe de Strasbourg n'a pas encore marqué le moindre but en match amical",
-    "Hugo Oliveira est l'entraîneur du RC Strasbourg",
-    "Samuel Amo-Ameyaw a raté un penalty pour Strasbourg"
-   ],
-   "qui": "RC Strasbourg, Blackburn",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France",
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "ab60352a2021601f",
-   "score": 87,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-25T20:38:48.856114+00:00"
-  },
-  {
-   "faits": [
-    "Environ 9 000 habitants évacués à Choisy-le-Roi (Val-de-Marne) samedi matin",
-    "Évacuation des quartiers du Port et des Navigateurs",
-    "Une bombe de 500 kg datant de la Seconde Guerre mondiale découverte sur un chantier",
-    "Opération de déminage menée en deux étapes par les démineurs",
-    "Retour des riverains attendu en début de soirée"
-   ],
-   "qui": "Démineurs, habitants du Val-de-Marne",
-   "ou": "Choisy-le-Roi (Val-de-Marne)",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "7c26729c39ea4b94",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T19:50:38.799164+00:00"
-  },
-  {
-   "faits": [
-    "Flavio Bolsonaro, sénateur et fils de l'ex-président Jair Bolsonaro, investi candidat pour la présidentielle d'octobre par le Parti libéral",
-    "Jair Bolsonaro est détenu pour tentative de coup d'État",
-    "Convention du Parti libéral à Sao Paulo"
-   ],
-   "qui": "Flavio Bolsonaro, Parti libéral brésilien",
-   "ou": "Brésil, Sao Paulo",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "6102ef2511e3f889",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T18:32:46.959725+00:00"
   },
   {
    "faits": [
@@ -2499,28 +2371,6 @@
   },
   {
    "faits": [
-    "Richard Carapaz remporte la 20e étape du Tour de France entre Bourg d'Oisans et l'Alpe d'Huez",
-    "Deuxième victoire en trois jours pour Richard Carapaz",
-    "Carapaz assuré d'être le meilleur grimpeur de cette 113e édition"
-   ],
-   "qui": "Richard Carapaz, EF Education - EasyPost",
-   "ou": "Tour de France, Alpe d'Huez",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "746921313c42eea0",
-   "score": 82,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T18:32:46.959728+00:00"
-  },
-  {
-   "faits": [
     "Flavio Bolsonaro, fils de Jair Bolsonaro, a été investi candidat à l'élection présidentielle brésilienne d'octobre 2026",
     "Flavio Bolsonaro se présente contre le président Lula",
     "Il s'est assumé en héritier de son père",
@@ -2541,28 +2391,6 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-25T21:40:25.828268+00:00"
-  },
-  {
-   "faits": [
-    "Au moins 20 personnes tuées en Ukraine et en Russie le 25 juillet",
-    "Le dirigeant du Kazakhstan Kassym-Jomart Tokaïev a dit au président russe que le conflit devait s'arrêter",
-    "Au moins 15 Panaméens ont été recrutés pour participer à la guerre en Ukraine"
-   ],
-   "qui": null,
-   "ou": "Ukraine, Russie, Kazakhstan, Panama",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "2bffa308768d5f85",
-   "score": 81,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T18:32:46.958532+00:00"
   },
   {
    "faits": [
@@ -2754,6 +2582,30 @@
   },
   {
    "faits": [
+    "Le président sénégalais Bassirou Diomaye Faye a lancé un nouveau parti politique le 25 juillet 2026 à Dakar",
+    "Cette création de parti marque une rupture avec l'ex-Premier ministre Ousmane Sonko",
+    "La fracture politique entre les deux figures est désormais officielle"
+   ],
+   "qui": "Bassirou Diomaye Faye (président du Sénégal), Ousmane Sonko (ex-Premier ministre)",
+   "ou": "Sénégal, Dakar",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "Les détails du programme ou de la composition du nouveau parti"
+   ],
+   "importance": 65,
+   "empreinte": "a50a444f259da0b7",
+   "score": 75,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T01:18:23.464269+00:00"
+  },
+  {
+   "faits": [
     "Manifestations en Tunisie contre le pouvoir et la dégradation des conditions de vie",
     "L'opposition et des ONG dénoncent un recul des droits et libertés sous la présidence de Kais Saied",
     "Kais Saied est président de la Tunisie depuis 2019"
@@ -2798,14 +2650,6 @@
   }
  ],
  "publies_48h": [
-  [
-   "ebadb6b2943dd383",
-   "2026-07-24T01:03:18.789893+00:00"
-  ],
-  [
-   "8a32d222ed4df0ce",
-   "2026-07-24T01:03:22.782265+00:00"
-  ],
   [
    "1939a4f583fa5deb",
    "2026-07-24T04:27:29.977718+00:00"
@@ -2877,17 +2721,17 @@
   [
    "0b4a2efd6732e4c7",
    "2026-07-25T23:46:07.605969+00:00"
+  ],
+  [
+   "b2f5819e4b5b6550",
+   "2026-07-26T01:18:30.717730+00:00"
+  ],
+  [
+   "21b70ac9856b5f1b",
+   "2026-07-26T01:18:34.713102+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "f7745f986de5d731",
-   "2026-07-24T01:03:12.389389+00:00"
-  ],
-  [
-   "cb36f6ee44cc163d",
-   "2026-07-24T01:03:17.762182+00:00"
-  ],
   [
    "9e3ad471c3d12490",
    "2026-07-24T04:27:23.609202+00:00"
@@ -2959,18 +2803,28 @@
   [
    "99d71d1ed3496c79",
    "2026-07-25T23:46:02.162130+00:00"
+  ],
+  [
+   "64aba3d23c757fff",
+   "2026-07-26T01:18:27.797752+00:00"
+  ],
+  [
+   "57f990413e3b30ef",
+   "2026-07-26T01:18:29.591503+00:00"
   ]
  ],
  "depeches_du_jour": [
   "🔴 ALERTE — Environ 8 000 nouvelles évacuations ordonnées en Gironde samedi. L'incendie qui sévit depuis mercredi a pris une ampleur inédite, poussé vers Bordeaux par le vent, avec de violentes reprises de feu observées. (franceinfo)",
   "🌡️ Trois hommes arrêtés en Gironde pour les incendies. Deux ont tiré des feux d'artifice, un a mis le feu à des arbustes. Plus de 32.000 hectares brûlés. Biscarrosse ravagée : 105 habitations détruites, 6.000 personnes évacuées.",
   "🔴 ALERTE — Un incendie d'ampleur inédite se propage en Gironde vers Bordeaux depuis mercredi. Sept communes évacuées préventivement, 30 000 personnes près de Biscarrosse. Le feu reste samedi soir non maîtrisé. L'A400M larguant pour la première fois.",
-  "⚡ FLASH — Des incendies ravagent la France et l'Espagne. En Gironde, près de 260 000 personnes évacuées, le feu sévit depuis mercredi. Madrid connaît son pire incendie. Foyers actifs aussi dans le Var et en Corse. (France 24, BFMTV)"
+  "⚡ FLASH — Des incendies ravagent la France et l'Espagne. En Gironde, près de 260 000 personnes évacuées, le feu sévit depuis mercredi. Madrid connaît son pire incendie. Foyers actifs aussi dans le Var et en Corse. (France 24, BFMTV)",
+  "🇩🇪 Plusieurs personnes blessées samedi lors de la gay pride à Berlin. Elles auraient été percutées par une voiture dans le parc Tiergarten. Le ou les auteurs sont en fuite. La police les recherche activement.",
+  "⚽ L'AS Monaco s'est inclinée 0-2 face au Sporting Portugal samedi à Lisbonne, en match amical de préparation. Paul Pogba et Ansu Fati n'ont pas participé à la rencontre. (Ouest-France, L'Équipe)"
  ],
  "recap_date": "2026-07-25",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-26",
-  "publies": 4
+  "publies": 6
  }
 }
