@@ -2,14 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-bombardent-a-nouveau-l-iran-apres-la-mort-de-deux-soldats-americains-dans-une-base-militaire-en-jordanie_8113670.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-bombarde-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-1-mort-et-13-blesses-recenses_8113676.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/ni-juste-ni-equitable-l-argentine-a-t-elle-ete-favorisee-par-l-arbitrage-pendant-la-coupe-du-monde_8111363.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-grosse-etape-de-montagne-pour-une-explication-entre-pogacar-et-les-outsiders-sur-l-inedit-plateau-de-solaison-l-etape-15-en-questions_8110034.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement-sexuel/l-influenceur-masculiniste-andrew-tate-et-son-frere-tristan-arretes-aux-etats-unis-a-la-demande-du-royaume-uni-qui-reclame-leur-extradition_8113703.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-surveillance-de-masse-analyses-des-messages-fin-du-chiffrement-on-a-verifie-six-affirmations-autour-de-la-prolongation-de-chat-control-dans-l-union-europeenne_8105960.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-on-a-tous-chiale-en-arrivant-dans-la-foret-de-fontainebleau-la-desolation-apres-l-incendie-qui-a-ravage-la-faune-et-la-flore_8111318.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/infographie-185-matchs-diriges-20-victoires-en-coupe-du-monde-89-joueurs-lances-les-stats-folles-de-didier-deschamps-avec-les-bleus_8108993.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/dons-reconditionnement-recyclage-le-secteur-de-la-mode-a-desormais-l-interdiction-de-detruire-les-vetements-et-chaussures-invendus_8113049.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/foot/equipe-de-france/hugo-lloris-paul-pogba-benjamin-pavard-le-onze-des-joueurs-les-plus-utilises-par-didier-deschamps-en-tant-que-selectionneur-de-l-equipe-de-france_8108630.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/furie-totale-l-exploit-amer-de-mbappe-a-zidane-de-jouer-la-presse-francaise-et-etrangere-revient-sur-la-defaite-de-l-equipe-de-france-lors-de-la-petite-finale-contre-l-angleterre_8113724.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +293,15 @@
    "https://www.franceinfo.fr/monde/bresil/au-bresil-flavio-bolsonaro-investi-candidat-pour-la-presidentielle-d-octobre-par-le-principal-parti-de-droite_8122241.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-sud-ouest-la-vitesse-de-circulation-abaissee-dans-huit-departements-en-raison-de-la-pollution-de-l-air_8122325.html#xtor=RSS-3-[lestitres]",
    "https://france3-regions.franceinfo.fr/paris-ile-de-france/val-de-marne/9-000-habitants-evacues-pour-le-deminage-d-une-bombe-de-500-kg-datant-de-la-seconde-guerre-mondiale-3392047.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-gironde-environ-8-000-nouvelles-evacuations-ordonnees-pres-de-bordeaux-au-regard-de-la-progression-du-feu-annonce-la-prefecture_8122355.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-gironde-environ-8-000-nouvelles-evacuations-ordonnees-pres-de-bordeaux-au-regard-de-la-progression-du-feu-annonce-la-prefecture_8122355.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-42-000-hectares-de-surface-brulee-et-220-000-personnes-evacuees_8122586.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-centrales-nucleaires-qui-se-deplacent-vitesse-de-propagation-surface-brulee-peut-on-parler-de-megafeux-en-gironde_8121788.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-en-gironde-sera-long-a-combattre-previent-le-ministre-de-l-interieur_8122613.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/terrorisme/saint-etienne-du-rouvray/dix-ans-apres-la-france-rend-hommage-au-pere-hamel-tue-dans-un-attentat-a-saint-etienne-du-rouvray_8122601.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/allemagne/un-vehicule-fonce-dans-la-foule-a-la-gay-pride-de-berlin-faisant-un-mort-et-16-blesses_8122580.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-la-revanche-de-tadej-pogacar-dans-la-butte-montmartre-les-horaires-le-parcours-la-21e-et-derniere-etape-ecourtee-en-questions_8118059.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/teheran-cherche-t-il-a-renforcer-les-moyens-de-ses-allies-houthis-afin-de-perturber-le-trafic-en-mer-rouge_8120726.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/pourquoi-les-donnees-geographiques-du-telephone-de-cedric-jubillar-relancent-la-piste-d-une-possible-premeditation-du-meurtre-de-son-epouse_8116580.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -462,10 +462,6 @@
    "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/formule-1/formule-1-vainqueur-devant-leclerc-en-belgique-antonelli-retrouve-le-succes-a-spa-et-reprend-ses-distances-avec-russell-20260719",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-catastrophe-pour-jonas-vingegaard-qui-abandonne-sa-chute-en-video-20260719",
-   "https://www.lefigaro.fr/faits-divers/ils-ont-fait-de-moi-ce-qu-ils-voulaient-rattrape-par-les-accusations-de-mannequins-gerald-marie-ancien-golden-boy-d-elite-et-nouvelle-figure-d-un-systeme-d-exploitation-sexuelle-20260719",
-   "https://www.lefigaro.fr/faits-divers/paris-une-femme-meurt-percutee-par-une-voiture-qui-roulait-a-plus-de-100-km-h-pres-d-opera-20260719",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-apres-l-abandon-de-vingegaard-evenepoel-s-offre-pogacar-au-plateau-de-solaison-seixas-perd-son-maillot-blanc-20260719",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-pogacar-toujours-en-jaune-evenepoel-et-del-toro-s-affirment-sur-le-podium-vingegaard-perd-tout-le-classement-general-apres-la-15e-etape-20260719",
    "https://www.lefigaro.fr/international/etats-unis-deux-hommes-decouvrent-a-38-ans-avoir-ete-echanges-a-la-naissance-et-portent-plainte-contre-l-hopital-20260719",
@@ -761,10 +757,13 @@
    "https://www.lefigaro.fr/flash-actu/haute-corse-un-incendie-tres-virulent-se-declare-entre-furiani-et-biguglia-20260725",
    "https://www.lefigaro.fr/bordeaux/nous-allons-faire-ce-qu-on-attend-de-nous-en-gironde-et-dans-les-landes-les-pompiers-luttent-sans-relache-20260725",
    "https://www.lefigaro.fr/international/allemagne-plusieurs-blesses-en-marge-de-la-gay-pride-a-berlin-apres-un-probable-incident-impliquant-une-voiture-20260725",
-   "https://www.lefigaro.fr/international/zelensky-affirme-que-la-russie-a-demande-30-000-soldats-supplementaires-a-la-coree-du-nord-20260726"
+   "https://www.lefigaro.fr/international/zelensky-affirme-que-la-russie-a-demande-30-000-soldats-supplementaires-a-la-coree-du-nord-20260726",
+   "https://www.lefigaro.fr/economie/incendies-en-gironde-le-trafic-ferroviaire-totalement-interrompu-au-sud-de-bordeaux-20260726",
+   "https://www.lefigaro.fr/bordeaux/incendies-en-gironde-face-au-feu-a-l-ocean-et-a-l-etat-benoit-bartherotte-l-irreductible-du-cap-ferret-20260726",
+   "https://www.lefigaro.fr/actualite-france/c-est-fini-pour-nous-a-saint-etienne-du-rouvray-les-derniers-instants-du-pere-hamel-racontes-par-une-religieuse-rescapee-de-l-attentat-djihadiste-20260726",
+   "https://www.lefigaro.fr/vox/religion/remi-brague-aux-yeux-de-ses-deux-assassins-le-pere-jacques-hamel-meritait-d-etre-elimine-pour-des-raisons-theologiques-20260726"
   ],
   "https://www.france24.com/fr/rss": [
-   "059e097e-81ce-11f1-84b1-9f2a8e948542",
    "56f5147c-835c-11f1-b54c-1d268c19448e",
    "3d36f23c-8355-11f1-b8ad-9fcd7faf88a2",
    "3bbc4366-831a-11f1-838b-fbd93e59214d",
@@ -1063,16 +1062,10 @@
    "23cf0376-8877-11f1-8afc-4f7246a3c7d7",
    "37abdb28-887a-11f1-b786-2528b92ceeba",
    "0c67a1a0-8874-11f1-a5d8-4f7246a3c7d7",
-   "ebdd9bb8-8893-11f1-b17b-cb0184709bff"
+   "ebdd9bb8-8893-11f1-b17b-cb0184709bff",
+   "e1360702-88b8-11f1-9cc1-af5b057c5015"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "ebad2732-7f72-11f1-a07c-cd65218e4cca",
-   "7af1e772-7f67-11f1-8729-01014d2074c2",
-   "5080669a-7f70-11f1-a560-519d711aff20",
-   "ad88e090-7fa4-11f1-b8c4-49fdf1c37cd9",
-   "d22c1c64-7f9f-11f1-a19a-77b4e25bc2d2",
-   "ca30760e-7f9a-11f1-b41f-77b4e25bc2d2",
-   "10006050-7f9a-11f1-b3a9-b3be09384d14",
    "1a519c5e-7f95-11f1-98a5-87588271e398",
    "c884a0b0-7f8f-11f1-be87-87588271e398",
    "4c6372da-7f8b-11f1-878c-43f83f13f92f",
@@ -1365,7 +1358,14 @@
    "01ea2676-8842-11f1-a959-65042d0c5951",
    "cbcde8a6-880b-11f1-bbf2-81f4c6a80390",
    "1851d6aa-8899-11f1-9e5d-5be106607efa",
-   "db57f9b2-88a9-11f1-8903-d9e5ecf2ccf2"
+   "db57f9b2-88a9-11f1-8903-d9e5ecf2ccf2",
+   "4208205a-88b0-11f1-acf6-2ba963a0d9c2",
+   "eed6808e-88be-11f1-a51b-5bcc6a6c15e5",
+   "1d1eb838-88ad-11f1-86f3-1b3a6d8b88b3",
+   "84dbc652-8847-11f1-bd21-75bcb7ca2d8f",
+   "10b8f674-7153-11f1-84be-3b237fcfe9a2",
+   "8c10cf14-88bd-11f1-ba0a-531140b3a001",
+   "f29b8a0e-88c1-11f1-b97d-2b2a6df8b1bf"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/sport/formule-1/f1-a-quelle-heure-et-sur-quelle-chaine-suivre-la-course-du-grand-prix-de-belgique-40cb4ec8-82c1-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -2256,29 +2256,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "Un utilitaire a percuté la foule lors de la Marche des fiertés à Berlin samedi 25 juillet",
-    "Un mort et 16 blessés sont à déplorer (dont 11 graves)",
-    "Le véhicule a été abandonné sur place",
-    "Les occupants du véhicule sont recherchés"
-   ],
-   "qui": null,
-   "ou": "Berlin",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "bbed6447026a0a89",
-   "score": 87,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-25T23:45:52.431356+00:00"
-  },
-  {
-   "faits": [
     "Le Parti libéral brésilien a lancé officiellement la candidature de Flavio Bolsonaro à la présidence",
     "Le lancement a eu lieu samedi 25 juillet",
     "Les élections présidentielles auront lieu le 4 octobre",
@@ -2354,6 +2331,130 @@
   },
   {
    "faits": [
+    "Incendies en Espagne, région de Madrid et provinces d'Avila et Tolède",
+    "Pires incendies de l'histoire dans ces régions",
+    "Dizaines de milliers de personnes évacuées ou confinées",
+    "Centre sportif à Las Rozas utilisé comme refuge pour évacués"
+   ],
+   "qui": null,
+   "ou": "Madrid, Avila, Tolède, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "3653e9b6f5485a45",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T07:28:05.409780+00:00"
+  },
+  {
+   "faits": [
+    "Données géographiques du téléphone de Cédric Jubillar relancent la piste d'une possible préméditation",
+    "Données GPS du smartphone de Cédric Jubillar identifiées autour du champ de Mailhoc dans le Tarn",
+    "Restes de Delphine Aussaguel récemment retrouvés au champ de Mailhoc",
+    "Cédric Jubillar aurait consulté cette zone sur Google Maps le 5 décembre 2020",
+    "La disparition de Delphine Aussaguel date de 15 décembre 2020",
+    "Cédric Jubillar est peintre-plaquiste"
+   ],
+   "qui": "Cédric Jubillar, Delphine Aussaguel",
+   "ou": "Tarn, champ de Mailhoc, France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "Cédric Jubillar aurait consulté la zone sur Google Maps le 5 décembre 2020"
+   ],
+   "importance": 75,
+   "empreinte": "055218adda451f99",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T07:28:05.409933+00:00"
+  },
+  {
+   "faits": [
+    "Incendie au parc national des Cairngorms en Écosse depuis douze jours",
+    "Ravage plusieurs kilomètres carrés du parc",
+    "Autorités ont déclaré un « incident majeur »",
+    "Royaume-Uni confronté à plusieurs feux de forêt"
+   ],
+   "qui": "Autorités écossaises",
+   "ou": "Cairngorms, Highlands, Écosse, Royaume-Uni",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "23390919d132226d",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T07:28:05.409824+00:00"
+  },
+  {
+   "faits": [
+    "Rebelles du Yémen (Houthis) ont annoncé un blocus maritime de l'Arabie saoudite en mer Rouge",
+    "Les Houthis ont ciblé deux pétroliers saoudiens mercredi",
+    "Téhéran cherche à renforcer les moyens de ses alliés houthis",
+    "Objectif : perturber le trafic en mer Rouge"
+   ],
+   "qui": "Rebelles du Yémen (Houthis), Arabie saoudite, Téhéran",
+   "ou": "Mer Rouge, Yémen, Arabie saoudite, Iran",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "Téhéran cherche à renforcer les moyens des Houthis"
+   ],
+   "importance": 65,
+   "empreinte": "2ea7bd712e7c116c",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T07:28:21.071208+00:00"
+  },
+  {
+   "faits": [
+    "Près de 2 500 personnes ont manifesté samedi à Tunis",
+    "Manifestation cinq ans après le coup de force du président Kaïs Saïed",
+    "Protestations contre un recul des droits et des libertés",
+    "Protestations contre la détérioration des conditions de vie",
+    "Vague de chaleur en Tunisie",
+    "Coupures de courant programmées partout dans le pays",
+    "Coupures suscitent colère et inquiétude, notamment pour les hôpitaux"
+   ],
+   "qui": "Manifestants, président Kaïs Saïed",
+   "ou": "Tunis, Tunisie",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "f5a560e9bd9aa3a7",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-26T07:28:21.071212+00:00"
+  },
+  {
+   "faits": [
     "Le père Hamel a été assassiné le 26 juillet 2016, il y a dix ans",
     "Il a été tué par deux islamistes radicalisés dans son église",
     "L'église était à Saint-Étienne-du-Rouvray en Seine-Maritime",
@@ -2378,25 +2479,30 @@
   },
   {
    "faits": [
-    "Des bénévoles se forment au Royaume-Uni pour sauver les mammifères marins échoués",
-    "Les échouages de dauphins et de baleines deviennent plus fréquents sur les côtes européennes et britanniques",
-    "Des associations de biodiversité organisent des ateliers de premiers secours"
+    "Iran a déclaré avoir réalisé des progrés dans les négociations avec Oman",
+    "Négociations concernent la gestion du détroit d'Ormuz",
+    "États-Unis ont repris leurs attaques contre l'Iran",
+    "Objectif américain : mettre fin au contrôle exercé par Téhéran sur le détroit",
+    "Protocole d'accord signé en juin visant à mettre fin à la guerre",
+    "Accord avait brièvement apaisé les tensions"
    ],
-   "qui": null,
-   "ou": "Royaume-Uni",
-   "categorie": "sciences",
+   "qui": "Iran, Oman, États-Unis",
+   "ou": "Détroit d'Ormuz, Moyen-Orient",
+   "categorie": "international",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 78,
    "sources": [
     "RFI"
    ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "0fd76d3be7244a4e",
-   "score": 77,
+   "non_confirme": [
+    "Progrès réalisés lors des pourparlers"
+   ],
+   "importance": 65,
+   "empreinte": "67fb1be33cf8e9d3",
+   "score": 78,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-25T23:46:02.162166+00:00"
+   "depuis": "2026-07-26T07:28:21.071215+00:00"
   },
   {
    "faits": [
@@ -2420,30 +2526,6 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-26T04:48:07.345889+00:00"
-  },
-  {
-   "faits": [
-    "Le président sénégalais Bassirou Diomaye Faye a lancé un nouveau parti politique le 25 juillet 2026 à Dakar",
-    "Cette création de parti marque une rupture avec l'ex-Premier ministre Ousmane Sonko",
-    "La fracture politique entre les deux figures est désormais officielle"
-   ],
-   "qui": "Bassirou Diomaye Faye (président du Sénégal), Ousmane Sonko (ex-Premier ministre)",
-   "ou": "Sénégal, Dakar",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "Les détails du programme ou de la composition du nouveau parti"
-   ],
-   "importance": 65,
-   "empreinte": "a50a444f259da0b7",
-   "score": 75,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T01:18:23.464269+00:00"
   },
   {
    "faits": [
@@ -2587,10 +2669,6 @@
  ],
  "publies_48h": [
   [
-   "c33c2eba2bd0fd33",
-   "2026-07-24T07:14:38.283260+00:00"
-  ],
-  [
    "b79dba448b603f7f",
    "2026-07-24T09:40:02.582287+00:00"
   ],
@@ -2661,13 +2739,17 @@
   [
    "ff5ba902c927696d",
    "2026-07-26T04:48:26.532488+00:00"
+  ],
+  [
+   "4b4077249e336d57",
+   "2026-07-26T07:28:22.167189+00:00"
+  ],
+  [
+   "08ec3450161e1423",
+   "2026-07-26T07:28:26.206927+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "cf0f86d02c4b2646",
-   "2026-07-24T07:14:35.749757+00:00"
-  ],
   [
    "bb26c4f9e8bb5aa7",
    "2026-07-24T09:40:01.530513+00:00"
@@ -2739,6 +2821,14 @@
   [
    "24bb2ed3c17574ad",
    "2026-07-26T04:48:11.918086+00:00"
+  ],
+  [
+   "c1c66fb029ff764e",
+   "2026-07-26T07:28:11.144793+00:00"
+  ],
+  [
+   "22d10e10c412c9d0",
+   "2026-07-26T07:28:21.071199+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2748,12 +2838,14 @@
   "⚡ FLASH — Des incendies ravagent la France et l'Espagne. En Gironde, près de 260 000 personnes évacuées, le feu sévit depuis mercredi. Madrid connaît son pire incendie. Foyers actifs aussi dans le Var et en Corse. (France 24, BFMTV)",
   "🇩🇪 Plusieurs personnes blessées samedi lors de la gay pride à Berlin. Elles auraient été percutées par une voiture dans le parc Tiergarten. Le ou les auteurs sont en fuite. La police les recherche activement.",
   "⚽ L'AS Monaco s'est inclinée 0-2 face au Sporting Portugal samedi à Lisbonne, en match amical de préparation. Paul Pogba et Ansu Fati n'ont pas participé à la rencontre. (Ouest-France, L'Équipe)",
-  "⚡ FLASH — Les incendies du sud-ouest créent une situation critique en Gironde. Samedi, 55.000 évacuations supplémentaires portent le total à 300.000 personnes. L'avion A400M a réalisé son premier largage de retardant le 25 juillet. (Ouest-France, BFMTV)"
+  "⚡ FLASH — Les incendies du sud-ouest créent une situation critique en Gironde. Samedi, 55.000 évacuations supplémentaires portent le total à 300.000 personnes. L'avion A400M a réalisé son premier largage de retardant le 25 juillet. (Ouest-France, BFMTV)",
+  "🌡️ La Gironde subit d'importants incendies depuis le 22 juillet. Bilan : 42 000 hectares brûlés et 220 000 personnes évacuées. Le trafic ferroviaire et routier est paralysé entre Bordeaux et le sud-ouest. (franceinfo, Le Figaro)",
+  "🇫🇷 La France commémore le père Jacques Hamel, tué le 26 juillet 2016 à l'autel de son église près de Rouen. Une messe en sa mémoire dimanche réunira le Premier ministre et François Hollande. (franceinfo)"
  ],
  "recap_date": "2026-07-25",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-26",
-  "publies": 7
+  "publies": 9
  }
 }
