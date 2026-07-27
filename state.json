@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/tour-de-france/podium-classement-final-de-paul-seixas-victoire-francaise-les-cinq-questions-avant-la-troisieme-et-derniere-semaine-du-tour-de-france-2026_8114039.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/royaume-uni/andy-burnham-nomme-officiellement-premier-ministre-du-royaume-uni-par-le-roi-charles-iii_8115059.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-des-internautes-filment-les-automobilistes-qui-jettent-leurs-megots-sur-la-route_8115086.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/donald-trump-hue-echauffourees-argentins-meprisants-cinq-sequences-a-retenir-apres-la-victoire-de-l-espagne-face-a-l-argentine-en-finale-de-la-coupe-du-monde-2026_8114846.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-maintenue-mardi-pour-six-departements-mais-s-achevera-dans-la-soiree-pour-le-gard-et-les-bouches-du-rhone_8115194.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/iran/deux-agents-de-l-ambassade-de-france-a-teheran-cibles-d-une-action-d-intimidation-extremement-grave-de-la-part-des-services-de-securite-iraniens-annonce-le-ministre-des-affaires-etrangeres_8115335.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/on-vous-resume-l-affaire-des-controles-antidopage-inopines-en-pleine-nuit-ayant-vise-tadej-pogacar-et-jonas-vingegaard-sur-le-tour-de-france-2026_8115230.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/villes-fantomes-maisons-detruites-les-degats-spectaculaires-de-l-incendie-dans-le-sud-ouest-vus-du-ciel_8124077.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/en-gironde-l-importance-des-zones-tampons-pour-barrer-la-route-au-feu_8124029.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/allemagne/ce-que-l-on-sait-de-l-attaque-a-la-voiture-belier-et-a-l-arme-blanche-pendant-la-marche-des-fiertes-de-berlin_8123726.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/equipe-de-france/cinq-ans-sans-entrainer-un-motif-d-inquietude-pour-zinedine-zidane-attendu-pour-succeder-a-didier-deschamps-a-la-tete-de-l-equipe-de-france_8102726.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/foot/equipe-de-france/cinq-ans-sans-entrainer-un-motif-d-inquietude-pour-zinedine-zidane-attendu-pour-succeder-a-didier-deschamps-a-la-tete-de-l-equipe-de-france_8102726.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/ce-que-l-on-sait-des-enquetes-sur-l-incendie-massif-de-la-gironde-et-sur-le-feu-dans-les-landes_8123822.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/onvousrepond-incendies-en-gironde-et-dans-les-landes-comment-les-habitants-des-zones-touchees-seront-ils-indemnises-par-les-assurances_8118602.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-gouvernement-espagnol-espere-maitriser-les-incendies-pres-de-madrid-avant-la-nouvelle-vague-de-chaleur_8124191.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/affaire-des-statuettes-dominique-de-villepin-a-ete-entendu-en-audition-libre-mi-juillet_8124329.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -486,12 +486,6 @@
    "https://www.lemonde.fr/series-d-ete/article/2026/07/27/a-antibes-sur-la-plage-de-salis-l-imbattable-pan-bagnat-de-chez-josy_6733744_3451060.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/musique/fade-americanisation-le-spectacle-de-madonna-et-shakira-a-la-mi-temps-de-la-finale-du-mondial-sous-les-critiques-20260720",
-   "https://www.lefigaro.fr/secteur/high-tech/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-accord-entre-deputes-et-senateurs-le-vote-definitif-prevu-ce-mardi-20260720",
-   "https://www.lefigaro.fr/actualite-france/etes-vous-favorables-a-l-interdiction-des-reseaux-sociaux-pour-les-moins-de-15-ans-20260720",
-   "https://www.lefigaro.fr/marseille/on-est-le-dernier-rempart-de-la-republique-vise-par-la-dz-mafia-le-maire-d-ales-refuse-de-ceder-20260720",
-   "https://www.lefigaro.fr/lyon/helicoptere-et-tirs-de-sommation-quatre-interpellations-en-isere-apres-une-traque-pres-de-l-a43-20260720",
-   "https://www.lefigaro.fr/conjoncture/il-y-a-un-serieux-bug-lorsqu-il-s-agit-d-acheter-une-propriete-a-san-francisco-le-boom-de-l-ia-fait-fuir-les-classes-moyennes-20260718",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-le-retour-des-heros-espagnols-la-presse-etrille-l-argentine-leandro-paredes-le-tres-mauvais-perdant-20260720",
    "https://tvmag.lefigaro.fr/programme-tv/audiences-tv/audiences-12-millions-de-telespectateurs-devant-la-victoire-de-l-espagne-en-finale-de-la-coupe-du-monde-2026-20260720",
    "https://www.lefigaro.fr/sports/football/foot-kevin-keegan-double-ballon-d-or-anglais-est-mort-a-l-age-de-75-ans-20260720",
@@ -785,18 +779,15 @@
    "https://www.lefigaro.fr/actualite-france/quatre-fois-paris-60-000-terrains-de-football-pourquoi-la-superficie-de-l-incendie-en-gironde-est-hors-normes-20260727",
    "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260727",
    "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260727",
-   "https://www.lefigaro.fr/meteo/jusqu-a-42-0c-attendus-mercredi-decouvrez-l-arrivee-de-la-vague-de-chaleur-en-carte-20260727"
+   "https://www.lefigaro.fr/meteo/jusqu-a-42-0c-attendus-mercredi-decouvrez-l-arrivee-de-la-vague-de-chaleur-en-carte-20260727",
+   "https://tvmag.lefigaro.fr/programme-tv/actu-tele/il-y-a-des-pertes-le-porte-parole-de-la-federation-nationale-des-sapeurs-pompiers-en-larmes-sur-cnews-20260727",
+   "https://www.lefigaro.fr/actualite-france/le-feu-est-a-15-kilometres-de-bordeaux-les-grandes-villes-peuvent-elles-vraiment-bruler-20260727",
+   "https://www.lefigaro.fr/bordeaux/j-en-connais-qui-ne-s-en-remettront-jamais-au-porge-ravage-par-l-incendie-un-paysage-d-apres-guerre-20260727",
+   "https://www.lefigaro.fr/conjoncture/manque-d-effectifs-salaires-figes-primes-insuffisantes-les-incendies-remettent-en-lumiere-les-difficiles-conditions-de-travail-des-pompiers-20260727",
+   "https://www.lefigaro.fr/faits-divers/je-lui-ai-fait-une-balayette-mohamed-raconte-au-figaro-comment-il-a-maitrise-l-auteur-de-l-attaque-au-couteau-a-paris-20260727",
+   "https://www.lefigaro.fr/meteo/meteo-du-mardi-28-juillet-retour-de-la-canicule-dans-une-france-toujours-ravagee-par-les-incendies-20260727"
   ],
   "https://www.france24.com/fr/rss": [
-   "d7c83e32-8440-11f1-b030-b739683e2996",
-   "94c66ab0-8430-11f1-af97-1f429402a757",
-   "0b16d224-8439-11f1-b6d4-a73c52fd5ab3",
-   "8c849c60-8434-11f1-9292-1f429402a757",
-   "28080e36-8437-11f1-acd4-a73c52fd5ab3",
-   "0ee1b6b0-8454-11f1-a052-9bb13f47fcc4",
-   "e1b78f28-8455-11f1-b720-9bb13f47fcc4",
-   "3a06264c-8453-11f1-9402-9bb13f47fcc4",
-   "59412e62-8453-11f1-98e9-9bb13f47fcc4",
    "a7086f1c-8452-11f1-b704-3f4c3230b1d7",
    "9a0e849c-8450-11f1-bfa1-b1079a9ce16d",
    "3f80e422-8449-11f1-ad9a-6b8aee60b745",
@@ -1087,10 +1078,18 @@
    "05151d32-89ba-11f1-93e9-378f7439d189",
    "e569527c-89ba-11f1-a596-cd6d3d7d5f22",
    "d53b78c8-89b8-11f1-b3c9-378f7439d189",
-   "28c291f8-89b3-11f1-9e17-63d8d12773e5"
+   "28c291f8-89b3-11f1-9e17-63d8d12773e5",
+   "af432004-89cb-11f1-8911-3fae48f373e8",
+   "e24db258-89c5-11f1-8e58-f363e3aa789b",
+   "6632cefe-89c2-11f1-ba90-f363e3aa789b",
+   "5e384d72-89c3-11f1-a564-616b04d5495a",
+   "38160b44-89c7-11f1-8a0d-616b04d5495a",
+   "a73fcc14-89c5-11f1-b72c-f363e3aa789b",
+   "307832a0-89c1-11f1-a5ec-f363e3aa789b",
+   "5c39737e-89c4-11f1-85d5-f363e3aa789b",
+   "aa17db38-89c1-11f1-af8f-f363e3aa789b"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "7e96931c-7c4e-11f1-b78b-25cf7d22934c",
    "57b6c150-8035-11f1-b349-bb8aa50e9448",
    "11632f3a-803b-11f1-ac8c-650c43ed962e",
    "780ed1c4-802e-11f1-a708-59a42725af07",
@@ -1389,7 +1388,8 @@
    "6230b5a2-898e-11f1-97d0-d7bb134e8900",
    "4fd8c180-8982-11f1-88a4-e5a49bdb74b3",
    "cd045220-8980-11f1-aba7-e5a49bdb74b3",
-   "926e19d6-8974-11f1-9240-5fc831a3d9ec"
+   "926e19d6-8974-11f1-9240-5fc831a3d9ec",
+   "284f7fbe-89a5-11f1-bd3e-87f05c034425"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-tu-as-touche-le-ciel-du-bout-des-doigts-le-message-poignant-dinaki-williams-pour-son-frere-nico-a80e21ea-8475-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -2331,6 +2331,39 @@
  "evenements_attente": [
   {
    "faits": [
+    "Incendies en Gironde et dans les Landes depuis le 22 juillet 2026",
+    "Plus de 42 000 hectares brûlés en Gironde",
+    "Plus de 220 000 personnes évacuées en Gironde",
+    "7 500 hectares de forêt communale ravagés au Porge",
+    "183 habitations détruites au Porge",
+    "115 000 hectares parcourus par les incendies en France depuis le début de l'année",
+    "Hypothèses accidentelles privilégiées : débrouillage en Gironde (Saumos), moteur de fourgon dans les Landes (près de Biscarosse)",
+    "Formation d'un pyrocumulonimbus (orage de feu) observée en Gironde",
+    "2 500 sapeurs-pompiers mobilisés en Gironde",
+    "Nouvelle vague de chaleur attendue le 28 juillet",
+    "Incendies également déclarés dans le Var et en Corse"
+   ],
+   "qui": "Gouvernement français (Laurent Nuñez, ministre de l'Intérieur)",
+   "ou": "Gironde, Landes, Sud-Ouest de la France (également Var et Corse)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "03a69a92bca763db",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 4,
+   "depuis": "2026-07-27T16:31:13.770958+00:00"
+  },
+  {
+   "faits": [
     "Un incendie massif ravage la Gironde depuis mercredi 23 juillet 2026",
     "Environ 42 000 hectares de forêt ont brûlé",
     "C'est le deuxième plus important incendie de l'histoire de France",
@@ -2528,6 +2561,30 @@
   },
   {
    "faits": [
+    "Incendies en Espagne près de Madrid",
+    "Au moins 60 000 personnes évacuées",
+    "Environ 75 000 hectares ravagés",
+    "Deux incendies menacent de se rejoindre",
+    "Gouvernement espagnol espère maîtriser les feux avant une nouvelle vague de chaleur"
+   ],
+   "qui": "Gouvernement espagnol",
+   "ou": "Madrid, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "244a3759fad1f2bc",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T16:31:13.770970+00:00"
+  },
+  {
+   "faits": [
     "La Poste annonce une hausse moyenne de 6,73% du prix des timbres et des colis à partir de 2027",
     "Cette hausse est justifiée par la baisse du recours aux services postaux par les ménages",
     "Les tarifs des timbres avaient déjà augmenté en 2026"
@@ -2669,6 +2726,29 @@
   },
   {
    "faits": [
+    "Ukraine multiplie les bombardements visant les entrepôts de Wildberries depuis le 18 juillet",
+    "Wildberries est l'équivalent russe d'Amazon",
+    "Ukraine vise à rappeler à la population russe l'impact du conflit sur les civils",
+    "Wildberries est accusé de soutenir l'effort de guerre du Kremlin"
+   ],
+   "qui": "Ukraine, Wildberries",
+   "ou": "Russie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "d7d130377d0ced81",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T16:31:13.770456+00:00"
+  },
+  {
+   "faits": [
     "La réouverture du musée Nissim de Camondo à Paris, fermé depuis fin 2024, est reportée à 2030",
     "Le musée devait rouvrir à la fin de 2026 après un chantier d'un coût de 23 millions d'euros"
    ],
@@ -2690,120 +2770,188 @@
   },
   {
    "faits": [
-    "Reprise de Fibre Excellence, dernier fabricant français de pâte à papier marchande",
-    "Matthieu Pigasse fait une offre de reprise",
-    "Le ministre de l'Économie critique violemment l'offre, qualifiant Pigasse de « shérif de Nottingham »",
-    "Carole Delga, présidente de la région Occitanie, soutient l'offre de Pigasse",
-    "Le délégué syndical CGT Jean-Michel Bulinge soutient également l'offre"
+    "Kylian Mbappé a écrit une lettre ouverte aux Français publiée dans la presse",
+    "Lettre intervient une dizaine de jours après l'élimination de la France en Coupe du monde contre l'Angleterre",
+    "Mbappé est capitaine des Bleus",
+    "Lettre remercie les supporters et promet de continuer à jouer ensemble"
    ],
-   "qui": "Matthieu Pigasse, ministre de l'Économie, Carole Delga, Jean-Michel Bulinge",
-   "ou": "France",
-   "categorie": "economie",
+   "qui": "Kylian Mbappé",
+   "ou": null,
+   "categorie": "sport",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 88,
    "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "92aa01081f2e5ac8",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T08:18:41.292830+00:00"
-  },
-  {
-   "faits": [
-    "Au Yémen, crainte d'une prise de contrôle du détroit de Bab el-Mandeb par les houthis",
-    "L'Arabie saoudite et les Houthis ont échangé des tirs après quatre ans de cessez-le-feu",
-    "Un nouveau front risque de s'ouvrir dans ce détroit au sud du Yémen",
-    "Des pétroliers saoudiens empruntent ce détroit"
-   ],
-   "qui": "Arabie saoudite, Houthis",
-   "ou": "Yémen, détroit de Bab el-Mandeb",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "Prise de contrôle du détroit par les houthis"
-   ],
-   "importance": 70,
-   "empreinte": "48c986f556cc9738",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T08:18:41.292834+00:00"
-  },
-  {
-   "faits": [
-    "Flavio Bolsonaro est le candidat du Parti libéral à l'élection présidentielle d'octobre 2026 au Brésil",
-    "Flavio Bolsonaro a été investi samedi soir à São Paulo",
-    "La campagne s'annonce tendue entre deux camps que tout oppose"
-   ],
-   "qui": "Flavio Bolsonaro, Parti libéral brésilien",
-   "ou": "Brésil, São Paulo",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
+    "France 24"
    ],
    "non_confirme": [],
    "importance": 65,
-   "empreinte": "6102ef2511e3f889",
-   "score": 81,
+   "empreinte": "d6b65cc462524f40",
+   "score": 82,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T08:18:28.371044+00:00"
+   "depuis": "2026-07-27T16:31:13.770978+00:00"
   },
   {
    "faits": [
-    "EDF s'associe à Technip Energies pour le développement des réacteurs EPR 2",
-    "EDF s'est engagé à ce que le premier réacteur entre en service en 2038",
-    "Il s'agit d'un enjeu de souveraineté énergétique"
+    "Dominique de Villepin a été entendu en audition libre mi-juillet",
+    "L'audition concerne une enquête du parquet financier",
+    "L'enquête porte sur des statuettes reçues par Villepin alors qu'il était en fonction"
    ],
-   "qui": "EDF, Technip Energies",
-   "ou": "France",
-   "categorie": "economie",
+   "qui": "Dominique de Villepin",
+   "ou": null,
+   "categorie": "justice",
    "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "816a92fa0f2ca5a4",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T16:31:13.770979+00:00"
+  },
+  {
+   "faits": [
+    "CAN féminines 2026 a débuté le dimanche 26 juillet au Maroc",
+    "16 équipes participent",
+    "Tournoi dure trois semaines"
+   ],
+   "qui": "Équipes de football féminines d'Afrique",
+   "ou": "Maroc",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "0736c385e92d31aa",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T16:31:13.770980+00:00"
+  },
+  {
+   "faits": [
+    "Attaque au couteau avenue de Clichy à Paris le 27 juillet à 11h30",
+    "L'agresseur a commis une série d'agressions visant des femmes",
+    "Mohamed, 26 ans et ceinture noire de judo, a maîtrisé et neutralisé le suspect",
+    "Le suspect a été mis au sol et neutralisé par Mohamed"
+   ],
+   "qui": "Auteur de l'attaque (non nommé)",
+   "ou": "Avenue de Clichy, Paris",
+   "categorie": "faits_divers",
+   "sensible": true,
    "confiance": 82,
    "sources": [
     "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "1dcb163e7aec4723",
-   "score": 81,
+   "importance": 65,
+   "empreinte": "623bd2bebd6ca7a4",
+   "score": 80,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T08:18:41.292837+00:00"
+   "depuis": "2026-07-27T16:31:13.770403+00:00"
   },
   {
    "faits": [
-    "Au Niger, il y a trois ans, le 26 juillet 2023, le président Mohamed Bazoum a été renversé par un coup d'État militaire",
-    "Mohamed Bazoum est toujours retenu à Niamey avec son épouse",
-    "Le pays est dirigé par le Conseil national pour la sauvegarde de la patrie (CNSP)",
-    "Le général Abdourahamane Tiani est à la tête du CNSP, officiellement investi président l'an dernier pour une durée de cinq ans renouvelables",
-    "Il y a au Niger un « rétrécissement extrême de l'espace civique »"
+    "Attaque d'un navire iranien en mer Caspienne ce week-end",
+    "Ukraine accusée de l'attaque",
+    "Iran met en garde l'Ukraine contre des conséquences imprévisibles"
    ],
-   "qui": "Mohamed Bazoum, Abdourahamane Tiani, CNSP",
-   "ou": "Niger, Niamey",
-   "categorie": "politique",
-   "sensible": false,
+   "qui": "Iran, Ukraine",
+   "ou": "Mer Caspienne",
+   "categorie": "international",
+   "sensible": true,
    "confiance": 80,
    "sources": [
-    "RFI"
+    "France 24"
+   ],
+   "non_confirme": [
+    "Attribution à Kiev confirmée ou uniquement attribuée par l'Iran"
+   ],
+   "importance": 70,
+   "empreinte": "7c1f883005de7fe5",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T16:31:13.770430+00:00"
+  },
+  {
+   "faits": [
+    "Arabie saoudite a intercepté et détruit plusieurs drones lancés depuis l'Irak",
+    "Drones visaient des installations pétrolières saoudiennes",
+    "Ministère saoudien accuse des groupes armés soutenus par l'Iran",
+    "Attaque intervient malgré une accalmie entre États-Unis et Iran après 13 jours d'affrontements"
+   ],
+   "qui": "Arabie saoudite, groupes pro-iraniens",
+   "ou": "Arabie saoudite, Irak",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 55,
-   "empreinte": "ea0095e3471a4c8a",
+   "importance": 68,
+   "empreinte": "96bbdc8ec5c0a564",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T16:31:13.770981+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump laisse de la place pour des pourparlers avec l'Iran selon son ambassadeur à l'ONU",
+    "Accalmie des frappes américaines observée",
+    "Guerre dure depuis bientôt cinq mois",
+    "Presse américaine fait état d'un possible manque de munitions"
+   ],
+   "qui": "Donald Trump, ambassadeur américain à l'ONU",
+   "ou": null,
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Manque de munitions rapporté par la presse mais non confirmé officiellement"
+   ],
+   "importance": 72,
+   "empreinte": "b25961d54b563ec7",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T16:31:13.770983+00:00"
+  },
+  {
+   "faits": [
+    "Premier semi-marathon pour la Paix tenu à N'Djamena au Tchad le dimanche 26 juillet",
+    "Plus de 700 coureurs ont participé",
+    "17 nationalités représentées",
+    "Événement est un appel à l'apaisement dans un contexte de tensions récentes"
+   ],
+   "qui": "Population du Tchad",
+   "ou": "N'Djamena, Tchad",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "97512d7ffdb1d98d",
    "score": 77,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T08:18:41.292841+00:00"
+   "depuis": "2026-07-27T16:31:13.770984+00:00"
   },
   {
    "faits": [
@@ -2828,27 +2976,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-27T14:02:10.267699+00:00"
-  },
-  {
-   "faits": [
-    "Une fusillade a éclaté samedi soir dans le quartier de Capitol Hill à Seattle",
-    "La fusillade a fait deux morts et plusieurs blessés"
-   ],
-   "qui": null,
-   "ou": "Seattle, Capitol Hill, États-Unis",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 78,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "bfd9e624652c24e7",
-   "score": 74,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T08:18:28.370805+00:00"
   }
  ],
  "publies_48h": [
