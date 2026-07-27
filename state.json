@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-maintenue-mardi-pour-six-departements-mais-s-achevera-dans-la-soiree-pour-le-gard-et-les-bouches-du-rhone_8115194.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/deux-agents-de-l-ambassade-de-france-a-teheran-cibles-d-une-action-d-intimidation-extremement-grave-de-la-part-des-services-de-securite-iraniens-annonce-le-ministre-des-affaires-etrangeres_8115335.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/on-vous-resume-l-affaire-des-controles-antidopage-inopines-en-pleine-nuit-ayant-vise-tadej-pogacar-et-jonas-vingegaard-sur-le-tour-de-france-2026_8115230.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/maladie/grippe/la-haute-autorite-de-sante-recommande-l-obligation-vaccinale-contre-la-grippe-pour-tous-les-professionnels-de-sante_8115158.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/police/un-homme-qui-usurpait-l-image-de-la-gendarmerie-nationale-pour-creer-des-contenus-a-caractere-sexuel-interpelle-dans-la-marne_8115347.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/ce-que-l-on-sait-des-enquetes-sur-l-incendie-massif-de-la-gironde-et-sur-le-feu-dans-les-landes_8123822.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/onvousrepond-incendies-en-gironde-et-dans-les-landes-comment-les-habitants-des-zones-touchees-seront-ils-indemnises-par-les-assurances_8118602.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-gouvernement-espagnol-espere-maitriser-les-incendies-pres-de-madrid-avant-la-nouvelle-vague-de-chaleur_8124191.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/affaire-des-statuettes-dominique-de-villepin-a-ete-entendu-en-audition-libre-mi-juillet_8124329.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/politique/affaire-des-statuettes-dominique-de-villepin-a-ete-entendu-en-audition-libre-mi-juillet_8124329.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/crise-climatique/incendies-marine-tondelier-demande-a-emmanuel-macron-de-reunir-les-forces-politiques-pour-faire-un-point-sur-la-situation-climatique_8124401.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/contre-les-vols-dans-les-musees-les-objets-les-plus-vulnerables-doivent-etre-mis-a-l-abri-annonce-le-ministere-de-la-culture_8124344.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -486,8 +486,6 @@
    "https://www.lemonde.fr/series-d-ete/article/2026/07/27/a-antibes-sur-la-plage-de-salis-l-imbattable-pan-bagnat-de-chez-josy_6733744_3451060.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-le-retour-des-heros-espagnols-la-presse-etrille-l-argentine-leandro-paredes-le-tres-mauvais-perdant-20260720",
-   "https://tvmag.lefigaro.fr/programme-tv/audiences-tv/audiences-12-millions-de-telespectateurs-devant-la-victoire-de-l-espagne-en-finale-de-la-coupe-du-monde-2026-20260720",
    "https://www.lefigaro.fr/sports/football/foot-kevin-keegan-double-ballon-d-or-anglais-est-mort-a-l-age-de-75-ans-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-quel-bilan-pour-les-bleus-posez-vos-questions-a-notre-envoye-special-20260719",
    "https://www.lefigaro.fr/vox/monde/renaud-girard-l-amerique-et-l-iran-s-embourbent-la-chine-avance-20260720",
@@ -785,17 +783,11 @@
    "https://www.lefigaro.fr/bordeaux/j-en-connais-qui-ne-s-en-remettront-jamais-au-porge-ravage-par-l-incendie-un-paysage-d-apres-guerre-20260727",
    "https://www.lefigaro.fr/conjoncture/manque-d-effectifs-salaires-figes-primes-insuffisantes-les-incendies-remettent-en-lumiere-les-difficiles-conditions-de-travail-des-pompiers-20260727",
    "https://www.lefigaro.fr/faits-divers/je-lui-ai-fait-une-balayette-mohamed-raconte-au-figaro-comment-il-a-maitrise-l-auteur-de-l-attaque-au-couteau-a-paris-20260727",
-   "https://www.lefigaro.fr/meteo/meteo-du-mardi-28-juillet-retour-de-la-canicule-dans-une-france-toujours-ravagee-par-les-incendies-20260727"
+   "https://www.lefigaro.fr/meteo/meteo-du-mardi-28-juillet-retour-de-la-canicule-dans-une-france-toujours-ravagee-par-les-incendies-20260727",
+   "https://www.lefigaro.fr/actualite-france/tant-qu-il-y-a-besoin-d-aide-on-reste-les-agriculteurs-mobilises-aux-cote-des-pompiers-dans-la-lutte-contre-les-incendies-en-gironde-20260727",
+   "https://www.lefigaro.fr/actualite-france/cagnottes-dons-en-nature-comment-aider-les-sinistres-des-incendies-20260727"
   ],
   "https://www.france24.com/fr/rss": [
-   "a7086f1c-8452-11f1-b704-3f4c3230b1d7",
-   "9a0e849c-8450-11f1-bfa1-b1079a9ce16d",
-   "3f80e422-8449-11f1-ad9a-6b8aee60b745",
-   "b43c2686-844a-11f1-8faf-b1079a9ce16d",
-   "433c2116-844a-11f1-b3f6-6b8aee60b745",
-   "69fd9bd4-8447-11f1-875f-6b8aee60b745",
-   "f8305426-8471-11f1-92db-6951f7c3c0ed",
-   "2a03bf0c-8462-11f1-afed-113fce81286a",
    "6ff49a00-846b-11f1-865b-990d18f1285f",
    "8775f6f0-845d-11f1-9eae-a5dc7dbd2fae",
    "9ebcac96-8467-11f1-bcbf-d357ce01cee0",
@@ -1087,17 +1079,17 @@
    "a73fcc14-89c5-11f1-b72c-f363e3aa789b",
    "307832a0-89c1-11f1-a5ec-f363e3aa789b",
    "5c39737e-89c4-11f1-85d5-f363e3aa789b",
-   "aa17db38-89c1-11f1-af8f-f363e3aa789b"
+   "aa17db38-89c1-11f1-af8f-f363e3aa789b",
+   "2704163e-89e0-11f1-8970-1d277107204e",
+   "580d8f50-89d9-11f1-a48e-8b715cbc4d78",
+   "40b09738-89e0-11f1-ae36-1d277107204e",
+   "24a46562-89d4-11f1-b6a6-5d4d45675b2d",
+   "f435e3a8-89d1-11f1-b171-5d4d45675b2d",
+   "c71c585a-89d3-11f1-8508-5d4d45675b2d",
+   "0f89d1f0-89d2-11f1-9c95-8b715cbc4d78",
+   "e3822442-89cf-11f1-b688-3fae48f373e8"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "57b6c150-8035-11f1-b349-bb8aa50e9448",
-   "11632f3a-803b-11f1-ac8c-650c43ed962e",
-   "780ed1c4-802e-11f1-a708-59a42725af07",
-   "735aba74-8030-11f1-9c0d-59a42725af07",
-   "b42f07c6-802b-11f1-8b34-e9047a96864f",
-   "e2251296-8036-11f1-ba43-bb8aa50e9448",
-   "22edb356-8045-11f1-9f89-65d66f0cb77c",
-   "980b55f2-7ed4-11f1-8bf2-5bd5a5a54367",
    "d76ad7c2-805a-11f1-a466-190837a371c7",
    "cc498936-8061-11f1-b37c-81979923eb4d",
    "a759f8aa-8056-11f1-aaa3-b7c298cf2416",
@@ -1389,7 +1381,15 @@
    "4fd8c180-8982-11f1-88a4-e5a49bdb74b3",
    "cd045220-8980-11f1-aba7-e5a49bdb74b3",
    "926e19d6-8974-11f1-9240-5fc831a3d9ec",
-   "284f7fbe-89a5-11f1-bd3e-87f05c034425"
+   "284f7fbe-89a5-11f1-bd3e-87f05c034425",
+   "f38a2be6-89d4-11f1-b703-73c9bec0a9cb",
+   "9359f9be-89bf-11f1-8a1a-8dc72b6dd5a6",
+   "70af9af4-89ce-11f1-a10d-77af71f403d5",
+   "12136fd6-89cc-11f1-893d-851992a311ea",
+   "3ebec782-89c3-11f1-8d54-879946ad627e",
+   "3507d398-89b7-11f1-84f8-459da0914a80",
+   "2ebdc002-89a2-11f1-95cb-79785295cde0",
+   "2b3b10ea-899a-11f1-9bd7-9393e3857403"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-tu-as-touche-le-ciel-du-bout-des-doigts-le-message-poignant-dinaki-williams-pour-son-frere-nico-a80e21ea-8475-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -2331,6 +2331,35 @@
  "evenements_attente": [
   {
    "faits": [
+    "Un mégafeu en Gironde a ravagé 42 000 hectares",
+    "Le feu est décrit comme 'stabilisé' mais pas 'fixé' selon le ministre de l'Intérieur",
+    "Une remontée des températures est redoutée avec jusqu'à 40°C attendus mardi",
+    "Des agriculteurs se mobilisent bénévolement aux côtés des pompiers",
+    "Des initiatives citoyennes se développent pour aider les sinistrés",
+    "Emmanuel Macron en visite en Gironde déclare 'On va continuer à mener cette bataille'",
+    "Marine Tondelier demande à Macron de réunir les forces politiques pour un point sur la situation climatique",
+    "C'est la quatrième vague de chaleur de l'année en France"
+   ],
+   "qui": "Emmanuel Macron, pompiers, agriculteurs, Marine Tondelier",
+   "ou": "Gironde, Lège-Cap-Ferret, Bordeaux",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "2b82bf22c2e6ec30",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-27T18:09:40.086055+00:00"
+  },
+  {
+   "faits": [
     "Incendies en Gironde et dans les Landes depuis le 22 juillet 2026",
     "Plus de 42 000 hectares brûlés en Gironde",
     "Plus de 220 000 personnes évacuées en Gironde",
@@ -2402,52 +2431,58 @@
   },
   {
    "faits": [
-    "Un incendie massif progresse aux portes de Bordeaux en Gironde",
-    "La situation est restée globalement stable dans la nuit de dimanche à lundi",
-    "Les autorités redoutent l'arrivée d'une vague de chaleur dès mardi qui compliquera la lutte contre l'incendie",
-    "Météo-France annonce une vague de chaleur cette semaine avec un pic d'intensité prévu mercredi",
-    "Des orages sont attendus en fin de semaine",
-    "Le feu s'est rapproché de la banlieue sud-ouest de Bordeaux, notamment à Cestas et Marcheprime, à 15 kilomètres de la métropole"
+    "L'épidémie d'Ebola en RDC compte 3 200 cas cumulés",
+    "1 405 décès sont enregistrés",
+    "Cinq des 26 provinces de RDC sont touchées",
+    "Les chiffres s'approchent de ceux de la pire épidémie de 2018-2020",
+    "Des soignants ont manifesté samedi à Bunia contre des mois de salaires impayés",
+    "Plus de 1 300 morts selon le bilan de l'OMS"
    ],
-   "qui": "pompiers et autorités girondines",
-   "ou": "Gironde, région bordelaise",
-   "categorie": "meteo_catastrophe",
+   "qui": "Gouvernement de RDC, soignants, OMS",
+   "ou": "République démocratique du Congo, Bunia",
+   "categorie": "sante",
    "sensible": true,
-   "confiance": 92,
+   "confiance": 88,
    "sources": [
-    "franceinfo",
-    "Le Monde"
+    "France 24",
+    "RFI"
    ],
    "non_confirme": [],
-   "importance": 85,
-   "empreinte": "d1aeddb2536af49f",
-   "score": 100,
-   "fiab_max": 90,
+   "importance": 80,
+   "empreinte": "2caec09cb178b7ed",
+   "score": 95,
+   "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-27T11:46:01.441650+00:00"
+   "depuis": "2026-07-27T18:09:40.086059+00:00"
   },
   {
    "faits": [
-    "Trois femmes ont été blessées dans une attaque à Paris",
-    "L'attaque a eu lieu lundi porte de Clichy, dans le nord-ouest parisien",
-    "Un suspect armé de couteaux a été interpellé"
+    "Nouvelle flambée de violences en Cisjordanie occupée depuis vendredi",
+    "Quatre Palestiniens et deux Israéliens ont été tués",
+    "Benjamin Netanyahu a annoncé une vaste opération armée",
+    "Netanyahu a promis d'accélérer la colonisation",
+    "Des affrontements meurtriers se sont produits le 24 juillet dans la localité de Tell",
+    "Netanyahu est en visite à Washington début de semaine",
+    "Il doit rencontrer Donald Trump mardi 28 juillet à la Maison Blanche"
    ],
-   "qui": "suspect non nommé",
-   "ou": "Paris, porte de Clichy",
-   "categorie": "justice",
+   "qui": "Benjamin Netanyahu, Palestiniens, Israéliens, colons",
+   "ou": "Cisjordanie occupée, Tell, Washington",
+   "categorie": "international",
    "sensible": true,
-   "confiance": 90,
+   "confiance": 85,
    "sources": [
-    "franceinfo",
-    "Le Figaro"
+    "France 24",
+    "RFI"
    ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "2fe85aeeadba5b11",
-   "score": 97,
-   "fiab_max": 90,
+   "non_confirme": [
+    "Netanyahu utiliserait l'embrasement du territoire palestinien à des fins électorales"
+   ],
+   "importance": 80,
+   "empreinte": "70a24bbfcec63cac",
+   "score": 94,
+   "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-27T11:46:01.441653+00:00"
+   "depuis": "2026-07-27T18:09:40.086060+00:00"
   },
   {
    "faits": [
@@ -2473,91 +2508,29 @@
   },
   {
    "faits": [
-    "Tadej Pogacar a remporté le Tour de France pour la cinquième fois de sa carrière",
-    "Le cycliste slovène s'est imposé dimanche"
+    "Un incendie ravage les régions espagnoles de Madrid, Tolède et Avila",
+    "Près de 77 000 hectares ont été ravagés, soit sept fois la taille de Paris",
+    "L'incendie reste actif lundi 27 juillet",
+    "Les conditions météorologiques pourraient se dégrader à partir de mardi 28 juillet avec l'arrivée d'une vague de chaleur",
+    "Des tensions syndicales et politiques bloquent la lutte contre les incendies",
+    "L'incendie près de Madrid a détruit près de 25 000 hectares avec trois fronts toujours actifs",
+    "Les autorités espèrent profiter de lundi et mardi avant une nouvelle dégradation"
    ],
-   "qui": "Tadej Pogacar",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "266e358abf690479",
-   "score": 89,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T11:46:01.441655+00:00"
-  },
-  {
-   "faits": [
-    "Une femme est morte et 29 personnes ont été blessées lors d'une attaque à la Marche des fiertés à Berlin",
-    "Un homme conduisant une camionnette a foncé sur des participants dans le bois de Tiergarten samedi soir",
-    "Le suspect, Abdul Ballout, a été abattu par la police dimanche soir dans le quartier de Spandau"
-   ],
-   "qui": "Abdul Ballout (suspect abattu)",
-   "ou": "Berlin, bois de Tiergarten",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "a530046878e734ce",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T11:46:01.441657+00:00"
-  },
-  {
-   "faits": [
-    "Une attaque de drones ukrainiens sur la ville de Rostov-sur-le-Don a tué un couple et blessé cinq personnes",
-    "L'attaque s'est déroulée la nuit et a touché le sud de la Russie",
-    "L'armée ukrainienne affirme que 147 drones russes avaient été lancés contre le territoire ukrainien pendant la nuit",
-    "L'attaque russe se poursuivait lundi matin"
-   ],
-   "qui": "Ukraine, Russie",
-   "ou": "Rostov-sur-le-Don, Ukraine, Russie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "404ccac2b21c0749",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T11:46:01.441659+00:00"
-  },
-  {
-   "faits": [
-    "En Espagne, environ 60 000 personnes ont été évacuées près de Madrid",
-    "L'incendie est globalement stable mais avec quelques reprises de feu localement",
-    "De premiers retours prévus lundi pour certains évacués"
-   ],
-   "qui": "autorités espagnoles, Francisco Martín Aguirre (préfet régional)",
-   "ou": "Madrid, Espagne",
+   "qui": "Autorités espagnoles, pompiers espagnols",
+   "ou": "Espagne, Madrid, Tolède, Avila, Sierra Oeste",
    "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 90,
    "sources": [
-    "franceinfo"
+    "RFI"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "d46bfe022af8696b",
-   "score": 86,
-   "fiab_max": 90,
+   "importance": 85,
+   "empreinte": "e217cd1bed8fc173",
+   "score": 87,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T11:46:01.441660+00:00"
+   "depuis": "2026-07-27T18:09:40.085760+00:00"
   },
   {
    "faits": [
@@ -2585,71 +2558,26 @@
   },
   {
    "faits": [
-    "La Poste annonce une hausse moyenne de 6,73% du prix des timbres et des colis à partir de 2027",
-    "Cette hausse est justifiée par la baisse du recours aux services postaux par les ménages",
-    "Les tarifs des timbres avaient déjà augmenté en 2026"
+    "Une attaque au couteau a eu lieu à Paris",
+    "Trois femmes ont été blessées, dont deux grièvement",
+    "L'attaque s'est produite vers 11h30 porte de Clichy dans le XVIIe arrondissement",
+    "Un homme soupçonné d'être l'auteur a été interpellé par un policier hors service"
    ],
-   "qui": "La Poste",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "dd4a07cbd80a2405",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T11:46:01.441662+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump assure que les États-Unis disposent de suffisamment de munitions pour la guerre au Moyen-Orient",
-    "Des inquiétudes se font jour concernant les stocks américains d'intercepteurs antimissiles",
-    "Selon le Center for Strategic and International Studies, au moins 1 500 intercepteurs Patriot auraient été utilisés depuis le début du conflit",
-    "Moins de 1 000 unités resteraient dans les stocks américains"
-   ],
-   "qui": "Donald Trump, États-Unis",
-   "ou": "Moyen-Orient",
-   "categorie": "international",
+   "qui": "Trois femmes blessées, un homme interpellé",
+   "ou": "Paris, porte de Clichy, XVIIe arrondissement",
+   "categorie": "faits_divers",
    "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "pénurie effective de munitions américaines"
-   ],
-   "importance": 75,
-   "empreinte": "489dcc2705740f27",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T11:46:01.441664+00:00"
-  },
-  {
-   "faits": [
-    "Le président élu colombien Abelardo de la Espriella annonce qu'il va rompre les relations diplomatiques avec Cuba et le Nicaragua",
-    "Il avait reçu l'appui du président américain Donald Trump pendant la campagne"
-   ],
-   "qui": "Abelardo de la Espriella",
-   "ou": "Colombie, Cuba, Nicaragua",
-   "categorie": "international",
-   "sensible": false,
    "confiance": 88,
    "sources": [
-    "Le Monde"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "04d0b3639aeae890",
-   "score": 85,
-   "fiab_max": 90,
+   "importance": 75,
+   "empreinte": "9f77e3dce19a73ab",
+   "score": 84,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T11:46:01.441665+00:00"
+   "depuis": "2026-07-27T18:09:40.085776+00:00"
   },
   {
    "faits": [
@@ -2704,28 +2632,6 @@
   },
   {
    "faits": [
-    "Le Brésil a rappelé son ambassadeur en Argentine après des propos offensants du président Javier Milei",
-    "Brasilia a convoqué l'ambassadeur de l'Argentine",
-    "Javier Milei s'en prend aussi au Mexique et au Parti démocrate américain"
-   ],
-   "qui": "Javier Milei, Brésil, Argentine",
-   "ou": "Brésil, Argentine",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "2e768e4e1a74e574",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T11:46:01.441667+00:00"
-  },
-  {
-   "faits": [
     "Ukraine multiplie les bombardements visant les entrepôts de Wildberries depuis le 18 juillet",
     "Wildberries est l'équivalent russe d'Amazon",
     "Ukraine vise à rappeler à la population russe l'impact du conflit sur les civils",
@@ -2746,27 +2652,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T16:31:13.770456+00:00"
-  },
-  {
-   "faits": [
-    "La réouverture du musée Nissim de Camondo à Paris, fermé depuis fin 2024, est reportée à 2030",
-    "Le musée devait rouvrir à la fin de 2026 après un chantier d'un coût de 23 millions d'euros"
-   ],
-   "qui": "musée Nissim de Camondo",
-   "ou": "Paris",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "f2c4f13e12c549e0",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T11:46:01.441668+00:00"
   },
   {
    "faits": [
@@ -2932,6 +2817,27 @@
   },
   {
    "faits": [
+    "Le ministère de la Culture annonce la mise à l'abri des objets 'les plus vulnérables' des musées",
+    "Cette mise à l'abri se fera dans un autre lieu en attente de sécurisation"
+   ],
+   "qui": "Ministère de la Culture",
+   "ou": "France",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "6b48108eab62f44f",
+   "score": 77,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T18:09:40.086068+00:00"
+  },
+  {
+   "faits": [
     "Premier semi-marathon pour la Paix tenu à N'Djamena au Tchad le dimanche 26 juillet",
     "Plus de 700 coureurs ont participé",
     "17 nationalités représentées",
@@ -2952,6 +2858,53 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T16:31:13.770984+00:00"
+  },
+  {
+   "faits": [
+    "Le gouverneur de la Banque centrale indonésienne Perry Warjiyo a démissionné de manière inattendue",
+    "Son second mandat devait se terminer en 2028",
+    "Il invoque des raisons personnelles pour justifier sa démission",
+    "Sa décision pourrait être liée aux difficultés économiques en Indonésie"
+   ],
+   "qui": "Perry Warjiyo",
+   "ou": "Indonésie",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "La démission serait liée aux difficultés économiques en Indonésie"
+   ],
+   "importance": 55,
+   "empreinte": "68aa12c94f58625c",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T18:09:40.086069+00:00"
+  },
+  {
+   "faits": [
+    "Javier Milei accuse le Brésil d'avoir financé une 'campagne anti-argentine'",
+    "Les tensions diplomatiques entre le Brésil et l'Argentine sont montées d'un cran",
+    "Les critiques visent notamment l'équipe d'Argentine lors du Mondial 2026"
+   ],
+   "qui": "Javier Milei, gouvernement brésilien",
+   "ou": "Argentine, Brésil",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "425b70f83d65fa90",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T18:09:40.086070+00:00"
   },
   {
    "faits": [
@@ -2976,6 +2929,27 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-27T14:02:10.267699+00:00"
+  },
+  {
+   "faits": [
+    "Gianni Infantino défend le bilan du Mondial 2026",
+    "Le président de la Fifa répond aux critiques dans un communiqué"
+   ],
+   "qui": "Gianni Infantino",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 35,
+   "empreinte": "6b54120f6652ac0e",
+   "score": 70,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T18:09:40.085852+00:00"
   }
  ],
  "publies_48h": [
@@ -3158,7 +3132,7 @@
   "🔴 ALERTE — Un incendie ravage la Gironde depuis mercredi, parcourant 42 000 hectares et forçant l'évacuation de 220 000 personnes. Le feu se redirige vers Bordeaux. Macron présidera une cellule de crise lundi. (franceinfo)",
   "Troisième nuit sans frappes américaines en Iran. Aucun bombardement signalé depuis le 24 juillet au soir, marquant une pause après deux semaines d'hostilités. La marine iranienne a bloqué lundi six navires au détroit d'Ormuz. (France 24, RFI)"
  ],
- "recap_date": "2026-07-26",
+ "recap_date": "2026-07-27",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-27",
