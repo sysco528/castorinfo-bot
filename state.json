@@ -2,12 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/culture/musique/madonna-justin-bieber-bts-shakira-tom-cruise-un-defile-de-stars-a-defaut-d-un-show-tres-spectaculaire-met-la-touche-finale-au-mondial-2026_8114780.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/defenseur-des-droits-laurent-nunez-n-a-aucun-doute-sur-l-objectivite-l-impartialite-de-francois-noel-buffet_8114903.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/l-arrivee-de-zinedine-zidane-a-la-tete-de-la-selection-serait-une-chance-pour-l-equipe-de-france-estime-la-ministre-des-sports_8114795.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-on-prend-en-photo-toute-voiture-suspecte-apres-l-incendie-a-fontainebleau-des-riverains-aux-aguets-pour-proteger-la-foret-des-pyromanes_8114606.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-pense-que-ce-soir-nous-n-aurons-plus-une-maison-pour-nous-coucher-deux-communes-touchees-par-un-incendie-dans-le-var_8114354.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/podium-classement-final-de-paul-seixas-victoire-francaise-les-cinq-questions-avant-la-troisieme-et-derniere-semaine-du-tour-de-france-2026_8114039.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/royaume-uni/andy-burnham-nomme-officiellement-premier-ministre-du-royaume-uni-par-le-roi-charles-iii_8115059.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-des-internautes-filment-les-automobilistes-qui-jettent-leurs-megots-sur-la-route_8115086.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +295,13 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/une-nouvelle-vague-de-chaleur-va-toucher-la-france-a-partir-de-mardi-annonce-meteo-france_8123909.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/au-moins-trois-blesses-dans-une-attaque-a-paris-un-suspect-arme-de-couteaux-interpelle_8123963.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-espagne-de-premiers-retours-prevus-lundi-pour-certains-evacues-pres-de-madrid-l-incendie-toujours-pas-maitrise_8123657.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/la-poste-annonce-une-hausse-moyenne-de-6-73-du-prix-des-timbres-et-des-colis-a-partir-de-2027_8123906.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/economie/la-poste-annonce-une-hausse-moyenne-de-6-73-du-prix-des-timbres-et-des-colis-a-partir-de-2027_8123906.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/il-ne-vaut-mieux-pas-que-le-vent-se-releve-les-pompiers-profitent-d-une-courte-accalmie-en-gironde-pour-tenter-d-apaiser-l-incendie-avant-la-canicule_8123993.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/on-peut-dire-que-grace-a-eux-on-tient-plus-facilement-les-pompiers-soutenus-par-un-elan-de-generosite-de-la-population-sur-le-front-de-l-incendie-en-gironde_8124068.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/villes-fantomes-maisons-detruites-les-degats-spectaculaires-de-l-incendie-dans-le-sud-ouest-vus-du-ciel_8124077.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/en-gironde-l-importance-des-zones-tampons-pour-barrer-la-route-au-feu_8124029.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/allemagne/ce-que-l-on-sait-de-l-attaque-a-la-voiture-belier-et-a-l-arme-blanche-pendant-la-marche-des-fiertes-de-berlin_8123726.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/equipe-de-france/cinq-ans-sans-entrainer-un-motif-d-inquietude-pour-zinedine-zidane-attendu-pour-succeder-a-didier-deschamps-a-la-tete-de-l-equipe-de-france_8102726.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -486,13 +486,6 @@
    "https://www.lemonde.fr/series-d-ete/article/2026/07/27/a-antibes-sur-la-plage-de-salis-l-imbattable-pan-bagnat-de-chez-josy_6733744_3451060.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/je-suis-pret-j-ai-un-plan-au-royaume-uni-le-roi-du-nord-andy-burnham-couronne-a-la-tete-du-labour-20260717",
-   "https://www.lefigaro.fr/international/royaume-uni-les-images-de-l-arrivee-d-andy-burnham-a-downing-street-et-de-sa-rencontre-avec-charles-iii-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/le-carnet-de-notes-des-bleus-a-la-coupe-du-monde-mbappe-chef-de-bande-upamecano-solide-olise-inegal-hernandez-pas-au-niveau-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/je-veux-arreter-le-plus-tard-possible-didier-deschamps-et-maintenant-en-club-ou-en-selection-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/jour-le-plus-long-deschamps-endeuille-defaite-nationale-et-gout-d-inacheve-le-recit-de-la-campagne-des-bleus-au-mondial-20260720",
-   "https://www.lefigaro.fr/decideurs/management/il-n-a-jamais-cherche-a-etre-le-heros-du-vestiaire-la-recette-du-leadership-de-didier-deschamps-decrypte-par-des-managers-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/rugueux-garde-du-corps-de-messi-qui-est-leandro-paredes-l-argentin-qui-a-empoisonne-la-finale-de-coupe-du-monde-20260720",
    "https://www.lefigaro.fr/musique/fade-americanisation-le-spectacle-de-madonna-et-shakira-a-la-mi-temps-de-la-finale-du-mondial-sous-les-critiques-20260720",
    "https://www.lefigaro.fr/secteur/high-tech/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-accord-entre-deputes-et-senateurs-le-vote-definitif-prevu-ce-mardi-20260720",
    "https://www.lefigaro.fr/actualite-france/etes-vous-favorables-a-l-interdiction-des-reseaux-sociaux-pour-les-moins-de-15-ans-20260720",
@@ -785,16 +778,16 @@
    "https://www.lefigaro.fr/international/etats-unis-des-tirs-a-seattle-font-plusieurs-victimes-20260727",
    "https://www.lefigaro.fr/flash-eco/edf-va-s-appuyer-sur-technip-energies-pour-le-chantier-du-siecle-et-tenir-le-delai-des-reacteurs-epr-2-20260727",
    "https://www.lefigaro.fr/international/beaucoup-de-personnes-gisaient-au-sol-a-seattle-les-temoins-decrivent-l-horreur-de-la-fusillade-qui-a-fait-deux-morts-20260727",
-   "https://www.lefigaro.fr/faits-divers/paris-trois-blesses-dans-une-attaque-au-couteau-un-suspect-interpelle-20260727"
+   "https://www.lefigaro.fr/faits-divers/paris-trois-blesses-dans-une-attaque-au-couteau-un-suspect-interpelle-20260727",
+   "https://www.lefigaro.fr/actualite-france/incendie-emmanuel-macron-se-rend-en-gironde-rencontrer-des-forces-mobilisees-et-des-elus-20260727",
+   "https://www.lefigaro.fr/actualite-france/incendie-en-gironde-le-feu-est-stabilise-mais-pas-fixe-annonce-laurent-nunez-20260727",
+   "https://www.lefigaro.fr/societes/incendie-en-gironde-bercy-annonce-13-000-entreprises-evacuees-et-des-aides-pour-les-sinistres-20260727",
+   "https://www.lefigaro.fr/actualite-france/quatre-fois-paris-60-000-terrains-de-football-pourquoi-la-superficie-de-l-incendie-en-gironde-est-hors-normes-20260727",
+   "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260727",
+   "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260727",
+   "https://www.lefigaro.fr/meteo/jusqu-a-42-0c-attendus-mercredi-decouvrez-l-arrivee-de-la-vague-de-chaleur-en-carte-20260727"
   ],
   "https://www.france24.com/fr/rss": [
-   "19034750-842f-11f1-8c47-1f429402a757",
-   "5cc28dba-842b-11f1-b655-f763b6582da7",
-   "41b7fb48-842d-11f1-9626-f763b6582da7",
-   "6049dcf8-8427-11f1-bd84-f763b6582da7",
-   "e46602d0-8429-11f1-ae3f-41a954a1f7a0",
-   "5d7a2f6e-8445-11f1-a914-5f1325aafd8a",
-   "ca6fbb02-843b-11f1-802d-a73c52fd5ab3",
    "d7c83e32-8440-11f1-b030-b739683e2996",
    "94c66ab0-8430-11f1-af97-1f429402a757",
    "0b16d224-8439-11f1-b6d4-a73c52fd5ab3",
@@ -1087,7 +1080,14 @@
    "5d16765c-897e-11f1-8a8c-c34a3d066068",
    "c0e75e1a-897b-11f1-bb33-5b41d5fe3b3f",
    "bf1e126e-8952-11f1-a186-e9fe2f3d74bb",
-   "adf61322-894f-11f1-8a1f-e9fe2f3d74bb"
+   "adf61322-894f-11f1-8a1f-e9fe2f3d74bb",
+   "546a9a02-89be-11f1-bbf0-cd6d3d7d5f22",
+   "9194f22a-89bd-11f1-9ed8-378f7439d189",
+   "1bb31bbe-89bc-11f1-a5d0-cd6d3d7d5f22",
+   "05151d32-89ba-11f1-93e9-378f7439d189",
+   "e569527c-89ba-11f1-a596-cd6d3d7d5f22",
+   "d53b78c8-89b8-11f1-b3c9-378f7439d189",
+   "28c291f8-89b3-11f1-9e17-63d8d12773e5"
   ],
   "https://www.rfi.fr/fr/rss": [
    "7e96931c-7c4e-11f1-b78b-25cf7d22934c",
@@ -2331,6 +2331,44 @@
  "evenements_attente": [
   {
    "faits": [
+    "Un incendie massif ravage la Gironde depuis mercredi 23 juillet 2026",
+    "Environ 42 000 hectares de forêt ont brûlé",
+    "C'est le deuxième plus important incendie de l'histoire de France",
+    "C'est le plus dévastateur des cinquante dernières années en France",
+    "Environ 220 000 personnes ont été évacuées",
+    "Près de 13 000 entreprises ont été évacuées",
+    "Les flammes se situent à 15 km de l'agglomération bordelaise",
+    "2 500 pompiers luttent contre l'incendie",
+    "L'incendie est stabilisé mais pas fixé selon le ministre de l'Intérieur",
+    "Une accalmie météorologique s'est produite la nuit du 26 au 27 juillet",
+    "Une vague de chaleur est attendue mercredi 28 juillet avec des températures jusqu'à 42°C",
+    "Des milliers d'arbres sont coupés pour créer des pare-feu",
+    "Le parc des expositions de Bordeaux accueille des sinistrés",
+    "Les assureurs prendront en charge les frais de relogement",
+    "Emmanuel Macron s'est rendu en Gironde et a présidé une cellule interministérielle de crise"
+   ],
+   "qui": "Gouvernement français (Emmanuel Macron, Laurent Nunez), pompiers, population girdondaise",
+   "ou": "Gironde (Bordeaux, bassin d'Arcachon), France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [
+    "L'incendie pourrait reprendre avec l'arrivée de la chaleur et du vent"
+   ],
+   "importance": 95,
+   "empreinte": "eb31f06d5d440402",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-27T14:02:10.267664+00:00"
+  },
+  {
+   "faits": [
     "Un incendie massif progresse aux portes de Bordeaux en Gironde",
     "La situation est restée globalement stable dans la nuit de dimanche à lundi",
     "Les autorités redoutent l'arrivée d'une vague de chaleur dès mardi qui compliquera la lutte contre l'incendie",
@@ -2377,6 +2415,28 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-27T11:46:01.441653+00:00"
+  },
+  {
+   "faits": [
+    "Une quatrième vague de chaleur s'installe sur la France",
+    "Des températures jusqu'à 42°C sont attendues mercredi en France"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "fbf188010e048c67",
+   "score": 93,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-27T14:02:10.267671+00:00"
   },
   {
    "faits": [
@@ -2533,6 +2593,57 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-27T11:46:01.441665+00:00"
+  },
+  {
+   "faits": [
+    "Des incendies font rage en Espagne",
+    "L'incendie dans la région d'Ávila, à l'ouest de Madrid, est le plus important jamais enregistré en Espagne",
+    "Plus de 77 000 hectares ont brûlé en Espagne",
+    "25 000 hectares brûlés dans la région de Madrid",
+    "Une personne est morte dans un incendie distinct près de Valence",
+    "Environ 75 000 personnes ont été évacuées en Espagne",
+    "Dizaines de milliers d'habitants ont été évacués près de Valence",
+    "Pedro Sanchez (Premier ministre espagnol) s'attend à des heures difficiles"
+   ],
+   "qui": "Gouvernement espagnol (Pedro Sanchez), habitants espagnols",
+   "ou": "Espagne (Ávila, Madrid, Valence)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "be487b5399c29b9b",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T14:02:10.266950+00:00"
+  },
+  {
+   "faits": [
+    "Une voiture a percuté la foule lors de la Marche des fiertés de Berlin samedi 25 juillet 2026",
+    "Au moins une personne est morte dans l'attaque",
+    "29 autres personnes ont été blessées",
+    "L'attaque a impliqué une arme blanche en plus du véhicule",
+    "Le suspect a été tué dimanche lors d'une intervention policière"
+   ],
+   "qui": "Suspect (identité non précisée), participants à la Marche des fiertés de Berlin",
+   "ou": "Berlin, Allemagne",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "ea0937218f644399",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T14:02:10.267688+00:00"
   },
   {
    "faits": [
@@ -2693,6 +2804,30 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T08:18:41.292841+00:00"
+  },
+  {
+   "faits": [
+    "Zinédine Zidane est annoncé depuis plusieurs mois comme prochain sélectionneur de l'équipe de France",
+    "Zidane n'a pas entraîné depuis la fin de son deuxième passage au Real Madrid entre 2019 et 2021",
+    "Il n'a pas entraîné depuis 5 ans"
+   ],
+   "qui": "Zinédine Zidane, équipe de France de football, Didier Deschamps (sélectionneur sortant)",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 70,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "La nomination de Zidane n'est pas officiellement confirmée"
+   ],
+   "importance": 65,
+   "empreinte": "e7298440776cb431",
+   "score": 76,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T14:02:10.267699+00:00"
   },
   {
    "faits": [
