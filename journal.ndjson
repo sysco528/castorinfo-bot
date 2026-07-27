@@ -7529,3 +7529,43 @@
 {"decision": "controle", "evt": "5e272647aa371d55", "motif": "ok_sim_0.11", "ts": "2026-07-27T01:02:23+00:00"}
 {"decision": "publie", "empreinte": "37458f65c860cafb", "post_id": "2081545706016518254", "carte": true, "texte": "La RDC enregistre 3 075 cas d'Ebola et 1 354 décès. Mille nouveaux cas ont été détectés en dix jours. L'épidémie sévit dans l'est du pays, région fragilisée par 30 ans de conflits. (France 24, Ouest-France)", "ts": "2026-07-27T01:02:24+00:00"}
 {"decision": "publie", "empreinte": "20673c89cae0a84c", "post_id": "2081545722420437027", "carte": true, "texte": "⚽ Le Paris Saint-Germain abandonne la course pour l'attaquant de Leipzig Yan Diomandé, selon un communiqué transmis à Sky Sport. Le joueur devrait s'engager avec le Real Madrid, selon L'Équipe et Ouest-France.", "ts": "2026-07-27T01:02:28+00:00"}
+{"decision": "abandon_attente", "evt": "74a4531900a01237", "categorie": "sport", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "229f67cbf856b843", "categorie": "sport", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "fe0c5d3a501fe52f", "categorie": "sport", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "9a7365fcb8e77855", "categorie": "meteo_catastrophe", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "fdc6ffca30f0a647", "categorie": "sport", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "d60e650410091777", "categorie": "culture", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "3453aee11411bccd", "categorie": "meteo_catastrophe", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "0ec00bbf58537e00", "categorie": "faits_divers", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "0d2c6b583eea7274", "categorie": "sport", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "6a6615c90cfdba1e", "categorie": "deces_personnalite", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "084dbeefd56aff43", "categorie": "sport", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "abandon_attente", "evt": "27d33f607680b3e6", "categorie": "justice", "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "publier", "evt": "4d3c6ea35721f7b5", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo", "Le Figaro", "France 24", "RFI", "Ouest-France"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "d15863bfb790776d", "score": 83, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "d69b441176be7b90", "score": 85, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "3e073f7646d910da", "score": 73, "categorie": "justice", "sensible": true, "confiance": 65, "sources": ["Le Figaro"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "5214ea47f2e494a8", "score": 82, "categorie": "justice", "sensible": true, "confiance": 87, "sources": ["France 24"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "f8912c58efc95468", "score": 85, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "publier", "evt": "a2b2a911f3a59e6a", "score": 83, "categorie": "international", "sensible": false, "confiance": 87, "sources": ["RFI"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "publier", "evt": "3a123ead42794ad7", "score": 79, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "publier", "evt": "54bca996cdbd711e", "score": 77, "categorie": "international", "sensible": false, "confiance": 78, "sources": ["Ouest-France"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "publier", "evt": "f3bbb23700b8a198", "score": 80, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["Ouest-France"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "publier", "evt": "d33cdbd12c0eff99", "score": 77, "categorie": "sante", "sensible": false, "confiance": 75, "sources": ["franceinfo"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "publier", "evt": "b42491fbb9d8eeee", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "9e2d7eb45e91249b", "score": 88, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["France 24"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "5cf748e95dece802", "score": 84, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "2bb22d9576b26ca9", "score": 84, "categorie": "international", "sensible": true, "confiance": 87, "sources": ["RFI"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "93dd05d36876cf49", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "e163bd9b278e1ae2", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "publier", "evt": "5b9576d4bf23cbe8", "score": 81, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "8e4aa413a3470536", "score": 80, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "4d43dd2d85272698", "score": 79, "categorie": "faits_divers", "sensible": true, "confiance": 86, "sources": ["20 Minutes"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "3b70fb3a3ed7ca36", "score": 78, "categorie": "faits_divers", "sensible": true, "confiance": 82, "sources": ["Ouest-France"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "publier", "evt": "e4a778b5b379bb08", "score": 78, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "publier", "evt": "41c1e936c3a0de5f", "score": 75, "categorie": "sport", "sensible": false, "confiance": 78, "sources": ["L'Équipe"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "attente", "evt": "ad42968038202dcf", "score": 73, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["L'Équipe"], "ts": "2026-07-27T04:48:39+00:00"}
+{"decision": "controle", "evt": "4d3c6ea35721f7b5", "motif": "ok_sim_0.29", "ts": "2026-07-27T04:48:44+00:00"}
+{"decision": "controle", "evt": "a2b2a911f3a59e6a", "motif": "ok_sim_0.47", "ts": "2026-07-27T04:48:49+00:00"}
+{"decision": "publie", "empreinte": "17d4eacc8dd4b219", "post_id": "2081602689461588155", "carte": true, "texte": "🔴 ALERTE — Un incendie massif ravage la Gironde depuis le 22 juillet : 42 000 hectares brûlés, 220 000 évacués, 240 habitations détruites. Le feu, à 15 km de Bordeaux, menace des sites stratégiques. Macron préside une réunion de crise lundi. (franceinfo)", "ts": "2026-07-27T04:48:50+00:00"}
+{"decision": "publie", "empreinte": "f6b8628051ba18c0", "post_id": "2081602705668407363", "carte": true, "texte": "🇭🇳 Juan Orlando Hernandez, ancien président du Honduras gracié par Trump en novembre 2025, est rentré dimanche au pays. Accueilli en héros malgré un bilan marqué par des accusations de corruption et d'atteintes aux droits humains. (RFI)", "ts": "2026-07-27T04:48:54+00:00"}

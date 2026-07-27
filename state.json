@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-l-espagne-de-yamal-et-l-argentine-de-messi-ont-rendez-vous-avec-l-histoire-en-finale-scenario-incroyable-pour-france-angleterre_8113370.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/cinq-marins-meurent-apres-des-frappes-russes-sur-un-navire-marchand-appartenant-a-la-turquie_8114357.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/l-espagne-s-offre-une-deuxieme-etoile-en-venant-a-bout-de-l-argentine-en-finale-de-la-coupe-du-monde-2026_8114348.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/les-buteurs-au-rendez-vous-l-omnipresence-de-donald-trump-les-prix-exorbitants-ce-qu-on-a-aime-et-moins-aime-lors-de-la-coupe-du-monde-2026_8110256.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/louisette-ridvan-florean-adam-patrick-on-vous-raconte-ces-vies-emportees-par-la-canicule-de-juin-2026_8087096.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/tour-de-france/mathieu-van-der-poel-l-emporte-sur-les-champs-elysees-pour-la-derniere-etape-tadej-pogacar-egale-le-legendaire-record-avec-un-cinquieme-sacre-sur-le-tour-de-france_8123171.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/terrorisme/le-suspect-de-l-attaque-meurtriere-survenue-samedi-soir-a-berlin-lors-de-la-marche-des-fiertes-tue-par-la-police_8123168.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/c-est-un-peu-comme-une-guerre-des-landes-a-la-gironde-quatre-jours-en-enfer-contre-un-monstre-de-feu_8123234.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-vois-plus-rien-je-vois-de-la-desolation-le-porge-un-village-aneanti-par-les-incendies_8123225.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-vois-plus-rien-je-vois-de-la-desolation-le-porge-un-village-aneanti-par-les-incendies_8123225.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendies-en-gironde-84-sapeurs-pompiers-blesses-par-l-incendie-reste-globalement-stable-au-cours-de-la-nuit_8123420.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/temoignages-mon-corps-n-est-pas-encore-descendu-en-temperature-jambes-gonflees-fatigue-crises-d-angoisse-ils-sont-traumatises-par-la-canicule-de-juin-2026_8115314.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -474,10 +474,6 @@
    "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-le-controle-total-de-la-roja-des-argentins-miserables-messi-rate-sa-sortie-les-tops-et-flops-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-en-video-comment-leandro-paredes-a-mis-le-feu-aux-poudres-en-declenchant-une-bagarre-generale-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-en-video-ce-moment-tres-genant-ou-donald-trump-refuse-de-descendre-du-podium-20260720",
-   "https://www.lefigaro.fr/conjoncture/2-6-milliards-de-dollars-gagnes-en-quatre-ans-les-secrets-du-portefeuille-ultra-concentre-de-bill-ackman-le-maitre-de-l-activisme-boursier-20260720",
    "https://www.lefigaro.fr/flash-eco/carburant-les-prix-a-la-pompe-en-forte-hausse-apres-la-reprise-du-conflit-au-moyen-orient-20260720",
    "https://www.lefigaro.fr/international/royaume-uni-andy-burnham-nomme-premier-ministre-britannique-par-le-roi-charles-iii-20260720",
    "https://www.lefigaro.fr/international/royaume-uni-le-pays-est-plus-fort-et-plus-juste-assure-keir-starmer-en-quittant-downing-street-20260720",
@@ -773,12 +769,13 @@
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tadej-pogacar-remportera-t-il-un-6-e-tour-de-france-20260726",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-malgre-tadej-pogacar-et-le-peloton-l-exploit-ahurissant-de-mathieu-van-der-poel-20260726",
    "https://sante.lefigaro.fr/medecine/alzheimer-le-vaccin-bcg-revele-une-piste-de-protection-inattendue-contre-la-maladie-20260726",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-exceptionnel-van-der-poel-le-volcan-montmartre-un-gel-inutile-du-classement-les-tops-et-les-flops-de-la-21e-etape-20260726"
+   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-exceptionnel-van-der-poel-le-volcan-montmartre-un-gel-inutile-du-classement-les-tops-et-les-flops-de-la-21e-etape-20260726",
+   "https://www.lefigaro.fr/politique/incendies-le-dernier-conseil-des-ministres-avant-la-pause-estivale-vire-a-la-reunion-de-crise-20260726",
+   "https://www.lefigaro.fr/meteo/en-direct-incendies-en-france-feu-globalement-stable-en-gironde-macron-presidera-une-cellule-interministerielle-de-crise-ce-lundi-20260727",
+   "https://www.lefigaro.fr/vox/societe/l-editorial-d-etienne-de-montety-avec-les-incendies-une-saison-en-enfer-20260726",
+   "https://www.lefigaro.fr/international/etats-unis-des-tirs-a-seattle-font-plusieurs-victimes-20260727"
   ],
   "https://www.france24.com/fr/rss": [
-   "4c323d10-83db-11f1-868a-8b09140528e5",
-   "45a589e2-83d7-11f1-9dbb-f31541d4772e",
-   "39fc490a-83c8-11f1-9d3c-1108e2394b4c",
    "5011170a-83d4-11f1-9a1d-f31541d4772e",
    "f3640a80-83d3-11f1-ba19-1f09f4ef2664",
    "bb187b30-83cd-11f1-8424-4942debde5c5",
@@ -1075,13 +1072,12 @@
    "85d6e66c-893d-11f1-b67b-0f8306125738",
    "f57b386c-8945-11f1-bfe0-75e6aef5a979",
    "7cc4a60e-8938-11f1-808c-fbf6ecf132fd",
-   "e3067eb2-8936-11f1-8e32-a193c3ebcc2f"
+   "e3067eb2-8936-11f1-8e32-a193c3ebcc2f",
+   "00f5b778-8967-11f1-bb7a-61331b3d9a88",
+   "0472cdb0-8966-11f1-8155-61331b3d9a88",
+   "ad67ca66-895b-11f1-8e1d-c1af73ed71b1"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "2317cd0a-7fc6-11f1-ba31-618bd635538c",
-   "afc9d6be-7f65-11f1-946d-1792c8950652",
-   "0b578cd8-7fed-11f1-8729-f9f3d23cdb9f",
-   "7194cc7a-7fea-11f1-b745-f9f3d23cdb9f",
    "27ee6bec-7fd3-11f1-a7ea-6d81a971eef2",
    "ca8239a2-7fdc-11f1-9131-e5ebdc56703f",
    "5fc19e2e-7fcc-11f1-a55d-197d83707159",
@@ -1377,16 +1373,13 @@
    "1bd30b5a-886c-11f1-8033-e11aa620d7f6",
    "cbc1a55a-8919-11f1-9f7a-eb45b528652e",
    "eb2217ea-890a-11f1-9331-e9ee14d75306",
-   "688cb0da-891c-11f1-83a1-eb45b528652e"
+   "688cb0da-891c-11f1-83a1-eb45b528652e",
+   "61997294-8972-11f1-9d23-ff8eb992fb32",
+   "e3fe9848-893d-11f1-919b-a5f82f923ade",
+   "334bccd6-8975-11f1-bcf6-4dad9d7f8aed",
+   "175fd97a-8959-11f1-8ee4-9b6e2d7af132"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-nous-devons-etre-dignes-dans-la-defaite-lionel-scaloni-reagit-a-la-victoire-des-espagnols-f7348dd6-83c6-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-les-champions-du-monde-espagnols-vont-celebrer-leur-victoire-a-madrid-65c06f88-83c5-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/guyana/naufrage-au-guyana-deux-membres-de-lequipage-testes-positif-au-cannabis-ce039cd2-83e3-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-le-golfe-persique-sembrase-da7f635a-83ad-11f1-b703-745e62b608d9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/culture/arts/expositions/je-dessine-pour-parler-de-ce-que-je-fais-les-uvres-du-jardinier-samuel-lewis-exposees-au-musee-dart-naif-de-laval-30c2c8f2-4c58-11f1-aaad-3dc0b7ad690d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/politique/institutions/assemblee-nationale/loi-durgence-agricole-les-debats-se-tendent-autour-de-la-question-des-pesticides-9ce6b0c8-847c-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/en-images-coupe-du-monde-le-retour-triomphal-des-rois-plus-dun-million-despagnols-dans-les-rues-de-madrid-47b57fe0-8444-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-tu-as-touche-le-ciel-du-bout-des-doigts-le-message-poignant-dinaki-williams-pour-son-frere-nico-a80e21ea-8475-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/culture/musees/paris-reouverture-mercredi-de-la-galerie-du-louvre-ou-a-eu-lieu-le-cambriolage-doctobre-2025-3bce2fde-847a-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-lhistoire-parle-pour-lui-accuse-detre-en-conflit-avec-didier-deschamps-rayan-cherki-repond-bed367a2-8478-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1679,7 +1672,14 @@
    "https://www.ouest-france.fr/sport/tennis-de-table/alexis-lebrun/tennis-de-table-alexis-lebrun-est-tombe-sur-plus-fort-en-finale-du-wtt-star-contender-de-sao-jose-dos-campos-51b23808-893a-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/incendie/en-gironde-cinquieme-nuit-de-combat-pour-les-pompiers-qui-redoutent-la-chaleur-ec7797f0-893c-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sante/virus-ebola/ebola-un-millier-de-nouveaux-cas-recenses-en-dix-jours-en-rdc-c9a01bae-894a-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/violences/cicatrice-et-il-en-sang-dautres-accusations-de-violences-policieres-lors-du-sacre-du-psg-1bb76e92-8946-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/faits-divers/violences/cicatrice-et-il-en-sang-dautres-accusations-de-violences-policieres-lors-du-sacre-du-psg-1bb76e92-8946-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/colombie/colombie-le-president-de-droite-dure-recemment-elu-va-rompre-les-relations-diplomatiques-avec-cuba-et-le-nicaragua-6e4707ee-8969-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/le-mag/vin/un-vin-qui-donne-le-ton-dune-soiree-reussie-une-cuvee-de-viognier-insolite-en-anjou-ad64f79a-873b-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-trump-laisse-de-la-place-aux-discussions-avec-liran-le-cru-recule-le-point-sur-la-nuit-6ec7ab08-8958-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-zelensky-recu-par-le-royaume-uni-un-navire-coule-dans-la-mer-noire-le-point-sur-la-nuit-f3f609dc-8944-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/economie/transports/voiture/pannes-de-clim-les-garagistes-en-surchauffe-580f60ee-812f-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendies-dans-le-sud-macron-reunit-les-ministres-les-colos-annulees-en-gironde-le-point-sur-la-nuit-d45b2240-895a-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/equipe-de-france/vous-ne-nous-avez-jamais-laches-kylian-mbappe-remercie-les-acteurs-de-la-coupe-du-monde-dans-une-lettre-ouverte-b46f7fa8-88f1-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2341,52 +2341,51 @@
   },
   {
    "faits": [
-    "Tadej Pogacar remporte le Tour de France 2026 pour la 5e fois",
-    "Pogacar devient le 5e coureur à remporter 5 Tours de France, rejoignant Jacques Anquetil, Eddy Merckx, Bernard Hinault et Miguel Indurain",
-    "Mathieu van der Poel remporte la 21e étape sur les Champs-Élysées",
-    "Remco Evenepoel termine 2e du classement général",
-    "Isaac Del Toro termine 3e du classement général",
-    "Paul Seixas, 19 ans (Decathlon - CMA CGM), incarne l'espérance française au 4e rang",
-    "La 113e édition du Tour de France s'achève dimanche 26 juillet 2026",
-    "Aucun coureur français n'a remporté d'étape lors de cette édition"
+    "Une attaque a eu lieu contre la marche des fiertés (Pride) à Berlin samedi",
+    "1 mort et 29 blessés ont été enregistrés lors de l'attaque",
+    "Le principal suspect avait attiré l'attention des autorités pour infractions pénales, radicalisation et appartenance au milieu islamiste",
+    "Le suspect est décédé"
    ],
-   "qui": "Tadej Pogacar, Mathieu van der Poel, Remco Evenepoel, Isaac Del Toro, Paul Seixas",
-   "ou": "France, Paris",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 92,
+   "qui": "Suspect décédé (lié au milieu islamiste)",
+   "ou": "Berlin, Allemagne",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
    "sources": [
-    "Ouest-France"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 85,
-   "empreinte": "74a4531900a01237",
-   "score": 86,
-   "fiab_max": 80,
+   "importance": 80,
+   "empreinte": "d69b441176be7b90",
+   "score": 85,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-26T20:00:19.231550+00:00"
+   "depuis": "2026-07-27T04:48:39.739385+00:00"
   },
   {
    "faits": [
-    "Mathieu Valbuena, à 41 ans, s'engage avec le club de Santa Lucia en deuxième division maltaise",
-    "L'engagement est pour une saison plus une autre en option"
+    "Le statut de protection temporaire (TPS) accordé aux Haïtiens aux États-Unis expire le 27 juillet 2026",
+    "Cette décision a été annoncée par Donald Trump l'année dernière",
+    "La Cour suprême a validé cette décision le 25 juin 2026",
+    "Centaines de milliers de personnes se préparent à être expulsées",
+    "Beaucoup d'Haïtiens travaillent dans des secteurs clés (santé, aide à la personne)",
+    "Haïti connaît la violence des gangs et compte près d'1,5 million de déplacés"
    ],
-   "qui": "Mathieu Valbuena",
-   "ou": "Malte",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
+   "qui": "Donald Trump, Cour suprême américaine",
+   "ou": "États-Unis, Haïti",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
    "sources": [
-    "Ouest-France",
-    "L'Équipe"
+    "RFI"
    ],
    "non_confirme": [],
-   "importance": 35,
-   "empreinte": "229f67cbf856b843",
+   "importance": 80,
+   "empreinte": "f8912c58efc95468",
    "score": 85,
    "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-26T22:16:51.565234+00:00"
+   "nb_sources": 1,
+   "depuis": "2026-07-27T04:48:39.739468+00:00"
   },
   {
    "faits": [
@@ -2436,6 +2435,52 @@
   },
   {
    "faits": [
+    "Des incendies ravagent l'Espagne, attisés par des températures élevées, la sécheresse et des vents violents",
+    "Les incendies affectent les provinces d'Avila, la communauté de Madrid et de Tolède",
+    "77 000 hectares sont partis en fumée en Espagne",
+    "Environ 90 000 personnes ont été évacuées ou confinées en Espagne"
+   ],
+   "qui": null,
+   "ou": "Espagne (Avila, Madrid, Tolède)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "d15863bfb790776d",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T04:48:39.739357+00:00"
+  },
+  {
+   "faits": [
+    "Nelson Haase, militaire à la retraite, a été arrêté au Chili",
+    "Haase avait été condamné à 25 ans de prison en 2023 pour l'enlèvement et le meurtre du chanteur Victor Jara en 1973",
+    "Haase avait pris la fuite à l'annonce de son jugement en 2023",
+    "Son arrestation a été annoncée dimanche 26 juillet 2026"
+   ],
+   "qui": "Nelson Haase",
+   "ou": "Chili",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 87,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "5214ea47f2e494a8",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T04:48:39.739445+00:00"
+  },
+  {
+   "faits": [
     "Trois ans après le coup d'État du 26 juillet 2023 au Niger, la situation sécuritaire reste instable",
     "Mohamed Bazoum, président déchu, reste séquestré",
     "Les avocats du président déchu continuent de réclamer sa libération"
@@ -2455,31 +2500,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T01:02:14.626199+00:00"
-  },
-  {
-   "faits": [
-    "Coupe d'Afrique des Nations féminine 2026 débute au Maroc",
-    "Seize sélections en lice",
-    "Nigeria champion en titre et détenteur de dix sacres continentaux",
-    "Maroc espère remporter son premier trophée",
-    "Édition qualificative pour la Coupe du monde féminine 2027",
-    "Hausse historique des dotations financières décidée par la CAF"
-   ],
-   "qui": "Nigeria, Maroc, sélections féminines africaines",
-   "ou": "Maroc",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "fe0c5d3a501fe52f",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T21:09:13.722998+00:00"
   },
   {
    "faits": [
@@ -2505,28 +2525,6 @@
   },
   {
    "faits": [
-    "La CAN 2026 féminine a débuté au Maroc",
-    "Le Maroc a remporté sa première rencontre face au Kenya (4-0)",
-    "L'Algérie a battu le Sénégal (2-0)"
-   ],
-   "qui": "Maroc, Kenya, Algérie, Sénégal",
-   "ou": "Maroc",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 58,
-   "empreinte": "5b9576d4bf23cbe8",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T23:17:15.026683+00:00"
-  },
-  {
-   "faits": [
     "Tiphaine Véron a disparu le 29 juillet 2018 à Nikko (Japon) lors d'un voyage touristique",
     "Les proches de Tiphaine Véron mènent toujours l'enquête après huit ans",
     "L'affaire est désormais aux mains du pôle cold case de Nanterre en France"
@@ -2546,55 +2544,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T01:02:14.626280+00:00"
-  },
-  {
-   "faits": [
-    "Un important incendie ravage la Gironde depuis samedi",
-    "Les autorités locales ont ordonné des évacuations dans plusieurs communes près de Bordeaux, dont Cestas (55 000 habitants)",
-    "Environ 200 000 personnes ont dû quitter leur domicile ou lieu de vacances en raison des feux en France",
-    "Des milliers de personnes évacuées ont trouvé refuge au Parc des Expositions de Bordeaux",
-    "La situation évolue favorablement grâce à la pluie",
-    "Le centre d'entraînement des Girondins de Bordeaux a été fermé"
-   ],
-   "qui": "Autorités locales, habitants de Gironde",
-   "ou": "Gironde, Bordeaux, Cestas",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Incendie 'toujours pas fixé' (formulation suggérant situation en évolution)"
-   ],
-   "importance": 85,
-   "empreinte": "9a7365fcb8e77855",
-   "score": 80,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T22:16:42.675357+00:00"
-  },
-  {
-   "faits": [
-    "Pierre Cornu, 15 ans, Normand, a battu le record de traversée de la Manche en solitaire en Optimist",
-    "Trajet effectué de l'île de Wight à Cherbourg en 13 h 27 le dimanche 26 juillet 2026",
-    "Précédent record : 14 h 20 en 2018, détenu par Tom Goron (12 ans à l'époque)"
-   ],
-   "qui": "Pierre Cornu",
-   "ou": "Manche, Normandie",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "fdc6ffca30f0a647",
-   "score": 80,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T20:00:19.231553+00:00"
   },
   {
    "faits": [
@@ -2620,26 +2569,26 @@
   },
   {
    "faits": [
-    "Les Plages du Débarquement sont officiellement inscrites au patrimoine mondial de l'Unesco depuis le 26 juillet 2026",
-    "Le classement pourrait s'accompagner d'une hausse de 15 % à 20 % de fréquentation touristique"
+    "Abelardo de la Espriella a été élu président de la Colombie il y a un mois",
+    "Il est un président de droite dure soutenu par les États-Unis",
+    "Il a affirmé dimanche 26 juillet qu'il romprait les relations diplomatiques avec Cuba",
+    "Il a aussi affirmé qu'il romprait les relations diplomatiques avec le Nicaragua"
    ],
-   "qui": "Unesco",
-   "ou": "Normandie, France",
-   "categorie": "culture",
+   "qui": "Abelardo de la Espriella, États-Unis",
+   "ou": "Colombie, Cuba, Nicaragua",
+   "categorie": "international",
    "sensible": false,
    "confiance": 85,
    "sources": [
     "Ouest-France"
    ],
-   "non_confirme": [
-    "Impact exact de la surfréquentation sur les sites"
-   ],
+   "non_confirme": [],
    "importance": 65,
-   "empreinte": "d60e650410091777",
+   "empreinte": "3a123ead42794ad7",
    "score": 79,
    "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-26T20:00:19.231554+00:00"
+   "depuis": "2026-07-27T04:48:49.395854+00:00"
   },
   {
    "faits": [
@@ -2665,53 +2614,6 @@
   },
   {
    "faits": [
-    "115 000 hectares ont été parcourus par les incendies depuis le début de 2026",
-    "Plusieurs foyers restent actifs en Gironde, dans les Landes, dans le Var et en Haute-Corse",
-    "Le ministre de l'Intérieur Laurent Nuñez qualifie le bilan de 'tout à fait exceptionnel'"
-   ],
-   "qui": "Laurent Nuñez (ministre de l'Intérieur)",
-   "ou": "France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "3453aee11411bccd",
-   "score": 78,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T22:16:42.675410+00:00"
-  },
-  {
-   "faits": [
-    "Attaque à la voiture-bélier en marge de la marche des fiertés de Berlin",
-    "Date : samedi 25 juillet 2026",
-    "Bilan : un mort",
-    "Bilan : environ trente blessés",
-    "Auteur présumé tué par la police",
-    "Plus aucun blessé n'est en danger de mort selon le chancelier Friedrich Merz"
-   ],
-   "qui": "Friedrich Merz (chancelier allemand), auteur de l'attaque (décédé)",
-   "ou": "Berlin, Allemagne",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "0ec00bbf58537e00",
-   "score": 78,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T21:09:13.722226+00:00"
-  },
-  {
-   "faits": [
     "Alexis Lebrun s'est incliné en finale du WTT Star Contender de Sao José dos Campos",
     "Il a perdu face à Hugo Calderano par le score de 3-4",
     "C'est la septième rencontre entre les deux joueurs et Lebrun n'a jamais gagné face à Calderano"
@@ -2734,97 +2636,72 @@
   },
   {
    "faits": [
-    "Luca Van Assche remporte l'Open d'Estoril (ATP 250) au Portugal",
-    "Victoire en finale face à Alexander Blockx avec un score de 6-4, 4-6, 7-5",
-    "Il s'agit du premier titre de Van Assche sur le circuit principal",
-    "Victoire le dimanche 26 juillet 2026"
+    "Aucun bombardement américain signalé en Iran depuis vendredi 24 juillet 2026",
+    "Le cours du pétrole recule",
+    "Donald Trump laisse « de la place » aux discussions avec l'Iran"
    ],
-   "qui": "Luca Van Assche",
-   "ou": "Estoril, Portugal",
-   "categorie": "sport",
+   "qui": "Donald Trump, États-Unis, Iran",
+   "ou": "Iran, États-Unis",
+   "categorie": "international",
    "sensible": false,
-   "confiance": 90,
+   "confiance": 78,
    "sources": [
     "Ouest-France"
    ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "0d2c6b583eea7274",
-   "score": 78,
+   "non_confirme": [
+    "Nature précise des discussions envisagées"
+   ],
+   "importance": 70,
+   "empreinte": "54bca996cdbd711e",
+   "score": 77,
    "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-26T20:00:19.231556+00:00"
+   "depuis": "2026-07-27T04:48:49.395860+00:00"
   },
   {
    "faits": [
-    "Kalilou Traoré, ancien milieu de terrain du FC Sochaux-Montbéliard, décédé",
-    "Âge au décès : 38 ans",
-    "Date du décès : dimanche 26 juillet 2026",
-    "Cause du décès : accident de la route",
-    "Ancienne internationnale malienne",
-    "A joué pour Sochaux de 2012 à 2014"
+    "Les fortes chaleurs de juin 2026 ont eu de lourdes conséquences sur les organismes",
+    "Certaines personnes ressentent toujours les effets de la canicule malgré la baisse des températures",
+    "Les symptômes incluent : jambes gonflées, fatigue, crises d'angoisse, traumatismes"
    ],
-   "qui": "Kalilou Traoré, FC Sochaux-Montbéliard",
-   "ou": "Mali",
-   "categorie": "deces_personnalite",
-   "sensible": true,
+   "qui": null,
+   "ou": "France",
+   "categorie": "sante",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "d33cdbd12c0eff99",
+   "score": 77,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T04:48:49.395862+00:00"
+  },
+  {
+   "faits": [
+    "Kylian Mbappé a publié une lettre de remerciements lundi 27 juillet 2026",
+    "La lettre a été publiée dans la presse quotidienne régionale française",
+    "Elle remercie ses partenaires, son coach, son staff et les supporters tricolores",
+    "Elle est publiée un peu plus d'une semaine après la fin de la Coupe du monde"
+   ],
+   "qui": "Kylian Mbappé",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
    "confiance": 85,
    "sources": [
     "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 50,
-   "empreinte": "6a6615c90cfdba1e",
-   "score": 76,
+   "importance": 55,
+   "empreinte": "b42491fbb9d8eeee",
+   "score": 77,
    "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-26T21:09:13.722198+00:00"
-  },
-  {
-   "faits": [
-    "L'AS Cannes a affronté l'AS Roma en match amical",
-    "Cannes était menée 3-0",
-    "Cannes a arraché un match nul grâce notamment à un but de Julien Lopez",
-    "Les deux clubs ont le même propriétaire, Dan Friedkin"
-   ],
-   "qui": "AS Cannes, AS Roma, Julien Lopez, Dan Friedkin",
-   "ou": "Stade Pierre de Coubertin, Cannes",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 40,
-   "empreinte": "084dbeefd56aff43",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T22:16:51.565248+00:00"
-  },
-  {
-   "faits": [
-    "Le corps d'Anthony Rickard, Britannique disparu en 2001 en Bretagne, a été découvert dans un puits",
-    "Le puits se trouvait au fond de la propriété de sa compagne de l'époque",
-    "Cette compagne a été mise en examen pour meurtre",
-    "Le cold case de 25 ans a été résolu"
-   ],
-   "qui": "Anthony Rickard (victime), sa compagne de l'époque (mise en examen)",
-   "ou": "Morbihan, Bretagne",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "27d33f607680b3e6",
-   "score": 75,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T22:16:42.675288+00:00"
+   "depuis": "2026-07-27T04:48:49.395863+00:00"
   },
   {
    "faits": [
@@ -2850,6 +2727,30 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-26T23:17:15.026694+00:00"
+  },
+  {
+   "faits": [
+    "Des tirs à Seattle ont fait plusieurs victimes",
+    "Les forces de l'ordre ont parlé de plusieurs « victimes » sans préciser s'il y avait des morts"
+   ],
+   "qui": null,
+   "ou": "Seattle, États-Unis",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 65,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "Nombre exact de morts et blessés",
+    "Nature des blessures"
+   ],
+   "importance": 70,
+   "empreinte": "3e073f7646d910da",
+   "score": 73,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T04:48:39.739420+00:00"
   },
   {
    "faits": [
@@ -2879,22 +2780,6 @@
   }
  ],
  "publies_48h": [
-  [
-   "8ce36a03b0af2810",
-   "2026-07-25T01:15:39.156003+00:00"
-  ],
-  [
-   "a1e2dd78f180e4c1",
-   "2026-07-25T01:15:43.149042+00:00"
-  ],
-  [
-   "26ed59f86debd281",
-   "2026-07-25T04:34:03.836709+00:00"
-  ],
-  [
-   "830c820320dc8cf3",
-   "2026-07-25T04:34:07.772616+00:00"
-  ],
   [
    "f2e8b3c58b1ab516",
    "2026-07-25T07:00:24.953013+00:00"
@@ -2966,25 +2851,17 @@
   [
    "20673c89cae0a84c",
    "2026-07-27T01:02:28.389756+00:00"
+  ],
+  [
+   "17d4eacc8dd4b219",
+   "2026-07-27T04:48:50.396343+00:00"
+  ],
+  [
+   "f6b8628051ba18c0",
+   "2026-07-27T04:48:54.316621+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "3ca5a82e4ce99505",
-   "2026-07-25T01:15:34.369732+00:00"
-  ],
-  [
-   "8542300a06ea812d",
-   "2026-07-25T01:15:38.065411+00:00"
-  ],
-  [
-   "328df994ad254da9",
-   "2026-07-25T04:34:01.027307+00:00"
-  ],
-  [
-   "1815306f9ea68b8f",
-   "2026-07-25T04:34:02.767128+00:00"
-  ],
   [
    "d7b9773d1891717c",
    "2026-07-25T07:00:14.757212+00:00"
@@ -3056,6 +2933,14 @@
   [
    "5e272647aa371d55",
    "2026-07-27T01:02:23.403077+00:00"
+  ],
+  [
+   "4d3c6ea35721f7b5",
+   "2026-07-27T04:48:44.325442+00:00"
+  ],
+  [
+   "a2b2a911f3a59e6a",
+   "2026-07-27T04:48:49.395847+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -3064,12 +2949,14 @@
   "🔴 ALERTE — Les incendies en Gironde ont brûlé plus de 42 000 hectares et forcé l'évacuation de 220 000 personnes. Le feu n'est pas fixé. Nouvelles évacuations ordonnées samedi près de Bordeaux. Emmanuel Macron présidera lundi une cellule de crise.",
   "⚽ Tadej Pogacar remporte son cinquième Tour de France. L'étape finale, raccourcie à 89 km, s'est déroulée de Montmartre aux Champs-Élysées, les temps ayant été gelés au kilomètre 40,8 avant la côte de Montmartre. (Le Figaro, France 24, Ouest-France)",
   "La RDC enregistre 3 075 cas d'Ebola et 1 354 décès. Mille nouveaux cas ont été détectés en dix jours. L'épidémie sévit dans l'est du pays, région fragilisée par 30 ans de conflits. (France 24, Ouest-France)",
-  "⚽ Le Paris Saint-Germain abandonne la course pour l'attaquant de Leipzig Yan Diomandé, selon un communiqué transmis à Sky Sport. Le joueur devrait s'engager avec le Real Madrid, selon L'Équipe et Ouest-France."
+  "⚽ Le Paris Saint-Germain abandonne la course pour l'attaquant de Leipzig Yan Diomandé, selon un communiqué transmis à Sky Sport. Le joueur devrait s'engager avec le Real Madrid, selon L'Équipe et Ouest-France.",
+  "🔴 ALERTE — Un incendie massif ravage la Gironde depuis le 22 juillet : 42 000 hectares brûlés, 220 000 évacués, 240 habitations détruites. Le feu, à 15 km de Bordeaux, menace des sites stratégiques. Macron préside une réunion de crise lundi. (franceinfo)",
+  "🇭🇳 Juan Orlando Hernandez, ancien président du Honduras gracié par Trump en novembre 2025, est rentré dimanche au pays. Accueilli en héros malgré un bilan marqué par des accusations de corruption et d'atteintes aux droits humains. (RFI)"
  ],
  "recap_date": "2026-07-26",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-27",
-  "publies": 6
+  "publies": 8
  }
 }
