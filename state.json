@@ -2,13 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-400-drones-ukrainiens-lances-dans-la-nuit-vers-moscou-et-sa-region-selon-le-maire_8114672.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-avec-la-loi-sur-l-aide-a-mourir-suffira-t-il-de-dire-j-en-ai-assez-de-vivre-pour-declencher-une-procedure-d-euthanasie_8111390.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/une-charniere-fiable-une-attaque-encore-jeune-un-entrejeu-a-renover-des-lateraux-a-trouver-comment-se-presente-l-avenir-de-l-equipe-de-france-pour-l-euro-2028-et-le-mondial-2030_8114417.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/plus-de-360-pompiers-encore-mobilises-dix-maisons-brulees-trains-supprimes-ce-que-l-on-sait-de-l-incendie-dans-le-var_8114654.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/reportage-l-espagne-double-championne-du-monde-de-football-c-est-comme-dans-un-reve-savourent-les-supporters-espagnols_8114657.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/ces-reponses-nous-ne-les-aurons-probablement-jamais-pourquoi-l-enquete-sur-les-causes-de-la-mort-de-delphine-aussaguel-s-annonce-complexe-voire-impossible_8114825.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/drogue-addictions/c-est-pire-qu-un-poison-les-effets-devastateurs-du-ptc-une-drogue-tres-plebiscitee-par-les-jeunes_8114360.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/musique/madonna-justin-bieber-bts-shakira-tom-cruise-un-defile-de-stars-a-defaut-d-un-show-tres-spectaculaire-met-la-touche-finale-au-mondial-2026_8114780.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/defenseur-des-droits-laurent-nunez-n-a-aucun-doute-sur-l-objectivite-l-impartialite-de-francois-noel-buffet_8114903.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/l-arrivee-de-zinedine-zidane-a-la-tete-de-la-selection-serait-une-chance-pour-l-equipe-de-france-estime-la-ministre-des-sports_8114795.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +294,14 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/tranchees-feux-tactiques-comment-la-securite-des-installations-industrielles-menacees-par-les-incendies-en-gironde-est-renforcee_8122916.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/des-francais-bien-classes-une-canicule-terrible-les-controles-antidopage-ce-que-l-on-a-aime-et-pas-aime-du-tour-de-france-2026_8121803.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/emploi/plans-sociaux/reprise-de-fibre-excellence-dernier-fabricant-francais-de-pate-a-papier-marchande-carole-delga-appelle-a-ne-pas-se-disperser-en-polemiques-inutiles_8123621.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/proche-orient/yemen/guerre-au-moyen-orient-au-yemen-la-crainte-d-une-prise-controle-du-detroit-de-bab-el-mandeb-par-les-houthis_8123219.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/proche-orient/yemen/guerre-au-moyen-orient-au-yemen-la-crainte-d-une-prise-controle-du-detroit-de-bab-el-mandeb-par-les-houthis_8123219.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/onvousrepond-lutte-contre-le-feu-effets-sur-la-sante-impacts-sur-les-transports-et-le-tourisme-posez-nous-vos-questions-sur-les-incendies-qui-touchent-plusieurs-regions_8123741.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/comment-la-hausse-des-temperatures-attendue-mardi-en-gironde-risque-de-compliquer-la-lutte-contre-les-incendies_8123567.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/pourquoi-les-orages-annonces-ne-sont-pas-une-si-bonne-nouvelle-dans-la-lutte-contre-les-incendies_8123612.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/une-nouvelle-vague-de-chaleur-va-toucher-la-france-a-partir-de-mardi-annonce-meteo-france_8123909.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/au-moins-trois-blesses-dans-une-attaque-a-paris-un-suspect-arme-de-couteaux-interpelle_8123963.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-espagne-de-premiers-retours-prevus-lundi-pour-certains-evacues-pres-de-madrid-l-incendie-toujours-pas-maitrise_8123657.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/la-poste-annonce-une-hausse-moyenne-de-6-73-du-prix-des-timbres-et-des-colis-a-partir-de-2027_8123906.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -471,10 +471,21 @@
    "https://www.lemonde.fr/economie/article/2026/07/26/demarchage-telephonique-a-partir-du-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs_6733043_3234.html",
    "https://www.lemonde.fr/international/article/2026/07/26/au-bresil-l-heritier-flavio-bolsonaro-investi-pour-la-presidentielle-d-octobre_6732875_3210.html",
    "https://www.lemonde.fr/sport/article/2026/07/26/tour-de-france-2026-le-parcours-de-la-vingt-et-unieme-et-derniere-etape-modifiee-en-raison-des-incendies-paris-champs-elysees_6732976_3242.html",
-   "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html"
+   "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html",
+   "https://www.lemonde.fr/planete/article/2026/07/27/incendie-en-gironde-a-cestas-et-a-marcheprime-sur-les-avant-postes-qui-defendent-bordeaux_6733909_3244.html",
+   "https://www.lemonde.fr/international/article/2026/07/27/je-n-aurais-pas-cru-que-cela-puisse-se-passer-dans-la-ville-la-plus-queer-friendly-du-monde-berlin-bouleversee-par-l-attentat-contre-la-marche-des-fiertes_6733572_3210.html",
+   "https://www.lemonde.fr/economie/article/2026/07/26/kirkenes-le-petit-port-sur-la-nouvelle-route-de-l-arctique-ou-grouillent-les-espions_6732769_3234.html",
+   "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-au-moyen-orient-le-chef-de-la-diplomatie-iranienne-accuse-l-ukraine-d-avoir-attaque-un-navire-commercial-iranien_6725301_3210.html",
+   "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-fait-deux-morts-dans-le-sud-de-la-russie-selon-les-autorites-locales_6732775_3210.html",
+   "https://www.lemonde.fr/economie/article/2026/07/27/canicule-quand-l-architecte-des-batiments-de-france-s-oppose-a-une-climatisation_6733678_3234.html",
+   "https://www.lemonde.fr/culture/article/2026/07/27/la-reouverture-du-musee-nissim-de-camondo-a-paris-reportee-a-2030_6733674_3246.html",
+   "https://www.lemonde.fr/international/article/2026/07/27/en-colombie-le-president-elu-annonce-qu-il-va-rompre-les-relations-diplomatiques-avec-cuba-et-le-nicaragua_6733843_3210.html",
+   "https://www.lemonde.fr/idees/article/2026/07/27/l-ia-repose-sur-une-geographie-concrete-mettant-des-territoires-au-service-du-calcul-selon-une-logique-de-comptoirs_6733876_3232.html",
+   "https://www.lemonde.fr/international/article/2026/07/27/le-bresil-rappelle-son-ambassadeur-en-argentine-apres-des-propos-offensants-de-javier-milei-qui-s-en-prend-aussi-au-mexique-et-au-parti-democrate-americain_6733504_3210.html",
+   "https://www.lemonde.fr/sport/article/2026/07/26/tadej-pogacar-la-passe-de-cinq-sur-le-tour-de-france-et-une-perpetuelle-quete-de-defis_6733469_3242.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/27/a-antibes-sur-la-plage-de-salis-l-imbattable-pan-bagnat-de-chez-josy_6733744_3451060.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/royaume-uni-le-pays-est-plus-fort-et-plus-juste-assure-keir-starmer-en-quittant-downing-street-20260720",
    "https://www.lefigaro.fr/international/je-suis-pret-j-ai-un-plan-au-royaume-uni-le-roi-du-nord-andy-burnham-couronne-a-la-tete-du-labour-20260717",
    "https://www.lefigaro.fr/international/royaume-uni-les-images-de-l-arrivee-d-andy-burnham-a-downing-street-et-de-sa-rencontre-avec-charles-iii-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/le-carnet-de-notes-des-bleus-a-la-coupe-du-monde-mbappe-chef-de-bande-upamecano-solide-olise-inegal-hernandez-pas-au-niveau-20260720",
@@ -773,7 +784,8 @@
    "https://www.lefigaro.fr/vox/societe/l-editorial-d-etienne-de-montety-avec-les-incendies-une-saison-en-enfer-20260726",
    "https://www.lefigaro.fr/international/etats-unis-des-tirs-a-seattle-font-plusieurs-victimes-20260727",
    "https://www.lefigaro.fr/flash-eco/edf-va-s-appuyer-sur-technip-energies-pour-le-chantier-du-siecle-et-tenir-le-delai-des-reacteurs-epr-2-20260727",
-   "https://www.lefigaro.fr/international/beaucoup-de-personnes-gisaient-au-sol-a-seattle-les-temoins-decrivent-l-horreur-de-la-fusillade-qui-a-fait-deux-morts-20260727"
+   "https://www.lefigaro.fr/international/beaucoup-de-personnes-gisaient-au-sol-a-seattle-les-temoins-decrivent-l-horreur-de-la-fusillade-qui-a-fait-deux-morts-20260727",
+   "https://www.lefigaro.fr/faits-divers/paris-trois-blesses-dans-une-attaque-au-couteau-un-suspect-interpelle-20260727"
   ],
   "https://www.france24.com/fr/rss": [
    "19034750-842f-11f1-8c47-1f429402a757",
@@ -2319,97 +2331,251 @@
  "evenements_attente": [
   {
    "faits": [
-    "Une attaque a eu lieu contre la marche des fiertés (Pride) à Berlin samedi",
-    "1 mort et 29 blessés ont été enregistrés lors de l'attaque",
-    "Le principal suspect avait attiré l'attention des autorités pour infractions pénales, radicalisation et appartenance au milieu islamiste",
-    "Le suspect est décédé"
+    "Un incendie massif progresse aux portes de Bordeaux en Gironde",
+    "La situation est restée globalement stable dans la nuit de dimanche à lundi",
+    "Les autorités redoutent l'arrivée d'une vague de chaleur dès mardi qui compliquera la lutte contre l'incendie",
+    "Météo-France annonce une vague de chaleur cette semaine avec un pic d'intensité prévu mercredi",
+    "Des orages sont attendus en fin de semaine",
+    "Le feu s'est rapproché de la banlieue sud-ouest de Bordeaux, notamment à Cestas et Marcheprime, à 15 kilomètres de la métropole"
    ],
-   "qui": "Suspect décédé (lié au milieu islamiste)",
-   "ou": "Berlin, Allemagne",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "d69b441176be7b90",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T04:48:39.739385+00:00"
-  },
-  {
-   "faits": [
-    "Le statut de protection temporaire (TPS) accordé aux Haïtiens aux États-Unis expire le 27 juillet 2026",
-    "Cette décision a été annoncée par Donald Trump l'année dernière",
-    "La Cour suprême a validé cette décision le 25 juin 2026",
-    "Centaines de milliers de personnes se préparent à être expulsées",
-    "Beaucoup d'Haïtiens travaillent dans des secteurs clés (santé, aide à la personne)",
-    "Haïti connaît la violence des gangs et compte près d'1,5 million de déplacés"
-   ],
-   "qui": "Donald Trump, Cour suprême américaine",
-   "ou": "États-Unis, Haïti",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "f8912c58efc95468",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T04:48:39.739468+00:00"
-  },
-  {
-   "faits": [
-    "Des incendies ravagent l'Espagne, attisés par des températures élevées, la sécheresse et des vents violents",
-    "Les incendies affectent les provinces d'Avila, la communauté de Madrid et de Tolède",
-    "77 000 hectares sont partis en fumée en Espagne",
-    "Environ 90 000 personnes ont été évacuées ou confinées en Espagne"
-   ],
-   "qui": null,
-   "ou": "Espagne (Avila, Madrid, Tolède)",
+   "qui": "pompiers et autorités girondines",
+   "ou": "Gironde, région bordelaise",
    "categorie": "meteo_catastrophe",
    "sensible": true,
-   "confiance": 85,
+   "confiance": 92,
    "sources": [
-    "France 24"
+    "franceinfo",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "d1aeddb2536af49f",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-27T11:46:01.441650+00:00"
+  },
+  {
+   "faits": [
+    "Trois femmes ont été blessées dans une attaque à Paris",
+    "L'attaque a eu lieu lundi porte de Clichy, dans le nord-ouest parisien",
+    "Un suspect armé de couteaux a été interpellé"
+   ],
+   "qui": "suspect non nommé",
+   "ou": "Paris, porte de Clichy",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
    ],
    "non_confirme": [],
    "importance": 75,
-   "empreinte": "d15863bfb790776d",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T04:48:39.739357+00:00"
+   "empreinte": "2fe85aeeadba5b11",
+   "score": 97,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-27T11:46:01.441653+00:00"
   },
   {
    "faits": [
-    "Nelson Haase, militaire à la retraite, a été arrêté au Chili",
-    "Haase avait été condamné à 25 ans de prison en 2023 pour l'enlèvement et le meurtre du chanteur Victor Jara en 1973",
-    "Haase avait pris la fuite à l'annonce de son jugement en 2023",
-    "Son arrestation a été annoncée dimanche 26 juillet 2026"
+    "Tadej Pogacar a remporté le Tour de France pour la cinquième fois de sa carrière",
+    "Le cycliste slovène s'est imposé dimanche"
    ],
-   "qui": "Nelson Haase",
-   "ou": "Chili",
+   "qui": "Tadej Pogacar",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "266e358abf690479",
+   "score": 89,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T11:46:01.441655+00:00"
+  },
+  {
+   "faits": [
+    "Une femme est morte et 29 personnes ont été blessées lors d'une attaque à la Marche des fiertés à Berlin",
+    "Un homme conduisant une camionnette a foncé sur des participants dans le bois de Tiergarten samedi soir",
+    "Le suspect, Abdul Ballout, a été abattu par la police dimanche soir dans le quartier de Spandau"
+   ],
+   "qui": "Abdul Ballout (suspect abattu)",
+   "ou": "Berlin, bois de Tiergarten",
    "categorie": "justice",
    "sensible": true,
-   "confiance": 87,
+   "confiance": 90,
    "sources": [
-    "France 24"
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "a530046878e734ce",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T11:46:01.441657+00:00"
+  },
+  {
+   "faits": [
+    "Une attaque de drones ukrainiens sur la ville de Rostov-sur-le-Don a tué un couple et blessé cinq personnes",
+    "L'attaque s'est déroulée la nuit et a touché le sud de la Russie",
+    "L'armée ukrainienne affirme que 147 drones russes avaient été lancés contre le territoire ukrainien pendant la nuit",
+    "L'attaque russe se poursuivait lundi matin"
+   ],
+   "qui": "Ukraine, Russie",
+   "ou": "Rostov-sur-le-Don, Ukraine, Russie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "404ccac2b21c0749",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T11:46:01.441659+00:00"
+  },
+  {
+   "faits": [
+    "En Espagne, environ 60 000 personnes ont été évacuées près de Madrid",
+    "L'incendie est globalement stable mais avec quelques reprises de feu localement",
+    "De premiers retours prévus lundi pour certains évacués"
+   ],
+   "qui": "autorités espagnoles, Francisco Martín Aguirre (préfet régional)",
+   "ou": "Madrid, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "d46bfe022af8696b",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T11:46:01.441660+00:00"
+  },
+  {
+   "faits": [
+    "La Poste annonce une hausse moyenne de 6,73% du prix des timbres et des colis à partir de 2027",
+    "Cette hausse est justifiée par la baisse du recours aux services postaux par les ménages",
+    "Les tarifs des timbres avaient déjà augmenté en 2026"
+   ],
+   "qui": "La Poste",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
    ],
    "non_confirme": [],
    "importance": 65,
-   "empreinte": "5214ea47f2e494a8",
-   "score": 82,
-   "fiab_max": 85,
+   "empreinte": "dd4a07cbd80a2405",
+   "score": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-27T04:48:39.739445+00:00"
+   "depuis": "2026-07-27T11:46:01.441662+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump assure que les États-Unis disposent de suffisamment de munitions pour la guerre au Moyen-Orient",
+    "Des inquiétudes se font jour concernant les stocks américains d'intercepteurs antimissiles",
+    "Selon le Center for Strategic and International Studies, au moins 1 500 intercepteurs Patriot auraient été utilisés depuis le début du conflit",
+    "Moins de 1 000 unités resteraient dans les stocks américains"
+   ],
+   "qui": "Donald Trump, États-Unis",
+   "ou": "Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "pénurie effective de munitions américaines"
+   ],
+   "importance": 75,
+   "empreinte": "489dcc2705740f27",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T11:46:01.441664+00:00"
+  },
+  {
+   "faits": [
+    "Le président élu colombien Abelardo de la Espriella annonce qu'il va rompre les relations diplomatiques avec Cuba et le Nicaragua",
+    "Il avait reçu l'appui du président américain Donald Trump pendant la campagne"
+   ],
+   "qui": "Abelardo de la Espriella",
+   "ou": "Colombie, Cuba, Nicaragua",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "04d0b3639aeae890",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T11:46:01.441665+00:00"
+  },
+  {
+   "faits": [
+    "Le Brésil a rappelé son ambassadeur en Argentine après des propos offensants du président Javier Milei",
+    "Brasilia a convoqué l'ambassadeur de l'Argentine",
+    "Javier Milei s'en prend aussi au Mexique et au Parti démocrate américain"
+   ],
+   "qui": "Javier Milei, Brésil, Argentine",
+   "ou": "Brésil, Argentine",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "2e768e4e1a74e574",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T11:46:01.441667+00:00"
+  },
+  {
+   "faits": [
+    "La réouverture du musée Nissim de Camondo à Paris, fermé depuis fin 2024, est reportée à 2030",
+    "Le musée devait rouvrir à la fin de 2026 après un chantier d'un coût de 23 millions d'euros"
+   ],
+   "qui": "musée Nissim de Camondo",
+   "ou": "Paris",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "f2c4f13e12c549e0",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T11:46:01.441668+00:00"
   },
   {
    "faits": [
@@ -2506,29 +2672,6 @@
   },
   {
    "faits": [
-    "Abelardo de la Espriella a été élu président de la Colombie il y a un mois",
-    "Il est un président de droite dure soutenu par les États-Unis",
-    "Il a affirmé dimanche 26 juillet qu'il romprait les relations diplomatiques avec Cuba",
-    "Il a aussi affirmé qu'il romprait les relations diplomatiques avec le Nicaragua"
-   ],
-   "qui": "Abelardo de la Espriella, États-Unis",
-   "ou": "Colombie, Cuba, Nicaragua",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "3a123ead42794ad7",
-   "score": 79,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T04:48:49.395854+00:00"
-  },
-  {
-   "faits": [
     "Au Niger, il y a trois ans, le 26 juillet 2023, le président Mohamed Bazoum a été renversé par un coup d'État militaire",
     "Mohamed Bazoum est toujours retenu à Niamey avec son épouse",
     "Le pays est dirigé par le Conseil national pour la sauvegarde de la patrie (CNSP)",
@@ -2553,75 +2696,6 @@
   },
   {
    "faits": [
-    "Aucun bombardement américain signalé en Iran depuis vendredi 24 juillet 2026",
-    "Le cours du pétrole recule",
-    "Donald Trump laisse « de la place » aux discussions avec l'Iran"
-   ],
-   "qui": "Donald Trump, États-Unis, Iran",
-   "ou": "Iran, États-Unis",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 78,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "Nature précise des discussions envisagées"
-   ],
-   "importance": 70,
-   "empreinte": "54bca996cdbd711e",
-   "score": 77,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T04:48:49.395860+00:00"
-  },
-  {
-   "faits": [
-    "Les fortes chaleurs de juin 2026 ont eu de lourdes conséquences sur les organismes",
-    "Certaines personnes ressentent toujours les effets de la canicule malgré la baisse des températures",
-    "Les symptômes incluent : jambes gonflées, fatigue, crises d'angoisse, traumatismes"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "sante",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "d33cdbd12c0eff99",
-   "score": 77,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T04:48:49.395862+00:00"
-  },
-  {
-   "faits": [
-    "Kylian Mbappé a publié une lettre de remerciements lundi 27 juillet 2026",
-    "La lettre a été publiée dans la presse quotidienne régionale française",
-    "Elle remercie ses partenaires, son coach, son staff et les supporters tricolores",
-    "Elle est publiée un peu plus d'une semaine après la fin de la Coupe du monde"
-   ],
-   "qui": "Kylian Mbappé",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "b42491fbb9d8eeee",
-   "score": 77,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T04:48:49.395863+00:00"
-  },
-  {
-   "faits": [
     "Une fusillade a éclaté samedi soir dans le quartier de Capitol Hill à Seattle",
     "La fusillade a fait deux morts et plusieurs blessés"
    ],
@@ -2640,30 +2714,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T08:18:28.370805+00:00"
-  },
-  {
-   "faits": [
-    "Des tirs à Seattle ont fait plusieurs victimes",
-    "Les forces de l'ordre ont parlé de plusieurs « victimes » sans préciser s'il y avait des morts"
-   ],
-   "qui": null,
-   "ou": "Seattle, États-Unis",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 65,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "Nombre exact de morts et blessés",
-    "Nature des blessures"
-   ],
-   "importance": 70,
-   "empreinte": "3e073f7646d910da",
-   "score": 73,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T04:48:39.739420+00:00"
   }
  ],
  "publies_48h": [
@@ -2753,10 +2803,6 @@
   ]
  ],
  "evenements_48h": [
-  [
-   "a397709bcdd70518",
-   "2026-07-25T09:08:49.686250+00:00"
-  ],
   [
    "e292382757d5e4d7",
    "2026-07-25T22:40:07.331088+00:00"
