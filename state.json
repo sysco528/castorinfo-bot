@@ -2,14 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/coupe-du-monde/l-espagne-s-offre-une-deuxieme-etoile-en-venant-a-bout-de-l-argentine-en-finale-de-la-coupe-du-monde-2026_8114348.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/coupe-du-monde/les-buteurs-au-rendez-vous-l-omnipresence-de-donald-trump-les-prix-exorbitants-ce-qu-on-a-aime-et-moins-aime-lors-de-la-coupe-du-monde-2026_8110256.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/louisette-ridvan-florean-adam-patrick-on-vous-raconte-ces-vies-emportees-par-la-canicule-de-juin-2026_8087096.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-plus-de-600-pompiers-mobilises-pour-lutter-contre-les-flammes-dans-la-commune-de-taradeau-dans-le-var_8114624.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-gardiens-iraniens-disent-avoir-frappe-des-cibles-militaires-americaines-au-koweit_8114603.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement-sexuel/un-mauvais-polar-reporters-sans-frontieres-accuse-la-mairie-d-annecy-d-avoir-tente-d-etouffer-une-affaire-de-viol-mettant-en-cause-le-premier-adjoint-au-maire_8114753.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/la-proposition-de-francois-noel-buffet-comme-defenseur-des-droits-est-une-provocation-deplore-le-planning-familial-qui-se-dit-tres-inquiet_8114648.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/loi-d-urgence-agricole-sebastien-lecornu-reunira-les-chefs-des-groupes-du-socle-commun-lundi_8114411.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-400-drones-ukrainiens-lances-dans-la-nuit-vers-moscou-et-sa-region-selon-le-maire_8114672.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-avec-la-loi-sur-l-aide-a-mourir-suffira-t-il-de-dire-j-en-ai-assez-de-vivre-pour-declencher-une-procedure-d-euthanasie_8111390.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/coupe-du-monde/une-charniere-fiable-une-attaque-encore-jeune-un-entrejeu-a-renover-des-lateraux-a-trouver-comment-se-presente-l-avenir-de-l-equipe-de-france-pour-l-euro-2028-et-le-mondial-2030_8114417.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +293,15 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/c-est-un-peu-comme-une-guerre-des-landes-a-la-gironde-quatre-jours-en-enfer-contre-un-monstre-de-feu_8123234.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-vois-plus-rien-je-vois-de-la-desolation-le-porge-un-village-aneanti-par-les-incendies_8123225.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendies-en-gironde-84-sapeurs-pompiers-blesses-par-l-incendie-reste-globalement-stable-au-cours-de-la-nuit_8123420.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/temoignages-mon-corps-n-est-pas-encore-descendu-en-temperature-jambes-gonflees-fatigue-crises-d-angoisse-ils-sont-traumatises-par-la-canicule-de-juin-2026_8115314.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/temoignages-mon-corps-n-est-pas-encore-descendu-en-temperature-jambes-gonflees-fatigue-crises-d-angoisse-ils-sont-traumatises-par-la-canicule-de-juin-2026_8115314.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-evacuation-de-bordeaux-n-est-pas-a-l-ordre-du-jour-pour-le-moment-mais-le-gouvernement-reste-extremement-prudent-face-a-l-avancee-des-feux-indique-la-porte-parole-du-gouvernement_8123636.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-la-france-a-t-elle-des-moyens-anti-incendie-superieurs-a-ses-voisins_8069567.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-c-est-un-travail-de-fourmis-avec-des-moyens-derisoires-des-habitants-aident-les-pompiers-a-lutter-contre-les-incendies-en-gironde_8123531.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-france-comment-venir-en-aide-aux-sinistres-soutenir-les-pompiers-ou-preparer-l-apres_8123681.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/tranchees-feux-tactiques-comment-la-securite-des-installations-industrielles-menacees-par-les-incendies-en-gironde-est-renforcee_8122916.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/des-francais-bien-classes-une-canicule-terrible-les-controles-antidopage-ce-que-l-on-a-aime-et-pas-aime-du-tour-de-france-2026_8121803.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/emploi/plans-sociaux/reprise-de-fibre-excellence-dernier-fabricant-francais-de-pate-a-papier-marchande-carole-delga-appelle-a-ne-pas-se-disperser-en-polemiques-inutiles_8123621.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/proche-orient/yemen/guerre-au-moyen-orient-au-yemen-la-crainte-d-une-prise-controle-du-detroit-de-bab-el-mandeb-par-les-houthis_8123219.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -474,8 +474,6 @@
    "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/flash-eco/carburant-les-prix-a-la-pompe-en-forte-hausse-apres-la-reprise-du-conflit-au-moyen-orient-20260720",
-   "https://www.lefigaro.fr/international/royaume-uni-andy-burnham-nomme-premier-ministre-britannique-par-le-roi-charles-iii-20260720",
    "https://www.lefigaro.fr/international/royaume-uni-le-pays-est-plus-fort-et-plus-juste-assure-keir-starmer-en-quittant-downing-street-20260720",
    "https://www.lefigaro.fr/international/je-suis-pret-j-ai-un-plan-au-royaume-uni-le-roi-du-nord-andy-burnham-couronne-a-la-tete-du-labour-20260717",
    "https://www.lefigaro.fr/international/royaume-uni-les-images-de-l-arrivee-d-andy-burnham-a-downing-street-et-de-sa-rencontre-avec-charles-iii-20260720",
@@ -773,14 +771,11 @@
    "https://www.lefigaro.fr/politique/incendies-le-dernier-conseil-des-ministres-avant-la-pause-estivale-vire-a-la-reunion-de-crise-20260726",
    "https://www.lefigaro.fr/meteo/en-direct-incendies-en-france-feu-globalement-stable-en-gironde-macron-presidera-une-cellule-interministerielle-de-crise-ce-lundi-20260727",
    "https://www.lefigaro.fr/vox/societe/l-editorial-d-etienne-de-montety-avec-les-incendies-une-saison-en-enfer-20260726",
-   "https://www.lefigaro.fr/international/etats-unis-des-tirs-a-seattle-font-plusieurs-victimes-20260727"
+   "https://www.lefigaro.fr/international/etats-unis-des-tirs-a-seattle-font-plusieurs-victimes-20260727",
+   "https://www.lefigaro.fr/flash-eco/edf-va-s-appuyer-sur-technip-energies-pour-le-chantier-du-siecle-et-tenir-le-delai-des-reacteurs-epr-2-20260727",
+   "https://www.lefigaro.fr/international/beaucoup-de-personnes-gisaient-au-sol-a-seattle-les-temoins-decrivent-l-horreur-de-la-fusillade-qui-a-fait-deux-morts-20260727"
   ],
   "https://www.france24.com/fr/rss": [
-   "5011170a-83d4-11f1-9a1d-f31541d4772e",
-   "f3640a80-83d3-11f1-ba19-1f09f4ef2664",
-   "bb187b30-83cd-11f1-8424-4942debde5c5",
-   "167d396a-8401-11f1-ad8a-a79b79711624",
-   "bbc3d986-83f9-11f1-b61e-85860b52d220",
    "19034750-842f-11f1-8c47-1f429402a757",
    "5cc28dba-842b-11f1-b655-f763b6582da7",
    "41b7fb48-842d-11f1-9626-f763b6582da7",
@@ -1075,14 +1070,14 @@
    "e3067eb2-8936-11f1-8e32-a193c3ebcc2f",
    "00f5b778-8967-11f1-bb7a-61331b3d9a88",
    "0472cdb0-8966-11f1-8155-61331b3d9a88",
-   "ad67ca66-895b-11f1-8e1d-c1af73ed71b1"
+   "ad67ca66-895b-11f1-8e1d-c1af73ed71b1",
+   "1539decc-897f-11f1-8dfc-5b41d5fe3b3f",
+   "5d16765c-897e-11f1-8a8c-c34a3d066068",
+   "c0e75e1a-897b-11f1-bb33-5b41d5fe3b3f",
+   "bf1e126e-8952-11f1-a186-e9fe2f3d74bb",
+   "adf61322-894f-11f1-8a1f-e9fe2f3d74bb"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "27ee6bec-7fd3-11f1-a7ea-6d81a971eef2",
-   "ca8239a2-7fdc-11f1-9131-e5ebdc56703f",
-   "5fc19e2e-7fcc-11f1-a55d-197d83707159",
-   "8bd9061c-7ff6-11f1-b5bb-3d1ecc230d5a",
-   "4b19a7a4-8036-11f1-911c-bb8aa50e9448",
    "7e96931c-7c4e-11f1-b78b-25cf7d22934c",
    "57b6c150-8035-11f1-b349-bb8aa50e9448",
    "11632f3a-803b-11f1-ac8c-650c43ed962e",
@@ -1377,7 +1372,12 @@
    "61997294-8972-11f1-9d23-ff8eb992fb32",
    "e3fe9848-893d-11f1-919b-a5f82f923ade",
    "334bccd6-8975-11f1-bcf6-4dad9d7f8aed",
-   "175fd97a-8959-11f1-8ee4-9b6e2d7af132"
+   "175fd97a-8959-11f1-8ee4-9b6e2d7af132",
+   "c110cc22-8986-11f1-bf08-3f0e8d1f79f7",
+   "6230b5a2-898e-11f1-97d0-d7bb134e8900",
+   "4fd8c180-8982-11f1-88a4-e5a49bdb74b3",
+   "cd045220-8980-11f1-aba7-e5a49bdb74b3",
+   "926e19d6-8974-11f1-9240-5fc831a3d9ec"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-tu-as-touche-le-ciel-du-bout-des-doigts-le-message-poignant-dinaki-williams-pour-son-frere-nico-a80e21ea-8475-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -2319,28 +2319,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "30 à 40 feux sont combattus simultanément en France",
-    "Un incendie hors norme et erratique sévit en Gironde depuis au moins cinq nuits consécutives",
-    "Emmanuel Macron présidera lundi 27 juillet à 10h une cellule interministérielle de crise au ministère de l'Intérieur"
-   ],
-   "qui": "Emmanuel Macron, Laurent Nuñez (ministre de l'Intérieur)",
-   "ou": "Gironde, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "9e2d7eb45e91249b",
-   "score": 88,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T01:02:14.626045+00:00"
-  },
-  {
-   "faits": [
     "Une attaque a eu lieu contre la marche des fiertés (Pride) à Berlin samedi",
     "1 mort et 29 blessés ont été enregistrés lors de l'attaque",
     "Le principal suspect avait attiré l'attention des autorités pour infractions pénales, radicalisation et appartenance au milieu islamiste",
@@ -2386,52 +2364,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T04:48:39.739468+00:00"
-  },
-  {
-   "faits": [
-    "Le président argentin Javier Milei accuse le Brésil, le Mexique et le Parti démocrate américain d'avoir financé une campagne anti-argentine",
-    "Le Brésil a rappelé son ambassadeur en Argentine en raison de propos offensants du président argentin envers Luiz Inácio Lula da Silva"
-   ],
-   "qui": "Javier Milei (président Argentine), Luiz Inácio Lula da Silva (président Brésil)",
-   "ou": "Argentine, Brésil, Mexique",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Financement allégué de la campagne anti-argentine"
-   ],
-   "importance": 72,
-   "empreinte": "5cf748e95dece802",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T01:02:14.626156+00:00"
-  },
-  {
-   "faits": [
-    "Des Colombiens forment le principal contingent de volontaires étrangers engagés aux côtés de l'armée ukrainienne",
-    "Plus de 7 000 Colombiens se seraient enrôlés depuis l'invasion russe à grande échelle",
-    "De nombreux Colombiens sont morts au front, affectant les familles restées au pays",
-    "Les volontaires sont souvent attirés par des promesses de salaires élevés pour aider leurs familles"
-   ],
-   "qui": "Colombiens volontaires, armée ukrainienne",
-   "ou": "Ukraine, Colombie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 87,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "2bb22d9576b26ca9",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T01:02:14.626240+00:00"
   },
   {
    "faits": [
@@ -2481,91 +2413,96 @@
   },
   {
    "faits": [
-    "Trois ans après le coup d'État du 26 juillet 2023 au Niger, la situation sécuritaire reste instable",
-    "Mohamed Bazoum, président déchu, reste séquestré",
-    "Les avocats du président déchu continuent de réclamer sa libération"
+    "Reprise de Fibre Excellence, dernier fabricant français de pâte à papier marchande",
+    "Matthieu Pigasse fait une offre de reprise",
+    "Le ministre de l'Économie critique violemment l'offre, qualifiant Pigasse de « shérif de Nottingham »",
+    "Carole Delga, présidente de la région Occitanie, soutient l'offre de Pigasse",
+    "Le délégué syndical CGT Jean-Michel Bulinge soutient également l'offre"
    ],
-   "qui": "Mohamed Bazoum, junte militaire du Niger",
-   "ou": "Niger",
-   "categorie": "international",
-   "sensible": true,
+   "qui": "Matthieu Pigasse, ministre de l'Économie, Carole Delga, Jean-Michel Bulinge",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
    "confiance": 85,
    "sources": [
-    "France 24"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 68,
-   "empreinte": "93dd05d36876cf49",
+   "importance": 60,
+   "empreinte": "92aa01081f2e5ac8",
    "score": 82,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-27T01:02:14.626199+00:00"
+   "depuis": "2026-07-27T08:18:41.292830+00:00"
   },
   {
    "faits": [
-    "Une explosion s'est produite dans une distillerie de rhum à Petit-Bourg en Guadeloupe",
-    "Le bilan s'élève à deux morts",
-    "Un autre blessé se bat pour sa vie"
+    "Au Yémen, crainte d'une prise de contrôle du détroit de Bab el-Mandeb par les houthis",
+    "L'Arabie saoudite et les Houthis ont échangé des tirs après quatre ans de cessez-le-feu",
+    "Un nouveau front risque de s'ouvrir dans ce détroit au sud du Yémen",
+    "Des pétroliers saoudiens empruntent ce détroit"
    ],
-   "qui": null,
-   "ou": "Petit-Bourg, Guadeloupe",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
+   "qui": "Arabie saoudite, Houthis",
+   "ou": "Yémen, détroit de Bab el-Mandeb",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 80,
    "sources": [
-    "Ouest-France"
+    "franceinfo"
    ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "e163bd9b278e1ae2",
-   "score": 81,
-   "fiab_max": 80,
+   "non_confirme": [
+    "Prise de contrôle du détroit par les houthis"
+   ],
+   "importance": 70,
+   "empreinte": "48c986f556cc9738",
+   "score": 82,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-26T23:17:06.633989+00:00"
+   "depuis": "2026-07-27T08:18:41.292834+00:00"
   },
   {
    "faits": [
-    "Tiphaine Véron a disparu le 29 juillet 2018 à Nikko (Japon) lors d'un voyage touristique",
-    "Les proches de Tiphaine Véron mènent toujours l'enquête après huit ans",
-    "L'affaire est désormais aux mains du pôle cold case de Nanterre en France"
+    "Flavio Bolsonaro est le candidat du Parti libéral à l'élection présidentielle d'octobre 2026 au Brésil",
+    "Flavio Bolsonaro a été investi samedi soir à São Paulo",
+    "La campagne s'annonce tendue entre deux camps que tout oppose"
    ],
-   "qui": "Tiphaine Véron, Damien Véron (frère)",
-   "ou": "Nikko (Japon), Nanterre (France)",
-   "categorie": "justice",
+   "qui": "Flavio Bolsonaro, Parti libéral brésilien",
+   "ou": "Brésil, São Paulo",
+   "categorie": "politique",
    "sensible": true,
    "confiance": 85,
    "sources": [
     "RFI"
    ],
    "non_confirme": [],
-   "importance": 62,
-   "empreinte": "8e4aa413a3470536",
-   "score": 80,
+   "importance": 65,
+   "empreinte": "6102ef2511e3f889",
+   "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T01:02:14.626280+00:00"
+   "depuis": "2026-07-27T08:18:28.371044+00:00"
   },
   {
    "faits": [
-    "Une explosion dans une distillerie en Guadeloupe a fait un deuxième mort",
-    "Un jeune homme de 29 ans est décédé des suites de ses blessures après la déflagration survenue vendredi",
-    "Une autre personne est très grièvement blessée"
+    "EDF s'associe à Technip Energies pour le développement des réacteurs EPR 2",
+    "EDF s'est engagé à ce que le premier réacteur entre en service en 2038",
+    "Il s'agit d'un enjeu de souveraineté énergétique"
    ],
-   "qui": null,
-   "ou": "Guadeloupe",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 86,
+   "qui": "EDF, Technip Energies",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 82,
    "sources": [
-    "20 Minutes"
+    "Le Figaro"
    ],
    "non_confirme": [],
    "importance": 70,
-   "empreinte": "4d43dd2d85272698",
-   "score": 79,
-   "fiab_max": 75,
+   "empreinte": "1dcb163e7aec4723",
+   "score": 81,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T01:02:14.626320+00:00"
+   "depuis": "2026-07-27T08:18:41.292837+00:00"
   },
   {
    "faits": [
@@ -2592,47 +2529,27 @@
   },
   {
    "faits": [
-    "De nouvelles accusations de violences policières surgissent lors des célébrations du sacre du PSG en Ligue des Champions",
-    "Une douzaine d'enquêtes ont été ouvertes",
-    "Les accusations incluent des cicatrices et un œil endommagé"
+    "Au Niger, il y a trois ans, le 26 juillet 2023, le président Mohamed Bazoum a été renversé par un coup d'État militaire",
+    "Mohamed Bazoum est toujours retenu à Niamey avec son épouse",
+    "Le pays est dirigé par le Conseil national pour la sauvegarde de la patrie (CNSP)",
+    "Le général Abdourahamane Tiani est à la tête du CNSP, officiellement investi président l'an dernier pour une durée de cinq ans renouvelables",
+    "Il y a au Niger un « rétrécissement extrême de l'espace civique »"
    ],
-   "qui": "PSG, police",
-   "ou": "Paris, France",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "3b70fb3a3ed7ca36",
-   "score": 78,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T01:02:14.626360+00:00"
-  },
-  {
-   "faits": [
-    "Alexis Lebrun s'est incliné en finale du WTT Star Contender de Sao José dos Campos",
-    "Il a perdu face à Hugo Calderano par le score de 3-4",
-    "C'est la septième rencontre entre les deux joueurs et Lebrun n'a jamais gagné face à Calderano"
-   ],
-   "qui": "Alexis Lebrun, Hugo Calderano",
-   "ou": "Sao José dos Campos, Brésil",
-   "categorie": "sport",
+   "qui": "Mohamed Bazoum, Abdourahamane Tiani, CNSP",
+   "ou": "Niger, Niamey",
+   "categorie": "politique",
    "sensible": false,
-   "confiance": 90,
+   "confiance": 80,
    "sources": [
-    "Ouest-France"
+    "RFI"
    ],
    "non_confirme": [],
-   "importance": 45,
-   "empreinte": "e4a778b5b379bb08",
-   "score": 78,
-   "fiab_max": 80,
+   "importance": 55,
+   "empreinte": "ea0095e3471a4c8a",
+   "score": 77,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-26T23:17:15.026688+00:00"
+   "depuis": "2026-07-27T08:18:41.292841+00:00"
   },
   {
    "faits": [
@@ -2705,28 +2622,24 @@
   },
   {
    "faits": [
-    "Andrea Pirlo a des contacts avec une grande société de paris sportifs russe",
-    "Il a publié une déclaration sur Instagram défendant cette collaboration",
-    "Il qualifie cette collaboration de « commerciale et sportive »",
-    "Il réaffirme son amour pour l'Italie"
+    "Une fusillade a éclaté samedi soir dans le quartier de Capitol Hill à Seattle",
+    "La fusillade a fait deux morts et plusieurs blessés"
    ],
-   "qui": "Andrea Pirlo",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
+   "qui": null,
+   "ou": "Seattle, Capitol Hill, États-Unis",
+   "categorie": "faits_divers",
+   "sensible": true,
    "confiance": 78,
    "sources": [
-    "L'Équipe"
+    "Le Figaro"
    ],
-   "non_confirme": [
-    "La nature exacte et l'exclusivité de la collaboration"
-   ],
-   "importance": 52,
-   "empreinte": "41c1e936c3a0de5f",
-   "score": 75,
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "bfd9e624652c24e7",
+   "score": 74,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-26T23:17:15.026694+00:00"
+   "depuis": "2026-07-27T08:18:28.370805+00:00"
   },
   {
    "faits": [
@@ -2751,39 +2664,9 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T04:48:39.739420+00:00"
-  },
-  {
-   "faits": [
-    "Kojo Peprah Oppong, défenseur central de Nice, suscite de l'intérêt sur le mercato",
-    "Burnley et Trabzonspor sont intéressés par le joueur",
-    "Un club de Ligue 1 pourrait aussi s'activer",
-    "Nice aurait besoin de liquidités"
-   ],
-   "qui": "Kojo Peprah Oppong, Nice, Burnley, Trabzonspor",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [
-    "L'identité du club de Ligue 1 intéressé",
-    "L'imminence ou la probabilité de son départ"
-   ],
-   "importance": 48,
-   "empreinte": "ad42968038202dcf",
-   "score": 73,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-26T23:17:06.634279+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "f2e8b3c58b1ab516",
-   "2026-07-25T07:00:24.953013+00:00"
-  ],
   [
    "ad20cf0a5ffb9f30",
    "2026-07-25T09:08:50.747412+00:00"
@@ -2859,13 +2742,17 @@
   [
    "f6b8628051ba18c0",
    "2026-07-27T04:48:54.316621+00:00"
+  ],
+  [
+   "cdc75ae008a929fb",
+   "2026-07-27T08:18:42.442913+00:00"
+  ],
+  [
+   "539a34e523c5d6ea",
+   "2026-07-27T08:18:46.398342+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "d7b9773d1891717c",
-   "2026-07-25T07:00:14.757212+00:00"
-  ],
   [
    "a397709bcdd70518",
    "2026-07-25T09:08:49.686250+00:00"
@@ -2941,6 +2828,14 @@
   [
    "a2b2a911f3a59e6a",
    "2026-07-27T04:48:49.395847+00:00"
+  ],
+  [
+   "2261050889f8c2a3",
+   "2026-07-27T08:18:34.253685+00:00"
+  ],
+  [
+   "732bf10dfbc3a9f7",
+   "2026-07-27T08:18:41.292822+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -2951,12 +2846,14 @@
   "La RDC enregistre 3 075 cas d'Ebola et 1 354 décès. Mille nouveaux cas ont été détectés en dix jours. L'épidémie sévit dans l'est du pays, région fragilisée par 30 ans de conflits. (France 24, Ouest-France)",
   "⚽ Le Paris Saint-Germain abandonne la course pour l'attaquant de Leipzig Yan Diomandé, selon un communiqué transmis à Sky Sport. Le joueur devrait s'engager avec le Real Madrid, selon L'Équipe et Ouest-France.",
   "🔴 ALERTE — Un incendie massif ravage la Gironde depuis le 22 juillet : 42 000 hectares brûlés, 220 000 évacués, 240 habitations détruites. Le feu, à 15 km de Bordeaux, menace des sites stratégiques. Macron préside une réunion de crise lundi. (franceinfo)",
-  "🇭🇳 Juan Orlando Hernandez, ancien président du Honduras gracié par Trump en novembre 2025, est rentré dimanche au pays. Accueilli en héros malgré un bilan marqué par des accusations de corruption et d'atteintes aux droits humains. (RFI)"
+  "🇭🇳 Juan Orlando Hernandez, ancien président du Honduras gracié par Trump en novembre 2025, est rentré dimanche au pays. Accueilli en héros malgré un bilan marqué par des accusations de corruption et d'atteintes aux droits humains. (RFI)",
+  "🔴 ALERTE — Un incendie ravage la Gironde depuis mercredi, parcourant 42 000 hectares et forçant l'évacuation de 220 000 personnes. Le feu se redirige vers Bordeaux. Macron présidera une cellule de crise lundi. (franceinfo)",
+  "Troisième nuit sans frappes américaines en Iran. Aucun bombardement signalé depuis le 24 juillet au soir, marquant une pause après deux semaines d'hostilités. La marine iranienne a bloqué lundi six navires au détroit d'Ormuz. (France 24, RFI)"
  ],
  "recap_date": "2026-07-26",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-27",
-  "publies": 8
+  "publies": 10
  }
 }

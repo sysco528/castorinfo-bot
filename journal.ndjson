@@ -7569,3 +7569,37 @@
 {"decision": "controle", "evt": "a2b2a911f3a59e6a", "motif": "ok_sim_0.47", "ts": "2026-07-27T04:48:49+00:00"}
 {"decision": "publie", "empreinte": "17d4eacc8dd4b219", "post_id": "2081602689461588155", "carte": true, "texte": "🔴 ALERTE — Un incendie massif ravage la Gironde depuis le 22 juillet : 42 000 hectares brûlés, 220 000 évacués, 240 habitations détruites. Le feu, à 15 km de Bordeaux, menace des sites stratégiques. Macron préside une réunion de crise lundi. (franceinfo)", "ts": "2026-07-27T04:48:50+00:00"}
 {"decision": "publie", "empreinte": "f6b8628051ba18c0", "post_id": "2081602705668407363", "carte": true, "texte": "🇭🇳 Juan Orlando Hernandez, ancien président du Honduras gracié par Trump en novembre 2025, est rentré dimanche au pays. Accueilli en héros malgré un bilan marqué par des accusations de corruption et d'atteintes aux droits humains. (RFI)", "ts": "2026-07-27T04:48:54+00:00"}
+{"decision": "abandon_attente", "evt": "9e2d7eb45e91249b", "categorie": "meteo_catastrophe", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "abandon_attente", "evt": "5cf748e95dece802", "categorie": "international", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "abandon_attente", "evt": "2bb22d9576b26ca9", "categorie": "international", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "abandon_attente", "evt": "93dd05d36876cf49", "categorie": "international", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "abandon_attente", "evt": "e163bd9b278e1ae2", "categorie": "meteo_catastrophe", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "abandon_attente", "evt": "8e4aa413a3470536", "categorie": "justice", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "abandon_attente", "evt": "4d43dd2d85272698", "categorie": "faits_divers", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "abandon_attente", "evt": "3b70fb3a3ed7ca36", "categorie": "faits_divers", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "abandon_attente", "evt": "e4a778b5b379bb08", "categorie": "sport", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "abandon_attente", "evt": "41c1e936c3a0de5f", "categorie": "sport", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "abandon_attente", "evt": "ad42968038202dcf", "categorie": "sport", "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "2261050889f8c2a3", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo", "France 24", "RFI"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "64a8b2cd8d56bb9d", "score": 94, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["franceinfo", "France 24"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "92aa01081f2e5ac8", "score": 82, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "1dcb163e7aec4723", "score": 81, "categorie": "economie", "sensible": false, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "attente", "evt": "bfd9e624652c24e7", "score": 74, "categorie": "faits_divers", "sensible": true, "confiance": 78, "sources": ["Le Figaro"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "1f95b1fc7498458c", "score": 83, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "732bf10dfbc3a9f7", "score": 95, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["France 24", "RFI"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "48c986f556cc9738", "score": 82, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "attente", "evt": "6102ef2511e3f889", "score": 81, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "ea0095e3471a4c8a", "score": 77, "categorie": "politique", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "attente", "evt": "d69b441176be7b90", "score": 85, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "attente", "evt": "f8912c58efc95468", "score": 85, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "attente", "evt": "d15863bfb790776d", "score": 83, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "attente", "evt": "5214ea47f2e494a8", "score": 82, "categorie": "justice", "sensible": true, "confiance": 87, "sources": ["France 24"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "3a123ead42794ad7", "score": 79, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "54bca996cdbd711e", "score": 77, "categorie": "international", "sensible": false, "confiance": 78, "sources": ["Ouest-France"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "d33cdbd12c0eff99", "score": 77, "categorie": "sante", "sensible": false, "confiance": 75, "sources": ["franceinfo"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "publier", "evt": "b42491fbb9d8eeee", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "attente", "evt": "3e073f7646d910da", "score": 73, "categorie": "justice", "sensible": true, "confiance": 65, "sources": ["Le Figaro"], "ts": "2026-07-27T08:18:28+00:00"}
+{"decision": "controle", "evt": "2261050889f8c2a3", "motif": "ok_sim_0.37", "ts": "2026-07-27T08:18:34+00:00"}
+{"decision": "controle", "evt": "732bf10dfbc3a9f7", "motif": "ok_sim_0.48", "ts": "2026-07-27T08:18:41+00:00"}
+{"decision": "publie", "empreinte": "cdc75ae008a929fb", "post_id": "2081655504200163375", "carte": true, "texte": "🔴 ALERTE — Un incendie ravage la Gironde depuis mercredi, parcourant 42 000 hectares et forçant l'évacuation de 220 000 personnes. Le feu se redirige vers Bordeaux. Macron présidera une cellule de crise lundi. (franceinfo)", "ts": "2026-07-27T08:18:42+00:00"}
+{"decision": "publie", "empreinte": "539a34e523c5d6ea", "post_id": "2081655520855769239", "carte": true, "texte": "Troisième nuit sans frappes américaines en Iran. Aucun bombardement signalé depuis le 24 juillet au soir, marquant une pause après deux semaines d'hostilités. La marine iranienne a bloqué lundi six navires au détroit d'Ormuz. (France 24, RFI)", "ts": "2026-07-27T08:18:46+00:00"}
