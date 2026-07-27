@@ -788,7 +788,6 @@
    "https://www.lefigaro.fr/culture/etats-unis-le-chanteur-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-20260727"
   ],
   "https://www.france24.com/fr/rss": [
-   "187a9260-8471-11f1-8b57-d1c14e6ab975",
    "e3592e7c-8482-11f1-a9c0-c98139d3b091",
    "ad0ab202-8480-11f1-bfc3-3faa933334d9",
    "4179d0f0-8489-11f1-bc58-c98139d3b091",
@@ -1087,13 +1086,10 @@
    "8aeec896-89eb-11f1-94f2-eb9c0c31c31a",
    "e0632394-89f0-11f1-bb87-9d40502e27b1",
    "493c6842-89f8-11f1-8dda-dbe69a4b4f80",
-   "cfa16c76-8a06-11f1-978f-fd4635dc0d14"
+   "cfa16c76-8a06-11f1-978f-fd4635dc0d14",
+   "c9ab9154-8a0e-11f1-a415-bfff4fa5a0c3"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "a759f8aa-8056-11f1-aaa3-b7c298cf2416",
-   "a376c478-7f95-11f1-8d4d-87588271e398",
-   "7049c862-8052-11f1-a985-b7c298cf2416",
-   "1087b79a-8061-11f1-a53c-190837a371c7",
    "abde51cc-8070-11f1-8117-5176f466a488",
    "eceb9cfc-806f-11f1-acb1-d5e4a4aee348",
    "0875801c-8081-11f1-83f8-95c1f2bcc31e",
@@ -1389,11 +1385,13 @@
    "2ebdc002-89a2-11f1-95cb-79785295cde0",
    "2b3b10ea-899a-11f1-9bd7-9393e3857403",
    "100f85dc-89e3-11f1-871d-592855f6b24a",
-   "0d60ec6a-89fa-11f1-b319-0b07945bb516"
+   "0d60ec6a-89fa-11f1-b319-0b07945bb516",
+   "d75e16be-89e6-11f1-a3d5-592855f6b24a",
+   "e56fd2c2-89d4-11f1-b190-77af71f403d5",
+   "c2d1699e-8a04-11f1-b540-edbeb225b6d7",
+   "7b431c68-89e5-11f1-b961-5120d4d6bdcc"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/monde/etats-unis/les-etats-unis-condamnent-laction-dangereuse-de-la-chine-apres-un-affrontement-avec-la-marine-philippine-a5e7a74c-8498-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-a-quelle-heure-et-sur-quelle-chaine-tv-suivre-la-16e-etape-1bbaa2d2-8438-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/meteo/canicule/emballement-pollution-incendies-plus-frequents-les-lecons-scientifiques-de-la-canicule-de-juin-e03f9f3e-8453-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sante/grippe-aviaire/recit-il-y-a-quatre-ans-lunique-colonie-de-fous-de-bassan-de-france-etait-devastee-par-la-grippe-aviaire-9c301d3c-75e9-11f1-9172-187ee382b87f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-la-reintroduction-de-lacetamipride-prevue-par-la-loi-durgence-agricole-de67bf60-8472-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1691,7 +1689,9 @@
    "https://www.ouest-france.fr/provence-alpes-cote-dazur/var/incendie-du-var-les-reprises-de-feu-circonscrites-lundi-soir-be87f0a4-89fc-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/politique/emmanuel-macron/incendies-emmanuel-macron-veut-defendre-son-action-face-aux-critiques-0fa3b8f6-89f8-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/cyclisme/tadej-pogacar/vuelta-2026-tadej-pogacar-devrait-participer-au-tour-despagne-apres-sa-demonstration-sur-le-tour-de-france-a7079da6-89f4-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/cyclisme/remco-evenepoel/je-vais-enfin-rentrer-chez-moi-remco-evenepoel-vainqueur-dun-criterium-24-heures-apres-la-fin-du-tour-de-france-a5ae9a8e-8a00-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/cyclisme/remco-evenepoel/je-vais-enfin-rentrer-chez-moi-remco-evenepoel-vainqueur-dun-criterium-24-heures-apres-la-fin-du-tour-de-france-a5ae9a8e-8a00-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/republique-democratique-du-congo/rdc-au-moins-31-civils-tues-dans-plusieurs-attaques-des-adf-dans-le-nord-est-48f75ae8-8a0e-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/justice/le-chanteur-americain-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-750f90ac-8a0c-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2350,118 +2350,22 @@
    "https://www.lequipe.fr/Football/Actualites/Andrea-pirlo-defend-une-collaboration-exclusivement-de-nature-commerciale-et-sportive-avec-une-societe-de-paris-sportifs-russe/1707299",
    "https://www.lequipe.fr/Football/Actualites/Le-maroc-lance-sa-can-feminine-par-une-large-victoire-l-algerie-domine-le-senegal/1707296",
    "https://www.lequipe.fr/Football/Actualites/Mercato-le-defenseur-de-nice-kojo-peprah-oppong-piste-par-burnley-et-trabzonspor/1707291",
-   "https://www.lequipe.fr/Football/actu-en-direct/mercato-live/19562"
+   "https://www.lequipe.fr/Football/actu-en-direct/mercato-live/19562",
+   "https://www.lequipe.fr/Football/Actualites/La-cote-d-ivoire-de-reynald-pedros-reussit-son-entree-en-lice-a-la-can-feminine-l-afrique-du-sud-surprise-par-la-tanzanie/1707497",
+   "https://www.lequipe.fr/Football/Article/Le-debut-d-une-aventure-enorme-presente-ce-mardi-a-la-presse-zinedine-zidane-va-reprendre-le-fil-de-sa-legende-avec-les-bleus/1707466",
+   "https://www.lequipe.fr/Football/Article/Serie-1-5-les-chants-des-supporters-comment-les-corons-la-chanson-de-pierre-bachelet-a-ete-adoptee-par-le-public-du-rc-lens/1707210",
+   "https://www.lequipe.fr/Football/Actualites/La-premier-league-approuve-une-mesure-pour-mettre-fin-aux-blessures-tactiques-des-gardiens/1707492",
+   "https://www.lequipe.fr/Football/Article/Roberto-mancini-et-antonio-conte-a-nouveau-favoris-pour-sortir-l-italie-de-la-tempete-apres-le-refus-de-nommer-andrea-pirlo-et-la-demission-du-duo-maldini-leonardo/1707489",
+   "https://www.lequipe.fr/Football/Actualites/-il-y-aura-bien-plus-de-monde-quand-les-internationaux-seront-revenus-le-psg-a-repris-le-chemin-de-l-entrainement-ce-lundi-a-poissy-a-neuf/1707483",
+   "https://www.lequipe.fr/Football/Article/Mercato-comment-yan-diomande-sur-le-point-de-signer-au-real-madrid-a-echappe-au-psg/1707437",
+   "https://www.lequipe.fr/Football/Actualites/L-ancien-selectionneur-du-bresil-carlos-alberto-parreira-a-quitte-les-soins-intensifs/1707480",
+   "https://www.lequipe.fr/Football/Video/Premier-league-liverpool-robbie-fowler-ce-que-propose-iraola-c-est-ce-que-je-veux-voir-a-liverpool/20238330",
+   "https://www.lequipe.fr/Football/Actualites/Mercato-les-plus-gros-transferts-avortes-du-psg-avant-yan-diomande-depuis-le-debut-de-l-ere-qsi/1707387",
+   "https://www.lequipe.fr/Football/Actualites/Apres-l-echec-de-la-piste-andrea-pirlo-paolo-maldini-et-leonardo-demissionnent-de-la-federation-italienne-de-football/1707467"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Andy Burnham, nouveau Premier ministre du Royaume-Uni, a reçu le président ukrainien Volodymyr Zelensky une semaine après sa prise de fonction",
-    "Burnham a renouvelé le soutien de Londres à Kiev",
-    "Le Royaume-Uni affirme soutenir l'Ukraine « à 100 % »",
-    "Cette position maintient la continuité avec le prédécesseur de Burnham sur le dossier ukrainien",
-    "Zelensky et Burnham se sont rencontrés le lundi 27 juillet 2026"
-   ],
-   "qui": "Andy Burnham (Premier ministre britannique), Volodymyr Zelensky (président ukrainien)",
-   "ou": "Royaume-Uni",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "RFI",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "1486bd7efa1a0c3c",
-   "score": 94,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-27T21:20:58.882195+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie en Gironde continue de faire rage à quelques dizaines de kilomètres de Bordeaux",
-    "L'incendie affecte les trajets ferroviaires et les voyageurs de la gare de Bordeaux Saint-Jean",
-    "Des reprises de feu continuaient à se produire le lundi 27 juillet, notamment à Saint-Jean-d'Illac",
-    "La situation est décrite comme « stabilisée » mais avec des reprises persistantes",
-    "Un incendie dans les Landes était « fixé »",
-    "Aucun TGV n'était prévu mardi au sud de Bordeaux, sauf pour Toulouse",
-    "L'incendie en Gironde a ravagé 42 000 hectares (quatre fois la superficie de Paris)"
-   ],
-   "qui": "Sapeurs-pompiers, autorités de Gironde",
-   "ou": "Gironde, Bordeaux, Landes, Saint-Jean-d'Illac, Lacanau",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 87,
-   "sources": [
-    "Ouest-France",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 82,
-   "empreinte": "429314180f685cb3",
-   "score": 94,
-   "fiab_max": 80,
-   "nb_sources": 2,
-   "depuis": "2026-07-27T21:20:58.882196+00:00"
-  },
-  {
-   "faits": [
-    "Nouvelle flambée de violences en Cisjordanie occupée depuis vendredi",
-    "Quatre Palestiniens et deux Israéliens ont été tués",
-    "Benjamin Netanyahu a annoncé une vaste opération armée",
-    "Netanyahu a promis d'accélérer la colonisation",
-    "Des affrontements meurtriers se sont produits le 24 juillet dans la localité de Tell",
-    "Netanyahu est en visite à Washington début de semaine",
-    "Il doit rencontrer Donald Trump mardi 28 juillet à la Maison Blanche"
-   ],
-   "qui": "Benjamin Netanyahu, Palestiniens, Israéliens, colons",
-   "ou": "Cisjordanie occupée, Tell, Washington",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [
-    "Netanyahu utiliserait l'embrasement du territoire palestinien à des fins électorales"
-   ],
-   "importance": 80,
-   "empreinte": "70a24bbfcec63cac",
-   "score": 94,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-27T18:09:40.086060+00:00"
-  },
-  {
-   "faits": [
-    "Un pompier volontaire est mort dans un accident de la route dans les Bouches-du-Rhône",
-    "Le pompier partait effectuer le ravitaillement d'un camion-citerne",
-    "Sortie de route dont les causes ne sont pas déterminées",
-    "Le décès s'est produit dans l'exercice de ses fonctions"
-   ],
-   "qui": "Pompier volontaire (non nommé)",
-   "ou": "Bouches-du-Rhône",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "franceinfo",
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Causes exactes de l'accident"
-   ],
-   "importance": 72,
-   "empreinte": "dbf95a6d49b06172",
-   "score": 93,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-27T22:32:17.287528+00:00"
-  },
   {
    "faits": [
     "Le chanteur D4vd sera jugé pour avoir tué et démembré une adolescente",
@@ -2560,6 +2464,27 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T18:09:40.085776+00:00"
+  },
+  {
+   "faits": [
+    "Environ 200 000 Haïtiens aux États-Unis voient leur statut de protection temporaire révoqué à partir du lundi 27 juillet 2026",
+    "Ce statut leur permettait depuis 2010 de vivre et de travailler légalement aux États-Unis"
+   ],
+   "qui": "États-Unis (gouvernement)",
+   "ou": "États-Unis",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "938b9d3f721558ff",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T23:40:56.461012+00:00"
   },
   {
    "faits": [
@@ -2675,6 +2600,52 @@
   },
   {
    "faits": [
+    "Le Bangladesh et la Chine ont posé la première pierre de leur future zone économique spéciale le 27 juillet 2026",
+    "La Chine promet d'investir plusieurs centaines de millions d'euros",
+    "Le projet devrait créer 100 000 emplois",
+    "C'est un projet intergouvernemental longtemps retardé"
+   ],
+   "qui": "Bangladesh, Chine",
+   "ou": "Bangladesh",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "7f9052e82983ece1",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T23:41:06.528569+00:00"
+  },
+  {
+   "faits": [
+    "La Côte d'Ivoire a remporté sa première rencontre de la CAN féminine le lundi 27 juillet en battant le Burkina Faso (4-1) à Casablanca",
+    "La Côte d'Ivoire est entraînée par Reynald Pedros",
+    "Les Ivoiriennes ont pris la tête du groupe B",
+    "La Tanzanie a battu l'Afrique du Sud (2-1) dans la même compétition"
+   ],
+   "qui": "Côte d'Ivoire (Reynald Pedros), Tanzanie",
+   "ou": "Casablanca, Maroc",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "a60d1ab28e9d8c4f",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T23:41:06.528571+00:00"
+  },
+  {
+   "faits": [
     "La France et les États-Unis s'écharpent au Conseil de sécurité de l'ONU",
     "Les États-Unis ont quitté une réunion du Conseil de sécurité",
     "Les États-Unis dénoncent des commentaires 'hypocrites' de la France",
@@ -2695,6 +2666,93 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T20:00:10.461884+00:00"
+  },
+  {
+   "faits": [
+    "La Turquie fait face à une « crise des visas » Schengen selon la presse turque",
+    "Près de 1,3 million de Turcs ont fait une demande de visa Schengen en 2025",
+    "Les délais sont interminables, les rendez-vous introuvables, les demandes en hausse et les refus de plus en plus fréquents",
+    "Pour les Européens, voyager en Turquie ne nécessite aucun visa, tandis que pour les Turcs c'est devenu très compliqué"
+   ],
+   "qui": "Turquie",
+   "ou": "Turquie / Espace Schengen",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "47c4c68027c93360",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T23:41:06.528575+00:00"
+  },
+  {
+   "faits": [
+    "Près de neuf feux en France sur dix sont d'origine humaine (volontaires ou involontaires)",
+    "Les scientifiques rappellent que le changement climatique est le principal facteur favorisant les incendies"
+   ],
+   "qui": "Scientifiques",
+   "ou": "France",
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "bd03fb2bf63e461a",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T23:41:06.528576+00:00"
+  },
+  {
+   "faits": [
+    "La Premier League et tous les champignats anglais expérimenteront une règle visant à limiter les temps morts causés par les blessures de gardiens",
+    "Cette mesure a été approuvée après accord de l'International Football Association Board (IFAB)"
+   ],
+   "qui": "Premier League, IFAB",
+   "ou": "Angleterre",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "4eb0c5dd499b861d",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T23:41:06.528578+00:00"
+  },
+  {
+   "faits": [
+    "Paolo Maldini et Leonardo ont démissionné de la Fédération italienne de football",
+    "Cela survient 16 jours après leur nomination",
+    "Ils ont été échaudés par l'abandon de la piste Andrea Pirlo pour le poste de sélectionneur"
+   ],
+   "qui": "Paolo Maldini, Leonardo, Fédération italienne de football",
+   "ou": "Italie",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "ea8745ffab274169",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T23:41:06.528580+00:00"
   },
   {
    "faits": [
@@ -2764,6 +2822,70 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-27T21:20:58.882209+00:00"
+  },
+  {
+   "faits": [
+    "L'ancien sélectionneur du Brésil Carlos Alberto Parreira (83 ans) a quitté l'unité de soins intensifs",
+    "Il était hospitalisé depuis un peu moins d'un mois à l'hôpital de Rio de Janeiro"
+   ],
+   "qui": "Carlos Alberto Parreira",
+   "ou": "Rio de Janeiro, Brésil",
+   "categorie": "sante",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "463fc48f7f1f7aef",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T23:41:06.528588+00:00"
+  },
+  {
+   "faits": [
+    "Au moins 31 civils ont été tués depuis mercredi dans plusieurs attaques des rebelles ADF dans le nord-est de la République démocratique du Congo",
+    "Les ADF sont liés à l'État islamique"
+   ],
+   "qui": "ADF (rebelles liés à l'État islamique)",
+   "ou": "Nord-est de la République démocratique du Congo",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "b8fa159dcb868599",
+   "score": 78,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T23:40:56.461173+00:00"
+  },
+  {
+   "faits": [
+    "Le chanteur américain D4vd est accusé d'avoir tué puis démembré une adolescente de 14 ans",
+    "Il a été renvoyé en procès lundi par une juge de Los Angeles",
+    "À l'issue d'une audience de cinq jours, la magistrate a décidé qu'il y avait assez d'éléments incriminants pour justifier un procès"
+   ],
+   "qui": "D4vd (chanteur américain)",
+   "ou": "Los Angeles, États-Unis",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "cef605b9a033f1a2",
+   "score": 78,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T23:40:56.461208+00:00"
   },
   {
    "faits": [
@@ -2929,14 +3051,6 @@
  ],
  "publies_48h": [
   [
-   "ddb5735765c2c170",
-   "2026-07-25T22:40:16.725799+00:00"
-  ],
-  [
-   "bb1fe198c6cd6dbd",
-   "2026-07-25T22:40:20.735626+00:00"
-  ],
-  [
    "25a32ab24079b0bf",
    "2026-07-25T23:46:03.454011+00:00"
   ],
@@ -3015,17 +3129,17 @@
   [
    "02d1cb9edee75928",
    "2026-07-27T22:32:22.569479+00:00"
+  ],
+  [
+   "210b0d16aff0cb42",
+   "2026-07-27T23:41:07.752776+00:00"
+  ],
+  [
+   "0abe4498753f06c8",
+   "2026-07-27T23:41:11.714703+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "e292382757d5e4d7",
-   "2026-07-25T22:40:07.331088+00:00"
-  ],
-  [
-   "42c3e96aff76e82f",
-   "2026-07-25T22:40:15.492062+00:00"
-  ],
   [
    "6851dcaf2f6ab963",
    "2026-07-25T23:45:57.205647+00:00"
@@ -3105,16 +3219,26 @@
   [
    "62c2208acfe5144c",
    "2026-07-27T22:32:17.287516+00:00"
+  ],
+  [
+   "1486bd7efa1a0c3c",
+   "2026-07-27T23:41:01.347539+00:00"
+  ],
+  [
+   "429314180f685cb3",
+   "2026-07-27T23:41:06.528553+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚡ FLASH — Un incendie parti de Saumos en Gironde a parcouru 42.000 hectares et évacué 220.000 personnes. Emmanuel Macron annonce que le feu des Landes est fixé. Les habitants peuvent rentrer. Bilan : 84 à 88 pompiers blessés, 13.000 entreprises impactées. (franceinfo)",
-  "🌡️ Des incendies ravagent la Gironde et le Sud-Ouest. Emmanuel Macron annonce que l'incendie dans les Landes « est fixé ». Pompiers mobilisés en renfort. Qualité de l'air dégradée en Nouvelle-Aquitaine et Occitanie. (franceinfo)"
+  "🌡️ Des incendies ravagent la Gironde et le Sud-Ouest. Emmanuel Macron annonce que l'incendie dans les Landes « est fixé ». Pompiers mobilisés en renfort. Qualité de l'air dégradée en Nouvelle-Aquitaine et Occitanie. (franceinfo)",
+  "🇬🇧 Le Premier ministre britannique Andy Burnham a reçu le président ukrainien Zelensky une semaine après sa prise de fonction. Il a réaffirmé le soutien de Londres à Kiev « à 100 % ». (RFI, 20 Minutes)",
+  "⚡ FLASH — Un incendie ravage 42 000 hectares en Gironde près de Bordeaux. Des reprises de feu persistaient lundi à Saint-Jean-d'Illac malgré une situation stabilisée. Les trajets ferroviaires au sud sont perturbés. (Ouest-France, 20 Minutes)"
  ],
  "recap_date": "2026-07-27",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-28",
-  "publies": 2
+  "publies": 4
  }
 }
