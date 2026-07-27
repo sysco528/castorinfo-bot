@@ -7797,3 +7797,45 @@
 {"decision": "publier", "evt": "97512d7ffdb1d98d", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-27T21:20:58+00:00"}
 {"decision": "publier", "evt": "68aa12c94f58625c", "score": 76, "categorie": "economie", "sensible": false, "confiance": 78, "sources": ["RFI"], "ts": "2026-07-27T21:20:58+00:00"}
 {"decision": "publier", "evt": "425b70f83d65fa90", "score": 76, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["France 24"], "ts": "2026-07-27T21:20:58+00:00"}
+{"decision": "abandon_attente", "evt": "03a69a92bca763db", "categorie": "meteo_catastrophe", "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "abandon_attente", "evt": "244a3759fad1f2bc", "categorie": "meteo_catastrophe", "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "abandon_attente", "evt": "d7d130377d0ced81", "categorie": "international", "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "abandon_attente", "evt": "d6b65cc462524f40", "categorie": "sport", "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "abandon_attente", "evt": "816a92fa0f2ca5a4", "categorie": "justice", "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "abandon_attente", "evt": "0736c385e92d31aa", "categorie": "sport", "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "abandon_attente", "evt": "623bd2bebd6ca7a4", "categorie": "faits_divers", "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "abandon_attente", "evt": "7c1f883005de7fe5", "categorie": "international", "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "abandon_attente", "evt": "96bbdc8ec5c0a564", "categorie": "international", "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "abandon_attente", "evt": "b25961d54b563ec7", "categorie": "international", "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "7f6f2c2fa3bdbbdc", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["franceinfo", "Le Figaro", "BFMTV", "Ouest-France"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "dbf95a6d49b06172", "score": 93, "categorie": "deces_personnalite", "sensible": true, "confiance": 82, "sources": ["franceinfo", "BFMTV"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "a748d1a60b55c90d", "score": 89, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["Le Figaro", "BFMTV"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "577d2ea1aebb8ef8", "score": 80, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "762e0556842eb0e3", "score": 77, "categorie": "sport", "sensible": false, "confiance": 82, "sources": ["BFMTV"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "d8ad6a07b9df1d33", "score": 80, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "2d508c40508c602e", "score": 76, "categorie": "international", "sensible": false, "confiance": 78, "sources": ["France 24"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "9ff300cbdeedcbc1", "score": 68, "categorie": "politique", "sensible": false, "confiance": 72, "sources": ["BFMTV"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "62c2208acfe5144c", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo", "Le Figaro", "France 24"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "2b82bf22c2e6ec30", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo", "Le Figaro", "France 24"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "2caec09cb178b7ed", "score": 95, "categorie": "sante", "sensible": true, "confiance": 88, "sources": ["France 24", "RFI"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "1486bd7efa1a0c3c", "score": 94, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["RFI", "20 Minutes"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "429314180f685cb3", "score": 94, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 87, "sources": ["Ouest-France", "20 Minutes"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "70a24bbfcec63cac", "score": 94, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24", "RFI"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "e217cd1bed8fc173", "score": 87, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "4feb455baa16706c", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "9f77e3dce19a73ab", "score": 84, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "b5915928bddd0d5f", "score": 83, "categorie": "deces_personnalite", "sensible": true, "confiance": 90, "sources": ["Le Figaro"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "0363bb37d4275cf5", "score": 83, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "9039be1feb723172", "score": 82, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "d154e79e93ab2d03", "score": 81, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "a6c1a1554a6960dd", "score": 81, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "d2a507a05741d6ff", "score": 81, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["France 24"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "88bd75431481cfbd", "score": 80, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "317f9dc72566177a", "score": 78, "categorie": "faits_divers", "sensible": true, "confiance": 85, "sources": ["20 Minutes"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "publier", "evt": "fbf188010e048c67", "score": 78, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["20 Minutes"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "3c8aa52da6a7e093", "score": 77, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["France 24"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "attente", "evt": "2236137523aa80b1", "score": 77, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 82, "sources": ["Ouest-France"], "ts": "2026-07-27T22:32:05+00:00"}
+{"decision": "controle", "evt": "7f6f2c2fa3bdbbdc", "motif": "ok_sim_0.35+alerte_retrogradee", "ts": "2026-07-27T22:32:11+00:00"}
+{"decision": "controle", "evt": "62c2208acfe5144c", "motif": "ok_signal_retrograde_sim_0.28", "ts": "2026-07-27T22:32:17+00:00"}
+{"decision": "publie", "empreinte": "b60600974fffbc5a", "post_id": "2081870319480954957", "carte": true, "texte": "⚡ FLASH — Un incendie parti de Saumos en Gironde a parcouru 42.000 hectares et évacué 220.000 personnes. Emmanuel Macron annonce que le feu des Landes est fixé. Les habitants peuvent rentrer. Bilan : 84 à 88 pompiers blessés, 13.000 entreprises impactées. (franceinfo)", "ts": "2026-07-27T22:32:18+00:00"}
+{"decision": "publie", "empreinte": "02d1cb9edee75928", "post_id": "2081870336530805037", "carte": true, "texte": "🌡️ Des incendies ravagent la Gironde et le Sud-Ouest. Emmanuel Macron annonce que l'incendie dans les Landes « est fixé ». Pompiers mobilisés en renfort. Qualité de l'air dégradée en Nouvelle-Aquitaine et Occitanie. (franceinfo)", "ts": "2026-07-27T22:32:22+00:00"}

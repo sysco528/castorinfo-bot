@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/sports/foot/football-legende-de-liverpool-et-double-ballon-d-or-l-anglais-kevin-keegan-est-mort-a-l-age-de-75-ans_8115233.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/les-moyens-aeriens-nationaux-engages-ne-sont-plus-a-la-hauteur-des-risques-alerte-le-president-des-pompiers-du-departement-de-haute-corse_8115479.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/drogue/le-baron-de-la-drogue-el-mayo-condamne-a-la-prison-a-vie-a-new-york_8115467.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/le-gouvernement-s-en-remet-au-parlement-pour-trancher-la-reintroduction-de-l-acetamipride-avant-le-vote-solennel-du-projet-de-loi-agricole_8115428.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/culture/contre-les-vols-dans-les-musees-les-objets-les-plus-vulnerables-doivent-etre-mis-a-l-abri-annonce-le-ministere-de-la-culture_8124344.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/je-me-sens-un-peu-deboussolee-sans-repere-le-traumatisme-des-sinistres-en-gironde_8124494.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/on-reste-la-jusqu-au-bout-des-soldats-du-feu-sur-le-terrain-au-peril-de-leur-vie_8124485.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-degats-des-incendies-sur-la-faune-sauvage-seront-catastrophiques-previent-la-ministre-de-la-transition-ecologique_8124452.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-degats-des-incendies-sur-la-faune-sauvage-seront-catastrophiques-previent-la-ministre-de-la-transition-ecologique_8124452.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/video-l-incendie-dans-les-landes-est-fixe-annonce-emmanuel-macron_8124575.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/un-pompier-volontaire-meurt-dans-un-accident-de-la-route-dans-les-bouches-du-rhone_8124596.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -486,8 +486,6 @@
    "https://www.lemonde.fr/series-d-ete/article/2026/07/27/a-antibes-sur-la-plage-de-salis-l-imbattable-pan-bagnat-de-chez-josy_6733744_3451060.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-pas-de-celebration-prevue-en-argentine-messi-et-certains-coequipiers-ne-rentrent-pas-au-pays-20260720",
-   "https://www.lefigaro.fr/international/atteinte-gravissime-et-inadmissible-paris-denonce-une-action-d-intimidation-extremement-grave-contre-deux-diplomates-francais-en-iran-20260720",
    "https://www.lefigaro.fr/flash-actu/donald-trump-assure-a-benyamin-netanyahou-qu-il-ne-sera-pas-arrete-aux-etats-unis-20260720",
    "https://www.lefigaro.fr/economie/hausse-des-matieres-premieres-rentabilite-en-baisse-fiscalite-penalisante-les-entreprises-reduisent-la-voilure-sur-les-recrutements-20260720",
    "https://www.lefigaro.fr/conjoncture/ils-m-envoyaient-des-propositions-sans-aucun-rapport-avec-ma-recherche-ces-demandeurs-d-emploi-qui-decident-de-se-passer-de-france-travail-20260720",
@@ -785,10 +783,11 @@
    "https://www.lefigaro.fr/conjoncture/incendies-dans-le-sud-ouest-aucun-tgv-ne-circulera-mardi-au-sud-de-bordeaux-sauf-pour-toulouse-20260727",
    "https://www.lefigaro.fr/actualite-france/en-gironde-emmanuel-macron-vient-temoigner-du-soutien-de-la-nation-aux-soldats-du-feu-20260727",
    "https://www.lefigaro.fr/vox/societe/l-editorial-de-jacques-olivier-martin-personne-n-eteint-un-incendie-depuis-la-capitale-20260727",
-   "https://www.lefigaro.fr/faits-divers/bouches-du-rhone-un-pompier-volontaire-de-38-ans-meurt-lors-d-une-sortie-de-route-20260727"
+   "https://www.lefigaro.fr/faits-divers/bouches-du-rhone-un-pompier-volontaire-de-38-ans-meurt-lors-d-une-sortie-de-route-20260727",
+   "https://www.lefigaro.fr/conjoncture/tourisme-a-l-arret-usines-et-magasins-fermes-les-incendies-de-forets-en-gironde-virent-a-l-embolie-economique-20260727",
+   "https://www.lefigaro.fr/culture/etats-unis-le-chanteur-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-20260727"
   ],
   "https://www.france24.com/fr/rss": [
-   "1494ade0-8460-11f1-8daf-73aef791d6d7",
    "187a9260-8471-11f1-8b57-d1c14e6ab975",
    "e3592e7c-8482-11f1-a9c0-c98139d3b091",
    "ad0ab202-8480-11f1-bfc3-3faa933334d9",
@@ -1087,7 +1086,8 @@
    "c1d05b24-89ee-11f1-8d65-9d40502e27b1",
    "8aeec896-89eb-11f1-94f2-eb9c0c31c31a",
    "e0632394-89f0-11f1-bb87-9d40502e27b1",
-   "493c6842-89f8-11f1-8dda-dbe69a4b4f80"
+   "493c6842-89f8-11f1-8dda-dbe69a4b4f80",
+   "cfa16c76-8a06-11f1-978f-fd4635dc0d14"
   ],
   "https://www.rfi.fr/fr/rss": [
    "a759f8aa-8056-11f1-aaa3-b7c298cf2416",
@@ -1392,7 +1392,6 @@
    "0d60ec6a-89fa-11f1-b319-0b07945bb516"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/monde/guyana/naufrage-au-guyana-27-corps-recuperes-83-personnes-portees-disparues-5b31d43a-848d-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/etats-unis/les-etats-unis-condamnent-laction-dangereuse-de-la-chine-apres-un-affrontement-avec-la-marine-philippine-a5e7a74c-8498-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-a-quelle-heure-et-sur-quelle-chaine-tv-suivre-la-16e-etape-1bbaa2d2-8438-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/meteo/canicule/emballement-pollution-incendies-plus-frequents-les-lecons-scientifiques-de-la-canicule-de-juin-e03f9f3e-8453-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1691,7 +1690,8 @@
    "https://www.ouest-france.fr/sport/cyclisme/paul-seixas/cest-avec-nous-quil-va-gagner-le-message-fort-du-patron-de-decathlon-cma-cgm-a-seixas-et-aux-equipes-interessees-e6c3cd2a-89f9-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/provence-alpes-cote-dazur/var/incendie-du-var-les-reprises-de-feu-circonscrites-lundi-soir-be87f0a4-89fc-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/politique/emmanuel-macron/incendies-emmanuel-macron-veut-defendre-son-action-face-aux-critiques-0fa3b8f6-89f8-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/cyclisme/tadej-pogacar/vuelta-2026-tadej-pogacar-devrait-participer-au-tour-despagne-apres-sa-demonstration-sur-le-tour-de-france-a7079da6-89f4-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/cyclisme/tadej-pogacar/vuelta-2026-tadej-pogacar-devrait-participer-au-tour-despagne-apres-sa-demonstration-sur-le-tour-de-france-a7079da6-89f4-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/cyclisme/remco-evenepoel/je-vais-enfin-rentrer-chez-moi-remco-evenepoel-vainqueur-dun-criterium-24-heures-apres-la-fin-du-tour-de-france-a5ae9a8e-8a00-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1908,7 +1908,8 @@
    "https://www.20minutes.fr/monde/ukraine/4236577-20260727-guerre-ukraine-zelensky-rencontre-burnham-poutine-augmente-armee?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/diaporama/diaporama-4236275-images-incendie-gironde-ur-brasier-deja-ravage-42-000-hectares?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/faits_divers/4236605-20260727-seine-saint-denis-mosquee-aulnay-fermee-incitation-violence-apologie-terrorisme?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/canada/4236603-20260727-canada-consulat-americain-toronto-vise-tir-arme-feu-deuxieme-fois?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/canada/4236603-20260727-canada-consulat-americain-toronto-vise-tir-arme-feu-deuxieme-fois?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4236606-20260728-investissements-appel-union-gagner-bataille-point-declarations-macron-gironde?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2138,7 +2139,19 @@
    "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-cette-journee-a-ete-assez-difficile-raconte-le-maire-du-temple_VN-202607260301.html",
    "https://www.bfmtv.com/meteo/incendies-en-france-laurent-nunez-annonce-que-115-000-hectares-ont-ete-parcourus-depuis-le-debut-de-l-annee_AD-202607260300.html",
    "https://rmcsport.bfmtv.com/football/incendies-en-gironde-notre-preparation-va-etre-chaotique-comment-les-girondins-de-bordeaux-s-organisent-apres-la-fermeture-de-leur-centre-d-entrainement_AV-202607260299.html",
-   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-a-15-km-de-bordeaux-le-feu-menace-toujours-26-07_VN-202607260307.html"
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-a-15-km-de-bordeaux-le-feu-menace-toujours-26-07_VN-202607260307.html",
+   "https://www.bfmtv.com/meteo/secheresse/direct-incendies-en-france-42-000-hectares-parcourus-en-gironde-le-feu-poursuit-sa-progression_LN-202607270033.html",
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/le-chanteur-americain-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente_AD-202607270587.html",
+   "https://www.bfmtv.com/international/europe/ukraine/guerre-en-ukraine-volodymyr-zelensky-attendu-ce-mardi-a-la-maison-blanche-pour-s-entretenir-avec-donald-trump_AD-202607270586.html",
+   "https://rmcsport.bfmtv.com/football/equipe-de-france/ca-donne-de-l-espoir-pour-les-jeunes-a-marseille-la-fierte-de-la-castellane-cite-d-origine-de-zinedine-zidane_AV-202607270585.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-on-craint-le-vent-qui-est-imprevisible-explique-sebastien-saint-pasteur-depute-ps_VN-202607270584.html",
+   "https://www.bfmtv.com/politique/la-france-insoumise/banque-nationale-de-surveillance-medicale-50-000-volontaires-d-ici-2030-lfi-souhaite-une-reconstruction-generale-de-la-securite-civile_AD-202607270582.html",
+   "https://www.bfmtv.com/societe/video-face-aux-incendies-une-vague-de-solidarite-s-organise-pour-soutenir-les-sinistres_VN-202607270581.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-un-pompier-des-bouches-du-rhone-est-mort-dans-l-exercice-de-ses-fonctions_VN-202607270580.html",
+   "https://www.bfmtv.com/meteo/video-incendie-et-canicule-la-crainte-des-reprises-de-feu-en-france_VN-202607270579.html",
+   "https://www.bfmtv.com/environnement/climat/video-la-reprise-de-l-incendie-inquiete-philippe-de-gonneville-maire-de-la-commune-de-lege-cap-ferret-en-gironde_VN-202607270578.html",
+   "https://www.bfmtv.com/var/incendie-dans-le-var-un-camion-citerne-se-retourne-quatre-pompiers-blesses_AV-202607270576.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-nous-avons-ete-tres-impactes-raconte-le-maire-du-temple-olivier-hallard_VN-202607270575.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2336,130 +2349,12 @@
    "https://www.lequipe.fr/Football/Article/Nouvel-entraineur-de-l-aj-auxerre-will-still-fend-l-armure-j-ai-ete-different-toute-ma-vie/1707141",
    "https://www.lequipe.fr/Football/Actualites/Andrea-pirlo-defend-une-collaboration-exclusivement-de-nature-commerciale-et-sportive-avec-une-societe-de-paris-sportifs-russe/1707299",
    "https://www.lequipe.fr/Football/Actualites/Le-maroc-lance-sa-can-feminine-par-une-large-victoire-l-algerie-domine-le-senegal/1707296",
-   "https://www.lequipe.fr/Football/Actualites/Mercato-le-defenseur-de-nice-kojo-peprah-oppong-piste-par-burnley-et-trabzonspor/1707291"
+   "https://www.lequipe.fr/Football/Actualites/Mercato-le-defenseur-de-nice-kojo-peprah-oppong-piste-par-burnley-et-trabzonspor/1707291",
+   "https://www.lequipe.fr/Football/actu-en-direct/mercato-live/19562"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Des incendies sévissent en Gironde et dans le Sud-Ouest de la France",
-    "Des pompiers de plusieurs régions sont mobilisés en renfort en Gironde",
-    "Les incendies provoquent des traumatismes chez les évacués, pris en charge par des psychologues",
-    "La ministre de la Transition écologique prévient que les dégâts sur la faune sauvage seront 'catastrophiques'",
-    "La qualité de l'air est altérée en Nouvelle-Aquitaine et Occitanie, avec alerte pollution aux particules fines",
-    "Aucun TGV ne circulera mardi au sud de Bordeaux sauf pour Toulouse",
-    "Emmanuel Macron s'est rendu en Gironde auprès des pompiers et habitants",
-    "Emmanuel Macron annonce que l'incendie dans les Landes 'est fixé'"
-   ],
-   "qui": "Emmanuel Macron, pompiers, Monique Barbut (ministre de la Transition écologique)",
-   "ou": "Gironde, Landes, Sud-Ouest (Nouvelle-Aquitaine, Occitanie), Loire-Atlantique",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [
-    "Chiffre précis des pertes sur la faune sauvage (ministre: 'incapable de donner un chiffre sérieux')"
-   ],
-   "importance": 95,
-   "empreinte": "62c2208acfe5144c",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-27T20:00:10.461866+00:00"
-  },
-  {
-   "faits": [
-    "Un mégafeu en Gironde a ravagé 42 000 hectares",
-    "Le feu est décrit comme 'stabilisé' mais pas 'fixé' selon le ministre de l'Intérieur",
-    "Une remontée des températures est redoutée avec jusqu'à 40°C attendus mardi",
-    "Des agriculteurs se mobilisent bénévolement aux côtés des pompiers",
-    "Des initiatives citoyennes se développent pour aider les sinistrés",
-    "Emmanuel Macron en visite en Gironde déclare 'On va continuer à mener cette bataille'",
-    "Marine Tondelier demande à Macron de réunir les forces politiques pour un point sur la situation climatique",
-    "C'est la quatrième vague de chaleur de l'année en France"
-   ],
-   "qui": "Emmanuel Macron, pompiers, agriculteurs, Marine Tondelier",
-   "ou": "Gironde, Lège-Cap-Ferret, Bordeaux",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "2b82bf22c2e6ec30",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-27T18:09:40.086055+00:00"
-  },
-  {
-   "faits": [
-    "Incendies en Gironde et dans les Landes depuis le 22 juillet 2026",
-    "Plus de 42 000 hectares brûlés en Gironde",
-    "Plus de 220 000 personnes évacuées en Gironde",
-    "7 500 hectares de forêt communale ravagés au Porge",
-    "183 habitations détruites au Porge",
-    "115 000 hectares parcourus par les incendies en France depuis le début de l'année",
-    "Hypothèses accidentelles privilégiées : débrouillage en Gironde (Saumos), moteur de fourgon dans les Landes (près de Biscarosse)",
-    "Formation d'un pyrocumulonimbus (orage de feu) observée en Gironde",
-    "2 500 sapeurs-pompiers mobilisés en Gironde",
-    "Nouvelle vague de chaleur attendue le 28 juillet",
-    "Incendies également déclarés dans le Var et en Corse"
-   ],
-   "qui": "Gouvernement français (Laurent Nuñez, ministre de l'Intérieur)",
-   "ou": "Gironde, Landes, Sud-Ouest de la France (également Var et Corse)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "Le Figaro",
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "03a69a92bca763db",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 4,
-   "depuis": "2026-07-27T16:31:13.770958+00:00"
-  },
-  {
-   "faits": [
-    "L'épidémie d'Ebola en RDC compte 3 200 cas cumulés",
-    "1 405 décès sont enregistrés",
-    "Cinq des 26 provinces de RDC sont touchées",
-    "Les chiffres s'approchent de ceux de la pire épidémie de 2018-2020",
-    "Des soignants ont manifesté samedi à Bunia contre des mois de salaires impayés",
-    "Plus de 1 300 morts selon le bilan de l'OMS"
-   ],
-   "qui": "Gouvernement de RDC, soignants, OMS",
-   "ou": "République démocratique du Congo, Bunia",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "2caec09cb178b7ed",
-   "score": 95,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-27T18:09:40.086059+00:00"
-  },
   {
    "faits": [
     "Andy Burnham, nouveau Premier ministre du Royaume-Uni, a reçu le président ukrainien Volodymyr Zelensky une semaine après sa prise de fonction",
@@ -2543,6 +2438,61 @@
   },
   {
    "faits": [
+    "Un pompier volontaire est mort dans un accident de la route dans les Bouches-du-Rhône",
+    "Le pompier partait effectuer le ravitaillement d'un camion-citerne",
+    "Sortie de route dont les causes ne sont pas déterminées",
+    "Le décès s'est produit dans l'exercice de ses fonctions"
+   ],
+   "qui": "Pompier volontaire (non nommé)",
+   "ou": "Bouches-du-Rhône",
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "franceinfo",
+    "BFMTV"
+   ],
+   "non_confirme": [
+    "Causes exactes de l'accident"
+   ],
+   "importance": 72,
+   "empreinte": "dbf95a6d49b06172",
+   "score": 93,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-27T22:32:17.287528+00:00"
+  },
+  {
+   "faits": [
+    "Le chanteur D4vd sera jugé pour avoir tué et démembré une adolescente",
+    "La victime est Celeste Rivas Hernandez",
+    "D4vd est âgé de 21 ans",
+    "Accusation : poignardage à mort",
+    "D4vd aurait eu des relations sexuelles avec la victime dès ses 13 ans, alors qu'il en avait 18",
+    "La victime aurait menacé de ruiner la carrière du chanteur environ 24 heures avant sa mort",
+    "D4vd risque l'emprisonnement à perpétuité ou la peine de mort"
+   ],
+   "qui": "D4vd (chanteur américain, 21 ans)",
+   "ou": "États-Unis",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Le Figaro",
+    "BFMTV"
+   ],
+   "non_confirme": [
+    "Circonstances précises du crime"
+   ],
+   "importance": 65,
+   "empreinte": "a748d1a60b55c90d",
+   "score": 89,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-27T22:32:17.287529+00:00"
+  },
+  {
+   "faits": [
     "Un incendie ravage les régions espagnoles de Madrid, Tolède et Avila",
     "Près de 77 000 hectares ont été ravagés, soit sept fois la taille de Paris",
     "L'incendie reste actif lundi 27 juillet",
@@ -2566,30 +2516,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T18:09:40.085760+00:00"
-  },
-  {
-   "faits": [
-    "Incendies en Espagne près de Madrid",
-    "Au moins 60 000 personnes évacuées",
-    "Environ 75 000 hectares ravagés",
-    "Deux incendies menacent de se rejoindre",
-    "Gouvernement espagnol espère maîtriser les feux avant une nouvelle vague de chaleur"
-   ],
-   "qui": "Gouvernement espagnol",
-   "ou": "Madrid, Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "244a3759fad1f2bc",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T16:31:13.770970+00:00"
   },
   {
    "faits": [
@@ -2681,29 +2607,6 @@
   },
   {
    "faits": [
-    "Ukraine multiplie les bombardements visant les entrepôts de Wildberries depuis le 18 juillet",
-    "Wildberries est l'équivalent russe d'Amazon",
-    "Ukraine vise à rappeler à la population russe l'impact du conflit sur les civils",
-    "Wildberries est accusé de soutenir l'effort de guerre du Kremlin"
-   ],
-   "qui": "Ukraine, Wildberries",
-   "ou": "Russie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "d7d130377d0ced81",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T16:31:13.770456+00:00"
-  },
-  {
-   "faits": [
     "Débat entre écologistes et forestiers sur le débroussaillement face aux risques d'incendie",
     "Réglementation environnementale critiquée par les exploitants forestiers comme 'paralysante'",
     "La commune de La Plaine-sur-Mer (Loire-Atlantique), théâtre d'un incendie dévastateur il y a deux semaines, redouble de vigilance",
@@ -2724,29 +2627,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T20:00:10.461881+00:00"
-  },
-  {
-   "faits": [
-    "Kylian Mbappé a écrit une lettre ouverte aux Français publiée dans la presse",
-    "Lettre intervient une dizaine de jours après l'élimination de la France en Coupe du monde contre l'Angleterre",
-    "Mbappé est capitaine des Bleus",
-    "Lettre remercie les supporters et promet de continuer à jouer ensemble"
-   ],
-   "qui": "Kylian Mbappé",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "d6b65cc462524f40",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T16:31:13.770978+00:00"
   },
   {
    "faits": [
@@ -2818,94 +2698,49 @@
   },
   {
    "faits": [
-    "Dominique de Villepin a été entendu en audition libre mi-juillet",
-    "L'audition concerne une enquête du parquet financier",
-    "L'enquête porte sur des statuettes reçues par Villepin alors qu'il était en fonction"
+    "Volodymyr Zelensky est attendu ce mardi à la Maison Blanche",
+    "Rencontre prévue avec Donald Trump",
+    "L'Ukraine et la Russie font monter en puissance leurs frappes de longue portée",
+    "Zelensky tente d'obtenir le soutien américain"
    ],
-   "qui": "Dominique de Villepin",
-   "ou": null,
-   "categorie": "justice",
+   "qui": "Volodymyr Zelensky, Donald Trump",
+   "ou": "Maison Blanche (États-Unis)",
+   "categorie": "international",
    "sensible": false,
    "confiance": 85,
    "sources": [
-    "franceinfo"
+    "BFMTV"
    ],
    "non_confirme": [],
-   "importance": 55,
-   "empreinte": "816a92fa0f2ca5a4",
-   "score": 81,
-   "fiab_max": 90,
+   "importance": 78,
+   "empreinte": "577d2ea1aebb8ef8",
+   "score": 80,
+   "fiab_max": 75,
    "nb_sources": 1,
-   "depuis": "2026-07-27T16:31:13.770979+00:00"
+   "depuis": "2026-07-27T22:32:17.287534+00:00"
   },
   {
    "faits": [
-    "CAN féminines 2026 a débuté le dimanche 26 juillet au Maroc",
-    "16 équipes participent",
-    "Tournoi dure trois semaines"
+    "Remco Evenepoel a remporté un critérium 24 heures après la fin du Tour de France",
+    "Evenepoel a terminé deuxième du Tour de France",
+    "Critérium d'Alost le 27 juillet 2026",
+    "Evenepoel court pour Red Bull - Bora - Hansgrohe"
    ],
-   "qui": "Équipes de football féminines d'Afrique",
-   "ou": "Maroc",
+   "qui": "Remco Evenepoel (cycliste)",
+   "ou": "Alost (Belgique)",
    "categorie": "sport",
    "sensible": false,
    "confiance": 88,
    "sources": [
-    "France 24"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 60,
-   "empreinte": "0736c385e92d31aa",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T16:31:13.770980+00:00"
-  },
-  {
-   "faits": [
-    "Attaque au couteau avenue de Clichy à Paris le 27 juillet à 11h30",
-    "L'agresseur a commis une série d'agressions visant des femmes",
-    "Mohamed, 26 ans et ceinture noire de judo, a maîtrisé et neutralisé le suspect",
-    "Le suspect a été mis au sol et neutralisé par Mohamed"
-   ],
-   "qui": "Auteur de l'attaque (non nommé)",
-   "ou": "Avenue de Clichy, Paris",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "623bd2bebd6ca7a4",
+   "importance": 62,
+   "empreinte": "d8ad6a07b9df1d33",
    "score": 80,
-   "fiab_max": 85,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-27T16:31:13.770403+00:00"
-  },
-  {
-   "faits": [
-    "Attaque d'un navire iranien en mer Caspienne ce week-end",
-    "Ukraine accusée de l'attaque",
-    "Iran met en garde l'Ukraine contre des conséquences imprévisibles"
-   ],
-   "qui": "Iran, Ukraine",
-   "ou": "Mer Caspienne",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Attribution à Kiev confirmée ou uniquement attribuée par l'Iran"
-   ],
-   "importance": 70,
-   "empreinte": "7c1f883005de7fe5",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T16:31:13.770430+00:00"
+   "depuis": "2026-07-27T22:32:17.287535+00:00"
   },
   {
    "faits": [
@@ -2929,54 +2764,6 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-27T21:20:58.882209+00:00"
-  },
-  {
-   "faits": [
-    "Arabie saoudite a intercepté et détruit plusieurs drones lancés depuis l'Irak",
-    "Drones visaient des installations pétrolières saoudiennes",
-    "Ministère saoudien accuse des groupes armés soutenus par l'Iran",
-    "Attaque intervient malgré une accalmie entre États-Unis et Iran après 13 jours d'affrontements"
-   ],
-   "qui": "Arabie saoudite, groupes pro-iraniens",
-   "ou": "Arabie saoudite, Irak",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "96bbdc8ec5c0a564",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T16:31:13.770981+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump laisse de la place pour des pourparlers avec l'Iran selon son ambassadeur à l'ONU",
-    "Accalmie des frappes américaines observée",
-    "Guerre dure depuis bientôt cinq mois",
-    "Presse américaine fait état d'un possible manque de munitions"
-   ],
-   "qui": "Donald Trump, ambassadeur américain à l'ONU",
-   "ou": null,
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 78,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Manque de munitions rapporté par la presse mais non confirmé officiellement"
-   ],
-   "importance": 72,
-   "empreinte": "b25961d54b563ec7",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T16:31:13.770983+00:00"
   },
   {
    "faits": [
@@ -3068,13 +2855,79 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-27T21:20:58.880832+00:00"
+  },
+  {
+   "faits": [
+    "Zinedine Zidane va être nommé sélectionneur de l'équipe de France ce mardi",
+    "Fierté à Marseille, notamment dans la cité de la Castellane où a grandi Zidane"
+   ],
+   "qui": "Zinedine Zidane",
+   "ou": "Marseille, France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [
+    "Nomination officielle pas encore confirmée à la date du flux"
+   ],
+   "importance": 68,
+   "empreinte": "762e0556842eb0e3",
+   "score": 77,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T22:32:17.287538+00:00"
+  },
+  {
+   "faits": [
+    "Soudan : l'armée soudanaise a repris le contrôle de la route stratégique menant à Khartoum",
+    "La ville d'El-Obeid a été reprise par l'armée face aux paramilitaires",
+    "Mohamed Hamdane Daglo, chef des FDS, affirme ne plus tenir la bride de ses combattants"
+   ],
+   "qui": "Armée soudanaise, Mohamed Hamdane Daglo (chef des FDS), Forces de soutien rapide",
+   "ou": "Soudan (El-Obeid, Khartoum)",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 58,
+   "empreinte": "2d508c40508c602e",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T22:32:17.287539+00:00"
+  },
+  {
+   "faits": [
+    "La France Insoumise (LFI) présente des mesures de reconstruction de la sécurité civile",
+    "Proposition : banque nationale de surveillance médicale",
+    "Objectif : 50.000 volontaires d'ici 2030",
+    "Une dizaine de mesures concrètes présentées en septembre"
+   ],
+   "qui": "La France Insoumise (LFI)",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 72,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [
+    "Calendrier exact de présentation des mesures"
+   ],
+   "importance": 45,
+   "empreinte": "9ff300cbdeedcbc1",
+   "score": 68,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T22:32:05.703400+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "ad20cf0a5ffb9f30",
-   "2026-07-25T09:08:50.747412+00:00"
-  ],
   [
    "ddb5735765c2c170",
    "2026-07-25T22:40:16.725799+00:00"
@@ -3154,6 +3007,14 @@
   [
    "539a34e523c5d6ea",
    "2026-07-27T08:18:46.398342+00:00"
+  ],
+  [
+   "b60600974fffbc5a",
+   "2026-07-27T22:32:18.410515+00:00"
+  ],
+  [
+   "02d1cb9edee75928",
+   "2026-07-27T22:32:22.569479+00:00"
   ]
  ],
  "evenements_48h": [
@@ -3236,24 +3097,24 @@
   [
    "732bf10dfbc3a9f7",
    "2026-07-27T08:18:41.292822+00:00"
+  ],
+  [
+   "7f6f2c2fa3bdbbdc",
+   "2026-07-27T22:32:11.879966+00:00"
+  ],
+  [
+   "62c2208acfe5144c",
+   "2026-07-27T22:32:17.287516+00:00"
   ]
  ],
  "depeches_du_jour": [
-  "Un incendie massif ravage la Gironde depuis vendredi soir, avec 42 000 hectares brûlés. Environ 220 000 personnes évacuées, dont 55 000 à Cestas. Le feu restait non maîtrisé dimanche. (France 24, BFMTV)",
-  "⚡ FLASH — Des incendies ravagent la Gironde et les Landes, détruisant 42 000 hectares. Environ 200 000 personnes ont été évacuées, dont 55 000 à Cestas. Le village du Porge compte 175 maisons détruites. (franceinfo, BFMTV)",
-  "🔴 ALERTE — Les incendies en Gironde ont brûlé plus de 42 000 hectares et forcé l'évacuation de 220 000 personnes. Le feu n'est pas fixé. Nouvelles évacuations ordonnées samedi près de Bordeaux. Emmanuel Macron présidera lundi une cellule de crise.",
-  "⚽ Tadej Pogacar remporte son cinquième Tour de France. L'étape finale, raccourcie à 89 km, s'est déroulée de Montmartre aux Champs-Élysées, les temps ayant été gelés au kilomètre 40,8 avant la côte de Montmartre. (Le Figaro, France 24, Ouest-France)",
-  "La RDC enregistre 3 075 cas d'Ebola et 1 354 décès. Mille nouveaux cas ont été détectés en dix jours. L'épidémie sévit dans l'est du pays, région fragilisée par 30 ans de conflits. (France 24, Ouest-France)",
-  "⚽ Le Paris Saint-Germain abandonne la course pour l'attaquant de Leipzig Yan Diomandé, selon un communiqué transmis à Sky Sport. Le joueur devrait s'engager avec le Real Madrid, selon L'Équipe et Ouest-France.",
-  "🔴 ALERTE — Un incendie massif ravage la Gironde depuis le 22 juillet : 42 000 hectares brûlés, 220 000 évacués, 240 habitations détruites. Le feu, à 15 km de Bordeaux, menace des sites stratégiques. Macron préside une réunion de crise lundi. (franceinfo)",
-  "🇭🇳 Juan Orlando Hernandez, ancien président du Honduras gracié par Trump en novembre 2025, est rentré dimanche au pays. Accueilli en héros malgré un bilan marqué par des accusations de corruption et d'atteintes aux droits humains. (RFI)",
-  "🔴 ALERTE — Un incendie ravage la Gironde depuis mercredi, parcourant 42 000 hectares et forçant l'évacuation de 220 000 personnes. Le feu se redirige vers Bordeaux. Macron présidera une cellule de crise lundi. (franceinfo)",
-  "Troisième nuit sans frappes américaines en Iran. Aucun bombardement signalé depuis le 24 juillet au soir, marquant une pause après deux semaines d'hostilités. La marine iranienne a bloqué lundi six navires au détroit d'Ormuz. (France 24, RFI)"
+  "⚡ FLASH — Un incendie parti de Saumos en Gironde a parcouru 42.000 hectares et évacué 220.000 personnes. Emmanuel Macron annonce que le feu des Landes est fixé. Les habitants peuvent rentrer. Bilan : 84 à 88 pompiers blessés, 13.000 entreprises impactées. (franceinfo)",
+  "🌡️ Des incendies ravagent la Gironde et le Sud-Ouest. Emmanuel Macron annonce que l'incendie dans les Landes « est fixé ». Pompiers mobilisés en renfort. Qualité de l'air dégradée en Nouvelle-Aquitaine et Occitanie. (franceinfo)"
  ],
  "recap_date": "2026-07-27",
  "echecs_extraction": 0,
  "compteur": {
-  "date": "2026-07-27",
-  "publies": 10
+  "date": "2026-07-28",
+  "publies": 2
  }
 }
