@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/tour-de-france/on-vous-resume-l-affaire-des-controles-antidopage-inopines-en-pleine-nuit-ayant-vise-tadej-pogacar-et-jonas-vingegaard-sur-le-tour-de-france-2026_8115230.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/maladie/grippe/la-haute-autorite-de-sante-recommande-l-obligation-vaccinale-contre-la-grippe-pour-tous-les-professionnels-de-sante_8115158.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/police/un-homme-qui-usurpait-l-image-de-la-gendarmerie-nationale-pour-creer-des-contenus-a-caractere-sexuel-interpelle-dans-la-marne_8115347.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/foot/football-legende-de-liverpool-et-double-ballon-d-or-l-anglais-kevin-keegan-est-mort-a-l-age-de-75-ans_8115233.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/les-moyens-aeriens-nationaux-engages-ne-sont-plus-a-la-hauteur-des-risques-alerte-le-president-des-pompiers-du-departement-de-haute-corse_8115479.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/drogue/le-baron-de-la-drogue-el-mayo-condamne-a-la-prison-a-vie-a-new-york_8115467.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-gouvernement-espagnol-espere-maitriser-les-incendies-pres-de-madrid-avant-la-nouvelle-vague-de-chaleur_8124191.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/affaire-des-statuettes-dominique-de-villepin-a-ete-entendu-en-audition-libre-mi-juillet_8124329.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/crise-climatique/incendies-marine-tondelier-demande-a-emmanuel-macron-de-reunir-les-forces-politiques-pour-faire-un-point-sur-la-situation-climatique_8124401.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/contre-les-vols-dans-les-musees-les-objets-les-plus-vulnerables-doivent-etre-mis-a-l-abri-annonce-le-ministere-de-la-culture_8124344.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/culture/contre-les-vols-dans-les-musees-les-objets-les-plus-vulnerables-doivent-etre-mis-a-l-abri-annonce-le-ministere-de-la-culture_8124344.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/je-me-sens-un-peu-deboussolee-sans-repere-le-traumatisme-des-sinistres-en-gironde_8124494.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/on-reste-la-jusqu-au-bout-des-soldats-du-feu-sur-le-terrain-au-peril-de-leur-vie_8124485.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-degats-des-incendies-sur-la-faune-sauvage-seront-catastrophiques-previent-la-ministre-de-la-transition-ecologique_8124452.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -486,13 +486,6 @@
    "https://www.lemonde.fr/series-d-ete/article/2026/07/27/a-antibes-sur-la-plage-de-salis-l-imbattable-pan-bagnat-de-chez-josy_6733744_3451060.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/foot-kevin-keegan-double-ballon-d-or-anglais-est-mort-a-l-age-de-75-ans-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-quel-bilan-pour-les-bleus-posez-vos-questions-a-notre-envoye-special-20260719",
-   "https://www.lefigaro.fr/vox/monde/renaud-girard-l-amerique-et-l-iran-s-embourbent-la-chine-avance-20260720",
-   "https://www.lefigaro.fr/flash-eco/du-koweit-aux-emirats-arabes-unis-la-guerre-au-moyen-orient-fait-derailler-la-croissance-des-petromonarchies-20260720",
-   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-un-navire-en-feu-dans-le-detroit-d-ormuz-apres-avoir-ete-frappe-par-un-projectile-20260720",
-   "https://www.lefigaro.fr/vox/societe/sabine-duflo-les-jeunes-accros-aux-reseaux-sociaux-ne-sont-plus-capables-de-preter-attention-a-autre-chose-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/suprematie-de-l-espagne-scandale-fifa-show-a-l-americaine-les-coups-de-coeur-et-coups-de-griffe-de-la-coupe-du-monde-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-la-fifa-va-ouvrir-une-enquete-sur-le-comportement-des-argentins-apres-la-finale-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-pas-de-celebration-prevue-en-argentine-messi-et-certains-coequipiers-ne-rentrent-pas-au-pays-20260720",
    "https://www.lefigaro.fr/international/atteinte-gravissime-et-inadmissible-paris-denonce-une-action-d-intimidation-extremement-grave-contre-deux-diplomates-francais-en-iran-20260720",
@@ -785,12 +778,16 @@
    "https://www.lefigaro.fr/faits-divers/je-lui-ai-fait-une-balayette-mohamed-raconte-au-figaro-comment-il-a-maitrise-l-auteur-de-l-attaque-au-couteau-a-paris-20260727",
    "https://www.lefigaro.fr/meteo/meteo-du-mardi-28-juillet-retour-de-la-canicule-dans-une-france-toujours-ravagee-par-les-incendies-20260727",
    "https://www.lefigaro.fr/actualite-france/tant-qu-il-y-a-besoin-d-aide-on-reste-les-agriculteurs-mobilises-aux-cote-des-pompiers-dans-la-lutte-contre-les-incendies-en-gironde-20260727",
-   "https://www.lefigaro.fr/actualite-france/cagnottes-dons-en-nature-comment-aider-les-sinistres-des-incendies-20260727"
+   "https://www.lefigaro.fr/actualite-france/cagnottes-dons-en-nature-comment-aider-les-sinistres-des-incendies-20260727",
+   "https://www.lefigaro.fr/actualite-france/les-flammes-ne-lisent-pas-le-code-de-l-environnement-ecologistes-contre-forestiers-la-bataille-ideologique-du-debroussaillement-20260727",
+   "https://www.lefigaro.fr/nantes/debroussaillement-apres-la-serie-d-incendies-la-traque-aux-parcelles-a-risque-s-intensifie-en-loire-atlantique-20260727",
+   "https://sante.lefigaro.fr/social/sante-publique/une-fumee-irrespirable-qui-brule-les-yeux-et-prend-a-la-gorge-les-incendies-alterent-la-qualite-de-l-air-sur-de-longues-distances-20260727",
+   "https://www.lefigaro.fr/actualite-france/jets-de-megots-barbecue-debroussaillement-les-incendies-vous-incitent-ils-a-changer-vos-comportements-20260727",
+   "https://www.lefigaro.fr/conjoncture/incendies-dans-le-sud-ouest-aucun-tgv-ne-circulera-mardi-au-sud-de-bordeaux-sauf-pour-toulouse-20260727",
+   "https://www.lefigaro.fr/actualite-france/en-gironde-emmanuel-macron-vient-temoigner-du-soutien-de-la-nation-aux-soldats-du-feu-20260727",
+   "https://www.lefigaro.fr/vox/societe/l-editorial-de-jacques-olivier-martin-personne-n-eteint-un-incendie-depuis-la-capitale-20260727"
   ],
   "https://www.france24.com/fr/rss": [
-   "6ff49a00-846b-11f1-865b-990d18f1285f",
-   "8775f6f0-845d-11f1-9eae-a5dc7dbd2fae",
-   "9ebcac96-8467-11f1-bcbf-d357ce01cee0",
    "409d2b82-8466-11f1-b96a-113fce81286a",
    "b3ce14c6-8462-11f1-b5f5-113fce81286a",
    "1494ade0-8460-11f1-8daf-73aef791d6d7",
@@ -1087,10 +1084,12 @@
    "f435e3a8-89d1-11f1-b171-5d4d45675b2d",
    "c71c585a-89d3-11f1-8508-5d4d45675b2d",
    "0f89d1f0-89d2-11f1-9c95-8b715cbc4d78",
-   "e3822442-89cf-11f1-b688-3fae48f373e8"
+   "e3822442-89cf-11f1-b688-3fae48f373e8",
+   "cdf73db8-89ef-11f1-96a4-eb9c0c31c31a",
+   "c1d05b24-89ee-11f1-8d65-9d40502e27b1",
+   "8aeec896-89eb-11f1-94f2-eb9c0c31c31a"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "d76ad7c2-805a-11f1-a466-190837a371c7",
    "cc498936-8061-11f1-b37c-81979923eb4d",
    "a759f8aa-8056-11f1-aaa3-b7c298cf2416",
    "a376c478-7f95-11f1-8d4d-87588271e398",
@@ -1389,15 +1388,10 @@
    "3ebec782-89c3-11f1-8d54-879946ad627e",
    "3507d398-89b7-11f1-84f8-459da0914a80",
    "2ebdc002-89a2-11f1-95cb-79785295cde0",
-   "2b3b10ea-899a-11f1-9bd7-9393e3857403"
+   "2b3b10ea-899a-11f1-9bd7-9393e3857403",
+   "100f85dc-89e3-11f1-871d-592855f6b24a"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-tu-as-touche-le-ciel-du-bout-des-doigts-le-message-poignant-dinaki-williams-pour-son-frere-nico-a80e21ea-8475-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/culture/musees/paris-reouverture-mercredi-de-la-galerie-du-louvre-ou-a-eu-lieu-le-cambriolage-doctobre-2025-3bce2fde-847a-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-lhistoire-parle-pour-lui-accuse-detre-en-conflit-avec-didier-deschamps-rayan-cherki-repond-bed367a2-8478-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/la-coupe-du-monde-2030-avec-64-equipes-une-occasion-ideale-lance-un-vice-president-de-la-fifa-e7fe9258-846b-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-20/ce-n-etait-pas-prevu-que-cela-fonctionne-aussi-bien-on-a-discute-avec-cet-influenceur-fromages-aux-185-000-abonnes-db6a9d0e-3990-4fdd-af2d-abbaaba128f1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-cette-blessure-mettra-du-temps-a-cicatriser-messi-sort-enfin-du-silence-apres-sa-defaite-en-finale-a215e3d8-8469-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-20/un-colis-venu-d-ailleurs-ils-ont-cree-une-capsule-temporelle-a-enterrer-et-ouvrir-dans-5-10-15-ou-meme-30-ans-83c07a00-e9b3-402e-8fb4-45e8c7bdb217?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/guyana/naufrage-dun-ferry-au-guyana-au-moins-10-morts-selon-un-nouveau-bilan-89351d16-8469-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/justice/le-chanteur-tsew-the-kid-mis-en-examen-pour-viols-conjugaux-et-violences-6aadd066-8484-11f1-8650-d79ccbde952a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1691,7 +1685,13 @@
    "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-zelensky-recu-par-le-royaume-uni-un-navire-coule-dans-la-mer-noire-le-point-sur-la-nuit-f3f609dc-8944-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/transports/voiture/pannes-de-clim-les-garagistes-en-surchauffe-580f60ee-812f-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/incendie/incendies-dans-le-sud-macron-reunit-les-ministres-les-colos-annulees-en-gironde-le-point-sur-la-nuit-d45b2240-895a-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/equipe-de-france/vous-ne-nous-avez-jamais-laches-kylian-mbappe-remercie-les-acteurs-de-la-coupe-du-monde-dans-une-lettre-ouverte-b46f7fa8-88f1-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/football/equipe-de-france/vous-ne-nous-avez-jamais-laches-kylian-mbappe-remercie-les-acteurs-de-la-coupe-du-monde-dans-une-lettre-ouverte-b46f7fa8-88f1-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-27/la-legende-noire-d-ilse-koch-tortionnaire-nazie-condamnee-deux-fois-apres-avoir-fait-regner-la-terreur-a-buchenwald-7935eaa1-5392-4686-bb20-2c8f17d2edd3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/accidents/plongeurs-percutes-a-groix-lenquete-se-poursuit-pour-determiner-les-causes-de-laccident-010fe370-89d8-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-27/arreter-de-croire-qu-on-a-besoin-d-une-rupture-majeure-cet-urbaniste-prone-de-simples-solutions-face-a-la-chaleur-04a3f92d-e284-4992-b255-10633235cf71?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/cyclisme/tour-de-france-femmes/tour-de-france-femmes-2026-la-liste-des-engagees-pour-cette-5e-edition-16754dac-867e-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-27/quiz-saurez-vous-differencier-ces-animaux-ca1f0c2b-7b53-4c36-b82f-821171215d9d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/incendies-volontaires-dans-le-var-un-homme-et-un-adolescent-poursuivis-en-justice-pour-des-departs-de-feux-009dcabc-89e5-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2331,6 +2331,37 @@
  "evenements_attente": [
   {
    "faits": [
+    "Des incendies sévissent en Gironde et dans le Sud-Ouest de la France",
+    "Des pompiers de plusieurs régions sont mobilisés en renfort en Gironde",
+    "Les incendies provoquent des traumatismes chez les évacués, pris en charge par des psychologues",
+    "La ministre de la Transition écologique prévient que les dégâts sur la faune sauvage seront 'catastrophiques'",
+    "La qualité de l'air est altérée en Nouvelle-Aquitaine et Occitanie, avec alerte pollution aux particules fines",
+    "Aucun TGV ne circulera mardi au sud de Bordeaux sauf pour Toulouse",
+    "Emmanuel Macron s'est rendu en Gironde auprès des pompiers et habitants",
+    "Emmanuel Macron annonce que l'incendie dans les Landes 'est fixé'"
+   ],
+   "qui": "Emmanuel Macron, pompiers, Monique Barbut (ministre de la Transition écologique)",
+   "ou": "Gironde, Landes, Sud-Ouest (Nouvelle-Aquitaine, Occitanie), Loire-Atlantique",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [
+    "Chiffre précis des pertes sur la faune sauvage (ministre: 'incapable de donner un chiffre sérieux')"
+   ],
+   "importance": 95,
+   "empreinte": "62c2208acfe5144c",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-27T20:00:10.461866+00:00"
+  },
+  {
+   "faits": [
     "Un mégafeu en Gironde a ravagé 42 000 hectares",
     "Le feu est décrit comme 'stabilisé' mais pas 'fixé' selon le ministre de l'Intérieur",
     "Une remontée des températures est redoutée avec jusqu'à 40°C attendus mardi",
@@ -2632,6 +2663,28 @@
   },
   {
    "faits": [
+    "Le parquet national financier demande le renvoi de BNP Paribas et des enfants d'Omar Bongo devant le tribunal correctionnel de Paris",
+    "L'enquête concerne des biens acquis frauduleusement en France",
+    "Le PNF demande le renvoi de 23 personnes physiques et morales au total"
+   ],
+   "qui": "BNP Paribas, enfants d'Omar Bongo (ancien président gabonais), Parquet national financier",
+   "ou": "Paris, Gabon",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "0363bb37d4275cf5",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T20:00:10.461202+00:00"
+  },
+  {
+   "faits": [
     "Ukraine multiplie les bombardements visant les entrepôts de Wildberries depuis le 18 juillet",
     "Wildberries est l'équivalent russe d'Amazon",
     "Ukraine vise à rappeler à la population russe l'impact du conflit sur les civils",
@@ -2655,6 +2708,29 @@
   },
   {
    "faits": [
+    "Débat entre écologistes et forestiers sur le débroussaillement face aux risques d'incendie",
+    "Réglementation environnementale critiquée par les exploitants forestiers comme 'paralysante'",
+    "La commune de La Plaine-sur-Mer (Loire-Atlantique), théâtre d'un incendie dévastateur il y a deux semaines, redouble de vigilance",
+    "Près de 80 signalements de défauts de débroussaillement ont été transmis à la mairie de La Plaine-sur-Mer cet été"
+   ],
+   "qui": null,
+   "ou": "Loire-Atlantique, La Plaine-sur-Mer",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "9039be1feb723172",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T20:00:10.461881+00:00"
+  },
+  {
+   "faits": [
     "Kylian Mbappé a écrit une lettre ouverte aux Français publiée dans la presse",
     "Lettre intervient une dizaine de jours après l'élimination de la France en Coupe du monde contre l'Angleterre",
     "Mbappé est capitaine des Bleus",
@@ -2675,6 +2751,74 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T16:31:13.770978+00:00"
+  },
+  {
+   "faits": [
+    "Un homme âgé de 39 ans et un adolescent de 15 ans sont poursuivis pour des départs de feux volontaires dans le Var",
+    "Les deux individus ont été placés en garde à vue samedi",
+    "L'homme sera jugé en comparution immédiate mercredi",
+    "L'adolescent sera jugé par le tribunal pour enfants de Toulon le 22 octobre"
+   ],
+   "qui": "Un homme de 39 ans (connu de la justice), un adolescent de 15 ans",
+   "ou": "Var, Toulon",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "d154e79e93ab2d03",
+   "score": 81,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T20:00:10.461148+00:00"
+  },
+  {
+   "faits": [
+    "Le colonel Bienvenu Lamah est acquitté à l'issue du second procès du massacre du 28 septembre 2009 en Guinée",
+    "Le parquet avait requis dix ans de prison contre cet officier de gendarmerie",
+    "Le tribunal criminel de Dixinn a rendu cette décision lundi 27 juillet"
+   ],
+   "qui": "Colonel Bienvenu Lamah, Tribunal criminel de Dixinn",
+   "ou": "Guinée, Dixinn",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "a6c1a1554a6960dd",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T20:00:10.461228+00:00"
+  },
+  {
+   "faits": [
+    "La France et les États-Unis s'écharpent au Conseil de sécurité de l'ONU",
+    "Les États-Unis ont quitté une réunion du Conseil de sécurité",
+    "Les États-Unis dénoncent des commentaires 'hypocrites' de la France",
+    "La France a comparé Washington à la Corée du Nord et à la Russie au sujet d'un vote lié aux droits humains"
+   ],
+   "qui": "France, États-Unis",
+   "ou": "ONU, Conseil de sécurité",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "d2a507a05741d6ff",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-27T20:00:10.461884+00:00"
   },
   {
    "faits": [
@@ -2929,27 +3073,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-27T14:02:10.267699+00:00"
-  },
-  {
-   "faits": [
-    "Gianni Infantino défend le bilan du Mondial 2026",
-    "Le président de la Fifa répond aux critiques dans un communiqué"
-   ],
-   "qui": "Gianni Infantino",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 35,
-   "empreinte": "6b54120f6652ac0e",
-   "score": 70,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T18:09:40.085852+00:00"
   }
  ],
  "publies_48h": [
