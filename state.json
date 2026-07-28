@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-justice_8116817.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/loi-d-urgence-agricole-monique-barbut-presentera-sa-demission-d-ici-le-conseil-des-ministres-de-mercredi_8116922.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-41-morts-selon-un-nouveau-bilan-des-autorites_8116967.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-approuvent-une-mesure-controversee-instaurant-la-perpetuite-pour-les-viols-en-serie-sur-les-moins-de-15-ans_8116973.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-limoge-le-commandant-en-chef-de-son-armee_8117009.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/palestine/gaza/arrestation-de-la-flottille-pour-gaza-par-israel-le-parquet-national-antiterroriste-francais-ouvre-une-nouvelle-enquete-pour-tortures_8116964.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/cinema/la-jeune-actrice-kaylee-hottle-connu-pour-ses-roles-dans-godzilla-meurt-a-18-ans-dans-un-accident-de-voiture_8117033.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-sexuelles-sur-mineurs-924-personnes-incarcerees-depuis-le-lancement-de-la-revue-nationale-des-procedures-apres-l-affaire-lyhanna_8125715.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/la-garde-a-vue-du-suspect-dans-l-attaque-au-couteau-a-paris-a-ete-levee-pour-raison-psychiatrique_8125730.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/trois-francais-retrouves-morts-en-afrique-du-sud-deux-suspects-interpelles-au-luxembourg_8125925.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/onvousrepond-est-il-possible-de-se-faire-rembourser-un-sejour-reserve-en-gironde-ou-dans-les-landes-mais-dans-une-commune-non-evacuee_8124248.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/onvousrepond-est-il-possible-de-se-faire-rembourser-un-sejour-reserve-en-gironde-ou-dans-les-landes-mais-dans-une-commune-non-evacuee_8124248.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/en-images-les-pompiers-aides-par-les-habitants-luttent-contre-l-incendie-en-gironde-en-traquant-sans-relache-les-reprises-de-flammes_8125871.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/incendie-en-gironde-les-irreductibles-du-cap-ferret_8125865.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/megafeux-des-chevreuils-aux-herissons-en-passant-par-les-insectes-toute-une-faune-en-detresse_8126000.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/usa/benyamin-netanyahou-dit-avoir-eu-la-meilleure-des-conversations-avec-donald-trump-le-programme-nucleaire-iranien-evoque_8126060.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -515,10 +515,15 @@
    "https://www.lemonde.fr/societe/article/2026/07/28/attaque-au-couteau-a-paris-la-garde-a-vue-du-suspect-a-ete-levee-pour-raison-psychiatrique_6735400_3224.html",
    "https://www.lemonde.fr/economie/article/2026/07/28/cma-cgm-augmente-ses-profits-malgre-le-conflit-au-moyen-orient_6735399_3234.html",
    "https://www.lemonde.fr/planete/article/2026/07/28/en-espagne-le-pacte-d-etat-de-pedro-sanchez-face-a-l-urgence-climatique-est-rejete-par-la-droite_6735402_3244.html",
-   "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-l-armee-americaine-affirme-avoir-deroute-18-navires-commerciaux-depuis-le-debut-du-blocus-contre-l-iran_6725301_3210.html"
+   "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-l-armee-americaine-affirme-avoir-deroute-18-navires-commerciaux-depuis-le-debut-du-blocus-contre-l-iran_6725301_3210.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/28/en-1988-pour-servir-la-legende-ubisoft-un-vieux-chateau-breton-des-ordinateurs-et-de-la-biere-a-volonte_6734600_3451060.html",
+   "https://www.lemonde.fr/culture/article/2026/07/28/spiderman-brand-new-day-l-homme-araignee-en-pleine-crise-d-identite_6735326_3246.html",
+   "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-sa-belle-rencontre-avec-donald-trump_6732775_3210.html",
+   "https://www.lemonde.fr/societe/article/2026/07/28/de-moins-en-moins-de-femmes-parmi-les-prefets-s-alarme-la-cour-des-comptes_6735470_3224.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/28/terreurs-nocturnes-hurlements-et-gestes-inconsideres-quand-le-cerveau-est-a-moitie-endormi_6735363_3451060.html",
+   "https://www.lemonde.fr/afrique/article/2026/07/28/guerre-au-soudan-l-armee-fait-une-avancee-strategique-apres-des-mois-de-gel-du-front_6735364_3212.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/politique/loi-d-urgence-agricole-sebastien-lecornu-accuse-les-ecologistes-de-mensonges-et-d-entretenir-la-colere-avec-duplicite-20260721",
    "https://www.lefigaro.fr/faits-divers/prevu-en-septembre-le-proces-en-appel-de-cedric-jubillar-est-renvoye-au-premier-semestre-2027-20260721",
    "https://www.lefigaro.fr/faits-divers/il-faut-parfois-se-rendre-a-l-evidence-pourquoi-les-fouilles-pour-retrouver-le-corps-de-delphine-jubillar-ont-ete-interrompues-si-vite-20260721",
    "https://madame.lefigaro.fr/bien-etre/psycho/voici-les-4-vrais-signes-qui-permettent-de-reperer-un-menteur-20260721",
@@ -817,10 +822,10 @@
    "https://www.lefigaro.fr/actualite-france/incendie-de-biscarrosse-c-etait-l-apocalypse-raconte-au-figaro-une-pompier-volontaire-engagee-20260728",
    "https://www.lefigaro.fr/vox/societe/l-editorial-d-etienne-de-montety-la-dignite-silencieuse-des-pompiers-20260728",
    "https://www.lefigaro.fr/economie/incendies-en-gironde-quelles-mesures-d-aide-pour-les-entreprises-touchees-20260728",
-   "https://sante.lefigaro.fr/psychologie/complice-d-un-systeme-monstrueux-hans-asperger-le-psychiatre-qui-triait-les-enfants-pour-le-reich-20260728"
+   "https://sante.lefigaro.fr/psychologie/complice-d-un-systeme-monstrueux-hans-asperger-le-psychiatre-qui-triait-les-enfants-pour-le-reich-20260728",
+   "https://www.lefigaro.fr/international/lentement-mais-surement-vladimir-poutine-perd-l-empire-qu-il-voulait-recreer-20260728"
   ],
   "https://www.france24.com/fr/rss": [
-   "e67c20e6-84fa-11f1-abce-ed7d023246a3",
    "7081173e-84fa-11f1-89bf-ed7d023246a3",
    "bf2f259c-8518-11f1-92ce-31b4aae5f36a",
    "df877f82-850f-11f1-9085-79335e2e4196",
@@ -1119,10 +1124,10 @@
    "f042b87e-8a9a-11f1-aeb1-b7a597e9737f",
    "5e23ddba-8a95-11f1-ba93-cfb32d911fa7",
    "a9dcf31a-8a98-11f1-ae0f-13d5c2d79547",
-   "df4e0dc6-8a94-11f1-8a54-cfb32d911fa7"
+   "df4e0dc6-8a94-11f1-8a54-cfb32d911fa7",
+   "f13e7386-8abc-11f1-9ae2-95e8bdb0c887"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "48b01d14-812a-11f1-bcb3-47b4e9b85c4a",
    "03fb78bc-8120-11f1-abe5-cf7a6a208f38",
    "edc6d0bc-811c-11f1-a62b-6d02e2a4e797",
    "e7646350-8118-11f1-a3fa-e760eed65cff",
@@ -1421,16 +1426,10 @@
    "453c7bfc-8a88-11f1-9c68-25185957deb4",
    "48027d12-8a5d-11f1-9ab5-935daff9a065",
    "a642040c-89f8-11f1-b302-55a3ef88b1dc",
-   "57c02206-8a60-11f1-a582-412fc4e81f3f"
+   "57c02206-8a60-11f1-a582-412fc4e81f3f",
+   "87664a02-8a75-11f1-89aa-af282fec2330"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/economie/agriculture/la-loi-durgence-agricole-est-passee-malgre-le-tumulte-62f5c800-84e9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-21/pour-y-entrer-il-faut-eviter-les-vagues-scelerates-comment-la-visite-de-cette-grotte-paradisiaque-a-vire-au-cauchemar-df5d6b97-17ed-4d3a-8511-45367011920b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/equipe-portugal/le-nouveau-selectionneur-du-portugal-jorge-jesus-ne-prevoit-pas-de-gros-changements-apres-un-mondial-decevant-b295b036-8530-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/moto/fabio-quartararo/motogp-un-bol-dair-grosse-puissance-de-frappe-fabio-quartararo-fait-il-le-bon-choix-en-rejoignant-honda-5e612944-851e-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/locmine-saint-colomban/ne-pas-refaire-les-memes-erreurs-avec-un-nouveau-visage-la-saint-colomban-locmine-est-de-retour-f02e0996-8532-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/cinema/kaylee-hottle-actrice-de-godzilla-est-morte-a-18-ans-dans-un-accident-de-voiture-070dfe50-853d-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-fracture-de-la-clavicule-pour-florian-lipowitz-apres-sa-chute-et-son-abandon-lors-de-la-16e-etape-ca649ce0-8535-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/la-pression-est-intense-et-lattention-constante-larbitre-anglais-anthony-taylor-annonce-sa-retraite-5b400352-8537-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-21/peut-on-vraiment-aller-aux-etats-unis-en-train-en-voiture-ou-a-pied-en-passant-par-le-detroit-de-bering-baa95bb6-6ed5-4311-a2b6-8b927062c8e7?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-21/les-scandales-dans-la-musique-quand-serge-gainsbourg-mettait-le-feu-aux-poudres-en-revisitant-la-marseillaise-b57d2f47-975b-4769-abe8-d8e897d23f2b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1723,7 +1722,14 @@
    "https://www.ouest-france.fr/economie/entreprises/portraits/portrait-avec-lui-tout-va-toujours-trop-lentement-gilles-martin-le-si-discret-patron-deurofins-43c0cc1e-6fd6-11f1-b8a9-4a6626afbf8d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-rencontre-entre-zelensky-et-trump-disputes-au-conseil-de-securite-de-lonu-le-point-sur-la-nuit-19548c9c-8a23-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/ile-de-france/hauts-de-seine/hauts-de-seine-des-rouleaux-de-la-torah-dune-grande-valeur-derobes-dans-une-synagogue-d2eb49f2-8a23-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/cyclisme/tour-de-france-femmes/tour-de-france-femmes-lequipe-uae-team-adq-de-paula-blasi-et-maeva-squiban-avec-un-nouveau-nom-pour-ledition-2026-b4f9626a-8ab1-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/cyclisme/tour-de-france-femmes/tour-de-france-femmes-lequipe-uae-team-adq-de-paula-blasi-et-maeva-squiban-avec-un-nouveau-nom-pour-ledition-2026-b4f9626a-8ab1-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/football-un-defenseur-bresilien-ecope-dune-suspension-definitive-jusquau-retour-du-joueur-quil-a-blesse-69d5e1ba-8abf-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/tennis/tennis-arthur-fils-sincline-des-le-premier-tour-du-tournoi-de-washington-abaf8ba2-8abc-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/auto/rallyes-wrc/rallye-la-pilote-maxine-wahome-acquittee-par-la-justice-apres-la-mort-de-son-compagnon-asad-khan-30be3322-8abb-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/fifa/foot-la-fifa-promet-jusqua-20-millions-de-dollars-aux-federations-qui-soutiendraient-le-projet-de-societe-commerciale-8d2b8dd4-8ab7-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/societe/justice/vol-du-torque-en-or-de-vix-un-suspect-place-en-detention-provisoire-2d8b47fe-8aba-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-28/qu-est-ce-que-la-paralysie-du-choix-qui-vous-empeche-de-prendre-de-simples-decisions-et-comment-l-eviter-5759568f-2aff-47f2-99c8-bacdc66557f7?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-28/l-histoire-glacante-de-martin-dumollard-premier-tueur-en-serie-identifie-en-france-c09e68b6-2752-4c86-a8f1-3ad824dc87be?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2695,6 +2701,31 @@
   },
   {
    "faits": [
+    "Un gigantesque incendie sévit en Gironde et ne progresse plus mardi 28 juillet",
+    "Les pompiers, forestiers, agriculteurs et habitants combattent l'incendie pour empêcher les reprises de flammes",
+    "La presqu'île du Cap Ferret a été évacuée mais compte encore quelques dizaines d'habitants qui ont choisi de rester malgré l'interdiction des autorités",
+    "Des habitants du Cap Ferret restent pour protéger leurs maisons et aider les pompiers",
+    "La faune est en détresse : biches, chevreuils, insectes et petits mammifères sont touchés",
+    "Des associations organisent des maraudes pour recueillir les animaux rescapés"
+   ],
+   "qui": "Pompiers, forestiers, agriculteurs, habitants de Gironde et Cap Ferret, associations de protection animale",
+   "ou": "Gironde, presqu'île du Cap Ferret, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "7fae7d24a1bc86ee",
+   "score": 91,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T20:22:49.818628+00:00"
+  },
+  {
+   "faits": [
     "Un séisme de magnitude 7,1 a secoué le sud-ouest du Japon le 28 juillet",
     "Au moins une personne a trouvé la mort dans l'effondrement d'une maison",
     "Plusieurs blessés sont signalés, au moins une cinquantaine hospitalisées",
@@ -2767,6 +2798,30 @@
   },
   {
    "faits": [
+    "L'incendie dans les régions de Madrid, Tolède et Avila a ravagé près de 77 000 hectares",
+    "Près de 90 000 personnes ont été évacuées ou placées en confinement en Espagne",
+    "Des villages comme Aldea del Fresno ont été vidés complètement",
+    "Les habitants ne sont autorisés qu'à des retours très furtifs",
+    "Le Premier ministre espagnol Pedro Sanchez a annoncé mardi 28 juillet 'entrevoir la lumière au bout du tunnel'"
+   ],
+   "qui": "Pedro Sanchez (Premier ministre espagnol), habitants des régions affectées",
+   "ou": "Madrid, Tolède, Avila, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "72ac9c73fbdcf6a7",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T20:22:49.817831+00:00"
+  },
+  {
+   "faits": [
     "Frappes israéliennes continuent à tuer des civils à Gaza malgré le cessez-le-feu",
     "Depuis l'annonce du cessez-le-feu en octobre 2025, plus de 1 100 Gazaouis sont morts",
     "Parmi les victimes, près de 300 mineurs selon l'Unicef",
@@ -2812,6 +2867,30 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T14:34:23.021639+00:00"
+  },
+  {
+   "faits": [
+    "Volodymyr Zelensky se félicite de sa 'belle rencontre' avec Donald Trump",
+    "Zelensky a discuté des licences de production d'intercepteurs pour les missiles Patriot",
+    "Zelensky a aussi parlé de diplomatie avec Trump"
+   ],
+   "qui": "Volodymyr Zelensky, Donald Trump",
+   "ou": "Ukraine",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Détails précis des autres sujets évoqués au-delà des missiles Patriot"
+   ],
+   "importance": 75,
+   "empreinte": "67552667c19b5aec",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T20:22:49.818635+00:00"
   },
   {
    "faits": [
@@ -2861,6 +2940,51 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T16:21:06.803372+00:00"
+  },
+  {
+   "faits": [
+    "Benyamin Nétanyahou dit avoir eu 'la meilleure des conversations' avec Donald Trump",
+    "Le programme nucléaire iranien a été évoqué lors de la conversation",
+    "La Maison Blanche s'est félicitée d'une 'rencontre positive et constructive'"
+   ],
+   "qui": "Benyamin Nétanyahou, Donald Trump, Maison Blanche",
+   "ou": null,
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "006b31f614420830",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T20:22:49.818639+00:00"
+  },
+  {
+   "faits": [
+    "L'armée soudanaise s'est emparée dimanche 26 juillet de quatre villes stratégiques",
+    "Les villes se situent sur la route reliant Khartoum à El-Obeid",
+    "El-Obeid, capitale du Kordofan du Nord, est assiégée par les Forces de soutien rapide depuis 2023",
+    "Cette avancée intervient après des mois de gel du front"
+   ],
+   "qui": "Armées soudanaises, Forces de soutien rapide",
+   "ou": "Soudan, Khartoum, El-Obeid, Kordofan du Nord",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "fe13ade95af127ac",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T20:22:49.818641+00:00"
   },
   {
    "faits": [
@@ -2999,34 +3123,13 @@
   },
   {
    "faits": [
-    "Pedro Sanchez, premier ministre socialiste espagnol, propose un « pacte d'État » pour l'urgence climatique",
-    "Ce pacte a été élaboré en 2025 avec la société civile et les scientifiques",
-    "La droite espagnole rejette ce pacte, qualifiée de climatosceptique"
+    "La Cour des comptes constate que le nombre et la proportion de femmes préfètes ont diminué depuis 2019",
+    "Après une période de nette hausse, cette tendance s'est inversée",
+    "La fonction de préfet reste un bastion masculin malgré les discours officiels"
    ],
-   "qui": "Pedro Sanchez",
-   "ou": "Espagne",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "201e19979a3ff9d7",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T18:59:51.277884+00:00"
-  },
-  {
-   "faits": [
-    "Le nombre d'inscrits à France Travail sans aucune activité a progressé de 0,8% au deuxième trimestre 2026",
-    "Corrigée des changements réglementaires de 2025, cette statistique enregistre en réalité un recul de 0,2%"
-   ],
-   "qui": "France Travail",
+   "qui": "Cour des comptes, gouvernement français",
    "ou": "France",
-   "categorie": "economie",
+   "categorie": "politique",
    "sensible": false,
    "confiance": 88,
    "sources": [
@@ -3034,105 +3137,11 @@
    ],
    "non_confirme": [],
    "importance": 55,
-   "empreinte": "3b03ba196b81835b",
+   "empreinte": "9e3513ca0e4db956",
    "score": 82,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T16:21:06.803377+00:00"
-  },
-  {
-   "faits": [
-    "La Pologne demande officiellement l'extradition de Zbigniew Ziobro",
-    "Ziobro est ancien ministre de la Justice, actuellement réfugié aux États-Unis",
-    "Il est accusé de multiples malversations",
-    "Il était membre du parti conservateur-nationaliste polonais au pouvoir jusqu'en 2023",
-    "Il s'était réfugié en Hongrie puis aux États-Unis après sa mise en examen"
-   ],
-   "qui": "Zbigniew Ziobro",
-   "ou": "Pologne, États-Unis",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "a176d9c3c4c6dae8",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T18:59:51.276783+00:00"
-  },
-  {
-   "faits": [
-    "Abdul Ballout a été reconnu coupable de préparation d'acte terroriste en mai",
-    "Il avait été condamné à 22 mois d'emprisonnement par la justice allemande",
-    "Le tribunal avait décidé de reporter l'exécution de la peine",
-    "Ballout était censé suivre un programme de déradicalisation",
-    "La justice allemande est accusée d'avoir fait preuve de laxisme"
-   ],
-   "qui": "Abdul Ballout, justice allemande",
-   "ou": "Berlin, Allemagne",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "5036b9c625160d82",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T16:21:06.803083+00:00"
-  },
-  {
-   "faits": [
-    "Un navire russe sous sanctions américaines, le Mikhael Britnev, a livré une cargaison le 9 juillet",
-    "La cargaison contenait des véhicules militaires",
-    "La livraison s'est faite au port de Lomé, au Togo",
-    "C'est la première fois que le Togo sert à l'acheminement d'armes russes au Sahel",
-    "Ces armes sont destinées au Mali dans le cadre du soutien russe au régime malien"
-   ],
-   "qui": "Russie ; Togo ; Mali",
-   "ou": "Togo, Mali, Sahel",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "89fce2423641090e",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T17:49:44.965838+00:00"
-  },
-  {
-   "faits": [
-    "Les ventes de voitures Mercedes-Benz ont chuté de 26% au deuxième trimestre 2026",
-    "Le marché en Chine est devenu très concurrentiel et a plombé les ventes",
-    "Mercedes-Benz veut poursuivre ses mesures d'économie, notamment dans les usines allemandes"
-   ],
-   "qui": "Mercedes-Benz",
-   "ou": "Allemagne, Chine",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "b3cc44eca4807acb",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T18:59:51.277888+00:00"
+   "depuis": "2026-07-28T20:22:49.818647+00:00"
   }
  ],
  "publies_48h": [
