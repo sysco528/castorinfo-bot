@@ -2,14 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/proche-orient/liban/reportage-qui-sera-le-prochain-enleve-au-sud-du-liban-des-familles-s-inquietent-de-la-disparition-de-leurs-proches_8115890.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement/les-freres-tate-s-opposent-a-leur-extradition-vers-le-royaume-uni-qu-ils-jugent-motivee-politiquement_8116115.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/arts-expos/louvre/la-galerie-d-apollon-du-louvre-rouvre-mercredi_8116010.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/vaccins/pourquoi-la-haute-autorite-de-sante-recommande-de-rendre-obligatoire-la-vaccination-contre-la-grippe-pour-tous-les-professionnels-de-sante_8116070.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/tour-de-france-evenepoel-veut-se-rapprocher-de-pogacar-seixas-en-embuscade-suivez-le-contre-la-montre-entre-evian-les-bains-et-thonon-les-bains_8116097.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/internet/reseaux-sociaux/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-telephones-interdits-au-lycee-ce-que-contient-la-proposition-de-loi-qui-doit-etre-votee-ce-mardi_8115896.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/transports/sncf/jean-castex-annonce-le-depart-du-pdg-de-sncf-voyageurs-et-reorganise-cette-filiale_8116358.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/automobile/essence/l-augmentation-des-prix-des-carburants-aussi-due-a-des-investisseurs-qui-jouent-avec-les-risques-selon-le-syndicat-mobilians_8116259.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/le-proces-en-appel-de-cedric-jubillar-prevu-en-septembre-est-renvoye-au-premier-semestre-2027-apres-ses-aveux_8116490.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/justice/kick-boxing-masculinisme-affaires-judiciaires-cinq-choses-a-savoir-sur-les-freres-andrew-et-tristan-tate-arretes-aux-etats-unis-pour-des-soupcons-de-viols_8115305.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement-sexuel/a-biarritz-deux-animateurs-d-un-centre-de-loisirs-places-en-garde-a-vue-pour-viol-et-agressions-sexuelles-sur-au-moins-13-enfants_8116418.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +293,15 @@
    "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/14-tonnes-7-5-metres-de-long-qu-est-ce-que-le-centaure-ce-vehicule-blinde-de-la-gendarmerie-deploye-en-renfort-sur-l-incendie-en-gironde-3393184.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/foot/equipe-de-france/relancer-un-collectif-decu-faire-oublier-deschamps-trouver-une-nouvelle-identite-aux-bleus-les-defis-qui-attendent-zinedine-zidane-a-la-tete-de-l-equipe-de-france_8110043.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/emploi/chomage/le-nombre-de-chomeurs-sans-aucune-activite-a-augmente-de-0-8-au-deuxieme-trimestre-2026_8125325.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/espagne/les-pompiers-progressent-face-aux-incendies-en-espagne-le-premier-ministre-voit-la-lumiere-au-bout-du-tunnel_8125394.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/espagne/les-pompiers-progressent-face-aux-incendies-en-espagne-le-premier-ministre-voit-la-lumiere-au-bout-du-tunnel_8125394.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/megafeu-en-gironde-premier-apercu-des-degats-a-lege-cap-ferret-toujours-interdite-d-acces_8125460.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/incendie-en-gironde-apres-une-fenetre-meteo-favorable-la-donnee-semble-s-inverser-indique-le-sdis-de-gironde_8125532.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/les-trois-ingredients-qui-permettent-le-developpement-des-feux-avant-la-hausse-des-temperatures-les-pompiers-tentent-de-securiser-au-maximum-le-brasier-en-gironde_8125448.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/on-est-decus-on-attend-nos-vacances-depuis-un-an-apres-le-cap-ferret-4-000-personnes-evacuees-preventivement-de-lacanau-ce-mardi-matin_8125430.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/on-s-est-dit-quand-on-rentrera-il-n-y-aura-plus-de-maison-l-emotion-des-habitants-de-sanguinet-dans-les-landes-soulages-de-pouvoir-rentrer-chez-eux_8125472.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/seize-departements-dont-la-gironde-et-les-landes-passeront-en-vigilance-orange-canicule-mercredi_8125613.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/equipe-de-france/reportage-important-dispositif-de-securite-supporters-en-masse-zinedine-zidane-nomme-selectionneur-recit-d-une-conference-de-presse-pas-comme-les-autres_8125466.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/allemagne/l-auteur-de-l-attentat-de-la-marche-des-fiertes-a-berlin-avait-prete-allegeance-au-groupe-etats-islamique-dans-une-video_8125499.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -496,11 +496,15 @@
    "https://www.lemonde.fr/series-d-ete/article/2026/07/28/la-coupole-brasserie-a-coups-de-theatre-de-montparnasse_6734528_3451060.html",
    "https://www.lemonde.fr/sport/article/2026/07/28/le-football-italien-continue-sa-degringolade-entre-polemique-autour-de-l-ex-probable-selectionneur-andrea-pirlo-et-demissions-en-serie_6735042_3242.html",
    "https://www.lemonde.fr/economie/article/2026/07/28/en-moselle-un-immense-gisement-d-hydrogene-ravive-les-espoirs-de-l-ancien-bassin-minier_6734458_3234.html",
-   "https://www.lemonde.fr/economie/article/2026/07/28/accidents-du-travail-syndicats-et-patronat-appellent-a-la-prudence-quant-au-plan-d-economies-dans-la-branche_6735077_3234.html"
+   "https://www.lemonde.fr/economie/article/2026/07/28/accidents-du-travail-syndicats-et-patronat-appellent-a-la-prudence-quant-au-plan-d-economies-dans-la-branche_6735077_3234.html",
+   "https://www.lemonde.fr/planete/live/2026/07/28/en-direct-incendies-importante-reprise-de-feu-a-lege-cap-ferret-les-campings-et-villages-de-vacances-de-lacanau-evacues_6730417_3244.html",
+   "https://www.lemonde.fr/international/article/2026/07/28/guerre-en-ukraine-l-europe-redoute-une-participation-plus-active-de-la-bielorussie_6735248_3210.html",
+   "https://www.lemonde.fr/sport/article/2026/07/28/zinedine-zidane-patient-nouveau-selectionneur-qui-a-tout-refuse-pour-l-equipe-de-france_6735282_3242.html",
+   "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-apres-plusieurs-jours-d-accalmie-des-echanges-diplomatiques-entre-l-iran-oman-et-l-arabie-saoudite_6725301_3210.html",
+   "https://www.lemonde.fr/afrique/article/2026/07/28/au-maroc-le-patron-du-football-fouzi-lekjaa-enfile-son-costume-de-premier-ministrable_6735076_3212.html",
+   "https://www.lemonde.fr/international/article/2026/07/28/attentat-contre-la-marche-des-fiertes-de-berlin-l-auteur-avait-prete-allegeance-a-l-ei-dans-une-video_6735249_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/marseille/marseille-un-policier-grievement-blesse-lors-d-un-refus-d-obtemperer-quatre-suspects-interpelles-20260721",
-   "https://www.lefigaro.fr/social/couteux-incomprehensible-le-tarif-agent-cet-avantage-decrie-au-coeur-d-un-appel-a-la-greve-chez-edf-20260721",
    "https://www.lefigaro.fr/international/guerre-au-moyen-orient-sous-pression-pour-desarmer-le-hezbollah-le-president-libanais-joseph-aoun-recu-par-donald-trump-ce-mardi-a-la-maison-blanche-20260721",
    "https://www.lefigaro.fr/conjoncture/royaume-uni-le-nouveau-gouvernement-annonce-la-suppression-de-la-tva-sur-l-electricite-des-menages-l-hiver-prochain-20260721",
    "https://www.lefigaro.fr/actualite-france/les-50-decisions-qui-ont-coule-la-france-le-grand-renoncement-securitaire-et-judiciaire-20260721",
@@ -798,13 +802,11 @@
    "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260728",
    "https://www.lefigaro.fr/bordeaux/incendie-en-gironde-la-prefete-interdit-toutes-les-manifestations-sportives-et-culturelles-jusqu-au-8-aout-20260728",
    "https://www.lefigaro.fr/actualite-france/ou-sont-les-principaux-incendies-en-europe-20260728",
-   "https://www.lefigaro.fr/medias/on-ne-financera-pas-leur-film-le-patron-de-canal-confirme-le-boycott-de-ceux-qui-portent-prejudice-a-son-groupe-20260728"
+   "https://www.lefigaro.fr/medias/on-ne-financera-pas-leur-film-le-patron-de-canal-confirme-le-boycott-de-ceux-qui-portent-prejudice-a-son-groupe-20260728",
+   "https://www.lefigaro.fr/international/incendies-en-espagne-les-pompiers-progressent-pedro-sanchez-voit-la-lumiere-au-bout-du-tunnel-20260728",
+   "https://www.lefigaro.fr/bordeaux/quand-l-incendie-avancait-il-n-y-avait-plus-personne-au-cap-ferret-benoit-bartherotte-defend-son-pare-feu-cree-sans-autorisation-20260728"
   ],
   "https://www.france24.com/fr/rss": [
-   "6c2a2cec-84ab-11f1-a87f-2ba36346e5ba",
-   "8f1766a4-848b-11f1-9801-b7ba30744179",
-   "ab94125a-84f4-11f1-8461-ab341b3d5f8e",
-   "deff7928-84e4-11f1-b68b-d5f58183616c",
    "39e1c00c-84f5-11f1-b4e5-b99ea12e5f3d",
    "339a1fce-84ef-11f1-bfce-850f86d6b842",
    "d459fe08-84e9-11f1-805e-850f86d6b842",
@@ -1100,7 +1102,11 @@
    "7451b9ec-8a1b-11f1-bc1e-e585fb5d6e40",
    "61a67378-8a39-11f1-bcb1-535ca753ff7a",
    "be5733d0-8a36-11f1-8036-2fd1e1ae5e27",
-   "facdef70-8a77-11f1-a147-87c02b1f8a37"
+   "facdef70-8a77-11f1-a147-87c02b1f8a37",
+   "f86cdd00-8a8a-11f1-996d-699076c444cd",
+   "6a736afe-8a8b-11f1-9616-699076c444cd",
+   "b69df7dc-8a8b-11f1-b4e5-699076c444cd",
+   "866badb6-8a86-11f1-a822-23ba223161d8"
   ],
   "https://www.rfi.fr/fr/rss": [
    "39281f2a-8069-11f1-8bc1-1dd3a32f23a0",
@@ -2386,6 +2392,86 @@
  "evenements_attente": [
   {
    "faits": [
+    "Un incendie en Gironde a ravagé 42 000 hectares en moins d'une semaine",
+    "La commune de Lège-Cap-Ferret est parmi les plus touchées avec plusieurs dizaines de maisons détruites",
+    "Lège-Cap-Ferret reste interdite d'accès",
+    "Les feux à Biscarosse et dans les Landes sont fixés",
+    "Des habitants de Sanguinet (Landes) sont autorisés à rentrer chez eux",
+    "4 000 vacanciers doivent être évacués des campings de Lacanau",
+    "Une importante reprise de feu est signalée à Lège-Cap-Ferret",
+    "Les pompiers redoutent le retour des hautes températures, de la sécheresse et du vent",
+    "Seize départements (dont Gironde et Landes) passeront en vigilance orange canicule mercredi",
+    "Benoît Bartherotte a créé un pare-feu sans autorisation à l'entrée du Cap Ferret"
+   ],
+   "qui": "Pompiers (Service départemental d'incendie et de secours)",
+   "ou": "Gironde et Landes (notamment Lège-Cap-Ferret, Lacanau, Sanguinet, Biscarosse)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Monde",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "d5f1795d2931abba",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-28T14:34:23.021615+00:00"
+  },
+  {
+   "faits": [
+    "Zinédine Zidane a été nommé sélectionneur de l'équipe de France de football",
+    "Il succède à Didier Deschamps qui a passé quatorze ans sur le banc des Bleus",
+    "Sa nomination s'est déroulée au siège de la Fédération française de football (FFF)",
+    "Un important dispositif de sécurité a été mis en place lors de sa conférence de presse"
+   ],
+   "qui": "Zinédine Zidane, Fédération française de football",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "9c7ce97471a040c4",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-28T14:34:23.021621+00:00"
+  },
+  {
+   "faits": [
+    "Un attentat a été perpétré à la Marche des fiertés à Berlin samedi",
+    "L'attaque a fait un mort et une trentaine de blessés",
+    "L'auteur a prêté allégeance au groupe Etat islamique dans une vidéo",
+    "L'assaillant était déjà connu des autorités",
+    "L'assaillant avait été condamné en mai pour préparation d'un acte de violence grave portant atteinte à la sécurité de l'État"
+   ],
+   "qui": "Auteur de l'attentat (non nommé), groupe Etat islamique",
+   "ou": "Berlin (Allemagne)",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 94,
+   "sources": [
+    "franceinfo",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "bc43fcdd8317e86e",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-28T14:34:23.021623+00:00"
+  },
+  {
+   "faits": [
     "Des incendies ravagent la Gironde et les Landes depuis le 22 juillet 2026",
     "Environ 115 000 hectares ont été parcourus par les incendies en France en 2026",
     "42 000 hectares ont été brûlés en Gironde",
@@ -2465,6 +2551,30 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-28T10:02:31.908080+00:00"
+  },
+  {
+   "faits": [
+    "Les incendies en Espagne progressent",
+    "Pedro Sanchez voit « la lumière au bout du tunnel »",
+    "Les efforts des pompiers dans la nuit ont été « extrêmement positifs »",
+    "Des prévisions défavorables sont annoncées à partir de mercredi avec une nouvelle vague de chaleur"
+   ],
+   "qui": "Pompiers espagnols, Pedro Sanchez, Fernando Grande-Marlaska",
+   "ou": "Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "63aead5deac022bf",
+   "score": 93,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-28T14:34:23.021631+00:00"
   },
   {
    "faits": [
@@ -2560,6 +2670,31 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T10:02:31.908084+00:00"
+  },
+  {
+   "faits": [
+    "L'Europe redoute une participation plus active de la Biélorussie à la guerre en Ukraine",
+    "Alexandre Loukachenko maintient son pays dans une posture d'appui discret à la Russie",
+    "La Biélorussie n'a pas engagé ses propres troupes pour le moment",
+    "Kiev a sommé la Biélorussie de rompre ses liens militaires avec Moscou"
+   ],
+   "qui": "Biélorussie (Alexandre Loukachenko), Ukraine, Russie",
+   "ou": "Europe, Ukraine, Biélorussie",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Une participation plus active de la Biélorussie à la guerre"
+   ],
+   "importance": 75,
+   "empreinte": "f4b35cc3ea95f195",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T14:34:23.021639+00:00"
   },
   {
    "faits": [
@@ -2685,6 +2820,28 @@
   },
   {
    "faits": [
+    "Volodymyr Zelensky est attendu à la Maison Blanche",
+    "Il tente d'obtenir l'accord de Donald Trump à l'achat d'intercepteurs Patriot",
+    "La Russie intensifie ses frappes contre Kiev"
+   ],
+   "qui": "Volodymyr Zelensky, Donald Trump, Ukraine, Russie",
+   "ou": "Maison Blanche, Ukraine",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 78,
+   "empreinte": "7745ef904211fdf5",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T14:34:23.021648+00:00"
+  },
+  {
+   "faits": [
     "Des scientifiques et la Française de l'énergie affirment avoir découvert le plus grand gisement d'hydrogène naturel au monde",
     "Le gisement se situe en Moselle, ancien bassin minier",
     "La société espère obtenir rapidement un permis d'exploitation de l'État",
@@ -2736,26 +2893,28 @@
   },
   {
    "faits": [
-    "Depuis plus d'un an, la consommation de l'eau du robinet est interdite dans une vingtaine de communes de la Meuse et des Ardennes",
-    "La contamination aux Pfas (polluants éternels) est record",
-    "Des alertes similaires aux Pfas se multiplient en France",
-    "Les solutions de dépollution peinent à émerger en raison des défis logistiques et des coûts astronomiques"
+    "Des échanges diplomatiques se sont produits entre l'Iran, Oman et l'Arabie saoudite",
+    "Les ministres des affaires étrangères des trois pays ont évoqué l'état du détroit d'Ormuz",
+    "Ils ont appelé à la coopération face aux États-Unis",
+    "Donald Trump a annoncé la suspension des bombardements pour donner une nouvelle chance aux négociations"
    ],
-   "qui": "Communes de la Meuse et des Ardennes",
-   "ou": "Meuse, Ardennes, France",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 85,
+   "qui": "Iran, Oman, Arabie saoudite, États-Unis (Donald Trump)",
+   "ou": "Moyen-Orient (Détroit d'Ormuz)",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 82,
    "sources": [
-    "France 24"
+    "Le Monde"
    ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "28658d77c1dd0fb3",
+   "non_confirme": [
+    "La décision de Trump concernant la suspension des bombardements (rapportée par des médias américains)"
+   ],
+   "importance": 72,
+   "empreinte": "ed6f4c473db277e8",
    "score": 83,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T07:21:22.285835+00:00"
+   "depuis": "2026-07-28T14:34:23.021653+00:00"
   },
   {
    "faits": [
@@ -2828,29 +2987,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-28T12:07:23.187137+00:00"
-  },
-  {
-   "faits": [
-    "Deux des mis en examen dans la mort de Quentin Deranque déposent plainte contre des militants d'ultradroite pour des violences",
-    "Jacques-Élie Favrot, ancien assistant parlementaire du député LFI Raphaël Arnault, est mis en examen pour complicité de meurtre par instigation",
-    "Son avocat dénonce une entreprise de désinformation massive de la part de l'ultradroite lyonnaise",
-    "L'avocat affirme que l'ultradroite était présentée comme victime alors qu'elle était clairement présente à dessein"
-   ],
-   "qui": "Jacques-Élie Favrot, Raphaël Arnault, militants d'ultradroite lyonnaise",
-   "ou": "Lyon",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "e84e27bc121c016a",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T07:21:22.285792+00:00"
   },
   {
    "faits": [
@@ -2950,26 +3086,48 @@
   },
   {
    "faits": [
-    "Un centre de soins pour animaux sauvages dans le Rhône s'alarme des effets des canicules sur les animaux",
-    "Le martinet est clairement en train de s'effondrer depuis la canicule de mai",
-    "Le centre L'Hirondelle à Saint-Forgeux recueille la faune locale incluant oiseaux, faons, marcassins et renardeaux",
-    "Le centre appelle les élus à protéger les espèces"
+    "La Tunisie connaît une canicule prolongée avec plus de deux semaines de coupures répétées de courant",
+    "Entre 150 et 200 décès sont attribués à la canicule selon l'Ordre des jeunes médecins",
+    "Un coût économique lourd affecte les commerçants, producteurs et ouvriers",
+    "La crise énergétique a mis à jour l'extrême dépendance énergétique du pays"
    ],
-   "qui": "Centre L'Hirondelle de Saint-Forgeux",
-   "ou": "Saint-Forgeux, Rhône",
-   "categorie": "sante",
-   "sensible": false,
-   "confiance": 80,
+   "qui": "Tunisie",
+   "ou": "Tunisie",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 82,
    "sources": [
-    "franceinfo"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 55,
-   "empreinte": "b7bb87267bc9a5bd",
-   "score": 78,
-   "fiab_max": 90,
+   "importance": 65,
+   "empreinte": "0ea170454cef9d93",
+   "score": 80,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-28T07:21:32.027499+00:00"
+   "depuis": "2026-07-28T14:34:23.020807+00:00"
+  },
+  {
+   "faits": [
+    "Les financements de la lutte contre le sida ont chuté d'un cinquième l'an dernier",
+    "Des spécialistes avertissent que la lutte contre le sida est en « danger »",
+    "La science a fait des avancées importantes contre le sida"
+   ],
+   "qui": "Spécialistes en sida",
+   "ou": null,
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "5443cfc4a37862fa",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T14:34:23.020766+00:00"
   }
  ],
  "publies_48h": [
