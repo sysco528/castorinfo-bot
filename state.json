@@ -2,13 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/le-proces-en-appel-de-cedric-jubillar-prevu-en-septembre-est-renvoye-au-premier-semestre-2027-apres-ses-aveux_8116490.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/justice/kick-boxing-masculinisme-affaires-judiciaires-cinq-choses-a-savoir-sur-les-freres-andrew-et-tristan-tate-arretes-aux-etats-unis-pour-des-soupcons-de-viols_8115305.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement-sexuel/a-biarritz-deux-animateurs-d-un-centre-de-loisirs-places-en-garde-a-vue-pour-viol-et-agressions-sexuelles-sur-au-moins-13-enfants_8116418.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/info-franceinfo-un-canadair-a-ete-endommage-lors-d-une-intervention-sur-l-incendie-de-fontainebleau-et-a-du-etre-retire-du-dispositif_8116331.html#xtor=RSS-3-[lestitres]",
-   "https://france3-regions.franceinfo.fr/centre-val-de-loire/elles-n-ont-plus-rien-a-manger-des-vaches-contraintes-de-rester-a-l-etable-a-cause-de-la-secheresse-3389650.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/le-belge-remco-evenepoel-ecrase-le-contre-la-montre-de-la-16e-etape-du-tour-de-france-et-reprend-28-secondes-au-maillot-jaune-tadej-pogacar-paul-seixas-quatrieme_8116673.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/cinema/festival-de-deauville/la-chanteuse-et-actrice-lio-presidera-le-jury-de-la-revelation-du-festival-de-deauville_8116838.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/renforcement-du-pouvoir-des-federations-sport-feminin-lutte-contre-le-piratage-ce-que-la-reforme-du-sport-professionnel-va-changer_8116541.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-levee-a-partir-de-mercredi_8116658.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-justice_8116817.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +294,14 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/on-s-est-dit-quand-on-rentrera-il-n-y-aura-plus-de-maison-l-emotion-des-habitants-de-sanguinet-dans-les-landes-soulages-de-pouvoir-rentrer-chez-eux_8125472.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/seize-departements-dont-la-gironde-et-les-landes-passeront-en-vigilance-orange-canicule-mercredi_8125613.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/foot/equipe-de-france/reportage-important-dispositif-de-securite-supporters-en-masse-zinedine-zidane-nomme-selectionneur-recit-d-une-conference-de-presse-pas-comme-les-autres_8125466.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/europe/allemagne/l-auteur-de-l-attentat-de-la-marche-des-fiertes-a-berlin-avait-prete-allegeance-au-groupe-etats-islamique-dans-une-video_8125499.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/europe/allemagne/l-auteur-de-l-attentat-de-la-marche-des-fiertes-a-berlin-avait-prete-allegeance-au-groupe-etats-islamique-dans-une-video_8125499.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/info-franceinfo-le-porge-a-ete-sacrifie-un-collectif-d-habitants-de-cette-commune-de-gironde-se-constitue-en-vue-d-une-action-judiciaire-apres-l-incendie-qui-a-ravage-leurs-maisons_8125274.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/onvousrepond-contre-les-incendies-en-gironde-et-dans-les-landes-pourquoi-les-pompiers-ne-peuvent-ils-pas-utiliser-des-moyens-aeriens-la-nuit_8125124.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/temoignage-on-a-fonce-tete-baissee-sur-ce-monstre-un-pompier-des-deux-sevres-raconte-le-combat-de-son-equipage-contre-l-incendie-de-gironde_8125673.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/megafeu-en-gironde-dans-les-yeux-d-un-pompier-au-c-ur-du-brasier_8125739.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-batiments-endommages-centre-commercial-effondre-pont-eventre-les-degats-provoques-par-le-seisme-de-magnitude-7-1-dans-le-sud-du-japon_8125514.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-sexuelles-sur-mineurs-924-personnes-incarcerees-depuis-le-lancement-de-la-revue-nationale-des-procedures-apres-l-affaire-lyhanna_8125715.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/la-garde-a-vue-du-suspect-dans-l-attaque-au-couteau-a-paris-a-ete-levee-pour-raison-psychiatrique_8125730.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -502,14 +502,17 @@
    "https://www.lemonde.fr/sport/article/2026/07/28/zinedine-zidane-patient-nouveau-selectionneur-qui-a-tout-refuse-pour-l-equipe-de-france_6735282_3242.html",
    "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-apres-plusieurs-jours-d-accalmie-des-echanges-diplomatiques-entre-l-iran-oman-et-l-arabie-saoudite_6725301_3210.html",
    "https://www.lemonde.fr/afrique/article/2026/07/28/au-maroc-le-patron-du-football-fouzi-lekjaa-enfile-son-costume-de-premier-ministrable_6735076_3212.html",
-   "https://www.lemonde.fr/international/article/2026/07/28/attentat-contre-la-marche-des-fiertes-de-berlin-l-auteur-avait-prete-allegeance-a-l-ei-dans-une-video_6735249_3210.html"
+   "https://www.lemonde.fr/international/article/2026/07/28/attentat-contre-la-marche-des-fiertes-de-berlin-l-auteur-avait-prete-allegeance-a-l-ei-dans-une-video_6735249_3210.html",
+   "https://www.lemonde.fr/planete/live/2026/07/28/en-direct-incendies-14-reprises-de-feu-ont-ete-constatees-aujourd-hui-en-gironde-mais-le-feu-est-toujours-stabilise-assure-la-prefete_6730417_3244.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/28/ou-est-gunther-reinhold-messner-hante-par-le-drame-du-frere-disparu-a-ses-cotes-dans-l-himalaya_6735289_3451060.html",
+   "https://www.lemonde.fr/international/article/2026/07/28/marche-des-fiertes-de-berlin-la-justice-accusee-d-avoir-fait-preuve-de-laxisme-a-l-egard-de-l-auteur-de-l-attentat_6735292_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/28/etats-unis-a-bethlehem-en-pennsylvanie-les-democrates-au-defi-de-regagner-le-c-ur-des-cols-bleus_6734603_3210.html",
+   "https://www.lemonde.fr/afrique/article/2026/07/28/il-n-y-a-aucune-somnolence-au-sommet-de-l-etat-au-cameroun-la-controverse-enfle-sur-l-absence-prolongee-du-president-paul-biya-93-ans_6735290_3212.html",
+   "https://www.lemonde.fr/international/article/2026/07/28/seisme-au-japon-tremblement-de-terre-de-magnitude-7-1-au-moins-un-mort-et-des-dizaines-de-blesses_6734975_3211.html",
+   "https://www.lemonde.fr/politique/article/2026/07/28/demandeurs-d-emploi-une-hausse-en-trompe-l-il-a-interpreter-avec-prudence_6735288_823448.html",
+   "https://www.lemonde.fr/societe/article/2026/07/28/les-ossements-de-quatre-nourrissons-et-le-corps-d-un-cinquieme-retrouves-au-domicile-d-un-couple-a-orange_6735283_3224.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-sous-pression-pour-desarmer-le-hezbollah-le-president-libanais-joseph-aoun-recu-par-donald-trump-ce-mardi-a-la-maison-blanche-20260721",
-   "https://www.lefigaro.fr/conjoncture/royaume-uni-le-nouveau-gouvernement-annonce-la-suppression-de-la-tva-sur-l-electricite-des-menages-l-hiver-prochain-20260721",
-   "https://www.lefigaro.fr/actualite-france/les-50-decisions-qui-ont-coule-la-france-le-grand-renoncement-securitaire-et-judiciaire-20260721",
-   "https://www.lefigaro.fr/secteur/high-tech/les-victimes-d-arnaques-en-ligne-ont-perdu-jusqu-a-114-1-milliards-de-dollars-en-asie-et-dans-le-pacifique-l-an-dernier-20260721",
-   "https://www.lefigaro.fr/marseille/le-maire-d-ales-menace-de-mort-par-la-dz-mafia-exfiltre-de-son-domicile-par-le-raid-20260721",
    "https://www.lefigaro.fr/international/liban-l-armee-annonce-avoir-entame-son-deploiement-dans-les-zones-pilotes-du-sud-du-pays-20260721",
    "https://www.lefigaro.fr/politique/elles-ont-failli-en-venir-aux-mains-a-l-assemblee-grosse-altercation-borne-genevard-en-marge-de-la-loi-agricole-20260721",
    "https://www.lefigaro.fr/conjoncture/qu-est-ce-que-l-acetamipride-ce-pesticide-decrie-dans-la-proposition-de-loi-duplomb-20250526",
@@ -804,7 +807,12 @@
    "https://www.lefigaro.fr/actualite-france/ou-sont-les-principaux-incendies-en-europe-20260728",
    "https://www.lefigaro.fr/medias/on-ne-financera-pas-leur-film-le-patron-de-canal-confirme-le-boycott-de-ceux-qui-portent-prejudice-a-son-groupe-20260728",
    "https://www.lefigaro.fr/international/incendies-en-espagne-les-pompiers-progressent-pedro-sanchez-voit-la-lumiere-au-bout-du-tunnel-20260728",
-   "https://www.lefigaro.fr/bordeaux/quand-l-incendie-avancait-il-n-y-avait-plus-personne-au-cap-ferret-benoit-bartherotte-defend-son-pare-feu-cree-sans-autorisation-20260728"
+   "https://www.lefigaro.fr/bordeaux/quand-l-incendie-avancait-il-n-y-avait-plus-personne-au-cap-ferret-benoit-bartherotte-defend-son-pare-feu-cree-sans-autorisation-20260728",
+   "https://www.lefigaro.fr/faits-divers/attaque-au-couteau-a-paris-la-garde-a-vue-du-suspect-levee-pour-motif-psychiatrique-20260728",
+   "https://www.lefigaro.fr/actualite-france/c-est-fini-la-saison-est-terminee-comment-4000-touristes-ont-quitte-lacanau-en-une-matinee-a-cause-de-la-reprise-des-feux-en-gironde-20260728",
+   "https://www.lefigaro.fr/meteo/incendies-16-departements-passent-en-vigilance-orange-canicule-mercredi-dont-la-gironde-et-les-landes-20260728",
+   "https://www.lefigaro.fr/meteo/jusqu-a-42-0c-attendus-mercredi-decouvrez-l-arrivee-de-la-vague-de-chaleur-en-carte-20260728",
+   "https://www.lefigaro.fr/politique/incendies-sebastien-lecornu-renonce-a-ses-vacances-le-temps-de-gerer-la-crise-des-mega-feux-20260728"
   ],
   "https://www.france24.com/fr/rss": [
    "39e1c00c-84f5-11f1-b4e5-b99ea12e5f3d",
@@ -2392,6 +2400,65 @@
  "evenements_attente": [
   {
    "faits": [
+    "Un incendie a ravagé plus de 42 000 hectares en Gironde depuis près d'une semaine",
+    "Près de 200 maisons ont été détruites à Le Porge",
+    "Un collectif d'habitants de Le Porge se constitue en vue d'une action judiciaire",
+    "L'avocat du collectif annonce un dépôt de plainte pénale et des actions administratives et civiles",
+    "14 reprises de feu ont été constatées le 28 juillet",
+    "Le feu est qualifié de stabilisé par la préfète",
+    "Des propositions de réintégration au domicile sont faites pour trois communes",
+    "4000 touristes ont quitté Lacanau en une matinée",
+    "Les pompiers de France entière sont envoyés en Gironde",
+    "Les avions et hélicoptères ne peuvent pas intervenir la nuit contre les incendies",
+    "Un pic de chaleur est attendu le 28 juillet avec des températures jusqu'à 42°C"
+   ],
+   "qui": "Collectif d'habitants du Porge, Préfète Sophie Brocas, Premier ministre Sébastien Lecornu",
+   "ou": "Gironde (Le Porge, Lacanau), France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Monde",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "361be5d66f988b71",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-28T16:21:06.803360+00:00"
+  },
+  {
+   "faits": [
+    "Un séisme de magnitude 7,1 a frappé le sud du Japon",
+    "Au moins un mort et plus de 50 blessés",
+    "Plusieurs dizaines de personnes sont portées disparues",
+    "Le deuxième étage d'un centre commercial s'est effondré",
+    "La préfecture de Kumamoto a été touchée",
+    "Le trafic ferroviaire a été suspendu dans tout le sud du pays",
+    "Aucune anomalie signalée dans les centrales nucléaires"
+   ],
+   "qui": null,
+   "ou": "Kumamoto, Japon",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "3ffbbccf6343ca2a",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-28T16:21:06.803362+00:00"
+  },
+  {
+   "faits": [
     "Un incendie en Gironde a ravagé 42 000 hectares en moins d'une semaine",
     "La commune de Lège-Cap-Ferret est parmi les plus touchées avec plusieurs dizaines de maisons détruites",
     "Lège-Cap-Ferret reste interdite d'accès",
@@ -2503,54 +2570,29 @@
   },
   {
    "faits": [
-    "Zinédine Zidane est officiellement nommé sélectionneur de l'équipe de France de football",
-    "Il succède à Didier Deschamps",
-    "La nomination intervient dix jours après la défaite de la France en finale de la troisième place de la Coupe du monde contre l'Angleterre",
-    "Philippe Diallo, président de la Fédération française de football, a annoncé cette nomination",
-    "Zidane a déclaré que c'était 'la seule chose que je voulais faire' et parle de 'continuité' et de 'rêve'"
+    "Un suspect a blessé trois femmes avec des couteaux de cuisine à Paris le 28 juillet",
+    "Le suspect a été rapidement arrêté",
+    "Il a été placé en garde à vue du chef de tentatives de meurtre",
+    "La garde à vue a été levée pour raisons psychiatriques",
+    "Le suspect a été conduit à l'infirmerie psychiatrique de la préfecture de police de Paris",
+    "Le suspect faisait déjà l'objet d'un suivi psychiatrique"
    ],
-   "qui": "Zinédine Zidane, Fédération française de football, Philippe Diallo",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "4eda4d2ba73f56d8",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-28T10:02:31.908075+00:00"
-  },
-  {
-   "faits": [
-    "Un séisme de magnitude 7,1 frappe le sud du Japon, dans la préfecture de Kumamoto",
-    "La secousse atteint le niveau maximum sur l'échelle d'intensité sismique du Japon",
-    "Au moins 50 blessés sont comptabilisés",
-    "Le trafic ferroviaire est suspendu dans tout le sud du pays",
-    "L'alerte tsunami a été levée",
-    "Aucune anomalie n'est signalée dans les centrales nucléaires"
-   ],
-   "qui": null,
-   "ou": "Kumamoto, sud du Japon",
-   "categorie": "meteo_catastrophe",
+   "qui": "Suspect non nommé",
+   "ou": "Paris",
+   "categorie": "faits_divers",
    "sensible": true,
-   "confiance": 92,
+   "confiance": 88,
    "sources": [
     "franceinfo",
-    "Le Monde"
+    "Le Figaro"
    ],
    "non_confirme": [],
    "importance": 70,
-   "empreinte": "dbb4054bfe5f58fc",
-   "score": 97,
+   "empreinte": "1788769ce40a35d2",
+   "score": 95,
    "fiab_max": 90,
    "nb_sources": 2,
-   "depuis": "2026-07-28T10:02:31.908080+00:00"
+   "depuis": "2026-07-28T16:21:06.803367+00:00"
   },
   {
    "faits": [
@@ -2600,31 +2642,25 @@
   },
   {
    "faits": [
-    "Un mégafeu en Gironde menace la zone de Lacanau",
-    "Les pompiers craignent 'une éventuelle reprise' du feu",
-    "Près de 4 000 personnes sont évacuées (campings et villages vacances)",
-    "Le retour du vent et une hausse des températures pourraient complexifier la situation",
-    "Les pompiers déclarent que 'la situation est relativement sous contrôle'",
-    "Les incendies dans les Landes et sur le massif des Ecrins sont fixés",
-    "L'incendie du massif du Gros Bessillon, dans le Var, n'est pas fixé"
+    "924 personnes ont été incarcérées depuis le lancement de la revue nationale des procédures de violences sexuelles sur mineurs",
+    "La revue a été lancée après la mort de Lyhanna",
+    "Le ministre de la Justice avait donné jusqu'au 14 juillet pour reprendre l'intégralité des plaintes concernant les enfants"
    ],
-   "qui": "Pompiers, populations de Gironde",
-   "ou": "Gironde (Lacanau), Landes, massif des Ecrins, massif du Gros Bessillon (Var)",
-   "categorie": "meteo_catastrophe",
+   "qui": "Ministre de la Justice, magistrats et enquêteurs",
+   "ou": "France",
+   "categorie": "justice",
    "sensible": true,
    "confiance": 90,
    "sources": [
-    "Le Monde"
+    "franceinfo"
    ],
-   "non_confirme": [
-    "Une reprise certaine du mégafeu en Gironde"
-   ],
-   "importance": 80,
-   "empreinte": "3fdfb86172368d0d",
-   "score": 88,
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "18c70e96d236b7cc",
+   "score": 87,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.908083+00:00"
+   "depuis": "2026-07-28T16:21:06.803370+00:00"
   },
   {
    "faits": [
@@ -2648,28 +2684,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T12:07:23.188017+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump rencontre Benyamin Nétanyahou à Washington",
-    "C'est la première rencontre entre Trump et Nétanyahou depuis le début de la guerre au Moyen-Orient",
-    "Les enjeux incluent l'Iran, Gaza et le Liban"
-   ],
-   "qui": "Donald Trump, Benyamin Nétanyahou",
-   "ou": "Washington",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "81b4b3e0c31d45e4",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.908084+00:00"
   },
   {
    "faits": [
@@ -2698,53 +2712,26 @@
   },
   {
    "faits": [
-    "Les corps de cinq nouveau-nés sont retrouvés chez un couple dans le Vaucluse",
-    "Selon les premiers éléments, la femme venait de donner naissance à un bébé en bonne santé, après un déni de grossesse",
-    "Le mari a découvert les ossements rangés dans des boîtes à leur domicile"
+    "Des ossements de quatre nourrissons et le corps d'un cinquième ont été retrouvés au domicile d'un couple à Orange",
+    "La mère de famille venait d'accoucher d'un bébé en bonne santé",
+    "Le compagnon de la mère a fait la découverte des dépouilles",
+    "Le parquet de Carpentras a ouvert une enquête pour meurtre sur mineur de moins de 15 ans"
    ],
-   "qui": "Un couple du Vaucluse",
-   "ou": "Vaucluse",
+   "qui": "Couple non nommé, parquet de Carpentras",
+   "ou": "Orange",
    "categorie": "faits_divers",
    "sensible": true,
-   "confiance": 88,
+   "confiance": 85,
    "sources": [
-    "franceinfo"
+    "Le Monde"
    ],
-   "non_confirme": [
-    "Les circonstances exactes et la responsabilité du couple",
-    "La cause du décès des nouveau-nés"
-   ],
-   "importance": 72,
-   "empreinte": "bd3338b94d7c0deb",
-   "score": 86,
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "2c27eb0f07f3a6cf",
+   "score": 85,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.908086+00:00"
-  },
-  {
-   "faits": [
-    "Un homme de 23 ans est mis en examen et placé en détention provisoire",
-    "Il est soupçonné d'être à l'origine de départs de feu volontaires dans le Var",
-    "Le suspect doit faire l'objet d'un examen psychiatrique",
-    "Il encourt quinze ans de réclusion criminelle et 150 000 euros d'amende"
-   ],
-   "qui": "Un homme de 23 ans (non nommé)",
-   "ou": "Var",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "La culpabilité établie du suspect"
-   ],
-   "importance": 68,
-   "empreinte": "af45002607917f79",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.908088+00:00"
+   "depuis": "2026-07-28T16:21:06.803372+00:00"
   },
   {
    "faits": [
@@ -2767,56 +2754,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T12:07:23.188024+00:00"
-  },
-  {
-   "faits": [
-    "Patrick Bruel est visé par deux nouvelles plaintes pour viol et agression sexuelle",
-    "Les faits dénoncés remontent à 1994 et 2005",
-    "Ces faits sont aujourd'hui prescrits",
-    "Mediapart dévoile ces nouvelles plaintes",
-    "Patrick Bruel conteste 'fermement' ces accusations"
-   ],
-   "qui": "Patrick Bruel",
-   "ou": null,
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "La véracité des accusations portées contre Patrick Bruel"
-   ],
-   "importance": 65,
-   "empreinte": "7af07b32aa17d65f",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.908090+00:00"
-  },
-  {
-   "faits": [
-    "La région de Moscou est attaquée par plus de 390 drones ukrainiens",
-    "Au moins un immeuble et des maisons sont endommagés",
-    "Aucune victime n'est rapportée pour l'heure"
-   ],
-   "qui": "Ukraine, Russie",
-   "ou": "Région de Moscou",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Le nombre exact de dégâts et de victimes éventuelles"
-   ],
-   "importance": 75,
-   "empreinte": "916d3be71218ca7d",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.908091+00:00"
   },
   {
    "faits": [
@@ -2867,29 +2804,26 @@
   },
   {
    "faits": [
-    "Des échanges diplomatiques se produisent entre l'Iran, Oman et l'Arabie saoudite",
-    "Cela suit plusieurs jours consécutifs d'accalmie",
-    "Les ministres des affaires étrangères ont évoqué l'état du détroit d'Ormuz",
-    "Ils ont appelé à la coopération face aux Etats-Unis",
-    "Donald Trump a décidé de suspendre les bombardements pour donner une nouvelle chance aux négociations"
+    "Seize départements sont en vigilance orange canicule le 28 juillet",
+    "Un pic de chaleur est attendu le 28 juillet avec des températures jusqu'à 42°C entre Bordeaux et Toulouse",
+    "Plus de 35°C sont attendus dans de nombreuses grandes villes",
+    "Une quatrième vague de chaleur arrive en France"
    ],
-   "qui": "Iran, Oman, Arabie saoudite, Donald Trump",
-   "ou": "Moyen-Orient, détroit d'Ormuz",
-   "categorie": "international",
+   "qui": null,
+   "ou": "France (Gironde, Landes, Bordeaux, Toulouse)",
+   "categorie": "meteo_catastrophe",
    "sensible": false,
-   "confiance": 82,
+   "confiance": 88,
    "sources": [
-    "Le Monde"
+    "Le Figaro"
    ],
-   "non_confirme": [
-    "La durée et les résultats attendus de la suspension des bombardements"
-   ],
-   "importance": 76,
-   "empreinte": "a1bc2f50917ce969",
-   "score": 84,
-   "fiab_max": 90,
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "12345396b410d257",
+   "score": 83,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.908093+00:00"
+   "depuis": "2026-07-28T16:21:06.803376+00:00"
   },
   {
    "faits": [
@@ -2915,29 +2849,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T14:34:23.021653+00:00"
-  },
-  {
-   "faits": [
-    "Maxime Saada, patron de Canal+, maintient qu'il ne financera plus les films qui portent 'préjudice' au groupe",
-    "Cela fait suite à une tribune en mai dernier dénonçant 'l'emprise grandissante de l'extrême droite' dans le 7e art",
-    "La tribune était dirigée contre le milliardaire conservateur Vincent Bolloré, actionnaire de Canal+",
-    "Saada avait affirmé qu'il ne souhaitait plus financer les films des signataires de la tribune"
-   ],
-   "qui": "Maxime Saada, Vincent Bolloré, signataires de la tribune de mai",
-   "ou": null,
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "a66cfecd04a0c2c8",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.908095+00:00"
   },
   {
    "faits": [
@@ -2990,77 +2901,48 @@
   },
   {
    "faits": [
-    "Paolo Maldini et Leonardo annoncent leur départ après deux semaines",
-    "Ils avaient été nommés pour redresser l'équipe de football italienne",
-    "Andrea Pirlo était favori pour reprendre les rênes de la Nazionale",
-    "Pirlo n'est plus dans la course en raison de ses liens avec des sociétés russes",
-    "Le football italien connaît une dégringolade et une démission en série"
+    "Le nombre d'inscrits à France Travail sans aucune activité a progressé de 0,8% au deuxième trimestre 2026",
+    "Corrigée des changements réglementaires de 2025, cette statistique enregistre en réalité un recul de 0,2%"
    ],
-   "qui": "Paolo Maldini, Leonardo, Andrea Pirlo, Fédération italienne de football",
-   "ou": "Italie",
-   "categorie": "sport",
+   "qui": "France Travail",
+   "ou": "France",
+   "categorie": "economie",
    "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Les raisons précises du départ de Maldini et Leonardo"
-   ],
-   "importance": 62,
-   "empreinte": "43b57dac47873fc0",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.908101+00:00"
-  },
-  {
-   "faits": [
-    "Le président algérien Abdelmadjid Tebboune tente d'éteindre la polémique sur les visas",
-    "Cela fait suite à une controverse lancée par Emmanuel Macron",
-    "Plusieurs personnalités de droite et d'extrême droite ont dénoncé le retour à un niveau d'octroi de visas aux citoyens algériens similaire à la période d'avant la crise",
-    "L'ambassadeur de France à Alger avait annoncé ce retour à un niveau antérieur"
-   ],
-   "qui": "Emmanuel Macron, Abdelmadjid Tebboune, ambassadeur de France à Alger, personnalités de droite et d'extrême droite",
-   "ou": "France, Algérie",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 86,
+   "confiance": 88,
    "sources": [
     "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 58,
-   "empreinte": "a93632962ea9558b",
+   "importance": 55,
+   "empreinte": "3b03ba196b81835b",
    "score": 82,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.908102+00:00"
+   "depuis": "2026-07-28T16:21:06.803377+00:00"
   },
   {
    "faits": [
-    "Une polémique se poursuit suite à un jugement retenant la circonstance aggravante de racisme dans la mort de Thomas Perotto",
-    "Thomas Perotto était un adolescent de 16 ans mort en 2023 à Crépol, dans la Drôme",
-    "Evan Raschel, professeur de droit spécialiste du racisme, décrypte cette décision",
-    "La circonstance aggravante concerne le racisme anti-Blanc"
+    "Abdul Ballout a été reconnu coupable de préparation d'acte terroriste en mai",
+    "Il avait été condamné à 22 mois d'emprisonnement par la justice allemande",
+    "Le tribunal avait décidé de reporter l'exécution de la peine",
+    "Ballout était censé suivre un programme de déradicalisation",
+    "La justice allemande est accusée d'avoir fait preuve de laxisme"
    ],
-   "qui": "Thomas Perotto, Evan Raschel, justice française",
-   "ou": "Crépol, Drôme",
+   "qui": "Abdul Ballout, justice allemande",
+   "ou": "Berlin, Allemagne",
    "categorie": "justice",
    "sensible": true,
    "confiance": 82,
    "sources": [
     "Le Monde"
    ],
-   "non_confirme": [
-    "Les implications futures de cette décision sur la jurisprudence"
-   ],
-   "importance": 64,
-   "empreinte": "2dec9e5f8f687786",
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "5036b9c625160d82",
    "score": 81,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T10:02:31.907734+00:00"
+   "depuis": "2026-07-28T16:21:06.803083+00:00"
   },
   {
    "faits": [
@@ -3128,6 +3010,80 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-28T14:34:23.020766+00:00"
+  },
+  {
+   "faits": [
+    "Le président camerounais Paul Biya, 93 ans, n'est pas rentré à Yaoundé depuis le 7 juin",
+    "Paul Biya est le doyen des chefs d'État dans le monde",
+    "Ses absences alimentent des interrogations sur son état de santé",
+    "Une controverse enfle sur l'inertie du pouvoir",
+    "Le Cameroun n'a pas connu d'alternance politique depuis son indépendance en 1960"
+   ],
+   "qui": "Paul Biya, Président du Cameroun",
+   "ou": "Cameroun, Yaoundé",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "L'état de santé exact de Paul Biya"
+   ],
+   "importance": 60,
+   "empreinte": "129f9a5a2bb24d7e",
+   "score": 77,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T16:21:06.803119+00:00"
+  },
+  {
+   "faits": [
+    "Les démocrates américains tentent de regagner le cœur des cols bleus en Pennsylvanie",
+    "Le 7e district de Pennsylvanie fait partie de ceux qui pourraient redonner une majorité démocrate à la Chambre des représentants lors du scrutin de novembre",
+    "Une population ouvrière délaissée par l'administration Trump cherche à être captée"
+   ],
+   "qui": "Démocrates américains, administration Trump",
+   "ou": "Pennsylvanie, États-Unis",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "998c9124bd745ad9",
+   "score": 75,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T16:21:06.803379+00:00"
+  },
+  {
+   "faits": [
+    "Reinhold Messner est hanté par la disparition de son frère cadet en 1970",
+    "Les deux frères participaient à une expédition sur le Nanga Parbat en Himalaya pakistanais",
+    "Le cadet n'en est pas revenu",
+    "Plus de 50 ans après, les témoins de l'époque contestent le récit de Reinhold Messner",
+    "Reinhold Messner dénonce un complot monté contre lui"
+   ],
+   "qui": "Reinhold Messner, frère cadet disparu",
+   "ou": "Nanga Parbat, Himalaya pakistanais",
+   "categorie": "autre",
+   "sensible": false,
+   "confiance": 70,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Les véritables circonstances de la disparition du frère"
+   ],
+   "importance": 35,
+   "empreinte": "d1549f3ea0f44e22",
+   "score": 70,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T16:21:06.803069+00:00"
   }
  ],
  "publies_48h": [
