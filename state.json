@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/societe/drogue/le-baron-de-la-drogue-el-mayo-condamne-a-la-prison-a-vie-a-new-york_8115467.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/le-gouvernement-s-en-remet-au-parlement-pour-trancher-la-reintroduction-de-l-acetamipride-avant-le-vote-solennel-du-projet-de-loi-agricole_8115428.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/l-obligation-vaccinale-contre-la-grippe-recommandee-par-la-has-est-une-bonne-chose-pour-le-syndicat-national-des-professionnels-infirmiers_8115509.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-10-morts-les-recherches-de-survivants-se-poursuivent_8115488.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-var-le-feu-a-taradeau-et-aux-arcs-desormais-fixe-mais-la-vigilance-reste-de-mise-indique-la-prefecture_8115503.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +298,10 @@
    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/on-reste-la-jusqu-au-bout-des-soldats-du-feu-sur-le-terrain-au-peril-de-leur-vie_8124485.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-degats-des-incendies-sur-la-faune-sauvage-seront-catastrophiques-previent-la-ministre-de-la-transition-ecologique_8124452.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/video-l-incendie-dans-les-landes-est-fixe-annonce-emmanuel-macron_8124575.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/un-pompier-volontaire-meurt-dans-un-accident-de-la-route-dans-les-bouches-du-rhone_8124596.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/faits-divers/un-pompier-volontaire-meurt-dans-un-accident-de-la-route-dans-les-bouches-du-rhone_8124596.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/feux-zombies-gestion-des-lisieres-noyage-du-combustible-comment-les-pompiers-s-assurent-ils-qu-un-incendie-soit-bien-eteint-et-ne-reparte-pas_8115326.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/des-resineux-hautement-inflammables-plantes-de-facon-homogene-comment-la-monoculture-de-pins-maritimes-en-gironde-et-dans-les-landes-favorise-les-incendies_8123978.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/franz-beckenbauer-michel-platini-diego-maradona-ces-legendes-du-football-qui-sont-devenus-selectionneurs-avec-plus-ou-moins-de-reussite_8124125.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -486,11 +486,6 @@
    "https://www.lemonde.fr/series-d-ete/article/2026/07/27/a-antibes-sur-la-plage-de-salis-l-imbattable-pan-bagnat-de-chez-josy_6733744_3451060.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/flash-actu/donald-trump-assure-a-benyamin-netanyahou-qu-il-ne-sera-pas-arrete-aux-etats-unis-20260720",
-   "https://www.lefigaro.fr/economie/hausse-des-matieres-premieres-rentabilite-en-baisse-fiscalite-penalisante-les-entreprises-reduisent-la-voilure-sur-les-recrutements-20260720",
-   "https://www.lefigaro.fr/conjoncture/ils-m-envoyaient-des-propositions-sans-aucun-rapport-avec-ma-recherche-ces-demandeurs-d-emploi-qui-decident-de-se-passer-de-france-travail-20260720",
-   "https://www.lefigaro.fr/politique/la-loi-d-urgence-agricole-une-nouvelle-fois-sous-tension-a-l-assemblee-20260720",
-   "https://www.lefigaro.fr/flash-actu/royaume-uni-le-suspect-du-meurtre-de-l-ancienne-deputee-anti-immigration-ann-widdecombe-inculpe-20260720",
    "https://www.lefigaro.fr/international/la-coupe-du-monde-de-football-aux-etats-unis-la-plus-politique-de-l-histoire-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-le-president-du-foot-sud-americain-proche-de-gianni-infantino-tease-un-mondial-2030-a-64-equipes-20260720",
    "https://www.lefigaro.fr/sports/football/equipe-de-france/didier-deschamps-a-dine-avec-emmanuel-macron-a-l-elysee-dimanche-20260720",
@@ -785,10 +780,14 @@
    "https://www.lefigaro.fr/vox/societe/l-editorial-de-jacques-olivier-martin-personne-n-eteint-un-incendie-depuis-la-capitale-20260727",
    "https://www.lefigaro.fr/faits-divers/bouches-du-rhone-un-pompier-volontaire-de-38-ans-meurt-lors-d-une-sortie-de-route-20260727",
    "https://www.lefigaro.fr/conjoncture/tourisme-a-l-arret-usines-et-magasins-fermes-les-incendies-de-forets-en-gironde-virent-a-l-embolie-economique-20260727",
-   "https://www.lefigaro.fr/culture/etats-unis-le-chanteur-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-20260727"
+   "https://www.lefigaro.fr/culture/etats-unis-le-chanteur-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-20260727",
+   "https://www.lefigaro.fr/meteo/en-direct-canicule-incendies-feux-pompiers-gironde-landes-bouches-du-rhone-var-corse-hautes-alpes-20260728",
+   "https://www.lefigaro.fr/sports/football/equipe-de-france/salle-comble-medias-etrangers-secret-defense-repetitions-zinedine-zidane-en-bleus-les-coulisses-d-une-intronisation-tres-attendue-20260728",
+   "https://www.lefigaro.fr/sports/football/equipe-de-france/management-travail-collectif-science-tactique-a-quel-coaching-s-attendre-de-zinedine-zidane-en-equipe-de-france-20260727",
+   "https://www.lefigaro.fr/sports/football/equipe-de-france/il-est-fait-pour-ce-poste-l-evidence-zinedine-zidane-nouveau-chef-d-orchestre-des-bleus-pour-un-retour-au-sommet-20260727",
+   "https://www.lefigaro.fr/sports/football/equipe-de-france/luis-fernandez-au-figaro-zizou-va-realiser-quelque-chose-de-formidable-avec-les-bleus-20260727"
   ],
   "https://www.france24.com/fr/rss": [
-   "ad0ab202-8480-11f1-bfc3-3faa933334d9",
    "4179d0f0-8489-11f1-bc58-c98139d3b091",
    "9f7077fc-84ae-11f1-9e79-b34584f04cb5",
    "63dec20a-84ab-11f1-9098-2ba36346e5ba",
@@ -1087,13 +1086,10 @@
    "493c6842-89f8-11f1-8dda-dbe69a4b4f80",
    "cfa16c76-8a06-11f1-978f-fd4635dc0d14",
    "c9ab9154-8a0e-11f1-a415-bfff4fa5a0c3",
-   "e732083a-8a17-11f1-8465-e585fb5d6e40"
+   "e732083a-8a17-11f1-8465-e585fb5d6e40",
+   "8be82910-8a0c-11f1-802a-5d4518517e61"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "abde51cc-8070-11f1-8117-5176f466a488",
-   "eceb9cfc-806f-11f1-acb1-d5e4a4aee348",
-   "0875801c-8081-11f1-83f8-95c1f2bcc31e",
-   "eba1eac2-8074-11f1-9231-0fe1f9aaa4ae",
    "39281f2a-8069-11f1-8bc1-1dd3a32f23a0",
    "cf3014c0-808f-11f1-bfb2-7fba828116a9",
    "ef6721ea-808d-11f1-b08f-7fba828116a9",
@@ -1389,13 +1385,13 @@
    "d75e16be-89e6-11f1-a3d5-592855f6b24a",
    "e56fd2c2-89d4-11f1-b190-77af71f403d5",
    "c2d1699e-8a04-11f1-b540-edbeb225b6d7",
-   "7b431c68-89e5-11f1-b961-5120d4d6bdcc"
+   "7b431c68-89e5-11f1-b961-5120d4d6bdcc",
+   "650d9e8a-8a3c-11f1-96e0-1d9dc8dedbe6",
+   "a47ad8f0-8a2b-11f1-a426-1d6e254869fe",
+   "fe27a2ee-8a20-11f1-9994-19404ffc7f92",
+   "7ee2d804-8a3a-11f1-88e4-e537764365be"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-la-reintroduction-de-lacetamipride-prevue-par-la-loi-durgence-agricole-de67bf60-8472-11f1-ae6f-a09f3d00f0f8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-21/je-paye-15-euro-par-mois-du-jardin-a-la-douche-cet-ingenieur-livre-ses-secrets-pour-economiser-l-eau-et-son-argent-99d0715d-449e-4ffb-872e-81f6c30b08ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/economie/agriculture/la-loi-durgence-agricole-definitivement-adoptee-par-le-parlement-malgre-les-debats-sur-la-reintroduction-de-pesticides-bfae1ff6-8503-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-seixas-evenepoel-pourquoi-autant-de-controles-antidopage-apres-ceux-de-pogacar-et-vingegaard-7955cace-8501-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/olympique-lyonnais/textor-reclame-350-millions-deuros-de-dommages-et-interets-a-kang-apres-la-vente-de-lol-devant-la-justice-americaine-a4e7e848-8524-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/agriculture/la-loi-durgence-agricole-est-passee-malgre-le-tumulte-62f5c800-84e9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-21/pour-y-entrer-il-faut-eviter-les-vagues-scelerates-comment-la-visite-de-cette-grotte-paradisiaque-a-vire-au-cauchemar-df5d6b97-17ed-4d3a-8511-45367011920b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1691,7 +1687,11 @@
    "https://www.ouest-france.fr/monde/republique-democratique-du-congo/rdc-au-moins-31-civils-tues-dans-plusieurs-attaques-des-adf-dans-le-nord-est-48f75ae8-8a0e-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/societe/justice/le-chanteur-americain-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-750f90ac-8a0c-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/mexique/mexique-fusillade-en-plein-jour-dans-le-centre-de-la-capitale-un-mort-702b4abe-8a1f-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/bouches-du-rhone-un-pompier-volontaire-meurt-dans-un-accident-de-la-route-002dd552-8a14-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/faits-divers/incendie/bouches-du-rhone-un-pompier-volontaire-meurt-dans-un-accident-de-la-route-002dd552-8a14-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/zinedine-zidane/il-a-fait-de-la-bbc-une-reference-mondiale-quattendre-de-zinedine-zidane-a-la-tete-de-lequipe-de-france-df645f72-89b8-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/economie/entreprises/portraits/portrait-avec-lui-tout-va-toujours-trop-lentement-gilles-martin-le-si-discret-patron-deurofins-43c0cc1e-6fd6-11f1-b8a9-4a6626afbf8d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-rencontre-entre-zelensky-et-trump-disputes-au-conseil-de-securite-de-lonu-le-point-sur-la-nuit-19548c9c-8a23-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/ile-de-france/hauts-de-seine/hauts-de-seine-des-rouleaux-de-la-torah-dune-grande-valeur-derobes-dans-une-synagogue-d2eb49f2-8a23-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1911,7 +1911,10 @@
    "https://www.20minutes.fr/monde/canada/4236603-20260727-canada-consulat-americain-toronto-vise-tir-arme-feu-deuxieme-fois?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/planete/4236606-20260728-investissements-appel-union-gagner-bataille-point-declarations-macron-gironde?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/ukraine/4236616-20260728-guerre-ukraine-leger-froid-russie-trump-attend-zelensky-maison-blanche?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/societe/4236615-20260728-paris-premiere-reunion-crise-mairie-poser-bases-renovation-tour-montparnasse?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/societe/4236615-20260728-paris-premiere-reunion-crise-mairie-poser-bases-renovation-tour-montparnasse?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/faits_divers/4236621-20260728-incendies-pompier-volontaire-38-ans-meurt-volant-camion-citerne?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/canicule/4236622-20260728-direct-incendies-retour-canicule-fait-craindre-pire-front-feux-sud-ouest?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/ukraine/4236623-20260728-direct-guerre-ukraine-region-moscou-visee-nuit-plus-390-drones?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2370,24 +2373,27 @@
  "evenements_attente": [
   {
    "faits": [
-    "Plus de 1 000 personnes évacuées en raison des incendies en Gironde sont réfugiées au parc des expositions de Bordeaux",
-    "Une organisation de bénévoles permet la mise en place d'une vie quotidienne et d'un véritable village dans le hangar"
+    "Un attentat à la voiture-bélier a frappé la Marche des fiertés à Berlin le 25 juillet",
+    "Une Polonaise de 65 ans a été tuée et 29 personnes ont été blessées",
+    "L'auteur est un homme de 21 ans connu des services pour son idéologie islamiste",
+    "Un débat est relancé sur un possible laxisme judiciaire en Allemagne",
+    "Le ministre de l'Intérieur a promis un tour de vis sécuritaire"
    ],
-   "qui": "Réfugiés des incendies, bénévoles",
-   "ou": "Bordeaux, parc des expositions, Gironde",
-   "categorie": "meteo_catastrophe",
+   "qui": "Auteur non nommé (21 ans), ministre de l'Intérieur allemand",
+   "ou": "Berlin, Allemagne",
+   "categorie": "justice",
    "sensible": true,
    "confiance": 88,
    "sources": [
-    "France 24"
+    "RFI"
    ],
    "non_confirme": [],
    "importance": 75,
-   "empreinte": "4feb455baa16706c",
+   "empreinte": "60b599f1bb3145c4",
    "score": 84,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T21:20:58.880699+00:00"
+   "depuis": "2026-07-28T04:31:42.966367+00:00"
   },
   {
    "faits": [
@@ -2434,118 +2440,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-27T23:40:56.461012+00:00"
-  },
-  {
-   "faits": [
-    "Un pompier volontaire de 38 ans, le caporal Laurent Manson, meurt lors d'une sortie de route de son véhicule d'intervention",
-    "Laurent Manson était affecté au centre d'incendie et de secours de Saint-Étienne-du-Grès",
-    "Le décès s'est produit dans l'exercice de ses fonctions"
-   ],
-   "qui": "Laurent Manson (caporal, pompier volontaire)",
-   "ou": "Bouches-du-Rhône, Saint-Étienne-du-Grès",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "b5915928bddd0d5f",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T21:20:58.880644+00:00"
-  },
-  {
-   "faits": [
-    "Le parquet national financier demande le renvoi de BNP Paribas et des enfants d'Omar Bongo devant le tribunal correctionnel de Paris",
-    "L'enquête concerne des biens acquis frauduleusement en France",
-    "Le PNF demande le renvoi de 23 personnes physiques et morales au total"
-   ],
-   "qui": "BNP Paribas, enfants d'Omar Bongo (ancien président gabonais), Parquet national financier",
-   "ou": "Paris, Gabon",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "0363bb37d4275cf5",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T20:00:10.461202+00:00"
-  },
-  {
-   "faits": [
-    "Un homme âgé de 39 ans et un adolescent de 15 ans sont poursuivis pour des départs de feux volontaires dans le Var",
-    "Les deux individus ont été placés en garde à vue samedi",
-    "L'homme sera jugé en comparution immédiate mercredi",
-    "L'adolescent sera jugé par le tribunal pour enfants de Toulon le 22 octobre"
-   ],
-   "qui": "Un homme de 39 ans (connu de la justice), un adolescent de 15 ans",
-   "ou": "Var, Toulon",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "d154e79e93ab2d03",
-   "score": 81,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T20:00:10.461148+00:00"
-  },
-  {
-   "faits": [
-    "Le colonel Bienvenu Lamah est acquitté à l'issue du second procès du massacre du 28 septembre 2009 en Guinée",
-    "Le parquet avait requis dix ans de prison contre cet officier de gendarmerie",
-    "Le tribunal criminel de Dixinn a rendu cette décision lundi 27 juillet"
-   ],
-   "qui": "Colonel Bienvenu Lamah, Tribunal criminel de Dixinn",
-   "ou": "Guinée, Dixinn",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "a6c1a1554a6960dd",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T20:00:10.461228+00:00"
-  },
-  {
-   "faits": [
-    "La France et les États-Unis s'écharpent au Conseil de sécurité de l'ONU",
-    "Les États-Unis ont quitté une réunion du Conseil de sécurité",
-    "Les États-Unis dénoncent des commentaires 'hypocrites' de la France",
-    "La France a comparé Washington à la Corée du Nord et à la Russie au sujet d'un vote lié aux droits humains"
-   ],
-   "qui": "France, États-Unis",
-   "ou": "ONU, Conseil de sécurité",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "d2a507a05741d6ff",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T20:00:10.461884+00:00"
   },
   {
    "faits": [
@@ -2682,29 +2576,6 @@
   },
   {
    "faits": [
-    "Emmanuel Macron défend son action en matière de sécurité civile face aux critiques",
-    "Le budget de la sécurité civile a été augmenté, passant de 450 à 800 millions d'euros sur dix ans",
-    "Macron affirme que le gouvernement a investi en avance dans ce domaine",
-    "Macron s'exprimait depuis Bordeaux le 27 juillet 2026"
-   ],
-   "qui": "Emmanuel Macron (Président)",
-   "ou": "Bordeaux, France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "88bd75431481cfbd",
-   "score": 80,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T21:20:58.882209+00:00"
-  },
-  {
-   "faits": [
     "L'ancien sélectionneur du Brésil Carlos Alberto Parreira (83 ans) a quitté l'unité de soins intensifs",
     "Il était hospitalisé depuis un peu moins d'un mois à l'hôpital de Rio de Janeiro"
    ],
@@ -2769,47 +2640,49 @@
   },
   {
    "faits": [
-    "Trois femmes ont été blessées lors d'une attaque au couteau lundi 27 juillet",
-    "L'attaque s'est déroulée porte de Clichy à Paris",
-    "Un suspect a été arrêté"
+    "Après quatre nuits d'accalmie, les hostilités entre les États-Unis et l'Iran n'ont pas repris depuis samedi",
+    "Donald Trump estime que les discussions ont 'de bonnes chances' d'aboutir",
+    "Téhéran affirme ne pas être engagé 'à l'heure actuelle' dans des négociations avec Washington"
    ],
-   "qui": "Trois femmes (victimes), suspect (arrêté)",
-   "ou": "Paris, porte de Clichy",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 85,
+   "qui": "Donald Trump, Iran, États-Unis",
+   "ou": "États-Unis, Iran",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 75,
    "sources": [
-    "20 Minutes"
+    "France 24"
    ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "317f9dc72566177a",
+   "non_confirme": [
+    "L'aboutissement des discussions entre États-Unis et Iran"
+   ],
+   "importance": 70,
+   "empreinte": "176e5c1166d83d65",
    "score": 78,
-   "fiab_max": 75,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T21:20:58.881074+00:00"
+   "depuis": "2026-07-28T04:31:51.546444+00:00"
   },
   {
    "faits": [
-    "Une nouvelle vague de chaleur débute en France à partir de mardi 28 juillet",
-    "Les températures devraient atteindre 40°C",
-    "C'est le quatrième épisode de très fortes chaleurs de l'été 2026"
+    "Les États-Unis ont quitté une réunion du Conseil de sécurité de l'ONU lorsque l'ambassadeur français a pris la parole",
+    "L'ambassadeur français a dénoncé les commentaires 'hypocrites' des États-Unis",
+    "La France a comparé les États-Unis à la Corée du Nord et à la Russie en lien avec un vote lié aux droits humains"
    ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "meteo_catastrophe",
+   "qui": "États-Unis, France, Conseil de sécurité de l'ONU",
+   "ou": "ONU",
+   "categorie": "international",
    "sensible": false,
    "confiance": 85,
    "sources": [
-    "20 Minutes"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "fbf188010e048c67",
+   "importance": 60,
+   "empreinte": "c6806b0048afa476",
    "score": 78,
-   "fiab_max": 75,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-27T21:20:58.882214+00:00"
+   "depuis": "2026-07-28T04:31:51.546446+00:00"
   },
   {
    "faits": [
@@ -2837,50 +2710,27 @@
   },
   {
    "faits": [
-    "L'armée soudanaise affirme avoir repris le contrôle de l'autoroute stratégique d'Al-Sadarat après deux jours de combats contre les Forces de soutien rapide (RSF)",
-    "Cette reprise mettrait fin au siège d'El Obeid",
-    "Les RSF ont intensifié leurs frappes de drones sur El Obeid en riposte",
-    "Des centaines de milliers de personnes sont toujours bloquées dans la ville d'El Obeid"
+    "Le président sénégalais Diomaye Faye se rend au Mali le 28 juillet pour une visite de travail",
+    "Il est président en exercice de la Communauté économique des États de l'Afrique de l'Ouest (Cédéao) depuis le 19 juillet",
+    "Les discussions portent sur un possible rapprochement entre la Cédéao et l'AES (Alliance des États du Sahel)"
    ],
-   "qui": "Armée soudanaise, Forces de soutien rapide (RSF)",
-   "ou": "Soudan, autoroute d'Al-Sadarat, El Obeid",
+   "qui": "Diomaye Faye, Cédéao, AES",
+   "ou": "Mali, Sénégal, Afrique de l'Ouest",
    "categorie": "international",
-   "sensible": true,
-   "confiance": 75,
+   "sensible": false,
+   "confiance": 80,
    "sources": [
-    "France 24"
+    "RFI"
    ],
    "non_confirme": [
-    "Le contrôle effectif et durable de l'autoroute par l'armée soudanaise (affirmation de cette dernière)"
+    "Un possible rapprochement entre la Cédéao et l'AES"
    ],
-   "importance": 68,
-   "empreinte": "3c8aa52da6a7e093",
+   "importance": 55,
+   "empreinte": "372f8c4b95b601e5",
    "score": 77,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T21:20:58.880745+00:00"
-  },
-  {
-   "faits": [
-    "Les reprises du feu du Gros Bessillon dans le Var ont été circonscrites lundi soir",
-    "Cet incendie durait depuis au moins 7 jours au moment du rapport",
-    "Les pompiers mobilisés ont continué à lutter contre cet incendie"
-   ],
-   "qui": "Pompiers, préfecture du Var",
-   "ou": "Var, Gros Bessillon",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "2236137523aa80b1",
-   "score": 77,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T21:20:58.880832+00:00"
+   "depuis": "2026-07-28T04:31:51.546447+00:00"
   },
   {
    "faits": [
@@ -2927,6 +2777,29 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-28T01:10:00.236033+00:00"
+  },
+  {
+   "faits": [
+    "Des rouleaux de la Torah d'une grande valeur ont été volés dans la synagogue de Levallois-Perret (Hauts-de-Seine)",
+    "Le vol s'est produit dans la nuit de dimanche à lundi",
+    "Deux hommes se sont introduits dans la synagogue en escaladant à l'aide d'une corde",
+    "Entre 13 et 15 rouleaux de la Torah ont été dérobés"
+   ],
+   "qui": "Deux hommes non identifiés",
+   "ou": "Levallois-Perret, Hauts-de-Seine, France",
+   "categorie": "faits_divers",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "c6d10af9e4c78aea",
+   "score": 76,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T04:31:51.546451+00:00"
   },
   {
    "faits": [
@@ -3025,14 +2898,6 @@
  ],
  "publies_48h": [
   [
-   "b2f5819e4b5b6550",
-   "2026-07-26T01:18:30.717730+00:00"
-  ],
-  [
-   "21b70ac9856b5f1b",
-   "2026-07-26T01:18:34.713102+00:00"
-  ],
-  [
    "ff5ba902c927696d",
    "2026-07-26T04:48:26.532488+00:00"
   ],
@@ -3111,17 +2976,17 @@
   [
    "9549eaa0bb6c65a7",
    "2026-07-28T01:10:17.437410+00:00"
+  ],
+  [
+   "98f70706e02c95a0",
+   "2026-07-28T04:31:52.640622+00:00"
+  ],
+  [
+   "2224399ba6601de9",
+   "2026-07-28T04:31:56.798672+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "64aba3d23c757fff",
-   "2026-07-26T01:18:27.797752+00:00"
-  ],
-  [
-   "57f990413e3b30ef",
-   "2026-07-26T01:18:29.591503+00:00"
-  ],
   [
    "24bb2ed3c17574ad",
    "2026-07-26T04:48:11.918086+00:00"
@@ -3201,6 +3066,14 @@
   [
    "9039be1feb723172",
    "2026-07-28T01:10:12.374353+00:00"
+  ],
+  [
+   "ddd02256f11e79dd",
+   "2026-07-28T04:31:49.386712+00:00"
+  ],
+  [
+   "0e310156b989b334",
+   "2026-07-28T04:31:51.546420+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -3209,12 +3082,14 @@
   "🇬🇧 Le Premier ministre britannique Andy Burnham a reçu le président ukrainien Zelensky une semaine après sa prise de fonction. Il a réaffirmé le soutien de Londres à Kiev « à 100 % ». (RFI, 20 Minutes)",
   "⚡ FLASH — Un incendie ravage 42 000 hectares en Gironde près de Bordeaux. Des reprises de feu persistaient lundi à Saint-Jean-d'Illac malgré une situation stabilisée. Les trajets ferroviaires au sud sont perturbés. (Ouest-France, 20 Minutes)",
   "⚖️ Le chanteur américain D4vd, 21 ans, sera jugé pour le meurtre de l'adolescente Celeste Rivas Hernandez. Il est accusé de l'avoir poignardée à mort. D4vd encourt l'emprisonnement à perpétuité ou la peine de mort. (Le Figaro, BFMTV)",
-  "Après un incendie dévastateur, La Plaine-sur-Mer (Loire-Atlantique) renforce ses contrôles de débroussaillement. Près de 80 signalements de défauts ont été transmis à la mairie cet été. (Le Figaro)"
+  "Après un incendie dévastateur, La Plaine-sur-Mer (Loire-Atlantique) renforce ses contrôles de débroussaillement. Près de 80 signalements de défauts ont été transmis à la mairie cet été. (Le Figaro)",
+  "🌡️ Depuis le 22 juillet, des incendies ravagent le sud-ouest de la France. En Gironde, 42 000 hectares ont brûlé et 220 000 personnes ont été évacuées. Un pompier volontaire est mort lundi. (franceinfo)",
+  "⚽ Zinédine Zidane a été nommé sélectionneur de l'équipe de France de football. L'ancien entraîneur du Real Madrid succède à Didier Deschamps. Sa présentation officielle s'est déroulée le 28 juillet à Paris."
  ],
  "recap_date": "2026-07-27",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-28",
-  "publies": 6
+  "publies": 8
  }
 }

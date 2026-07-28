@@ -7916,3 +7916,45 @@
 {"decision": "controle", "evt": "9039be1feb723172", "motif": "ok_sim_0.00", "ts": "2026-07-28T01:10:12+00:00"}
 {"decision": "publie", "empreinte": "b98bb490eed05c4d", "post_id": "2081910060943356329", "carte": true, "texte": "⚖️ Le chanteur américain D4vd, 21 ans, sera jugé pour le meurtre de l'adolescente Celeste Rivas Hernandez. Il est accusé de l'avoir poignardée à mort. D4vd encourt l'emprisonnement à perpétuité ou la peine de mort. (Le Figaro, BFMTV)", "ts": "2026-07-28T01:10:13+00:00"}
 {"decision": "publie", "empreinte": "9549eaa0bb6c65a7", "post_id": "2081910077510812143", "carte": true, "texte": "Après un incendie dévastateur, La Plaine-sur-Mer (Loire-Atlantique) renforce ses contrôles de débroussaillement. Près de 80 signalements de défauts ont été transmis à la mairie cet été. (Le Figaro)", "ts": "2026-07-28T01:10:17+00:00"}
+{"decision": "abandon_attente", "evt": "4feb455baa16706c", "categorie": "meteo_catastrophe", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "abandon_attente", "evt": "b5915928bddd0d5f", "categorie": "deces_personnalite", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "abandon_attente", "evt": "0363bb37d4275cf5", "categorie": "justice", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "abandon_attente", "evt": "d154e79e93ab2d03", "categorie": "justice", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "abandon_attente", "evt": "a6c1a1554a6960dd", "categorie": "justice", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "abandon_attente", "evt": "d2a507a05741d6ff", "categorie": "international", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "abandon_attente", "evt": "88bd75431481cfbd", "categorie": "politique", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "abandon_attente", "evt": "317f9dc72566177a", "categorie": "faits_divers", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "abandon_attente", "evt": "fbf188010e048c67", "categorie": "meteo_catastrophe", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "abandon_attente", "evt": "3c8aa52da6a7e093", "categorie": "international", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "abandon_attente", "evt": "2236137523aa80b1", "categorie": "meteo_catastrophe", "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "ddd02256f11e79dd", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo", "Le Figaro", "RFI", "20 Minutes"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "0e310156b989b334", "score": 100, "categorie": "sport", "sensible": false, "confiance": 95, "sources": ["Le Figaro", "Ouest-France"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "4246abdad560cf4e", "score": 92, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Ouest-France", "20 Minutes"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "176e5c1166d83d65", "score": 78, "categorie": "international", "sensible": false, "confiance": 75, "sources": ["France 24"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "attente", "evt": "60b599f1bb3145c4", "score": 84, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "f6d8a036a5b18df3", "score": 82, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "372f8c4b95b601e5", "score": 77, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "c6d10af9e4c78aea", "score": 76, "categorie": "faits_divers", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "c6806b0048afa476", "score": 78, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "attente", "evt": "2a54a4a4c0d9f14e", "score": 83, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "attente", "evt": "938b9d3f721558ff", "score": 83, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "47c4c68027c93360", "score": 80, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "bd03fb2bf63e461a", "score": 80, "categorie": "sciences", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "4eb0c5dd499b861d", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "ea8745ffab274169", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "577d2ea1aebb8ef8", "score": 80, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "d8ad6a07b9df1d33", "score": 80, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "463fc48f7f1f7aef", "score": 79, "categorie": "sante", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "attente", "evt": "b8fa159dcb868599", "score": 78, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "attente", "evt": "cef605b9a033f1a2", "score": 78, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "attente", "evt": "16fb63d962e14085", "score": 77, "categorie": "faits_divers", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "762e0556842eb0e3", "score": 77, "categorie": "sport", "sensible": false, "confiance": 82, "sources": ["BFMTV"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "attente", "evt": "f93f5762643b9bb4", "score": 76, "categorie": "deces_personnalite", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "publier", "evt": "2d508c40508c602e", "score": 76, "categorie": "international", "sensible": false, "confiance": 78, "sources": ["France 24"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "attente", "evt": "7eeea7db56065774", "score": 74, "categorie": "international", "sensible": false, "confiance": 70, "sources": ["20 Minutes"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "attente", "evt": "100c257841e435ed", "score": 70, "categorie": "autre", "sensible": false, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "attente", "evt": "9ff300cbdeedcbc1", "score": 68, "categorie": "politique", "sensible": false, "confiance": 72, "sources": ["BFMTV"], "ts": "2026-07-28T04:31:42+00:00"}
+{"decision": "controle", "evt": "ddd02256f11e79dd", "motif": "ok_signal_retrograde_sim_0.39", "ts": "2026-07-28T04:31:49+00:00"}
+{"decision": "controle", "evt": "0e310156b989b334", "motif": "ok_sim_0.35", "ts": "2026-07-28T04:31:51+00:00"}
+{"decision": "publie", "empreinte": "98f70706e02c95a0", "post_id": "2081960808435613796", "carte": true, "texte": "🌡️ Depuis le 22 juillet, des incendies ravagent le sud-ouest de la France. En Gironde, 42 000 hectares ont brûlé et 220 000 personnes ont été évacuées. Un pompier volontaire est mort lundi. (franceinfo)", "ts": "2026-07-28T04:31:52+00:00"}
+{"decision": "publie", "empreinte": "2224399ba6601de9", "post_id": "2081960825103818916", "carte": true, "texte": "⚽ Zinédine Zidane a été nommé sélectionneur de l'équipe de France de football. L'ancien entraîneur du Real Madrid succède à Didier Deschamps. Sa présentation officielle s'est déroulée le 28 juillet à Paris.", "ts": "2026-07-28T04:31:56+00:00"}
