@@ -513,14 +513,11 @@
    "https://www.lemonde.fr/societe/article/2026/07/28/les-ossements-de-quatre-nourrissons-et-le-corps-d-un-cinquieme-retrouves-au-domicile-d-un-couple-a-orange_6735283_3224.html",
    "https://www.lemonde.fr/international/article/2026/07/28/j-ai-pris-la-fuite-pour-proteger-mes-enfants-mais-ca-n-a-pas-suffi-a-gaza-les-missiles-israeliens-continuent-de-tuer-des-civils-malgre-le-cessez-le-feu_6735327_3210.html",
    "https://www.lemonde.fr/societe/article/2026/07/28/attaque-au-couteau-a-paris-la-garde-a-vue-du-suspect-a-ete-levee-pour-raison-psychiatrique_6735400_3224.html",
-   "https://www.lemonde.fr/economie/article/2026/07/28/cma-cgm-augmente-ses-profits-malgre-le-conflit-au-moyen-orient_6735399_3234.html"
+   "https://www.lemonde.fr/economie/article/2026/07/28/cma-cgm-augmente-ses-profits-malgre-le-conflit-au-moyen-orient_6735399_3234.html",
+   "https://www.lemonde.fr/planete/article/2026/07/28/en-espagne-le-pacte-d-etat-de-pedro-sanchez-face-a-l-urgence-climatique-est-rejete-par-la-droite_6735402_3244.html",
+   "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-l-armee-americaine-affirme-avoir-deroute-18-navires-commerciaux-depuis-le-debut-du-blocus-contre-l-iran_6725301_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/actualite-france/approuvez-vous-la-reintroduction-de-deux-pesticides-dans-le-cadre-de-la-loi-d-urgence-agricole-20260721",
-   "https://www.lefigaro.fr/marseille/fusillade-a-carcassonne-maire-menace-a-ales-la-dzng-une-franchise-identitaire-et-ultraviolente-de-la-dz-mafia-20260721",
-   "https://www.lefigaro.fr/international/royaume-uni-un-navire-russe-mene-un-exercice-de-tir-reel-dans-la-manche-20260721",
-   "https://www.lefigaro.fr/international/les-deux-diplomates-francais-detenus-en-iran-l-ont-ete-sans-motif-l-un-a-fait-l-objet-de-violences-physiques-20260721",
-   "https://www.lefigaro.fr/voyages/conseils/voyage-a-dubai-ou-riyad-air-france-repousse-encore-la-reprise-de-ses-vols-20260721",
    "https://www.lefigaro.fr/politique/loi-d-urgence-agricole-sebastien-lecornu-accuse-les-ecologistes-de-mensonges-et-d-entretenir-la-colere-avec-duplicite-20260721",
    "https://www.lefigaro.fr/faits-divers/prevu-en-septembre-le-proces-en-appel-de-cedric-jubillar-est-renvoye-au-premier-semestre-2027-20260721",
    "https://www.lefigaro.fr/faits-divers/il-faut-parfois-se-rendre-a-l-evidence-pourquoi-les-fouilles-pour-retrouver-le-corps-de-delphine-jubillar-ont-ete-interrompues-si-vite-20260721",
@@ -815,10 +812,14 @@
    "https://www.lefigaro.fr/nantes/guerande-apres-9-heures-de-traque-l-etat-cede-face-a-280-caravanes-de-gens-du-voyage-le-maire-s-estime-abandonne-20260728",
    "https://www.lefigaro.fr/actualite-france/grenades-camera-thermique-et-possible-mitrailleuse-qu-est-ce-que-le-centaure-ce-vehicule-blinde-deploye-massivement-ce-18-septembre-20250917",
    "https://www.lefigaro.fr/faits-divers/paris-un-homme-de-51-ans-meurt-dans-l-incendie-d-un-immeuble-du-6e-arrondissement-20260728",
-   "https://www.lefigaro.fr/actualite-france/casser-la-puissance-du-feu-comment-fonctionnent-les-pare-feu-destines-a-lutter-contre-les-incendies-en-gironde-20260728"
+   "https://www.lefigaro.fr/actualite-france/casser-la-puissance-du-feu-comment-fonctionnent-les-pare-feu-destines-a-lutter-contre-les-incendies-en-gironde-20260728",
+   "https://www.lefigaro.fr/actualite-france/air-irrespirable-et-decor-apocalyptique-en-immersion-avec-les-pompiers-face-au-monstre-de-feu-pres-de-lege-cap-ferret-20260728",
+   "https://www.lefigaro.fr/actualite-france/incendie-de-biscarrosse-c-etait-l-apocalypse-raconte-au-figaro-une-pompier-volontaire-engagee-20260728",
+   "https://www.lefigaro.fr/vox/societe/l-editorial-d-etienne-de-montety-la-dignite-silencieuse-des-pompiers-20260728",
+   "https://www.lefigaro.fr/economie/incendies-en-gironde-quelles-mesures-d-aide-pour-les-entreprises-touchees-20260728",
+   "https://sante.lefigaro.fr/psychologie/complice-d-un-systeme-monstrueux-hans-asperger-le-psychiatre-qui-triait-les-enfants-pour-le-reich-20260728"
   ],
   "https://www.france24.com/fr/rss": [
-   "6221d59e-84fe-11f1-8870-0512b7ed56f2",
    "e67c20e6-84fa-11f1-abce-ed7d023246a3",
    "7081173e-84fa-11f1-89bf-ed7d023246a3",
    "bf2f259c-8518-11f1-92ce-31b4aae5f36a",
@@ -1117,20 +1118,10 @@
    "9df4512e-8a9d-11f1-9cd1-b7a597e9737f",
    "f042b87e-8a9a-11f1-aeb1-b7a597e9737f",
    "5e23ddba-8a95-11f1-ba93-cfb32d911fa7",
-   "a9dcf31a-8a98-11f1-ae0f-13d5c2d79547"
+   "a9dcf31a-8a98-11f1-ae0f-13d5c2d79547",
+   "df4e0dc6-8a94-11f1-8a54-cfb32d911fa7"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "39281f2a-8069-11f1-8bc1-1dd3a32f23a0",
-   "cf3014c0-808f-11f1-bfb2-7fba828116a9",
-   "ef6721ea-808d-11f1-b08f-7fba828116a9",
-   "5322e8de-8086-11f1-aa71-410918c23dcc",
-   "0ca7cd48-80a9-11f1-b109-a1c831ecdb1d",
-   "6797dcd2-80b5-11f1-b576-c7a9f4ce7b7d",
-   "48856242-8097-11f1-8965-49c4fce669c8",
-   "fc9ffb5c-80a6-11f1-96b2-df810239a4cd",
-   "3b98ef60-80ae-11f1-b1de-df810239a4cd",
-   "f2dd52c2-80b0-11f1-86fc-c7a9f4ce7b7d",
-   "30ac5b26-80dd-11f1-a269-197674054b1f",
    "48b01d14-812a-11f1-bcb3-47b4e9b85c4a",
    "03fb78bc-8120-11f1-abe5-cf7a6a208f38",
    "edc6d0bc-811c-11f1-a62b-6d02e2a4e797",
@@ -1419,10 +1410,20 @@
    "650d9e8a-8a3c-11f1-96e0-1d9dc8dedbe6",
    "a47ad8f0-8a2b-11f1-a426-1d6e254869fe",
    "fe27a2ee-8a20-11f1-9994-19404ffc7f92",
-   "7ee2d804-8a3a-11f1-88e4-e537764365be"
+   "7ee2d804-8a3a-11f1-88e4-e537764365be",
+   "ee35a52c-8aa0-11f1-bb5f-c32452dd2fb5",
+   "e674c5d6-8a99-11f1-b8a9-67fa2923fab4",
+   "892d5a02-8a51-11f1-897b-774fb57bc2f6",
+   "9e8538ba-8aa7-11f1-8f81-47032fd8d405",
+   "f28dc52c-8a8d-11f1-9a4a-a58d7db7e738",
+   "3e09bf22-8aae-11f1-b0ef-cf5abcc7829f",
+   "cfc1f7b0-8a66-11f1-b9d5-990bbc2b046a",
+   "453c7bfc-8a88-11f1-9c68-25185957deb4",
+   "48027d12-8a5d-11f1-9ab5-935daff9a065",
+   "a642040c-89f8-11f1-b302-55a3ef88b1dc",
+   "57c02206-8a60-11f1-a582-412fc4e81f3f"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/football/olympique-lyonnais/textor-reclame-350-millions-deuros-de-dommages-et-interets-a-kang-apres-la-vente-de-lol-devant-la-justice-americaine-a4e7e848-8524-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/agriculture/la-loi-durgence-agricole-est-passee-malgre-le-tumulte-62f5c800-84e9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-21/pour-y-entrer-il-faut-eviter-les-vagues-scelerates-comment-la-visite-de-cette-grotte-paradisiaque-a-vire-au-cauchemar-df5d6b97-17ed-4d3a-8511-45367011920b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/equipe-portugal/le-nouveau-selectionneur-du-portugal-jorge-jesus-ne-prevoit-pas-de-gros-changements-apres-un-mondial-decevant-b295b036-8530-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1721,7 +1722,8 @@
    "https://www.ouest-france.fr/sport/football/zinedine-zidane/il-a-fait-de-la-bbc-une-reference-mondiale-quattendre-de-zinedine-zidane-a-la-tete-de-lequipe-de-france-df645f72-89b8-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/economie/entreprises/portraits/portrait-avec-lui-tout-va-toujours-trop-lentement-gilles-martin-le-si-discret-patron-deurofins-43c0cc1e-6fd6-11f1-b8a9-4a6626afbf8d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-rencontre-entre-zelensky-et-trump-disputes-au-conseil-de-securite-de-lonu-le-point-sur-la-nuit-19548c9c-8a23-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/ile-de-france/hauts-de-seine/hauts-de-seine-des-rouleaux-de-la-torah-dune-grande-valeur-derobes-dans-une-synagogue-d2eb49f2-8a23-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/ile-de-france/hauts-de-seine/hauts-de-seine-des-rouleaux-de-la-torah-dune-grande-valeur-derobes-dans-une-synagogue-d2eb49f2-8a23-11f1-b777-fc1f4f594fd2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/cyclisme/tour-de-france-femmes/tour-de-france-femmes-lequipe-uae-team-adq-de-paula-blasi-et-maeva-squiban-avec-un-nouveau-nom-pour-ledition-2026-b4f9626a-8ab1-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2403,6 +2405,33 @@
  "evenements_attente": [
   {
    "faits": [
+    "Des incendies ravagent la Gironde et les Landes depuis le 22 juillet 2026",
+    "L'incendie de Biscarrosse a été fixé lundi soir grâce à la mobilisation de plus de 500 pompiers",
+    "Plus de 220 000 personnes ont été évacuées",
+    "Des reprises de feu et nouvelles évacuations préventives sont signalées le 28 juillet",
+    "Une quatrième vague de chaleur arrive, avec 16 départements placés en vigilance orange canicule à partir du 29 juillet",
+    "Des centaines d'habitations ont été détruites, ainsi que des entreprises et exploitations agricoles"
+   ],
+   "qui": null,
+   "ou": "Gironde, Landes, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "Le Figaro",
+    "RFI",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "c603f8d6ee622da5",
+   "score": 100,
+   "fiab_max": 85,
+   "nb_sources": 3,
+   "depuis": "2026-07-28T18:59:51.277848+00:00"
+  },
+  {
+   "faits": [
     "Un incendie a ravagé plus de 42 000 hectares en Gironde depuis près d'une semaine",
     "Près de 200 maisons ont été détruites à Le Porge",
     "Un collectif d'habitants de Le Porge se constitue en vue d'une action judiciaire",
@@ -2542,37 +2571,6 @@
   },
   {
    "faits": [
-    "Des incendies ravagent la Gironde et les Landes depuis le 22 juillet 2026",
-    "Environ 115 000 hectares ont été parcourus par les incendies en France en 2026",
-    "42 000 hectares ont été brûlés en Gironde",
-    "220 000 personnes ont été évacuées en Gironde",
-    "4 000 touristes ont été évacués préventivement de Lacanau",
-    "Des évacués sont logés au Parc des expositions de Bordeaux",
-    "La police lance un appel aux volontaires pour missions de deux semaines maximum",
-    "La gendarmerie a déployé des véhicules blindés Centaure en renfort",
-    "La préfète a interdit toutes les manifestations sportives et culturelles jusqu'au 8 août",
-    "Des milliers d'entreprises ont été touchées directement ou indirectement",
-    "Des dispositifs d'activité partielle ont été mis en place pour les entreprises"
-   ],
-   "qui": "Autorités françaises (préfecture, police, gendarmerie, pompiers)",
-   "ou": "Gironde, Landes, Var, Corse, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "c12eec601cc88e84",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-28T12:07:23.188005+00:00"
-  },
-  {
-   "faits": [
     "Mégafeu en Gironde ayant parcouru 42 000 hectares",
     "Évacuations massives en Gironde et dans les Landes",
     "Gendarmerie a mobilisé 10 véhicules blindés Centaure",
@@ -2598,6 +2596,28 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-28T17:49:44.965807+00:00"
+  },
+  {
+   "faits": [
+    "Zinédine Zidane a été nommé sélectionneur de l'équipe de France le 28 juillet 2026",
+    "Il est une légende nationale en tant que joueur et entraîneur à succès avec le Real Madrid"
+   ],
+   "qui": "Zinédine Zidane",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "32b759d21e5e6116",
+   "score": 95,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-28T18:59:51.277863+00:00"
   },
   {
    "faits": [
@@ -2627,6 +2647,30 @@
   },
   {
    "faits": [
+    "L'armée américaine affirme avoir dérouté 18 navires commerciaux depuis le début du blocus des ports iraniens",
+    "Le commandement militaire conjoint iranien déclare que les entreprises ou pays recevant des avoirs iraniens gelés ne pourront pas transiter par le détroit d'Ormuz",
+    "Benjamin Netanyahu et Donald Trump réaffirment leur engagement à empêcher l'Iran d'avoir l'arme nucléaire",
+    "Le ministre iranien des Affaires étrangères Abbas Araghchi s'est entretenu avec ses homologues omanais et saoudien au sujet du détroit d'Ormuz"
+   ],
+   "qui": "États-Unis, Iran, Israël",
+   "ou": "Moyen-Orient, détroit d'Ormuz",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Le Monde",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "534a65a5220f9bf5",
+   "score": 94,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-28T18:59:51.277866+00:00"
+  },
+  {
+   "faits": [
     "Les incendies en Espagne progressent",
     "Pedro Sanchez voit « la lumière au bout du tunnel »",
     "Les efforts des pompiers dans la nuit ont été « extrêmement positifs »",
@@ -2651,25 +2695,30 @@
   },
   {
    "faits": [
-    "Zinédine Zidane a été nommé à la tête de l'équipe de France de football",
-    "Il succède à Didier Deschamps après 14 ans",
-    "Deschamps a ramené un seul trophée majeur pendant son mandat"
+    "Un séisme de magnitude 7,1 a secoué le sud-ouest du Japon le 28 juillet",
+    "Au moins une personne a trouvé la mort dans l'effondrement d'une maison",
+    "Plusieurs blessés sont signalés, au moins une cinquantaine hospitalisées",
+    "De nombreuses personnes sont bloquées dans un centre commercial en partie effondré dans la région de Kumamoto",
+    "L'alerte au tsunami a été levée rapidement"
    ],
-   "qui": "Zinédine Zidane, Didier Deschamps, Fédération française de football",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
+   "qui": null,
+   "ou": "Sud-ouest du Japon, Kumamoto",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
    "confiance": 90,
    "sources": [
-    "franceinfo"
+    "RFI"
    ],
-   "non_confirme": [],
+   "non_confirme": [
+    "Nombre exact de blessés",
+    "Nombre exact de personnes bloquées dans le centre commercial"
+   ],
    "importance": 85,
-   "empreinte": "88883df12dbd7a9a",
-   "score": 89,
-   "fiab_max": 90,
+   "empreinte": "b29619e12992a488",
+   "score": 87,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-28T12:07:23.188014+00:00"
+   "depuis": "2026-07-28T18:59:51.276701+00:00"
   },
   {
    "faits": [
@@ -2715,29 +2764,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T16:21:06.803370+00:00"
-  },
-  {
-   "faits": [
-    "Les incendies en Espagne ont ravagé environ 77 000 hectares",
-    "63 000 personnes ont été évacuées en Espagne",
-    "Il s'agit du feu de forêt le plus important de l'histoire récente de l'Espagne selon le gouvernement",
-    "Les pompiers progressent face aux incendies"
-   ],
-   "qui": "Gouvernement espagnol",
-   "ou": "Espagne",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "781c23b6c841d058",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T12:07:23.188017+00:00"
   },
   {
    "faits": [
@@ -2815,26 +2841,6 @@
   },
   {
    "faits": [
-    "Zinédine Zidane est nommé nouveau sélectionneur de l'équipe de France de football"
-   ],
-   "qui": "Zinédine Zidane",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "32b759d21e5e6116",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T17:49:44.965824+00:00"
-  },
-  {
-   "faits": [
     "Des ossements de quatre nourrissons et le corps d'un cinquième ont été retrouvés au domicile d'un couple à Orange",
     "La mère de famille venait d'accoucher d'un bébé en bonne santé",
     "Le compagnon de la mère a fait la découverte des dépouilles",
@@ -2855,28 +2861,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T16:21:06.803372+00:00"
-  },
-  {
-   "faits": [
-    "Le nombre de demandeurs d'emploi sans aucune activité a augmenté de 0,8% au deuxième trimestre 2026",
-    "Trois mois plus tôt, une baisse de 1,2% des chômeurs de catégorie A avait été observée",
-    "Sur un an, le nombre de demandeurs d'emploi sans aucune activité a augmenté de 3,1%"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "3ba93a0ea4507518",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T12:07:23.188024+00:00"
   },
   {
    "faits": [
@@ -2921,31 +2905,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-28T14:34:23.021648+00:00"
-  },
-  {
-   "faits": [
-    "Des scientifiques et la Française de l'énergie affirment avoir découvert le plus grand gisement d'hydrogène naturel au monde",
-    "Le gisement se situe en Moselle, ancien bassin minier",
-    "La société espère obtenir rapidement un permis d'exploitation de l'État",
-    "La découverte est soutenue par les politiques locaux"
-   ],
-   "qui": "Française de l'énergie, scientifiques, autorités locales de Moselle",
-   "ou": "Moselle, France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Confirmation officielle du statut de plus grand gisement au monde"
-   ],
-   "importance": 70,
-   "empreinte": "1a822055ba94a569",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T12:07:23.188029+00:00"
   },
   {
    "faits": [
@@ -2997,6 +2956,28 @@
   },
   {
    "faits": [
+    "Keiko Fujimori a pris ses fonctions de présidente du Pérou le 28 juillet 2026",
+    "Elle promet de combattre la vague de criminalité qui frappe le pays",
+    "Elle appelle à la réconciliation malgré les critiques des défenseurs des droits humains"
+   ],
+   "qui": "Keiko Fujimori",
+   "ou": "Pérou",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "a937136f0d3636b7",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T18:59:51.276656+00:00"
+  },
+  {
+   "faits": [
     "Séisme de magnitude 7,1 a frappé le sud-ouest du Japon le 28 juillet",
     "Au moins un mort et des dizaines de blessés"
    ],
@@ -3018,52 +2999,25 @@
   },
   {
    "faits": [
-    "Deux individus, dont un mineur de 15 ans, ont été interpellés pour avoir déclenché plusieurs départs de feu",
-    "Ils sont suspectés d'être à l'origine de plusieurs incendies volontaires à Cuers et à Ollioules en juillet",
-    "Ils ont été déférés au parquet de Toulon à l'issue de leur garde à vue lundi"
+    "Pedro Sanchez, premier ministre socialiste espagnol, propose un « pacte d'État » pour l'urgence climatique",
+    "Ce pacte a été élaboré en 2025 avec la société civile et les scientifiques",
+    "La droite espagnole rejette ce pacte, qualifiée de climatosceptique"
    ],
-   "qui": "Deux pyromanes présumés (un mineur de 15 ans et un autre individu)",
-   "ou": "Var (Cuers, Ollioules, Toulon)",
-   "categorie": "justice",
-   "sensible": true,
+   "qui": "Pedro Sanchez",
+   "ou": "Espagne",
+   "categorie": "politique",
+   "sensible": false,
    "confiance": 85,
    "sources": [
-    "Le Figaro"
+    "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "0547fa04e570a11f",
+   "importance": 60,
+   "empreinte": "201e19979a3ff9d7",
    "score": 82,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T12:07:23.187091+00:00"
-  },
-  {
-   "faits": [
-    "Un séisme de magnitude 7,1 a frappé le sud-ouest du Japon mardi",
-    "Des bâtiments se sont effondrés, dont un centre commercial à Kashima",
-    "De nombreuses personnes sont piégées dans le centre commercial",
-    "La télévision nippone fait état de nombreux morts dans cet effondrement",
-    "La police locale s'est dite incapable de confirmer d'éventuelles victimes à ce stade"
-   ],
-   "qui": null,
-   "ou": "Japon (Kashima, sud-ouest)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Nombre exact de morts",
-    "Nombre exact de personnes piégées"
-   ],
-   "importance": 80,
-   "empreinte": "fe0b0973a75adff7",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T12:07:23.187137+00:00"
+   "depuis": "2026-07-28T18:59:51.277884+00:00"
   },
   {
    "faits": [
@@ -3085,6 +3039,30 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T16:21:06.803377+00:00"
+  },
+  {
+   "faits": [
+    "La Pologne demande officiellement l'extradition de Zbigniew Ziobro",
+    "Ziobro est ancien ministre de la Justice, actuellement réfugié aux États-Unis",
+    "Il est accusé de multiples malversations",
+    "Il était membre du parti conservateur-nationaliste polonais au pouvoir jusqu'en 2023",
+    "Il s'était réfugié en Hongrie puis aux États-Unis après sa mise en examen"
+   ],
+   "qui": "Zbigniew Ziobro",
+   "ou": "Pologne, États-Unis",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "a176d9c3c4c6dae8",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T18:59:51.276783+00:00"
   },
   {
    "faits": [
@@ -3133,6 +3111,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-28T17:49:44.965838+00:00"
+  },
+  {
+   "faits": [
+    "Les ventes de voitures Mercedes-Benz ont chuté de 26% au deuxième trimestre 2026",
+    "Le marché en Chine est devenu très concurrentiel et a plombé les ventes",
+    "Mercedes-Benz veut poursuivre ses mesures d'économie, notamment dans les usines allemandes"
+   ],
+   "qui": "Mercedes-Benz",
+   "ou": "Allemagne, Chine",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "b3cc44eca4807acb",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T18:59:51.277888+00:00"
   }
  ],
  "publies_48h": [
