@@ -8328,3 +8328,47 @@
 {"decision": "controle", "evt": "a9302a8eede6a258", "motif": "ok_sim_0.24", "ts": "2026-07-28T22:45:40+00:00"}
 {"decision": "publie", "empreinte": "3dbf76bb3b563ddb", "post_id": "2082236075980865911", "carte": true, "texte": "⚡ FLASH — Un mégafeu en Gironde a ravagé 42 000 hectares avec 14 reprises de feu le 28 juillet. Bien que stabilisé, un pic de chaleur mercredi aggravera le danger. Milliers de touristes évacués préventivement. (BFMTV, Ouest-France)", "ts": "2026-07-28T22:45:41+00:00"}
 {"decision": "publie", "empreinte": "4e49242195afa6aa", "post_id": "2082236092728697318", "carte": true, "texte": "🇫🇷 L'incendie de Gironde, stabilisé après 14 reprises de feu, a détruit 42 000 hectares, la plus grande superficie depuis 1949. En Var, le feu est fixé après l'évacuation de 5 000 personnes. 60 000 habitants peuvent rentrer chez eux.", "ts": "2026-07-28T22:45:45+00:00"}
+{"decision": "publier", "evt": "4f7d21f7c69d2643", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["Le Monde", "RFI", "BFMTV"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "577d2ea1aebb8ef8", "score": 87, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "e3e383ac0b862a07", "score": 97, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Le Monde", "Le Figaro", "20 Minutes"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "71c8c38be4ae3bc7", "score": 81, "categorie": "international", "sensible": true, "confiance": 83, "sources": ["RFI"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "917e55445958f4eb", "score": 79, "categorie": "politique", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "7bee6082490e5eac", "score": 76, "categorie": "faits_divers", "sensible": true, "confiance": 78, "sources": ["20 Minutes"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "a937136f0d3636b7", "score": 92, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Ouest-France", "RFI"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "54cc3fa86c6caecf", "score": 77, "categorie": "sante", "sensible": false, "confiance": 82, "sources": ["Ouest-France"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "773fada0c387af8b", "score": 83, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "94dc74bdb4957b0a", "score": 78, "categorie": "sport", "sensible": false, "confiance": 83, "sources": ["RFI"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "88e093f928cf24ff", "score": 78, "categorie": "sport", "sensible": false, "confiance": 87, "sources": ["L'Équipe"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "223341f92edae90b", "score": 78, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "32b759d21e5e6116", "score": 95, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["France 24", "RFI"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "534a65a5220f9bf5", "score": 94, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["Le Monde", "RFI"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "39d2b1caf3d17950", "score": 93, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["Ouest-France", "20 Minutes"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "7fae7d24a1bc86ee", "score": 91, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 95, "sources": ["franceinfo"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "b29619e12992a488", "score": 87, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "60ed1d3c427a0792", "score": 87, "categorie": "deces_personnalite", "sensible": true, "confiance": 95, "sources": ["Le Monde"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "176c339aa1b16d14", "score": 87, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "72ac9c73fbdcf6a7", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["RFI"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "228237d06f552604", "score": 86, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "6666258581925cbb", "score": 85, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "67552667c19b5aec", "score": 85, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "274816470617da48", "score": 85, "categorie": "faits_divers", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "1296b795894147e5", "score": 84, "categorie": "sport", "sensible": false, "confiance": 93, "sources": ["20 Minutes"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "006b31f614420830", "score": 84, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "fe13ade95af127ac", "score": 84, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "0f155d9a277f58c2", "score": 84, "categorie": "economie", "sensible": false, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "9345795669592b6c", "score": 83, "categorie": "faits_divers", "sensible": true, "confiance": 87, "sources": ["France 24"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "467406c50298a28a", "score": 83, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "dfd311fbfb88d6d9", "score": 82, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 87, "sources": ["BFMTV"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "47e3dabd59aa5731", "score": 82, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "c57c3bce58fa04d4", "score": 82, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "9e3513ca0e4db956", "score": 82, "categorie": "politique", "sensible": false, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "7b94e17286f19288", "score": 80, "categorie": "justice", "sensible": true, "confiance": 83, "sources": ["20 Minutes"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "a78ebdf4299c94a4", "score": 78, "categorie": "culture", "sensible": false, "confiance": 85, "sources": ["20 Minutes"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "00ee2d89bf62a014", "score": 77, "categorie": "sciences", "sensible": false, "confiance": 82, "sources": ["Ouest-France"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "3eb7ca9c87af13f6", "score": 76, "categorie": "justice", "sensible": true, "confiance": 82, "sources": ["BFMTV"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "publier", "evt": "bdec71270f82f745", "score": 76, "categorie": "international", "sensible": false, "confiance": 78, "sources": ["BFMTV"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "attente", "evt": "5b45d64a54fc5f16", "score": 72, "categorie": "faits_divers", "sensible": false, "confiance": 78, "sources": ["BFMTV"], "ts": "2026-07-28T23:45:55+00:00"}
+{"decision": "controle", "evt": "4f7d21f7c69d2643", "motif": "ok_sim_0.34", "ts": "2026-07-28T23:46:01+00:00"}
+{"decision": "controle", "evt": "e3e383ac0b862a07", "motif": "ok_sim_0.47", "ts": "2026-07-28T23:46:04+00:00"}
+{"decision": "publie", "empreinte": "879cbc1f900116e5", "post_id": "2082251277145383378", "carte": true, "texte": "La Gironde face à une nouvelle vague : 14 reprises de feu mardi, 42 000 hectares brûlés, 60 000 évacués. Depuis janvier, plus de 116 000 hectares ont brûlé en France. Dégâts estimés à plusieurs centaines de millions à des milliards d'euros. (Le Monde, RFI)", "ts": "2026-07-28T23:46:05+00:00"}
+{"decision": "publie", "empreinte": "f451e4272305e7b5", "post_id": "2082251293608001677", "carte": true, "texte": "L'armée américaine affirme avoir intercepté des missiles lancés par l'Iran contre ses forces déployées au Moyen-Orient. Ce regain de tension intervient après plusieurs jours d'accalmie dans la région. (Le Monde, Le Figaro, 20 Minutes)", "ts": "2026-07-28T23:46:09+00:00"}

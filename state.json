@@ -524,10 +524,12 @@
    "https://www.lemonde.fr/afrique/article/2026/07/28/guerre-au-soudan-l-armee-fait-une-avancee-strategique-apres-des-mois-de-gel-du-front_6735364_3212.html",
    "https://www.lemonde.fr/societe/article/2026/07/28/patrick-bruel-sous-le-coup-de-deux-nouvelles-plaintes-pour-viol-et-agression-sexuelle_6735570_3224.html",
    "https://www.lemonde.fr/disparitions/article/2026/07/28/betye-saar-figure-tutelaire-de-l-art-afro-americain-est-morte_6735604_3382.html",
-   "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-une-reforme-pour-accelerer-l-expulsion-des-demandeurs-d-asile_6735606_3210.html"
+   "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-une-reforme-pour-accelerer-l-expulsion-des-demandeurs-d-asile_6735606_3210.html",
+   "https://www.lemonde.fr/planete/live/2026/07/29/en-direct-incendies-14-reprises-de-feu-ont-ete-constatees-mardi-en-gironde-mais-le-feu-est-toujours-stabilise-selon-la-prefete-dans-le-var-le-feu-du-gros-bessillon-est-fixe_6730417_3244.html",
+   "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-salue-sa-belle-rencontre-avec-donald-trump-a-la-maison-blanche_6732775_3210.html",
+   "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-intercepte-des-missiles-lances-par-l-iran_6725301_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/faits-divers/il-faut-parfois-se-rendre-a-l-evidence-pourquoi-les-fouilles-pour-retrouver-le-corps-de-delphine-jubillar-ont-ete-interrompues-si-vite-20260721",
    "https://madame.lefigaro.fr/bien-etre/psycho/voici-les-4-vrais-signes-qui-permettent-de-reperer-un-menteur-20260721",
    "https://www.lefigaro.fr/politique/victime-d-une-tentative-de-piratage-le-rn-ecarte-une-exposition-massive-de-donnees-personnelles-20260721",
    "https://www.lefigaro.fr/faits-divers/biarritz-deux-animateurs-d-un-centre-de-loisirs-places-en-garde-a-vue-pour-suspicions-de-viol-et-d-agressions-sexuelles-20260721",
@@ -826,7 +828,8 @@
    "https://www.lefigaro.fr/economie/incendies-en-gironde-quelles-mesures-d-aide-pour-les-entreprises-touchees-20260728",
    "https://sante.lefigaro.fr/psychologie/complice-d-un-systeme-monstrueux-hans-asperger-le-psychiatre-qui-triait-les-enfants-pour-le-reich-20260728",
    "https://www.lefigaro.fr/international/lentement-mais-surement-vladimir-poutine-perd-l-empire-qu-il-voulait-recreer-20260728",
-   "https://www.lefigaro.fr/secteur/high-tech/claude-mythos-peut-il-detruire-l-economie-mondiale-et-les-communications-l-ia-d-anthropic-a-compromis-les-mecanismes-secrets-qui-securisent-internet-20260728"
+   "https://www.lefigaro.fr/secteur/high-tech/claude-mythos-peut-il-detruire-l-economie-mondiale-et-les-communications-l-ia-d-anthropic-a-compromis-les-mecanismes-secrets-qui-securisent-internet-20260728",
+   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-armee-americaine-annonce-avoir-intercepte-des-missiles-lances-par-l-iran-20260729"
   ],
   "https://www.france24.com/fr/rss": [
    "d27a8f80-850c-11f1-a505-6d6ddca8d8eb",
@@ -1131,11 +1134,6 @@
    "058faf92-8ace-11f1-a14f-0584dd957e07"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "03fb78bc-8120-11f1-abe5-cf7a6a208f38",
-   "edc6d0bc-811c-11f1-a62b-6d02e2a4e797",
-   "e7646350-8118-11f1-a3fa-e760eed65cff",
-   "14e4d67c-8063-11f1-85b9-81979923eb4d",
-   "c51e5baa-811a-11f1-a306-57e3f657aba9",
    "6a0b4762-8068-11f1-8804-1dd3a32f23a0",
    "8242de4a-8139-11f1-8de6-fb4ecbf8fe54",
    "4ef57fae-8100-11f1-9b6e-6937b7331399",
@@ -1430,11 +1428,14 @@
    "48027d12-8a5d-11f1-9ab5-935daff9a065",
    "a642040c-89f8-11f1-b302-55a3ef88b1dc",
    "57c02206-8a60-11f1-a582-412fc4e81f3f",
-   "87664a02-8a75-11f1-89aa-af282fec2330"
+   "87664a02-8a75-11f1-89aa-af282fec2330",
+   "87e0abee-8acf-11f1-b8ef-abc1da5a7c38",
+   "87b16188-8ac8-11f1-993b-159e0af4887a",
+   "fcbd40e6-8a82-11f1-88cb-d3361f69d26d",
+   "aacd5484-8a8b-11f1-b064-25185957deb4",
+   "229ac2ca-8ac9-11f1-8c91-159e0af4887a"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/football/transferts/mercato-presnel-kimpembe-quitte-le-qatar-sc-apres-une-saison-seulement-391e4b16-8547-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/environnement/ecologie/transition-ecologique/loi-durgence-agricole-monique-barbut-ministre-de-la-transition-ecologique-demissionnera-dici-a-mercredi-matin-a1506a10-84e4-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/basket/victor-wembanyama/basket-victor-wembanyama-de-retour-avec-lequipe-de-france-une-tres-bonne-nouvelle-pour-son-selectionneur-9d377306-853e-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/coupe-du-monde-la-politique-ne-doit-pas-eclipser-le-jeu-sepp-blatter-dresse-un-constat-amer-du-mondial-2026-212aecde-8543-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/vous-nous-aidez-a-etre-un-peu-plus-fiers-detre-argentins-la-reponse-dun-joueur-aux-critiques-envers-largentine-32d156a4-8542-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1732,7 +1733,9 @@
    "https://www.ouest-france.fr/sport/tennis/tennis-le-fils-de-lleyton-hewitt-cruz-simpose-pour-la-premiere-fois-sur-le-circuit-atp-374e631e-8ac1-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/pedocriminalite/un-animateur-periscolaire-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-mineurs-dans-le-var-414271e6-8ab0-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/meteo/canicule/la-canicule-de-retour-apres-un-repit-de-dix-jours-4b7733ce-8ad1-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/kenya/le-kenya-enquete-sur-la-mort-de-15-elephants-en-un-mois-dans-le-parc-damboseli-8a3c147e-8ace-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/monde/kenya/le-kenya-enquete-sur-la-mort-de-15-elephants-en-un-mois-dans-le-parc-damboseli-8a3c147e-8ace-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/perou/perou-keiko-fujimori-investie-nouvelle-presidente-avec-la-criminalite-en-ligne-de-mire-d5cc47d0-8adb-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/etats-unis/les-etats-unis-vont-retablir-600-millions-de-dollars-de-financement-a-lalliance-du-vaccin-1c13f4ce-8ada-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1967,7 +1970,9 @@
    "https://www.20minutes.fr/justice/4236774-20260729-pedocriminalite-924-personnes-incarcerees-deux-mois-depuis-affaire-lyhanna?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/diaporama-4236499-images-huit-forteresses-royales-languedoc-classees-patrimoine-mondial-unesco?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4162766-20250709-incendies-fixe-circonscrit-maitrise-explique-vocabulaire-pompiers?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/etats-unis/4236773-20260728-etats-unis-administration-trump-annonce-acceleration-expulsions-demandeurs-asile?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/etats-unis/4236773-20260728-etats-unis-administration-trump-annonce-acceleration-expulsions-demandeurs-asile?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4236625-20260728-direct-guerre-moyen-orient-benyamin-netanyahou-va-rencontrer-donald-trump-maison-blanche?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/faits_divers/4236762-20260728-apres-attaque-couteau-paris-suspect-sort-garde-vue-raison-psychiatrique?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2221,7 +2226,8 @@
    "https://www.bfmtv.com/loto/resultats-euro-millions-fdj-le-tirage-du-mardi-28-juillet-2026_AN-202607280021.html",
    "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-on-gere-l-urgence-c-est-du-h24-temoigne-le-maire-du-temple-olivier-halard_VN-202607280582.html",
    "https://www.bfmtv.com/var/l-animateur-periscolaire-de-hyeres-soupconne-de-violences-sexuelles-mis-en-examen-pour-trois-affaires_AN-202607280580.html",
-   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-plusieurs-reprises-de-feu-sont-en-cours-dans-le-secteur_VN-202607280578.html"
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-plusieurs-reprises-de-feu-sont-en-cours-dans-le-secteur_VN-202607280578.html",
+   "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-reprises-de-feu-en-serie-le-cauchemar-sans-fin-28-07_VN-202607280605.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2431,57 +2437,17 @@
    "https://www.lequipe.fr/Football/Actualites/L-ancien-selectionneur-du-bresil-carlos-alberto-parreira-a-quitte-les-soins-intensifs/1707480",
    "https://www.lequipe.fr/Football/Video/Premier-league-liverpool-robbie-fowler-ce-que-propose-iraola-c-est-ce-que-je-veux-voir-a-liverpool/20238330",
    "https://www.lequipe.fr/Football/Actualites/Mercato-les-plus-gros-transferts-avortes-du-psg-avant-yan-diomande-depuis-le-debut-de-l-ere-qsi/1707387",
-   "https://www.lequipe.fr/Football/Actualites/Apres-l-echec-de-la-piste-andrea-pirlo-paolo-maldini-et-leonardo-demissionnent-de-la-federation-italienne-de-football/1707467"
+   "https://www.lequipe.fr/Football/Actualites/Apres-l-echec-de-la-piste-andrea-pirlo-paolo-maldini-et-leonardo-demissionnent-de-la-federation-italienne-de-football/1707467",
+   "https://www.lequipe.fr/Football/Actualites/Can-feminine-le-malawi-cree-une-surprise-historique-contre-le-nigeria-la-zambie-portee-par-barbra-banda-deroule-face-a-l-egypte/1707693",
+   "https://www.lequipe.fr/Football/Article/Mercato-meme-si-l-attaquant-du-psg-bradley-barcola-a-choisi-liverpool-son-transfert-est-loin-d-etre-acte/1707646",
+   "https://www.lequipe.fr/Football/Actualites/Le-dinamo-zagreb-eteint-les-reves-de-thoune-au-2e-tour-preliminaire-de-ligue-des-champions-c-est-aussi-fini-pour-hearts/1707689",
+   "https://www.lequipe.fr/Football/Actualites/Dino-toppmoller-apres-la-qualification-de-lens-pour-la-finale-de-la-como-cup-on-a-souvent-cree-de-la-superiorite-au-milieu-du-terrain/1707688",
+   "https://www.lequipe.fr/Football/Article/Vente-ineluctable-jackpot-en-vue-et-nouveau-depart-d-un-cadre-lens-doit-faire-face-au-possible-transfert-de-mamadou-sangare/1707683",
+   "https://www.lequipe.fr/Football/Actualites/Battu-aux-tirs-au-but-par-famalicao-lens-est-quand-meme-qualifie-pour-la-finale-de-la-como-cup/1707685"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Zinédine Zidane a été nommé sélectionneur de l'équipe de France le 28 juillet 2026",
-    "Il est une légende nationale en tant que joueur et entraîneur à succès avec le Real Madrid"
-   ],
-   "qui": "Zinédine Zidane",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "32b759d21e5e6116",
-   "score": 95,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-28T18:59:51.277863+00:00"
-  },
-  {
-   "faits": [
-    "L'armée américaine affirme avoir dérouté 18 navires commerciaux depuis le début du blocus des ports iraniens",
-    "Le commandement militaire conjoint iranien déclare que les entreprises ou pays recevant des avoirs iraniens gelés ne pourront pas transiter par le détroit d'Ormuz",
-    "Benjamin Netanyahu et Donald Trump réaffirment leur engagement à empêcher l'Iran d'avoir l'arme nucléaire",
-    "Le ministre iranien des Affaires étrangères Abbas Araghchi s'est entretenu avec ses homologues omanais et saoudien au sujet du détroit d'Ormuz"
-   ],
-   "qui": "États-Unis, Iran, Israël",
-   "ou": "Moyen-Orient, détroit d'Ormuz",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Le Monde",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "534a65a5220f9bf5",
-   "score": 94,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-28T18:59:51.277866+00:00"
-  },
   {
    "faits": [
     "Séisme de magnitude 7,1 au sud du Japon, préfecture de Kumamoto",
@@ -2509,6 +2475,30 @@
    "fiab_max": 80,
    "nb_sources": 2,
    "depuis": "2026-07-28T21:44:09.006468+00:00"
+  },
+  {
+   "faits": [
+    "Keiko Fujimori a été investie nouvelle présidente du Pérou",
+    "Elle a annoncé que les militaires assumeront le maintien de l'ordre",
+    "Les zones visées sont affectées par les gangs, le narcotrafic et l'extraction minière illégale",
+    "La fermeté contre la criminalité était l'une de ses principales promesses électorales"
+   ],
+   "qui": "Keiko Fujimori",
+   "ou": "Pérou",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France",
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "a937136f0d3636b7",
+   "score": 92,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-28T23:46:04.768322+00:00"
   },
   {
    "faits": [
@@ -2561,6 +2551,32 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-28T18:59:51.276701+00:00"
+  },
+  {
+   "faits": [
+    "Volodymyr Zelensky a eu une rencontre avec Donald Trump à la Maison Blanche",
+    "Zelensky la qualifie de « belle rencontre »",
+    "Discussion sur les licences de production d'intercepteurs pour les missiles Patriot",
+    "Discussion sur des idées pour aider l'Ukraine",
+    "Discussion sur la diplomatie"
+   ],
+   "qui": "Volodymyr Zelensky, Donald Trump",
+   "ou": "Maison Blanche (États-Unis)",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Détails précis des autres idées discutées"
+   ],
+   "importance": 80,
+   "empreinte": "577d2ea1aebb8ef8",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T23:46:04.768327+00:00"
   },
   {
    "faits": [
@@ -2869,6 +2885,29 @@
   },
   {
    "faits": [
+    "La Zambie a remporté une victoire 6-0 contre l'Égypte à la CAN féminine",
+    "Barbra Banda a marqué un quadruplé lors du match",
+    "Le Nigeria, grand favori du tournoi, a perdu 3-2 contre le Malawi",
+    "Le Malawi crée une surprise historique"
+   ],
+   "qui": "Zambie, Égypte, Nigeria, Malawi, Barbra Banda",
+   "ou": "CAN féminine",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "773fada0c387af8b",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T23:46:04.768349+00:00"
+  },
+  {
+   "faits": [
     "Un séisme de magnitude 7,1 a frappé l'île de Kyushu le 28 juillet",
     "Au moins trois morts sont confirmés",
     "Des dizaines de personnes ont été hospitalisées",
@@ -2893,28 +2932,6 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-28T22:45:30.520553+00:00"
-  },
-  {
-   "faits": [
-    "Keiko Fujimori a pris ses fonctions de présidente du Pérou le 28 juillet 2026",
-    "Elle promet de combattre la vague de criminalité qui frappe le pays",
-    "Elle appelle à la réconciliation malgré les critiques des défenseurs des droits humains"
-   ],
-   "qui": "Keiko Fujimori",
-   "ou": "Pérou",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "a937136f0d3636b7",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T18:59:51.276656+00:00"
   },
   {
    "faits": [
@@ -2984,6 +3001,30 @@
   },
   {
    "faits": [
+    "Des centaines de prisonniers sont en grève de la faim depuis 15 jours",
+    "La grève de la faim a lieu dans une prison proche de Téhéran",
+    "Les prisonniers réclament l'arrêt des exécutions",
+    "Les exécutions ont explosé en Iran cette année",
+    "Des vidéos ont été sorties de l'établissement pour attirer l'attention"
+   ],
+   "qui": "Centaines de prisonniers, autorités iraniennes",
+   "ou": "Prison proche de Téhéran, Iran",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 83,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "71c8c38be4ae3bc7",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T23:45:55.909819+00:00"
+  },
+  {
+   "faits": [
     "Depuis le 8 juin, une revue nationale des plaintes pour violences sexuelles sur mineurs a conduit à 924 incarcérations",
     "Près de 1.700 informations judiciaires ont été ouvertes",
     "Le bilan a été présenté le 28 juillet par le ministère de la Justice"
@@ -3006,6 +3047,100 @@
   },
   {
    "faits": [
+    "Aux États-Unis, des électeurs de gauche s'arment par crainte de la radicalisation trumpiste",
+    "Les armes à feu séduisent de plus en plus l'électorat progressiste",
+    "Les personnes de couleur et LGBTQ+ achètent de plus en plus d'armes",
+    "Cette tendance s'est accentuée depuis la réélection de Donald Trump en novembre 2024"
+   ],
+   "qui": "Électeurs progressistes, personnes de couleur, LGBTQ+",
+   "ou": "États-Unis, Lancaster (Pennsylvanie)",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "917e55445958f4eb",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T23:46:04.768355+00:00"
+  },
+  {
+   "faits": [
+    "Quentin Bigot, ancien athlète de haut niveau, est devenu maire de Gandrange",
+    "Il a participé à deux Jeux olympiques dans l'épreuve du lancer de marteau",
+    "Il a été élu maire en mars 2026",
+    "Gandrange est une ville de 3 000 habitants en Moselle",
+    "La ville était un fief de la sidérurgie française avant sa fermeture"
+   ],
+   "qui": "Quentin Bigot",
+   "ou": "Gandrange, Moselle, France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 83,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "94dc74bdb4957b0a",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T23:46:04.768357+00:00"
+  },
+  {
+   "faits": [
+    "RC Lens s'est qualifié pour la finale de la Como Cup",
+    "Lens a battu Crystal Palace 3-0",
+    "Lens a été battu par Famalicao aux tirs au but (0-0, 7-8 aux t.a.b.)",
+    "Lens a terminé premier de son groupe",
+    "Lens jouera la finale samedi"
+   ],
+   "qui": "RC Lens, Crystal Palace, Famalicao",
+   "ou": "Como Cup",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 87,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "88e093f928cf24ff",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T23:46:04.768359+00:00"
+  },
+  {
+   "faits": [
+    "Le FC Thoune, champion de Suisse, a été éliminé du 2e tour préliminaire de Ligue des champions",
+    "Thoune menait 2-0 sur la pelouse du Dinamo Zagreb mais a perdu 3-2 a.p.",
+    "Le match retour s'était terminé 1-1",
+    "Hearts a également été éliminé du tournoi"
+   ],
+   "qui": "FC Thoune, Dinamo Zagreb, Hearts",
+   "ou": "Ligue des champions",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "223341f92edae90b",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T23:46:04.768361+00:00"
+  },
+  {
+   "faits": [
     "Les huit forteresses royales du Languedoc ont été inscrites au patrimoine mondial de l'Unesco",
     "L'inscription a eu lieu dimanche avant le 28 juillet",
     "Le département de l'Aude a travaillé sur ce projet pendant plus de dix-sept ans"
@@ -3025,110 +3160,9 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-28T22:45:40.487756+00:00"
-  },
-  {
-   "faits": [
-    "Une enquête a été ouverte sur la mort inexpliquée de 15 éléphants",
-    "Les décès se sont produits en un mois dans le parc d'Amboseli au Kenya",
-    "L'annonce a été faite le 28 juillet par le service de protection de la vie sauvage du Kenya (KWS)"
-   ],
-   "qui": "KWS (Kenya Wildlife Service)",
-   "ou": "Parc d'Amboseli, Kenya",
-   "categorie": "sciences",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "Causes de la mort des éléphants"
-   ],
-   "importance": 62,
-   "empreinte": "00ee2d89bf62a014",
-   "score": 77,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T22:45:40.487758+00:00"
-  },
-  {
-   "faits": [
-    "Un animateur périscolaire de Hyères a été mis en examen le 28 juillet",
-    "Il est soupçonné de violences sexuelles",
-    "Il a été mis en examen pour trois affaires de viols et d'agressions sexuelles",
-    "Il est placé sous contrôle judiciaire"
-   ],
-   "qui": "Animateur périscolaire de Hyères",
-   "ou": "Hyères, France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "3eb7ca9c87af13f6",
-   "score": 76,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T22:45:30.520740+00:00"
-  },
-  {
-   "faits": [
-    "Benjamin Netanyahu affirme avoir eu 'la meilleure des conversations' avec Donald Trump",
-    "La rencontre a porté sur un 'objectif commun: s'assurer que l'Iran ne se dote pas d'armes nucléaires'"
-   ],
-   "qui": "Benjamin Netanyahu, Donald Trump",
-   "ou": "États-Unis, Israël",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 78,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "bdec71270f82f745",
-   "score": 76,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T22:45:40.487760+00:00"
-  },
-  {
-   "faits": [
-    "Ariana Grande a porté plainte contre deux hackeurs",
-    "Les hackeurs sont soupçonnés d'avoir volé des chansons et des contenus privés",
-    "Des vidéos, enregistrements audios et photos privés d'Ariana Grande auraient été divulgués",
-    "Son nouvel album 'Petal' doit sortir le 31 juillet"
-   ],
-   "qui": "Ariana Grande, deux hackeurs",
-   "ou": null,
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 78,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Identité des hackeurs"
-   ],
-   "importance": 55,
-   "empreinte": "5b45d64a54fc5f16",
-   "score": 72,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T22:45:30.520771+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "aadad54d22c1e7bc",
-   "2026-07-26T23:17:16.295721+00:00"
-  ],
-  [
-   "184e2f8bd4472b50",
-   "2026-07-26T23:17:20.428268+00:00"
-  ],
   [
    "37458f65c860cafb",
    "2026-07-27T01:02:24.479331+00:00"
@@ -3200,17 +3234,17 @@
   [
    "4e49242195afa6aa",
    "2026-07-28T22:45:45.531463+00:00"
+  ],
+  [
+   "879cbc1f900116e5",
+   "2026-07-28T23:46:05.751154+00:00"
+  ],
+  [
+   "f451e4272305e7b5",
+   "2026-07-28T23:46:09.656339+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "1e16e0d9e6419ed6",
-   "2026-07-26T23:17:11.527601+00:00"
-  ],
-  [
-   "d2912757e8ea8860",
-   "2026-07-26T23:17:15.026649+00:00"
-  ],
   [
    "0e62126cc343bc15",
    "2026-07-27T01:02:19.872264+00:00"
@@ -3282,16 +3316,26 @@
   [
    "a9302a8eede6a258",
    "2026-07-28T22:45:40.487717+00:00"
+  ],
+  [
+   "4f7d21f7c69d2643",
+   "2026-07-28T23:46:01.553271+00:00"
+  ],
+  [
+   "e3e383ac0b862a07",
+   "2026-07-28T23:46:04.768309+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚡ FLASH — Un mégafeu en Gironde a ravagé 42 000 hectares avec 14 reprises de feu le 28 juillet. Bien que stabilisé, un pic de chaleur mercredi aggravera le danger. Milliers de touristes évacués préventivement. (BFMTV, Ouest-France)",
-  "🇫🇷 L'incendie de Gironde, stabilisé après 14 reprises de feu, a détruit 42 000 hectares, la plus grande superficie depuis 1949. En Var, le feu est fixé après l'évacuation de 5 000 personnes. 60 000 habitants peuvent rentrer chez eux."
+  "🇫🇷 L'incendie de Gironde, stabilisé après 14 reprises de feu, a détruit 42 000 hectares, la plus grande superficie depuis 1949. En Var, le feu est fixé après l'évacuation de 5 000 personnes. 60 000 habitants peuvent rentrer chez eux.",
+  "La Gironde face à une nouvelle vague : 14 reprises de feu mardi, 42 000 hectares brûlés, 60 000 évacués. Depuis janvier, plus de 116 000 hectares ont brûlé en France. Dégâts estimés à plusieurs centaines de millions à des milliards d'euros. (Le Monde, RFI)",
+  "L'armée américaine affirme avoir intercepté des missiles lancés par l'Iran contre ses forces déployées au Moyen-Orient. Ce regain de tension intervient après plusieurs jours d'accalmie dans la région. (Le Monde, Le Figaro, 20 Minutes)"
  ],
  "recap_date": "2026-07-28",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-29",
-  "publies": 2
+  "publies": 4
  }
 }
