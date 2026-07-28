@@ -7877,3 +7877,42 @@
 {"decision": "controle", "evt": "429314180f685cb3", "motif": "ok_sim_0.12+alerte_retrogradee", "ts": "2026-07-27T23:41:06+00:00"}
 {"decision": "publie", "empreinte": "210b0d16aff0cb42", "post_id": "2081887639016292437", "carte": true, "texte": "🇬🇧 Le Premier ministre britannique Andy Burnham a reçu le président ukrainien Zelensky une semaine après sa prise de fonction. Il a réaffirmé le soutien de Londres à Kiev « à 100 % ». (RFI, 20 Minutes)", "ts": "2026-07-27T23:41:07+00:00"}
 {"decision": "publie", "empreinte": "0abe4498753f06c8", "post_id": "2081887655936032890", "carte": true, "texte": "⚡ FLASH — Un incendie ravage 42 000 hectares en Gironde près de Bordeaux. Des reprises de feu persistaient lundi à Saint-Jean-d'Illac malgré une situation stabilisée. Les trajets ferroviaires au sud sont perturbés. (Ouest-France, 20 Minutes)", "ts": "2026-07-27T23:41:11+00:00"}
+{"decision": "abandon_attente", "evt": "e217cd1bed8fc173", "categorie": "meteo_catastrophe", "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "abandon_attente", "evt": "9f77e3dce19a73ab", "categorie": "faits_divers", "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "2a54a4a4c0d9f14e", "score": 83, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "16fb63d962e14085", "score": 77, "categorie": "faits_divers", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "f93f5762643b9bb4", "score": 76, "categorie": "deces_personnalite", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "7eeea7db56065774", "score": 74, "categorie": "international", "sensible": false, "confiance": 70, "sources": ["20 Minutes"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "100c257841e435ed", "score": 70, "categorie": "autre", "sensible": false, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "a748d1a60b55c90d", "score": 89, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["Le Figaro", "BFMTV"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "4feb455baa16706c", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "938b9d3f721558ff", "score": 83, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "b5915928bddd0d5f", "score": 83, "categorie": "deces_personnalite", "sensible": true, "confiance": 90, "sources": ["Le Figaro"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "0363bb37d4275cf5", "score": 83, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "9039be1feb723172", "score": 82, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "d154e79e93ab2d03", "score": 81, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "a6c1a1554a6960dd", "score": 81, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "7f9052e82983ece1", "score": 81, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "a60d1ab28e9d8c4f", "score": 81, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "d2a507a05741d6ff", "score": 81, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["France 24"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "47c4c68027c93360", "score": 80, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "bd03fb2bf63e461a", "score": 80, "categorie": "sciences", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "4eb0c5dd499b861d", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "ea8745ffab274169", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "577d2ea1aebb8ef8", "score": 80, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "d8ad6a07b9df1d33", "score": 80, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "88bd75431481cfbd", "score": 80, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "463fc48f7f1f7aef", "score": 79, "categorie": "sante", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "b8fa159dcb868599", "score": 78, "categorie": "international", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "cef605b9a033f1a2", "score": 78, "categorie": "justice", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "317f9dc72566177a", "score": 78, "categorie": "faits_divers", "sensible": true, "confiance": 85, "sources": ["20 Minutes"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "fbf188010e048c67", "score": 78, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 85, "sources": ["20 Minutes"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "3c8aa52da6a7e093", "score": 77, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["France 24"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "2236137523aa80b1", "score": 77, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 82, "sources": ["Ouest-France"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "762e0556842eb0e3", "score": 77, "categorie": "sport", "sensible": false, "confiance": 82, "sources": ["BFMTV"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "publier", "evt": "2d508c40508c602e", "score": 76, "categorie": "international", "sensible": false, "confiance": 78, "sources": ["France 24"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "attente", "evt": "9ff300cbdeedcbc1", "score": 68, "categorie": "politique", "sensible": false, "confiance": 72, "sources": ["BFMTV"], "ts": "2026-07-28T01:10:00+00:00"}
+{"decision": "controle", "evt": "a748d1a60b55c90d", "motif": "ok_sim_0.00", "ts": "2026-07-28T01:10:07+00:00"}
+{"decision": "controle", "evt": "9039be1feb723172", "motif": "ok_sim_0.00", "ts": "2026-07-28T01:10:12+00:00"}
+{"decision": "publie", "empreinte": "b98bb490eed05c4d", "post_id": "2081910060943356329", "carte": true, "texte": "⚖️ Le chanteur américain D4vd, 21 ans, sera jugé pour le meurtre de l'adolescente Celeste Rivas Hernandez. Il est accusé de l'avoir poignardée à mort. D4vd encourt l'emprisonnement à perpétuité ou la peine de mort. (Le Figaro, BFMTV)", "ts": "2026-07-28T01:10:13+00:00"}
+{"decision": "publie", "empreinte": "9549eaa0bb6c65a7", "post_id": "2081910077510812143", "carte": true, "texte": "Après un incendie dévastateur, La Plaine-sur-Mer (Loire-Atlantique) renforce ses contrôles de débroussaillement. Près de 80 signalements de défauts ont été transmis à la mairie cet été. (Le Figaro)", "ts": "2026-07-28T01:10:17+00:00"}
