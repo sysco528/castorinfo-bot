@@ -2,14 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/sante/l-obligation-vaccinale-contre-la-grippe-recommandee-par-la-has-est-une-bonne-chose-pour-le-syndicat-national-des-professionnels-infirmiers_8115509.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-10-morts-les-recherches-de-survivants-se-poursuivent_8115488.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-var-le-feu-a-taradeau-et-aux-arcs-desormais-fixe-mais-la-vigilance-reste-de-mise-indique-la-prefecture_8115503.html#xtor=RSS-3-[lestitres]",
-   "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/un-incendie-est-en-cours-dans-un-camp-de-roms-a-nantes-3389503.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/bebes-mort-nes-meres-grievement-blessees-en-angleterre-les-defaillances-des-maternites-au-c-ur-d-un-scandale-national_8115566.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-14-personnes-sont-mortes-lundi-dans-des-frappes-russes-et-ukrainiennes_8115578.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/une-tempete-au-chili-fait-au-moins-quatre-morts-et-d-importants-degats-l-etat-de-catastrophe-decrete-dans-le-nord-du-pays_8115554.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/usa/donald-trump-va-imposer-50-de-droits-de-douane-sur-une-serie-de-produits-issus-du-canada_8115587.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/l-assemblee-nationale-adopte-le-projet-de-loi-d-urgence-agricole-malgre-la-reintroduction-a-titre-derogatoire-de-pesticides_8115608.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/stockage-de-l-eau-reintroduction-de-pesticides-protection-des-loups-voici-ce-que-contient-le-projet-de-loi-d-urgence-agricole-adopte-a-l-assemblee-nationale_8114837.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/crise-climatique/grand-format-nes-dans-les-annees-1950-1970-ou-encore-1990-comparez-les-temperatures-des-etes-de-votre-enfance-a-celles-d-aujourd-hui_8096318.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +293,15 @@
    "https://www.franceinfo.fr/faits-divers/un-pompier-volontaire-meurt-dans-un-accident-de-la-route-dans-les-bouches-du-rhone_8124596.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/feux-zombies-gestion-des-lisieres-noyage-du-combustible-comment-les-pompiers-s-assurent-ils-qu-un-incendie-soit-bien-eteint-et-ne-reparte-pas_8115326.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/des-resineux-hautement-inflammables-plantes-de-facon-homogene-comment-la-monoculture-de-pins-maritimes-en-gironde-et-dans-les-landes-favorise-les-incendies_8123978.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/franz-beckenbauer-michel-platini-diego-maradona-ces-legendes-du-football-qui-sont-devenus-selectionneurs-avec-plus-ou-moins-de-reussite_8124125.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/foot/franz-beckenbauer-michel-platini-diego-maradona-ces-legendes-du-football-qui-sont-devenus-selectionneurs-avec-plus-ou-moins-de-reussite_8124125.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-la-situation-reste-tres-imprevisible-en-gironde-ou-le-retour-de-la-chaleur-fait-craindre-une-nouvelle-aggravation_8124866.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/nous-sommes-tres-vigilants-sur-la-pollution-de-l-air-consequence-des-incendies-dans-le-sud-ouest-assure-la-ministre-de-la-sante_8125025.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/incendie-en-gironde-pourquoi-les-normes-de-debroussaillement-sont-elles-critiquees_8124434.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/vu-l-ampleur-des-incendies-la-saison-touristique-est-terminee-regrette-le-president-du-syndicat-d-hotellerie-de-plein-air-de-gironde_8125004.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/mort-de-quentin-militant-identitaire-agresse-a-lyon/deux-des-mis-en-examen-dans-la-mort-de-quentin-deranque-deposent-plainte-contre-des-militants-d-ultradroite-pour-des-violences_8124980.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/soldes/malgre-des-soldes-d-ete-en-berne-les-centres-commerciaux-attestent-de-tres-bonnes-performances_8124479.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/otan/role-des-etats-unis-dans-l-otan-washington-lance-l-examen-de-sa-presence-militaire-en-europe_8124905.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-le-martinet-est-clairement-en-train-de-s-effondrer-dans-le-rhone-un-centre-de-soins-pour-animaux-sauvages-s-alarme-des-effets-des-canicules-sur-les-animaux_8124884.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -486,12 +486,6 @@
    "https://www.lemonde.fr/series-d-ete/article/2026/07/27/a-antibes-sur-la-plage-de-salis-l-imbattable-pan-bagnat-de-chez-josy_6733744_3451060.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/la-coupe-du-monde-de-football-aux-etats-unis-la-plus-politique-de-l-histoire-20260720",
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-le-president-du-foot-sud-americain-proche-de-gianni-infantino-tease-un-mondial-2030-a-64-equipes-20260720",
-   "https://www.lefigaro.fr/sports/football/equipe-de-france/didier-deschamps-a-dine-avec-emmanuel-macron-a-l-elysee-dimanche-20260720",
-   "https://www.lefigaro.fr/vox/societe/la-participation-du-syndicat-de-la-magistrature-a-une-conference-de-presse-de-lfi-est-un-nouveau-coup-donne-a-la-confiance-dans-la-justice-20260720",
-   "https://www.lefigaro.fr/culture/louvre-reouverture-mercredi-de-la-galerie-d-apollon-lieu-du-cambriolage-d-octobre-2025-20260720",
-   "https://www.lefigaro.fr/nantes/nantes-un-incendie-en-cours-dans-un-camp-de-roms-des-personnes-evacuees-et-10-hectares-emportes-par-le-feu-20260720",
    "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-a-madrid-deux-millions-de-personnes-celebrent-le-triomphe-merite-de-la-roja-20260720",
    "https://www.lefigaro.fr/secteur/high-tech/smartphones-du-futur-robots-de-combat-interfaces-neuronales-de-pointe-les-folles-technologies-du-salon-mondial-de-l-ia-en-chine-20260720",
    "https://www.lefigaro.fr/conjoncture/trump-impose-50-de-droits-de-douane-supplementaires-sur-une-serie-de-produits-canadiens-20260720",
@@ -785,15 +779,15 @@
    "https://www.lefigaro.fr/sports/football/equipe-de-france/salle-comble-medias-etrangers-secret-defense-repetitions-zinedine-zidane-en-bleus-les-coulisses-d-une-intronisation-tres-attendue-20260728",
    "https://www.lefigaro.fr/sports/football/equipe-de-france/management-travail-collectif-science-tactique-a-quel-coaching-s-attendre-de-zinedine-zidane-en-equipe-de-france-20260727",
    "https://www.lefigaro.fr/sports/football/equipe-de-france/il-est-fait-pour-ce-poste-l-evidence-zinedine-zidane-nouveau-chef-d-orchestre-des-bleus-pour-un-retour-au-sommet-20260727",
-   "https://www.lefigaro.fr/sports/football/equipe-de-france/luis-fernandez-au-figaro-zizou-va-realiser-quelque-chose-de-formidable-avec-les-bleus-20260727"
+   "https://www.lefigaro.fr/sports/football/equipe-de-france/luis-fernandez-au-figaro-zizou-va-realiser-quelque-chose-de-formidable-avec-les-bleus-20260727",
+   "https://www.lefigaro.fr/actualite-france/incendies-en-gironde-le-megafeu-est-toujours-stabilise-apres-une-nuit-calme-20260728",
+   "https://www.lefigaro.fr/actualite-france/incendie-dans-les-landes-le-feu-est-fixe-annonce-emmanuel-macron-20260728",
+   "https://www.lefigaro.fr/meteo/feu-stabilise-en-gironde-la-canicule-peut-elle-faire-repartir-l-incendie-20260728",
+   "https://www.lefigaro.fr/actualite-france/persecution-bancaire-pourquoi-journalistes-et-militants-de-droite-se-plaignent-d-une-de-fermeture-arbitraire-de-leurs-comptes-20260728",
+   "https://www.lefigaro.fr/sports/football/equipe-de-france/chaude-ambiance-turque-retrouvailles-avec-l-italie-fin-d-annee-a-bordeaux-quel-est-le-calendrier-des-premiers-matchs-de-zidane-chez-les-bleus-20260728",
+   "https://www.lefigaro.fr/sports/football/equipe-de-france/heritage-de-deschamps-style-de-jeu-choix-d-hommes-quels-sont-les-chantiers-prioritaires-de-zinedine-zidane-20260728"
   ],
   "https://www.france24.com/fr/rss": [
-   "4179d0f0-8489-11f1-bc58-c98139d3b091",
-   "9f7077fc-84ae-11f1-9e79-b34584f04cb5",
-   "63dec20a-84ab-11f1-9098-2ba36346e5ba",
-   "22ff89ae-84a1-11f1-bfcf-67aa391dc96b",
-   "4a8e7d14-84c8-11f1-9385-e58bca03b299",
-   "2b340b58-84ac-11f1-b7e0-352673b3af9e",
    "57ddcef6-84ba-11f1-af84-cf3673048914",
    "6c2a2cec-84ab-11f1-a87f-2ba36346e5ba",
    "8f1766a4-848b-11f1-9801-b7ba30744179",
@@ -1087,7 +1081,13 @@
    "cfa16c76-8a06-11f1-978f-fd4635dc0d14",
    "c9ab9154-8a0e-11f1-a415-bfff4fa5a0c3",
    "e732083a-8a17-11f1-8465-e585fb5d6e40",
-   "8be82910-8a0c-11f1-802a-5d4518517e61"
+   "8be82910-8a0c-11f1-802a-5d4518517e61",
+   "30b102f8-8a4b-11f1-9f2a-cf7985906aa3",
+   "82cd2186-76a8-11f1-8cc6-53962e031364",
+   "3a487630-8a45-11f1-9f54-cf7985906aa3",
+   "7451b9ec-8a1b-11f1-bc1e-e585fb5d6e40",
+   "61a67378-8a39-11f1-bcb1-535ca753ff7a",
+   "be5733d0-8a36-11f1-8036-2fd1e1ae5e27"
   ],
   "https://www.rfi.fr/fr/rss": [
    "39281f2a-8069-11f1-8bc1-1dd3a32f23a0",
@@ -2397,37 +2397,14 @@
   },
   {
    "faits": [
-    "Les autorités haïtiennes ont annoncé des élections présidentielle et législatives",
-    "Le premier tour des élections est prévu le 13 décembre 2026",
-    "Le second tour est prévu le 21 février 2027",
-    "Ce calendrier est conditionné à l'établissement d'un climat sécuritaire acceptable"
+    "Depuis plus d'un an, la consommation de l'eau du robinet est interdite dans une vingtaine de communes de la Meuse et des Ardennes",
+    "La contamination aux Pfas (polluants éternels) est record",
+    "Des alertes similaires aux Pfas se multiplient en France",
+    "Les solutions de dépollution peinent à émerger en raison des défis logistiques et des coûts astronomiques"
    ],
-   "qui": "Autorités haïtiennes",
-   "ou": "Haïti",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "établissement d'un climat sécuritaire acceptable"
-   ],
-   "importance": 75,
-   "empreinte": "2a54a4a4c0d9f14e",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T01:10:00.235928+00:00"
-  },
-  {
-   "faits": [
-    "Environ 200 000 Haïtiens aux États-Unis voient leur statut de protection temporaire révoqué à partir du lundi 27 juillet 2026",
-    "Ce statut leur permettait depuis 2010 de vivre et de travailler légalement aux États-Unis"
-   ],
-   "qui": "États-Unis (gouvernement)",
-   "ou": "États-Unis",
-   "categorie": "international",
+   "qui": "Communes de la Meuse et des Ardennes",
+   "ou": "Meuse, Ardennes, France",
+   "categorie": "sante",
    "sensible": true,
    "confiance": 85,
    "sources": [
@@ -2435,208 +2412,57 @@
    ],
    "non_confirme": [],
    "importance": 75,
-   "empreinte": "938b9d3f721558ff",
+   "empreinte": "28658d77c1dd0fb3",
    "score": 83,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-27T23:40:56.461012+00:00"
+   "depuis": "2026-07-28T07:21:22.285835+00:00"
   },
   {
    "faits": [
-    "La Turquie fait face à une « crise des visas » Schengen selon la presse turque",
-    "Près de 1,3 million de Turcs ont fait une demande de visa Schengen en 2025",
-    "Les délais sont interminables, les rendez-vous introuvables, les demandes en hausse et les refus de plus en plus fréquents",
-    "Pour les Européens, voyager en Turquie ne nécessite aucun visa, tandis que pour les Turcs c'est devenu très compliqué"
+    "Deux des mis en examen dans la mort de Quentin Deranque déposent plainte contre des militants d'ultradroite pour des violences",
+    "Jacques-Élie Favrot, ancien assistant parlementaire du député LFI Raphaël Arnault, est mis en examen pour complicité de meurtre par instigation",
+    "Son avocat dénonce une entreprise de désinformation massive de la part de l'ultradroite lyonnaise",
+    "L'avocat affirme que l'ultradroite était présentée comme victime alors qu'elle était clairement présente à dessein"
    ],
-   "qui": "Turquie",
-   "ou": "Turquie / Espace Schengen",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
+   "qui": "Jacques-Élie Favrot, Raphaël Arnault, militants d'ultradroite lyonnaise",
+   "ou": "Lyon",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 82,
    "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "47c4c68027c93360",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T23:41:06.528575+00:00"
-  },
-  {
-   "faits": [
-    "Près de neuf feux en France sur dix sont d'origine humaine (volontaires ou involontaires)",
-    "Les scientifiques rappellent que le changement climatique est le principal facteur favorisant les incendies"
-   ],
-   "qui": "Scientifiques",
-   "ou": "France",
-   "categorie": "sciences",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "RFI"
+    "franceinfo"
    ],
    "non_confirme": [],
    "importance": 70,
-   "empreinte": "bd03fb2bf63e461a",
-   "score": 80,
-   "fiab_max": 85,
+   "empreinte": "e84e27bc121c016a",
+   "score": 82,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-27T23:41:06.528576+00:00"
+   "depuis": "2026-07-28T07:21:22.285792+00:00"
   },
   {
    "faits": [
-    "La Premier League et tous les champignats anglais expérimenteront une règle visant à limiter les temps morts causés par les blessures de gardiens",
-    "Cette mesure a été approuvée après accord de l'International Football Association Board (IFAB)"
+    "Un centre de soins pour animaux sauvages dans le Rhône s'alarme des effets des canicules sur les animaux",
+    "Le martinet est clairement en train de s'effondrer depuis la canicule de mai",
+    "Le centre L'Hirondelle à Saint-Forgeux recueille la faune locale incluant oiseaux, faons, marcassins et renardeaux",
+    "Le centre appelle les élus à protéger les espèces"
    ],
-   "qui": "Premier League, IFAB",
-   "ou": "Angleterre",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "4eb0c5dd499b861d",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T23:41:06.528578+00:00"
-  },
-  {
-   "faits": [
-    "Paolo Maldini et Leonardo ont démissionné de la Fédération italienne de football",
-    "Cela survient 16 jours après leur nomination",
-    "Ils ont été échaudés par l'abandon de la piste Andrea Pirlo pour le poste de sélectionneur"
-   ],
-   "qui": "Paolo Maldini, Leonardo, Fédération italienne de football",
-   "ou": "Italie",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "ea8745ffab274169",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T23:41:06.528580+00:00"
-  },
-  {
-   "faits": [
-    "Volodymyr Zelensky est attendu ce mardi à la Maison Blanche",
-    "Rencontre prévue avec Donald Trump",
-    "L'Ukraine et la Russie font monter en puissance leurs frappes de longue portée",
-    "Zelensky tente d'obtenir le soutien américain"
-   ],
-   "qui": "Volodymyr Zelensky, Donald Trump",
-   "ou": "Maison Blanche (États-Unis)",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "577d2ea1aebb8ef8",
-   "score": 80,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T22:32:17.287534+00:00"
-  },
-  {
-   "faits": [
-    "Remco Evenepoel a remporté un critérium 24 heures après la fin du Tour de France",
-    "Evenepoel a terminé deuxième du Tour de France",
-    "Critérium d'Alost le 27 juillet 2026",
-    "Evenepoel court pour Red Bull - Bora - Hansgrohe"
-   ],
-   "qui": "Remco Evenepoel (cycliste)",
-   "ou": "Alost (Belgique)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "d8ad6a07b9df1d33",
-   "score": 80,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T22:32:17.287535+00:00"
-  },
-  {
-   "faits": [
-    "L'ancien sélectionneur du Brésil Carlos Alberto Parreira (83 ans) a quitté l'unité de soins intensifs",
-    "Il était hospitalisé depuis un peu moins d'un mois à l'hôpital de Rio de Janeiro"
-   ],
-   "qui": "Carlos Alberto Parreira",
-   "ou": "Rio de Janeiro, Brésil",
+   "qui": "Centre L'Hirondelle de Saint-Forgeux",
+   "ou": "Saint-Forgeux, Rhône",
    "categorie": "sante",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 80,
    "sources": [
-    "L'Équipe"
+    "franceinfo"
    ],
    "non_confirme": [],
    "importance": 55,
-   "empreinte": "463fc48f7f1f7aef",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T23:41:06.528588+00:00"
-  },
-  {
-   "faits": [
-    "Au moins 31 civils ont été tués depuis mercredi dans plusieurs attaques des rebelles ADF dans le nord-est de la République démocratique du Congo",
-    "Les ADF sont liés à l'État islamique"
-   ],
-   "qui": "ADF (rebelles liés à l'État islamique)",
-   "ou": "Nord-est de la République démocratique du Congo",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "b8fa159dcb868599",
+   "empreinte": "b7bb87267bc9a5bd",
    "score": 78,
-   "fiab_max": 80,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-27T23:40:56.461173+00:00"
-  },
-  {
-   "faits": [
-    "Le chanteur américain D4vd est accusé d'avoir tué puis démembré une adolescente de 14 ans",
-    "Il a été renvoyé en procès lundi par une juge de Los Angeles",
-    "À l'issue d'une audience de cinq jours, la magistrate a décidé qu'il y avait assez d'éléments incriminants pour justifier un procès"
-   ],
-   "qui": "D4vd (chanteur américain)",
-   "ou": "Los Angeles, États-Unis",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "cef605b9a033f1a2",
-   "score": 78,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T23:40:56.461208+00:00"
+   "depuis": "2026-07-28T07:21:32.027499+00:00"
   },
   {
    "faits": [
@@ -2686,30 +2512,6 @@
   },
   {
    "faits": [
-    "Une fusillade s'est déroulée lundi en plein jour à Mexico",
-    "La fusillade s'est produite près du siège de la présidence",
-    "Une personne a été tuée",
-    "Deux autres personnes ont été blessées",
-    "Cet événement est décrit comme inhabituel dans la capitale mexicaine"
-   ],
-   "qui": null,
-   "ou": "Mexico, Mexique",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "16fb63d962e14085",
-   "score": 77,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T01:10:00.235985+00:00"
-  },
-  {
-   "faits": [
     "Le président sénégalais Diomaye Faye se rend au Mali le 28 juillet pour une visite de travail",
     "Il est président en exercice de la Communauté économique des États de l'Afrique de l'Ouest (Cédéao) depuis le 19 juillet",
     "Les discussions portent sur un possible rapprochement entre la Cédéao et l'AES (Alliance des États du Sahel)"
@@ -2734,52 +2536,6 @@
   },
   {
    "faits": [
-    "Zinedine Zidane va être nommé sélectionneur de l'équipe de France ce mardi",
-    "Fierté à Marseille, notamment dans la cité de la Castellane où a grandi Zidane"
-   ],
-   "qui": "Zinedine Zidane",
-   "ou": "Marseille, France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Nomination officielle pas encore confirmée à la date du flux"
-   ],
-   "importance": 68,
-   "empreinte": "762e0556842eb0e3",
-   "score": 77,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T22:32:17.287538+00:00"
-  },
-  {
-   "faits": [
-    "Un sapeur-pompier volontaire est mort lundi",
-    "Le décès s'est produit suite à la sortie de route d'un camion-citerne",
-    "L'accident s'est produit au nord d'Arles",
-    "Quatre pompiers sont morts en à peine plus de deux semaines en France"
-   ],
-   "qui": null,
-   "ou": "Arles, Bouches-du-Rhône, France",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "f93f5762643b9bb4",
-   "score": 76,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T01:10:00.236033+00:00"
-  },
-  {
-   "faits": [
     "Des rouleaux de la Torah d'une grande valeur ont été volés dans la synagogue de Levallois-Perret (Hauts-de-Seine)",
     "Le vol s'est produit dans la nuit de dimanche à lundi",
     "Deux hommes se sont introduits dans la synagogue en escaladant à l'aide d'une corde",
@@ -2800,107 +2556,9 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-28T04:31:51.546451+00:00"
-  },
-  {
-   "faits": [
-    "Soudan : l'armée soudanaise a repris le contrôle de la route stratégique menant à Khartoum",
-    "La ville d'El-Obeid a été reprise par l'armée face aux paramilitaires",
-    "Mohamed Hamdane Daglo, chef des FDS, affirme ne plus tenir la bride de ses combattants"
-   ],
-   "qui": "Armée soudanaise, Mohamed Hamdane Daglo (chef des FDS), Forces de soutien rapide",
-   "ou": "Soudan (El-Obeid, Khartoum)",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 78,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 58,
-   "empreinte": "2d508c40508c602e",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T22:32:17.287539+00:00"
-  },
-  {
-   "faits": [
-    "Zelensky se prépare à rencontrer Trump à la Maison-Blanche",
-    "Zelensky espère obtenir le soutien de Trump face à Poutine",
-    "Zelensky cherche à obtenir une paix non dictée par Moscou",
-    "Trump entretient des relations tendues avec la Russie selon le titre"
-   ],
-   "qui": "Volodymyr Zelensky, Donald Trump, Vladimir Poutine",
-   "ou": "Washington, États-Unis",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 70,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "en léger froid avec la Russie"
-   ],
-   "importance": 80,
-   "empreinte": "7eeea7db56065774",
-   "score": 74,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T01:10:00.236077+00:00"
-  },
-  {
-   "faits": [
-    "Emmanuel Grégoire, maire de Paris, a réuni lundi les copropriétaires de la tour Montparnasse",
-    "L'objectif est de débloquer un projet de rénovation de la tour Montparnasse",
-    "Une réunion de crise s'est tenue à la mairie"
-   ],
-   "qui": "Emmanuel Grégoire, copropriétaires de la tour Montparnasse",
-   "ou": "Paris, France",
-   "categorie": "autre",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "100c257841e435ed",
-   "score": 70,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T01:10:00.236124+00:00"
-  },
-  {
-   "faits": [
-    "La France Insoumise (LFI) présente des mesures de reconstruction de la sécurité civile",
-    "Proposition : banque nationale de surveillance médicale",
-    "Objectif : 50.000 volontaires d'ici 2030",
-    "Une dizaine de mesures concrètes présentées en septembre"
-   ],
-   "qui": "La France Insoumise (LFI)",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 72,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Calendrier exact de présentation des mesures"
-   ],
-   "importance": 45,
-   "empreinte": "9ff300cbdeedcbc1",
-   "score": 68,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-27T22:32:05.703400+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "ff5ba902c927696d",
-   "2026-07-26T04:48:26.532488+00:00"
-  ],
   [
    "4b4077249e336d57",
    "2026-07-26T07:28:22.167189+00:00"
@@ -2984,13 +2642,17 @@
   [
    "2224399ba6601de9",
    "2026-07-28T04:31:56.798672+00:00"
+  ],
+  [
+   "ff0ebcfb7f825bcf",
+   "2026-07-28T07:21:33.210444+00:00"
+  ],
+  [
+   "b5722c697e26825c",
+   "2026-07-28T07:21:37.216064+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "24bb2ed3c17574ad",
-   "2026-07-26T04:48:11.918086+00:00"
-  ],
   [
    "c1c66fb029ff764e",
    "2026-07-26T07:28:11.144793+00:00"
@@ -3074,6 +2736,14 @@
   [
    "0e310156b989b334",
    "2026-07-28T04:31:51.546420+00:00"
+  ],
+  [
+   "6d0ed8e965abfeb9",
+   "2026-07-28T07:21:28.715622+00:00"
+  ],
+  [
+   "0269aa570882b5fa",
+   "2026-07-28T07:21:32.027491+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -3084,12 +2754,14 @@
   "⚖️ Le chanteur américain D4vd, 21 ans, sera jugé pour le meurtre de l'adolescente Celeste Rivas Hernandez. Il est accusé de l'avoir poignardée à mort. D4vd encourt l'emprisonnement à perpétuité ou la peine de mort. (Le Figaro, BFMTV)",
   "Après un incendie dévastateur, La Plaine-sur-Mer (Loire-Atlantique) renforce ses contrôles de débroussaillement. Près de 80 signalements de défauts ont été transmis à la mairie cet été. (Le Figaro)",
   "🌡️ Depuis le 22 juillet, des incendies ravagent le sud-ouest de la France. En Gironde, 42 000 hectares ont brûlé et 220 000 personnes ont été évacuées. Un pompier volontaire est mort lundi. (franceinfo)",
-  "⚽ Zinédine Zidane a été nommé sélectionneur de l'équipe de France de football. L'ancien entraîneur du Real Madrid succède à Didier Deschamps. Sa présentation officielle s'est déroulée le 28 juillet à Paris."
+  "⚽ Zinédine Zidane a été nommé sélectionneur de l'équipe de France de football. L'ancien entraîneur du Real Madrid succède à Didier Deschamps. Sa présentation officielle s'est déroulée le 28 juillet à Paris.",
+  "⚡ FLASH — Un incendie en Gironde reste stabilisé après une nuit calme. Le feu a brûlé 42 000 hectares depuis le 22 juillet. Aux Landes, l'incendie près de Biscarrosse est fixé (3 600 hectares). Météo-France prévoit 40°C mercredi et une dégradation de la qualité de l'air.",
+  "⚽ Zinédine Zidane a été présenté comme nouveau sélectionneur de l'équipe de France le 28 juillet au siège de la Fédération française de football. Il succède à Didier Deschamps. Plus de 120 journalistes et photographes ont assisté à la présentation. (Le Figaro, France 24)"
  ],
  "recap_date": "2026-07-27",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-28",
-  "publies": 8
+  "publies": 10
  }
 }

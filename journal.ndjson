@@ -7958,3 +7958,37 @@
 {"decision": "controle", "evt": "0e310156b989b334", "motif": "ok_sim_0.35", "ts": "2026-07-28T04:31:51+00:00"}
 {"decision": "publie", "empreinte": "98f70706e02c95a0", "post_id": "2081960808435613796", "carte": true, "texte": "🌡️ Depuis le 22 juillet, des incendies ravagent le sud-ouest de la France. En Gironde, 42 000 hectares ont brûlé et 220 000 personnes ont été évacuées. Un pompier volontaire est mort lundi. (franceinfo)", "ts": "2026-07-28T04:31:52+00:00"}
 {"decision": "publie", "empreinte": "2224399ba6601de9", "post_id": "2081960825103818916", "carte": true, "texte": "⚽ Zinédine Zidane a été nommé sélectionneur de l'équipe de France de football. L'ancien entraîneur du Real Madrid succède à Didier Deschamps. Sa présentation officielle s'est déroulée le 28 juillet à Paris.", "ts": "2026-07-28T04:31:56+00:00"}
+{"decision": "abandon_attente", "evt": "2a54a4a4c0d9f14e", "categorie": "politique", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "938b9d3f721558ff", "categorie": "international", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "47c4c68027c93360", "categorie": "international", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "bd03fb2bf63e461a", "categorie": "sciences", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "4eb0c5dd499b861d", "categorie": "sport", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "ea8745ffab274169", "categorie": "sport", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "577d2ea1aebb8ef8", "categorie": "international", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "d8ad6a07b9df1d33", "categorie": "sport", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "463fc48f7f1f7aef", "categorie": "sante", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "b8fa159dcb868599", "categorie": "international", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "cef605b9a033f1a2", "categorie": "justice", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "16fb63d962e14085", "categorie": "faits_divers", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "762e0556842eb0e3", "categorie": "sport", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "f93f5762643b9bb4", "categorie": "deces_personnalite", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "2d508c40508c602e", "categorie": "international", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "7eeea7db56065774", "categorie": "international", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "100c257841e435ed", "categorie": "autre", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "abandon_attente", "evt": "9ff300cbdeedcbc1", "categorie": "politique", "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "publier", "evt": "6d0ed8e965abfeb9", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["franceinfo", "Le Figaro", "France 24"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "publier", "evt": "0269aa570882b5fa", "score": 98, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["Le Figaro", "France 24"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "attente", "evt": "e84e27bc121c016a", "score": 82, "categorie": "justice", "sensible": true, "confiance": 82, "sources": ["franceinfo"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "attente", "evt": "28658d77c1dd0fb3", "score": 83, "categorie": "sante", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "publier", "evt": "b7bb87267bc9a5bd", "score": 78, "categorie": "sante", "sensible": false, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "publier", "evt": "f3fa83ad7310aa46", "score": 82, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "publier", "evt": "2f070d0ea0625a21", "score": 82, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "attente", "evt": "60b599f1bb3145c4", "score": 84, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "publier", "evt": "176e5c1166d83d65", "score": 78, "categorie": "international", "sensible": false, "confiance": 75, "sources": ["France 24"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "publier", "evt": "c6806b0048afa476", "score": 78, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "publier", "evt": "372f8c4b95b601e5", "score": 77, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "publier", "evt": "c6d10af9e4c78aea", "score": 76, "categorie": "faits_divers", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-28T07:21:22+00:00"}
+{"decision": "controle", "evt": "6d0ed8e965abfeb9", "motif": "ok_sim_0.31+alerte_retrogradee", "ts": "2026-07-28T07:21:28+00:00"}
+{"decision": "controle", "evt": "0269aa570882b5fa", "motif": "ok_sim_0.54", "ts": "2026-07-28T07:21:32+00:00"}
+{"decision": "publie", "empreinte": "ff0ebcfb7f825bcf", "post_id": "2082003508908495098", "carte": true, "texte": "⚡ FLASH — Un incendie en Gironde reste stabilisé après une nuit calme. Le feu a brûlé 42 000 hectares depuis le 22 juillet. Aux Landes, l'incendie près de Biscarrosse est fixé (3 600 hectares). Météo-France prévoit 40°C mercredi et une dégradation de la qualité de l'air.", "ts": "2026-07-28T07:21:33+00:00"}
+{"decision": "publie", "empreinte": "b5722c697e26825c", "post_id": "2082003525765414967", "carte": true, "texte": "⚽ Zinédine Zidane a été présenté comme nouveau sélectionneur de l'équipe de France le 28 juillet au siège de la Fédération française de football. Il succède à Didier Deschamps. Plus de 120 journalistes et photographes ont assisté à la présentation. (Le Figaro, France 24)", "ts": "2026-07-28T07:21:37+00:00"}
