@@ -7992,3 +7992,24 @@
 {"decision": "controle", "evt": "0269aa570882b5fa", "motif": "ok_sim_0.54", "ts": "2026-07-28T07:21:32+00:00"}
 {"decision": "publie", "empreinte": "ff0ebcfb7f825bcf", "post_id": "2082003508908495098", "carte": true, "texte": "⚡ FLASH — Un incendie en Gironde reste stabilisé après une nuit calme. Le feu a brûlé 42 000 hectares depuis le 22 juillet. Aux Landes, l'incendie près de Biscarrosse est fixé (3 600 hectares). Météo-France prévoit 40°C mercredi et une dégradation de la qualité de l'air.", "ts": "2026-07-28T07:21:33+00:00"}
 {"decision": "publie", "empreinte": "b5722c697e26825c", "post_id": "2082003525765414967", "carte": true, "texte": "⚽ Zinédine Zidane a été présenté comme nouveau sélectionneur de l'équipe de France le 28 juillet au siège de la Fédération française de football. Il succède à Didier Deschamps. Plus de 120 journalistes et photographes ont assisté à la présentation. (Le Figaro, France 24)", "ts": "2026-07-28T07:21:37+00:00"}
+{"decision": "publier", "evt": "4eda4d2ba73f56d8", "score": 100, "categorie": "sport", "sensible": false, "confiance": 95, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "dbb4054bfe5f58fc", "score": 97, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "7af07b32aa17d65f", "score": 85, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "bd3338b94d7c0deb", "score": 86, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "af45002607917f79", "score": 86, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "3fdfb86172368d0d", "score": 88, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "916d3be71218ca7d", "score": 85, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "81b4b3e0c31d45e4", "score": 87, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "a1bc2f50917ce969", "score": 84, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["Le Monde"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "a66cfecd04a0c2c8", "score": 83, "categorie": "culture", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "43b57dac47873fc0", "score": 82, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "attente", "evt": "2dec9e5f8f687786", "score": 81, "categorie": "justice", "sensible": true, "confiance": 82, "sources": ["Le Monde"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "a93632962ea9558b", "score": 82, "categorie": "politique", "sensible": false, "confiance": 86, "sources": ["Le Monde"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "attente", "evt": "60b599f1bb3145c4", "score": 84, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "attente", "evt": "28658d77c1dd0fb3", "score": 83, "categorie": "sante", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "attente", "evt": "e84e27bc121c016a", "score": 82, "categorie": "justice", "sensible": true, "confiance": 82, "sources": ["franceinfo"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "b7bb87267bc9a5bd", "score": 78, "categorie": "sante", "sensible": false, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "176e5c1166d83d65", "score": 78, "categorie": "international", "sensible": false, "confiance": 75, "sources": ["France 24"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "c6806b0048afa476", "score": 78, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "372f8c4b95b601e5", "score": 77, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-28T10:02:31+00:00"}
+{"decision": "publier", "evt": "c6d10af9e4c78aea", "score": 76, "categorie": "faits_divers", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-07-28T10:02:31+00:00"}
