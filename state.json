@@ -2,13 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/qui-est-khalil-al-hayya-le-nouveau-chef-politique-du-hamas_8064602.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-deux-militaires-dans-le-var-les-resultats-des-analyses-des-ossements-retrouves-fin-mai-connus-avant-fin-juillet_8115785.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-iraniens-affirment-avoir-de-nouveau-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit_8115797.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/incendie-en-espagne-26-000-hectares-partis-en-fumee-au-nord-de-madrid_8115953.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/drogue/le-maire-d-ales-menace-par-la-dz-mafia-a-ete-exfiltre-de-son-domicile-par-le-raid-cette-nuit-apres-des-craintes-sur-la-presence-d-une-voiture-piegee_8116196.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-a-ete-victime-d-un-piratage-informatique-et-va-porter-plainte_8116145.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/musique/les-critiques-fusent-a-l-encontre-de-lfi-apres-le-concert-interrompu-de-barbara-butch-a-grenoble_8116124.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/proche-orient/liban/reportage-qui-sera-le-prochain-enleve-au-sud-du-liban-des-familles-s-inquietent-de-la-disparition-de-leurs-proches_8115890.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement/les-freres-tate-s-opposent-a-leur-extradition-vers-le-royaume-uni-qu-ils-jugent-motivee-politiquement_8116115.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/arts-expos/louvre/la-galerie-d-apollon-du-louvre-rouvre-mercredi_8116010.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +294,14 @@
    "https://www.franceinfo.fr/culture/tv/canal/maxime-saada-patron-de-canal-maintient-qu-il-ne-financera-plus-les-films-qui-portent-prejudice-au-groupe_8125238.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/israel/iran-gaza-liban-on-vous-explique-les-enjeux-de-la-rencontre-entre-donald-trump-et-benyamin-netanyahou-a-washington_8124959.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/les-restes-de-cinq-nouveau-nes-retrouves-chez-un-couple-vivant-a-orange_8125121.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/un-homme-de-23-ans-soupconne-d-etre-a-l-origine-de-departs-de-feu-volontaires-dans-le-var-mis-en-examen-et-place-en-detention-provisoire_8125163.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/un-homme-de-23-ans-soupconne-d-etre-a-l-origine-de-departs-de-feu-volontaires-dans-le-var-mis-en-examen-et-place-en-detention-provisoire_8125163.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/reportage-les-nuits-sont-difficiles-au-parc-des-expositions-de-bordeaux-la-fatigue-et-l-angoisse-gagnent-les-evacues-des-incendies_8125331.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-la-police-lance-un-appel-aux-volontaires-parmi-ses-effectifs-pour-preter-main-forte-sur-les-incendies-qui-touchent-la-france_8125322.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde-et-dans-les-landes-quelles-sont-les-entreprises-eligibles-a-l-activite-partielle_8125118.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/14-tonnes-7-5-metres-de-long-qu-est-ce-que-le-centaure-ce-vehicule-blinde-de-la-gendarmerie-deploye-en-renfort-sur-l-incendie-en-gironde-3393184.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/equipe-de-france/relancer-un-collectif-decu-faire-oublier-deschamps-trouver-une-nouvelle-identite-aux-bleus-les-defis-qui-attendent-zinedine-zidane-a-la-tete-de-l-equipe-de-france_8110043.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/emploi/chomage/le-nombre-de-chomeurs-sans-aucune-activite-a-augmente-de-0-8-au-deuxieme-trimestre-2026_8125325.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/espagne/les-pompiers-progressent-face-aux-incendies-en-espagne-le-premier-ministre-voit-la-lumiere-au-bout-du-tunnel_8125394.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -494,19 +494,11 @@
    "https://www.lemonde.fr/politique/article/2026/07/28/la-taxation-des-hauts-patrimoines-une-bataille-aussi-politique-que-juridique_6734460_823448.html",
    "https://www.lemonde.fr/pixels/video/2026/07/28/le-clipping-la-nouvelle-arme-de-manipulation-de-masse-d-internet_6734842_4408996.html",
    "https://www.lemonde.fr/series-d-ete/article/2026/07/28/la-coupole-brasserie-a-coups-de-theatre-de-montparnasse_6734528_3451060.html",
-   "https://www.lemonde.fr/sport/article/2026/07/28/le-football-italien-continue-sa-degringolade-entre-polemique-autour-de-l-ex-probable-selectionneur-andrea-pirlo-et-demissions-en-serie_6735042_3242.html"
+   "https://www.lemonde.fr/sport/article/2026/07/28/le-football-italien-continue-sa-degringolade-entre-polemique-autour-de-l-ex-probable-selectionneur-andrea-pirlo-et-demissions-en-serie_6735042_3242.html",
+   "https://www.lemonde.fr/economie/article/2026/07/28/en-moselle-un-immense-gisement-d-hydrogene-ravive-les-espoirs-de-l-ancien-bassin-minier_6734458_3234.html",
+   "https://www.lemonde.fr/economie/article/2026/07/28/accidents-du-travail-syndicats-et-patronat-appellent-a-la-prudence-quant-au-plan-d-economies-dans-la-branche_6735077_3234.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-a-madrid-deux-millions-de-personnes-celebrent-le-triomphe-merite-de-la-roja-20260720",
-   "https://www.lefigaro.fr/secteur/high-tech/smartphones-du-futur-robots-de-combat-interfaces-neuronales-de-pointe-les-folles-technologies-du-salon-mondial-de-l-ia-en-chine-20260720",
-   "https://www.lefigaro.fr/conjoncture/trump-impose-50-de-droits-de-douane-supplementaires-sur-une-serie-de-produits-canadiens-20260720",
-   "https://www.lefigaro.fr/international/le-directeur-du-fbi-kash-patel-va-bientot-se-rendre-en-russie-selon-politico-20260720",
-   "https://www.lefigaro.fr/politique/c-etait-une-annee-pour-rien-a-l-assemblee-apres-la-crise-politique-une-annee-d-apathie-legislative-20260720",
-   "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721",
-   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-les-houthistes-yemenites-annoncent-un-blocus-maritime-de-riyad-20260720",
-   "https://madame.lefigaro.fr/societe/actu/de-blind-date-au-10-downing-street-qui-est-marie-france-van-heel-la-nouvelle-premiere-dame-britannique-20260721",
-   "https://www.lefigaro.fr/international/trump-affirme-avoir-eu-une-tres-bonne-conversation-avec-le-nouveau-premier-ministre-britannique-andy-burnham-20260721",
-   "https://www.lefigaro.fr/international/les-grands-chantiers-d-andy-burnham-le-nouveau-premier-ministre-britannique-qui-veut-rompre-avec-les-pratiques-du-passe-20260720",
    "https://www.lefigaro.fr/marseille/marseille-un-policier-grievement-blesse-lors-d-un-refus-d-obtemperer-quatre-suspects-interpelles-20260721",
    "https://www.lefigaro.fr/social/couteux-incomprehensible-le-tarif-agent-cet-avantage-decrie-au-coeur-d-un-appel-a-la-greve-chez-edf-20260721",
    "https://www.lefigaro.fr/international/guerre-au-moyen-orient-sous-pression-pour-desarmer-le-hezbollah-le-president-libanais-joseph-aoun-recu-par-donald-trump-ce-mardi-a-la-maison-blanche-20260721",
@@ -796,10 +788,19 @@
    "https://www.lefigaro.fr/meteo/feu-stabilise-en-gironde-la-canicule-peut-elle-faire-repartir-l-incendie-20260728",
    "https://www.lefigaro.fr/actualite-france/persecution-bancaire-pourquoi-journalistes-et-militants-de-droite-se-plaignent-d-une-de-fermeture-arbitraire-de-leurs-comptes-20260728",
    "https://www.lefigaro.fr/sports/football/equipe-de-france/chaude-ambiance-turque-retrouvailles-avec-l-italie-fin-d-annee-a-bordeaux-quel-est-le-calendrier-des-premiers-matchs-de-zidane-chez-les-bleus-20260728",
-   "https://www.lefigaro.fr/sports/football/equipe-de-france/heritage-de-deschamps-style-de-jeu-choix-d-hommes-quels-sont-les-chantiers-prioritaires-de-zinedine-zidane-20260728"
+   "https://www.lefigaro.fr/sports/football/equipe-de-france/heritage-de-deschamps-style-de-jeu-choix-d-hommes-quels-sont-les-chantiers-prioritaires-de-zinedine-zidane-20260728",
+   "https://www.lefigaro.fr/marseille/incendies-dans-le-var-deux-pyromanes-presumes-interpelles-pour-avoir-declenche-plusieurs-departs-de-feu-20260728",
+   "https://www.lefigaro.fr/actualite-france/incendie-en-gironde-4000-touristes-evacues-preventivement-de-lacanau-20260728",
+   "https://www.lefigaro.fr/societes/incendies-en-gironde-pourquoi-la-centrale-nucleaire-proche-de-bordeaux-n-est-pas-en-danger-20260728",
+   "https://www.lefigaro.fr/actualite-france/incendies-citerne-volante-boules-antifeu-ces-drones-qui-pourraient-changer-la-bataille-du-feu-20260728",
+   "https://www.lefigaro.fr/actualite-france/les-pompiers-sont-pousses-a-la-limite-de-leurs-capacites-la-presse-internationale-observe-les-incendies-qui-ravagent-la-france-avec-effroi-20260728",
+   "https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260728",
+   "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260728",
+   "https://www.lefigaro.fr/bordeaux/incendie-en-gironde-la-prefete-interdit-toutes-les-manifestations-sportives-et-culturelles-jusqu-au-8-aout-20260728",
+   "https://www.lefigaro.fr/actualite-france/ou-sont-les-principaux-incendies-en-europe-20260728",
+   "https://www.lefigaro.fr/medias/on-ne-financera-pas-leur-film-le-patron-de-canal-confirme-le-boycott-de-ceux-qui-portent-prejudice-a-son-groupe-20260728"
   ],
   "https://www.france24.com/fr/rss": [
-   "57ddcef6-84ba-11f1-af84-cf3673048914",
    "6c2a2cec-84ab-11f1-a87f-2ba36346e5ba",
    "8f1766a4-848b-11f1-9801-b7ba30744179",
    "ab94125a-84f4-11f1-8461-ab341b3d5f8e",
@@ -1098,7 +1099,8 @@
    "3a487630-8a45-11f1-9f54-cf7985906aa3",
    "7451b9ec-8a1b-11f1-bc1e-e585fb5d6e40",
    "61a67378-8a39-11f1-bcb1-535ca753ff7a",
-   "be5733d0-8a36-11f1-8036-2fd1e1ae5e27"
+   "be5733d0-8a36-11f1-8036-2fd1e1ae5e27",
+   "facdef70-8a77-11f1-a147-87c02b1f8a37"
   ],
   "https://www.rfi.fr/fr/rss": [
    "39281f2a-8069-11f1-8bc1-1dd3a32f23a0",
@@ -2384,6 +2386,37 @@
  "evenements_attente": [
   {
    "faits": [
+    "Des incendies ravagent la Gironde et les Landes depuis le 22 juillet 2026",
+    "Environ 115 000 hectares ont été parcourus par les incendies en France en 2026",
+    "42 000 hectares ont été brûlés en Gironde",
+    "220 000 personnes ont été évacuées en Gironde",
+    "4 000 touristes ont été évacués préventivement de Lacanau",
+    "Des évacués sont logés au Parc des expositions de Bordeaux",
+    "La police lance un appel aux volontaires pour missions de deux semaines maximum",
+    "La gendarmerie a déployé des véhicules blindés Centaure en renfort",
+    "La préfète a interdit toutes les manifestations sportives et culturelles jusqu'au 8 août",
+    "Des milliers d'entreprises ont été touchées directement ou indirectement",
+    "Des dispositifs d'activité partielle ont été mis en place pour les entreprises"
+   ],
+   "qui": "Autorités françaises (préfecture, police, gendarmerie, pompiers)",
+   "ou": "Gironde, Landes, Var, Corse, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "c12eec601cc88e84",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-28T12:07:23.188005+00:00"
+  },
+  {
+   "faits": [
     "Zinédine Zidane est officiellement nommé sélectionneur de l'équipe de France de football",
     "Il succède à Didier Deschamps",
     "La nomination intervient dix jours après la défaite de la France en finale de la troisième place de la Coupe du monde contre l'Angleterre",
@@ -2435,6 +2468,28 @@
   },
   {
    "faits": [
+    "Zinédine Zidane a été nommé à la tête de l'équipe de France de football",
+    "Il succède à Didier Deschamps après 14 ans",
+    "Deschamps a ramené un seul trophée majeur pendant son mandat"
+   ],
+   "qui": "Zinédine Zidane, Didier Deschamps, Fédération française de football",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "88883df12dbd7a9a",
+   "score": 89,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T12:07:23.188014+00:00"
+  },
+  {
+   "faits": [
     "Un mégafeu en Gironde menace la zone de Lacanau",
     "Les pompiers craignent 'une éventuelle reprise' du feu",
     "Près de 4 000 personnes sont évacuées (campings et villages vacances)",
@@ -2460,6 +2515,29 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T10:02:31.908083+00:00"
+  },
+  {
+   "faits": [
+    "Les incendies en Espagne ont ravagé environ 77 000 hectares",
+    "63 000 personnes ont été évacuées en Espagne",
+    "Il s'agit du feu de forêt le plus important de l'histoire récente de l'Espagne selon le gouvernement",
+    "Les pompiers progressent face aux incendies"
+   ],
+   "qui": "Gouvernement espagnol",
+   "ou": "Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "781c23b6c841d058",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T12:07:23.188017+00:00"
   },
   {
    "faits": [
@@ -2535,6 +2613,28 @@
   },
   {
    "faits": [
+    "Le nombre de demandeurs d'emploi sans aucune activité a augmenté de 0,8% au deuxième trimestre 2026",
+    "Trois mois plus tôt, une baisse de 1,2% des chômeurs de catégorie A avait été observée",
+    "Sur un an, le nombre de demandeurs d'emploi sans aucune activité a augmenté de 3,1%"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "3ba93a0ea4507518",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T12:07:23.188024+00:00"
+  },
+  {
+   "faits": [
     "Patrick Bruel est visé par deux nouvelles plaintes pour viol et agression sexuelle",
     "Les faits dénoncés remontent à 1994 et 2005",
     "Ces faits sont aujourd'hui prescrits",
@@ -2585,27 +2685,28 @@
   },
   {
    "faits": [
-    "Un attentat à la voiture-bélier a frappé la Marche des fiertés à Berlin le 25 juillet",
-    "Une Polonaise de 65 ans a été tuée et 29 personnes ont été blessées",
-    "L'auteur est un homme de 21 ans connu des services pour son idéologie islamiste",
-    "Un débat est relancé sur un possible laxisme judiciaire en Allemagne",
-    "Le ministre de l'Intérieur a promis un tour de vis sécuritaire"
+    "Des scientifiques et la Française de l'énergie affirment avoir découvert le plus grand gisement d'hydrogène naturel au monde",
+    "Le gisement se situe en Moselle, ancien bassin minier",
+    "La société espère obtenir rapidement un permis d'exploitation de l'État",
+    "La découverte est soutenue par les politiques locaux"
    ],
-   "qui": "Auteur non nommé (21 ans), ministre de l'Intérieur allemand",
-   "ou": "Berlin, Allemagne",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
+   "qui": "Française de l'énergie, scientifiques, autorités locales de Moselle",
+   "ou": "Moselle, France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
    "sources": [
-    "RFI"
+    "Le Monde"
    ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "60b599f1bb3145c4",
+   "non_confirme": [
+    "Confirmation officielle du statut de plus grand gisement au monde"
+   ],
+   "importance": 70,
+   "empreinte": "1a822055ba94a569",
    "score": 84,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T04:31:42.966367+00:00"
+   "depuis": "2026-07-28T12:07:23.188029+00:00"
   },
   {
    "faits": [
@@ -2678,6 +2779,55 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T10:02:31.908095+00:00"
+  },
+  {
+   "faits": [
+    "Deux individus, dont un mineur de 15 ans, ont été interpellés pour avoir déclenché plusieurs départs de feu",
+    "Ils sont suspectés d'être à l'origine de plusieurs incendies volontaires à Cuers et à Ollioules en juillet",
+    "Ils ont été déférés au parquet de Toulon à l'issue de leur garde à vue lundi"
+   ],
+   "qui": "Deux pyromanes présumés (un mineur de 15 ans et un autre individu)",
+   "ou": "Var (Cuers, Ollioules, Toulon)",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "0547fa04e570a11f",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T12:07:23.187091+00:00"
+  },
+  {
+   "faits": [
+    "Un séisme de magnitude 7,1 a frappé le sud-ouest du Japon mardi",
+    "Des bâtiments se sont effondrés, dont un centre commercial à Kashima",
+    "De nombreuses personnes sont piégées dans le centre commercial",
+    "La télévision nippone fait état de nombreux morts dans cet effondrement",
+    "La police locale s'est dite incapable de confirmer d'éventuelles victimes à ce stade"
+   ],
+   "qui": null,
+   "ou": "Japon (Kashima, sud-ouest)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Nombre exact de morts",
+    "Nombre exact de personnes piégées"
+   ],
+   "importance": 80,
+   "empreinte": "fe0b0973a75adff7",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T12:07:23.187137+00:00"
   },
   {
    "faits": [
@@ -2778,6 +2928,28 @@
   },
   {
    "faits": [
+    "Syndicats et patronat ont parvenu à une position commune quasi-unanime",
+    "Ils appellent à la prudence quant au plan d'économies dans la branche des accidents du travail",
+    "Ils réagissent aux mesures de redressement du régime envisagées par l'exécutif"
+   ],
+   "qui": "Syndicats, patronat, gouvernement français",
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "94f1eae259886f8a",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T12:07:23.188037+00:00"
+  },
+  {
+   "faits": [
     "Un centre de soins pour animaux sauvages dans le Rhône s'alarme des effets des canicules sur les animaux",
     "Le martinet est clairement en train de s'effondrer depuis la canicule de mai",
     "Le centre L'Hirondelle à Saint-Forgeux recueille la faune locale incluant oiseaux, faons, marcassins et renardeaux",
@@ -2798,99 +2970,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T07:21:32.027499+00:00"
-  },
-  {
-   "faits": [
-    "Après quatre nuits d'accalmie, les hostilités entre les États-Unis et l'Iran n'ont pas repris depuis samedi",
-    "Donald Trump estime que les discussions ont 'de bonnes chances' d'aboutir",
-    "Téhéran affirme ne pas être engagé 'à l'heure actuelle' dans des négociations avec Washington"
-   ],
-   "qui": "Donald Trump, Iran, États-Unis",
-   "ou": "États-Unis, Iran",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "L'aboutissement des discussions entre États-Unis et Iran"
-   ],
-   "importance": 70,
-   "empreinte": "176e5c1166d83d65",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T04:31:51.546444+00:00"
-  },
-  {
-   "faits": [
-    "Les États-Unis ont quitté une réunion du Conseil de sécurité de l'ONU lorsque l'ambassadeur français a pris la parole",
-    "L'ambassadeur français a dénoncé les commentaires 'hypocrites' des États-Unis",
-    "La France a comparé les États-Unis à la Corée du Nord et à la Russie en lien avec un vote lié aux droits humains"
-   ],
-   "qui": "États-Unis, France, Conseil de sécurité de l'ONU",
-   "ou": "ONU",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "c6806b0048afa476",
-   "score": 78,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T04:31:51.546446+00:00"
-  },
-  {
-   "faits": [
-    "Le président sénégalais Diomaye Faye se rend au Mali le 28 juillet pour une visite de travail",
-    "Il est président en exercice de la Communauté économique des États de l'Afrique de l'Ouest (Cédéao) depuis le 19 juillet",
-    "Les discussions portent sur un possible rapprochement entre la Cédéao et l'AES (Alliance des États du Sahel)"
-   ],
-   "qui": "Diomaye Faye, Cédéao, AES",
-   "ou": "Mali, Sénégal, Afrique de l'Ouest",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "Un possible rapprochement entre la Cédéao et l'AES"
-   ],
-   "importance": 55,
-   "empreinte": "372f8c4b95b601e5",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T04:31:51.546447+00:00"
-  },
-  {
-   "faits": [
-    "Des rouleaux de la Torah d'une grande valeur ont été volés dans la synagogue de Levallois-Perret (Hauts-de-Seine)",
-    "Le vol s'est produit dans la nuit de dimanche à lundi",
-    "Deux hommes se sont introduits dans la synagogue en escaladant à l'aide d'une corde",
-    "Entre 13 et 15 rouleaux de la Torah ont été dérobés"
-   ],
-   "qui": "Deux hommes non identifiés",
-   "ou": "Levallois-Perret, Hauts-de-Seine, France",
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "c6d10af9e4c78aea",
-   "score": 76,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T04:31:51.546451+00:00"
   }
  ],
  "publies_48h": [
