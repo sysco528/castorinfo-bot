@@ -523,7 +523,8 @@
    "https://www.lemonde.fr/series-d-ete/article/2026/07/28/terreurs-nocturnes-hurlements-et-gestes-inconsideres-quand-le-cerveau-est-a-moitie-endormi_6735363_3451060.html",
    "https://www.lemonde.fr/afrique/article/2026/07/28/guerre-au-soudan-l-armee-fait-une-avancee-strategique-apres-des-mois-de-gel-du-front_6735364_3212.html",
    "https://www.lemonde.fr/societe/article/2026/07/28/patrick-bruel-sous-le-coup-de-deux-nouvelles-plaintes-pour-viol-et-agression-sexuelle_6735570_3224.html",
-   "https://www.lemonde.fr/disparitions/article/2026/07/28/betye-saar-figure-tutelaire-de-l-art-afro-americain-est-morte_6735604_3382.html"
+   "https://www.lemonde.fr/disparitions/article/2026/07/28/betye-saar-figure-tutelaire-de-l-art-afro-americain-est-morte_6735604_3382.html",
+   "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-une-reforme-pour-accelerer-l-expulsion-des-demandeurs-d-asile_6735606_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
    "https://www.lefigaro.fr/faits-divers/il-faut-parfois-se-rendre-a-l-evidence-pourquoi-les-fouilles-pour-retrouver-le-corps-de-delphine-jubillar-ont-ete-interrompues-si-vite-20260721",
@@ -828,7 +829,6 @@
    "https://www.lefigaro.fr/secteur/high-tech/claude-mythos-peut-il-detruire-l-economie-mondiale-et-les-communications-l-ia-d-anthropic-a-compromis-les-mecanismes-secrets-qui-securisent-internet-20260728"
   ],
   "https://www.france24.com/fr/rss": [
-   "eea3aabc-850b-11f1-abe3-5f6c7c3346f2",
    "d27a8f80-850c-11f1-a505-6d6ddca8d8eb",
    "2e0adade-8513-11f1-b655-8717954ada7c",
    "8096d9b6-8508-11f1-8329-5f6c7c3346f2",
@@ -1127,7 +1127,8 @@
    "f13e7386-8abc-11f1-9ae2-95e8bdb0c887",
    "d01710f0-8ac1-11f1-989b-95e8bdb0c887",
    "f4218b38-8ac1-11f1-bd10-eda9e3b2e2fd",
-   "73d2b614-8ac1-11f1-a77a-eda9e3b2e2fd"
+   "73d2b614-8ac1-11f1-a77a-eda9e3b2e2fd",
+   "058faf92-8ace-11f1-a14f-0584dd957e07"
   ],
   "https://www.rfi.fr/fr/rss": [
    "03fb78bc-8120-11f1-abe5-cf7a6a208f38",
@@ -1432,8 +1433,6 @@
    "87664a02-8a75-11f1-89aa-af282fec2330"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/politique/protoxyde-dazote-free-party-que-contient-la-loi-ripost-definitivement-adoptee-par-le-parlement-ce-mardi-bf7fddaa-850b-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/tennis/roland-garros/roland-garros-le-tournoi-va-devenir-le-premier-grand-chelem-a-proposer-aux-joueurs-une-part-des-revenus-a45605fa-8546-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/transferts/mercato-presnel-kimpembe-quitte-le-qatar-sc-apres-une-saison-seulement-391e4b16-8547-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/environnement/ecologie/transition-ecologique/loi-durgence-agricole-monique-barbut-ministre-de-la-transition-ecologique-demissionnera-dici-a-mercredi-matin-a1506a10-84e4-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/basket/victor-wembanyama/basket-victor-wembanyama-de-retour-avec-lequipe-de-france-une-tres-bonne-nouvelle-pour-son-selectionneur-9d377306-853e-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1731,7 +1730,9 @@
    "https://www.ouest-france.fr/leditiondusoir/2026-07-28/l-histoire-glacante-de-martin-dumollard-premier-tueur-en-serie-identifie-en-france-c09e68b6-2752-4c86-a8f1-3ad824dc87be?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/japon/seisme-au-japon-de-nombreuses-personnes-sans-doute-ensevelies-apres-leffondrement-dun-centre-commercial-23070f50-8ac1-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/tennis/tennis-le-fils-de-lleyton-hewitt-cruz-simpose-pour-la-premiere-fois-sur-le-circuit-atp-374e631e-8ac1-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/pedocriminalite/un-animateur-periscolaire-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-mineurs-dans-le-var-414271e6-8ab0-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/faits-divers/pedocriminalite/un-animateur-periscolaire-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-mineurs-dans-le-var-414271e6-8ab0-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/meteo/canicule/la-canicule-de-retour-apres-un-repit-de-dix-jours-4b7733ce-8ad1-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/kenya/le-kenya-enquete-sur-la-mort-de-15-elephants-en-un-mois-dans-le-parc-damboseli-8a3c147e-8ace-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -1962,7 +1963,11 @@
    "https://www.20minutes.fr/sport/football/4236708-20260728-equipe-france-zinedine-zidane-selectionneur-evidence-realisation-fantasme-ultime-foot-francais?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4236687-20260728-incendie-gironde-voyait-rester-bras-croises-bordeaux-benevoles-ur-entraide?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/diaporama/diaporama-4236699-images-carriere-legende-zinedine-zidane-nouveau-coach-equipe-france?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/ukraine/4236738-20260728-guerre-ukraine-zelensky-rencontre-trump-russie-leve-restrictions-carburant?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/ukraine/4236738-20260728-guerre-ukraine-zelensky-rencontre-trump-russie-leve-restrictions-carburant?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/justice/4236774-20260729-pedocriminalite-924-personnes-incarcerees-deux-mois-depuis-affaire-lyhanna?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/diaporama-4236499-images-huit-forteresses-royales-languedoc-classees-patrimoine-mondial-unesco?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4162766-20250709-incendies-fixe-circonscrit-maitrise-explique-vocabulaire-pompiers?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4236773-20260728-etats-unis-administration-trump-annonce-acceleration-expulsions-demandeurs-asile?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2204,7 +2209,19 @@
    "https://www.bfmtv.com/meteo/video-incendie-et-canicule-la-crainte-des-reprises-de-feu-en-france_VN-202607270579.html",
    "https://www.bfmtv.com/environnement/climat/video-la-reprise-de-l-incendie-inquiete-philippe-de-gonneville-maire-de-la-commune-de-lege-cap-ferret-en-gironde_VN-202607270578.html",
    "https://www.bfmtv.com/var/incendie-dans-le-var-un-camion-citerne-se-retourne-quatre-pompiers-blesses_AV-202607270576.html",
-   "https://www.bfmtv.com/environnement/climat/video-incendie-nous-avons-ete-tres-impactes-raconte-le-maire-du-temple-olivier-hallard_VN-202607270575.html"
+   "https://www.bfmtv.com/environnement/climat/video-incendie-nous-avons-ete-tres-impactes-raconte-le-maire-du-temple-olivier-hallard_VN-202607270575.html",
+   "https://www.bfmtv.com/meteo/secheresse/direct-incendies-en-france-des-reprises-de-flammes-en-cours-ce-matin-en-gironde_LN-202607280030.html",
+   "https://www.bfmtv.com/environnement/climat/incendies-en-france-le-feu-stabilise-mais-toujours-pas-fixe-en-gironde-le-departement-se-prepare-a-un-nouveau-pic-de-chaleur_AD-202607280593.html",
+   "https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump/guerre-au-moyen-orient-benjamin-netanyahu-affirme-avoir-eu-la-meilleure-des-conversations-avec-donald-trump_AD-202607280589.html",
+   "https://www.bfmtv.com/societe/video-incendie-feu-chaleur-l-engagement-des-volontaires-pour-assister-les-pompiers-n-a-pas-faibli_VN-202607280590.html",
+   "https://www.bfmtv.com/culture/cinema-series/veuillez-batifoler-avec-moderation-la-saison-3-de-severance-se-devoile-dans-un-premier-cliche-enigmatique_AN-202607280587.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-il-y-a-toujours-un-peu-d-apprehension-explique-le-maire-de-lanton-loic-ballongue_VN-202607280585.html",
+   "https://www.bfmtv.com/culture/musique/ariana-grande-porte-plainte-contre-deux-hackeurs-accuses-d-avoir-vole-des-chansons-de-l-artiste_AN-202607280584.html",
+   "https://www.bfmtv.com/international/asie/japon/magnitude-7-1-au-moins-50-hospitalisations-deflagration-d-un-centre-commercial-ce-que-l-on-sait-du-seisme-qui-a-secoue-le-japon-mardi_AV-202607280396.html",
+   "https://www.bfmtv.com/loto/resultats-euro-millions-fdj-le-tirage-du-mardi-28-juillet-2026_AN-202607280021.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-on-gere-l-urgence-c-est-du-h24-temoigne-le-maire-du-temple-olivier-halard_VN-202607280582.html",
+   "https://www.bfmtv.com/var/l-animateur-periscolaire-de-hyeres-soupconne-de-violences-sexuelles-mis-en-examen-pour-trois-affaires_AN-202607280580.html",
+   "https://www.bfmtv.com/environnement/climat/video-incendie-en-gironde-plusieurs-reprises-de-feu-sont-en-cours-dans-le-secteur_VN-202607280578.html"
   ],
   "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": [
    "https://www.lequipe.fr/Football/Article/-les-marques-s-associent-a-lui-sans-aucun-type-de-doutes-pourquoi-lamine-yamal-est-il-deja-l-un-des-joueurs-les-plus-bankable-au-monde/1704143",
@@ -2421,146 +2438,6 @@
  "evenements_attente": [
   {
    "faits": [
-    "Incendie fixé dans le Var après évacuation de près de 5 000 personnes",
-    "Incendie en Gironde stabilisé mais avec 14 reprises de feu signalées le mardi",
-    "L'incendie de Gironde a brûlé 42 000 hectares, plus grande superficie depuis un feu meurtrier en 1949",
-    "60 000 habitants de trois communes proches de Bordeaux autorisés à rentrer chez eux",
-    "Plus de 14 000 bénévoles mobilisés pour aider les évacués"
-   ],
-   "qui": "Préfecture du Var et Gironde",
-   "ou": "Var et Gironde, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "France 24",
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "a9302a8eede6a258",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-28T21:44:09.006454+00:00"
-  },
-  {
-   "faits": [
-    "Des incendies ravagent la Gironde et les Landes depuis le 22 juillet 2026",
-    "L'incendie de Biscarrosse a été fixé lundi soir grâce à la mobilisation de plus de 500 pompiers",
-    "Plus de 220 000 personnes ont été évacuées",
-    "Des reprises de feu et nouvelles évacuations préventives sont signalées le 28 juillet",
-    "Une quatrième vague de chaleur arrive, avec 16 départements placés en vigilance orange canicule à partir du 29 juillet",
-    "Des centaines d'habitations ont été détruites, ainsi que des entreprises et exploitations agricoles"
-   ],
-   "qui": null,
-   "ou": "Gironde, Landes, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "Le Figaro",
-    "RFI",
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "c603f8d6ee622da5",
-   "score": 100,
-   "fiab_max": 85,
-   "nb_sources": 3,
-   "depuis": "2026-07-28T18:59:51.277848+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie a ravagé plus de 42 000 hectares en Gironde depuis près d'une semaine",
-    "Près de 200 maisons ont été détruites à Le Porge",
-    "Un collectif d'habitants de Le Porge se constitue en vue d'une action judiciaire",
-    "L'avocat du collectif annonce un dépôt de plainte pénale et des actions administratives et civiles",
-    "14 reprises de feu ont été constatées le 28 juillet",
-    "Le feu est qualifié de stabilisé par la préfète",
-    "Des propositions de réintégration au domicile sont faites pour trois communes",
-    "4000 touristes ont quitté Lacanau en une matinée",
-    "Les pompiers de France entière sont envoyés en Gironde",
-    "Les avions et hélicoptères ne peuvent pas intervenir la nuit contre les incendies",
-    "Un pic de chaleur est attendu le 28 juillet avec des températures jusqu'à 42°C"
-   ],
-   "qui": "Collectif d'habitants du Porge, Préfète Sophie Brocas, Premier ministre Sébastien Lecornu",
-   "ou": "Gironde (Le Porge, Lacanau), France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Monde",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "361be5d66f988b71",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-28T16:21:06.803360+00:00"
-  },
-  {
-   "faits": [
-    "Un séisme de magnitude 7,1 a frappé le sud du Japon",
-    "Au moins un mort et plus de 50 blessés",
-    "Plusieurs dizaines de personnes sont portées disparues",
-    "Le deuxième étage d'un centre commercial s'est effondré",
-    "La préfecture de Kumamoto a été touchée",
-    "Le trafic ferroviaire a été suspendu dans tout le sud du pays",
-    "Aucune anomalie signalée dans les centrales nucléaires"
-   ],
-   "qui": null,
-   "ou": "Kumamoto, Japon",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "3ffbbccf6343ca2a",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-28T16:21:06.803362+00:00"
-  },
-  {
-   "faits": [
-    "Mégafeu en Gironde ayant parcouru 42 000 hectares",
-    "Évacuations massives en Gironde et dans les Landes",
-    "Gendarmerie a mobilisé 10 véhicules blindés Centaure",
-    "Plus de 100 kilomètres de pare-feu aménagés en Gironde",
-    "Incendies désormais fixés à Biscarrosse dans les Landes",
-    "Habitants de Biscarrosse commencent à regagner leurs domiciles"
-   ],
-   "qui": "Autorités françaises, gendarmerie, habitants, bénévoles",
-   "ou": "Gironde, Landes, Biscarrosse, sud-ouest de la France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro",
-    "France 24"
-   ],
-   "non_confirme": [
-    "Risque de reprises de feu"
-   ],
-   "importance": 85,
-   "empreinte": "27b31d4dda1e9b8b",
-   "score": 96,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-28T17:49:44.965807+00:00"
-  },
-  {
-   "faits": [
     "Zinédine Zidane a été nommé sélectionneur de l'équipe de France le 28 juillet 2026",
     "Il est une légende nationale en tant que joueur et entraîneur à succès avec le Real Madrid"
    ],
@@ -2580,32 +2457,6 @@
    "fiab_max": 85,
    "nb_sources": 2,
    "depuis": "2026-07-28T18:59:51.277863+00:00"
-  },
-  {
-   "faits": [
-    "Un suspect a blessé trois femmes avec des couteaux de cuisine à Paris le 28 juillet",
-    "Le suspect a été rapidement arrêté",
-    "Il a été placé en garde à vue du chef de tentatives de meurtre",
-    "La garde à vue a été levée pour raisons psychiatriques",
-    "Le suspect a été conduit à l'infirmerie psychiatrique de la préfecture de police de Paris",
-    "Le suspect faisait déjà l'objet d'un suivi psychiatrique"
-   ],
-   "qui": "Suspect non nommé",
-   "ou": "Paris",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "1788769ce40a35d2",
-   "score": 95,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-28T16:21:06.803367+00:00"
   },
   {
    "faits": [
@@ -2758,28 +2609,6 @@
   },
   {
    "faits": [
-    "924 personnes ont été incarcérées depuis le lancement de la revue nationale des procédures de violences sexuelles sur mineurs",
-    "La revue a été lancée après la mort de Lyhanna",
-    "Le ministre de la Justice avait donné jusqu'au 14 juillet pour reprendre l'intégralité des plaintes concernant les enfants"
-   ],
-   "qui": "Ministre de la Justice, magistrats et enquêteurs",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "18c70e96d236b7cc",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T16:21:06.803370+00:00"
-  },
-  {
-   "faits": [
     "L'incendie dans les régions de Madrid, Tolède et Avila a ravagé près de 77 000 hectares",
     "Près de 90 000 personnes ont été évacuées ou placées en confinement en Espagne",
     "Des villages comme Aldea del Fresno ont été vidés complètement",
@@ -2898,29 +2727,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T17:49:44.965822+00:00"
-  },
-  {
-   "faits": [
-    "Des ossements de quatre nourrissons et le corps d'un cinquième ont été retrouvés au domicile d'un couple à Orange",
-    "La mère de famille venait d'accoucher d'un bébé en bonne santé",
-    "Le compagnon de la mère a fait la découverte des dépouilles",
-    "Le parquet de Carpentras a ouvert une enquête pour meurtre sur mineur de moins de 15 ans"
-   ],
-   "qui": "Couple non nommé, parquet de Carpentras",
-   "ou": "Orange",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "2c27eb0f07f3a6cf",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T16:21:06.803372+00:00"
   },
   {
    "faits": [
@@ -3063,26 +2869,30 @@
   },
   {
    "faits": [
-    "Seize départements sont en vigilance orange canicule le 28 juillet",
-    "Un pic de chaleur est attendu le 28 juillet avec des températures jusqu'à 42°C entre Bordeaux et Toulouse",
-    "Plus de 35°C sont attendus dans de nombreuses grandes villes",
-    "Une quatrième vague de chaleur arrive en France"
+    "Un séisme de magnitude 7,1 a frappé l'île de Kyushu le 28 juillet",
+    "Au moins trois morts sont confirmés",
+    "Des dizaines de personnes ont été hospitalisées",
+    "Une déflagration d'un centre commercial a été signalée",
+    "D'importants dégâts ont été enregistrés",
+    "Une alerte au tsunami a été déclenchée puis levée"
    ],
    "qui": null,
-   "ou": "France (Gironde, Landes, Bordeaux, Toulouse)",
+   "ou": "Kyushu, Japon",
    "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 88,
+   "sensible": true,
+   "confiance": 87,
    "sources": [
-    "Le Figaro"
+    "BFMTV"
    ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "12345396b410d257",
-   "score": 83,
-   "fiab_max": 85,
+   "non_confirme": [
+    "Nombre total de victimes recherchées par les secours"
+   ],
+   "importance": 85,
+   "empreinte": "dfd311fbfb88d6d9",
+   "score": 82,
+   "fiab_max": 75,
    "nb_sources": 1,
-   "depuis": "2026-07-28T16:21:06.803376+00:00"
+   "depuis": "2026-07-28T22:45:30.520553+00:00"
   },
   {
    "faits": [
@@ -3129,6 +2939,29 @@
   },
   {
    "faits": [
+    "Un quatrième épisode de canicule s'installe à partir du 29 juillet en France",
+    "Cet épisode devrait être moins intense et durable que les précédents",
+    "Il suit dix jours de répit des températures",
+    "Le Sud-Ouest est particulièrement affecté par la canicule et l'incendie"
+   ],
+   "qui": null,
+   "ou": "France, notamment Sud-Ouest",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 78,
+   "empreinte": "c57c3bce58fa04d4",
+   "score": 82,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T22:45:40.487753+00:00"
+  },
+  {
+   "faits": [
     "La Cour des comptes constate que le nombre et la proportion de femmes préfètes ont diminué depuis 2019",
     "Après une période de nette hausse, cette tendance s'est inversée",
     "La fonction de préfet reste un bastion masculin malgré les discours officiels"
@@ -3148,29 +2981,146 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T20:22:49.818647+00:00"
+  },
+  {
+   "faits": [
+    "Depuis le 8 juin, une revue nationale des plaintes pour violences sexuelles sur mineurs a conduit à 924 incarcérations",
+    "Près de 1.700 informations judiciaires ont été ouvertes",
+    "Le bilan a été présenté le 28 juillet par le ministère de la Justice"
+   ],
+   "qui": "Ministère de la Justice français",
+   "ou": "France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 83,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 81,
+   "empreinte": "7b94e17286f19288",
+   "score": 80,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T22:45:30.520651+00:00"
+  },
+  {
+   "faits": [
+    "Les huit forteresses royales du Languedoc ont été inscrites au patrimoine mondial de l'Unesco",
+    "L'inscription a eu lieu dimanche avant le 28 juillet",
+    "Le département de l'Aude a travaillé sur ce projet pendant plus de dix-sept ans"
+   ],
+   "qui": "Département de l'Aude, Unesco",
+   "ou": "Languedoc, Aude, France",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "a78ebdf4299c94a4",
+   "score": 78,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T22:45:40.487756+00:00"
+  },
+  {
+   "faits": [
+    "Une enquête a été ouverte sur la mort inexpliquée de 15 éléphants",
+    "Les décès se sont produits en un mois dans le parc d'Amboseli au Kenya",
+    "L'annonce a été faite le 28 juillet par le service de protection de la vie sauvage du Kenya (KWS)"
+   ],
+   "qui": "KWS (Kenya Wildlife Service)",
+   "ou": "Parc d'Amboseli, Kenya",
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "Causes de la mort des éléphants"
+   ],
+   "importance": 62,
+   "empreinte": "00ee2d89bf62a014",
+   "score": 77,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T22:45:40.487758+00:00"
+  },
+  {
+   "faits": [
+    "Un animateur périscolaire de Hyères a été mis en examen le 28 juillet",
+    "Il est soupçonné de violences sexuelles",
+    "Il a été mis en examen pour trois affaires de viols et d'agressions sexuelles",
+    "Il est placé sous contrôle judiciaire"
+   ],
+   "qui": "Animateur périscolaire de Hyères",
+   "ou": "Hyères, France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "3eb7ca9c87af13f6",
+   "score": 76,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T22:45:30.520740+00:00"
+  },
+  {
+   "faits": [
+    "Benjamin Netanyahu affirme avoir eu 'la meilleure des conversations' avec Donald Trump",
+    "La rencontre a porté sur un 'objectif commun: s'assurer que l'Iran ne se dote pas d'armes nucléaires'"
+   ],
+   "qui": "Benjamin Netanyahu, Donald Trump",
+   "ou": "États-Unis, Israël",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "bdec71270f82f745",
+   "score": 76,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T22:45:40.487760+00:00"
+  },
+  {
+   "faits": [
+    "Ariana Grande a porté plainte contre deux hackeurs",
+    "Les hackeurs sont soupçonnés d'avoir volé des chansons et des contenus privés",
+    "Des vidéos, enregistrements audios et photos privés d'Ariana Grande auraient été divulgués",
+    "Son nouvel album 'Petal' doit sortir le 31 juillet"
+   ],
+   "qui": "Ariana Grande, deux hackeurs",
+   "ou": null,
+   "categorie": "faits_divers",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "BFMTV"
+   ],
+   "non_confirme": [
+    "Identité des hackeurs"
+   ],
+   "importance": 55,
+   "empreinte": "5b45d64a54fc5f16",
+   "score": 72,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T22:45:30.520771+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "4b4077249e336d57",
-   "2026-07-26T07:28:22.167189+00:00"
-  ],
-  [
-   "08ec3450161e1423",
-   "2026-07-26T07:28:26.206927+00:00"
-  ],
-  [
-   "3e437a61b66bab50",
-   "2026-07-26T09:37:53.418594+00:00"
-  ],
-  [
-   "185cfc5d174c5438",
-   "2026-07-26T22:16:52.711276+00:00"
-  ],
-  [
-   "a3d2899c0d74338a",
-   "2026-07-26T22:16:56.805689+00:00"
-  ],
   [
    "aadad54d22c1e7bc",
    "2026-07-26T23:17:16.295721+00:00"
@@ -3242,17 +3192,17 @@
   [
    "b5722c697e26825c",
    "2026-07-28T07:21:37.216064+00:00"
+  ],
+  [
+   "3dbf76bb3b563ddb",
+   "2026-07-28T22:45:41.529329+00:00"
+  ],
+  [
+   "4e49242195afa6aa",
+   "2026-07-28T22:45:45.531463+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "58aca09dc2047a25",
-   "2026-07-26T22:16:47.051885+00:00"
-  ],
-  [
-   "c58ba5a381c2e70b",
-   "2026-07-26T22:16:51.565205+00:00"
-  ],
   [
    "1e16e0d9e6419ed6",
    "2026-07-26T23:17:11.527601+00:00"
@@ -3324,24 +3274,24 @@
   [
    "0269aa570882b5fa",
    "2026-07-28T07:21:32.027491+00:00"
+  ],
+  [
+   "c603f8d6ee622da5",
+   "2026-07-28T22:45:35.247297+00:00"
+  ],
+  [
+   "a9302a8eede6a258",
+   "2026-07-28T22:45:40.487717+00:00"
   ]
  ],
  "depeches_du_jour": [
-  "⚡ FLASH — Un incendie parti de Saumos en Gironde a parcouru 42.000 hectares et évacué 220.000 personnes. Emmanuel Macron annonce que le feu des Landes est fixé. Les habitants peuvent rentrer. Bilan : 84 à 88 pompiers blessés, 13.000 entreprises impactées. (franceinfo)",
-  "🌡️ Des incendies ravagent la Gironde et le Sud-Ouest. Emmanuel Macron annonce que l'incendie dans les Landes « est fixé ». Pompiers mobilisés en renfort. Qualité de l'air dégradée en Nouvelle-Aquitaine et Occitanie. (franceinfo)",
-  "🇬🇧 Le Premier ministre britannique Andy Burnham a reçu le président ukrainien Zelensky une semaine après sa prise de fonction. Il a réaffirmé le soutien de Londres à Kiev « à 100 % ». (RFI, 20 Minutes)",
-  "⚡ FLASH — Un incendie ravage 42 000 hectares en Gironde près de Bordeaux. Des reprises de feu persistaient lundi à Saint-Jean-d'Illac malgré une situation stabilisée. Les trajets ferroviaires au sud sont perturbés. (Ouest-France, 20 Minutes)",
-  "⚖️ Le chanteur américain D4vd, 21 ans, sera jugé pour le meurtre de l'adolescente Celeste Rivas Hernandez. Il est accusé de l'avoir poignardée à mort. D4vd encourt l'emprisonnement à perpétuité ou la peine de mort. (Le Figaro, BFMTV)",
-  "Après un incendie dévastateur, La Plaine-sur-Mer (Loire-Atlantique) renforce ses contrôles de débroussaillement. Près de 80 signalements de défauts ont été transmis à la mairie cet été. (Le Figaro)",
-  "🌡️ Depuis le 22 juillet, des incendies ravagent le sud-ouest de la France. En Gironde, 42 000 hectares ont brûlé et 220 000 personnes ont été évacuées. Un pompier volontaire est mort lundi. (franceinfo)",
-  "⚽ Zinédine Zidane a été nommé sélectionneur de l'équipe de France de football. L'ancien entraîneur du Real Madrid succède à Didier Deschamps. Sa présentation officielle s'est déroulée le 28 juillet à Paris.",
-  "⚡ FLASH — Un incendie en Gironde reste stabilisé après une nuit calme. Le feu a brûlé 42 000 hectares depuis le 22 juillet. Aux Landes, l'incendie près de Biscarrosse est fixé (3 600 hectares). Météo-France prévoit 40°C mercredi et une dégradation de la qualité de l'air.",
-  "⚽ Zinédine Zidane a été présenté comme nouveau sélectionneur de l'équipe de France le 28 juillet au siège de la Fédération française de football. Il succède à Didier Deschamps. Plus de 120 journalistes et photographes ont assisté à la présentation. (Le Figaro, France 24)"
+  "⚡ FLASH — Un mégafeu en Gironde a ravagé 42 000 hectares avec 14 reprises de feu le 28 juillet. Bien que stabilisé, un pic de chaleur mercredi aggravera le danger. Milliers de touristes évacués préventivement. (BFMTV, Ouest-France)",
+  "🇫🇷 L'incendie de Gironde, stabilisé après 14 reprises de feu, a détruit 42 000 hectares, la plus grande superficie depuis 1949. En Var, le feu est fixé après l'évacuation de 5 000 personnes. 60 000 habitants peuvent rentrer chez eux."
  ],
  "recap_date": "2026-07-28",
  "echecs_extraction": 0,
  "compteur": {
-  "date": "2026-07-28",
-  "publies": 10
+  "date": "2026-07-29",
+  "publies": 2
  }
 }
