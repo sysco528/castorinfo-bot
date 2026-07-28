@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/sports/renforcement-du-pouvoir-des-federations-sport-feminin-lutte-contre-le-piratage-ce-que-la-reforme-du-sport-professionnel-va-changer_8116541.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-levee-a-partir-de-mercredi_8116658.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-justice_8116817.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/loi-d-urgence-agricole-monique-barbut-presentera-sa-demission-d-ici-le-conseil-des-ministres-de-mercredi_8116922.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-41-morts-selon-un-nouveau-bilan-des-autorites_8116967.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/megafeu-en-gironde-dans-les-yeux-d-un-pompier-au-c-ur-du-brasier_8125739.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-batiments-endommages-centre-commercial-effondre-pont-eventre-les-degats-provoques-par-le-seisme-de-magnitude-7-1-dans-le-sud-du-japon_8125514.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-sexuelles-sur-mineurs-924-personnes-incarcerees-depuis-le-lancement-de-la-revue-nationale-des-procedures-apres-l-affaire-lyhanna_8125715.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/la-garde-a-vue-du-suspect-dans-l-attaque-au-couteau-a-paris-a-ete-levee-pour-raison-psychiatrique_8125730.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/faits-divers/la-garde-a-vue-du-suspect-dans-l-attaque-au-couteau-a-paris-a-ete-levee-pour-raison-psychiatrique_8125730.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/trois-francais-retrouves-morts-en-afrique-du-sud-deux-suspects-interpelles-au-luxembourg_8125925.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/onvousrepond-est-il-possible-de-se-faire-rembourser-un-sejour-reserve-en-gironde-ou-dans-les-landes-mais-dans-une-commune-non-evacuee_8124248.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -510,13 +510,12 @@
    "https://www.lemonde.fr/afrique/article/2026/07/28/il-n-y-a-aucune-somnolence-au-sommet-de-l-etat-au-cameroun-la-controverse-enfle-sur-l-absence-prolongee-du-president-paul-biya-93-ans_6735290_3212.html",
    "https://www.lemonde.fr/international/article/2026/07/28/seisme-au-japon-tremblement-de-terre-de-magnitude-7-1-au-moins-un-mort-et-des-dizaines-de-blesses_6734975_3211.html",
    "https://www.lemonde.fr/politique/article/2026/07/28/demandeurs-d-emploi-une-hausse-en-trompe-l-il-a-interpreter-avec-prudence_6735288_823448.html",
-   "https://www.lemonde.fr/societe/article/2026/07/28/les-ossements-de-quatre-nourrissons-et-le-corps-d-un-cinquieme-retrouves-au-domicile-d-un-couple-a-orange_6735283_3224.html"
+   "https://www.lemonde.fr/societe/article/2026/07/28/les-ossements-de-quatre-nourrissons-et-le-corps-d-un-cinquieme-retrouves-au-domicile-d-un-couple-a-orange_6735283_3224.html",
+   "https://www.lemonde.fr/international/article/2026/07/28/j-ai-pris-la-fuite-pour-proteger-mes-enfants-mais-ca-n-a-pas-suffi-a-gaza-les-missiles-israeliens-continuent-de-tuer-des-civils-malgre-le-cessez-le-feu_6735327_3210.html",
+   "https://www.lemonde.fr/societe/article/2026/07/28/attaque-au-couteau-a-paris-la-garde-a-vue-du-suspect-a-ete-levee-pour-raison-psychiatrique_6735400_3224.html",
+   "https://www.lemonde.fr/economie/article/2026/07/28/cma-cgm-augmente-ses-profits-malgre-le-conflit-au-moyen-orient_6735399_3234.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/liban-l-armee-annonce-avoir-entame-son-deploiement-dans-les-zones-pilotes-du-sud-du-pays-20260721",
-   "https://www.lefigaro.fr/politique/elles-ont-failli-en-venir-aux-mains-a-l-assemblee-grosse-altercation-borne-genevard-en-marge-de-la-loi-agricole-20260721",
-   "https://www.lefigaro.fr/conjoncture/qu-est-ce-que-l-acetamipride-ce-pesticide-decrie-dans-la-proposition-de-loi-duplomb-20250526",
-   "https://www.lefigaro.fr/politique/sebastien-lecornu-appelle-a-ne-pas-instrumentaliser-a-des-fins-politiciennes-la-loi-d-urgence-agricole-utile-pour-notre-souverainete-alimentaire-20260721",
    "https://www.lefigaro.fr/actualite-france/approuvez-vous-la-reintroduction-de-deux-pesticides-dans-le-cadre-de-la-loi-d-urgence-agricole-20260721",
    "https://www.lefigaro.fr/marseille/fusillade-a-carcassonne-maire-menace-a-ales-la-dzng-une-franchise-identitaire-et-ultraviolente-de-la-dz-mafia-20260721",
    "https://www.lefigaro.fr/international/royaume-uni-un-navire-russe-mene-un-exercice-de-tir-reel-dans-la-manche-20260721",
@@ -812,20 +811,13 @@
    "https://www.lefigaro.fr/actualite-france/c-est-fini-la-saison-est-terminee-comment-4000-touristes-ont-quitte-lacanau-en-une-matinee-a-cause-de-la-reprise-des-feux-en-gironde-20260728",
    "https://www.lefigaro.fr/meteo/incendies-16-departements-passent-en-vigilance-orange-canicule-mercredi-dont-la-gironde-et-les-landes-20260728",
    "https://www.lefigaro.fr/meteo/jusqu-a-42-0c-attendus-mercredi-decouvrez-l-arrivee-de-la-vague-de-chaleur-en-carte-20260728",
-   "https://www.lefigaro.fr/politique/incendies-sebastien-lecornu-renonce-a-ses-vacances-le-temps-de-gerer-la-crise-des-mega-feux-20260728"
+   "https://www.lefigaro.fr/politique/incendies-sebastien-lecornu-renonce-a-ses-vacances-le-temps-de-gerer-la-crise-des-mega-feux-20260728",
+   "https://www.lefigaro.fr/nantes/guerande-apres-9-heures-de-traque-l-etat-cede-face-a-280-caravanes-de-gens-du-voyage-le-maire-s-estime-abandonne-20260728",
+   "https://www.lefigaro.fr/actualite-france/grenades-camera-thermique-et-possible-mitrailleuse-qu-est-ce-que-le-centaure-ce-vehicule-blinde-deploye-massivement-ce-18-septembre-20250917",
+   "https://www.lefigaro.fr/faits-divers/paris-un-homme-de-51-ans-meurt-dans-l-incendie-d-un-immeuble-du-6e-arrondissement-20260728",
+   "https://www.lefigaro.fr/actualite-france/casser-la-puissance-du-feu-comment-fonctionnent-les-pare-feu-destines-a-lutter-contre-les-incendies-en-gironde-20260728"
   ],
   "https://www.france24.com/fr/rss": [
-   "39e1c00c-84f5-11f1-b4e5-b99ea12e5f3d",
-   "339a1fce-84ef-11f1-bfce-850f86d6b842",
-   "d459fe08-84e9-11f1-805e-850f86d6b842",
-   "38b1fdce-84ea-11f1-b591-4543be9e0018",
-   "45b287f2-7c55-11f1-9542-670d3c97ac56",
-   "c9f9574e-8505-11f1-b582-7bc91c273ccd",
-   "f4a06df4-8503-11f1-a720-cbcb842c3636",
-   "ae389676-8502-11f1-8d35-7bc91c273ccd",
-   "9767546a-8501-11f1-adee-cbcb842c3636",
-   "d932c354-84ff-11f1-ae59-ed7d023246a3",
-   "547a9a74-84ff-11f1-8f0a-ed7d023246a3",
    "6221d59e-84fe-11f1-8870-0512b7ed56f2",
    "e67c20e6-84fa-11f1-abce-ed7d023246a3",
    "7081173e-84fa-11f1-89bf-ed7d023246a3",
@@ -1114,7 +1106,18 @@
    "f86cdd00-8a8a-11f1-996d-699076c444cd",
    "6a736afe-8a8b-11f1-9616-699076c444cd",
    "b69df7dc-8a8b-11f1-b4e5-699076c444cd",
-   "866badb6-8a86-11f1-a822-23ba223161d8"
+   "866badb6-8a86-11f1-a822-23ba223161d8",
+   "649a90e0-8aa8-11f1-a1a1-4fd5a9119f83",
+   "b54f7a44-8aa5-11f1-932a-4fd5a9119f83",
+   "cc9ec64c-8a9f-11f1-8d7b-b7a597e9737f",
+   "b092fbf0-8a98-11f1-b6fe-13d5c2d79547",
+   "a51f23e4-8a9c-11f1-b6d8-41fb76f7cbab",
+   "ced5367c-8a9e-11f1-8cad-41fb76f7cbab",
+   "1b863226-8a92-11f1-9610-bfe2448e68db",
+   "9df4512e-8a9d-11f1-9cd1-b7a597e9737f",
+   "f042b87e-8a9a-11f1-aeb1-b7a597e9737f",
+   "5e23ddba-8a95-11f1-ba93-cfb32d911fa7",
+   "a9dcf31a-8a98-11f1-ae0f-13d5c2d79547"
   ],
   "https://www.rfi.fr/fr/rss": [
    "39281f2a-8069-11f1-8bc1-1dd3a32f23a0",
@@ -2570,6 +2573,34 @@
   },
   {
    "faits": [
+    "Mégafeu en Gironde ayant parcouru 42 000 hectares",
+    "Évacuations massives en Gironde et dans les Landes",
+    "Gendarmerie a mobilisé 10 véhicules blindés Centaure",
+    "Plus de 100 kilomètres de pare-feu aménagés en Gironde",
+    "Incendies désormais fixés à Biscarrosse dans les Landes",
+    "Habitants de Biscarrosse commencent à regagner leurs domiciles"
+   ],
+   "qui": "Autorités françaises, gendarmerie, habitants, bénévoles",
+   "ou": "Gironde, Landes, Biscarrosse, sud-ouest de la France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [
+    "Risque de reprises de feu"
+   ],
+   "importance": 85,
+   "empreinte": "27b31d4dda1e9b8b",
+   "score": 96,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-28T17:49:44.965807+00:00"
+  },
+  {
+   "faits": [
     "Un suspect a blessé trois femmes avec des couteaux de cuisine à Paris le 28 juillet",
     "Le suspect a été rapidement arrêté",
     "Il a été placé en garde à vue du chef de tentatives de meurtre",
@@ -2642,6 +2673,29 @@
   },
   {
    "faits": [
+    "Trois Français originaires de la Manche retrouvés morts en Afrique du Sud",
+    "Les victimes sont un couple et la grand-mère de la fille mineure du couple",
+    "Le couple était arrivé la veille avec la fille mineure",
+    "Deux suspects ont été interpellés au Luxembourg"
+   ],
+   "qui": "Trois ressortissants français ; deux suspects interpellés",
+   "ou": "Afrique du Sud ; Luxembourg (interpellations)",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "176c339aa1b16d14",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T17:49:44.965814+00:00"
+  },
+  {
+   "faits": [
     "924 personnes ont été incarcérées depuis le lancement de la revue nationale des procédures de violences sexuelles sur mineurs",
     "La revue a été lancée après la mort de Lyhanna",
     "Le ministre de la Justice avait donné jusqu'au 14 juillet pour reprendre l'intégralité des plaintes concernant les enfants"
@@ -2687,6 +2741,29 @@
   },
   {
    "faits": [
+    "Frappes israéliennes continuent à tuer des civils à Gaza malgré le cessez-le-feu",
+    "Depuis l'annonce du cessez-le-feu en octobre 2025, plus de 1 100 Gazaouis sont morts",
+    "Parmi les victimes, près de 300 mineurs selon l'Unicef",
+    "La famille Al-Masri (quatre enfants et leurs parents) morts brûlés dans l'incendie de leur maison touchée par un missile"
+   ],
+   "qui": "Autorités israéliennes ; population civile gazaouie",
+   "ou": "Gaza",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "228237d06f552604",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T17:49:44.965819+00:00"
+  },
+  {
+   "faits": [
     "L'Europe redoute une participation plus active de la Biélorussie à la guerre en Ukraine",
     "Alexandre Loukachenko maintient son pays dans une posture d'appui discret à la Russie",
     "La Biélorussie n'a pas engagé ses propres troupes pour le moment",
@@ -2709,6 +2786,52 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T14:34:23.021639+00:00"
+  },
+  {
+   "faits": [
+    "Attaque au couteau à Paris lundi",
+    "Un homme a blessé trois femmes à l'arme blanche",
+    "Le suspect a été interpellé",
+    "L'homme faisait l'objet d'un suivi psychiatrique",
+    "Il était inconnu des services de police et de l'autorité judiciaire",
+    "La garde à vue a été levée pour raison psychiatrique",
+    "Il a été conduit à l'infirmerie psychiatrique de la préfecture"
+   ],
+   "qui": "Un homme interpellé (non nommé)",
+   "ou": "Paris",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "274816470617da48",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T17:49:44.965822+00:00"
+  },
+  {
+   "faits": [
+    "Zinédine Zidane est nommé nouveau sélectionneur de l'équipe de France de football"
+   ],
+   "qui": "Zinédine Zidane",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "32b759d21e5e6116",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T17:49:44.965824+00:00"
   },
   {
    "faits": [
@@ -2754,6 +2877,28 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T12:07:23.188024+00:00"
+  },
+  {
+   "faits": [
+    "CMA CGM a dégagé 3 milliards de dollars de bénéfice opérationnel au deuxième trimestre",
+    "Le transporteur maritime français augmente ses profits malgré le conflit au Moyen-Orient",
+    "La hausse est portée par l'augmentation de la demande et des tarifs"
+   ],
+   "qui": "CMA CGM",
+   "ou": null,
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "0f155d9a277f58c2",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T17:49:44.965829+00:00"
   },
   {
    "faits": [
@@ -2852,6 +2997,27 @@
   },
   {
    "faits": [
+    "Séisme de magnitude 7,1 a frappé le sud-ouest du Japon le 28 juillet",
+    "Au moins un mort et des dizaines de blessés"
+   ],
+   "qui": null,
+   "ou": "Sud-ouest du Japon",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "47e3dabd59aa5731",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-28T17:49:44.964557+00:00"
+  },
+  {
+   "faits": [
     "Deux individus, dont un mineur de 15 ans, ont été interpellés pour avoir déclenché plusieurs départs de feu",
     "Ils sont suspectés d'être à l'origine de plusieurs incendies volontaires à Cuers et à Ollioules en juillet",
     "Ils ont été déférés au parquet de Toulon à l'issue de leur garde à vue lundi"
@@ -2946,144 +3112,27 @@
   },
   {
    "faits": [
-    "Syndicats et patronat ont parvenu à une position commune quasi-unanime",
-    "Ils appellent à la prudence quant au plan d'économies dans la branche des accidents du travail",
-    "Ils réagissent aux mesures de redressement du régime envisagées par l'exécutif"
+    "Un navire russe sous sanctions américaines, le Mikhael Britnev, a livré une cargaison le 9 juillet",
+    "La cargaison contenait des véhicules militaires",
+    "La livraison s'est faite au port de Lomé, au Togo",
+    "C'est la première fois que le Togo sert à l'acheminement d'armes russes au Sahel",
+    "Ces armes sont destinées au Mali dans le cadre du soutien russe au régime malien"
    ],
-   "qui": "Syndicats, patronat, gouvernement français",
-   "ou": "France",
-   "categorie": "economie",
+   "qui": "Russie ; Togo ; Mali",
+   "ou": "Togo, Mali, Sahel",
+   "categorie": "international",
    "sensible": false,
    "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "94f1eae259886f8a",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T12:07:23.188037+00:00"
-  },
-  {
-   "faits": [
-    "La Tunisie connaît une canicule prolongée avec plus de deux semaines de coupures répétées de courant",
-    "Entre 150 et 200 décès sont attribués à la canicule selon l'Ordre des jeunes médecins",
-    "Un coût économique lourd affecte les commerçants, producteurs et ouvriers",
-    "La crise énergétique a mis à jour l'extrême dépendance énergétique du pays"
-   ],
-   "qui": "Tunisie",
-   "ou": "Tunisie",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 82,
    "sources": [
     "France 24"
    ],
    "non_confirme": [],
    "importance": 65,
-   "empreinte": "0ea170454cef9d93",
-   "score": 80,
+   "empreinte": "89fce2423641090e",
+   "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-28T14:34:23.020807+00:00"
-  },
-  {
-   "faits": [
-    "Les financements de la lutte contre le sida ont chuté d'un cinquième l'an dernier",
-    "Des spécialistes avertissent que la lutte contre le sida est en « danger »",
-    "La science a fait des avancées importantes contre le sida"
-   ],
-   "qui": "Spécialistes en sida",
-   "ou": null,
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "5443cfc4a37862fa",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T14:34:23.020766+00:00"
-  },
-  {
-   "faits": [
-    "Le président camerounais Paul Biya, 93 ans, n'est pas rentré à Yaoundé depuis le 7 juin",
-    "Paul Biya est le doyen des chefs d'État dans le monde",
-    "Ses absences alimentent des interrogations sur son état de santé",
-    "Une controverse enfle sur l'inertie du pouvoir",
-    "Le Cameroun n'a pas connu d'alternance politique depuis son indépendance en 1960"
-   ],
-   "qui": "Paul Biya, Président du Cameroun",
-   "ou": "Cameroun, Yaoundé",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "L'état de santé exact de Paul Biya"
-   ],
-   "importance": 60,
-   "empreinte": "129f9a5a2bb24d7e",
-   "score": 77,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T16:21:06.803119+00:00"
-  },
-  {
-   "faits": [
-    "Les démocrates américains tentent de regagner le cœur des cols bleus en Pennsylvanie",
-    "Le 7e district de Pennsylvanie fait partie de ceux qui pourraient redonner une majorité démocrate à la Chambre des représentants lors du scrutin de novembre",
-    "Une population ouvrière délaissée par l'administration Trump cherche à être captée"
-   ],
-   "qui": "Démocrates américains, administration Trump",
-   "ou": "Pennsylvanie, États-Unis",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "998c9124bd745ad9",
-   "score": 75,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T16:21:06.803379+00:00"
-  },
-  {
-   "faits": [
-    "Reinhold Messner est hanté par la disparition de son frère cadet en 1970",
-    "Les deux frères participaient à une expédition sur le Nanga Parbat en Himalaya pakistanais",
-    "Le cadet n'en est pas revenu",
-    "Plus de 50 ans après, les témoins de l'époque contestent le récit de Reinhold Messner",
-    "Reinhold Messner dénonce un complot monté contre lui"
-   ],
-   "qui": "Reinhold Messner, frère cadet disparu",
-   "ou": "Nanga Parbat, Himalaya pakistanais",
-   "categorie": "autre",
-   "sensible": false,
-   "confiance": 70,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Les véritables circonstances de la disparition du frère"
-   ],
-   "importance": 35,
-   "empreinte": "d1549f3ea0f44e22",
-   "score": 70,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T16:21:06.803069+00:00"
+   "depuis": "2026-07-28T17:49:44.965838+00:00"
   }
  ],
  "publies_48h": [
@@ -3274,7 +3323,7 @@
   "⚡ FLASH — Un incendie en Gironde reste stabilisé après une nuit calme. Le feu a brûlé 42 000 hectares depuis le 22 juillet. Aux Landes, l'incendie près de Biscarrosse est fixé (3 600 hectares). Météo-France prévoit 40°C mercredi et une dégradation de la qualité de l'air.",
   "⚽ Zinédine Zidane a été présenté comme nouveau sélectionneur de l'équipe de France le 28 juillet au siège de la Fédération française de football. Il succède à Didier Deschamps. Plus de 120 journalistes et photographes ont assisté à la présentation. (Le Figaro, France 24)"
  ],
- "recap_date": "2026-07-27",
+ "recap_date": "2026-07-28",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-28",
