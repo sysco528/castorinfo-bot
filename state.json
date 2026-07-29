@@ -530,8 +530,6 @@
    "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-intercepte-des-missiles-lances-par-l-iran_6725301_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://madame.lefigaro.fr/bien-etre/psycho/voici-les-4-vrais-signes-qui-permettent-de-reperer-un-menteur-20260721",
-   "https://www.lefigaro.fr/politique/victime-d-une-tentative-de-piratage-le-rn-ecarte-une-exposition-massive-de-donnees-personnelles-20260721",
    "https://www.lefigaro.fr/faits-divers/biarritz-deux-animateurs-d-un-centre-de-loisirs-places-en-garde-a-vue-pour-suspicions-de-viol-et-d-agressions-sexuelles-20260721",
    "https://www.lefigaro.fr/politique/lors-d-un-nouveau-vote-les-deputes-approuvent-la-perpetuite-pour-les-viols-en-serie-sur-les-moins-de-15-ans-20260721",
    "https://www.lefigaro.fr/bordeaux/un-impressionnant-incendie-se-declare-pres-de-l-aeroport-bordeaux-merignac-un-hectare-de-foret-deja-brule-20260721",
@@ -829,7 +827,9 @@
    "https://sante.lefigaro.fr/psychologie/complice-d-un-systeme-monstrueux-hans-asperger-le-psychiatre-qui-triait-les-enfants-pour-le-reich-20260728",
    "https://www.lefigaro.fr/international/lentement-mais-surement-vladimir-poutine-perd-l-empire-qu-il-voulait-recreer-20260728",
    "https://www.lefigaro.fr/secteur/high-tech/claude-mythos-peut-il-detruire-l-economie-mondiale-et-les-communications-l-ia-d-anthropic-a-compromis-les-mecanismes-secrets-qui-securisent-internet-20260728",
-   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-armee-americaine-annonce-avoir-intercepte-des-missiles-lances-par-l-iran-20260729"
+   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-armee-americaine-annonce-avoir-intercepte-des-missiles-lances-par-l-iran-20260729",
+   "https://www.lefigaro.fr/secteur/high-tech/ia-le-patron-d-anthropic-et-des-dirigeants-d-openai-meta-et-google-demandent-a-temporiser-la-sortie-des-modeles-20260729",
+   "https://www.lefigaro.fr/secteur/high-tech/openai-et-anthropic-veulent-eliminer-leurs-concurrents-le-debat-sur-les-dangers-de-l-ia-chinoise-vire-a-la-bataille-rangee-entre-geants-americains-de-la-tech-20260727"
   ],
   "https://www.france24.com/fr/rss": [
    "d27a8f80-850c-11f1-a505-6d6ddca8d8eb",
@@ -1972,7 +1972,9 @@
    "https://www.20minutes.fr/societe/4162766-20250709-incendies-fixe-circonscrit-maitrise-explique-vocabulaire-pompiers?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4236773-20260728-etats-unis-administration-trump-annonce-acceleration-expulsions-demandeurs-asile?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4236625-20260728-direct-guerre-moyen-orient-benyamin-netanyahou-va-rencontrer-donald-trump-maison-blanche?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/faits_divers/4236762-20260728-apres-attaque-couteau-paris-suspect-sort-garde-vue-raison-psychiatrique?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/faits_divers/4236762-20260728-apres-attaque-couteau-paris-suspect-sort-garde-vue-raison-psychiatrique?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4236775-20260729-etats-unis-obsede-cuba-marco-rubio-veut-faire-tomber-regime-communiste?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/etats-unis/4236785-20260729-etats-unis-trump-marque-gros-point-clayton-tete-renseignement-national?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2443,141 +2445,17 @@
    "https://www.lequipe.fr/Football/Actualites/Le-dinamo-zagreb-eteint-les-reves-de-thoune-au-2e-tour-preliminaire-de-ligue-des-champions-c-est-aussi-fini-pour-hearts/1707689",
    "https://www.lequipe.fr/Football/Actualites/Dino-toppmoller-apres-la-qualification-de-lens-pour-la-finale-de-la-como-cup-on-a-souvent-cree-de-la-superiorite-au-milieu-du-terrain/1707688",
    "https://www.lequipe.fr/Football/Article/Vente-ineluctable-jackpot-en-vue-et-nouveau-depart-d-un-cadre-lens-doit-faire-face-au-possible-transfert-de-mamadou-sangare/1707683",
-   "https://www.lequipe.fr/Football/Actualites/Battu-aux-tirs-au-but-par-famalicao-lens-est-quand-meme-qualifie-pour-la-finale-de-la-como-cup/1707685"
+   "https://www.lequipe.fr/Football/Actualites/Battu-aux-tirs-au-but-par-famalicao-lens-est-quand-meme-qualifie-pour-la-finale-de-la-como-cup/1707685",
+   "https://www.lequipe.fr/Football/Actualites/Le-defenseur-du-rc-lens-samson-baidoo-absent-trois-mois-en-raison-d-une-blessure-a-une-cuisse/1707684",
+   "https://www.lequipe.fr/Football/Actualites/Pierre-sage-battu-avec-crystal-palace-pour-ses-retrouvailles-avec-le-rc-lens-j-aimerais-bien-rejouer-contre-lens-a-la-fin-de-saison-pour-voir-si-les-choses-ont-change/1707677",
+   "https://www.lequipe.fr/Football/Article/Le-nouveau-selectionneur-des-bleus-zinedine-zidane-est-il-vraiment-un-adepte-du-jeu-offensif/1707628",
+   "https://www.lequipe.fr/Football/Actualites/Au-bresil-un-joueur-suspendu-jusqu-au-retablissement-d-un-adversaire-qu-il-a-lui-meme-blesse/1707675",
+   "https://www.lequipe.fr/Football/Actualites/De-gattuso-a-cannavaro-en-passant-par-pirlo-les-maudits-de-la-generation-lippi/1570675",
+   "https://www.lequipe.fr/Football/actu-en-direct/mercato-live/19567"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Séisme de magnitude 7,1 au sud du Japon, préfecture de Kumamoto",
-    "Au moins deux morts dans l'effondrement d'un centre commercial à Kashima",
-    "Plus de 100 blessés",
-    "Des personnes potentiellement piégées sous les décombres"
-   ],
-   "qui": null,
-   "ou": "Kumamoto et Kashima, sud-ouest du Japon",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France",
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "Nombre total de décès",
-    "Nombre de disparus",
-    "Nombre total de blessés"
-   ],
-   "importance": 75,
-   "empreinte": "39d2b1caf3d17950",
-   "score": 93,
-   "fiab_max": 80,
-   "nb_sources": 2,
-   "depuis": "2026-07-28T21:44:09.006468+00:00"
-  },
-  {
-   "faits": [
-    "Keiko Fujimori a été investie nouvelle présidente du Pérou",
-    "Elle a annoncé que les militaires assumeront le maintien de l'ordre",
-    "Les zones visées sont affectées par les gangs, le narcotrafic et l'extraction minière illégale",
-    "La fermeté contre la criminalité était l'une de ses principales promesses électorales"
-   ],
-   "qui": "Keiko Fujimori",
-   "ou": "Pérou",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Ouest-France",
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "a937136f0d3636b7",
-   "score": 92,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-28T23:46:04.768322+00:00"
-  },
-  {
-   "faits": [
-    "Un gigantesque incendie sévit en Gironde et ne progresse plus mardi 28 juillet",
-    "Les pompiers, forestiers, agriculteurs et habitants combattent l'incendie pour empêcher les reprises de flammes",
-    "La presqu'île du Cap Ferret a été évacuée mais compte encore quelques dizaines d'habitants qui ont choisi de rester malgré l'interdiction des autorités",
-    "Des habitants du Cap Ferret restent pour protéger leurs maisons et aider les pompiers",
-    "La faune est en détresse : biches, chevreuils, insectes et petits mammifères sont touchés",
-    "Des associations organisent des maraudes pour recueillir les animaux rescapés"
-   ],
-   "qui": "Pompiers, forestiers, agriculteurs, habitants de Gironde et Cap Ferret, associations de protection animale",
-   "ou": "Gironde, presqu'île du Cap Ferret, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "7fae7d24a1bc86ee",
-   "score": 91,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T20:22:49.818628+00:00"
-  },
-  {
-   "faits": [
-    "Un séisme de magnitude 7,1 a secoué le sud-ouest du Japon le 28 juillet",
-    "Au moins une personne a trouvé la mort dans l'effondrement d'une maison",
-    "Plusieurs blessés sont signalés, au moins une cinquantaine hospitalisées",
-    "De nombreuses personnes sont bloquées dans un centre commercial en partie effondré dans la région de Kumamoto",
-    "L'alerte au tsunami a été levée rapidement"
-   ],
-   "qui": null,
-   "ou": "Sud-ouest du Japon, Kumamoto",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "Nombre exact de blessés",
-    "Nombre exact de personnes bloquées dans le centre commercial"
-   ],
-   "importance": 85,
-   "empreinte": "b29619e12992a488",
-   "score": 87,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T18:59:51.276701+00:00"
-  },
-  {
-   "faits": [
-    "Volodymyr Zelensky a eu une rencontre avec Donald Trump à la Maison Blanche",
-    "Zelensky la qualifie de « belle rencontre »",
-    "Discussion sur les licences de production d'intercepteurs pour les missiles Patriot",
-    "Discussion sur des idées pour aider l'Ukraine",
-    "Discussion sur la diplomatie"
-   ],
-   "qui": "Volodymyr Zelensky, Donald Trump",
-   "ou": "Maison Blanche (États-Unis)",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Détails précis des autres idées discutées"
-   ],
-   "importance": 80,
-   "empreinte": "577d2ea1aebb8ef8",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T23:46:04.768327+00:00"
-  },
   {
    "faits": [
     "Betye Saar, figure de l'art afro-américain, est décédée dimanche 26 juillet à Los Angeles",
@@ -2602,29 +2480,6 @@
   },
   {
    "faits": [
-    "Trois Français originaires de la Manche retrouvés morts en Afrique du Sud",
-    "Les victimes sont un couple et la grand-mère de la fille mineure du couple",
-    "Le couple était arrivé la veille avec la fille mineure",
-    "Deux suspects ont été interpellés au Luxembourg"
-   ],
-   "qui": "Trois ressortissants français ; deux suspects interpellés",
-   "ou": "Afrique du Sud ; Luxembourg (interpellations)",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "176c339aa1b16d14",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T17:49:44.965814+00:00"
-  },
-  {
-   "faits": [
     "L'incendie dans les régions de Madrid, Tolède et Avila a ravagé près de 77 000 hectares",
     "Près de 90 000 personnes ont été évacuées ou placées en confinement en Espagne",
     "Des villages comme Aldea del Fresno ont été vidés complètement",
@@ -2646,29 +2501,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-28T20:22:49.817831+00:00"
-  },
-  {
-   "faits": [
-    "Frappes israéliennes continuent à tuer des civils à Gaza malgré le cessez-le-feu",
-    "Depuis l'annonce du cessez-le-feu en octobre 2025, plus de 1 100 Gazaouis sont morts",
-    "Parmi les victimes, près de 300 mineurs selon l'Unicef",
-    "La famille Al-Masri (quatre enfants et leurs parents) morts brûlés dans l'incendie de leur maison touchée par un missile"
-   ],
-   "qui": "Autorités israéliennes ; population civile gazaouie",
-   "ou": "Gaza",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "228237d06f552604",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T17:49:44.965819+00:00"
   },
   {
    "faits": [
@@ -2717,32 +2549,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T20:22:49.818635+00:00"
-  },
-  {
-   "faits": [
-    "Attaque au couteau à Paris lundi",
-    "Un homme a blessé trois femmes à l'arme blanche",
-    "Le suspect a été interpellé",
-    "L'homme faisait l'objet d'un suivi psychiatrique",
-    "Il était inconnu des services de police et de l'autorité judiciaire",
-    "La garde à vue a été levée pour raison psychiatrique",
-    "Il a été conduit à l'infirmerie psychiatrique de la préfecture"
-   ],
-   "qui": "Un homme interpellé (non nommé)",
-   "ou": "Paris",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "274816470617da48",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T17:49:44.965822+00:00"
   },
   {
    "faits": [
@@ -2810,28 +2616,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-28T20:22:49.818641+00:00"
-  },
-  {
-   "faits": [
-    "CMA CGM a dégagé 3 milliards de dollars de bénéfice opérationnel au deuxième trimestre",
-    "Le transporteur maritime français augmente ses profits malgré le conflit au Moyen-Orient",
-    "La hausse est portée par l'augmentation de la demande et des tarifs"
-   ],
-   "qui": "CMA CGM",
-   "ou": null,
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "0f155d9a277f58c2",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T17:49:44.965829+00:00"
   },
   {
    "faits": [
@@ -2935,27 +2719,6 @@
   },
   {
    "faits": [
-    "Séisme de magnitude 7,1 a frappé le sud-ouest du Japon le 28 juillet",
-    "Au moins un mort et des dizaines de blessés"
-   ],
-   "qui": null,
-   "ou": "Sud-ouest du Japon",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "47e3dabd59aa5731",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T17:49:44.964557+00:00"
-  },
-  {
-   "faits": [
     "Un quatrième épisode de canicule s'installe à partir du 29 juillet en France",
     "Cet épisode devrait être moins intense et durable que les précédents",
     "Il suit dix jours de répit des températures",
@@ -3047,6 +2810,29 @@
   },
   {
    "faits": [
+    "Un millier d'employés d'entreprises de l'IA ont demandé au gouvernement américain d'aider à temporiser la sortie des modèles d'IA les plus avancés",
+    "Le patron d'Anthropic et des dirigeants d'OpenAI, Meta et Google sont impliqués dans cette demande",
+    "OpenAI et Anthropic manœuvrent auprès de la Maison-Blanche pour obtenir une interdiction de modèles d'IA chinois",
+    "Nvidia, Microsoft, Google et Meta ont lancé une contre-offensive pour protéger l'IA open source"
+   ],
+   "qui": "Anthropic, OpenAI, Meta, Google, Nvidia, Microsoft",
+   "ou": "États-Unis",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "7e836afcb6c57351",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T01:13:55.060178+00:00"
+  },
+  {
+   "faits": [
     "Aux États-Unis, des électeurs de gauche s'arment par crainte de la radicalisation trumpiste",
     "Les armes à feu séduisent de plus en plus l'électorat progressiste",
     "Les personnes de couleur et LGBTQ+ achètent de plus en plus d'armes",
@@ -3067,6 +2853,28 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-28T23:46:04.768355+00:00"
+  },
+  {
+   "faits": [
+    "Victor Gabriel (Internacional) a commis un tacle qui a gravement blessé Gabriel Pec (Cruzeiro) au Championnat brésilien",
+    "Victor Gabriel a reçu une suspension minimale de six rencontres",
+    "Il ne pourra rejouer qu'une fois son adversaire rétabli, dans une limite de 180 jours"
+   ],
+   "qui": "Victor Gabriel, Gabriel Pec, Internacional, Cruzeiro",
+   "ou": "Brésil",
+   "categorie": "sport",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 48,
+   "empreinte": "e79988c723a4d747",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T01:13:46.759939+00:00"
   },
   {
    "faits": [
@@ -3160,17 +2968,120 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-28T22:45:40.487756+00:00"
+  },
+  {
+   "faits": [
+    "Samson Baidoo, défenseur du RC Lens, s'est blessé à une cuisse samedi",
+    "Il sera absent trois mois de compétition"
+   ],
+   "qui": "Samson Baidoo, RC Lens",
+   "ou": "France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "50150548ea2cc6c6",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T01:13:55.060190+00:00"
+  },
+  {
+   "faits": [
+    "Pierre Sage, entraîneur de Crystal Palace, a retrouvé le RC Lens en match amical",
+    "Crystal Palace s'est incliné 0-3 en 45 minutes face à Lens à Côme mardi",
+    "Sage a rendu hommage au collectif du RC Lens"
+   ],
+   "qui": "Pierre Sage, RC Lens, Crystal Palace",
+   "ou": "Côme (Italie)",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "7ddac7054b3a12c6",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T01:13:55.060192+00:00"
+  },
+  {
+   "faits": [
+    "Andrea Pirlo a été pressenti pour devenir sélectionneur de l'Italie",
+    "Andrea Pirlo a finalement été débarqué avant même d'être nommé",
+    "Sa génération (champions du monde 2006) a souvent échoué à suivre les pas de Marcello Lippi en tant que sélectionneur"
+   ],
+   "qui": "Andrea Pirlo, Gennaro Gattuso, Fabio Cannavaro, Marcello Lippi",
+   "ou": "Italie",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [
+    "Pirlo était-il vraiment pressenti pour le poste de sélectionneur"
+   ],
+   "importance": 55,
+   "empreinte": "76dba003201310c6",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T01:13:55.060194+00:00"
+  },
+  {
+   "faits": [
+    "Jay Clayton a été confirmé par le Sénat comme directeur du renseignement aux États-Unis",
+    "L'opposition démocrate craint que ce choix n'aide Donald Trump à s'ingérer dans les prochaines élections"
+   ],
+   "qui": "Jay Clayton, Donald Trump, Sénat américain",
+   "ou": "États-Unis",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "Le risque que Trump s'ingère dans les élections"
+   ],
+   "importance": 68,
+   "empreinte": "53694c9d28084387",
+   "score": 74,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T01:13:46.760047+00:00"
+  },
+  {
+   "faits": [
+    "Marco Rubio, secrétaire d'État américain, est devenu la figure de proue de la politique de Trump contre Cuba",
+    "Il fait de Cuba l'un des dossiers centraux de son action, via sanctions et pression"
+   ],
+   "qui": "Marco Rubio, Donald Trump",
+   "ou": "États-Unis, Cuba",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 76,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "4d63bb225876bb86",
+   "score": 73,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T01:13:46.760101+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "37458f65c860cafb",
-   "2026-07-27T01:02:24.479331+00:00"
-  ],
-  [
-   "20673c89cae0a84c",
-   "2026-07-27T01:02:28.389756+00:00"
-  ],
   [
    "17d4eacc8dd4b219",
    "2026-07-27T04:48:50.396343+00:00"
@@ -3242,17 +3153,17 @@
   [
    "f451e4272305e7b5",
    "2026-07-28T23:46:09.656339+00:00"
+  ],
+  [
+   "56cff3eafbaed6e3",
+   "2026-07-29T01:13:56.085115+00:00"
+  ],
+  [
+   "7f532245339c011d",
+   "2026-07-29T01:14:00.010080+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "0e62126cc343bc15",
-   "2026-07-27T01:02:19.872264+00:00"
-  ],
-  [
-   "5e272647aa371d55",
-   "2026-07-27T01:02:23.403077+00:00"
-  ],
   [
    "4d3c6ea35721f7b5",
    "2026-07-27T04:48:44.325442+00:00"
@@ -3324,18 +3235,28 @@
   [
    "e3e383ac0b862a07",
    "2026-07-28T23:46:04.768309+00:00"
+  ],
+  [
+   "39d2b1caf3d17950",
+   "2026-07-29T01:13:50.668149+00:00"
+  ],
+  [
+   "a937136f0d3636b7",
+   "2026-07-29T01:13:55.060147+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚡ FLASH — Un mégafeu en Gironde a ravagé 42 000 hectares avec 14 reprises de feu le 28 juillet. Bien que stabilisé, un pic de chaleur mercredi aggravera le danger. Milliers de touristes évacués préventivement. (BFMTV, Ouest-France)",
   "🇫🇷 L'incendie de Gironde, stabilisé après 14 reprises de feu, a détruit 42 000 hectares, la plus grande superficie depuis 1949. En Var, le feu est fixé après l'évacuation de 5 000 personnes. 60 000 habitants peuvent rentrer chez eux.",
   "La Gironde face à une nouvelle vague : 14 reprises de feu mardi, 42 000 hectares brûlés, 60 000 évacués. Depuis janvier, plus de 116 000 hectares ont brûlé en France. Dégâts estimés à plusieurs centaines de millions à des milliards d'euros. (Le Monde, RFI)",
-  "L'armée américaine affirme avoir intercepté des missiles lancés par l'Iran contre ses forces déployées au Moyen-Orient. Ce regain de tension intervient après plusieurs jours d'accalmie dans la région. (Le Monde, Le Figaro, 20 Minutes)"
+  "L'armée américaine affirme avoir intercepté des missiles lancés par l'Iran contre ses forces déployées au Moyen-Orient. Ce regain de tension intervient après plusieurs jours d'accalmie dans la région. (Le Monde, Le Figaro, 20 Minutes)",
+  "Un séisme de magnitude 7,1 a frappé la préfecture de Kumamoto au sud-ouest du Japon. L'effondrement d'un centre commercial à Kashima a fait au moins deux morts et plus de 100 blessés. Des personnes seraient piégées sous les décombres. (Ouest-France, 20 Minutes)",
+  "Keiko Fujimori investie présidente du Pérou annonce que l'armée assurera l'ordre dans les zones ravagées par les gangs et le narcotrafic. La lutte contre la criminalité était sa principale promesse électorale. (Ouest-France, RFI)"
  ],
  "recap_date": "2026-07-28",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-29",
-  "publies": 4
+  "publies": 6
  }
 }
