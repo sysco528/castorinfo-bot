@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/incendie/peine-respect-immense-chagrin-tres-emus-les-habitants-de-saint-medard-en-jalles-rendent-hommage-aux-deux-pompiers-decedes_8118356.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/usa/emprisonne-aux-etats-unis-l-ancien-president-du-venezuela-nicolas-maduro-sera-juge-a-new-york-en-juin-2027_8118359.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/sapeurs-pompiers-morts-en-gironde-le-systeme-d-autoprotection-du-camion-citerne-au-c-ur-des-interrogations_8118362.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/les-incendies-ont-brule-au-moins-44-000-hectares-en-france-en-2026-et-128-personnes-ont-ete-interpellees-annonce-laurent-nunez-en-gironde_8118410.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/drogue/je-suis-dans-ce-pays-la-personnalite-la-plus-protegee-apres-le-president-temoigne-amine-kessaci-adjoint-au-maire-de-marseille-devenu-une-cible-pour-sa-lutte-contre-le-narcotrafic_8118398.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +299,9 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/video-l-incendie-en-gironde-n-a-pas-progresse-mercredi-malgre-les-fortes-chaleurs-annonce-la-prefete_8127650.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/transports/sncf/la-sncf-maintient-jusqu-a-dimanche-l-annulation-des-tgv-au-sud-de-bordeaux_8127581.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-me-suis-vu-mourir-apres-avoir-frole-la-mort-dans-un-incendie-il-y-a-20-ans-ce-pompier-poursuit-sa-carriere_8127593.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/le-premier-ministre-demande-a-monique-barbut-de-nouvelles-mesures-concretes-d-adaptation-au-changement-climatique_8127563.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/le-premier-ministre-demande-a-monique-barbut-de-nouvelles-mesures-concretes-d-adaptation-au-changement-climatique_8127563.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/france/bourgogne-franche-comte/cote-d-or/en-cote-d-or-un-incendie-s-est-declare-au-sud-de-dijon-plus-de-50-hectares-de-vegetation-deja-brules_8127668.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-80-hectares-dedies-aux-recherches-forestieres-de-l-inrae-ont-brule-dans-l-incendie_8127662.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -584,7 +584,6 @@
    "https://www.lemonde.fr/economie/article/2026/07/29/la-fed-maintient-ses-taux-inchanges-sous-la-pression-de-donald-trump_6736412_3234.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/marseille/il-a-fait-le-malin-alors-ils-ne-vont-pas-le-lacher-a-ales-une-etonnante-banalisation-de-la-violence-apres-les-menaces-de-mort-repetees-contre-le-maire-20260722",
    "https://www.lefigaro.fr/marseille/maire-d-ales-menace-de-mort-par-la-dz-mafia-un-projet-d-action-violente-detecte-selon-laurent-nunez-qui-evoque-un-acte-d-intimidation-20260721",
    "https://www.lefigaro.fr/politique/la-france-n-a-aucun-objectif-chiffre-et-aucun-laxisme-sur-les-visas-delivres-aux-ressortissants-algeriens-affirme-emmanuel-macron-20260722",
    "https://www.lefigaro.fr/flash-actu/hauts-de-seine-daniel-siad-le-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-a-son-domicile-20260722",
@@ -883,11 +882,10 @@
    "https://www.lefigaro.fr/international/j-ai-l-impression-d-avoir-un-canon-sur-la-tempe-en-ukraine-les-crimes-de-guerre-se-multiplient-dans-la-zone-du-front-20260729",
    "https://www.lefigaro.fr/actualite-france/affaire-fedorova-quels-recours-pour-la-journaliste-face-au-risque-d-expulsion-20260729",
    "https://www.lefigaro.fr/actualite-france/xenia-fedorova-chroniqueuse-prorusse-visee-par-un-arrete-d-expulsion-du-ministere-de-l-interieur-20260729",
-   "https://www.lefigaro.fr/actualite-france/arrete-d-expulsion-contre-xenia-fedorova-ses-employeurs-canal-et-lagardere-denoncent-une-atteinte-a-la-liberte-d-expression-20260729"
+   "https://www.lefigaro.fr/actualite-france/arrete-d-expulsion-contre-xenia-fedorova-ses-employeurs-canal-et-lagardere-denoncent-une-atteinte-a-la-liberte-d-expression-20260729",
+   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-en-irak-premieres-frappes-conjointes-des-etats-unis-et-de-l-arabie-saoudite-20260729"
   ],
   "https://www.france24.com/fr/rss": [
-   "3a71e852-8591-11f1-a22e-3353155f7b93",
-   "90c60fdc-858f-11f1-96a4-ef9d0f25b305",
    "9140e1b0-8578-11f1-9b81-a9a2a33ab7ab",
    "3296563a-8533-11f1-a662-6565a0babe21",
    "4e5bda70-85bf-11f1-b35e-3fc541eb9bc0",
@@ -1185,11 +1183,11 @@
    "edbdd178-8b6d-11f1-b812-577215c78416",
    "4d52a89c-8b6f-11f1-a6e3-19d7a379be02",
    "b152dafc-8b5a-11f1-8e77-e5e117b9ce53",
-   "2cc665ca-8b59-11f1-bebd-e5e117b9ce53"
+   "2cc665ca-8b59-11f1-bebd-e5e117b9ce53",
+   "ebcfce24-8b8c-11f1-8e4e-e77c1c523c69",
+   "027b70d6-8b8a-11f1-ba90-ef2096710b2d"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "e5d694fa-8167-11f1-ad04-778a009e9e5a",
-   "63558f88-817e-11f1-918d-35f68a046dfe",
    "c66acc5a-818d-11f1-967d-e759111fda20",
    "276cefc4-8175-11f1-8f74-57954f8ea505",
    "4e250fc6-816f-11f1-aeab-778a009e9e5a",
@@ -1487,14 +1485,11 @@
    "a6182c4c-8b31-11f1-a18c-9b02f149194f",
    "6ec2408a-8b49-11f1-9344-bd6005b43734",
    "1e9f4588-8b2d-11f1-82a5-9b02f149194f",
-   "19e36ae2-8b28-11f1-9b03-592ac6ceb892"
+   "19e36ae2-8b28-11f1-9b03-592ac6ceb892",
+   "7156e9a0-8b89-11f1-8f0e-8db72439d8a6",
+   "830311a6-8b75-11f1-940a-87aff9db6b01"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/faits-divers/incendie/incendie-dans-le-var-le-feu-progresse-a-une-vitesse-tres-importante-plus-de-2-300-foyers-prives-delectricite-b20064c0-8564-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/us-concarneau/us-concarneau-je-suis-desormais-le-plus-age-thibault-sinquin-lexperience-au-service-du-collectif-f2c86054-84f4-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/temoignage-javais-un-trou-dans-los-ce-netait-plus-supportable-nicolas-edet-lex-pro-qui-ne-peut-plus-rouler-aa99e79c-745c-11f1-9172-187ee382b87f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-teheran-vise-les-allies-les-dernieres-infos-a6e33d34-8545-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-05d7b29c-8538-11f1-8b9c-5cc165c9e959?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/culture/arts/theatre/festival-avignon/avec-son-spectacle-garcon-samuel-certenais-milite-pour-dautres-modeles-de-virilite-37e7d88e-8123-11f1-9d8e-98fb5a42b8f3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-limogeage-du-commandant-en-chef-de-larmee-ukrainienne-frappes-en-russie-le-point-sur-la-nuit-9f2b8098-853f-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/venezuela/le-bilan-du-double-seisme-au-venezuela-monte-a-5-346-morts-03e5fd00-8573-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1789,7 +1784,12 @@
    "https://www.ouest-france.fr/leditiondusoir/2026-07-29/delation-auto-denonciation-et-regne-de-la-terreur-torquemada-l-homme-qui-a-transforme-l-inquisition-en-cauchemar-8ba80773-335c-45c4-888f-73710f05c6d2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/stade-rennais/stade-rennais-yassir-zabiri-prend-la-direction-du-racing-santander-8dc20988-8b7c-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/incendie/leur-maison-detruite-dans-un-feu-de-foret-pour-moi-cest-a-cause-dun-megot-fb8f0830-8b7c-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-29/pantalon-capri-robe-trapeze-lunettes-oversize-qu-est-ce-que-le-style-jackie-kennedy-a-la-mode-cet-ete-6ee2c583-c3ea-4b29-b6d1-4fb0aa457a74?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-29/pantalon-capri-robe-trapeze-lunettes-oversize-qu-est-ce-que-le-style-jackie-kennedy-a-la-mode-cet-ete-6ee2c583-c3ea-4b29-b6d1-4fb0aa457a74?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/espagne/incendies-en-espagne-avec-une-situation-favorable-fin-du-confinement-et-des-evacuations-pour-avila-fae9cb34-8b92-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/tennis/wta/sentiment-dinjustice-lois-boisson-enrage-apres-des-nouvelles-blessures-90e4fd68-8b91-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/ogc-nice/ligue-1-de-la-prison-ferme-requise-pour-des-ultras-de-logc-nice-juges-pour-des-violences-contre-les-joueurs-6a785eaa-8b90-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/russie/le-patron-de-telegram-vise-par-un-avis-de-recherche-international-emis-par-la-russie-pour-complicite-de-terrorisme-4775deb6-8b1b-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/cyclisme/thibaut-pinot/pour-combattre-les-incendies-les-pompiers-ont-eu-un-soutien-inattendu-celui-de-lancien-coureur-thibaut-pinot-13404f50-8b89-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2028,7 +2028,15 @@
    "https://www.20minutes.fr/monde/etats-unis/4236625-20260728-direct-guerre-moyen-orient-benyamin-netanyahou-va-rencontrer-donald-trump-maison-blanche?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/faits_divers/4236762-20260728-apres-attaque-couteau-paris-suspect-sort-garde-vue-raison-psychiatrique?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4236775-20260729-etats-unis-obsede-cuba-marco-rubio-veut-faire-tomber-regime-communiste?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/etats-unis/4236785-20260729-etats-unis-trump-marque-gros-point-clayton-tete-renseignement-national?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/etats-unis/4236785-20260729-etats-unis-trump-marque-gros-point-clayton-tete-renseignement-national?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/canicule/4236791-20260729-direct-incendies-canicule-revient-alors-sud-ouest-toujours-proie-flammes?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4236941-20260729-incendie-gironde-pouvais-partir-parmi-refugies-bordeaux-aussi-animaux?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/football/4236944-20260729-coupe-monde-2026-procedure-disciplinaire-ouverte-contre-argentine-paredes-fifa?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/4236934-20260729-azerbaidjan-condamnation-francais-martin-ryan-espionnage-confirmee-appel?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/societe/4236879-20260729-incendie-gironde-besoin-ceintures-agricoles-autour-villes-eviter-feu-propager?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/4236882-20260729-gironde-corse-landes-point-incendies-france?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/arts-stars/culture/4236892-20260729-mort-kavinsky-bien-plus-nightcall-comment-dj-reinvente-french-touch?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/canicule/4236909-20260729-canicule-chaleur-installe-23-departements-vigilance-orange-jeudi?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2539,34 +2547,6 @@
   },
   {
    "faits": [
-    "Plus de 45 000 hectares ravagés en Gironde et dans les Landes",
-    "Des centaines de bâtiments détruits",
-    "Cinq millions de masques FFP2 livrés en pharmacie",
-    "Dégradation de la qualité de l'air en Nouvelle-Aquitaine avec risques de dépassement du seuil d'alerte",
-    "L'armée de l'air utilise l'hélicoptère Caracal pour surveiller les flammes de nuit",
-    "Des centaines d'agriculteurs mobilisés pour épauler les pompiers",
-    "Des pétitions demandent un moratoire sur la chasse dans les forêts incendiées",
-    "Cinq personnes interpellées pour profitation de crise (recel de bijoux, vol de grands crus, cambriolage)"
-   ],
-   "qui": "Pompiers, armée de l'air, agriculteurs, autorités françaises",
-   "ou": "Gironde, Landes, Sud-Ouest, Nouvelle-Aquitaine",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "300ef918b81d25b2",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-29T15:05:10.085430+00:00"
-  },
-  {
-   "faits": [
     "L'incendie en Gironde n'a pas progressé mercredi malgré les fortes chaleurs",
     "La préfète de Gironde Sophie Brocas envisage un retour à une vie plus normale si l'accalmie se confirme",
     "La SNCF maintient jusqu'à dimanche l'annulation des TGV au sud de Bordeaux",
@@ -2672,28 +2652,26 @@
   },
   {
    "faits": [
-    "Les fédérations de football ont jusqu'au 19 septembre pour se prononcer sur le projet d'investisseurs privés à la Fifa",
-    "Gianni Infantino promet que le projet se fera « sans céder le contrôle de quelque nature que ce soit »",
-    "Application prévue dès le 1er janvier",
-    "De nombreuses critiques du projet",
-    "Une réunion d'urgence des instances européennes du football est prévue mercredi"
+    "Une importante reprise de feu à Fontainebleau",
+    "Le mégafeu en Gironde n'a pas progressé",
+    "La situation en Gironde est qualifiée de favorable"
    ],
-   "qui": "Gianni Infantino, Fifa, fédérations de football",
-   "ou": null,
-   "categorie": "sport",
+   "qui": null,
+   "ou": "Fontainebleau, Gironde",
+   "categorie": "meteo_catastrophe",
    "sensible": false,
-   "confiance": 88,
+   "confiance": 85,
    "sources": [
-    "franceinfo",
-    "Le Monde"
+    "France 24",
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 60,
-   "empreinte": "db339a1d32284786",
+   "importance": 75,
+   "empreinte": "cf38d95a13fdc379",
    "score": 93,
-   "fiab_max": 90,
+   "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-29T15:05:10.085447+00:00"
+   "depuis": "2026-07-29T21:42:17.403121+00:00"
   },
   {
    "faits": [
@@ -2747,52 +2725,6 @@
   },
   {
    "faits": [
-    "Volodymyr Zelensky, président ukrainien, est arrivé à Lublin en Pologne",
-    "Il doit rencontrer Donald Tusk, premier ministre polonais",
-    "Les discussions porteront sur sa visite aux Etats-Unis et son entretien avec Donald Trump",
-    "Les relations entre Varsovie et Kiev se sont dégradées depuis la fin mai"
-   ],
-   "qui": "Volodymyr Zelensky, Donald Tusk",
-   "ou": "Lublin (Pologne)",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "e68ddcb044693e78",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T15:05:10.085449+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran",
-    "Cette menace intervient après des attaques sur une base américaine en Jordanie",
-    "La situation s'est dégradée au Moyen-Orient après plusieurs jours d'accalmie",
-    "Les Etats-Unis et l'Arabie saoudite ont mené une attaque sur des factions pro-iraniennes en Irak"
-   ],
-   "qui": "Donald Trump, Etats-Unis, Iran, Arabie saoudite",
-   "ou": "Moyen-Orient, Iran, Irak, Jordanie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "85626d0045171086",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T15:05:10.085453+00:00"
-  },
-  {
-   "faits": [
     "Incendie à Brignoles ayant parcouru cinq hectares",
     "Nouvel incendie à Vidauban dans le Var",
     "Incendie de Pontevès précédemment fixé",
@@ -2835,50 +2767,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-29T16:37:53.880895+00:00"
-  },
-  {
-   "faits": [
-    "Vigilance orange canicule étendue à sept départements supplémentaires du sud-est et de la Corse",
-    "Au total, 23 départements seront en vigilance orange canicule à partir de jeudi"
-   ],
-   "qui": null,
-   "ou": "Sud-est de la France, Corse",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "ccde6332b932a519",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T15:05:10.085459+00:00"
-  },
-  {
-   "faits": [
-    "Le DJ Kavinsky est mort",
-    "Il a été retrouvé mort à son domicile parisien",
-    "Après avoir joué l'acteur dans les premiers films de Quentin Dupieux, sa carrière a décollé en 2011",
-    "Son tube « Nightcall » a été popularisé dans le film « Drive »"
-   ],
-   "qui": "Kavinsky (DJ)",
-   "ou": "Paris",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "c7a2c6afc9d8f7de",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T15:05:10.085460+00:00"
   },
   {
    "faits": [
@@ -3111,25 +2999,26 @@
   },
   {
    "faits": [
-    "Cinq corps de nouveau-nés retrouvés dans un appartement à Orange",
-    "Des ossements et un corps en décomposition de nourrissons découverts chez un couple",
-    "Un couple trentenaire a été placé en garde à vue mercredi"
+    "Un incendie s'est déclaré au sud de Dijon en Côte-d'Or",
+    "Plus de 50 hectares de végétation ont brûlé",
+    "Aucun blessé n'est à déplorer",
+    "Aucune habitation n'a été touchée"
    ],
-   "qui": "Couple trentenaire",
-   "ou": "Orange (Vaucluse)",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
+   "qui": null,
+   "ou": "Côte-d'Or, sud de Dijon",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 90,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 80,
-   "empreinte": "c4bb1bf1211a79f7",
-   "score": 86,
+   "importance": 65,
+   "empreinte": "036ca3cf763b2540",
+   "score": 85,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T15:05:10.085466+00:00"
+   "depuis": "2026-07-29T21:42:17.403141+00:00"
   },
   {
    "faits": [
@@ -3182,30 +3071,6 @@
   },
   {
    "faits": [
-    "Un animateur périscolaire du Var, âgé de 58 ans, mis en examen pour viols et agressions sexuelles",
-    "Les faits concernent trois enfants",
-    "Deux viols ont été commis dans le cadre de son activité professionnelle à Hyères",
-    "Un troisième viol s'est déroulé entre 2005 et 2009",
-    "L'homme conteste l'intégralité des faits"
-   ],
-   "qui": "Animateur périscolaire de 58 ans",
-   "ou": "Hyères (Var)",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "7da82443f79fa231",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T15:05:10.085471+00:00"
-  },
-  {
-   "faits": [
     "Pour la première fois depuis l'été 2024, la dynamique du conflit en Ukraine est en faveur de Kiev",
     "L'Ukraine a repris environ 400 kilomètres carrés au printemps",
     "L'Ukraine étrangle la Crimée",
@@ -3230,6 +3095,151 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-29T20:40:24.471042+00:00"
+  },
+  {
+   "faits": [
+    "80 hectares dédiés aux recherches forestières de l'Inrae ont brûlé en Gironde",
+    "Les dispositifs comportaient des parcelles destinées à tester le mélange d'espèces",
+    "Les recherches documentaient l'effet du dérèglement climatique sur les arbres",
+    "Les recherches étudiaient l'impact des bioagresseurs sur les écosystèmes forestiers"
+   ],
+   "qui": "Inrae",
+   "ou": "Gironde",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "61eb9ae8d001db39",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T21:42:17.403146+00:00"
+  },
+  {
+   "faits": [
+    "En Cisjordanie occupée, une vague de violence est initiée par des colons israéliens",
+    "Le 24 juillet, plusieurs dizaines de colons armés sont entrés dans Tell, un village du nord",
+    "Un affrontement s'est ensuivi avec quatre Palestiniens et deux Israéliens morts",
+    "L'armée israélienne a bouclé les localités du nord de la Cisjordanie",
+    "Les attaques de colons contre des communautés palestiniennes se multiplient"
+   ],
+   "qui": "Colons israéliens, armée israélienne, Palestiniens",
+   "ou": "Cisjordanie occupée",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "5843d6db715c3958",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T21:42:17.401956+00:00"
+  },
+  {
+   "faits": [
+    "La Cour constitutionnelle de RDC a validé une loi référendaire",
+    "Cette loi pourrait ouvrir la voie à un troisième mandat pour le président Félix Tshisekedi",
+    "La coalition d'opposition C64 a critiqué vivement la Cour constitutionnelle",
+    "La C64 a donné rendez-vous au peuple congolais le 15 août prochain"
+   ],
+   "qui": "Félix Tshisekedi, Cour constitutionnelle RDC, coalition C64",
+   "ou": "RDC",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Tenue effective du rendez-vous du 15 août"
+   ],
+   "importance": 70,
+   "empreinte": "d43eb6d934a8f0f1",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T21:42:17.401862+00:00"
+  },
+  {
+   "faits": [
+    "Les États-Unis et l'Arabie saoudite ont mené des frappes conjointes en Irak",
+    "Des attaques de drones et de missiles ont été lancées par l'Iran contre les bases américaines",
+    "Des installations pétrolières saoudiennes ont été visées par l'Iran",
+    "Ces attaques menacent d'étendre le conflit au Moyen-Orient"
+   ],
+   "qui": "États-Unis, Arabie saoudite, Iran",
+   "ou": "Irak, Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "Confirmation de l'extension du conflit"
+   ],
+   "importance": 80,
+   "empreinte": "19b47900b187c519",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T21:42:17.401810+00:00"
+  },
+  {
+   "faits": [
+    "Khalida Boufedech a été élue à la présidence de l'Assemblée nationale populaire d'Algérie",
+    "Elle est la première femme élue à cette fonction",
+    "Elle a été élue mardi 28 juillet",
+    "Elle devient le quatrième personnage de l'État algérien",
+    "Seulement 6% des sièges sont occupés par des femmes à l'Assemblée nationale algérienne"
+   ],
+   "qui": "Khalida Boufedech",
+   "ou": "Algérie",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "2fe1b4a46538a840",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T21:42:17.403147+00:00"
+  },
+  {
+   "faits": [
+    "La Russie a émis un avis de recherche international contre Pavel Durov",
+    "Pavel Durov est fondateur et patron de Telegram",
+    "Il est visé par des accusations de « complicité de terrorisme »"
+   ],
+   "qui": "Pavel Durov, Russie",
+   "ou": "Russie",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "Fondement des accusations"
+   ],
+   "importance": 65,
+   "empreinte": "ac9db7993ce3c166",
+   "score": 77,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T21:42:17.402014+00:00"
   }
  ],
  "publies_48h": [
