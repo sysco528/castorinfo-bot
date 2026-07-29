@@ -2,15 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-des-gens-ont-ete-denonces-parce-qu-ils-arrosaient-dans-les-pyrenees-orientales-des-arretes-secheresse-suscitent-suspicion-et-incomprehension_8117336.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-remet-en-place-le-plafonnement-sur-l-essence-a-1-99-euro-le-litre-dans-toutes-ses-stations-service-de-france-hexagonale_8117963.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/drogue-addictions/cela-concerne-tous-les-milieux-plusieurs-collaborateurs-dans-les-ministeres-ecartes-apres-des-tests-de-depistage-de-drogue-positifs-annonce-sebastien-lecornu_8117894.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/france/ile-de-france/essonne/creche-illegale-a-yerres-12-enfants-retrouves-entasses-dans-une-voiture_8117888.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/une-information-judiciaire-pour-meurtre-ouverte-apres-une-rixe-a-l-arme-blanche-a-mantes-la-jolie_8117975.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/arts-expos/louvre/la-galerie-d-apollon-rouvre-sans-ses-joyaux-neuf-mois-apres-le-cambriolage-du-louvre_8117939.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/internet/intelligence-artificielle/ai-overview-la-nouvelle-fonctionnalite-ia-de-google-operationnelle-en-france_8117885.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/appel-a-temoignages-vous-prevoyez-d-aller-voir-l-eclipse-solaire-le-12-aout-racontez-nous-comment-vous-vous-etes-organise_8117948.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/le-belge-jasper-philipsen-remporte-la-17e-etape-du-tour-de-france-au-sprint-tadej-pogacar-toujours-en-jaune_8117891.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/maladie/ebola/le-bilan-de-l-epidemie-d-ebola-en-rdc-et-en-ouganda-depasse-desormais-les-1-000-morts_8117990.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/la-ministre-de-la-culture-catherine-pegard-assure-veiller-a-l-integrite-de-la-dj-barbara-butch_8117972.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-mesures-exceptionnelles-pour-lutter-contre-les-departs-de-feux-d-origine-humaine-prises-par-le-procureur-de-bordeaux_8118194.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +292,16 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/appel-a-temoignages-le-devouement-des-pompiers-face-aux-incendies-vous-donne-envie-de-vous-engager-racontez-nous_8126774.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/medias/la-chroniqueuse-xenia-fedorova-accusee-de-relayer-la-propagande-russe-est-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur_8127053.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-le-nord-ouest-de-l-iran-selon-la-television-d-etat-iranienne_8127041.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/musique/cinq-morceaux-qui-ont-marque-la-carriere-du-celebre-dj-et-producteur-francais-kavinsky_8126777.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/culture/musique/cinq-morceaux-qui-ont-marque-la-carriere-du-celebre-dj-et-producteur-francais-kavinsky_8126777.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/le-porge-biscarrosse-l-avant-apres-saisissant-des-incendies-devastateurs-du-sud-ouest_8127131.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/face-au-megafeu-en-gironde-cinq-millions-de-masques-ffp2-ont-ete-livres-en-pharmacie-a-annonce-stephanie-rist_8127281.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/a-bord-du-puissant-caracal-de-l-armee-de-l-air-qui-lutte-de-nuit-pour-evaluer-la-progression-des-flammes-en-gironde_8127077.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/apres-sa-demission-annulee-monique-barbut-a-suivi-les-reunions-de-crise-sur-les-incendies-depuis-sa-residence-secondaire-dans-le-var_8127047.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/ils-sont-hyper-contents-qu-on-soit-la-les-agriculteurs-mobilises-pour-epauler-les-pompiers-en-gironde_8127113.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/arcachon/pas-de-fusils-sur-les-cendres-des-voix-s-elevent-contre-la-chasse-dans-les-forets-incendiees-en-gironde-et-dans-les-landes-3393778.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/sept-departements-supplementaires-du-sud-est-de-la-france-et-de-la-corse-places-en-vigilance-orange-canicule-a-partir-de-jeudi_8127224.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/ce-que-l-on-sait-de-l-affaire-des-cinq-corps-de-nouveau-nes-retrouves-dans-un-appartement-a-orange_8126861.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/les-federations-de-football-ont-jusqu-au-19-septembre-pour-se-prononcer-sur-le-projet-d-investisseurs-prives-a-la-fifa-avant-une-application-de-la-proposition-des-le-1er-janvier-2027_8127194.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -558,11 +558,18 @@
    "https://www.lemonde.fr/international/article/2026/07/29/seisme-au-japon-les-secours-toujours-a-la-recherche-de-survivants-pieges-dans-un-centre-commercial-apres-le-seisme-a-kumamoto-qui-a-fait-au-moins-13-morts_6736366_3210.html",
    "https://www.lemonde.fr/education/article/2026/07/29/un-decret-permet-de-changer-d-ecole-un-eleve-dont-un-parent-perturbe-gravement-l-etablissement_6736364_1473685.html",
    "https://www.lemonde.fr/afrique/article/2026/07/29/sida-l-afrique-du-sud-au-defi-de-compenser-l-arret-definitif-de-l-aide-americaine_6736361_3212.html",
-   "https://www.lemonde.fr/idees/article/2026/07/29/la-securite-n-est-pas-la-premiere-des-libertes-elle-est-la-premiere-mission-de-l-etat_6736318_3232.html"
+   "https://www.lemonde.fr/idees/article/2026/07/29/la-securite-n-est-pas-la-premiere-des-libertes-elle-est-la-premiere-mission-de-l-etat_6736318_3232.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/29/avec-rayman-ubisoft-change-de-dimension-et-met-une-vraie-claque-a-la-concurrence_6736010_3451060.html",
+   "https://www.lemonde.fr/disparitions/article/2026/07/29/avec-la-mort-du-dj-kavinsky-la-french-touch-perd-une-de-ses-figures-marquantes_6736383_3382.html",
+   "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-les-dernieres-informations-au-29-juillet-2026_6732775_3210.html",
+   "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-donald-trump-promet-que-les-etats-unis-vont-frapper-fort-en-iran-apres-les-attaques-sur-une-base-americaine-en-jordanie_6725301_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/29/volker-turk-haut-commissaire-des-nations-unies-aux-droits-de-l-homme-au-liban-les-victimes-ont-besoin-de-s-exprimer-et-que-leurs-paroles-soient-validees_6736380_3210.html",
+   "https://www.lemonde.fr/societe/article/2026/07/29/un-animateur-periscolaire-du-var-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-trois-enfants_6736373_3224.html",
+   "https://www.lemonde.fr/international/article/2026/07/29/cuba-ouvre-de-nombreux-secteurs-de-son-economie-aux-acteurs-prives_6736381_3210.html",
+   "https://www.lemonde.fr/planete/article/2026/07/29/baignade-dans-la-seine-a-paris-deux-sites-fermes-par-intermittence-depuis-dimanche-a-cause-d-une-pollution-au-fioul_6736374_3244.html",
+   "https://www.lemonde.fr/sport/article/2026/07/29/la-fronde-s-organise-face-a-la-tentative-de-gianni-infantino-d-ouvrir-la-fifa-aux-investisseurs-prives_6736372_3242.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-evenepoel-peut-il-priver-uae-du-double-a-paris-20260721",
-   "https://www.lefigaro.fr/politique/sebastien-lecornu-pret-a-sacrifier-sa-ministre-de-l-ecologie-monique-barbut-pour-menager-la-droite-et-les-agriculteurs-20260721",
    "https://www.lefigaro.fr/politique/nicolas-hulot-francois-de-rugy-monique-barbut-la-malediction-du-ministere-de-l-ecologie-20260721",
    "https://www.lefigaro.fr/politique/le-monde-agricole-francais-soulage-par-une-loi-lui-permettant-de-preserver-sa-competitivite-en-europe-20260721",
    "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-secheresse-canicule-loi-agricole-le-fiasco-de-l-ecologie-politique-20260721",
@@ -860,7 +867,9 @@
    "https://www.lefigaro.fr/international/angleterre-plus-de-la-moitie-du-pays-est-en-etat-de-secheresse-20260729",
    "https://www.lefigaro.fr/international/incendie-pres-de-madrid-les-12-prochaines-heures-decisives-pour-maitriser-le-feu-selon-pedro-sanchez-20260729",
    "https://www.lefigaro.fr/actualite-france/incendies-que-risquent-vraiment-les-pyromanes-en-france-20260714",
-   "https://www.lefigaro.fr/actualite-france/xenia-fedorova-la-chroniqueuse-prorusse-de-cnews-visee-par-un-arrete-d-expulsion-du-ministere-de-l-interieur-20260729"
+   "https://www.lefigaro.fr/actualite-france/xenia-fedorova-la-chroniqueuse-prorusse-de-cnews-visee-par-un-arrete-d-expulsion-du-ministere-de-l-interieur-20260729",
+   "https://sante.lefigaro.fr/incendie-en-gironde-5-millions-de-masques-ffp2-ont-ete-livres-en-pharmacie-20260729",
+   "https://www.lefigaro.fr/faits-divers/cambriolages-escroqueries-certains-profitent-ils-de-l-incendie-en-gironde-pour-piller-les-habitations-evacuees-20260729"
   ],
   "https://www.france24.com/fr/rss": [
    "cad4f05e-8525-11f1-aadb-db94f1aaebe8",
@@ -2489,6 +2498,34 @@
  "evenements_attente": [
   {
    "faits": [
+    "Plus de 45 000 hectares ravagés en Gironde et dans les Landes",
+    "Des centaines de bâtiments détruits",
+    "Cinq millions de masques FFP2 livrés en pharmacie",
+    "Dégradation de la qualité de l'air en Nouvelle-Aquitaine avec risques de dépassement du seuil d'alerte",
+    "L'armée de l'air utilise l'hélicoptère Caracal pour surveiller les flammes de nuit",
+    "Des centaines d'agriculteurs mobilisés pour épauler les pompiers",
+    "Des pétitions demandent un moratoire sur la chasse dans les forêts incendiées",
+    "Cinq personnes interpellées pour profitation de crise (recel de bijoux, vol de grands crus, cambriolage)"
+   ],
+   "qui": "Pompiers, armée de l'air, agriculteurs, autorités françaises",
+   "ou": "Gironde, Landes, Sud-Ouest, Nouvelle-Aquitaine",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "300ef918b81d25b2",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-29T15:05:10.085430+00:00"
+  },
+  {
+   "faits": [
     "Incendie en Gironde depuis le 22 juillet ayant détruit 42 000 hectares",
     "Le feu principal est stabilisé selon les autorités",
     "16 départements placés en vigilance orange canicule",
@@ -2677,6 +2714,77 @@
   },
   {
    "faits": [
+    "Les fédérations de football ont jusqu'au 19 septembre pour se prononcer sur le projet d'investisseurs privés à la Fifa",
+    "Gianni Infantino promet que le projet se fera « sans céder le contrôle de quelque nature que ce soit »",
+    "Application prévue dès le 1er janvier",
+    "De nombreuses critiques du projet",
+    "Une réunion d'urgence des instances européennes du football est prévue mercredi"
+   ],
+   "qui": "Gianni Infantino, Fifa, fédérations de football",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "franceinfo",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "db339a1d32284786",
+   "score": 93,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-29T15:05:10.085447+00:00"
+  },
+  {
+   "faits": [
+    "Volodymyr Zelensky, président ukrainien, est arrivé à Lublin en Pologne",
+    "Il doit rencontrer Donald Tusk, premier ministre polonais",
+    "Les discussions porteront sur sa visite aux Etats-Unis et son entretien avec Donald Trump",
+    "Les relations entre Varsovie et Kiev se sont dégradées depuis la fin mai"
+   ],
+   "qui": "Volodymyr Zelensky, Donald Tusk",
+   "ou": "Lublin (Pologne)",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "e68ddcb044693e78",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T15:05:10.085449+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran",
+    "Cette menace intervient après des attaques sur une base américaine en Jordanie",
+    "La situation s'est dégradée au Moyen-Orient après plusieurs jours d'accalmie",
+    "Les Etats-Unis et l'Arabie saoudite ont mené une attaque sur des factions pro-iraniennes en Irak"
+   ],
+   "qui": "Donald Trump, Etats-Unis, Iran, Arabie saoudite",
+   "ou": "Moyen-Orient, Iran, Irak, Jordanie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "85626d0045171086",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T15:05:10.085453+00:00"
+  },
+  {
+   "faits": [
     "Séisme de magnitude 7,1 a frappé l'île de Kyushu (Kumamoto) au Japon mardi",
     "Au moins 13 morts",
     "Effondrement partiel d'un centre commercial et d'une usine",
@@ -2720,6 +2828,50 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-29T10:15:26.133089+00:00"
+  },
+  {
+   "faits": [
+    "Vigilance orange canicule étendue à sept départements supplémentaires du sud-est et de la Corse",
+    "Au total, 23 départements seront en vigilance orange canicule à partir de jeudi"
+   ],
+   "qui": null,
+   "ou": "Sud-est de la France, Corse",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "ccde6332b932a519",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T15:05:10.085459+00:00"
+  },
+  {
+   "faits": [
+    "Le DJ Kavinsky est mort",
+    "Il a été retrouvé mort à son domicile parisien",
+    "Après avoir joué l'acteur dans les premiers films de Quentin Dupieux, sa carrière a décollé en 2011",
+    "Son tube « Nightcall » a été popularisé dans le film « Drive »"
+   ],
+   "qui": "Kavinsky (DJ)",
+   "ou": "Paris",
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "c7a2c6afc9d8f7de",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T15:05:10.085460+00:00"
   },
   {
    "faits": [
@@ -2792,47 +2944,25 @@
   },
   {
    "faits": [
-    "Zinédine Zidane est le nouveau sélectionneur de l'équipe de France de football",
-    "Zidane a façonné son style d'entraîneur en près de cinq saisons sur le banc du Real Madrid"
+    "Cinq corps de nouveau-nés retrouvés dans un appartement à Orange",
+    "Des ossements et un corps en décomposition de nourrissons découverts chez un couple",
+    "Un couple trentenaire a été placé en garde à vue mercredi"
    ],
-   "qui": "Zinédine Zidane",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
+   "qui": "Couple trentenaire",
+   "ou": "Orange (Vaucluse)",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
    "sources": [
     "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "32b759d21e5e6116",
-   "score": 87,
+   "importance": 80,
+   "empreinte": "c4bb1bf1211a79f7",
+   "score": 86,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T07:30:21.089337+00:00"
-  },
-  {
-   "faits": [
-    "Des drones ukrainiens ont visé un entrepôt du groupe Wildberries près du village de Tiouchevo",
-    "Des drones ukrainiens ont visé la raffinerie de pétrole de Riazan dans l'ouest de la Russie",
-    "Ces frappes se sont déroulées dans la nuit de mardi à mercredi",
-    "Six blessés ont été signalés par les autorités régionales russes"
-   ],
-   "qui": "Forces ukrainiennes, autorités russes régionales",
-   "ou": "Russie (Tiouchevo, Riazan), Ukraine",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "42751d187c32bcb1",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T07:30:21.089341+00:00"
+   "depuis": "2026-07-29T15:05:10.085466+00:00"
   },
   {
    "faits": [
@@ -2883,52 +3013,73 @@
   },
   {
    "faits": [
-    "Un séisme a frappé le Japon avec un bilan d'au moins 13 morts",
-    "Plus de 9 000 personnes sont réfugiées dans des centres d'évacuation",
-    "Un centre commercial s'est effondré",
-    "Des secouristes recherchent des personnes potentiellement piégées sous les décombres"
+    "Un animateur périscolaire du Var, âgé de 58 ans, mis en examen pour viols et agressions sexuelles",
+    "Les faits concernent trois enfants",
+    "Deux viols ont été commis dans le cadre de son activité professionnelle à Hyères",
+    "Un troisième viol s'est déroulé entre 2005 et 2009",
+    "L'homme conteste l'intégralité des faits"
    ],
-   "qui": "Population locale, secouristes",
-   "ou": "Japon",
-   "categorie": "meteo_catastrophe",
+   "qui": "Animateur périscolaire de 58 ans",
+   "ou": "Hyères (Var)",
+   "categorie": "justice",
    "sensible": true,
    "confiance": 88,
    "sources": [
-    "franceinfo"
+    "Le Monde"
    ],
-   "non_confirme": [
-    "potentielles autres victimes sous les décombres"
-   ],
-   "importance": 75,
-   "empreinte": "375d64aa93041198",
-   "score": 86,
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "7da82443f79fa231",
+   "score": 85,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T07:30:21.089344+00:00"
+   "depuis": "2026-07-29T15:05:10.085471+00:00"
   },
   {
    "faits": [
-    "Volodymyr Zelensky affirme que Vladimir Poutine n'a plus l'initiative en Ukraine",
-    "Zelensky affirme que Poutine ne veut pas arrêter la guerre",
-    "Zelensky appelle à répondre en étant dur et fort"
+    "Volker Türk, haut-commissaire des Nations unies aux droits de l'homme, a visité le Liban les 26 et 27 juillet",
+    "Violations commises pendant la guerre entre Israël et le Hezbollah entre mars et juin",
+    "Perspectives de justice pour les victimes",
+    "Inquiétudes concernant le retrait de la Finul fin 2026"
    ],
-   "qui": "Volodymyr Zelensky (président de l'Ukraine), Vladimir Poutine",
-   "ou": "Ukraine, États-Unis (contexte de visite)",
+   "qui": "Volker Türk, Nations unies",
+   "ou": "Liban",
    "categorie": "international",
    "sensible": true,
    "confiance": 85,
    "sources": [
-    "franceinfo"
+    "Le Monde"
    ],
-   "non_confirme": [
-    "affirmation que Poutine n'a plus l'initiative (assertion d'un des belligérants)"
-   ],
-   "importance": 80,
-   "empreinte": "49f232cbc0f56f50",
-   "score": 86,
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "d32e3f64d11f7522",
+   "score": 84,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T07:30:21.089346+00:00"
+   "depuis": "2026-07-29T15:05:10.085473+00:00"
+  },
+  {
+   "faits": [
+    "Deux sites de baignade dans la Seine à Paris sont fermés par intermittence depuis dimanche",
+    "Fermeture due à une pollution au fioul",
+    "Déversement de fioul dans les égouts de Saint-Maur-des-Fossés",
+    "Les sites du bras Marie et de Bercy alternent phases d'ouverture et de fermeture"
+   ],
+   "qui": "Mairie de Paris",
+   "ou": "Paris, Seine, Saint-Maur-des-Fossés",
+   "categorie": "sante",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "79c55e70b5637525",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T15:05:10.085474+00:00"
   },
   {
    "faits": [
@@ -2951,55 +3102,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-29T10:15:26.133109+00:00"
-  },
-  {
-   "faits": [
-    "Un torque en or a été volé au Musée du Pays châtillonnais à Châtillon-sur-Seine",
-    "Le vol a été commis vendredi",
-    "Deux individus ont été vus à l'intérieur du musée",
-    "Un suspect a été placé en détention provisoire",
-    "Il est vraisemblable que des complices aient participé au vol"
-   ],
-   "qui": "Suspects, complices présumés",
-   "ou": "Châtillon-sur-Seine (Côte-d'Or)",
-   "categorie": "justice",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "participation de complices"
-   ],
-   "importance": 65,
-   "empreinte": "fd1139bf157e9f34",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T07:30:21.089354+00:00"
-  },
-  {
-   "faits": [
-    "Le gouvernement français a publié un deuxième méga-décret de simplification au Journal officiel",
-    "Ce décret porte sur l'urbanisme, l'environnement et la sécurité dans les collectivités locales",
-    "Un troisième méga-décret est en préparation",
-    "L'objectif est d'atteindre 140 mesures de simplification d'ici à l'automne"
-   ],
-   "qui": "Gouvernement français",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "69515e447fdc94ce",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T07:30:21.089355+00:00"
   },
   {
    "faits": [
@@ -3047,28 +3149,6 @@
   },
   {
    "faits": [
-    "Une vague sans précédent de brevets de médicaments va expirer entre maintenant et 2035",
-    "Cette expiration de brevets constitue une aubaine pour les laboratoires spécialisés dans les génériques et les biosimilaires",
-    "Cette situation offre une occasion d'économies pour les systèmes de santé"
-   ],
-   "qui": "Laboratoires pharmaceutiques, systèmes de santé",
-   "ou": null,
-   "categorie": "sante",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "e88b18bf0424d888",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T07:30:21.089357+00:00"
-  },
-  {
-   "faits": [
     "Les États-Unis ont mis fin au programme Pepfar en Afrique du Sud",
     "Ce programme finançait 17% des dépenses de lutte contre le VIH en Afrique du Sud en 2024",
     "Cette décision menace la prévention et le dépistage du sida"
@@ -3091,6 +3171,29 @@
   },
   {
    "faits": [
+    "Cuba ouvre de nombreux secteurs de son économie aux acteurs privés",
+    "Le 18 juin, le Parlement avait approuvé 176 mesures",
+    "Quasiment tous les secteurs d'activité sont ouverts aux acteurs privés",
+    "Notamment l'agriculture et les banques"
+   ],
+   "qui": "Cuba, Parlement cubain",
+   "ou": "Cuba",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "c49240f7abe55cc9",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T15:05:10.085478+00:00"
+  },
+  {
+   "faits": [
     "Plus de la moitié de l'Angleterre est en état de sécheresse",
     "Une vaste zone connaît une sécheresse éclair développée sous l'effet combiné de précipitations très faibles et de températures élevées"
    ],
@@ -3109,73 +3212,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-29T12:25:30.190952+00:00"
-  },
-  {
-   "faits": [
-    "Un décret publié au Journal officiel permet au directeur académique de faire réaffecter un élève",
-    "Cette mesure s'applique lorsque le comportement d'un parent menace la sécurité d'un membre de l'établissement",
-    "Des syndicats de professeurs et de parents d'élèves dénoncent cette pratique comme 'inacceptable'"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "ccaf4fb0c2b85995",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T12:25:30.190953+00:00"
-  },
-  {
-   "faits": [
-    "À Prato en Italie, la colère monte contre les dérives de la fast-fashion asiatique",
-    "La fast-fashion est gangrenée par la mafia chinoise",
-    "Des pratiques frauduleuses de certaines entreprises chinoises nourrissent une économie parallèle",
-    "Cette économie parallèle est fondée sur l'évasion fiscale, le travail clandestin et l'exploitation d'ouvriers migrants",
-    "Prato est le premier pôle textile d'Europe"
-   ],
-   "qui": "Entreprises chinoises, mafia chinoise",
-   "ou": "Prato, Italie, Toscane",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "eefaec1707cba1bf",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T10:15:26.133116+00:00"
-  },
-  {
-   "faits": [
-    "Le Syndicat national des professionnels de la petite enfance (SNPPE) demande une enquête administrative sur les crèches People & Baby",
-    "Le SNPPE réclame un moratoire sur toute nouvelle autorisation, reprise d'établissement, délégation de service public ou réservation de berceaux au bénéfice du groupe People & Baby"
-   ],
-   "qui": "SNPPE (Syndicat national des professionnels de la petite enfance), Sébastien Lecornu (destinataire)",
-   "ou": "France",
-   "categorie": "autre",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "2f0a6c9c124f282f",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T07:30:21.089359+00:00"
   }
  ],
  "publies_48h": [
