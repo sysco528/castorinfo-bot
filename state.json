@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/le-maire-de-beuxes-dans-la-vienne-agresse-dans-sa-mairie_8117876.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/a-rennes-un-adolescent-de-16-ans-en-garde-a-vue-apres-le-viol-d-une-octogenaire_8118266.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/france/nouvelle-aquitaine/pyrenees-atlantiques/bayonne/fetes-de-bayonne-2026-une-frequentation-en-baisse-44-gardes-a-vue-et-deux-interpellations-pour-des-faits-d-agressions-sexuelles_8118320.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-hier-il-a-vomi-et-avait-tres-froid-avec-la-journee-de-souffrance-d-adam-yates-uae-emirates-affaiblie-avant-d-entamer-les-alpes_8118245.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/peine-respect-immense-chagrin-tres-emus-les-habitants-de-saint-medard-en-jalles-rendent-hommage-aux-deux-pompiers-decedes_8118356.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/usa/emprisonne-aux-etats-unis-l-ancien-president-du-venezuela-nicolas-maduro-sera-juge-a-new-york-en-juin-2027_8118359.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/sapeurs-pompiers-morts-en-gironde-le-systeme-d-autoprotection-du-camion-citerne-au-c-ur-des-interrogations_8118362.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/sports/foot/corruption-a-la-fifa/connivence-avec-donald-trump-soif-financiere-pourquoi-les-tensions-s-accumulent-elles-autour-du-president-de-la-fifa-gianni-infantino_8127137.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/justice/info-radio-france-un-avocat-grenoblois-demande-la-liberation-du-terroriste-venezuelien-carlos-pour-raisons-medicales_8127413.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/face-aux-incendies-en-gironde-l-helicoptere-caracal-permet-de-guider-les-pompiers_8127569.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-gouvernement-rehausse-le-plafond-d-aide-d-urgence-pour-certains-independants-apres-les-incendies-en-nouvelle-aquitaine_8127578.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-gouvernement-rehausse-le-plafond-d-aide-d-urgence-pour-certains-independants-apres-les-incendies-en-nouvelle-aquitaine_8127578.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/video-l-incendie-en-gironde-n-a-pas-progresse-mercredi-malgre-les-fortes-chaleurs-annonce-la-prefete_8127650.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/transports/sncf/la-sncf-maintient-jusqu-a-dimanche-l-annulation-des-tgv-au-sud-de-bordeaux_8127581.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-me-suis-vu-mourir-apres-avoir-frole-la-mort-dans-un-incendie-il-y-a-20-ans-ce-pompier-poursuit-sa-carriere_8127593.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/le-premier-ministre-demande-a-monique-barbut-de-nouvelles-mesures-concretes-d-adaptation-au-changement-climatique_8127563.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -584,12 +584,6 @@
    "https://www.lemonde.fr/economie/article/2026/07/29/la-fed-maintient-ses-taux-inchanges-sous-la-pression-de-donald-trump_6736412_3234.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-donald-trump-n-en-a-pas-fini-du-tout-avec-le-conflit-20260722",
-   "https://www.lefigaro.fr/international/la-guerre-de-donald-trump-en-iran-met-le-pentagone-sous-pression-financiere-20260721",
-   "https://www.lefigaro.fr/flash-actu/malgre-la-perspective-d-une-hausse-du-taux-la-decollecte-massive-du-livret-a-s-est-poursuivie-en-juin-20260722",
-   "https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-le-var-le-feu-continue-de-progresser-a-une-vitesse-tres-importante-et-a-deja-parcouru-plus-de-1700-hectares-20260722",
-   "https://www.lefigaro.fr/actualite-france/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-dans-le-var-20260722",
-   "https://www.lefigaro.fr/conjoncture/incendie-dans-le-var-plus-de-2300-foyers-prives-d-electricite-principalement-a-cotignac-20260722",
    "https://www.lefigaro.fr/marseille/il-a-fait-le-malin-alors-ils-ne-vont-pas-le-lacher-a-ales-une-etonnante-banalisation-de-la-violence-apres-les-menaces-de-mort-repetees-contre-le-maire-20260722",
    "https://www.lefigaro.fr/marseille/maire-d-ales-menace-de-mort-par-la-dz-mafia-un-projet-d-action-violente-detecte-selon-laurent-nunez-qui-evoque-un-acte-d-intimidation-20260721",
    "https://www.lefigaro.fr/politique/la-france-n-a-aucun-objectif-chiffre-et-aucun-laxisme-sur-les-visas-delivres-aux-ressortissants-algeriens-affirme-emmanuel-macron-20260722",
@@ -883,7 +877,13 @@
    "https://www.lefigaro.fr/conjoncture/deficit-la-france-peut-revenir-sous-les-3-en-enchainant-plusieurs-annees-blanches-20260729",
    "https://www.lefigaro.fr/economie/niches-fiscales-depenses-sociales-annee-blanche-les-idees-explosives-pour-faire-des-economies-en-2027-20260729",
    "https://www.lefigaro.fr/bordeaux/evacuation-accueil-des-sinistres-lien-avec-les-secours-le-combat-des-maires-face-aux-incendies-20260729",
-   "https://www.lefigaro.fr/international/ville-fantome-chiens-charognards-drones-kamikazes-en-ukraine-l-odyssee-d-andriy-leonovitch-au-coeur-de-la-kill-zone-20260729"
+   "https://www.lefigaro.fr/international/ville-fantome-chiens-charognards-drones-kamikazes-en-ukraine-l-odyssee-d-andriy-leonovitch-au-coeur-de-la-kill-zone-20260729",
+   "https://www.lefigaro.fr/international/poutine-subit-probablement-la-plus-forte-pression-depuis-le-debut-de-la-guerre-apres-ses-reculs-du-printemps-l-armee-russe-pietine-sur-le-front-20260729",
+   "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-en-ukraine-le-vent-de-la-guerre-a-tourne-20260729",
+   "https://www.lefigaro.fr/international/j-ai-l-impression-d-avoir-un-canon-sur-la-tempe-en-ukraine-les-crimes-de-guerre-se-multiplient-dans-la-zone-du-front-20260729",
+   "https://www.lefigaro.fr/actualite-france/affaire-fedorova-quels-recours-pour-la-journaliste-face-au-risque-d-expulsion-20260729",
+   "https://www.lefigaro.fr/actualite-france/xenia-fedorova-chroniqueuse-prorusse-visee-par-un-arrete-d-expulsion-du-ministere-de-l-interieur-20260729",
+   "https://www.lefigaro.fr/actualite-france/arrete-d-expulsion-contre-xenia-fedorova-ses-employeurs-canal-et-lagardere-denoncent-une-atteinte-a-la-liberte-d-expression-20260729"
   ],
   "https://www.france24.com/fr/rss": [
    "3a71e852-8591-11f1-a22e-3353155f7b93",
@@ -1188,7 +1188,6 @@
    "2cc665ca-8b59-11f1-bebd-e5e117b9ce53"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "c35c09ce-817a-11f1-9a6f-f12a1e3672ad",
    "e5d694fa-8167-11f1-ad04-778a009e9e5a",
    "63558f88-817e-11f1-918d-35f68a046dfe",
    "c66acc5a-818d-11f1-967d-e759111fda20",
@@ -1487,18 +1486,10 @@
    "d2d9f100-8b51-11f1-aa3a-d1298e0f6031",
    "a6182c4c-8b31-11f1-a18c-9b02f149194f",
    "6ec2408a-8b49-11f1-9344-bd6005b43734",
-   "1e9f4588-8b2d-11f1-82a5-9b02f149194f"
+   "1e9f4588-8b2d-11f1-82a5-9b02f149194f",
+   "19e36ae2-8b28-11f1-9b03-592ac6ceb892"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/sport/coupe-du-monde/seuls-les-laches-jouent-en-reculant-le-discours-marquant-de-messi-et-martinez-lors-de-la-finale-contre-lespagne-660bfc98-853f-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/etats-unis/letat-americain-du-new-jersey-corrige-ses-listes-electorales-sur-fond-daccusations-de-fraude-par-donald-trump-07d6e564-8541-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/football-accuse-de-mal-gerer-la-lfp-par-le-president-du-rc-lens-vincent-labrune-contre-attaque-a28fedfe-853b-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/culture/deces-dolivera-katarina-diva-yougoslave-et-vedette-a-cannes-en-1967-446c7fb2-854f-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/paris-sg/psg-une-equipe-b-pour-la-supercoupe-deurope-et-le-trophee-des-champions-520cb344-854a-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/transferts/mercato-chelsea-morgan-rogers-signe-pour-un-transfert-record-de-plus-de-100-millions-deuros-83927d60-8548-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/cambodge/au-cambodge-le-retour-du-tigre-pas-toujours-vu-dun-bon-il-db104824-8548-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/economie/epargne/livret-a/le-livret-a-jamais-autant-boude-au-premier-semestre-depuis-2008-c15a0926-8582-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/europe/ue/pourquoi-le-budget-europeen-cree-des-tensions-entre-berlin-paris-et-tous-les-autres-dirigeants-de-lue-1f82ae4a-7b97-11f1-b6b9-5740d58e7caf?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/incendie/incendie-dans-le-var-le-feu-progresse-a-une-vitesse-tres-importante-plus-de-2-300-foyers-prives-delectricite-b20064c0-8564-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/us-concarneau/us-concarneau-je-suis-desormais-le-plus-age-thibault-sinquin-lexperience-au-service-du-collectif-f2c86054-84f4-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/temoignage-javais-un-trou-dans-los-ce-netait-plus-supportable-nicolas-edet-lex-pro-qui-ne-peut-plus-rouler-aa99e79c-745c-11f1-9172-187ee382b87f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1789,7 +1780,16 @@
    "https://www.ouest-france.fr/monde/etats-unis/les-etats-unis-vont-retablir-600-millions-de-dollars-de-financement-a-lalliance-du-vaccin-1c13f4ce-8ada-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-une-femme-meurt-dans-la-region-de-rostov-zelensky-recu-a-washington-le-point-sur-la-nuit-3d2b71fa-8ae9-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/zinedine-zidane/sa-feuille-de-route-est-toute-tracee-jacques-santini-analyse-larrivee-de-zinedine-zidane-en-equipe-de-france-47ca34e6-89b5-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/football/olympique-lyonnais/real-betis-lyon-a-quelle-heure-et-sur-quelle-chaine-le-match-amical-des-gones-8ac0d62e-8ac3-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/football/olympique-lyonnais/real-betis-lyon-a-quelle-heure-et-sur-quelle-chaine-le-match-amical-des-gones-8ac0d62e-8ac3-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/argentine/argentine-sept-morts-dans-laccident-dun-helicoptere-de-lutte-contre-les-feux-de-foret-7e086460-8b8b-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/rugby/incendie-en-gironde-les-joueurs-de-lubb-se-sont-rendus-au-chevet-des-sinistres-a-bordeaux-df1dd412-8b6b-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/vente-de-la-coupe-du-monde-luefa-et-les-federations-europeennes-se-reuniront-jeudi-pour-evoquer-le-projet-de-la-fifa-fec254b2-8b81-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/economie/energie/energie-eolienne/la-france-debloque-260-millions-deuros-pour-des-projets-deolien-flottant-dans-cinq-ports-dont-trois-dans-louest-e1443b28-8b84-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/vente-de-la-coupe-du-monde-face-aux-critiques-gianni-infantino-prend-la-parole-pour-defendre-son-projet-bdb0705e-8b7b-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-29/delation-auto-denonciation-et-regne-de-la-terreur-torquemada-l-homme-qui-a-transforme-l-inquisition-en-cauchemar-8ba80773-335c-45c4-888f-73710f05c6d2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/stade-rennais/stade-rennais-yassir-zabiri-prend-la-direction-du-racing-santander-8dc20988-8b7c-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/faits-divers/incendie/leur-maison-detruite-dans-un-feu-de-foret-pour-moi-cest-a-cause-dun-megot-fb8f0830-8b7c-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-29/pantalon-capri-robe-trapeze-lunettes-oversize-qu-est-ce-que-le-style-jackie-kennedy-a-la-mode-cet-ete-6ee2c583-c3ea-4b29-b6d1-4fb0aa457a74?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2567,6 +2567,33 @@
   },
   {
    "faits": [
+    "L'incendie en Gironde n'a pas progressé mercredi malgré les fortes chaleurs",
+    "La préfète de Gironde Sophie Brocas envisage un retour à une vie plus normale si l'accalmie se confirme",
+    "La SNCF maintient jusqu'à dimanche l'annulation des TGV au sud de Bordeaux",
+    "Le gouvernement prolonge jusqu'au 4 août le dispositif d'annulation et de report des réservations de train sans frais",
+    "Une vingtaine de joueurs de l'UBB se sont rendus au chevet des sinistrés le 28 juillet"
+   ],
+   "qui": "Préfète Sophie Brocas, SNCF, gouvernement, UBB",
+   "ou": "Gironde, Bordeaux",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo",
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "retour à une vie plus normale (conditionné à confirmation de l'accalmie)"
+   ],
+   "importance": 85,
+   "empreinte": "3dbec9c32807f477",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-29T20:40:24.472651+00:00"
+  },
+  {
+   "faits": [
     "La France a pris un arrêté d'expulsion contre Xenia Fedorova",
     "Xenia Fedorova est ancienne directrice de Russia Today France",
     "L'arrêté d'expulsion a été remis le 29 juillet 2026",
@@ -3179,48 +3206,30 @@
   },
   {
    "faits": [
-    "L'Arcom sanctionne CNews à hauteur de 200 000 euros pour des propos incitant à la haine",
-    "Les séquences incriminées remontent à juin et septembre 2025",
-    "Erik Tegnér, fondateur du média « Frontières » et chroniqueur de « 100 % Frontières » sur CNews, est pointé du doigt"
+    "Pour la première fois depuis l'été 2024, la dynamique du conflit en Ukraine est en faveur de Kiev",
+    "L'Ukraine a repris environ 400 kilomètres carrés au printemps",
+    "L'Ukraine étrangle la Crimée",
+    "L'armée russe piétine sur le front dans le Donbass pour des gains minimes",
+    "Vladimir Poutine perd plus de soldats qu'il ne parvient à en recruter",
+    "Des crimes de guerre sont documentés dans la zone du front (exécutions de civils et prisonniers, attaques de drones)"
    ],
-   "qui": "Arcom, CNews, Erik Tegnér",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "96b5cfe43bb1c51a",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T17:54:03.363743+00:00"
-  },
-  {
-   "faits": [
-    "Volker Türk, haut-commissaire des Nations unies aux droits de l'homme, a visité le Liban les 26 et 27 juillet",
-    "Violations commises pendant la guerre entre Israël et le Hezbollah entre mars et juin",
-    "Perspectives de justice pour les victimes",
-    "Inquiétudes concernant le retrait de la Finul fin 2026"
-   ],
-   "qui": "Volker Türk, Nations unies",
-   "ou": "Liban",
+   "qui": "Ukraine, Russie, Vladimir Poutine",
+   "ou": "Ukraine, Donbass, Crimée",
    "categorie": "international",
    "sensible": true,
    "confiance": 85,
    "sources": [
-    "Le Monde"
+    "Le Figaro"
    ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "d32e3f64d11f7522",
+   "non_confirme": [
+    "crimes de guerre difficiles à prouver pour les enquêteurs"
+   ],
+   "importance": 80,
+   "empreinte": "0b54dbb0574b3643",
    "score": 84,
-   "fiab_max": 90,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-29T15:05:10.085473+00:00"
+   "depuis": "2026-07-29T20:40:24.471042+00:00"
   }
  ],
  "publies_48h": [
