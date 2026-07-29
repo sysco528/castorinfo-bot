@@ -2,18 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/politique/protoxyde-d-azote-rodeos-urbains-free-parties-le-parlement-adopte-definitivement-le-projet-de-loi-ripost-sur-la-tranquillite-publique_8117027.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-feu-continue-sa-progression-dans-le-var-a-annonce-la-prefecture-dans-la-nuit-de-mardi-a-mercredi_8117303.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-le-revanchard-evenepoel-le-prodige-seixas-l-equipier-del-toro-une-lutte-electrique-entre-trois-hommes-pour-le-podium_8116367.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/series/si-cinquante-nuances-de-grey-sortait-aujourd-hui-ce-serait-sous-cette-forme-les-micro-dramas-futur-du-cinema-ou-nouvelle-arme-redoutable-dans-la-guerre-pour-notre-attention_8088434.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/inde/parti-des-cafards-colere-etudiante-gouvernement-fragilise-on-vous-explique-la-contestation-en-inde-ou-la-dispersion-d-une-manifestation-a-fait-au-moins-180-blesses_8116760.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-400-personnes-evacuees-dans-le-var-a-annonce-la-prefecture-du-departement-dans-la-nuit-du-mardi-a-mercredi_8117357.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-recul-environnemental-de-trop-la-ministre-de-la-transition-ecologique-monique-barbut-demissionne-apres-l-adoption-definitive-de-la-loi-d-urgence-agricole_8117516.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/j-ai-le-sentiment-que-cedric-jubillar-vient-de-tuer-sa-femme-deux-fois-reagit-l-un-des-avocats-de-la-famille-de-delphine-aussaguel-horrifie-par-ses-declarations_8117435.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-a-lance-des-frappes-contre-des-cibles-iraniennes-pour-la-onzieme-nuit-consecutive_8117363.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/medias/les-frequences-fm-de-franceinfo-changent-le-22-juillet_8099549.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/fraude/plus-de-700-signalements-concernant-des-achats-de-climatiseurs-deposes-depuis-le-1er-juin-sur-signalconso_8117330.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/que-dit-la-science-sur-l-acetamipride-et-le-flupyradifurone-les-deux-pesticides-qui-pourraient-etre-reintroduits-apres-l-adoption-de-la-loi-d-urgence-agricole_8116079.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-pourquoi-les-bases-americaines-dans-la-region-sont-si-vulnerables-face-aux-drones-et-aux-missiles-iraniens_8116826.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/daniel-siad-soupconne-d-avoir-ete-rabatteur-pour-le-compte-de-jeffrey-epstein-et-vise-par-des-plaintes-pour-viol-retrouve-mort-a-son-domicile_8117654.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/tour-de-france-tous-les-coureurs-du-peloton-ont-fait-l-objet-d-un-controle-antidopage-annonce-l-instance-en-charge-des-tests_8117531.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +289,19 @@
    "https://www.franceinfo.fr/monde/usa/benyamin-netanyahou-dit-avoir-eu-la-meilleure-des-conversations-avec-donald-trump-le-programme-nucleaire-iranien-evoque_8126060.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-dans-le-var-est-officiellement-fixe-annonce-la-prefecture_8126111.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-en-gironde-est-stabilise-mais-avec-14-reprises-de-feu-signalees-sur-la-seule-journee-de-mardi-selon-la-prefete_8126129.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-meurtrier-dans-l-aude/on-vient-du-sol-on-repart-au-sol-dans-le-massif-des-corbieres-la-lente-reconstruction-apres-les-incendies-de-2025_8126054.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-meurtrier-dans-l-aude/on-vient-du-sol-on-repart-au-sol-dans-le-massif-des-corbieres-la-lente-reconstruction-apres-les-incendies-de-2025_8126054.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/reportage-c-est-un-jeu-de-cache-cache-en-gironde-benevoles-et-pompiers-traquent-sans-relache-les-reprises-de-feu_8126522.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-reste-stabilise-apres-une-nouvelle-nuit-calme-selon-la-prefecture_8126570.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/le-maire-de-lege-cap-ferret-appelle-ceux-qui-veulent-aider-a-ne-pas-gener-l-action-des-pompiers-face-aux-incendies_8126624.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/fregate-f100-kepplair-72-ces-avions-sur-le-point-d-emerger-pour-remplacer-une-flotte-vieillissante-dans-la-lutte-contre-les-incendies_8125166.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/le-feu-dans-le-var-est-fixe-mais-ce-n-est-pas-la-fin-de-l-histoire-souligne-le-prefet_8126669.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/de-jeunes-hommes-souffrant-d-addictions-ou-de-troubles-mentaux-quels-profils-figurent-parmi-les-184-personnes-interpellees-pour-des-incendies-depuis-debut-juillet_8125175.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-var-ce-que-l-on-sait-du-suspect-incarcere-pour-une-dizaine-de-departs-de-feu-dans-le-departement_8126618.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/brulages-diriges-pare-feux-feu-tactique-decouvrez-ces-techniques-que-les-pompiers-utilisent-pour-freiner-et-eteindre-les-incendies-en-gironde_8125475.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/politique/marine-le-pen/pourquoi-le-premier-ministre-cherche-a-convaincre-les-banques-francaises-d-accorder-un-pret-a-marine-le-pen-pour-la-presidentielle_8125397.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/equipe-de-france/dd-c-est-dd-blanc-c-etait-blanc-zizou-c-est-zizou-je-vais-faire-ce-que-je-sais-faire-charisme-naturel-style-de-jeu-indefini-c-est-quoi-la-methode-zidane_8109206.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/japon/le-bilan-du-seisme-au-japon-est-desormais-d-au-moins-13-morts-plus-de-9-000-personnes-refugiees-dans-des-centres-d-evacuation_8126486.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-en-visite-aux-etats-unis-volodymyr-zelensky-affirme-que-vladimir-poutine-n-a-plus-l-initiative_8126606.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -533,7 +533,15 @@
    "https://www.lemonde.fr/planete/article/2026/07/29/au-japon-la-crainte-d-un-lourd-bilan-apres-le-puissant-seisme-survenu-a-kumamoto_6735905_3244.html",
    "https://www.lemonde.fr/societe/article/2026/07/29/violences-sexuelles-sur-mineurs-924-personnes-incarcerees-depuis-juin_6735772_3224.html",
    "https://www.lemonde.fr/afrique/article/2026/07/29/algerie-khalida-boufedeche-devient-la-premiere-femme-presidente-de-l-assemblee-populaire-nationale_6735672_3212.html",
-   "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-les-robots-humanoides-etrangers-interdits-a-l-importation_6735639_3210.html"
+   "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-les-robots-humanoides-etrangers-interdits-a-l-importation_6735639_3210.html",
+   "https://www.lemonde.fr/planete/article/2026/07/29/incendie-en-gironde-autour-de-la-station-balneaire-de-lacanau-face-a-un-feu-qui-n-a-pas-dit-son-dernier-mot_6736078_3244.html",
+   "https://www.lemonde.fr/international/article/2026/07/29/guerre-en-iran-une-rencontre-entre-benyamin-netanyahou-et-donald-trump-sur-fond-de-frustration-du-president-americain_6736006_3210.html",
+   "https://www.lemonde.fr/economie/article/2026/07/29/la-falaise-des-brevets-ce-grand-chambardement-a-venir-dans-l-industrie-pharmaceutique-d-ici-a-2035_6735904_3234.html",
+   "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-donald-trump-declare-que-sa-rencontre-avec-volodymyr-zelensky-a-la-maison-blanche-s-est-tres-bien-passee_6732775_3210.html",
+   "https://www.lemonde.fr/societe/article/2026/07/29/creches-people-baby-le-syndicat-national-des-professionnels-de-la-petite-enfance-demande-une-enquete-administrative_6735871_3224.html",
+   "https://www.lemonde.fr/societe/article/2026/07/28/vol-du-torque-en-or-de-vix-un-suspect-place-en-detention-provisoire_6735536_3224.html",
+   "https://www.lemonde.fr/culture/article/2026/07/29/les-films-a-l-affiche-spider-man-brand-new-day-les-matins-merveilleux-i-want-your-sex-tommy-guns_6735838_3246.html",
+   "https://www.lemonde.fr/politique/article/2026/07/29/collectivites-locales-urbanisme-environnement-securite-le-deuxieme-mega-decret-de-simplification-publie-au-journal-officiel_6736179_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
    "https://www.lefigaro.fr/actualite-france/quand-ca-vient-de-son-propre-camp-c-est-pire-que-tout-barbara-butch-la-dj-passee-d-egerie-lgbt-a-victime-des-luttes-intersectionnelles-20260721",
@@ -2464,26 +2472,96 @@
  "evenements_attente": [
   {
    "faits": [
-    "924 personnes incarcérées pour violences sexuelles sur mineurs depuis juin 2026",
-    "Augmentation de 134% par rapport à la normale depuis le 8 juin",
-    "Demande du ministre de la justice aux parquets de revoir l'ensemble des plaintes",
-    "Contexte : suite à l'affaire Lyhanna"
+    "Zinédine Zidane est le nouveau sélectionneur de l'équipe de France de football",
+    "Zidane a façonné son style d'entraîneur en près de cinq saisons sur le banc du Real Madrid"
    ],
-   "qui": "Ministre de la Justice français",
+   "qui": "Zinédine Zidane",
    "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
+   "categorie": "sport",
+   "sensible": false,
    "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "32b759d21e5e6116",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T07:30:21.089337+00:00"
+  },
+  {
+   "faits": [
+    "Des drones ukrainiens ont visé un entrepôt du groupe Wildberries près du village de Tiouchevo",
+    "Des drones ukrainiens ont visé la raffinerie de pétrole de Riazan dans l'ouest de la Russie",
+    "Ces frappes se sont déroulées dans la nuit de mardi à mercredi",
+    "Six blessés ont été signalés par les autorités régionales russes"
+   ],
+   "qui": "Forces ukrainiennes, autorités russes régionales",
+   "ou": "Russie (Tiouchevo, Riazan), Ukraine",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
    "sources": [
     "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 82,
-   "empreinte": "b8a00d2a6eb9d11f",
-   "score": 88,
+   "importance": 78,
+   "empreinte": "42751d187c32bcb1",
+   "score": 87,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T04:37:49.158145+00:00"
+   "depuis": "2026-07-29T07:30:21.089341+00:00"
+  },
+  {
+   "faits": [
+    "Un séisme a frappé le Japon avec un bilan d'au moins 13 morts",
+    "Plus de 9 000 personnes sont réfugiées dans des centres d'évacuation",
+    "Un centre commercial s'est effondré",
+    "Des secouristes recherchent des personnes potentiellement piégées sous les décombres"
+   ],
+   "qui": "Population locale, secouristes",
+   "ou": "Japon",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "potentielles autres victimes sous les décombres"
+   ],
+   "importance": 75,
+   "empreinte": "375d64aa93041198",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T07:30:21.089344+00:00"
+  },
+  {
+   "faits": [
+    "Volodymyr Zelensky affirme que Vladimir Poutine n'a plus l'initiative en Ukraine",
+    "Zelensky affirme que Poutine ne veut pas arrêter la guerre",
+    "Zelensky appelle à répondre en étant dur et fort"
+   ],
+   "qui": "Volodymyr Zelensky (président de l'Ukraine), Vladimir Poutine",
+   "ou": "Ukraine, États-Unis (contexte de visite)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "affirmation que Poutine n'a plus l'initiative (assertion d'un des belligérants)"
+   ],
+   "importance": 80,
+   "empreinte": "49f232cbc0f56f50",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T07:30:21.089346+00:00"
   },
   {
    "faits": [
@@ -2585,26 +2663,52 @@
   },
   {
    "faits": [
-    "La Zambie a remporté une victoire 6-0 contre l'Égypte à la CAN féminine",
-    "Barbra Banda a marqué un quadruplé lors du match",
-    "Le Nigeria, grand favori du tournoi, a perdu 3-2 contre le Malawi",
-    "Le Malawi crée une surprise historique"
+    "Un torque en or a été volé au Musée du Pays châtillonnais à Châtillon-sur-Seine",
+    "Le vol a été commis vendredi",
+    "Deux individus ont été vus à l'intérieur du musée",
+    "Un suspect a été placé en détention provisoire",
+    "Il est vraisemblable que des complices aient participé au vol"
    ],
-   "qui": "Zambie, Égypte, Nigeria, Malawi, Barbra Banda",
-   "ou": "CAN féminine",
-   "categorie": "sport",
+   "qui": "Suspects, complices présumés",
+   "ou": "Châtillon-sur-Seine (Côte-d'Or)",
+   "categorie": "justice",
    "sensible": false,
-   "confiance": 88,
+   "confiance": 85,
    "sources": [
-    "L'Équipe"
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "participation de complices"
+   ],
+   "importance": 65,
+   "empreinte": "fd1139bf157e9f34",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T07:30:21.089354+00:00"
+  },
+  {
+   "faits": [
+    "Le gouvernement français a publié un deuxième méga-décret de simplification au Journal officiel",
+    "Ce décret porte sur l'urbanisme, l'environnement et la sécurité dans les collectivités locales",
+    "Un troisième méga-décret est en préparation",
+    "L'objectif est d'atteindre 140 mesures de simplification d'ici à l'automne"
+   ],
+   "qui": "Gouvernement français",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "773fada0c387af8b",
+   "importance": 65,
+   "empreinte": "69515e447fdc94ce",
    "score": 83,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T23:46:04.768349+00:00"
+   "depuis": "2026-07-29T07:30:21.089355+00:00"
   },
   {
    "faits": [
@@ -2651,99 +2755,46 @@
   },
   {
    "faits": [
-    "Un séisme de magnitude 7,1 a frappé l'île de Kyushu le 28 juillet",
-    "Au moins trois morts sont confirmés",
-    "Des dizaines de personnes ont été hospitalisées",
-    "Une déflagration d'un centre commercial a été signalée",
-    "D'importants dégâts ont été enregistrés",
-    "Une alerte au tsunami a été déclenchée puis levée"
+    "Une vague sans précédent de brevets de médicaments va expirer entre maintenant et 2035",
+    "Cette expiration de brevets constitue une aubaine pour les laboratoires spécialisés dans les génériques et les biosimilaires",
+    "Cette situation offre une occasion d'économies pour les systèmes de santé"
    ],
-   "qui": null,
-   "ou": "Kyushu, Japon",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 87,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Nombre total de victimes recherchées par les secours"
-   ],
-   "importance": 85,
-   "empreinte": "dfd311fbfb88d6d9",
-   "score": 82,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T22:45:30.520553+00:00"
-  },
-  {
-   "faits": [
-    "Un quatrième épisode de canicule s'installe à partir du 29 juillet en France",
-    "Cet épisode devrait être moins intense et durable que les précédents",
-    "Il suit dix jours de répit des températures",
-    "Le Sud-Ouest est particulièrement affecté par la canicule et l'incendie"
-   ],
-   "qui": null,
-   "ou": "France, notamment Sud-Ouest",
-   "categorie": "meteo_catastrophe",
+   "qui": "Laboratoires pharmaceutiques, systèmes de santé",
+   "ou": null,
+   "categorie": "sante",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 82,
    "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 78,
-   "empreinte": "c57c3bce58fa04d4",
-   "score": 82,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T22:45:40.487753+00:00"
-  },
-  {
-   "faits": [
-    "Des centaines de prisonniers sont en grève de la faim depuis 15 jours",
-    "La grève de la faim a lieu dans une prison proche de Téhéran",
-    "Les prisonniers réclament l'arrêt des exécutions",
-    "Les exécutions ont explosé en Iran cette année",
-    "Des vidéos ont été sorties de l'établissement pour attirer l'attention"
-   ],
-   "qui": "Centaines de prisonniers, autorités iraniennes",
-   "ou": "Prison proche de Téhéran, Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 83,
-   "sources": [
-    "RFI"
+    "Le Monde"
    ],
    "non_confirme": [],
    "importance": 70,
-   "empreinte": "71c8c38be4ae3bc7",
-   "score": 81,
-   "fiab_max": 85,
+   "empreinte": "e88b18bf0424d888",
+   "score": 82,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T23:45:55.909819+00:00"
+   "depuis": "2026-07-29T07:30:21.089357+00:00"
   },
   {
    "faits": [
-    "Depuis le 8 juin, une revue nationale des plaintes pour violences sexuelles sur mineurs a conduit à 924 incarcérations",
-    "Près de 1.700 informations judiciaires ont été ouvertes",
-    "Le bilan a été présenté le 28 juillet par le ministère de la Justice"
+    "Le Syndicat national des professionnels de la petite enfance (SNPPE) demande une enquête administrative sur les crèches People & Baby",
+    "Le SNPPE réclame un moratoire sur toute nouvelle autorisation, reprise d'établissement, délégation de service public ou réservation de berceaux au bénéfice du groupe People & Baby"
    ],
-   "qui": "Ministère de la Justice français",
+   "qui": "SNPPE (Syndicat national des professionnels de la petite enfance), Sébastien Lecornu (destinataire)",
    "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 83,
+   "categorie": "autre",
+   "sensible": false,
+   "confiance": 80,
    "sources": [
-    "20 Minutes"
+    "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 81,
-   "empreinte": "7b94e17286f19288",
+   "importance": 60,
+   "empreinte": "2f0a6c9c124f282f",
    "score": 80,
-   "fiab_max": 75,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-28T22:45:30.520651+00:00"
+   "depuis": "2026-07-29T07:30:21.089359+00:00"
   },
   {
    "faits": [
@@ -2770,234 +2821,6 @@
   },
   {
    "faits": [
-    "Un millier d'employés d'entreprises de l'IA ont demandé au gouvernement américain d'aider à temporiser la sortie des modèles d'IA les plus avancés",
-    "Le patron d'Anthropic et des dirigeants d'OpenAI, Meta et Google sont impliqués dans cette demande",
-    "OpenAI et Anthropic manœuvrent auprès de la Maison-Blanche pour obtenir une interdiction de modèles d'IA chinois",
-    "Nvidia, Microsoft, Google et Meta ont lancé une contre-offensive pour protéger l'IA open source"
-   ],
-   "qui": "Anthropic, OpenAI, Meta, Google, Nvidia, Microsoft",
-   "ou": "États-Unis",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 78,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "7e836afcb6c57351",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T01:13:55.060178+00:00"
-  },
-  {
-   "faits": [
-    "Aux États-Unis, des électeurs de gauche s'arment par crainte de la radicalisation trumpiste",
-    "Les armes à feu séduisent de plus en plus l'électorat progressiste",
-    "Les personnes de couleur et LGBTQ+ achètent de plus en plus d'armes",
-    "Cette tendance s'est accentuée depuis la réélection de Donald Trump en novembre 2024"
-   ],
-   "qui": "Électeurs progressistes, personnes de couleur, LGBTQ+",
-   "ou": "États-Unis, Lancaster (Pennsylvanie)",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "917e55445958f4eb",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T23:46:04.768355+00:00"
-  },
-  {
-   "faits": [
-    "Victor Gabriel (Internacional) a commis un tacle qui a gravement blessé Gabriel Pec (Cruzeiro) au Championnat brésilien",
-    "Victor Gabriel a reçu une suspension minimale de six rencontres",
-    "Il ne pourra rejouer qu'une fois son adversaire rétabli, dans une limite de 180 jours"
-   ],
-   "qui": "Victor Gabriel, Gabriel Pec, Internacional, Cruzeiro",
-   "ou": "Brésil",
-   "categorie": "sport",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 48,
-   "empreinte": "e79988c723a4d747",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T01:13:46.759939+00:00"
-  },
-  {
-   "faits": [
-    "Quentin Bigot, ancien athlète de haut niveau, est devenu maire de Gandrange",
-    "Il a participé à deux Jeux olympiques dans l'épreuve du lancer de marteau",
-    "Il a été élu maire en mars 2026",
-    "Gandrange est une ville de 3 000 habitants en Moselle",
-    "La ville était un fief de la sidérurgie française avant sa fermeture"
-   ],
-   "qui": "Quentin Bigot",
-   "ou": "Gandrange, Moselle, France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 83,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "94dc74bdb4957b0a",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T23:46:04.768357+00:00"
-  },
-  {
-   "faits": [
-    "RC Lens s'est qualifié pour la finale de la Como Cup",
-    "Lens a battu Crystal Palace 3-0",
-    "Lens a été battu par Famalicao aux tirs au but (0-0, 7-8 aux t.a.b.)",
-    "Lens a terminé premier de son groupe",
-    "Lens jouera la finale samedi"
-   ],
-   "qui": "RC Lens, Crystal Palace, Famalicao",
-   "ou": "Como Cup",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 87,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "88e093f928cf24ff",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T23:46:04.768359+00:00"
-  },
-  {
-   "faits": [
-    "Le FC Thoune, champion de Suisse, a été éliminé du 2e tour préliminaire de Ligue des champions",
-    "Thoune menait 2-0 sur la pelouse du Dinamo Zagreb mais a perdu 3-2 a.p.",
-    "Le match retour s'était terminé 1-1",
-    "Hearts a également été éliminé du tournoi"
-   ],
-   "qui": "FC Thoune, Dinamo Zagreb, Hearts",
-   "ou": "Ligue des champions",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "223341f92edae90b",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T23:46:04.768361+00:00"
-  },
-  {
-   "faits": [
-    "Les huit forteresses royales du Languedoc ont été inscrites au patrimoine mondial de l'Unesco",
-    "L'inscription a eu lieu dimanche avant le 28 juillet",
-    "Le département de l'Aude a travaillé sur ce projet pendant plus de dix-sept ans"
-   ],
-   "qui": "Département de l'Aude, Unesco",
-   "ou": "Languedoc, Aude, France",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "a78ebdf4299c94a4",
-   "score": 78,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-28T22:45:40.487756+00:00"
-  },
-  {
-   "faits": [
-    "Samson Baidoo, défenseur du RC Lens, s'est blessé à une cuisse samedi",
-    "Il sera absent trois mois de compétition"
-   ],
-   "qui": "Samson Baidoo, RC Lens",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "50150548ea2cc6c6",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T01:13:55.060190+00:00"
-  },
-  {
-   "faits": [
-    "Pierre Sage, entraîneur de Crystal Palace, a retrouvé le RC Lens en match amical",
-    "Crystal Palace s'est incliné 0-3 en 45 minutes face à Lens à Côme mardi",
-    "Sage a rendu hommage au collectif du RC Lens"
-   ],
-   "qui": "Pierre Sage, RC Lens, Crystal Palace",
-   "ou": "Côme (Italie)",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "7ddac7054b3a12c6",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T01:13:55.060192+00:00"
-  },
-  {
-   "faits": [
-    "Andrea Pirlo a été pressenti pour devenir sélectionneur de l'Italie",
-    "Andrea Pirlo a finalement été débarqué avant même d'être nommé",
-    "Sa génération (champions du monde 2006) a souvent échoué à suivre les pas de Marcello Lippi en tant que sélectionneur"
-   ],
-   "qui": "Andrea Pirlo, Gennaro Gattuso, Fabio Cannavaro, Marcello Lippi",
-   "ou": "Italie",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [
-    "Pirlo était-il vraiment pressenti pour le poste de sélectionneur"
-   ],
-   "importance": 55,
-   "empreinte": "76dba003201310c6",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T01:13:55.060194+00:00"
-  },
-  {
-   "faits": [
     "FIFA crée une société regroupant ses activités commerciales",
     "La société peut accueillir des investisseurs privés",
     "Projet provoque un déluge de critiques"
@@ -3017,61 +2840,9 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-29T04:37:49.158177+00:00"
-  },
-  {
-   "faits": [
-    "Jay Clayton a été confirmé par le Sénat comme directeur du renseignement aux États-Unis",
-    "L'opposition démocrate craint que ce choix n'aide Donald Trump à s'ingérer dans les prochaines élections"
-   ],
-   "qui": "Jay Clayton, Donald Trump, Sénat américain",
-   "ou": "États-Unis",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "Le risque que Trump s'ingère dans les élections"
-   ],
-   "importance": 68,
-   "empreinte": "53694c9d28084387",
-   "score": 74,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T01:13:46.760047+00:00"
-  },
-  {
-   "faits": [
-    "Marco Rubio, secrétaire d'État américain, est devenu la figure de proue de la politique de Trump contre Cuba",
-    "Il fait de Cuba l'un des dossiers centraux de son action, via sanctions et pression"
-   ],
-   "qui": "Marco Rubio, Donald Trump",
-   "ou": "États-Unis, Cuba",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 76,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "4d63bb225876bb86",
-   "score": 73,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T01:13:46.760101+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "17d4eacc8dd4b219",
-   "2026-07-27T04:48:50.396343+00:00"
-  ],
-  [
-   "f6b8628051ba18c0",
-   "2026-07-27T04:48:54.316621+00:00"
-  ],
   [
    "cdc75ae008a929fb",
    "2026-07-27T08:18:42.442913+00:00"
@@ -3151,17 +2922,17 @@
   [
    "fd907eab52c56f34",
    "2026-07-29T04:37:54.070942+00:00"
+  ],
+  [
+   "173b3e9b7dcc6790",
+   "2026-07-29T07:30:22.141859+00:00"
+  ],
+  [
+   "8f9069a5275ece92",
+   "2026-07-29T07:30:26.154350+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "4d3c6ea35721f7b5",
-   "2026-07-27T04:48:44.325442+00:00"
-  ],
-  [
-   "a2b2a911f3a59e6a",
-   "2026-07-27T04:48:49.395847+00:00"
-  ],
   [
    "2261050889f8c2a3",
    "2026-07-27T08:18:34.253685+00:00"
@@ -3241,6 +3012,14 @@
   [
    "5aaf845424310144",
    "2026-07-29T04:37:49.158136+00:00"
+  ],
+  [
+   "4f368f989568b208",
+   "2026-07-29T07:30:17.151552+00:00"
+  ],
+  [
+   "8155529635d43531",
+   "2026-07-29T07:30:21.089328+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -3251,12 +3030,14 @@
   "Un séisme de magnitude 7,1 a frappé la préfecture de Kumamoto au sud-ouest du Japon. L'effondrement d'un centre commercial à Kashima a fait au moins deux morts et plus de 100 blessés. Des personnes seraient piégées sous les décombres. (Ouest-France, 20 Minutes)",
   "Keiko Fujimori investie présidente du Pérou annonce que l'armée assurera l'ordre dans les zones ravagées par les gangs et le narcotrafic. La lutte contre la criminalité était sa principale promesse électorale. (Ouest-France, RFI)",
   "Volodymyr Zelensky à Washington rencontre Donald Trump. Le Sénat américain approuve un nouveau paquet de sanctions contre la Russie. Le président ukrainien affirme que l'initiative n'est plus aux mains de Poutine. (Le Monde, Le Figaro)",
-  "🔴 ALERTE — Un incendie majeur ravage la Gironde, affectant Saumos et Le Porge. Le camp militaire de Souge est menacé. Des reprises de feu se succèdent, alimentées par la canicule et des conditions à très haut risque. (Le Monde, Le Figaro)"
+  "🔴 ALERTE — Un incendie majeur ravage la Gironde, affectant Saumos et Le Porge. Le camp militaire de Souge est menacé. Des reprises de feu se succèdent, alimentées par la canicule et des conditions à très haut risque. (Le Monde, Le Figaro)",
+  "En Gironde, l'incendie est stabilisé mais connaît des reprises de feu. La forêt du Grand Crohot près de Lège-Cap-Ferret et les secteurs d'Arès et du camp de Souge sont affectés. Des bénévoles épaulés les pompiers. (franceinfo, Le Monde)",
+  "🇫🇷 Un incendie qui s'était propagé dans le Var est désormais fixé. Bien que des foyers incandescents restent à maîtriser, les 5 000 personnes évacuées devraient être autorisées à rentrer d'ici quelques heures, selon le préfet du Var. (franceinfo)"
  ],
  "recap_date": "2026-07-28",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-29",
-  "publies": 8
+  "publies": 10
  }
 }
