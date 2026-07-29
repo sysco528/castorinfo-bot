@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/sante/maladie/ebola/le-bilan-de-l-epidemie-d-ebola-en-rdc-et-en-ouganda-depasse-desormais-les-1-000-morts_8117990.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/la-ministre-de-la-culture-catherine-pegard-assure-veiller-a-l-integrite-de-la-dj-barbara-butch_8117972.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-mesures-exceptionnelles-pour-lutter-contre-les-departs-de-feux-d-origine-humaine-prises-par-le-procureur-de-bordeaux_8118194.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/incendies-c-est-quoi-la-regle-des-trois-30_8117780.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/je-resterai-tant-que-j-ai-la-garantie-de-pouvoir-agir-la-ministre-demissionnaire-de-la-transition-ecologique-monique-barbut-justifie-son-maintien-au-gouvernement_8118296.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/drogue/maire-d-ales-menace-quels-sont-les-autres-elus-pris-pour-cible-par-les-trafiquants-de-drogue_8118110.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/festival/festivals-d-ete-2025/delta-festival-de-marseille-mosimann-acid-arab-dj-feder-kungs-une-dizaine-d-artistes-se-retirent-apres-des-accusations-de-violences-sexuelles-visant-son-cofondateur_8118026.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/arcachon/pas-de-fusils-sur-les-cendres-des-voix-s-elevent-contre-la-chasse-dans-les-forets-incendiees-en-gironde-et-dans-les-landes-3393778.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/sept-departements-supplementaires-du-sud-est-de-la-france-et-de-la-corse-places-en-vigilance-orange-canicule-a-partir-de-jeudi_8127224.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/ce-que-l-on-sait-de-l-affaire-des-cinq-corps-de-nouveau-nes-retrouves-dans-un-appartement-a-orange_8126861.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/les-federations-de-football-ont-jusqu-au-19-septembre-pour-se-prononcer-sur-le-projet-d-investisseurs-prives-a-la-fifa-avant-une-application-de-la-proposition-des-le-1er-janvier-2027_8127194.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/foot/les-federations-de-football-ont-jusqu-au-19-septembre-pour-se-prononcer-sur-le-projet-d-investisseurs-prives-a-la-fifa-avant-une-application-de-la-proposition-des-le-1er-janvier-2027_8127194.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/draguignan/un-nouvel-incendie-se-declenche-dans-le-var-alors-que-celui-de-ponteves-est-a-peine-fixe-un-important-dispositif-deploye-3394114.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/enorme-panache-de-fumee-dans-le-ciel-un-incendie-se-declare-au-sud-de-dijon-3394111.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/grand-est/vosges/le-feu-de-vegetation-se-propage-et-detruit-trois-maisons-une-centaine-d-habitants-evacues-un-important-dispositif-de-pompiers-mobilise-3394216.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/corruption-a-la-fifa/connivence-avec-donald-trump-soif-financiere-pourquoi-les-tensions-s-accumulent-elles-autour-du-president-de-la-fifa-gianni-infantino_8127137.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -567,15 +567,13 @@
    "https://www.lemonde.fr/societe/article/2026/07/29/un-animateur-periscolaire-du-var-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-trois-enfants_6736373_3224.html",
    "https://www.lemonde.fr/international/article/2026/07/29/cuba-ouvre-de-nombreux-secteurs-de-son-economie-aux-acteurs-prives_6736381_3210.html",
    "https://www.lemonde.fr/planete/article/2026/07/29/baignade-dans-la-seine-a-paris-deux-sites-fermes-par-intermittence-depuis-dimanche-a-cause-d-une-pollution-au-fioul_6736374_3244.html",
-   "https://www.lemonde.fr/sport/article/2026/07/29/la-fronde-s-organise-face-a-la-tentative-de-gianni-infantino-d-ouvrir-la-fifa-aux-investisseurs-prives_6736372_3242.html"
+   "https://www.lemonde.fr/sport/article/2026/07/29/la-fronde-s-organise-face-a-la-tentative-de-gianni-infantino-d-ouvrir-la-fifa-aux-investisseurs-prives_6736372_3242.html",
+   "https://www.lemonde.fr/international/article/2026/07/29/en-georgie-la-societe-civile-dernier-contre-pouvoir-a-l-agonie-je-me-prepare-a-etre-arretee-a-chaque-instant_6736388_3210.html",
+   "https://www.lemonde.fr/economie/article/2026/07/29/bmw-le-premier-de-la-classe-tombe-a-son-tour_6736397_3234.html",
+   "https://www.lemonde.fr/politique/article/2026/07/29/l-emploi-des-seniors-continue-de-progresser-en-partie-sous-l-effet-de-la-reforme-des-retraites_6736395_823448.html",
+   "https://www.lemonde.fr/pixels/article/2026/07/29/incident-openai-les-modeles-d-ia-ont-fait-intrusion-sur-quatre-autres-plateformes-qu-hugging-face_6736385_4408996.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/politique/nicolas-hulot-francois-de-rugy-monique-barbut-la-malediction-du-ministere-de-l-ecologie-20260721",
-   "https://www.lefigaro.fr/politique/le-monde-agricole-francais-soulage-par-une-loi-lui-permettant-de-preserver-sa-competitivite-en-europe-20260721",
-   "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-secheresse-canicule-loi-agricole-le-fiasco-de-l-ecologie-politique-20260721",
-   "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
-   "https://www.lefigaro.fr/medias/ai-overviews-les-editeurs-de-presse-francais-entament-un-nouveau-bras-de-fer-avec-google-20260721",
-   "https://www.lefigaro.fr/faits-divers/un-pere-de-famille-tire-sur-les-gendarmes-avant-de-se-suicider-en-presence-de-ses-enfants-20260721",
    "https://www.lefigaro.fr/politique/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-emmanuel-macron-salue-une-avancee-majeure-20260721",
    "https://www.lefigaro.fr/secteur/high-tech/le-parlement-valide-definitivement-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-une-premiere-en-europe-20260721",
    "https://www.lefigaro.fr/international/la-russie-est-capable-de-prendre-d-enormes-risques-l-alerte-du-chef-d-etat-major-suedois-sur-une-possible-attaque-imminente-en-europe-20260721",
@@ -869,15 +867,15 @@
    "https://www.lefigaro.fr/actualite-france/incendies-que-risquent-vraiment-les-pyromanes-en-france-20260714",
    "https://www.lefigaro.fr/actualite-france/xenia-fedorova-la-chroniqueuse-prorusse-de-cnews-visee-par-un-arrete-d-expulsion-du-ministere-de-l-interieur-20260729",
    "https://sante.lefigaro.fr/incendie-en-gironde-5-millions-de-masques-ffp2-ont-ete-livres-en-pharmacie-20260729",
-   "https://www.lefigaro.fr/faits-divers/cambriolages-escroqueries-certains-profitent-ils-de-l-incendie-en-gironde-pour-piller-les-habitations-evacuees-20260729"
+   "https://www.lefigaro.fr/faits-divers/cambriolages-escroqueries-certains-profitent-ils-de-l-incendie-en-gironde-pour-piller-les-habitations-evacuees-20260729",
+   "https://www.lefigaro.fr/bordeaux/nous-avons-le-sentiment-d-avoir-ete-abandonnes-en-gironde-l-amertume-des-habitants-du-porge-apres-les-incendies-20260729",
+   "https://www.lefigaro.fr/voyages/avec-les-incendies-en-gironde-et-dans-les-landes-le-dilemme-des-vacanciers-ceux-qui-renoncent-auront-ils-droit-a-un-remboursement-20260729",
+   "https://www.lefigaro.fr/actualite-france/depart-de-feux-des-sanctions-plus-severes-pour-les-incendiaires-20260729",
+   "https://www.lefigaro.fr/societes/nous-avons-livre-les-objectifs-figurant-dans-la-feuille-de-route-en-charge-de-l-entretien-des-canadair-sabena-technics-repond-aux-critiques-20260729",
+   "https://www.lefigaro.fr/sciences/on-ne-retrouvera-plus-les-etes-de-notre-jeunesse-comment-le-rechauffement-climatique-entraine-des-canicules-a-repetition-en-europe-20260729",
+   "https://www.lefigaro.fr/meteo/meteo-de-jeudi-30-juillet-les-fortes-chaleurs-se-decalent-vers-l-est-de-la-france-20260729"
   ],
   "https://www.france24.com/fr/rss": [
-   "cad4f05e-8525-11f1-aadb-db94f1aaebe8",
-   "9b96df96-851b-11f1-9323-db048765a822",
-   "116c02fa-8526-11f1-8e0d-db94f1aaebe8",
-   "6146bc6a-8527-11f1-b691-6714d4628d44",
-   "cb90dcb8-8540-11f1-9b1f-b581c81e75aa",
-   "779f7666-853e-11f1-9597-e135bef4ab1b",
    "64ea077a-853e-11f1-8c11-091484391995",
    "1371290e-853a-11f1-a8e2-091484391995",
    "c4f34ee6-8567-11f1-be6e-bbd5aa1520ee",
@@ -1171,7 +1169,13 @@
    "3aa3f334-8b03-11f1-8c9d-3d8a23e761c3",
    "564d189a-8af4-11f1-b8f0-6fb2ca832308",
    "5c49b184-8af1-11f1-a1ad-6fb2ca832308",
-   "26edbb04-8b44-11f1-a5e7-1dd2ff334aad"
+   "26edbb04-8b44-11f1-a5e7-1dd2ff334aad",
+   "170353d2-8b5a-11f1-86ba-e5e117b9ce53",
+   "eeccc610-8b62-11f1-8c89-2bf2df4a93fc",
+   "eb732edc-8b5d-11f1-a4af-e5e117b9ce53",
+   "61fc5c08-8b5a-11f1-bc1e-c1f0c00a1e6c",
+   "eb5b4c9e-8b59-11f1-b11a-c1f0c00a1e6c",
+   "bfde11ca-8b57-11f1-a9ab-e3d0a2e848d0"
   ],
   "https://www.rfi.fr/fr/rss": [
    "8f337ffc-8101-11f1-beb5-6937b7331399",
@@ -2554,64 +2558,6 @@
   },
   {
    "faits": [
-    "Les habitants de Mérignac, Eysines et Le Haillan (Gironde) ont été autorisés à rentrer chez eux",
-    "Les habitants hésitent à revenir malgré l'autorisation",
-    "Les reprises de feu se multiplient en Gironde",
-    "Le principal incendie en Gironde est stabilisé selon les autorités",
-    "16 départements sont en vigilance orange canicule",
-    "Des incendies sont en cours en Haute-Corse et dans les Hautes-Alpes",
-    "Des vents secs et fortes températures menacent de raviver le mégafeu",
-    "Les 12 prochaines heures sont décisives pour maîtriser l'incendie"
-   ],
-   "qui": "Habitants de Gironde et Landes, autorités françaises",
-   "ou": "Gironde, Landes, Var, Haute-Corse, Hautes-Alpes",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "d208094e5b35bd48",
-   "score": 99,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-29T10:15:26.133079+00:00"
-  },
-  {
-   "faits": [
-    "Le DJ français Kavinsky (Vincent Belorgey), 50 ans, a été retrouvé mort à son domicile",
-    "Une enquête a été ouverte pour déterminer les causes de la mort",
-    "Kavinsky est connu pour son titre 'Nightcall'",
-    "Il est une figure du mouvement de musique house de la French touch",
-    "'Nightcall' a été popularisé par le film 'Drive'",
-    "Il a interprété 'Nightcall' à la cérémonie de clôture des JO de Paris 2024 aux côtés d'Angèle et Phoenix",
-    "Emmanuel Macron a rendu hommage au DJ"
-   ],
-   "qui": "Kavinsky (Vincent Belorgey), DJ français",
-   "ou": "Paris",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 95,
-   "sources": [
-    "franceinfo",
-    "Le Monde",
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "Causes exactes de la mort"
-   ],
-   "importance": 75,
-   "empreinte": "23b85415eaf681ed",
-   "score": 99,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-29T10:15:26.133083+00:00"
-  },
-  {
-   "faits": [
     "Xenia Fedorova, chroniqueuse et ancienne directrice de RT France, est visée par un arrêté d'expulsion",
     "Le ministère de l'Intérieur l'accuse de relayer la propagande russe",
     "Le Quai d'Orsay accuse cette intervenante de reprendre 'mot pour mot les narratifs de propagande russe'",
@@ -2664,53 +2610,28 @@
   },
   {
    "faits": [
-    "La Russie a émis un avis de recherche international contre Pavel Dourov, fondateur de Telegram",
-    "Dourov est accusé de complicité de terrorisme",
-    "Le FSB accuse Telegram de ne pas avoir supprimé un robot de rencontres utilisé par les services spéciaux ukrainiens",
-    "Selon Moscou, ce robot est utilisé pour recruter de jeunes Russes",
-    "Une incrimination pour complicité de terrorisme a été engagée"
+    "Méga-feu en Gironde ravageant 42.000 hectares",
+    "Incendie de Saumos ayant ravagé le village du Porge",
+    "Reprise de feu à Lanton en Gironde mercredi",
+    "Incendies également dans les Landes",
+    "Mobilisation des sapeurs-pompiers et volontaires"
    ],
-   "qui": "Pavel Dourov, fondateur de Telegram",
-   "ou": "Russie",
-   "categorie": "international",
+   "qui": null,
+   "ou": "Gironde (Porge, Saumos, Lanton) et Landes",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 90,
    "sources": [
-    "franceinfo",
-    "Le Monde"
+    "Le Figaro",
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 65,
-   "empreinte": "76f65466907c4540",
-   "score": 95,
-   "fiab_max": 90,
+   "importance": 85,
+   "empreinte": "52675c200f4b8f94",
+   "score": 97,
+   "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-29T10:15:26.133086+00:00"
-  },
-  {
-   "faits": [
-    "La FIFA souhaite créer une société pour gérer ses activités commerciales",
-    "La FIFA veut vendre des parts de la Coupe du monde à des investisseurs privés",
-    "Ce projet a provoqué de nombreuses réactions négatives",
-    "L'UEFA accuse la FIFA de 'vendre le football'",
-    "L'objectif est d'accroître les revenus de la FIFA"
-   ],
-   "qui": "FIFA, UEFA",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "f6321cabca62ae3d",
-   "score": 94,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-29T10:15:26.133088+00:00"
+   "depuis": "2026-07-29T16:37:53.880890+00:00"
   },
   {
    "faits": [
@@ -2809,25 +2730,48 @@
   },
   {
    "faits": [
-    "Les États-Unis et l'Arabie saoudite ont mené une opération militaire conjointe contre des positions en Irak",
-    "C'est une étape inédite pour ces deux pays",
-    "L'Arabie saoudite a accusé des groupes armés pro-iraniens d'avoir ciblé ses infrastructures énergétiques avec des drones"
+    "Incendie à Brignoles ayant parcouru cinq hectares",
+    "Nouvel incendie à Vidauban dans le Var",
+    "Incendie de Pontevès précédemment fixé",
+    "Déploiement d'un important dispositif terrestre et aérien"
    ],
-   "qui": "États-Unis, Arabie saoudite, groupes armés pro-iraniens",
-   "ou": "Irak",
-   "categorie": "international",
+   "qui": null,
+   "ou": "Var (Brignoles, Vidauban, Pontevès)",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "b0fb06f8911383aa",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T16:37:53.880894+00:00"
+  },
+  {
+   "faits": [
+    "BMW annonce la suppression de 8.000 postes d'ici à 2027",
+    "L'effondrement des ventes en Chine affecte le constructeur bavarois et tous les groupes automobiles allemands",
+    "BMW emploie 154.000 personnes dans le monde, dont environ la moitié en Allemagne"
+   ],
+   "qui": "BMW",
+   "ou": "Allemagne (siège), Chine (marché affecté)",
+   "categorie": "economie",
+   "sensible": false,
    "confiance": 90,
    "sources": [
     "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 80,
-   "empreinte": "072fc86a182ff414",
-   "score": 88,
+   "importance": 75,
+   "empreinte": "fd1cecfe3e940d35",
+   "score": 87,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T10:15:26.133089+00:00"
+   "depuis": "2026-07-29T16:37:53.880895+00:00"
   },
   {
    "faits": [
@@ -2896,51 +2840,118 @@
   },
   {
    "faits": [
-    "Un entrepôt de Wildberries (plateforme de e-commerce russe comparable à Amazon) a été attaqué par l'Ukraine",
-    "Un incendie s'est déclaré dans un centre logistique de Wildberries dans le district de Riazan",
-    "La raffinerie de pétrole locale a également été touchée",
-    "Volodymyr Zelensky a revendiqué d'autres attaques ukrainiennes sur des sites militaires et énergétiques en Russie",
-    "Des attaques ont visé les régions de Perm et Rostov, ainsi que la mer Noire"
+    "Incendie violent au sud de Dijon en Côte-d'Or, sur les hauteurs de Couchey",
+    "Incendie déclaré mercredi après-midi",
+    "101 pompiers mobilisés"
    ],
-   "qui": "Ukraine, Volodymyr Zelensky",
-   "ou": "Riazan (Russie), Perm, Rostov, mer Noire",
+   "qui": null,
+   "ou": "Côte-d'Or (Dijon, Couchey)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "b232172b58b9ca2c",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T16:37:53.880899+00:00"
+  },
+  {
+   "faits": [
+    "Feu de végétation à Vagney dans les Vosges",
+    "Le feu a pris dans une haie et s'est propagé",
+    "Trois maisons détruites",
+    "Une centaine d'habitants évacués",
+    "Une centaine de sapeurs-pompiers mobilisés"
+   ],
+   "qui": null,
+   "ou": "Vosges (Vagney)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "70491f32de98e427",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T16:37:53.880899+00:00"
+  },
+  {
+   "faits": [
+    "Vague de chaleur exceptionnelle en Europe",
+    "Températures de 36 à 40°C attendues de l'Alsace au centre-est jeudi 30 juillet",
+    "Les fortes chaleurs se décalent vers l'est de la France",
+    "Réchauffement climatique entraînant des canicules à répétition en Europe",
+    "L'Europe se réchauffe plus vite que le reste de la planète"
+   ],
+   "qui": null,
+   "ou": "France (est et centre-est) et Europe",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "0c27fb7e209cc50c",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T16:37:53.880900+00:00"
+  },
+  {
+   "faits": [
+    "En Géorgie, le régime a multiplié les lois pour réduire au silence toute voix critique",
+    "80% des ONG ont cessé leurs activités en deux ans",
+    "Les militants sont harcelés, insultés et ciblés par des enquêtes criminelles"
+   ],
+   "qui": "Régime géorgien",
+   "ou": "Géorgie",
    "categorie": "international",
    "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "73466664b1766b48",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T16:37:53.880901+00:00"
+  },
+  {
+   "faits": [
+    "Taux d'emploi des 60-64 ans a quadruplé entre 2001 et 2025",
+    "La proportion de cette tranche d'âge en activité n'a jamais été aussi élevée depuis un demi-siècle",
+    "La réforme des retraites a contribué à cette augmentation",
+    "La France reste à la traîne de ses voisins européens"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
    "confiance": 90,
    "sources": [
     "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "49ca66ff24b3529f",
-   "score": 87,
+   "importance": 70,
+   "empreinte": "3ba93a0ea4507518",
+   "score": 86,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T10:15:26.133091+00:00"
-  },
-  {
-   "faits": [
-    "La mère de cinq bébés retrouvés morts a été placée en garde à vue à Orange",
-    "Une enquête pour meurtre sur mineur de moins de 15 ans a été ouverte",
-    "Le parquet de Carpentras s'est dessaisi au profit de celui d'Avignon"
-   ],
-   "qui": "Mère des cinq bébés (identité non précisée)",
-   "ou": "Orange",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Circonstances exactes des décès"
-   ],
-   "importance": 75,
-   "empreinte": "ff7ba316675469d2",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T10:15:26.133093+00:00"
+   "depuis": "2026-07-29T16:37:53.880902+00:00"
   },
   {
    "faits": [
@@ -2963,53 +2974,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-29T15:05:10.085466+00:00"
-  },
-  {
-   "faits": [
-    "11 personnes poursuivies pour les feux en Gironde",
-    "2 personnes écrouées pour incendie volontaire",
-    "9 personnes déférées pour avoir fumé, allumé un barbecue ou fait usage de feux d'artifice à proximité d'une zone forestière"
-   ],
-   "qui": "11 personnes (2 écrouées, 9 déférées)",
-   "ou": "Gironde",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "1b46fc3226f7bf35",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T10:15:26.133098+00:00"
-  },
-  {
-   "faits": [
-    "Un séisme a frappé le Japon",
-    "Au moins 18 personnes sont mortes",
-    "D'importants dégâts ont été causés",
-    "L'île de Kyushu a subi de nombreux dégâts",
-    "Un centre commercial de la banlieue de Kumamoto a été dévasté",
-    "Des secouristes sont mobilisés sur le site"
-   ],
-   "qui": null,
-   "ou": "Japon, île de Kyushu, Kumamoto",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "3536411b76beb4a5",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T10:15:26.133099+00:00"
   },
   {
    "faits": [
@@ -3083,25 +3047,28 @@
   },
   {
    "faits": [
-    "Friedrich Merz, chancelier allemand, fait face à une fronde au sein de son parti",
-    "Les critiques internes à l'Union chrétienne-démocrate (CDU) se multiplient",
-    "Un remaniement avait été effectué pour conforter son autorité"
+    "FSB a lancé un mandat d'arrêt contre Pavel Durov, fondateur de Telegram",
+    "Le service russe reproche à Durov d'avoir laissé le champ libre à des espions ukrainiens",
+    "Des espions recrutent des adolescents russes pour des actes de sabotage via Telegram",
+    "Une célèbre chaîne de rencontre sur Telegram serait utilisée pour ces recrutements"
    ],
-   "qui": "Friedrich Merz, CDU",
-   "ou": "Allemagne",
-   "categorie": "politique",
-   "sensible": false,
+   "qui": "Pavel Durov (fondateur de Telegram), FSB (service russe)",
+   "ou": "Russie, Ukraine",
+   "categorie": "international",
+   "sensible": true,
    "confiance": 85,
    "sources": [
-    "Le Monde"
+    "France 24"
    ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "81e74f0e640f0e3d",
-   "score": 83,
-   "fiab_max": 90,
+   "non_confirme": [
+    "L'existence concrète de ces réseaux d'espionnage"
+   ],
+   "importance": 70,
+   "empreinte": "9fb7a907e3e28acf",
+   "score": 82,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-29T10:15:26.133109+00:00"
+   "depuis": "2026-07-29T16:37:53.880592+00:00"
   },
   {
    "faits": [
@@ -3149,6 +3116,48 @@
   },
   {
    "faits": [
+    "184 personnes interpellées pour avoir provoqué des feux",
+    "Le député UDR Matthieu Bloch a déposé une proposition de loi pour renforcer les peines contre les incendiaires"
+   ],
+   "qui": "Matthieu Bloch (député UDR)",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 68,
+   "empreinte": "a02e4c191b0d67eb",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T16:37:53.880906+00:00"
+  },
+  {
+   "faits": [
+    "Collectif de 700 habitants du Porge se prépare à déposer une plainte collective",
+    "Les habitants expriment un sentiment d'abandon et d'injustice suite à l'incendie de Saumos"
+   ],
+   "qui": "Habitants du Porge",
+   "ou": "Porge (Gironde)",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "58bee94bf6e15738",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T16:37:53.880486+00:00"
+  },
+  {
+   "faits": [
     "Les États-Unis ont mis fin au programme Pepfar en Afrique du Sud",
     "Ce programme finançait 17% des dépenses de lutte contre le VIH en Afrique du Sud en 2024",
     "Cette décision menace la prévention et le dépistage du sida"
@@ -3171,47 +3180,26 @@
   },
   {
    "faits": [
-    "Cuba ouvre de nombreux secteurs de son économie aux acteurs privés",
-    "Le 18 juin, le Parlement avait approuvé 176 mesures",
-    "Quasiment tous les secteurs d'activité sont ouverts aux acteurs privés",
-    "Notamment l'agriculture et les banques"
+    "Six médinas aux Comores inscrites au patrimoine mondial de l'Unesco",
+    "Quatre nouveaux sites africains ont rejoint le patrimoine mondial",
+    "Première inscription au patrimoine pour l'archipel des Comores",
+    "Certaines médinas remontent au XIIᵉ siècle"
    ],
-   "qui": "Cuba, Parlement cubain",
-   "ou": "Cuba",
-   "categorie": "economie",
+   "qui": "Unesco",
+   "ou": "Comores",
+   "categorie": "culture",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 90,
    "sources": [
-    "Le Monde"
+    "France 24"
    ],
    "non_confirme": [],
    "importance": 55,
-   "empreinte": "c49240f7abe55cc9",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T15:05:10.085478+00:00"
-  },
-  {
-   "faits": [
-    "Plus de la moitié de l'Angleterre est en état de sécheresse",
-    "Une vaste zone connaît une sécheresse éclair développée sous l'effet combiné de précipitations très faibles et de températures élevées"
-   ],
-   "qui": null,
-   "ou": "Angleterre",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "67b1b530e727bbe5",
+   "empreinte": "9d064bb03884737a",
    "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-29T12:25:30.190952+00:00"
+   "depuis": "2026-07-29T16:37:53.880907+00:00"
   }
  ],
  "publies_48h": [
