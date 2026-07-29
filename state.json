@@ -2,10 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/economie/budget/nous-ne-pouvons-pas-suspendre-toutes-les-decisions-jusqu-en-2027-sebastien-lecornu-ne-souhaite-pas-attendre-la-presidentielle-pour-trancher-des-arbitrages-budgetaires_8117492.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-projections-de-quelques-metres-a-plusieurs-kilometres-on-vous-explique-ce-que-sont-les-sautes-de-feu-qui-amplifient-la-propagation-des-incendies_8117441.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/cinema/plas-johnson-le-saxophoniste-de-la-panthere-rose-est-mort-a-94-ans_8117804.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pendant-la-canicule-du-mois-de-juin-5-764-deces-en-exces-ont-ete-recenses-selon-sante-publique-france_8117681.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-des-gens-ont-ete-denonces-parce-qu-ils-arrosaient-dans-les-pyrenees-orientales-des-arretes-secheresse-suscitent-suspicion-et-incomprehension_8117336.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-remet-en-place-le-plafonnement-sur-l-essence-a-1-99-euro-le-litre-dans-toutes-ses-stations-service-de-france-hexagonale_8117963.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/drogue-addictions/cela-concerne-tous-les-milieux-plusieurs-collaborateurs-dans-les-ministeres-ecartes-apres-des-tests-de-depistage-de-drogue-positifs-annonce-sebastien-lecornu_8117894.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +297,11 @@
    "https://www.franceinfo.fr/culture/musique/le-dj-francais-kavinsky-connu-pour-son-titre-nightcall-a-ete-retrouve-mort-a-son-domicile_8126765.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/japon/ce-que-l-on-sait-des-consequences-du-seisme-au-japon-qui-a-provoque-la-mort-d-au-moins-18-personnes-et-cause-d-importants-degats_8126573.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/foot/on-vous-explique-pourquoi-le-projet-de-la-fifa-de-vendre-des-parts-de-la-coupe-du-monde-fait-polemique_8126741.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/russie/la-russie-emet-un-avis-de-recherche-international-contre-le-patron-de-telegram-pour-complicite-de-terrorisme_8126681.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/russie/la-russie-emet-un-avis-de-recherche-international-contre-le-patron-de-telegram-pour-complicite-de-terrorisme_8126681.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/appel-a-temoignages-le-devouement-des-pompiers-face-aux-incendies-vous-donne-envie-de-vous-engager-racontez-nous_8126774.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/medias/la-chroniqueuse-xenia-fedorova-accusee-de-relayer-la-propagande-russe-est-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur_8127053.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-le-nord-ouest-de-l-iran-selon-la-television-d-etat-iranienne_8127041.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/musique/cinq-morceaux-qui-ont-marque-la-carriere-du-celebre-dj-et-producteur-francais-kavinsky_8126777.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -551,17 +551,16 @@
    "https://www.lemonde.fr/societe/article/2026/07/29/a-orange-la-mere-des-cinq-bebes-retrouves-morts-placee-en-garde-a-vue_6736358_3224.html",
    "https://www.lemonde.fr/international/article/2026/07/29/en-allemagne-friedrich-merz-fait-face-a-une-fronde-sans-predecent-au-sein-de-son-parti_6736283_3210.html",
    "https://www.lemonde.fr/sport/article/2026/07/29/la-fifa-veut-s-ouvrir-aux-investisseurs-prives-l-uefa-l-accuse-de-vendre-le-football_6736317_3242.html",
-   "https://www.lemonde.fr/series-d-ete/article/2026/07/29/la-mere-brazier-le-charme-reinvente-d-une-icone-de-la-gastronomie-lyonnaise_6736009_3451060.html"
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/29/la-mere-brazier-le-charme-reinvente-d-une-icone-de-la-gastronomie-lyonnaise_6736009_3451060.html",
+   "https://www.lemonde.fr/planete/live/2026/07/29/en-direct-incendies-vents-et-fortes-temperatures-menacent-de-raviver-le-megafeu-en-gironde-situation-critique-au-village-du-porge_6730417_3244.html",
+   "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html",
+   "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-etats-unis-et-l-arabie-saoudite-attaquent-des-allies-de-l-iran-en-irak-les-gardiens-de-la-revolution-visent-une-base-americaine-en-jordanie_6725301_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/29/seisme-au-japon-les-secours-toujours-a-la-recherche-de-survivants-pieges-dans-un-centre-commercial-apres-le-seisme-a-kumamoto-qui-a-fait-au-moins-13-morts_6736366_3210.html",
+   "https://www.lemonde.fr/education/article/2026/07/29/un-decret-permet-de-changer-d-ecole-un-eleve-dont-un-parent-perturbe-gravement-l-etablissement_6736364_1473685.html",
+   "https://www.lemonde.fr/afrique/article/2026/07/29/sida-l-afrique-du-sud-au-defi-de-compenser-l-arret-definitif-de-l-aide-americaine_6736361_3212.html",
+   "https://www.lemonde.fr/idees/article/2026/07/29/la-securite-n-est-pas-la-premiere-des-libertes-elle-est-la-premiere-mission-de-l-etat_6736318_3232.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/faits-divers/puy-de-dome-le-pere-superieur-d-une-abbaye-enleve-et-moleste-la-piste-d-un-reglement-de-comptes-entre-benedictins-privilegiee-20260721",
-   "https://www.lefigaro.fr/politique/proces-en-appel-du-rn-tous-les-condamnes-dont-marine-le-pen-se-sont-pourvus-en-cassation-20260721",
-   "https://www.lefigaro.fr/conso/boudins-cotes-de-porc-saucissons-de-la-charcuterie-vendue-chez-carrefour-rappelee-dans-toute-la-france-20260721",
-   "https://www.lefigaro.fr/faits-divers/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-coup-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-juge-20260721",
-   "https://www.lefigaro.fr/actualite-france/le-parlement-adopte-definitivement-la-loi-d-urgence-agricole-avec-son-volet-sur-les-pesticides-20260721",
-   "https://www.lefigaro.fr/nice/incendies-dans-le-var-le-phenomene-des-sautes-de-feux-ce-mecanisme-qui-demultiplie-la-propagation-des-incendies-20260721",
-   "https://www.lefigaro.fr/actualite-france/var-un-nouvel-incendie-ravage-350-hectares-six-personnes-legerement-intoxiquees-20260721",
-   "https://www.lefigaro.fr/economie/successions-pacte-dutreil-contribution-sur-les-hauts-revenus-sur-la-taxation-des-plus-aises-le-retour-des-idees-folles-20260721",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-evenepoel-peut-il-priver-uae-du-double-a-paris-20260721",
    "https://www.lefigaro.fr/politique/sebastien-lecornu-pret-a-sacrifier-sa-ministre-de-l-ecologie-monique-barbut-pour-menager-la-droite-et-les-agriculteurs-20260721",
    "https://www.lefigaro.fr/politique/nicolas-hulot-francois-de-rugy-monique-barbut-la-malediction-du-ministere-de-l-ecologie-20260721",
@@ -853,10 +852,17 @@
    "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-detroit-ormuz-petroliers-arabie-saoudite-20260729",
    "https://www.lefigaro.fr/international/sur-fond-de-tensions-trump-et-netanyahou-se-rencontrent-pour-la-premiere-fois-depuis-le-debut-de-la-guerre-en-iran-20260728",
    "https://www.lefigaro.fr/faits-divers/le-dj-kavinsky-retrouve-mort-a-son-domicile-a-paris-20260729",
-   "https://www.lefigaro.fr/musique/une-fierte-francaise-pour-toujours-emmanuel-macron-rend-hommage-au-dj-kavinsky-20260729"
+   "https://www.lefigaro.fr/musique/une-fierte-francaise-pour-toujours-emmanuel-macron-rend-hommage-au-dj-kavinsky-20260729",
+   "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260729",
+   "https://www.lefigaro.fr/actualite-france/incendies-en-gironde-le-feu-toujours-stabilise-mais-des-conditions-meteorologiques-defavorables-sont-annoncees-mercredi-20260729",
+   "https://www.lefigaro.fr/conjoncture/incendie-en-gironde-les-reservations-d-hotels-en-chute-libre-pour-le-mois-d-aout-meme-loin-des-flammes-20260729",
+   "https://www.lefigaro.fr/voyages/en-grece-incendie-sur-l-ile-touristique-de-paros-des-evacuations-preventives-20260729",
+   "https://www.lefigaro.fr/international/angleterre-plus-de-la-moitie-du-pays-est-en-etat-de-secheresse-20260729",
+   "https://www.lefigaro.fr/international/incendie-pres-de-madrid-les-12-prochaines-heures-decisives-pour-maitriser-le-feu-selon-pedro-sanchez-20260729",
+   "https://www.lefigaro.fr/actualite-france/incendies-que-risquent-vraiment-les-pyromanes-en-france-20260714",
+   "https://www.lefigaro.fr/actualite-france/xenia-fedorova-la-chroniqueuse-prorusse-de-cnews-visee-par-un-arrete-d-expulsion-du-ministere-de-l-interieur-20260729"
   ],
   "https://www.france24.com/fr/rss": [
-   "473e6bc4-8509-11f1-aec6-5f6c7c3346f2",
    "cad4f05e-8525-11f1-aadb-db94f1aaebe8",
    "9b96df96-851b-11f1-9323-db048765a822",
    "116c02fa-8526-11f1-8e0d-db94f1aaebe8",
@@ -1155,7 +1161,8 @@
    "72b88c3e-8b04-11f1-996a-2bf865edf99e",
    "3aa3f334-8b03-11f1-8c9d-3d8a23e761c3",
    "564d189a-8af4-11f1-b8f0-6fb2ca832308",
-   "5c49b184-8af1-11f1-a1ad-6fb2ca832308"
+   "5c49b184-8af1-11f1-a1ad-6fb2ca832308",
+   "26edbb04-8b44-11f1-a5e7-1dd2ff334aad"
   ],
   "https://www.rfi.fr/fr/rss": [
    "8f337ffc-8101-11f1-beb5-6937b7331399",
@@ -2482,6 +2489,34 @@
  "evenements_attente": [
   {
    "faits": [
+    "Incendie en Gironde depuis le 22 juillet ayant détruit 42 000 hectares",
+    "Le feu principal est stabilisé selon les autorités",
+    "16 départements placés en vigilance orange canicule",
+    "Conditions météorologiques défavorables prévues avec températures jusqu'à 41°C",
+    "Incendies aussi en cours en Haute-Corse et Hautes-Alpes",
+    "Les réservations d'hôtels en baisse pour août dans la région",
+    "Milliers de pompiers mobilisés"
+   ],
+   "qui": null,
+   "ou": "Gironde, Landes, Var, Haute-Corse, Hautes-Alpes (France)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "franceinfo",
+    "Le Monde",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "a8d29f7123f87d12",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-29T12:25:30.190916+00:00"
+  },
+  {
+   "faits": [
     "Les habitants de Mérignac, Eysines et Le Haillan (Gironde) ont été autorisés à rentrer chez eux",
     "Les habitants hésitent à revenir malgré l'autorisation",
     "Les reprises de feu se multiplient en Gironde",
@@ -2540,6 +2575,58 @@
   },
   {
    "faits": [
+    "Xenia Fedorova, chroniqueuse et ancienne directrice de RT France, est visée par un arrêté d'expulsion",
+    "Le ministère de l'Intérieur l'accuse de relayer la propagande russe",
+    "Le Quai d'Orsay accuse cette intervenante de reprendre 'mot pour mot les narratifs de propagande russe'",
+    "Elle intervient régulièrement dans des médias appartenant à Vincent Bolloré",
+    "Son comportement est jugé comme portant atteinte aux intérêts fondamentaux de l'État",
+    "Sa présence est considérée comme une menace pour l'ordre public"
+   ],
+   "qui": "Xenia Fedorova",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Monde",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "98d5363fd981de3c",
+   "score": 98,
+   "fiab_max": 90,
+   "nb_sources": 4,
+   "depuis": "2026-07-29T12:25:30.190923+00:00"
+  },
+  {
+   "faits": [
+    "Les États-Unis ont frappé le nord-ouest de l'Iran",
+    "Reprises des frappes après une accalmie de plusieurs jours",
+    "Le cours du pétrole a bondi face à cette montée des tensions",
+    "L'Iran accuse les États-Unis et Israël de vouloir étendre la guerre dans la région"
+   ],
+   "qui": "États-Unis, Iran, Israël",
+   "ou": "Iran, Irak, Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "8078d5d393449cf1",
+   "score": 98,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-29T12:25:30.190925+00:00"
+  },
+  {
+   "faits": [
     "La Russie a émis un avis de recherche international contre Pavel Dourov, fondateur de Telegram",
     "Dourov est accusé de complicité de terrorisme",
     "Le FSB accuse Telegram de ne pas avoir supprimé un robot de rencontres utilisé par les services spéciaux ukrainiens",
@@ -2590,6 +2677,30 @@
   },
   {
    "faits": [
+    "Séisme de magnitude 7,1 a frappé l'île de Kyushu (Kumamoto) au Japon mardi",
+    "Au moins 13 morts",
+    "Effondrement partiel d'un centre commercial et d'une usine",
+    "Des personnes restent portées disparues",
+    "Les secours recherchent des survivants piégés"
+   ],
+   "qui": null,
+   "ou": "Kumamoto, île de Kyushu, Japon",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "22e341031b1d1384",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T12:25:30.190930+00:00"
+  },
+  {
+   "faits": [
     "Les États-Unis et l'Arabie saoudite ont mené une opération militaire conjointe contre des positions en Irak",
     "C'est une étape inédite pour ces deux pays",
     "L'Arabie saoudite a accusé des groupes armés pro-iraniens d'avoir ciblé ses infrastructures énergétiques avec des drones"
@@ -2609,6 +2720,27 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-29T10:15:26.133089+00:00"
+  },
+  {
+   "faits": [
+    "Kavinsky, DJ électro français emblématique de la French Touch, est retrouvé mort à son domicile mardi soir",
+    "Il est l'auteur de 'Nightcall' et a collaboré avec The Weeknd"
+   ],
+   "qui": "Kavinsky",
+   "ou": null,
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "b2c3eb32efae0aec",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T12:25:30.190933+00:00"
   },
   {
    "faits": [
@@ -2800,104 +2932,6 @@
   },
   {
    "faits": [
-    "Séisme de magnitude 7,1 à Kumamoto au Japon le 28 juillet",
-    "Dégâts importants causés par le tremblement de terre",
-    "Puissante explosion dans un centre commercial ayant dévasté le lieu",
-    "Bilan des victimes craintes à la hausse"
-   ],
-   "qui": null,
-   "ou": "Kumamoto, Japon",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Nombre précis de victimes et ampleur du bilan"
-   ],
-   "importance": 75,
-   "empreinte": "3ffbbccf6343ca2a",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T04:37:49.158149+00:00"
-  },
-  {
-   "faits": [
-    "Khalida Boufedeche devient première femme présidente de l'Assemblée populaire nationale algérienne",
-    "Députée d'Alger",
-    "Son parti était arrivé en tête des récentes législatives",
-    "Taux de participation le plus bas jamais enregistré aux législatives algériennes",
-    "Seulement 25 femmes élues sur 407 sièges"
-   ],
-   "qui": "Khalida Boufedeche",
-   "ou": "Algérie",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "3ebc7e34b3bf91d9",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T04:37:49.158152+00:00"
-  },
-  {
-   "faits": [
-    "Épidémie d'Ebola en République démocratique du Congo toujours sans contrôle",
-    "Pic des contaminations pas encore atteint",
-    "3 262 cas cumulés et 1 437 décès enregistrés",
-    "Cinq provinces de l'est du pays touchées",
-    "Souche Bundibugyo pour laquelle n'existe ni vaccin ni traitement approuvé",
-    "Premier candidat vaccin en cours de test"
-   ],
-   "qui": null,
-   "ou": "République démocratique du Congo",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [
-    "Efficacité du candidat vaccin en test"
-   ],
-   "importance": 72,
-   "empreinte": "294b24b2ccb15cc4",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T04:37:39.350349+00:00"
-  },
-  {
-   "faits": [
-    "Administration Trump bannit l'importation de robots humanoïdes étrangers",
-    "Concernent principalement les appareils robotiques avancés produits en Chine",
-    "Motif invoqué : risques inacceptables pour la sécurité nationale"
-   ],
-   "qui": "Administration Trump, États-Unis",
-   "ou": "États-Unis",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "9836efb542736875",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T04:37:49.158154+00:00"
-  },
-  {
-   "faits": [
     "Friedrich Merz, chancelier allemand, fait face à une fronde au sein de son parti",
     "Les critiques internes à l'Union chrétienne-démocrate (CDU) se multiplient",
     "Un remaniement avait été effectué pour conforter son autorité"
@@ -2969,46 +3003,47 @@
   },
   {
    "faits": [
-    "En Iran, deux hommes exécutés après condamnation pour participation aux manifestations anti-régime du début de l'année",
-    "Retour en force de la répression en Iran"
+    "Incendie sur l'île touristique de Paros en Grèce",
+    "Évacuations préventives en cours",
+    "Deux avions, cinq hélicoptères et une centaine de pompiers mobilisés",
+    "L'intensité du feu semble faiblir mercredi"
    ],
-   "qui": "Autorités iraniennes",
-   "ou": "Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "71a34298755e67f7",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T04:37:39.350308+00:00"
-  },
-  {
-   "faits": [
-    "Christophe Gleizes, journaliste français, incarcéré en Algérie depuis plus d'un an",
-    "Condamné à sept ans de prison pour 'apologie du terrorisme'",
-    "Zinédine Zidane, nouveau sélectionneur de l'équipe de France, apporte publiquement son soutien"
-   ],
-   "qui": "Christophe Gleizes, Zinédine Zidane",
-   "ou": "Algérie, France",
-   "categorie": "justice",
+   "qui": null,
+   "ou": "Île de Paros, Grèce",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 88,
    "sources": [
-    "RFI"
+    "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 61,
-   "empreinte": "ae5d5d9d70662d32",
+   "importance": 65,
+   "empreinte": "f55bbc090a2f0c93",
    "score": 82,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-29T04:37:39.350389+00:00"
+   "depuis": "2026-07-29T12:25:30.190182+00:00"
+  },
+  {
+   "faits": [
+    "Incendie près de Madrid : plus de 20 000 personnes évacuées ont pu regagner leur domicile",
+    "Pedro Sanchez juge les 12 prochaines heures décisives pour maîtriser le feu"
+   ],
+   "qui": "Pedro Sanchez",
+   "ou": "Madrid, Espagne",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "ad97c5baeb57873b",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T12:25:30.190246+00:00"
   },
   {
    "faits": [
@@ -3031,6 +3066,71 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-29T07:30:21.089357+00:00"
+  },
+  {
+   "faits": [
+    "Les États-Unis ont mis fin au programme Pepfar en Afrique du Sud",
+    "Ce programme finançait 17% des dépenses de lutte contre le VIH en Afrique du Sud en 2024",
+    "Cette décision menace la prévention et le dépistage du sida"
+   ],
+   "qui": "États-Unis",
+   "ou": "Afrique du Sud",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 82,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "066d3b0d623b5956",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T12:25:30.190351+00:00"
+  },
+  {
+   "faits": [
+    "Plus de la moitié de l'Angleterre est en état de sécheresse",
+    "Une vaste zone connaît une sécheresse éclair développée sous l'effet combiné de précipitations très faibles et de températures élevées"
+   ],
+   "qui": null,
+   "ou": "Angleterre",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "67b1b530e727bbe5",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T12:25:30.190952+00:00"
+  },
+  {
+   "faits": [
+    "Un décret publié au Journal officiel permet au directeur académique de faire réaffecter un élève",
+    "Cette mesure s'applique lorsque le comportement d'un parent menace la sécurité d'un membre de l'établissement",
+    "Des syndicats de professeurs et de parents d'élèves dénoncent cette pratique comme 'inacceptable'"
+   ],
+   "qui": null,
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "ccaf4fb0c2b85995",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-29T12:25:30.190953+00:00"
   },
   {
    "faits": [
@@ -3076,51 +3176,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-29T07:30:21.089359+00:00"
-  },
-  {
-   "faits": [
-    "Plus de 1 100 cadres du secteur de l'IA lancent une pétition",
-    "Demandent au gouvernement américain de soutenir une initiative internationale",
-    "Objectif : 'temporiser' la sortie des modèles d'IA les plus avancés",
-    "Craintes d'une intelligence artificielle s'améliorant de façon incontrôlable"
-   ],
-   "qui": "Cadres du secteur de l'IA (1 100+)",
-   "ou": "États-Unis",
-   "categorie": "sciences",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 58,
-   "empreinte": "95eb20f5fa2af7de",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T04:37:49.158159+00:00"
-  },
-  {
-   "faits": [
-    "FIFA crée une société regroupant ses activités commerciales",
-    "La société peut accueillir des investisseurs privés",
-    "Projet provoque un déluge de critiques"
-   ],
-   "qui": "FIFA",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 52,
-   "empreinte": "1cd7fd7be636e0bf",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T04:37:49.158177+00:00"
   }
  ],
  "publies_48h": [
