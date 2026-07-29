@@ -8498,3 +8498,30 @@
 {"decision": "controle", "evt": "8155529635d43531", "motif": "ok_sim_0.50", "ts": "2026-07-29T07:30:21+00:00"}
 {"decision": "publie", "empreinte": "173b3e9b7dcc6790", "post_id": "2082368115304702336", "carte": true, "texte": "En Gironde, l'incendie est stabilisé mais connaît des reprises de feu. La forêt du Grand Crohot près de Lège-Cap-Ferret et les secteurs d'Arès et du camp de Souge sont affectés. Des bénévoles épaulés les pompiers. (franceinfo, Le Monde)", "ts": "2026-07-29T07:30:22+00:00"}
 {"decision": "publie", "empreinte": "8f9069a5275ece92", "post_id": "2082368132035825676", "carte": true, "texte": "🇫🇷 Un incendie qui s'était propagé dans le Var est désormais fixé. Bien que des foyers incandescents restent à maîtriser, les 5 000 personnes évacuées devraient être autorisées à rentrer d'ici quelques heures, selon le préfet du Var. (franceinfo)", "ts": "2026-07-29T07:30:26+00:00"}
+{"decision": "publier", "evt": "d208094e5b35bd48", "score": 99, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "1b46fc3226f7bf35", "score": 86, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "23b85415eaf681ed", "score": 99, "categorie": "deces_personnalite", "sensible": true, "confiance": 95, "sources": ["franceinfo", "Le Monde", "Le Figaro"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "3536411b76beb4a5", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "76f65466907c4540", "score": 95, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "072fc86a182ff414", "score": 88, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "49ca66ff24b3529f", "score": 87, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "ff7ba316675469d2", "score": 87, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "f6321cabca62ae3d", "score": 94, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "81e74f0e640f0e3d", "score": 83, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "eefaec1707cba1bf", "score": 81, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "32b759d21e5e6116", "score": 87, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "42751d187c32bcb1", "score": 87, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "375d64aa93041198", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "49f232cbc0f56f50", "score": 86, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "3ffbbccf6343ca2a", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "3ebc7e34b3bf91d9", "score": 85, "categorie": "politique", "sensible": false, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "attente", "evt": "294b24b2ccb15cc4", "score": 84, "categorie": "sante", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "9836efb542736875", "score": 84, "categorie": "economie", "sensible": false, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "fd1139bf157e9f34", "score": 83, "categorie": "justice", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "69515e447fdc94ce", "score": 83, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "attente", "evt": "71a34298755e67f7", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "attente", "evt": "ae5d5d9d70662d32", "score": 82, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "e88b18bf0424d888", "score": 82, "categorie": "sante", "sensible": false, "confiance": 82, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "2f0a6c9c124f282f", "score": 80, "categorie": "autre", "sensible": false, "confiance": 80, "sources": ["Le Monde"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "95eb20f5fa2af7de", "score": 80, "categorie": "sciences", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-29T10:15:26+00:00"}
+{"decision": "publier", "evt": "1cd7fd7be636e0bf", "score": 76, "categorie": "sport", "sensible": false, "confiance": 80, "sources": ["France 24"], "ts": "2026-07-29T10:15:26+00:00"}
