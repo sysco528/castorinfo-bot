@@ -9446,3 +9446,45 @@
 {"decision": "controle", "evt": "ae426d399695b285", "motif": "ok_signal_retrograde_sim_0.19", "ts": "2026-07-30T22:45:28+00:00"}
 {"decision": "publie", "empreinte": "f6e73419208f2d3c", "post_id": "2082960802017919092", "carte": true, "texte": "🇫🇷 Un mégafeu a ravagé 42 000 hectares en Gironde avant stabilisation. Environ 220 000 personnes évacuées. Les pompiers affichent un « optimisme raisonné », mais un brûlement souterrain pourrait prolonger les opérations. (franceinfo, RFI)", "ts": "2026-07-30T22:45:29+00:00"}
 {"decision": "publie", "empreinte": "2ed8f19e8ec24507", "post_id": "2082960819340382380", "carte": true, "texte": "🌍 Neuf migrants sont morts lors d'une arrivée massive à Ceuta cette semaine. Plus de 1 500 migrants sont arrivés par la mer, saturant les centres d'accueil. Les autorités déclarent une « urgence humanitaire » et l'armée espagnole est mobilisée.", "ts": "2026-07-30T22:45:33+00:00"}
+{"decision": "abandon_attente", "evt": "55a7e1860bddf0cd", "categorie": "international", "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "abandon_attente", "evt": "36abb03284f85f76", "categorie": "meteo_catastrophe", "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "abandon_attente", "evt": "4b472383e3624f06", "categorie": "deces_personnalite", "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "abandon_attente", "evt": "247a2d96cce73d65", "categorie": "faits_divers", "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "abandon_attente", "evt": "2e5340a0b426d17c", "categorie": "justice", "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "abandon_attente", "evt": "dfde1bae670a25ee", "categorie": "economie", "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "abandon_attente", "evt": "92de649fe68ed96d", "categorie": "economie", "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "abandon_attente", "evt": "57ab02d4eda92a0f", "categorie": "international", "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "abandon_attente", "evt": "8cd4bb4174846650", "categorie": "meteo_catastrophe", "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "abandon_attente", "evt": "d319f161362b5a5c", "categorie": "politique", "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "21fc1fb2f9062d12", "score": 87, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "791408b04e51cb02", "score": 89, "categorie": "international", "sensible": true, "confiance": 72, "sources": ["Le Figaro", "France 24", "Ouest-France"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "92f5513777901588", "score": 94, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["BFMTV", "Ouest-France"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "attente", "evt": "4236fa67d97d87ce", "score": 71, "categorie": "politique", "sensible": false, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "attente", "evt": "3683a9dd8a1f0022", "score": 76, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "9368fdafab869932", "score": 75, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "attente", "evt": "6b60976d9eb5fec3", "score": 70, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 70, "sources": ["BFMTV"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "attente", "evt": "3987e6f66e510c6c", "score": 66, "categorie": "international", "sensible": false, "confiance": 65, "sources": ["20 Minutes"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "f34a06a5684b9fb1", "score": 96, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Le Monde", "RFI"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "eb9f33ec42e9f99d", "score": 96, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 88, "sources": ["Le Monde", "Le Figaro", "RFI"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "09423c7e8091dc56", "score": 96, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["France 24", "Le Monde", "franceinfo"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "d304d9e03bbed438", "score": 94, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["franceinfo", "Ouest-France"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "d235f120dc2c054e", "score": 93, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24", "20 Minutes"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "67f6a7a5be61996e", "score": 92, "categorie": "faits_divers", "sensible": true, "confiance": 82, "sources": ["Le Figaro", "France 24"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "959f0e798249b03a", "score": 87, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "761e38d667694687", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "6e3b221641ed6c90", "score": 85, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "c659041a46c8fa0d", "score": 85, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "a35c54087c24e5cd", "score": 85, "categorie": "economie", "sensible": false, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "attente", "evt": "6d1240b8d6b0bb39", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "b4c2b76127bcaac1", "score": 84, "categorie": "economie", "sensible": false, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "attente", "evt": "54dc81967609ea2d", "score": 82, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "attente", "evt": "bb5cbed365ece222", "score": 82, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "attente", "evt": "74825926cf2b3ab8", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "372ac549febd619a", "score": 82, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "72dc9d6437349eed", "score": 82, "categorie": "autre", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "publier", "evt": "df19d179de7ad852", "score": 82, "categorie": "sport", "sensible": false, "confiance": 87, "sources": ["RFI"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "attente", "evt": "568ce71a06b904a7", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 82, "sources": ["RFI"], "ts": "2026-07-30T23:46:43+00:00"}
+{"decision": "controle", "evt": "f34a06a5684b9fb1", "motif": "ok_sim_0.16", "ts": "2026-07-30T23:46:48+00:00"}
+{"decision": "controle", "evt": "eb9f33ec42e9f99d", "motif": "ok_sim_0.12", "ts": "2026-07-30T23:46:51+00:00"}
+{"decision": "publie", "empreinte": "32e3624c97e0998b", "post_id": "2082976249790795810", "carte": true, "texte": "🇺🇸 Les États-Unis ont mené une « lourde série » de bombardements sur l'Iran en représailles. Des explosions ont été rapportées dans deux provinces iraniennes. Le Pakistan affirme que les belligérants négocient une désescalade. (Le Monde, RFI)", "ts": "2026-07-30T23:46:52+00:00"}
+{"decision": "publie", "empreinte": "c95ebcc6b488000d", "post_id": "2082976266131816809", "carte": true, "texte": "⚠️ Vigilance orange canicule vendredi : 21 départements sont en alerte, avec des températures attendues jusqu'à 40 °C dans le Sud-Est. Des orages violents sont prévus du sud-ouest au nord-est, susceptibles d'apporter grêle et fortes rafales. (Météo-France)", "ts": "2026-07-30T23:46:56+00:00"}
