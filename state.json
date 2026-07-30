@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/culture/a-paris-la-place-maurice-barres-fervent-antisemite-rebaptisee-lucie-dreyfus_8119160.html#xtor=RSS-3-[lestitres]",
-   "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/antibes/on-vient-d-assister-au-passage-des-camions-c-est-un-carnage-huit-dauphins-de-marineland-transferes-dans-la-nuit-vers-l-espagne-3390715.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/pollution/qualite-de-l-eau/perrier-san-pellegrino-vittel-les-eaux-nestle-se-detachent-du-groupe-pour-mieux-tourner-la-page-du-scandale_8119190.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/cyclisme/paul-seixas/reportage-c-est-une-fierte-paul-seixas-le-prodige-du-cyclisme-francais-fait-vibrer-les-clubs-de-son-enfance_8118851.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/meurtre-de-thomas-a-crepol/meurtre-de-thomas-a-crepol-la-circonstance-aggravante-de-racisme-retenue-par-les-juges-d-instruction_8119274.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/inde/le-premier-ministre-indien-narendra-modi-promet-de-punir-severement-les-responsables-des-fraudes-aux-examens-a-l-origine-de-la-colere-etudiante_8118764.html#xtor=RSS-3-[lestitres]",
@@ -301,15 +298,12 @@
    "https://www.franceinfo.fr/economie/medias/arrete-d-expulsion-visant-xenia-fedorova-le-rn-ne-partage-pas-les-positions-de-la-chroniqueuse-et-appelle-a-se-proteger-des-differentes-ingerences-lance-thomas-menage_8128283.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/foot/giovanni-infantino/le-projet-de-vente-de-parts-de-la-coupe-du-monde-de-football-a-des-investisseurs-prives-est-une-opportunite-mais-pas-une-obligation-se-defend-gianni-infantino_8128253.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/apres-la-mort-d-une-femme-dans-un-institut-de-beaute-de-nice-la-piste-d-une-injection-illegale-de-botox-envisagee_8128073.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/europe/migrants/quatre-migrants-ont-ete-retrouves-morts-apres-des-tentatives-de-traversee-de-la-manche_8128376.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/europe/migrants/quatre-migrants-ont-ete-retrouves-morts-apres-des-tentatives-de-traversee-de-la-manche_8128376.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-france-comment-le-debroussaillement-des-forets-s-invite-dans-la-bataille-politique_8127326.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/que-se-passe-t-il-dans-la-tete-d-un-pyromane-decryptage-avec-un-psychiatre-criminologue_8128328.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/tout-porte-a-croire-qu-il-s-agit-d-un-missile-balistique-russe-un-cratere-decouvert-en-pologne-au-lendemain-de-frappes-nocturnes-en-ukraine_8128346.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/sport/article/2026/07/13/france-espagne-pourquoi-les-bleus-se-sont-surnommes-les-mechants-a-la-coupe-du-monde-2026_6723057_3242.html",
-   "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-font-trois-morts-dans-la-region-de-moscou_6722853_3210.html",
-   "https://www.lemonde.fr/international/article/2026/07/13/etats-unis-l-administration-trump-multiplie-les-procedures-judiciaires-a-l-encontre-des-journalistes_6723052_3210.html",
-   "https://www.lemonde.fr/international/article/2026/07/13/incendie-en-andalousie-la-mort-d-une-britannique-a-l-hopital-porte-a-13-le-nombre-de-victimes-le-feu-est-desormais-stabilise_6723031_3210.html",
-   "https://www.lemonde.fr/musiques/article/2026/07/13/nos-albums-coups-de-c-ur-sasha-stychkina-vince-staples-dj-seinfeld-slift_6722997_1654986.html",
-   "https://www.lemonde.fr/argent/article/2026/07/13/les-frais-de-saisies-sur-compte-preleves-par-les-banques-alourdissent-le-budget-des-plus-modestes_6723035_1657007.html",
    "https://www.lemonde.fr/m-perso/article/2026/07/13/dans-le-cher-l-art-du-clown-contre-le-fleau-de-la-mort-sociale_6723046_4497916.html",
    "https://www.lemonde.fr/politique/live/2026/07/14/en-direct-14-juillet-suivez-le-dernier-defile-d-emmanuel-macron-dans-un-contexte-de-rearmement-europeen-et-sous-le-signe-du-soutien-a-l-ukraine_6723269_823448.html",
    "https://www.lemonde.fr/planete/article/2026/07/14/a-fontainebleau-plus-les-heures-passent-plus-ca-devient-irreel-de-se-dire-que-la-foret-est-en-flammes_6723244_3244.html",
@@ -603,16 +597,15 @@
    "https://www.lemonde.fr/economie/article/2026/07/30/en-france-un-rebond-en-trompe-l-il-de-l-economie-au-deuxieme-trimestre_6736703_3234.html",
    "https://www.lemonde.fr/culture/article/2026/07/30/bts-renonce-aux-grammy-awards-2027-en-desaccord-avec-la-nouvelle-categorie-pop-asiatique_6736773_3246.html",
    "https://www.lemonde.fr/afrique/article/2026/07/30/c-est-comme-si-j-etais-prisonnier-dans-un-paradis-le-cap-vert-refuge-precaire-pour-de-nombreux-homosexuels-africains-persecutes_6736659_3212.html",
-   "https://www.lemonde.fr/societe/article/2026/07/30/la-courte-echelle-l-association-du-juge-youssef-badr-poursuit-son-combat-pour-plus-de-diversite-dans-la-magistrature-malgre-les-pressions-de-l-extreme-droite_6736740_3224.html"
+   "https://www.lemonde.fr/societe/article/2026/07/30/la-courte-echelle-l-association-du-juge-youssef-badr-poursuit-son-combat-pour-plus-de-diversite-dans-la-magistrature-malgre-les-pressions-de-l-extreme-droite_6736740_3224.html",
+   "https://www.lemonde.fr/planete/live/2026/07/30/en-direct-incendies-la-situation-demeure-compliquee-dans-l-hexagone-declare-laurent-nunez-en-gironde-une-legere-amelioration-ne-veut-pas-dire-qu-on-baisse-la-garde_6730417_3244.html",
+   "https://www.lemonde.fr/international/article/2026/07/30/de-la-retenue-a-la-riposte-l-arabie-saoudite-durcit-sa-posture-face-a-l-iran-et-ses-allies_6737010_3210.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/30/avec-assassin-s-creed-le-saut-de-l-ange-reussi-d-ubisoft-dans-un-monde-ouvert_6736662_3451060.html",
+   "https://www.lemonde.fr/international/article/2026/07/30/seisme-au-japon-les-autorites-denombrent-au-moins-34-morts-alors-que-la-chaleur-accable-les-rescapes_6736875_3210.html",
+   "https://www.lemonde.fr/livres/article/2026/07/30/l-empereur-ashoka-un-tyran-sanguinaire-devenu-pilier-de-la-sagesse_6736739_3260.html",
+   "https://www.lemonde.fr/culture/article/2026/07/30/en-inde-la-serie-delhi-crime-met-en-lumiere-le-manque-criant-des-moyens-de-la-police-et-la-corruption-des-responsables-politiques_6737008_3246.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/flash-actu/jusqu-a-42-0c-attendus-vendredi-decouvrez-en-carte-la-meteo-a-venir-20260722",
-   "https://sante.lefigaro.fr/social/sante-publique/canicules-a-repetition-pourquoi-nos-organismes-sont-ils-aussi-durablement-eprouves-20260722",
-   "https://www.lefigaro.fr/meteo/vague-de-chaleur-en-france-se-dirige-t-on-vers-nouvelle-canicule-debut-aout-20260722",
-   "https://sante.lefigaro.fr/canicule-5-764-morts-en-exces-pendant-l-episode-de-juin-en-france-20260722",
-   "https://www.lefigaro.fr/secteur/high-tech/chatgpt-est-il-hors-de-controle-comment-la-celebre-ia-a-echappe-a-open-ai-et-infiltre-hugging-face-la-licorne-fondee-en-france-20260722",
-   "https://www.lefigaro.fr/secteur/high-tech/un-piratage-sans-precedent-openai-affirme-que-ses-modeles-ia-ont-mene-une-cyberattaque-de-leur-propre-initiative-20260722",
-   "https://www.lefigaro.fr/secteur/high-tech/il-comprend-sans-avoir-besoin-d-etre-guide-le-figaro-a-teste-fable-5-la-surpuissante-ia-d-anthropic-bridee-pour-des-raisons-de-securite-20260722",
    "https://www.lefigaro.fr/actualite-france/chatgpt-m-a-gache-mon-voyage-confier-l-organisation-de-ses-vacances-a-une-ia-un-pari-risque-aux-consequences-aleatoires-20260722",
    "https://www.lefigaro.fr/secteur/high-tech/craignez-vous-que-les-entreprises-technologiques-perdent-le-controle-de-leurs-ia-20260722",
    "https://www.lefigaro.fr/societes/totalenergies-etend-le-plafonnement-des-prix-des-carburants-dans-ses-stations-service-20260722",
@@ -905,13 +898,16 @@
    "https://www.lefigaro.fr/meteo/direct-incendies-gironde-feux-evacues-canicule-chaleur-feux-temperatures-pompiers-foret-fontainebleau-var-landes-dijon-20260730",
    "https://www.lefigaro.fr/cinema/evacues-de-leur-propriete-dans-le-var-george-clooney-et-sa-famille-assurent-brignolles-et-le-var-de-leur-soutien-20260730",
    "https://www.lefigaro.fr/vox/societe/theophane-le-mene-apres-les-megafeux-en-gironde-cessons-de-planter-des-bombes-a-retardement-20260730",
-   "https://www.lefigaro.fr/actualite-france/incendies-en-france-le-megafeu-reste-stabilise-jeudi-matin-la-meteo-s-annonce-favorable-20260730"
+   "https://www.lefigaro.fr/actualite-france/incendies-en-france-le-megafeu-reste-stabilise-jeudi-matin-la-meteo-s-annonce-favorable-20260730",
+   "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260730",
+   "https://www.lefigaro.fr/actualite-france/incendie-en-gironde-84-000-personnes-autorisees-a-rentrer-dans-9-nouvelles-communes-selon-la-prefecture-20260730",
+   "https://www.lefigaro.fr/actualite-france/carcans-ecologistes-contre-bon-sens-paysan-bruno-lafon-le-maire-girondin-qui-denonce-la-deconnexion-entre-paris-et-la-province-sur-la-gestion-des-incendies-20260730",
+   "https://www.lefigaro.fr/marseille/il-voulait-mettre-le-feu-dans-le-var-un-tunisien-condamne-a-un-an-de-prison-pour-avoir-provoque-un-incendie-20260730",
+   "https://www.lefigaro.fr/actualite-france/comment-se-propagent-les-incendies-la-reponse-en-quatre-infographies-20260730",
+   "https://www.lefigaro.fr/international/direct-guerre-moyen-orient-iran-frappes-armee-americaine-ile-qeshm-abadan-detroit-ormuz-arabie-saoudite-yemen-houthis-20260730",
+   "https://www.lefigaro.fr/international/guerre-au-moyen-orient-les-etats-unis-reprennent-leurs-bombardements-sur-l-iran-20260730"
   ],
   "https://www.france24.com/fr/rss": [
-   "0d56d940-85af-11f1-92a0-d13250b1822a",
-   "6379a7e0-85ae-11f1-8d3e-339938c7a831",
-   "59000382-85ad-11f1-9eef-339938c7a831",
-   "741ba676-85ad-11f1-8df8-339938c7a831",
    "aa8a4274-85aa-11f1-9e21-c1013e91da27",
    "39a4e35a-85ac-11f1-a5c4-d13250b1822a",
    "16989548-85aa-11f1-98ba-c1013e91da27",
@@ -1207,7 +1203,11 @@
    "cbb3b1b4-8b69-11f1-86ec-2bf2df4a93fc",
    "34f9e298-8bc3-11f1-a57b-81fa15692a15",
    "b1e904d4-8bc1-11f1-ba62-c5abf37350d5",
-   "f9c9494a-8bb1-11f1-a2b8-43fd609b7a4d"
+   "f9c9494a-8bb1-11f1-a2b8-43fd609b7a4d",
+   "f38a1ee6-8c02-11f1-a319-1542942e47cf",
+   "80ba20d6-8bfe-11f1-9b16-3b5934c55ec4",
+   "5cb52938-8c03-11f1-acb7-1542942e47cf",
+   "2e43befc-8c03-11f1-bba2-1542942e47cf"
   ],
   "https://www.rfi.fr/fr/rss": [
    "2b29723a-81c6-11f1-9f95-15234347de71",
@@ -2574,6 +2574,37 @@
  "evenements_attente": [
   {
    "faits": [
+    "Incendie en Gironde depuis le 22 juillet ayant détruit 42 000 hectares",
+    "3 300 sapeurs-pompiers mobilisés en Gironde",
+    "1 500 militaires, 1 250 policiers et gendarmes et 24 moyens aériens engagés",
+    "84 000 personnes autorisées à rentrer dans 9 communes",
+    "Une nuit calme rapportée par les pompiers",
+    "Deux tiers des incendies sont des incendies volontaires criminels",
+    "275 interpellations ces dernières semaines, dont 70% pour incendies volontaires",
+    "Débat politique sur le débroussaillement et les normes environnementales",
+    "Une loi votée en 2023 sur le débroussaillement reste peu appliquée"
+   ],
+   "qui": "Laurent Nuñez (ministre de l'Intérieur), Bruno Lafon (maire de Biganos)",
+   "ou": "Gironde, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Monde",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "e29a10b6e5f82a88",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 4,
+   "depuis": "2026-07-30T11:28:06.686479+00:00"
+  },
+  {
+   "faits": [
     "L'économie française a rebondi de 0,2% au deuxième trimestre 2026 après un recul de 0,1% au premier trimestre",
     "Ce rebond est largement dû aux exportations, notamment en aéronautique",
     "L'industrie tient tandis que les ménages demeurent prudents"
@@ -2594,6 +2625,29 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-30T09:22:45.718648+00:00"
+  },
+  {
+   "faits": [
+    "Tremblement de terre de magnitude 7,1 sur l'île de Kyushu, Japon",
+    "Au moins 34 morts deux jours après le séisme",
+    "Milliers de sinistrés privés d'électricité",
+    "Températures pouvant atteindre 38°C"
+   ],
+   "qui": null,
+   "ou": "Kyushu, Japon",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "dfd311fbfb88d6d9",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T11:28:06.686482+00:00"
   },
   {
    "faits": [
@@ -2641,6 +2695,28 @@
   },
   {
    "faits": [
+    "Attaque américaine contre l'Iran en riposte à des tirs de missiles balistiques lancés mardi par les Gardiens de la Révolution",
+    "Trois soldats des Gardiens de la Révolution tués lors d'une attaque américaine dans une province du nord-ouest de l'Iran",
+    "Les États-Unis affirment avoir ripoisté à une tentative d'attaque surprise contre les forces américaines au Moyen-Orient"
+   ],
+   "qui": "États-Unis, Iran (Gardiens de la Révolution)",
+   "ou": "Moyen-Orient, Iran",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "208a0180e25e84a7",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T11:28:06.686171+00:00"
+  },
+  {
+   "faits": [
     "Trois personnes ont été mises en examen après la mort d'une jeune femme de 25 ans dans un salon de beauté à Nice",
     "La mort est survenue suite à un arrêt cardio-respiratoire après l'injection d'un anesthésiant",
     "Une enquête est ouverte pour homicide involontaire"
@@ -2682,28 +2758,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T06:46:51.304663+00:00"
-  },
-  {
-   "faits": [
-    "Pas plus de 8 des 12 Canadair ont été opérationnels simultanément depuis le 21 juillet",
-    "L'intensité des feux, leur simultanéité et la maintenance difficile des Canadair expliquent le défaut des moyens aériens",
-    "Un incendie a débuté à Pontevès (Var) le 21 juillet, suivi d'un autre en Gironde le 22 juillet"
-   ],
-   "qui": "Sécurité civile française",
-   "ou": "Var et Gironde, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "ec4f2f4e2e71022c",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T04:17:24.535988+00:00"
   },
   {
    "faits": [
@@ -2823,25 +2877,26 @@
   },
   {
    "faits": [
-    "Un mandat d'arrêt a été émis contre l'ex-président bolivien Evo Morales",
-    "Morales est accusé de 'soulèvement armé' et de 'terrorisme' pour son rôle dans les manifestations antigouvernementales",
-    "Morales s'est retranché dans sa région du Chapare, une région rurale du centre du pays"
+    "L'Arabie saoudite assume désormais ses opérations militaires contre les réseaux soutenus par l'Iran",
+    "Riyad passe de la retenue à la riposte face à l'Iran et ses alliés",
+    "Multiplication des attaques contre les infrastructures énergétiques saoudiennes",
+    "Fragilisation des voies d'exportation du royaume"
    ],
-   "qui": "Evo Morales, gouvernement bolivien",
-   "ou": "Bolivie",
-   "categorie": "politique",
+   "qui": "Arabie saoudite, Iran",
+   "ou": "Moyen-Orient",
+   "categorie": "international",
    "sensible": true,
-   "confiance": 85,
+   "confiance": 78,
    "sources": [
     "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 65,
-   "empreinte": "9db8c1e1de78242a",
-   "score": 83,
+   "importance": 75,
+   "empreinte": "509a7ee491a64052",
+   "score": 82,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-30T04:17:24.535994+00:00"
+   "depuis": "2026-07-30T11:28:06.686186+00:00"
   },
   {
    "faits": [
@@ -2868,72 +2923,26 @@
   },
   {
    "faits": [
-    "La FIFA a annoncé son intention de créer une société commerciale pour maximiser ses revenus",
-    "Le projet vise notamment à augmenter les revenus de la Coupe du monde",
-    "L'UEFA critique cette évolution en la qualifiant de 'vente' du football"
+    "La Cour constitutionnelle de RDC a validé une loi référendaire",
+    "Cette validation peut ouvrir la voie à un troisième mandat de Félix Tshisekedi",
+    "La coalition d'opposition C64 critique vivement cette décision",
+    "Appel à la mobilisation congolaise le 15 août"
    ],
-   "qui": "FIFA, UEFA",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "f6321cabca62ae3d",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T04:17:24.535998+00:00"
-  },
-  {
-   "faits": [
-    "Le mégafeu continue de ravager la Gironde",
-    "Les pompiers poursuivent leur lutte contre l'incendie",
-    "Des bénévoles interviennent aux côtés des pompiers",
-    "Des importants moyens aériens sont utilisés pour empêcher les flammes de gagner les secteurs épargnés"
-   ],
-   "qui": "Pompiers, bénévoles",
-   "ou": "Gironde, France",
-   "categorie": "meteo_catastrophe",
+   "qui": "Félix Tshisekedi, Cour constitutionnelle de RDC, coalition C64",
+   "ou": "République Démocratique du Congo",
+   "categorie": "politique",
    "sensible": true,
-   "confiance": 80,
+   "confiance": 82,
    "sources": [
-    "RFI"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "52fb374ac1a52743",
+   "importance": 70,
+   "empreinte": "5711b60ba7040391",
    "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-30T04:17:13.941106+00:00"
-  },
-  {
-   "faits": [
-    "Bernarda Vera, disparue sous la dictature d'Augusto Pinochet au Chili il y a 50 ans, a été retrouvée vivante",
-    "Elle était considérée comme l'une des quelque 1 500 victimes de disparitions forcées de la dictature",
-    "Elle a été retrouvée en Argentine",
-    "Un test ADN a confirmé son identité le 27 juillet",
-    "Des parlementaires réclament désormais des comptes"
-   ],
-   "qui": "Bernarda Vera, dictature d'Augusto Pinochet, parlementaires chiliens",
-   "ou": "Chili, Argentine",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "4e3eb4326d5c85af",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T04:17:13.941141+00:00"
+   "depuis": "2026-07-30T11:28:06.686236+00:00"
   },
   {
    "faits": [
@@ -3074,47 +3083,74 @@
   },
   {
    "faits": [
-    "Anthony Fauci, ancien conseiller médical de la Maison Blanche, a été auditionné au Sénat américain mercredi",
-    "Son journal intime a été publié, contenant des récits sur la gestion de la pandémie de Covid-19",
-    "Le journal révèle des traits de caractère décrits comme vaniteux"
+    "Un cratère découvert en Pologne, localité de Tarnawa-Kolonia, région de Lublin",
+    "Puissante détonation entendue peu avant 4 heures du matin jeudi",
+    "Lieu d'impact situé à environ 80 km de la frontière ukrainienne",
+    "Cela intervient au lendemain de frappes nocturnes en Ukraine"
    ],
-   "qui": "Anthony Fauci, Sénat américain",
-   "ou": "États-Unis",
-   "categorie": "sante",
-   "sensible": false,
-   "confiance": 82,
+   "qui": null,
+   "ou": "Tarnawa-Kolonia, Pologne",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 70,
    "sources": [
-    "Le Monde"
+    "franceinfo"
    ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "b66586a7dab81e18",
-   "score": 80,
+   "non_confirme": [
+    "Il s'agirait d'un missile balistique russe (formulation \"tout porte à croire\")"
+   ],
+   "importance": 80,
+   "empreinte": "4d9325c037d4b1ab",
+   "score": 79,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-30T04:17:24.536002+00:00"
+   "depuis": "2026-07-30T11:28:06.686138+00:00"
   },
   {
    "faits": [
-    "Donald Trump a dévoilé un plan de rénovation de l'aéroport de Washington (Dulles) pour 22,5 milliards de dollars",
-    "Le projet serait financé en partie par la compagnie United Airlines, pour qui Dulles est un hub important",
-    "L'annonce a été faite par le ministre des transports"
+    "Un homme d'une vingtaine d'années mis en examen et placé en détention provisoire",
+    "Vol d'un torque en or du Trésor de Vix dans un musée de Côte-d'Or",
+    "Vol survenu vendredi",
+    "Affaire traitée par le parquet de la Jirs de Nancy"
    ],
-   "qui": "Donald Trump, ministre des transports, United Airlines",
-   "ou": "Washington, États-Unis",
-   "categorie": "economie",
-   "sensible": false,
+   "qui": "Suspect âgé d'une vingtaine d'années",
+   "ou": "Côte-d'Or, France",
+   "categorie": "justice",
+   "sensible": true,
    "confiance": 85,
    "sources": [
-    "Le Monde"
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "fcb754c4f12ded3c",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T11:28:06.686210+00:00"
+  },
+  {
+   "faits": [
+    "Un Tunisien de 39 ans condamné à 12 mois d'emprisonnement pour avoir provoqué un incendie",
+    "Tentative d'incendie de végétation au bord d'une route à Ollioules, Var",
+    "Interdiction du territoire français pendant cinq ans",
+    "Antécédents judiciaires"
+   ],
+   "qui": "Ressortissant tunisien de 39 ans",
+   "ou": "Ollioules, Var, France",
+   "categorie": "justice",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro"
    ],
    "non_confirme": [],
    "importance": 50,
-   "empreinte": "b1671d5b95c76169",
-   "score": 80,
-   "fiab_max": 90,
+   "empreinte": "ad932735f2a2d953",
+   "score": 79,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-30T04:17:24.536004+00:00"
+   "depuis": "2026-07-30T11:28:06.686496+00:00"
   },
   {
    "faits": [
@@ -3137,55 +3173,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T06:46:51.304680+00:00"
-  },
-  {
-   "faits": [
-    "Anthropic a mené une opération secrète appelée 'Projet Panama'",
-    "Cette opération a impliqué l'achat de très nombreux livres auprès de libraires du monde entier",
-    "Des documents judiciaires récents ont prouvé l'existence de cette opération secrète",
-    "Les livres ont été détruits pour alimenter une intelligence artificielle"
-   ],
-   "qui": "Anthropic",
-   "ou": "Monde entier",
-   "categorie": "sciences",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "l'ampleur exacte de l'opération"
-   ],
-   "importance": 60,
-   "empreinte": "ead8ed5dc5772eb2",
-   "score": 76,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T04:17:24.536017+00:00"
-  },
-  {
-   "faits": [
-    "Simone Thiero, ancienne handballeuse internationale pro, s'est reconvertie dans le para-taekwondo depuis deux ans",
-    "Elle a dissimulé son handicap pendant des années",
-    "Elle est reconnue handicapée en raison d'un bras inerte",
-    "La Francilienne de 33 ans se prépare pour les Jeux paralympiques de Los Angeles en 2028",
-    "Elle a caché son handicap tout au long de sa carrière en handball"
-   ],
-   "qui": "Simone Thiero",
-   "ou": "France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "5e56f39d40001f7e",
-   "score": 71,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T04:17:13.941173+00:00"
   },
   {
    "faits": [
