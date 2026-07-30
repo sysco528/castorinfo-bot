@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/monde/europe/migrants/dans-le-pas-de-calais-150-migrants-secourus-au-large-de-berck-sur-mer_8119568.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sciences/la-medaille-fields-remise-a-deux-chinois-un-americain-et-un-canadien-pour-leurs-decouvertes-exceptionnelles_8119760.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/medias/google-viole-ses-engagements-avec-ses-nouveaux-resumes-par-ia-denoncent-les-editeurs-de-la-presse-magazine_8119649.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/j-ai-15-hectares-qui-partent-en-fumee-a-lege-cap-ferret-l-angoisse-des-habitants-devant-la-progression-des-flammes_8119802.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/incendie-en-gironde-des-milliers-de-touristes-evacues_8119826.html#xtor=RSS-3-[lestitres]",
@@ -301,12 +299,11 @@
    "https://www.franceinfo.fr/monde/royaume-uni/une-centaine-d-hectares-ravages-des-habitants-evacues-120-pompiers-mobilises-un-incendie-complique-s-est-declenche-mercredi-dans-l-est-de-l-angleterre_8128784.html#xtor=RSS-3-[lestitres]",
    "https://france3-regions.franceinfo.fr/corse/haute-corse/incendies-en-haute-corse-le-feu-reprend-a-biguglia-les-pompiers-toujours-mobilises-3394723.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/foot/l-uefa-menace-de-boycotter-les-coupes-du-monde-si-le-projet-d-investisseurs-prives-presente-par-la-fifa-aboutit_8128862.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement/info-franceinfo-l-eurodeputee-lfi-rima-hassan-a-porte-plainte-pour-cyberharcelement-contre-le-journaliste-jean-quatremer_8128661.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/societe/harcelement/info-franceinfo-l-eurodeputee-lfi-rima-hassan-a-porte-plainte-pour-cyberharcelement-contre-le-journaliste-jean-quatremer_8128661.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/a-cause-du-phenomene-de-feu-zombie-faudra-t-il-des-mois-pour-eteindre-les-incendies-en-gironde_8129114.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/espagne/neuf-migrants-sont-morts-en-tentant-de-rejoindre-l-enclave-de-ceuta-annonce-le-gouvernement-espagnol_8129108.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/videos/article/2026/07/16/c-est-mad-max-sur-l-ocean-les-go-fast-charges-de-cocaine-a-l-assaut-des-cotes-europeennes_6723728_1669088.html",
-   "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-de-nouvelles-frappes-contre-l-iran-teheran-cible-des-installations-americaines-en-jordanie_6722873_3210.html",
-   "https://www.lemonde.fr/sport/article/2026/07/16/coupe-du-monde-2026-une-banderole-les-malouines-sont-argentines-deployee-par-des-joueurs-de-l-albiceleste_6723744_3242.html",
    "https://www.lemonde.fr/politique/article/2026/07/16/la-mise-en-cause-de-deux-inspecteurs-du-travail-vire-a-l-affaire-politique-pour-le-ministere_6723740_823448.html",
    "https://www.lemonde.fr/international/article/2026/07/16/au-canada-toronto-suffoque-sous-la-fumee-des-feux-de-foret-et-enregistre-l-une-des-pires-qualites-de-l-air-au-monde_6723623_3210.html",
    "https://www.lemonde.fr/international/article/2026/07/16/en-allemagne-friedrich-merz-reste-prudemment-optimiste-sur-l-avenir-de-sa-coalition_6723747_3210.html",
@@ -603,14 +600,12 @@
    "https://www.lemonde.fr/politique/article/2026/07/30/xenia-fedorova-propagandiste-russe-visee-par-un-arrete-d-expulsion-laurent-nunez-affirme-que-ce-n-est-pas-une-atteinte-a-la-liberte-d-expression_6737064_823448.html",
    "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-iraniens-affirment-avoir-vise-une-base-americaine-a-bahrein_6725301_3210.html",
    "https://www.lemonde.fr/economie/article/2026/07/30/chez-sanofi-la-nouvelle-patronne-garde-le-cap-sur-l-immunologie-et-les-vaccins-mais-revoit-en-profondeur-la-methode_6737063_3234.html",
-   "https://www.lemonde.fr/afrique/article/2026/07/30/au-burkina-faso-le-capitaine-ibrahim-traore-debranche-le-numero-deux-de-la-junte_6737051_3212.html"
+   "https://www.lemonde.fr/afrique/article/2026/07/30/au-burkina-faso-le-capitaine-ibrahim-traore-debranche-le-numero-deux-de-la-junte_6737051_3212.html",
+   "https://www.lemonde.fr/international/article/2026/07/30/guerre-en-iran-la-rhetorique-belliciste-de-donald-trump-reflet-de-l-enlisement-americain_6737068_3210.html",
+   "https://www.lemonde.fr/climat/article/2026/07/30/canicule-21-departements-places-en-vigilance-orange-vendredi-jusqu-a-40-c-attendus-dans-le-sud-est-selon-meteo-france_6737046_1652612.html",
+   "https://www.lemonde.fr/economie/article/2026/07/30/greve-surprise-a-la-sncf-le-trafic-perturbe-en-normandie-de-vendredi-a-dimanche-week-end-de-chasse-croise_6737066_3234.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/musique/la-musique-generee-par-ia-depasse-pour-la-premiere-fois-50-des-titres-mis-en-ligne-quotidiennement-sur-deezer-20260722",
-   "https://www.lefigaro.fr/meteo/en-direct-incendies-du-var-a-la-gironde-les-pompiers-se-battent-contre-deux-feux-d-ampleur-20260723",
-   "https://immobilier.lefigaro.fr/article/le-chanteur-vianney-a-toujours-sa-cabane-en-bois-mais-il-n-est-plus-proprietaire-du-43e-etage-de-la-tour-montparnasse-20260723",
-   "https://www.lefigaro.fr/flash-eco/nucleaire-les-etats-unis-envisagent-d-installer-des-reacteurs-en-mer-20260722",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-profil-horaire-favoris-et-le-moment-de-verite-de-la-dix-huitieme-etape-20260723",
    "https://www.lefigaro.fr/international/colere-etudiante-en-inde-modi-promet-de-punir-severement-les-responsables-des-fraudes-aux-examens-20260723",
    "https://www.lefigaro.fr/meteo/gironde-une-spectaculaire-tornade-de-feu-filmee-au-coeur-de-l-incendie-pres-de-2000-hectares-deja-ravages-20260723",
    "https://www.lefigaro.fr/sciences/en-2030-ou-pourra-t-on-encore-echapper-aux-canicules-notre-classement-des-villes-les-plus-respirables-20260723",
@@ -905,12 +900,14 @@
    "https://www.lefigaro.fr/actualite-france/detenus-sur-ecoute-menottage-en-cellule-immersion-au-coeur-du-nouveau-quartier-de-haute-securite-pour-narcotrafiquants-de-reau-20260730",
    "https://www.lefigaro.fr/vox/societe/omar-youssef-souleimane-de-gaza-au-cap-ferret-l-incendie-permanent-de-la-france-insoumise-20260730",
    "https://www.lefigaro.fr/international/espagne-les-images-de-l-afflux-de-migrants-arrivant-du-maroc-dans-l-enclave-espagnole-de-ceuta-20260730",
-   "https://www.lefigaro.fr/international/nous-avons-ete-reduits-en-esclavage-le-directeur-d-une-prison-de-tripoli-accuse-de-crimes-contre-des-migrants-20260730"
+   "https://www.lefigaro.fr/international/nous-avons-ete-reduits-en-esclavage-le-directeur-d-une-prison-de-tripoli-accuse-de-crimes-contre-des-migrants-20260730",
+   "https://www.lefigaro.fr/sciences/pourquoi-le-nouvel-el-nino-deja-surnomme-godzilla-inquiete-les-climatologues-20260730",
+   "https://www.lefigaro.fr/meteo/meteo-avec-l-arrivee-des-orages-les-chaleurs-vont-elles-vraiment-reculer-durablement-20260730",
+   "https://www.lefigaro.fr/meteo/meteo-du-vendredi-31-juillet-du-massif-central-a-l-alsace-des-orages-violents-avec-de-la-grele-et-des-fortes-rafales-20260730",
+   "https://www.lefigaro.fr/actualite-france/elle-m-a-accusee-de-la-voler-et-de-trafiquer-les-prix-quand-les-cagnottes-tricount-tournent-au-reglement-de-compte-20260730",
+   "https://www.lefigaro.fr/flash-actu/afflux-massif-de-migrants-a-ceuta-l-italie-veut-suspendre-l-espagne-de-l-espace-schengen-20260730"
   ],
   "https://www.france24.com/fr/rss": [
-   "6e1895b0-85ec-11f1-9934-03741cba6343",
-   "cb3772e0-85ea-11f1-92cf-03741cba6343",
-   "64e26fda-85be-11f1-b06d-3fc541eb9bc0",
    "7daab5ec-85e4-11f1-a7ce-791ab238e0c3",
    "15c884cc-85df-11f1-af5a-57a314c7456b",
    "e10d7a52-85df-11f1-8379-891d8584ee45",
@@ -1207,16 +1204,12 @@
    "0d11518c-8bf8-11f1-ab07-c7815f81c64e",
    "e716debe-8c2b-11f1-a3a0-8f026c92d72b",
    "874623d6-8c2c-11f1-bcbd-5fd09df69f4e",
-   "bd7b1a70-8c2b-11f1-a32d-8f026c92d72b"
+   "bd7b1a70-8c2b-11f1-a32d-8f026c92d72b",
+   "f97aecb2-8c44-11f1-aef8-79aa00a7e994",
+   "9db0415a-8c41-11f1-9215-11a9e141bef9",
+   "ea6416da-8c27-11f1-902d-c1427377b24d"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "2b29723a-81c6-11f1-9f95-15234347de71",
-   "a6ac3dac-81e4-11f1-acc4-8998530e5bf2",
-   "9327ed1e-81bf-11f1-a424-cd008d9a5645",
-   "8e6c0bc8-81d5-11f1-8e1f-83ac13938bde",
-   "ed30bb44-81d1-11f1-a3a2-bd66ef183a97",
-   "638cb5ea-8204-11f1-adba-5583b9e74641",
-   "16aeb0f0-81fc-11f1-880b-23660ad68ae6",
    "9e350dd8-81ea-11f1-9740-f1e11bcbb1e6",
    "d8b1b36a-81f6-11f1-bb3e-23660ad68ae6",
    "76724830-81ed-11f1-95ba-357bd9b41020",
@@ -1509,7 +1502,14 @@
    "748b78ee-8b6a-11f1-82ac-f972bd8c33a2",
    "a6a2e1f2-8a96-11f1-ba8f-b9dc43c918c2",
    "5c0f4d48-8b9e-11f1-9dc7-15162d754079",
-   "7abd0294-8b99-11f1-8017-c5202408d021"
+   "7abd0294-8b99-11f1-8017-c5202408d021",
+   "29715f6a-8c03-11f1-a52f-e58b7addb2db",
+   "a0685198-8bca-11f1-b10e-1310b1ad3061",
+   "f10ba736-8be2-11f1-980a-eda7c4a3ddc0",
+   "54166df2-8c2e-11f1-8089-178889524b5b",
+   "a1beb40c-8c0a-11f1-9997-3b745c4f40ea",
+   "b00fa1de-8c2c-11f1-9c92-ed7ce3793008",
+   "07d03fca-8c3f-11f1-836c-5329bd929576"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/leditiondusoir/2026-07-22/face-au-surtourisme-pourquoi-la-france-semble-plus-tolerante-que-ses-voisins-21a2b001-94c7-4179-ab0e-898d831f1c70?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -2574,6 +2574,35 @@
  "evenements_attente": [
   {
    "faits": [
+    "Un mégafeu en Gironde a ravagé 42 000 hectares",
+    "Le feu est stabilisé depuis plusieurs jours",
+    "Les pompiers rapportent un « optimisme raisonnable »",
+    "Environ 220 000 personnes ont été évacuées",
+    "Un phénomène de « feu zombie » (brûlement souterrain) pourrait prolonger les opérations de plusieurs mois",
+    "L'enquête préliminaire suggère qu'un chantier de débroussaillage serait à l'origine de l'incendie",
+    "Dans les Landes, l'incendie de Biscarrosse a été déclaré « maîtrisé »"
+   ],
+   "qui": "Pompiers de Gironde et Landes, autorités françaises",
+   "ou": "Gironde et Landes, sud-ouest de la France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "RFI",
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "Durée exacte des opérations de contrôle du phénomène « feu zombie »"
+   ],
+   "importance": 85,
+   "empreinte": "cf4bf957f5c77e35",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-30T20:08:53.574831+00:00"
+  },
+  {
+   "faits": [
     "Des incendies ravagent la Gironde depuis plusieurs jours",
     "Des milliers de litres d'eau sont acheminés quotidiennement sur le terrain via des lacs, piscines, réserves forestières et bornes incendie",
     "Une mobilisation exceptionnelle de volontaires ravitaille les camions de pompiers en eau",
@@ -2607,30 +2636,91 @@
   },
   {
    "faits": [
-    "84 000 habitants de Gironde autorisés à rentrer chez eux après une semaine d'évacuations massives",
-    "Retour autorisé pour neuf nouvelles communes",
-    "Environ 42 000 hectares de forêt ravagés en Gironde",
-    "Environ 115 000 hectares parcourus par les incendies en France en 2026",
-    "Météo plus clémente favorisant la lutte contre le feu",
-    "Incendie toujours stabilisé selon les pompiers"
+    "Neuf migrants sont morts lors d'une arrivée massive à Ceuta",
+    "Les corps ont été repêchés",
+    "Plus de 1 500 migrants sont arrivés par la mer à Ceuta cette semaine",
+    "Les centres d'accueil sont saturés",
+    "L'armée espagnole a été mobilisée en renfort",
+    "Les autorités locales considèrent la situation comme une « urgence humanitaire »",
+    "L'Italie demande la suspension de l'Espagne de l'espace Schengen en réaction"
    ],
-   "qui": "Préfecture de Gironde, pompiers",
-   "ou": "Gironde, France",
-   "categorie": "meteo_catastrophe",
+   "qui": "Migrants, gouvernement espagnol, autorités locales de Ceuta, gouvernement italien",
+   "ou": "Ceuta (enclave espagnole au nord du Maroc)",
+   "categorie": "international",
    "sensible": true,
-   "confiance": 92,
+   "confiance": 90,
    "sources": [
-    "franceinfo",
+    "Le Monde",
+    "Le Figaro",
     "France 24",
-    "Le Figaro"
+    "RFI"
    ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "1b3f783070a9b8a2",
-   "score": 100,
+   "non_confirme": [
+    "Circonstances exactes des neuf décès"
+   ],
+   "importance": 78,
+   "empreinte": "ae426d399695b285",
+   "score": 98,
+   "fiab_max": 90,
+   "nb_sources": 4,
+   "depuis": "2026-07-30T20:08:53.574836+00:00"
+  },
+  {
+   "faits": [
+    "Les États-Unis ont mené une « lourde série » de bombardements sur l'Iran en représailles",
+    "Les médias iraniens rapportent des explosions dans deux provinces",
+    "Le conflit entre les États-Unis, Israël et l'Iran a débuté en février 2026",
+    "Donald Trump multiplie les déclarations de victoire malgré les contradictions",
+    "Le Pakistan affirme que les belligérants négocient en vue d'une désescalade",
+    "L'Iran poursuit des discussions avec Oman sur le détroit d'Ormuz"
+   ],
+   "qui": "États-Unis, Israël, Iran, Pakistan, Oman",
+   "ou": "Iran, Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde",
+    "RFI"
+   ],
+   "non_confirme": [
+    "Nombre exact de bombardements et d'objectifs frappés",
+    "Statut réel des négociations de désescalade"
+   ],
+   "importance": 82,
+   "empreinte": "f34a06a5684b9fb1",
+   "score": 96,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-30T20:08:53.574838+00:00"
+  },
+  {
+   "faits": [
+    "21 départements sont placés en vigilance orange pour canicule vendredi 31 juillet",
+    "Des températures jusqu'à 40 °C sont attendues dans le Sud-Est",
+    "Des orages violents sont prévus du sud-ouest au nord-est vendredi",
+    "Les orages pourraient apporter de la grêle et de fortes rafales",
+    "Un nouvel El Niño, surnommé « Godzilla », pourrait faire de 2027 l'année la plus chaude jamais enregistrée"
+   ],
+   "qui": "Météo-France",
+   "ou": "France (21 départements), particulièrement le Sud-Est",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde",
+    "Le Figaro",
+    "RFI"
+   ],
+   "non_confirme": [
+    "Impact du nouvel El Niño sur les prochains mois"
+   ],
+   "importance": 75,
+   "empreinte": "eb9f33ec42e9f99d",
+   "score": 96,
    "fiab_max": 90,
    "nb_sources": 3,
-   "depuis": "2026-07-30T13:12:11.294831+00:00"
+   "depuis": "2026-07-30T20:08:53.574839+00:00"
   },
   {
    "faits": [
@@ -2654,32 +2744,6 @@
    "fiab_max": 90,
    "nb_sources": 3,
    "depuis": "2026-07-30T18:43:32.786320+00:00"
-  },
-  {
-   "faits": [
-    "33 000 climatiseurs mobiles livrés dans les hôpitaux et Ehpad depuis la canicule de juin",
-    "Gouvernement avait promis la livraison de 30 000 climatiseurs mobiles fin juin",
-    "La mesure ne fait pas l'unanimité auprès des professionnels du secteur",
-    "CGT critique la robustesse du matériel livré dans l'urgence"
-   ],
-   "qui": "Gouvernement français, ministre de la Santé",
-   "ou": "France",
-   "categorie": "sante",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "suffisance de la mesure"
-   ],
-   "importance": 65,
-   "empreinte": "1c8854b9bfa326c2",
-   "score": 93,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-30T13:12:11.294837+00:00"
   },
   {
    "faits": [
@@ -2783,75 +2847,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T17:07:22.103841+00:00"
-  },
-  {
-   "faits": [
-    "Camions lanceurs d'eau de la police nationale engagés contre l'incendie en Gironde",
-    "Ces engins habituellement utilisés lors des manifestations missionnés pour protéger des sites sensibles et attaquer la lisière du feu"
-   ],
-   "qui": "Police nationale",
-   "ou": "Gironde, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "395b531260afcc2c",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T13:12:11.294839+00:00"
-  },
-  {
-   "faits": [
-    "Stock de munitions de la Seconde Guerre mondiale découvert à Porge en Gironde durant l'incendie",
-    "Obus ont explosé au cœur du brasier",
-    "Débris ont traversé une maison",
-    "La mairie ignorait l'existence de ce dépôt"
-   ],
-   "qui": null,
-   "ou": "Porge, Gironde, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "8b336be67ef1831d",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T13:12:11.294841+00:00"
-  },
-  {
-   "faits": [
-    "Huit morts dans des bombardements russes en Ukraine",
-    "Six membres d'une famille living près de Kryvyï Rig ont été tués",
-    "Une personne morte à Kiev",
-    "Une personne morte à Poltava",
-    "Frappes russes dans la nuit de mercredi à jeudi",
-    "Survenue quelques heures après une mise en garde contre une 'attaque massive' imminente par le président Zelensky"
-   ],
-   "qui": "Russie, Ukraine",
-   "ou": "Kryvyï Rig, Kiev, Poltava, Ukraine",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "827d6f28fa090500",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T13:12:11.294244+00:00"
   },
   {
    "faits": [
@@ -2968,78 +2963,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T17:07:22.103850+00:00"
-  },
-  {
-   "faits": [
-    "Algérie a élu pour la première fois une femme à la tête du parlement",
-    "Khalida Boufedeche est la première femme élue à la tête de l'Assemblée populaire nationale",
-    "Khalida Boufedeche est députée d'Alger du Front de Libération Nationale (FLN)"
-   ],
-   "qui": "Khalida Boufedeche, Front de Libération Nationale",
-   "ou": "Algérie",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "6645251fd0ea60d3",
-   "score": 85,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T13:12:11.294846+00:00"
-  },
-  {
-   "faits": [
-    "Quatre migrants décédés dans deux tentatives de traversée de la Manche",
-    "Une embarcation de type 'taxi boat' a fait naufrage au large d'Hardelot mercredi vers 23h30",
-    "Un homme de 30 à 40 ans décédé dans ce naufrage"
-   ],
-   "qui": null,
-   "ou": "Manche, Hardelot, France",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "circonstances du second incident mortel"
-   ],
-   "importance": 75,
-   "empreinte": "1bbb36d278f855f1",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T13:12:11.293994+00:00"
-  },
-  {
-   "faits": [
-    "Pologne accuse la Russie d'être à l'origine du tir d'un missile tombé en territoire polonais",
-    "Missile s'est écrasé à 80 km de la frontière avec l'Ukraine",
-    "Fragments indiquent qu'il s'agit d'un missile russe Kh-101 selon le Premier ministre Donald Tusk",
-    "Nouvelle violation de l'espace aérien de l'Otan"
-   ],
-   "qui": "Pologne, Russie",
-   "ou": "Territoire polonais, frontière Ukraine-Pologne",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "circonstances exactes du tir",
-    "intentions"
-   ],
-   "importance": 80,
-   "empreinte": "43c542d3e05d1187",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T13:12:11.294051+00:00"
   },
   {
    "faits": [
@@ -3273,25 +3196,125 @@
   },
   {
    "faits": [
-    "Plus de 1 500 migrants arrivés à la nage à Ceuta depuis le Maroc ces derniers jours",
-    "Ceuta est une enclave espagnole située au nord du Maroc",
-    "Centres d'accueil saturés"
+    "Une grève surprise a été annoncée à la SNCF",
+    "Le trafic ferroviaire sera perturbé en Normandie entre vendredi et dimanche",
+    "Des suppressions de trains sont attendues sur plusieurs axes majeurs en Normandie",
+    "La grève coïncide avec un week-end de « chassé-croisé » (grands départs)"
    ],
-   "qui": null,
-   "ou": "Ceuta, Espagne",
-   "categorie": "faits_divers",
-   "sensible": true,
+   "qui": "SNCF, syndicats de cheminots",
+   "ou": "Normandie, France",
+   "categorie": "autre",
+   "sensible": false,
    "confiance": 85,
    "sources": [
-    "Le Figaro"
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Revendications exactes des grévistes",
+    "Ampleur précise du mouvement"
+   ],
+   "importance": 60,
+   "empreinte": "72dc9d6437349eed",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T20:08:53.574863+00:00"
+  },
+  {
+   "faits": [
+    "Les fédérations membres de l'UEFA ont menacé « à l'unanimité » de boycotter la Coupe du monde et autres compétitions de la Fifa",
+    "La menace survient en réaction au projet du président de la Fifa Gianni Infantino de céder des parts à des investisseurs extérieurs",
+    "Le projet concerne une filiale chargée d'organiser les tournois de la Fifa",
+    "Le vote de l'UEFA s'est déroulé le 30 juillet 2026"
+   ],
+   "qui": "UEFA, Gianni Infantino (président de la Fifa), fédérations membres de l'UEFA",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 87,
+   "sources": [
+    "RFI"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "0bf6e4ac98f5b2be",
+   "importance": 68,
+   "empreinte": "df19d179de7ad852",
    "score": 82,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-30T13:12:11.293964+00:00"
+   "depuis": "2026-07-30T20:08:53.574864+00:00"
+  },
+  {
+   "faits": [
+    "La Turquie est confrontée à plusieurs feux de forêt touchant principalement la côte sud",
+    "Les incendies affectent les provinces entre Balikesir, Izmir, Mugla et Antalya",
+    "Des villages et quartiers ont été évacués",
+    "Les températures élevées, la sécheresse et les vents favorisent la propagation des flammes",
+    "La Turquie dispose de moyens renforcés, incluant des avions prêtés"
+   ],
+   "qui": "Autorités turques",
+   "ou": "Côte sud de la Turquie (provinces de Balikesir, Izmir, Mugla, Antalya)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "Nombre exact de foyers actifs et superficies brûlées"
+   ],
+   "importance": 60,
+   "empreinte": "8f054f7d22149375",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T20:08:53.574149+00:00"
+  },
+  {
+   "faits": [
+    "Xenia Fedorova, chroniqueuse accusée d'être la voix du Kremlin dans des médias français, fait l'objet d'un arrêté d'expulsion",
+    "Le ministre de l'Intérieur Laurent Nuñez affirme que l'arrêté n'est « pas une atteinte à la liberté d'expression »",
+    "Le Rassemblement national est divisé : certains soutiennent la lutte contre l'ingérence russe, d'autres dénoncent une censure politique"
+   ],
+   "qui": "Xenia Fedorova, Laurent Nuñez (ministre de l'Intérieur), élus français",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "Preuves d'une propagande du Kremlin à travers Xenia Fedorova"
+   ],
+   "importance": 65,
+   "empreinte": "3b6c2ec79d28969f",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T20:08:53.574087+00:00"
+  },
+  {
+   "faits": [
+    "Le Bénin a officiellement installé son Sénat le 30 juillet 2026",
+    "Le Sénat est une nouvelle chambre du Parlement issue de la révision constitutionnelle de 2025",
+    "Les anciens présidents Patrice Talon et Boni Yayi étaient présents côte à côte à la cérémonie",
+    "Le Sénat a pour mission de réguler la vie politique au Bénin"
+   ],
+   "qui": "Gouvernement du Bénin, Patrice Talon, Boni Yayi",
+   "ou": "Bénin",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "045792b70e10fa52",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T20:08:53.574866+00:00"
   }
  ],
  "publies_48h": [
