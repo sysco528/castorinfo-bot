@@ -2,12 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/tour-de-france/richard-carapaz-dompte-ses-compagnons-d-echappee-et-remporte-la-18e-etape-du-tour-de-france-au-sommet-d-orcieres-merlette_8119463.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/apres-l-affaire-barbara-butch-le-chef-de-file-grenoblois-de-lfi-annonce-saisir-la-justice-pour-des-injures-a-caractere-raciste-et-des-menaces_8119475.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/la-mostra-de-venise-devoile-la-programmation-de-sa-83e-edition_8119364.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/a-gaza-la-securite-alimentaire-s-ameliore-mais-reste-fragile-selon-l-onu_8119376.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/accusations-d-escroqueries-penurie-de-climatiseurs-on-a-verifie-les-pratiques-commerciales-de-l-entreprise-climloc_8063903.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/drogue-addictions/je-me-dezinguais-a-m-en-faire-peter-la-couscoussiere-l-ancien-conseiller-en-communication-de-gabriel-attal-revele-son-addiction-passee-a-la-cocaine_8119352.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-candidat-jean-luc-melenchon-lfi-a-dine-avec-des-grands-patrons-sur-invitation-du-lobby-france-industrie_8119691.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/un-concert-d-amir-annule-a-marseille-pour-raisons-de-securite-apres-des-appels-au-boycott-propalestinien_8119625.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/pedocriminalite/un-homme-de-74-ans-mis-en-examen-et-place-en-detention-provisoire-pour-des-viols-et-agressions-sexuelles-sur-17-mineurs_8119670.html#xtor=RSS-3-[lestitres]",
@@ -301,17 +295,15 @@
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-camions-lanceurs-d-eau-de-la-police-nationale-desormais-engages-contre-l-incendie-en-gironde_8128544.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/des-obus-ont-explose-au-porge-en-gironde-un-stock-de-munitions-de-la-seconde-guerre-mondiale-a-ete-decouvert-au-plus-fort-de-l-incendie_8128559.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/medias/la-russie-de-vos-reves-vous-tend-les-bras-l-arrete-d-expulsion-visant-xenia-fedorova-fait-reagir-de-l-extreme-droite-a-la-gauche_8128295.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/33-000-climatiseurs-mobiles-ont-ete-livres-dans-les-hopitaux-et-ehpad-annonce-la-ministre-de-la-sante_8128565.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/33-000-climatiseurs-mobiles-ont-ete-livres-dans-les-hopitaux-et-ehpad-annonce-la-ministre-de-la-sante_8128565.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/ca-nous-fait-gagner-enormement-de-temps-en-gironde-une-mobilisation-exceptionnelle-de-volontaires-pour-ravitailler-les-camions-de-pompiers-en-eau_8128631.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/j-ai-vu-quelqu-un-jeter-quelque-chose-et-ca-s-est-embrase-les-habitants-et-les-autorites-sur-le-qui-vive-face-aux-incendiaires-et-de-pyromanes_8128652.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/le-fonds-de-soutien-pour-les-communes-touchees-par-les-incendies-de-l-association-des-maires-de-france-sera-d-abord-fleche-vers-la-protection-civile_8128742.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-suis-independant-je-n-ai-pas-assez-de-fonds-pour-m-assurer-l-amer-constat-des-degats-pour-une-cinquantaine-d-entreprises-de-biscarrosse-atteintes-par-le-feu_8128610.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/comment-fonctionnent-la-logistique-et-l-entretien-des-canadairs-au-c-ur-des-polemiques-sur-la-gestion-des-incendies_8128715.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/royaume-uni/une-centaine-d-hectares-ravages-des-habitants-evacues-120-pompiers-mobilises-un-incendie-complique-s-est-declenche-mercredi-dans-l-est-de-l-angleterre_8128784.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/economie/article/2026/07/14/dp-world-l-entreprise-qui-a-fait-des-emirats-arabes-unis-une-puissance-portuaire-et-logistique_6723274_3234.html",
-   "https://www.lemonde.fr/sport/article/2026/07/14/france-espagne-des-retrouvailles-pour-une-affiche-aux-airs-de-finale-avant-l-heure-dans-la-coupe-du-monde-2026_6723262_3242.html",
-   "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-en-ukraine-des-explosions-entendues-dans-la-nuit-a-kiev-deux-incendies-maitrises_6722853_3210.html",
-   "https://www.lemonde.fr/societe/article/2026/07/14/dix-ans-apres-l-attentat-du-14-juillet-nice-confrontee-a-un-douloureux-travail-de-memoire_6723241_3224.html",
-   "https://www.lemonde.fr/series-d-ete/article/2026/07/13/mengistu-le-negus-rouge-ethiopien-fantome-d-harare_6723136_3451060.html",
-   "https://www.lemonde.fr/sport/article/2026/07/14/tour-de-france-2026-le-parcours-de-la-dixieme-etape-aurillac-le-lioran_6723268_3242.html",
-   "https://www.lemonde.fr/idees/article/2026/07/14/l-europe-par-la-taille-de-son-marche-et-son-influence-reglementaire-projette-ses-normes-au-dela-de-ses-frontieres_6723259_3232.html",
-   "https://www.lemonde.fr/series-d-ete/article/2026/07/14/paul-et-denise-poiret-splendeurs-et-miseres-d-un-couple-d-avant-garde_6723263_3451060.html",
    "https://www.lemonde.fr/argent/article/2026/07/14/mariage-dans-un-chateau-comment-prouver-que-les-lieux-etaient-sales_6723250_1657007.html",
    "https://www.lemonde.fr/sport/article/2026/07/15/c-est-pas-grave-mon-bonhomme-le-foot-c-est-pas-grave-les-fans-tricolores-resignes-apres-la-defaite-de-la-france-en-demi-finales-de-la-coupe-du-monde_6723518_3242.html",
    "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-l-aide-a-mourir-un-long-cheminement-pour-emmanuel-macron_6723495_823448.html",
@@ -603,15 +595,17 @@
    "https://www.lemonde.fr/planete/article/2026/07/30/incendie-en-gironde-entre-pompiers-et-volontaires-une-collaboration-chaotique-mais-efficace_6736664_3244.html",
    "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-la-russie-accuse-kiev-d-avoir-bombarde-le-port-de-taman-dans-la-region-de-krasnodar_6732775_3210.html",
    "https://www.lemonde.fr/societe/article/2026/07/30/les-associations-engagees-dans-une-course-aux-financements-et-aux-economies-pour-pallier-la-baisse-des-aides-publiques_6737015_3224.html",
-   "https://www.lemonde.fr/societe/article/2026/07/30/canicule-le-gouvernement-affirme-avoir-tenu-sa-promesse-de-livraison-de-33-000-climatiseurs-dans-les-hopitaux-et-les-ehpad_6737018_3224.html"
+   "https://www.lemonde.fr/societe/article/2026/07/30/canicule-le-gouvernement-affirme-avoir-tenu-sa-promesse-de-livraison-de-33-000-climatiseurs-dans-les-hopitaux-et-les-ehpad_6737018_3224.html",
+   "https://www.lemonde.fr/planete/live/2026/07/30/en-direct-incendies-la-centrale-nucleaire-de-golfech-arretee-pour-la-3-fois-de-l-ete-l-a63-progressivement-rouverte-a-la-circulation-dans-les-deux-sens_6730417_3244.html",
+   "https://www.lemonde.fr/international/article/2026/07/30/a-zaoutar-el-gharbiye-village-du-sud-du-liban-designe-zone-pilote-les-israeliens-ont-tout-detruit-pour-rendre-la-vie-impossible_6737030_3210.html",
+   "https://www.lemonde.fr/economie/article/2026/07/30/vendanges-la-recolte-2026-menacee-par-la-secheresse_6737013_3234.html",
+   "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-au-moyen-orient-des-morts-dans-une-attaque-americaine-sur-l-iran-teheran-revendique-des-frappes-contre-une-base-americaine-en-jordanie_6725301_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/30/espagne-plus-de-1-500-personnes-sont-arrivees-depuis-le-maroc-a-ceuta-ces-derniers-jours-annoncent-les-autorites-regionales-espagnoles_6737020_3210.html",
+   "https://www.lemonde.fr/election-presidentielle-2027/article/2026/07/30/le-tribunal-de-paris-rejette-la-demande-de-gabriel-attal-visant-a-interdire-au-rn-d-utiliser-le-mot-renaissance_6737022_6205049.html",
+   "https://www.lemonde.fr/planete/article/2026/07/30/des-os-de-mammouth-decouverts-en-bulgarie-dans-le-lit-du-danube-dont-le-niveau-est-exceptionnellement-bas-a-cause-de-la-secheresse_6737026_3244.html",
+   "https://www.lemonde.fr/sport/article/2026/07/30/les-sabreurs-francais-sacres-champions-du-monde-par-equipes-epilogue-heureux-de-mondiaux-decevants-pour-les-bleus_6737029_3242.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/culture/barbara-butch-joann-sfar-lahav-shani-quand-le-militantisme-propalestinien-fait-la-chasse-aux-artistes-juifs-20260722",
-   "https://www.lefigaro.fr/vox/societe/barbara-butch-va-t-elle-comprendre-que-c-est-son-son-propre-camp-qui-nourrit-l-antisemitisme-20260722",
-   "https://www.lefigaro.fr/maison/combien-coute-une-climatisation-20260529",
-   "https://www.lefigaro.fr/economie/arnaud-marion-il-n-y-a-pas-eu-de-surmortalite-dans-les-ehpad-malgre-trois-canicules-20260722",
-   "https://www.lefigaro.fr/conjoncture/franchises-medicales-et-remboursement-de-medicaments-ce-que-pourraient-rapporter-les-pistes-d-economies-explosives-de-sebastien-lecornu-20260722",
-   "https://www.lefigaro.fr/economie/deficit-2026-le-gouvernement-admet-progressivement-sa-capitulation-20260722",
    "https://www.lefigaro.fr/nantes/nantes-saint-nazaire-les-grandes-villes-de-loire-atlantique-desormais-sous-la-menace-des-incendies-20260722",
    "https://www.lefigaro.fr/nantes/incendie-de-nantes-une-plantation-de-cannabis-decouverte-pres-des-bidonvilles-roms-evacues-20260722",
    "https://www.lefigaro.fr/actualite-france/maisons-detruites-voitures-calcinees-les-images-des-degats-causes-par-l-incendie-dans-le-var-20260722",
@@ -905,7 +899,13 @@
    "https://www.lefigaro.fr/international/urgence-humanitaire-et-sociale-absolue-plus-de-1500-migrants-arrivent-a-la-nage-dans-l-enclave-espagnole-de-ceuta-depuis-le-maroc-20260730",
    "https://www.lefigaro.fr/international/manche-quatre-migrants-decedes-dans-deux-tentatives-de-traversees-20260730",
    "https://www.lefigaro.fr/conjoncture/canadairs-la-france-est-elle-bien-dotee-par-rapport-a-ses-voisins-europeens-20260730",
-   "https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260729"
+   "https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260729",
+   "https://www.lefigaro.fr/conjoncture/lutte-contre-les-incendies-le-retardant-cet-outil-indispensable-et-symbole-du-manque-de-souverainete-francaise-20260730",
+   "https://www.lefigaro.fr/actualite-france/plus-d-une-centaine-de-deflagrations-des-obus-de-la-seconde-guerre-mondiale-retrouves-au-coeur-de-l-incendie-de-gironde-20260730",
+   "https://www.lefigaro.fr/politique/incendie-en-gironde-attaque-pour-ses-votes-passes-sur-les-moyens-des-pompiers-le-maire-de-bordeaux-denonce-des-accusations-erronees-20260730",
+   "https://www.lefigaro.fr/actualite-france/c-est-une-honte-face-aux-incendies-la-chasse-aux-jets-de-megots-s-organise-sur-les-reseaux-sociaux-20260730",
+   "https://www.lefigaro.fr/international/incendie-en-espagne-plus-de-11-000-hectares-detruits-en-24-heures-pres-de-la-frontiere-avec-le-portugal-20260730",
+   "https://www.lefigaro.fr/international/angleterre-une-centaine-de-pompiers-mobilises-contre-un-incendie-dans-l-est-du-pays-20260730"
   ],
   "https://www.france24.com/fr/rss": [
    "53902d92-85e3-11f1-bf37-891d8584ee45",
@@ -2574,6 +2574,39 @@
  "evenements_attente": [
   {
    "faits": [
+    "Des incendies ravagent la Gironde depuis plusieurs jours",
+    "Des milliers de litres d'eau sont acheminés quotidiennement sur le terrain via des lacs, piscines, réserves forestières et bornes incendie",
+    "Une mobilisation exceptionnelle de volontaires ravitaille les camions de pompiers en eau",
+    "70% des départs de feux sont criminels selon le ministre de l'Intérieur Laurent Nuñez",
+    "275 interpellations ont eu lieu en France cet été pour incendies criminels",
+    "Une cinquantaine d'entreprises ont été touchées dans la zone artisanale de Biscarrosse",
+    "Une aide d'urgence de jusqu'à 8 000 euros a été annoncée pour les travailleurs indépendants",
+    "Un fonds de soutien de l'Association des maires de France sera fléché vers la protection civile, essentiellement pour les communes de Gironde et du Var",
+    "L'autoroute A63 a été progressivement rouverte à la circulation",
+    "Un réacteur de la centrale nucléaire de Golfech a été arrêté mercredi soir pour la troisième fois de l'été",
+    "Des obus de la Seconde Guerre mondiale ont explosé sur le parcours de l'incendie, compliquant le travail des pompiers",
+    "Les Canadair utilisés sont pour la plupart fabriqués il y a une trentaine d'années avec des pièces difficilement remplaçables"
+   ],
+   "qui": "Habitants de Gironde et Landes, pompiers, volontaires, ministre de l'Intérieur Laurent Nuñez, maire de Bordeaux Thomas Cazenave, Association des maires de France",
+   "ou": "Gironde, Landes (Biscarrosse), Var, Tarn-et-Garonne (centrale de Golfech)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Monde",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "a806fa40f9c8e9c1",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-30T15:28:02.013517+00:00"
+  },
+  {
+   "faits": [
     "84 000 habitants de Gironde autorisés à rentrer chez eux après une semaine d'évacuations massives",
     "Retour autorisé pour neuf nouvelles communes",
     "Environ 42 000 hectares de forêt ravagés en Gironde",
@@ -2632,29 +2665,6 @@
   },
   {
    "faits": [
-    "L'économie française a rebondi de 0,2% au deuxième trimestre 2026 après un recul de 0,1% au premier trimestre",
-    "Ce rebond est largement dû aux exportations, notamment en aéronautique",
-    "L'industrie tient tandis que les ménages demeurent prudents"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde",
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "3ba93a0ea4507518",
-   "score": 95,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-30T09:22:45.718648+00:00"
-  },
-  {
-   "faits": [
     "33 000 climatiseurs mobiles livrés dans les hôpitaux et Ehpad depuis la canicule de juin",
     "Gouvernement avait promis la livraison de 30 000 climatiseurs mobiles fin juin",
     "La mesure ne fait pas l'unanimité auprès des professionnels du secteur",
@@ -2678,6 +2688,56 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-30T13:12:11.294837+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie s'est déclenché mercredi en fin d'après-midi dans l'est de l'Angleterre",
+    "Une centaine d'hectares ont été ravagés",
+    "120 pompiers ont été mobilisés",
+    "Le feu a été déclaré incident majeur par les autorités",
+    "L'incendie s'est propagé dans une zone littorale composée essentiellement de bruyère au sud de Dunwich"
+   ],
+   "qui": "Autorités britanniques, pompiers",
+   "ou": "Est de l'Angleterre, près de Dunwich",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "Origine exacte de l'incendie"
+   ],
+   "importance": 60,
+   "empreinte": "df93a7d5ad872690",
+   "score": 92,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-30T15:28:02.013526+00:00"
+  },
+  {
+   "faits": [
+    "L'équipe de France masculine de sabre a remporté le titre mondial aux championnats du monde d'escrime",
+    "La France s'est imposée face aux Sud-Coréens 45-31",
+    "C'est le seul titre remporté par l'équipe de France à ces mondiaux",
+    "Les mondiaux se tenaient à Hongkong"
+   ],
+   "qui": "Équipe de France de sabre",
+   "ou": "Hongkong, Chine",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 95,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "44a6f44eb7a28850",
+   "score": 88,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T15:28:02.013527+00:00"
   },
   {
    "faits": [
@@ -2745,50 +2805,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T11:28:06.686482+00:00"
-  },
-  {
-   "faits": [
-    "Quatre migrants sont morts après des tentatives de traversée de la Manche",
-    "Un homme est mort au large d'Hardelot (Pas-de-Calais)",
-    "Trois personnes ont péri près de Dunkerque (Nord)"
-   ],
-   "qui": null,
-   "ou": "Manche, Hardelot (Pas-de-Calais), Dunkerque (Nord)",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "d2c0d171a398b48c",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:45.718652+00:00"
-  },
-  {
-   "faits": [
-    "En Pologne, le parti ultraconservateur Droit et justice (PiS) connaît une scission majeure",
-    "L'ancien premier ministre Mateusz Morawiecki a formé son propre groupe parlementaire",
-    "40 des 186 députés du PiS ont rejoint le nouveau groupe"
-   ],
-   "qui": "Mateusz Morawiecki, Droit et Justice (PiS)",
-   "ou": "Pologne",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "8e71afe152cf9556",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:45.718654+00:00"
   },
   {
    "faits": [
@@ -2861,28 +2877,6 @@
   },
   {
    "faits": [
-    "Trois personnes ont été mises en examen après la mort d'une jeune femme de 25 ans dans un salon de beauté à Nice",
-    "La mort est survenue suite à un arrêt cardio-respiratoire après l'injection d'un anesthésiant",
-    "Une enquête est ouverte pour homicide involontaire"
-   ],
-   "qui": "Trois personnes (non nommées), victime de 25 ans",
-   "ou": "Nice",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "acf7cf0aae25fa68",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:45.718656+00:00"
-  },
-  {
-   "faits": [
     "Quatre migrants décédés dans deux tentatives de traversée de la Manche",
     "Une embarcation de type 'taxi boat' a fait naufrage au large d'Hardelot mercredi vers 23h30",
     "Un homme de 30 à 40 ans décédé dans ce naufrage"
@@ -2933,69 +2927,92 @@
   },
   {
    "faits": [
-    "Le Syndicat national du personnel navigant de l'aéronautique civile dénonce des problèmes de maintenance des Canadair depuis dix ans",
-    "Les Canadair manquent de disponibilité pendant les périodes de feux"
+    "Le tribunal de Paris a rejeté la demande de Gabriel Attal visant à interdire au RN d'utiliser le mot « renaissance »",
+    "Le parti Renaissance contestait une affiche de Marine Le Pen proclamant « Pour la France, la renaissance »",
+    "L'affiche a été dévoilée début juillet"
    ],
-   "qui": "Syndicat national du personnel navigant de l'aéronautique civile, Eric Durand (secrétaire général adjoint)",
-   "ou": "France",
-   "categorie": "faits_divers",
-   "sensible": false,
+   "qui": "Gabriel Attal, Renaissance, Marine Le Pen, RN, tribunal de Paris",
+   "ou": "Paris, France",
+   "categorie": "politique",
+   "sensible": true,
    "confiance": 88,
    "sources": [
-    "franceinfo"
+    "Le Monde"
    ],
    "non_confirme": [],
    "importance": 65,
-   "empreinte": "0e652ec864a60723",
+   "empreinte": "55aae3b0a4729a7a",
    "score": 84,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:45.718663+00:00"
+   "depuis": "2026-07-30T15:28:02.013535+00:00"
   },
   {
    "faits": [
-    "En Chine, une fillette de 6 ans nommée « Mei » est morte après une thérapie génique expérimentale en 2025",
-    "L'enfant était atteinte d'une maladie non létale avant le traitement",
-    "Cette mort a été révélée par une enquête de la revue « Science »"
+    "Un incendie de forêt dans la province espagnole de Zamora a détruit plus de 11 000 hectares en 24 heures",
+    "14 localités ont été évacuées, soit plus de 800 habitants",
+    "La zone est à la frontière avec le Portugal"
    ],
-   "qui": "Enfant « Mei » (6 ans)",
-   "ou": "Chine",
-   "categorie": "sante",
+   "qui": "Autorités espagnoles, habitants de Zamora",
+   "ou": "Province de Zamora, Espagne, à la frontière avec le Portugal",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "c2f8d32c73e349ba",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T15:28:02.012525+00:00"
+  },
+  {
+   "faits": [
+    "Plus de 1 500 personnes sont arrivées de Maroc à Ceuta ces derniers jours",
+    "Des dizaines d'hommes et d'adolescents sont arrivés à la nage depuis le Maroc vers les côtes de l'enclave espagnole",
+    "Les autorités régionales espagnoles parlent d'une urgence humanitaire absolue"
+   ],
+   "qui": "Migrants, autorités régionales espagnoles de Ceuta",
+   "ou": "Ceuta, enclave espagnole",
+   "categorie": "international",
    "sensible": true,
    "confiance": 85,
    "sources": [
     "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "3044859ea4ebe06a",
-   "score": 84,
+   "importance": 68,
+   "empreinte": "6a08b0184ba1e533",
+   "score": 83,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:45.718664+00:00"
+   "depuis": "2026-07-30T15:28:02.013536+00:00"
   },
   {
    "faits": [
-    "Le groupe de K-pop BTS ne participera pas aux Grammy Awards",
-    "La protestation est contre la nouvelle catégorie « pop asiatique »",
-    "BTS estime que la musique ne doit pas être classée selon la langue ou l'origine géographique",
-    "Son album « Arirang » était pressenti pour plusieurs récompenses majeures"
+    "L'armée libanaise s'est déployée dans le village de Zaoutar El-Gharbiyé au sud du Liban",
+    "Ce village a été désigné zone pilote selon un accord parrainé par Washington",
+    "Le village est situé au nord du fleuve Litani, adjacent à un secteur occupé par Israël",
+    "Selon les termes de l'accord, le Hezbollah doit être désarmé et ne plus jouer aucun rôle sécuritaire"
    ],
-   "qui": "BTS",
-   "ou": null,
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 88,
+   "qui": "Armée libanaise, Hezbollah, Israël, États-Unis",
+   "ou": "Zaoutar El-Gharbiyé, sud du Liban",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
    "sources": [
     "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 60,
-   "empreinte": "793eae7b3a0e788b",
-   "score": 83,
+   "importance": 72,
+   "empreinte": "fe7d9dc6d6f42b26",
+   "score": 82,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:45.718670+00:00"
+   "depuis": "2026-07-30T15:28:02.012680+00:00"
   },
   {
    "faits": [
@@ -3044,29 +3061,6 @@
   },
   {
    "faits": [
-    "L'ex-ministre de la défense ukrainien Mykhaïlo Fedorov affirme que son éviction est liée à la résistance suscitée par ses réformes",
-    "Son départ avait mené à d'importantes mobilisations dans la rue en Ukraine"
-   ],
-   "qui": "Mykhaïlo Fedorov (ex-ministre de la défense ukrainien)",
-   "ou": "Ukraine",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Les véritables raisons de son départ"
-   ],
-   "importance": 70,
-   "empreinte": "2027e051e6a06131",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:45.718674+00:00"
-  },
-  {
-   "faits": [
     "La Cour constitutionnelle de RDC a validé une loi référendaire",
     "Cette validation peut ouvrir la voie à un troisième mandat de Félix Tshisekedi",
     "La coalition d'opposition C64 critique vivement cette décision",
@@ -3087,51 +3081,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-30T11:28:06.686236+00:00"
-  },
-  {
-   "faits": [
-    "Le Cap-Vert est l'État d'Afrique le plus tolérant envers les LGBT+",
-    "L'archipel abrite de nombreux Africains qui fuient la répression liée à leur orientation sexuelle",
-    "L'absence de politique d'asile au Cap-Vert empêche ces migrants d'obtenir des titres de séjour"
-   ],
-   "qui": null,
-   "ou": "Cap-Vert, Afrique",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "cbfdaf99a71dc3b8",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:45.718677+00:00"
-  },
-  {
-   "faits": [
-    "L'association « La Courte Echelle » fondée par le juge Youssef Badr poursuit son combat pour plus de diversité dans la magistrature",
-    "L'association a été reconnue d'utilité publique en 2025",
-    "Son objectif est de soutenir les étudiants en droit d'origine modeste",
-    "Son fondateur est devenu une cible de pressions de l'extrême droite"
-   ],
-   "qui": "Youssef Badr, association La Courte Echelle",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "623ae0a23ac9f805",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:45.718679+00:00"
   },
   {
    "faits": [
@@ -3159,27 +3108,28 @@
   },
   {
    "faits": [
-    "Un arrêté d'expulsion a été pris à l'encontre de Xenia Fedorova, ancienne présidente du média RT France",
-    "Le RN déclare ne pas partager les positions de Xenia Fedorova",
-    "Xenia Fedorova conteste la décision d'expulsion"
+    "Vendanges 2026 débuteront précocement à partir du début d'août",
+    "La vigne a souffert du manque d'eau",
+    "Les rendements risquent de baisser",
+    "Le millésime a été épargné par les maladies et pourrait être excellent"
    ],
-   "qui": "Xenia Fedorova, RN (Thomas Ménagé)",
+   "qui": "Viticulteurs français",
    "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 80,
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 78,
    "sources": [
-    "franceinfo"
+    "Le Monde"
    ],
    "non_confirme": [
-    "Les critères exacts menant à l'expulsion"
+    "Impact exact sur les rendements"
    ],
    "importance": 65,
-   "empreinte": "c0a94a1b1ab7d03d",
+   "empreinte": "b9c1b04089f0773a",
    "score": 80,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:39.520539+00:00"
+   "depuis": "2026-07-30T15:28:02.013538+00:00"
   },
   {
    "faits": [
@@ -3202,29 +3152,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T13:12:11.294858+00:00"
-  },
-  {
-   "faits": [
-    "George Clooney et sa famille ont été évacués de leur propriété dans le Var",
-    "Un nouvel incendie a parcouru 130 hectares près de Brignoles",
-    "L'acteur s'est installé dans le Var en 2021",
-    "Le feu est maintenant maîtrisé"
-   ],
-   "qui": "George Clooney",
-   "ou": "Brignoles (Var)",
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "f132065bc9693f8b",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T09:22:45.718681+00:00"
   },
   {
    "faits": [
@@ -3273,6 +3200,55 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-30T11:28:06.686210+00:00"
+  },
+  {
+   "faits": [
+    "Des os de mammouth ont été découverts en Bulgarie dans le lit du Danube",
+    "Le niveau du Danube est exceptionnellement bas à cause de la sécheresse",
+    "Il s'agirait très probablement d'un mammouth laineux de la période glaciaire",
+    "Les ossements appartiendraient à un jeune spécimen"
+   ],
+   "qui": "Scientifiques bulgares",
+   "ou": "Bulgarie, lit du Danube",
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Identification définitive comme mammouth laineux"
+   ],
+   "importance": 55,
+   "empreinte": "3533fc6e5b4340f4",
+   "score": 79,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T15:28:02.013541+00:00"
+  },
+  {
+   "faits": [
+    "Les houthistes affirment ne pas être responsables d'une attaque de drone contre le port de Damiette en Égypte",
+    "Un responsable du ministère des affaires étrangères des rebelles yéménites déclare que les rumeurs sont sans fondement",
+    "Les houthistes affirment viser uniquement le régime saoudien pour son blocus et son agression"
+   ],
+   "qui": "Houthistes, Égypte, Arabie Saoudite",
+   "ou": "Port de Damiette, Égypte",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 70,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Responsabilité réelle de l'attaque de drone"
+   ],
+   "importance": 65,
+   "empreinte": "fc3117d51135d787",
+   "score": 76,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T15:28:02.012719+00:00"
   }
  ],
  "publies_48h": [
