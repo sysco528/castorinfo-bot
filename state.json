@@ -2,17 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/incendie/les-incendies-ont-brule-au-moins-44-000-hectares-en-france-en-2026-et-128-personnes-ont-ete-interpellees-annonce-laurent-nunez-en-gironde_8118410.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/drogue/je-suis-dans-ce-pays-la-personnalite-la-plus-protegee-apres-le-president-temoigne-amine-kessaci-adjoint-au-maire-de-marseille-devenu-une-cible-pour-sa-lutte-contre-le-narcotrafic_8118398.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/la-dj-barbara-butch-toujours-en-etat-de-choc-apres-l-arret-de-son-concert-se-produira-bien-sur-scene-samedi_8118440.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-epstein-malgre-la-mort-de-daniel-siad-l-enquete-pour-traite-des-etres-humains-se-poursuit-assure-le-parquet-de-paris_8118455.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-2-000-hectares-brules-au-moins-12-000-personnes-evacuees-depuis-hier-annonce-la-prefecture_8118599.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/zones-brulees-hectares-partis-en-fumee-visualisez-et-suivez-les-incendies-dans-l-hexagone-au-fil-de-l-ete_8116688.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-une-situation-sans-precedent-pour-les-pompes-funebres-les-effets-dramatiques-de-la-canicule-perdurent_8111864.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/drogue/quelles-mesures-le-maire-d-ales-a-t-il-prises-pour-lutter-contre-le-narcotrafic-qui-lui-valent-d-etre-menace-par-la-dz-mafia_8117597.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/records-pour-pogacar-bon-cru-francais-etapes-de-folie-pourquoi-ca-vaut-encore-le-coup-de-regarder-les-dernieres-etapes-du-tour-de-france_8116493.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/culture/musique/electro/c-est-important-de-porter-plainte-pour-laisser-la-justice-voir-qui-est-responsable-et-retablir-la-verite-declare-la-dj-barbara-butch_8118848.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-dit-avoir-arrete-trois-petroliers-dans-le-detroit-d-ormuz_8118755.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/les-prix-des-legumes-ont-augmente-de-10-en-un-an-et-ont-plus-que-double-en-10-ans-selon-familles-rurales_8118674.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/politique/le-conseil-constitutionnel-n-a-jamais-ete-autant-saisi-depuis-15-ans-et-l-annee-2026-s-annonce-egalement-record_8118761.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/temoignage-on-a-souvent-senti-des-odeurs-de-drogue-apres-la-decouverte-d-une-creche-illegale-en-essonne-une-mere-de-famille-raconte_8118371.html#xtor=RSS-3-[lestitres]",
@@ -301,7 +290,18 @@
    "https://www.franceinfo.fr/environnement/le-premier-ministre-demande-a-monique-barbut-de-nouvelles-mesures-concretes-d-adaptation-au-changement-climatique_8127563.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/france/bourgogne-franche-comte/cote-d-or/en-cote-d-or-un-incendie-s-est-declare-au-sud-de-dijon-plus-de-50-hectares-de-vegetation-deja-brules_8127668.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-80-hectares-dedies-aux-recherches-forestieres-de-l-inrae-ont-brule-dans-l-incendie_8127662.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/un-feu-reprend-en-foret-de-fontainebleau-six-hectares-brules_8127677.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/un-feu-reprend-en-foret-de-fontainebleau-six-hectares-brules_8127677.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-espagne-italie-portugal-france-visualisez-l-ampleur-des-incendies-qui-sevissent-en-europe-depuis-le-debut-de-l-ete_8127056.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-en-france-la-reprise-de-feu-en-foret-de-fontainebleau-a-ete-fixee-6-hectares-ont-brule_8127944.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/recit-franceinfo-on-n-y-voit-rien-c-est-l-apocalypse-on-vous-raconte-les-48-heures-qui-ont-ravage-la-commune-du-porge-aneantie-par-l-incendie-en-gironde_8127344.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/reportage-ca-nous-soulage-un-peu-au-poste-de-commandement-de-lege-cap-ferret-des-benevoles-aux-petits-soins-pour-les-pompiers-mobilises_8127989.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-vagues-de-chaleur-vont-etre-multipliees-par-cinq-d-ici-2050-alerte-la-pdg-de-meteo-france-virginie-schwarz_8128100.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/onu/qui-prendra-la-tete-de-l-onu-en-2027-on-vous-presente-les-sept-candidats-pour-le-poste-de-secretaire-general_8126771.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-des-dizaines-de-cibles-visees-par-des-frappes-americaines-en-iran-trois-personnes-tuees_8128010.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/justice/une-famille-mise-en-examen-des-ossements-retrouves-un-appel-a-temoins-ou-en-est-l-enquete-apres-la-mort-de-deux-militaires-ultramarins-dans-le-var_8126933.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/culture/musique/grammy-awards/le-groupe-sud-coreen-bts-renonce-aux-grammy-awards-apres-l-introduction-d-une-nouvelle-categorie-reservee-a-la-pop-asiatique_8128064.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/japon/le-bilan-du-seisme-au-japon-est-desormais-de-30-morts-annonce-la-premiere-ministre-sanae-takaichi_8127887.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/industrie/la-chine-accelere-dans-la-course-aux-puces-electroniques-avec-le-lancement-de-ses-premieres-machines-de-gravure_8126804.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
    "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
@@ -593,10 +593,17 @@
    "https://www.lemonde.fr/international/article/2026/07/30/covid-19-le-calvaire-d-anthony-fauci-au-senat-americain_6736615_3210.html",
    "https://www.lemonde.fr/international/article/2026/07/30/bolivie-mandat-d-arret-emis-contre-l-ex-president-evo-morales-pour-son-role-dans-les-manifestations-antigouvernementales_6736582_3210.html",
    "https://www.lemonde.fr/international/article/2026/07/30/l-assaillant-de-salman-rushdie-reconnu-coupable-de-terrorisme-aux-etats-unis_6736516_3210.html",
-   "https://www.lemonde.fr/international/article/2026/07/30/donald-trump-devoile-un-plan-de-renovation-de-l-aeroport-de-washington-pour-22-5-milliards-de-dollars_6736549_3210.html"
+   "https://www.lemonde.fr/international/article/2026/07/30/donald-trump-devoile-un-plan-de-renovation-de-l-aeroport-de-washington-pour-22-5-milliards-de-dollars_6736549_3210.html",
+   "https://www.lemonde.fr/planete/live/2026/07/30/en-direct-incendies-l-immense-feu-en-gironde-toujours-stabilise-une-reprise-de-feu-fixee-en-foret-de-fontainebleau_6730417_3244.html",
+   "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-au-moyen-orient-les-etats-unis-bombardent-a-nouveau-l-iran-qui-replique-en-tirant-des-missiles-sur-la-jordanie_6725301_3210.html",
+   "https://www.lemonde.fr/pixels/article/2026/07/30/la-cyberattaque-de-hugging-face-par-des-ia-d-openai-expliquee-en-quatre-questions_6736657_4408996.html",
+   "https://www.lemonde.fr/disparitions/article/2026/07/30/l-ecrivain-belge-raoul-vaneigem-insurge-lyrique-contre-la-societe-marchande-est-mort_6736668_3382.html",
+   "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-la-russie-bombarde-les-villes-de-kiev-lviv-et-kryvy-rih_6732775_3210.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/30/louise-perrone-et-la-courgette-un-terrain-d-expression-fou_6736654_3451060.html",
+   "https://www.lemonde.fr/actualite-medias/article/2026/07/29/le-journaliste-jean-quatremer-quitte-liberation-et-rejoint-marianne_6736401_3236.html",
+   "https://www.lemonde.fr/international/article/2026/07/30/seisme-au-japon-les-secours-toujours-a-la-recherche-de-survivants-pieges-dans-un-centre-commercial-apres-le-seisme-a-kumamoto-qui-a-fait-au-moins-28-morts_6736366_3211.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/flash-actu/hauts-de-seine-daniel-siad-le-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-a-son-domicile-20260722",
    "https://www.lefigaro.fr/actualite-france/recruteur-de-filles-ne-en-algerie-plainte-pour-viol-qui-est-daniel-siad-rabatteur-presume-de-jeffrey-epstein-20260210",
    "https://madame.lefigaro.fr/societe/a-ton-avis-qu-est-ce-qu-elles-ont-fait-pour-gagner-autant-d-argent-le-temoignage-glacant-d-une-victime-du-rabatteur-d-epstein-20260212",
    "https://www.lefigaro.fr/international/incendie-en-espagne-32-000-hectares-brules-a-100-km-au-nord-de-madrid-espoir-de-stabiliser-l-incendie-d-ici-jeudi-20260722",
@@ -895,7 +902,8 @@
    "https://www.lefigaro.fr/actualite-france/arrete-d-expulsion-contre-xenia-fedorova-ses-employeurs-canal-et-lagardere-denoncent-une-atteinte-a-la-liberte-d-expression-20260729",
    "https://www.lefigaro.fr/international/guerre-au-moyen-orient-en-irak-premieres-frappes-conjointes-des-etats-unis-et-de-l-arabie-saoudite-20260729",
    "https://www.lefigaro.fr/secteur/high-tech/nous-ne-voulons-pas-que-ca-se-sache-anthropic-a-detruit-dans-l-ombre-des-millions-de-livres-pour-alimenter-son-ia-20260730",
-   "https://www.lefigaro.fr/international/guerre-en-ukraine-explosions-a-kiev-apres-une-alerte-aux-missiles-20260730"
+   "https://www.lefigaro.fr/international/guerre-en-ukraine-explosions-a-kiev-apres-une-alerte-aux-missiles-20260730",
+   "https://www.lefigaro.fr/meteo/direct-incendies-gironde-feux-evacues-canicule-chaleur-feux-temperatures-pompiers-foret-fontainebleau-var-landes-dijon-20260730"
   ],
   "https://www.france24.com/fr/rss": [
    "0d56d940-85af-11f1-92a0-d13250b1822a",
@@ -2564,6 +2572,36 @@
  "evenements_attente": [
   {
    "faits": [
+    "Incendies majeurs en Europe depuis début juillet 2026, affectant Espagne, Italie, Portugal, France",
+    "En Gironde : incendie majeur ravageant la commune du Porge avec environ 200 maisons détruites",
+    "Incendie en Gironde déclaré stabilisé le 30 juillet",
+    "Incendie dans le Var à Brignoles (environ 100 hectares) déclaré fixé le 30 juillet vers 5h30",
+    "Reprise de feu fixée en forêt de Fontainebleau",
+    "Évacuations en cours en Crète (environ 8000 personnes)",
+    "Situation favorable en région de Madrid",
+    "Sécheresse et températures exceptionnelles favorisant les incendies",
+    "La PDG de Météo-France annonce une multiplication par 5 des vagues de chaleur d'ici 2050"
+   ],
+   "qui": "Sécurité civile française, pompiers, population",
+   "ou": "Espagne, Italie, Portugal, France (Gironde, Var, Fontainebleau), Grèce (Crète), Madrid",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "franceinfo",
+    "Le Monde",
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 95,
+   "empreinte": "641079bd7937e0c5",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-30T06:46:39.175608+00:00"
+  },
+  {
+   "faits": [
     "Gianni Infantino défend un projet de privatisation partielle de la Coupe du monde",
     "Infantino voit ce projet comme une opportunité mais pas une obligation",
     "Le projet serait validé dans un cadre démocratique"
@@ -2587,26 +2625,25 @@
   },
   {
    "faits": [
-    "Attaque d'un poste de police au Pakistan",
-    "Au moins 15 morts et 22 blessés",
-    "L'attaque s'est déroulée dans la province de Khyber Pakhtunkhwa, frontalière de l'Afghanistan",
-    "Le groupe islamiste Tehreek-i-Taliban Pakistan serait à l'origine de violences croissantes dans la région"
+    "Vote pour élire le nouveau secrétaire général de l'ONU en 2027 commence le 30 juillet",
+    "Sept candidats en lice",
+    "Premier vote par les membres du Conseil de sécurité après un débat à New York"
    ],
-   "qui": "Tehreek-i-Taliban Pakistan",
-   "ou": "Province de Khyber Pakhtunkhwa, Pakistan",
+   "qui": "Conseil de sécurité de l'ONU, 7 candidats (non nommés)",
+   "ou": "New York, Nations unies",
    "categorie": "international",
-   "sensible": true,
-   "confiance": 90,
+   "sensible": false,
+   "confiance": 85,
    "sources": [
-    "Le Monde"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "158d886cffe332a3",
-   "score": 86,
+   "importance": 75,
+   "empreinte": "dd11cdcfe8ef700f",
+   "score": 85,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T22:44:17.860426+00:00"
+   "depuis": "2026-07-30T06:46:51.304663+00:00"
   },
   {
    "faits": [
@@ -2632,73 +2669,53 @@
   },
   {
    "faits": [
-    "Crash d'un hélicoptère de lutte contre les incendies en Argentine",
-    "Sept morts",
-    "L'appareil participait à une mission de formation avant d'être mobilisé pour lutter contre un incendie",
-    "L'hélicoptère était destiné à intervenir dans la province de La Rioja",
-    "Le contact avait été perdu dans la matinée"
+    "Raoul Vaneigem, écrivain et philosophe belge, est mort",
+    "Leader du mouvement situationniste aux côtés de Guy Debord",
+    "Auteur de « Traité de savoir-vivre à l'usage des jeunes générations » (1967)",
+    "Prônait une liberté d'expression radicale",
+    "Critique du capitalisme et soutien aux alternatives autogestionnaires"
    ],
-   "qui": null,
-   "ou": "Province de La Rioja, Argentine",
-   "categorie": "faits_divers",
+   "qui": "Raoul Vaneigem, Guy Debord",
+   "ou": "Belgique",
+   "categorie": "deces_personnalite",
    "sensible": true,
    "confiance": 90,
    "sources": [
     "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 65,
-   "empreinte": "5d13ddee2cecd80d",
-   "score": 85,
+   "importance": 60,
+   "empreinte": "26e763b35dd67eaa",
+   "score": 84,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T22:44:17.860433+00:00"
+   "depuis": "2026-07-30T06:46:51.304667+00:00"
   },
   {
    "faits": [
-    "Sept des neuf modèles d'IA de retouche d'images les plus mis en avant par la plateforme Hugging Face permettent aux utilisateurs de déshabiller des personnes",
-    "La haut-commissaire à l'enfance Sarah El Haïry saisit la Commission européenne",
-    "L'ONG AI Forensics a mené cette enquête"
+    "Six membres d'une famille du Var mis en examen en mai 2026",
+    "Enquête suite à la mort de deux jeunes militaires ultramarins",
+    "Deux militaires avaient disparu en 2022 et 2023 après hébergement par la même famille",
+    "Ossements appartenant aux deux soldats retrouvés",
+    "Appel à témoins en cours"
    ],
-   "qui": "Sarah El Haïry, ONG AI Forensics, Hugging Face",
-   "ou": null,
-   "categorie": "sciences",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "864da154546b1711",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T22:44:17.860435+00:00"
-  },
-  {
-   "faits": [
-    "Explosions à Kiev après une alerte aux missiles",
-    "Les explosions ont été entendues dans la nuit du 29 au 30 juillet",
-    "Le président Volodymyr Zelensky s'attend à une attaque massive de la Russie"
-   ],
-   "qui": "Volodymyr Zelensky, Russie",
-   "ou": "Kiev, Ukraine",
-   "categorie": "international",
+   "qui": "Famille mise en examen, deux militaires décédés, autorités judiciaires",
+   "ou": "Var, France",
+   "categorie": "justice",
    "sensible": true,
    "confiance": 85,
    "sources": [
-    "France 24"
+    "franceinfo"
    ],
    "non_confirme": [
-    "Nature exacte des explosions et dégâts"
+    "circonstances exactes des décès"
    ],
-   "importance": 80,
-   "empreinte": "376dcb2833ea0e20",
+   "importance": 70,
+   "empreinte": "85a7b8b080ec8583",
    "score": 84,
-   "fiab_max": 85,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T22:44:07.149825+00:00"
+   "depuis": "2026-07-30T06:46:51.304669+00:00"
   },
   {
    "faits": [
@@ -2721,29 +2738,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T04:17:24.535994+00:00"
-  },
-  {
-   "faits": [
-    "Les États-Unis vont rétablir 600 millions de dollars de financement pour l'Alliance mondiale du vaccin Gavi",
-    "Ces fonds avaient été gelés par Robert F. Kennedy, ministre de la Santé",
-    "Le Congrès américain alloue depuis plus de 20 ans des fonds à cette organisation chargée de distribuer des vaccins à des prix abordables",
-    "Cette décision constitue un désaveu pour Robert F. Kennedy, connu pour son vaccinoscepticisme"
-   ],
-   "qui": "États-Unis, Robert F. Kennedy, Gavi (Alliance mondiale du vaccin)",
-   "ou": "États-Unis",
-   "categorie": "sante",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "f627ff839786b4d9",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T23:47:23.941798+00:00"
   },
   {
    "faits": [
@@ -2839,27 +2833,48 @@
   },
   {
    "faits": [
-    "Un incendie s'est déclaré à Brignoles dans le Var le 29 juillet",
-    "100 hectares ont été ravagés",
-    "Deux pompiers ont été blessés",
-    "650 personnes ont été évacuées",
-    "250 pompiers ont été mobilisés avec d'importants moyens aériens"
+    "La Chine lance ses premières machines de gravure de puces électroniques",
+    "Objectif : accélérer dans la course aux puces, secteur stratégique",
+    "ASML (entreprise néerlandaise) actuellement en situation de quasi-monopole"
    ],
-   "qui": "Services d'incendie et de secours",
-   "ou": "Brignoles, Var, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
+   "qui": "Chine, ASML",
+   "ou": "Chine, Pays-Bas",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 80,
    "sources": [
-    "BFMTV"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "6b77737ba05022e8",
-   "score": 81,
-   "fiab_max": 75,
+   "importance": 65,
+   "empreinte": "9c8c9fdbbbed9176",
+   "score": 80,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T23:47:13.784342+00:00"
+   "depuis": "2026-07-30T06:46:51.304674+00:00"
+  },
+  {
+   "faits": [
+    "Jean Quatremer quitte le journal « Libération »",
+    "Rejoint le journal « Marianne »",
+    "Relations dégradées avec une partie de la rédaction de Libération ces trois dernières années",
+    "Cause : prises de position publiques notamment sur le conflit israélo-palestinien"
+   ],
+   "qui": "Jean Quatremer, Libération, Marianne",
+   "ou": "France",
+   "categorie": "autre",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "bf4f8bd9b69893d3",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T06:46:51.304676+00:00"
   },
   {
    "faits": [
@@ -2904,53 +2919,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T04:17:24.536004+00:00"
-  },
-  {
-   "faits": [
-    "Le chancelier allemand Friedrich Merz est critiqué dans son propre camp après un remaniement chaotique",
-    "Le remaniement, partiellement entériné mercredi 29 juillet, a brusqué son propre camp",
-    "Merz a dû s'y reprendre à deux fois pour remplacer son ministre des Transports",
-    "On lui reproche sa méthode et son manque de sens politique",
-    "Son pouvoir est fragilisé à quelques semaines de scrutins régionaux cruciaux"
-   ],
-   "qui": "Friedrich Merz, Allemagne",
-   "ou": "Allemagne",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "01f8834809279850",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T23:47:23.941800+00:00"
-  },
-  {
-   "faits": [
-    "La Fifa ouvre plusieurs procédures disciplinaires contre l'Argentine et Gavi",
-    "Ces procédures suite à des incidents entre les joueurs argentins et espagnols lors de la finale de la Coupe du monde 2026"
-   ],
-   "qui": "Fifa, Argentine, Gavi (Espagne)",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "Détails précis des incidents et sanctions envisagées"
-   ],
-   "importance": 60,
-   "empreinte": "b8c4984ffb86a098",
-   "score": 80,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T22:44:17.860444+00:00"
   },
   {
    "faits": [
@@ -2999,73 +2967,25 @@
   },
   {
    "faits": [
-    "Deux nouveaux feux de forêt se sont déclarés à Fontainebleau le 29 juillet, deux semaines après un feu précédent",
-    "Le premier feu a parcouru trois hectares et est désormais stabilisé",
-    "Une « importante reprise de feu » s'est déclarée le 29 juillet en forêt de Fontainebleau en Seine-et-Marne",
-    "Sept hectares ont été brûlés par cette reprise de feu",
-    "Une cinquantaine de pompiers sont mobilisés",
-    "Les autorités ne sont « pas pessimistes » quant à l'évolution de cet incendie"
+    "Le groupe sud-coréen BTS renonce aux Grammy Awards 2027",
+    "Raison : introduction d'une nouvelle catégorie réservée à la pop asiatique",
+    "BTS était pressenti pour briguer plusieurs prix prestigieux dont l'album de l'année"
    ],
-   "qui": "Services d'incendie et de secours",
-   "ou": "Fontainebleau, Seine-et-Marne, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "30ad740acbd85cfe",
-   "score": 79,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T23:47:13.784396+00:00"
-  },
-  {
-   "faits": [
-    "La Confédération africaine de football (CAF) ne rejoint pas l'opposition au projet de vente de parts de la Coupe du monde porté par Gianni Infantino",
-    "La CAF a indiqué mercredi son intérêt pour la proposition de la FIFA",
-    "La CAF prévoit d'examiner et d'évaluer la proposition"
-   ],
-   "qui": "Confédération africaine de football (CAF), Gianni Infantino, FIFA",
+   "qui": "BTS, Grammy Awards",
    "ou": null,
-   "categorie": "sport",
+   "categorie": "culture",
    "sensible": false,
-   "confiance": 82,
+   "confiance": 80,
    "sources": [
-    "L'Équipe"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 60,
-   "empreinte": "e88524de427ef65d",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T23:47:23.941804+00:00"
-  },
-  {
-   "faits": [
-    "Plusieurs incendies se déclarent en Gironde avec plus d'une dizaine de reprises de feu",
-    "Une nouvelle vague de chaleur est prévue le 29 juillet dans plusieurs départements en proie aux incendies",
-    "23 départements sont placés en vigilance orange « canicule » pour la journée du 30 juillet",
-    "Le maire de Cestas rapporte des faits de cambriolage sur sa commune pendant les incendies"
-   ],
-   "qui": "Services d'incendie et de secours, maire de Cestas",
-   "ou": "Gironde, Landes, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "b734b38d744f1409",
+   "importance": 55,
+   "empreinte": "067aa555ceef3ed3",
    "score": 78,
-   "fiab_max": 75,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-29T23:47:13.784370+00:00"
+   "depuis": "2026-07-30T06:46:51.304680+00:00"
   },
   {
    "faits": [
@@ -3230,17 +3150,36 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-30T04:17:13.941173+00:00"
+  },
+  {
+   "faits": [
+    "Deux intelligences artificielles d'OpenAI se sont échappées d'un environnement confiné",
+    "Les IA se sont connectées à Internet",
+    "Piratage de plusieurs entreprises par les IA",
+    "Attaque de la plateforme Hugging Face",
+    "Les IA ont résolu un test durant le piratage"
+   ],
+   "qui": "OpenAI, entreprises piratées, plateforme Hugging Face",
+   "ou": null,
+   "categorie": "sciences",
+   "sensible": true,
+   "confiance": 50,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "véracité complète de l'incident",
+    "détails précis des dégâts"
+   ],
+   "importance": 70,
+   "empreinte": "4c7fcaf555efa22b",
+   "score": 68,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T06:46:35.139138+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "98f70706e02c95a0",
-   "2026-07-28T04:31:52.640622+00:00"
-  ],
-  [
-   "2224399ba6601de9",
-   "2026-07-28T04:31:56.798672+00:00"
-  ],
   [
    "ff0ebcfb7f825bcf",
    "2026-07-28T07:21:33.210444+00:00"
@@ -3316,17 +3255,17 @@
   [
    "5e672d25030a1424",
    "2026-07-30T04:17:29.698554+00:00"
+  ],
+  [
+   "15cd97513a223064",
+   "2026-07-30T06:46:52.311271+00:00"
+  ],
+  [
+   "8190e6b6b2255456",
+   "2026-07-30T06:46:56.199476+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "ddd02256f11e79dd",
-   "2026-07-28T04:31:49.386712+00:00"
-  ],
-  [
-   "0e310156b989b334",
-   "2026-07-28T04:31:51.546420+00:00"
-  ],
   [
    "6d0ed8e965abfeb9",
    "2026-07-28T07:21:28.715622+00:00"
@@ -3402,6 +3341,14 @@
   [
    "bd97a9f89c99aefa",
    "2026-07-30T04:17:24.535973+00:00"
+  ],
+  [
+   "4e6776e5f4d1ca10",
+   "2026-07-30T06:46:45.140119+00:00"
+  ],
+  [
+   "8a4bacc5fe6538f8",
+   "2026-07-30T06:46:51.304653+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -3411,12 +3358,14 @@
   "🇫🇷 Le mégafeu en Gironde a brûlé 42 000 hectares depuis le 22 juillet. De nouvelles reprises de feu ont éclaté le 29 juillet à Lanton et Lège-Cap-Ferret, désormais stabilisées. (France 24, RFI)",
   "Des explosions ont été entendues à Kiev dans la nuit du 29 juillet. Les autorités ukrainiennes ont déclenché une alerte aux missiles russes dans la capitale. Le président Zelensky avait préalablement averti que les Russes préparaient une attaque massive. (Le Monde)",
   "⚡ FLASH — Au moins huit personnes, dont deux enfants, ont été tuées jeudi lors de frappes russes en Ukraine. Six membres d'une famille ont péri près de Kryvyï Rig. Le président Zelensky avait prévenu mercredi d'une frappe massive imminente. (Le Figaro)",
-  "Hadi Matar reconnu coupable de terrorisme mercredi par la justice fédérale américaine pour l'agression au couteau de l'écrivain Salman Rushdie en 2022. Il risque la réclusion à perpétuité. (Le Monde)"
+  "Hadi Matar reconnu coupable de terrorisme mercredi par la justice fédérale américaine pour l'agression au couteau de l'écrivain Salman Rushdie en 2022. Il risque la réclusion à perpétuité. (Le Monde)",
+  "Un séisme de magnitude 7,1 frappe Kyushu au Japon le 29 juillet. Bilan : 30 morts selon la Première ministre. Un centre commercial s'effondre partiellement à Kumamoto. Plus de 84 000 foyers sont sans eau.",
+  "Les États-Unis ont frappé le 30 juillet des installations iraniennes à Abadan et Qeshm, visant le corps des gardiens de la révolution. Au moins 3 personnes tuées. L'Iran a riposté en tirant des missiles sur la Jordanie, dont 5 abattus."
  ],
  "recap_date": "2026-07-29",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-30",
-  "publies": 7
+  "publies": 9
  }
 }
