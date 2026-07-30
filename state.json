@@ -2,9 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/economie/medias/google-viole-ses-engagements-avec-ses-nouveaux-resumes-par-ia-denoncent-les-editeurs-de-la-presse-magazine_8119649.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/j-ai-15-hectares-qui-partent-en-fumee-a-lege-cap-ferret-l-angoisse-des-habitants-devant-la-progression-des-flammes_8119802.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/incendie-en-gironde-des-milliers-de-touristes-evacues_8119826.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sante/drogue-addictions/cocaine/val-de-marne-un-laboratoire-de-cocaine-demantele-dans-un-airbnb_8119781.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement-sexuel/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-suspectes-de-viols-et-de-complicite-d-exploitation-sexuelle-vers-le-royaume-uni_8119814.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/un-mineur-etranger-mis-en-examen-et-ecroue-pour-le-viol-d-une-octogenaire-a-rennes_8119790.html#xtor=RSS-3-[lestitres]",
@@ -301,10 +298,12 @@
    "https://www.franceinfo.fr/sports/foot/l-uefa-menace-de-boycotter-les-coupes-du-monde-si-le-projet-d-investisseurs-prives-presente-par-la-fifa-aboutit_8128862.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/harcelement/info-franceinfo-l-eurodeputee-lfi-rima-hassan-a-porte-plainte-pour-cyberharcelement-contre-le-journaliste-jean-quatremer_8128661.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/a-cause-du-phenomene-de-feu-zombie-faudra-t-il-des-mois-pour-eteindre-les-incendies-en-gironde_8129114.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/espagne/neuf-migrants-sont-morts-en-tentant-de-rejoindre-l-enclave-de-ceuta-annonce-le-gouvernement-espagnol_8129108.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/espagne/neuf-migrants-sont-morts-en-tentant-de-rejoindre-l-enclave-de-ceuta-annonce-le-gouvernement-espagnol_8129108.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-cote-d-or-le-feu-de-foret-a-proximite-de-dijon-est-a-present-fixe-annonce-la-prefecture_8129162.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/apres-les-incendies-144-000-habitants-des-communes-evacuees-sont-de-retour-chez-eux-en-gironde_8129063.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/italie/l-italie-veut-suspendre-l-espagne-de-l-espace-schengen-apres-que-des-centaines-de-migrants-sont-arrives-a-ceuta-madrid-denonce-la-demagogie-de-rome_8129171.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/politique/article/2026/07/16/la-mise-en-cause-de-deux-inspecteurs-du-travail-vire-a-l-affaire-politique-pour-le-ministere_6723740_823448.html",
    "https://www.lemonde.fr/international/article/2026/07/16/au-canada-toronto-suffoque-sous-la-fumee-des-feux-de-foret-et-enregistre-l-une-des-pires-qualites-de-l-air-au-monde_6723623_3210.html",
    "https://www.lemonde.fr/international/article/2026/07/16/en-allemagne-friedrich-merz-reste-prudemment-optimiste-sur-l-avenir-de-sa-coalition_6723747_3210.html",
    "https://www.lemonde.fr/economie/article/2026/07/16/droits-de-douane-le-bresil-devient-la-premiere-cible-des-etats-unis-qui-ont-annonce-imposer-de-25-certains-produits_6723745_3234.html",
@@ -603,10 +602,10 @@
    "https://www.lemonde.fr/afrique/article/2026/07/30/au-burkina-faso-le-capitaine-ibrahim-traore-debranche-le-numero-deux-de-la-junte_6737051_3212.html",
    "https://www.lemonde.fr/international/article/2026/07/30/guerre-en-iran-la-rhetorique-belliciste-de-donald-trump-reflet-de-l-enlisement-americain_6737068_3210.html",
    "https://www.lemonde.fr/climat/article/2026/07/30/canicule-21-departements-places-en-vigilance-orange-vendredi-jusqu-a-40-c-attendus-dans-le-sud-est-selon-meteo-france_6737046_1652612.html",
-   "https://www.lemonde.fr/economie/article/2026/07/30/greve-surprise-a-la-sncf-le-trafic-perturbe-en-normandie-de-vendredi-a-dimanche-week-end-de-chasse-croise_6737066_3234.html"
+   "https://www.lemonde.fr/economie/article/2026/07/30/greve-surprise-a-la-sncf-le-trafic-perturbe-en-normandie-de-vendredi-a-dimanche-week-end-de-chasse-croise_6737066_3234.html",
+   "https://www.lemonde.fr/economie/article/2026/07/30/transport-aerien-les-compagnies-resistent-a-la-crise-du-kerosene-en-augmentant-leurs-prix_6737071_3234.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/colere-etudiante-en-inde-modi-promet-de-punir-severement-les-responsables-des-fraudes-aux-examens-20260723",
    "https://www.lefigaro.fr/meteo/gironde-une-spectaculaire-tornade-de-feu-filmee-au-coeur-de-l-incendie-pres-de-2000-hectares-deja-ravages-20260723",
    "https://www.lefigaro.fr/sciences/en-2030-ou-pourra-t-on-encore-echapper-aux-canicules-notre-classement-des-villes-les-plus-respirables-20260723",
    "https://www.lefigaro.fr/societes/5-4-milliards-de-dollars-en-trois-mois-totalenergies-devoile-un-resultat-net-en-forte-hausse-au-second-trimestre-20260723",
@@ -905,10 +904,10 @@
    "https://www.lefigaro.fr/meteo/meteo-avec-l-arrivee-des-orages-les-chaleurs-vont-elles-vraiment-reculer-durablement-20260730",
    "https://www.lefigaro.fr/meteo/meteo-du-vendredi-31-juillet-du-massif-central-a-l-alsace-des-orages-violents-avec-de-la-grele-et-des-fortes-rafales-20260730",
    "https://www.lefigaro.fr/actualite-france/elle-m-a-accusee-de-la-voler-et-de-trafiquer-les-prix-quand-les-cagnottes-tricount-tournent-au-reglement-de-compte-20260730",
-   "https://www.lefigaro.fr/flash-actu/afflux-massif-de-migrants-a-ceuta-l-italie-veut-suspendre-l-espagne-de-l-espace-schengen-20260730"
+   "https://www.lefigaro.fr/flash-actu/afflux-massif-de-migrants-a-ceuta-l-italie-veut-suspendre-l-espagne-de-l-espace-schengen-20260730",
+   "https://www.lefigaro.fr/meteo/nouvelle-canicule-en-france-quand-les-temperatures-vont-elles-repartir-a-la-baisse-20260728"
   ],
   "https://www.france24.com/fr/rss": [
-   "7daab5ec-85e4-11f1-a7ce-791ab238e0c3",
    "15c884cc-85df-11f1-af5a-57a314c7456b",
    "e10d7a52-85df-11f1-8379-891d8584ee45",
    "b140b506-85f7-11f1-8be2-c754b1f00236",
@@ -1207,14 +1206,10 @@
    "bd7b1a70-8c2b-11f1-a32d-8f026c92d72b",
    "f97aecb2-8c44-11f1-aef8-79aa00a7e994",
    "9db0415a-8c41-11f1-9215-11a9e141bef9",
-   "ea6416da-8c27-11f1-902d-c1427377b24d"
+   "ea6416da-8c27-11f1-902d-c1427377b24d",
+   "7abb34ce-8c51-11f1-90ed-a1d83ec6435a"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "9e350dd8-81ea-11f1-9740-f1e11bcbb1e6",
-   "d8b1b36a-81f6-11f1-bb3e-23660ad68ae6",
-   "76724830-81ed-11f1-95ba-357bd9b41020",
-   "1d3f73a2-81e1-11f1-84ac-8998530e5bf2",
-   "a4d95538-81d9-11f1-8a34-71ec415ad0c6",
    "85ad34dc-8205-11f1-bca2-0f8ea9612052",
    "e7e5875a-8212-11f1-96ba-e9fa1d490952",
    "b64a9dc6-823e-11f1-a8e3-0b87ea9fc21b",
@@ -1509,18 +1504,14 @@
    "54166df2-8c2e-11f1-8089-178889524b5b",
    "a1beb40c-8c0a-11f1-9997-3b745c4f40ea",
    "b00fa1de-8c2c-11f1-9c92-ed7ce3793008",
-   "07d03fca-8c3f-11f1-836c-5329bd929576"
+   "07d03fca-8c3f-11f1-836c-5329bd929576",
+   "c839f358-8c55-11f1-bc3f-f743f3c10b71",
+   "3f1db78a-8c55-11f1-bb08-7d0e25deaa2a",
+   "51c8ac24-8c40-11f1-a7c5-89b4befc13fc",
+   "115cac94-8bf0-11f1-982d-377d54a72fad",
+   "b3a6eff8-8c42-11f1-b578-5df8005fc696"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-22/face-au-surtourisme-pourquoi-la-france-semble-plus-tolerante-que-ses-voisins-21a2b001-94c7-4179-ab0e-898d831f1c70?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/canoe-kayak/mondiaux-de-canoe-kayak-lequipe-de-france-en-argent-en-canoe-slalom-7a7c86d2-860e-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/tour-de-france/il-a-vomi-et-avait-tres-froid-coup-dur-pour-pogacar-et-uae-emirates-xrg-adam-yates-diminue-avant-les-alpes-1c81ae86-8609-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/etats-unis/la-californie-va-utiliser-des-drones-alimentes-par-lia-pour-lutter-contre-les-incendies-de-foret-1284fea2-860d-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/israel/douze-figures-du-football-palestinien-tuees-a-gaza-etaient-membres-de-groupes-armes-affirme-israel-009fef4e-860d-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/video-victime-dun-malaise-au-world-matchplay-ce-joueur-de-flechettes-contraint-a-labandon-343f2fe8-860a-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/disparition/pyrenees-atlantiques-la-voiture-dun-homme-disparu-en-2018-retrouvee-dans-une-riviere-par-des-plongeurs-americains-06144022-85d3-11f1-9e1f-163bb4ccc6b3?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/ce-netait-pas-un-coup-de-poing-les-explications-dun-argentin-apres-la-bagarre-en-finale-de-la-coupe-du-monde-a7144b2a-8605-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/mexique/un-nouveau-journaliste-assassine-au-mexique-le-7e-en-2026-9cc96ea4-8608-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/coupe-du-monde/argentina-out-une-petition-quasi-record-lancee-pour-exclure-definitivement-largentine-de-la-coupe-du-monde-c7d27cde-85ff-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/equipe-algerie/nous-avons-traverse-des-moments-inoubliables-aissa-mandi-annonce-sa-retraite-internationale-avec-lalgerie-e7fa4d9c-860f-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/equipe-argentine/une-grave-desinformation-le-dementi-de-la-federation-argentine-apres-louverture-dune-enquete-par-le-fbi-b9c49d1e-8615-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1811,7 +1802,16 @@
    "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-explosions-massives-a-kiev-cette-nuit-au-moins-un-mort-le-point-sur-la-nuit-43ceafb6-8b95-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-face-aux-incendies-la-solidarite-sorganise-ec0412e4-8b8f-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/japon/seisme-dans-le-sud-du-japon-le-bilan-monte-a-17-morts-aa449d2a-8bb1-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/justice/lassaillant-de-salman-rushdie-reconnu-coupable-de-terrorisme-7db57fe6-8bba-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/societe/justice/lassaillant-de-salman-rushdie-reconnu-coupable-de-terrorisme-7db57fe6-8bba-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/maroc/ceuta-un-nouvel-afflux-de-migrants-redoute-depuis-le-maroc-2404e00c-8c57-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/transferts/mercato-real-madrid-le-club-madrilene-enregistre-une-nouvelle-recrue-avec-la-pepite-espagnole-carlos-espi-3923b838-8c5b-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/lille-osc/mercato-ligue-1-libre-depuis-sa-fin-de-contrat-avec-le-losc-nabil-bentaleb-prolonge-finalement-a-lille-50001a3e-8c5a-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/coupe-du-monde/suspensions-amendes-les-lourdes-sanctions-qui-attendent-largentine-et-ses-joueurs-apres-la-finale-du-mondial-d9b1240c-8c56-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/italie/serie-a-porte-disparu-depuis-deux-semaines-le-joueur-de-lecce-lameck-banda-a-refait-surface-8672e47a-8c50-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/tour-de-france/tour-de-france-un-projet-extremement-convaincant-lallemagne-candidate-pour-accueillir-le-grand-depart-en-2029-98d962c0-8c54-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/italie/ceuta-rome-menace-dexclure-lespagne-de-schengen-4b021be2-8c44-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/zinedine-zidane/un-effet-zinedine-zidane-avec-les-billets-qui-sarrachent-pour-les-matches-de-ligue-des-nations-des-bleus-b634d04a-8c4d-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/boxe/boxe-nouvelle-levee-dinterdiction-pour-les-combattants-russes-autorises-a-combattre-sous-leurs-couleurs-nationales-669c4790-8c50-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2603,39 +2603,6 @@
   },
   {
    "faits": [
-    "Des incendies ravagent la Gironde depuis plusieurs jours",
-    "Des milliers de litres d'eau sont acheminés quotidiennement sur le terrain via des lacs, piscines, réserves forestières et bornes incendie",
-    "Une mobilisation exceptionnelle de volontaires ravitaille les camions de pompiers en eau",
-    "70% des départs de feux sont criminels selon le ministre de l'Intérieur Laurent Nuñez",
-    "275 interpellations ont eu lieu en France cet été pour incendies criminels",
-    "Une cinquantaine d'entreprises ont été touchées dans la zone artisanale de Biscarrosse",
-    "Une aide d'urgence de jusqu'à 8 000 euros a été annoncée pour les travailleurs indépendants",
-    "Un fonds de soutien de l'Association des maires de France sera fléché vers la protection civile, essentiellement pour les communes de Gironde et du Var",
-    "L'autoroute A63 a été progressivement rouverte à la circulation",
-    "Un réacteur de la centrale nucléaire de Golfech a été arrêté mercredi soir pour la troisième fois de l'été",
-    "Des obus de la Seconde Guerre mondiale ont explosé sur le parcours de l'incendie, compliquant le travail des pompiers",
-    "Les Canadair utilisés sont pour la plupart fabriqués il y a une trentaine d'années avec des pièces difficilement remplaçables"
-   ],
-   "qui": "Habitants de Gironde et Landes, pompiers, volontaires, ministre de l'Intérieur Laurent Nuñez, maire de Bordeaux Thomas Cazenave, Association des maires de France",
-   "ou": "Gironde, Landes (Biscarrosse), Var, Tarn-et-Garonne (centrale de Golfech)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "franceinfo",
-    "Le Monde",
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 95,
-   "empreinte": "a806fa40f9c8e9c1",
-   "score": 100,
-   "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-30T15:28:02.013517+00:00"
-  },
-  {
-   "faits": [
     "Neuf migrants sont morts lors d'une arrivée massive à Ceuta",
     "Les corps ont été repêchés",
     "Plus de 1 500 migrants sont arrivés par la mer à Ceuta cette semaine",
@@ -2747,6 +2714,31 @@
   },
   {
    "faits": [
+    "L'Italie veut suspendre l'Espagne de l'espace Schengen",
+    "Décision suite à l'arrivée de centaines de migrants à Ceuta",
+    "Giorgia Meloni menace de suspendre l'Espagne de l'espace Schengen",
+    "Le ministre espagnol des Affaires étrangères José Luis Albares a convoqué l'ambassadeur italien en protestation",
+    "L'Espagne dénonce la 'démagogie' de Rome"
+   ],
+   "qui": "Italie (Giorgia Meloni), Espagne (José Luis Albares)",
+   "ou": "Ceuta, Italie, Espagne",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo",
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "d304d9e03bbed438",
+   "score": 94,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-30T21:37:11.550038+00:00"
+  },
+  {
+   "faits": [
     "Des centaines de migrants ont afflué à Ceuta le 30 juillet",
     "Des milliers de migrants sont entrés dans l'enclave espagnole de Ceuta en traversant à la nage et en escaladant les clôtures",
     "Les centres d'accueil sont débordés et saturés",
@@ -2774,56 +2766,6 @@
   },
   {
    "faits": [
-    "Un incendie s'est déclenché mercredi en fin d'après-midi dans l'est de l'Angleterre",
-    "Une centaine d'hectares ont été ravagés",
-    "120 pompiers ont été mobilisés",
-    "Le feu a été déclaré incident majeur par les autorités",
-    "L'incendie s'est propagé dans une zone littorale composée essentiellement de bruyère au sud de Dunwich"
-   ],
-   "qui": "Autorités britanniques, pompiers",
-   "ou": "Est de l'Angleterre, près de Dunwich",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "Origine exacte de l'incendie"
-   ],
-   "importance": 60,
-   "empreinte": "df93a7d5ad872690",
-   "score": 92,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-30T15:28:02.013526+00:00"
-  },
-  {
-   "faits": [
-    "L'équipe de France masculine de sabre a remporté le titre mondial aux championnats du monde d'escrime",
-    "La France s'est imposée face aux Sud-Coréens 45-31",
-    "C'est le seul titre remporté par l'équipe de France à ces mondiaux",
-    "Les mondiaux se tenaient à Hongkong"
-   ],
-   "qui": "Équipe de France de sabre",
-   "ou": "Hongkong, Chine",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 95,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "44a6f44eb7a28850",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T15:28:02.013527+00:00"
-  },
-  {
-   "faits": [
     "Un missile présumé russe est tombé en Pologne",
     "Le chancelier allemand Friedrich Merz dénonce 'l'irresponsabilité de la Russie et sa volonté d'escalade'",
     "Le commandement des forces de l'OTAN en Europe affirme être en 'contact étroit' avec les autorités polonaises",
@@ -2847,6 +2789,52 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T17:07:22.103841+00:00"
+  },
+  {
+   "faits": [
+    "144 000 habitants de neuf communes en Gironde autorisés à rentrer chez eux",
+    "Ces habitants avaient été évacués en raison des incendies",
+    "La préfète de Gironde qualifie le 30 juillet de 'première journée optimiste'",
+    "Le combat contre les incendies n'est pas terminé"
+   ],
+   "qui": "Préfète de Gironde, 144 000 habitants",
+   "ou": "Gironde, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "761e38d667694687",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T21:37:11.550043+00:00"
+  },
+  {
+   "faits": [
+    "Feu de forêt en Côte d'Or à proximité de Dijon, démarré mercredi après-midi",
+    "Le feu a parcouru 150 hectares, dont 90 ont été brûlés",
+    "Rafales de vent pouvant aller jusqu'à 70 km/h",
+    "Le feu est à présent fixé selon la préfecture"
+   ],
+   "qui": "Préfecture de Côte d'Or",
+   "ou": "Côte d'Or, proximité de Dijon, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "6e3b221641ed6c90",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T21:37:11.550044+00:00"
   },
   {
    "faits": [
@@ -2966,6 +2954,51 @@
   },
   {
    "faits": [
+    "Incendies en France et Espagne avec accalmie espérée",
+    "France et Espagne ont connu certains des incendies les plus violents de leur histoire récente",
+    "Centaines de milliers de personnes ont été évacuées",
+    "Nouveaux feux de forêt gagnent l'Europe, notamment en Grèce, Royaume-Uni, Portugal et Turquie"
+   ],
+   "qui": null,
+   "ou": "France, Espagne, Grèce, Royaume-Uni, Portugal, Turquie, Europe",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "6d1240b8d6b0bb39",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T21:37:11.548491+00:00"
+  },
+  {
+   "faits": [
+    "Air France KLM a compensé 85 % de la hausse du coût des carburants en augmentant ses prix",
+    "Les compagnies aériennes résistent à la crise du kérosène en augmentant leurs prix",
+    "Augmentation particulièrement marquée dans les catégories de sièges les plus chères"
+   ],
+   "qui": "Air France KLM, compagnies aériennes",
+   "ou": null,
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "b4c2b76127bcaac1",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T21:37:11.550054+00:00"
+  },
+  {
+   "faits": [
     "L'eurodéputée LFI Rima Hassan a porté plainte pour cyberharcèlement",
     "La plainte vise le journaliste Jean Quatremer",
     "La plainte a été déposée au parquet de Paris mercredi",
@@ -2986,50 +3019,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T17:07:22.103853+00:00"
-  },
-  {
-   "faits": [
-    "Le tribunal de Paris a rejeté la demande de Gabriel Attal visant à interdire au RN d'utiliser le mot « renaissance »",
-    "Le parti Renaissance contestait une affiche de Marine Le Pen proclamant « Pour la France, la renaissance »",
-    "L'affiche a été dévoilée début juillet"
-   ],
-   "qui": "Gabriel Attal, Renaissance, Marine Le Pen, RN, tribunal de Paris",
-   "ou": "Paris, France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "55aae3b0a4729a7a",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T15:28:02.013535+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie de forêt dans la province espagnole de Zamora a détruit plus de 11 000 hectares en 24 heures",
-    "14 localités ont été évacuées, soit plus de 800 habitants",
-    "La zone est à la frontière avec le Portugal"
-   ],
-   "qui": "Autorités espagnoles, habitants de Zamora",
-   "ou": "Province de Zamora, Espagne, à la frontière avec le Portugal",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "c2f8d32c73e349ba",
-   "score": 83,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T15:28:02.012525+00:00"
   },
   {
    "faits": [
@@ -3078,25 +3067,49 @@
   },
   {
    "faits": [
-    "Plus de 1 500 personnes sont arrivées de Maroc à Ceuta ces derniers jours",
-    "Des dizaines d'hommes et d'adolescents sont arrivés à la nage depuis le Maroc vers les côtes de l'enclave espagnole",
-    "Les autorités régionales espagnoles parlent d'une urgence humanitaire absolue"
+    "Incendie de forêt en Espagne a ravagé plus de 25 000 hectares",
+    "Les deux dernières communes de la région de Madrid évacuées ont été autorisées à regagner leur domicile mercredi 29 juillet 2026",
+    "Les autorités estiment le feu désormais 'stabilisé'",
+    "Alerte face au risque de reprise lié à la vague de chaleur",
+    "Certains habitants ont refusé d'évacuer pour protéger leurs maisons, notamment à San Martín de Valdeiglesias"
    ],
-   "qui": "Migrants, autorités régionales espagnoles de Ceuta",
-   "ou": "Ceuta, enclave espagnole",
-   "categorie": "international",
+   "qui": "Habitants, autorités espagnoles",
+   "ou": "Espagne, région de Madrid, San Martín de Valdeiglesias",
+   "categorie": "meteo_catastrophe",
    "sensible": true,
    "confiance": 85,
    "sources": [
-    "Le Monde"
+    "RFI"
    ],
    "non_confirme": [],
-   "importance": 68,
-   "empreinte": "6a08b0184ba1e533",
-   "score": 83,
-   "fiab_max": 90,
+   "importance": 70,
+   "empreinte": "bb5cbed365ece222",
+   "score": 82,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-30T15:28:02.013536+00:00"
+   "depuis": "2026-07-30T21:37:11.548544+00:00"
+  },
+  {
+   "faits": [
+    "Pavel Durov, patron de Telegram, a été classé sur la liste russe des personnalités désignées comme 'terroristes' ou 'extrémistes'",
+    "La Russie a déclenché mercredi 29 juillet une procédure de recherche internationale contre Pavel Durov pour 'complicité de terrorisme'",
+    "Classification effectuée le jeudi 30 juillet"
+   ],
+   "qui": "Pavel Durov (patron de Telegram), Russie",
+   "ou": "Russie",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "74825926cf2b3ab8",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T21:37:11.548810+00:00"
   },
   {
    "faits": [
@@ -3173,29 +3186,6 @@
   },
   {
    "faits": [
-    "L'armée libanaise s'est déployée dans le village de Zaoutar El-Gharbiyé au sud du Liban",
-    "Ce village a été désigné zone pilote selon un accord parrainé par Washington",
-    "Le village est situé au nord du fleuve Litani, adjacent à un secteur occupé par Israël",
-    "Selon les termes de l'accord, le Hezbollah doit être désarmé et ne plus jouer aucun rôle sécuritaire"
-   ],
-   "qui": "Armée libanaise, Hezbollah, Israël, États-Unis",
-   "ou": "Zaoutar El-Gharbiyé, sud du Liban",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "fe7d9dc6d6f42b26",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T15:28:02.012680+00:00"
-  },
-  {
-   "faits": [
     "Une grève surprise a été annoncée à la SNCF",
     "Le trafic ferroviaire sera perturbé en Normandie entre vendredi et dimanche",
     "Des suppressions de trains sont attendues sur plusieurs axes majeurs en Normandie",
@@ -3245,6 +3235,53 @@
   },
   {
    "faits": [
+    "La finale de la Coupe du monde 2026 a été remportée par l'Espagne",
+    "Les joueurs de l'Argentine ont perdu leurs nerfs après la finale",
+    "Des échauffourées ont éclaté entre de nombreux acteurs sur le terrain",
+    "La Fifa a ouvert des procédures disciplinaires mercredi 29 juillet 2026"
+   ],
+   "qui": "Argentine, Espagne, Fifa",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "les lourdes sanctions exactes"
+   ],
+   "importance": 75,
+   "empreinte": "4bf10613bfd446c1",
+   "score": 81,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T21:37:11.548998+00:00"
+  },
+  {
+   "faits": [
+    "Le président égyptien Abdel Fattah al-Sissi a appelé la communauté internationale à s'unir pour 'mettre fin à l'escalade' dans la région",
+    "Une attaque de drone a eu lieu à Damiette, port méditerranéen dans le nord de l'Égypte",
+    "L'appel a été fait le 30 juillet"
+   ],
+   "qui": "Abdel Fattah al-Sissi (président égyptien)",
+   "ou": "Égypte, Damiette",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "69946e9ed737d188",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T21:37:11.548738+00:00"
+  },
+  {
+   "faits": [
     "La Turquie est confrontée à plusieurs feux de forêt touchant principalement la côte sud",
     "Les incendies affectent les provinces entre Balikesir, Izmir, Mugla et Antalya",
     "Des villages et quartiers ont été évacués",
@@ -3268,53 +3305,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-30T20:08:53.574149+00:00"
-  },
-  {
-   "faits": [
-    "Xenia Fedorova, chroniqueuse accusée d'être la voix du Kremlin dans des médias français, fait l'objet d'un arrêté d'expulsion",
-    "Le ministre de l'Intérieur Laurent Nuñez affirme que l'arrêté n'est « pas une atteinte à la liberté d'expression »",
-    "Le Rassemblement national est divisé : certains soutiennent la lutte contre l'ingérence russe, d'autres dénoncent une censure politique"
-   ],
-   "qui": "Xenia Fedorova, Laurent Nuñez (ministre de l'Intérieur), élus français",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Preuves d'une propagande du Kremlin à travers Xenia Fedorova"
-   ],
-   "importance": 65,
-   "empreinte": "3b6c2ec79d28969f",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T20:08:53.574087+00:00"
-  },
-  {
-   "faits": [
-    "Le Bénin a officiellement installé son Sénat le 30 juillet 2026",
-    "Le Sénat est une nouvelle chambre du Parlement issue de la révision constitutionnelle de 2025",
-    "Les anciens présidents Patrice Talon et Boni Yayi étaient présents côte à côte à la cérémonie",
-    "Le Sénat a pour mission de réguler la vie politique au Bénin"
-   ],
-   "qui": "Gouvernement du Bénin, Patrice Talon, Boni Yayi",
-   "ou": "Bénin",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "045792b70e10fa52",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T20:08:53.574866+00:00"
   }
  ],
  "publies_48h": [
