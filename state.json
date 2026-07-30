@@ -2,16 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/economie/les-prix-des-legumes-ont-augmente-de-10-en-un-an-et-ont-plus-que-double-en-10-ans-selon-familles-rurales_8118674.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/politique/le-conseil-constitutionnel-n-a-jamais-ete-autant-saisi-depuis-15-ans-et-l-annee-2026-s-annonce-egalement-record_8118761.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/temoignage-on-a-souvent-senti-des-odeurs-de-drogue-apres-la-decouverte-d-une-creche-illegale-en-essonne-une-mere-de-famille-raconte_8118371.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pendant-deux-jours-j-ai-tire-le-corps-d-un-mort-dans-la-kill-zone-les-soldats-ukrainiens-vivent-sous-la-menace-permanente-des-drones-russes_8089898.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sante/le-gouvernement-va-doubler-le-plafond-annuel-des-franchises-medicales-sur-les-consultations-et-les-medicaments-de-100-a-200euros_8118890.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/automobile/essence/le-guichet-grands-rouleurs-qui-devait-fermer-au-31-juillet-sera-ouvert-jusqu-au-31-aout-annonce-le-ministre-de-l-economie_8118884.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-double-son-benefice-net-au-2e-trimestre-a-4-7-milliards-d-euros_8118845.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/philippe-diallo-annoncera-le-nom-du-prochain-selectionneur-de-l-equipe-de-france-mardi-28-juillet_8118938.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-la-derniere-chance-pour-une-victoire-francaise-suivez-la-redoutable-etape-alpine-entre-voiron-et-orcieres-merlette-avec-nous_8118881.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-epstein-l-association-innocence-en-danger-assigne-l-etat-francais-pour-deni-de-justice-apres-la-mort-du-rabatteur-presume-du-pedocriminel_8119124.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/a-paris-la-place-maurice-barres-fervent-antisemite-rebaptisee-lucie-dreyfus_8119160.html#xtor=RSS-3-[lestitres]",
    "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/antibes/on-vient-d-assister-au-passage-des-camions-c-est-un-carnage-huit-dauphins-de-marineland-transferes-dans-la-nuit-vers-l-espagne-3390715.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/pollution/qualite-de-l-eau/perrier-san-pellegrino-vittel-les-eaux-nestle-se-detachent-du-groupe-pour-mieux-tourner-la-page-du-scandale_8119190.html#xtor=RSS-3-[lestitres]",
@@ -301,14 +291,19 @@
    "https://www.franceinfo.fr/societe/justice/une-famille-mise-en-examen-des-ossements-retrouves-un-appel-a-temoins-ou-en-est-l-enquete-apres-la-mort-de-deux-militaires-ultramarins-dans-le-var_8126933.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/musique/grammy-awards/le-groupe-sud-coreen-bts-renonce-aux-grammy-awards-apres-l-introduction-d-une-nouvelle-categorie-reservee-a-la-pop-asiatique_8128064.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/japon/le-bilan-du-seisme-au-japon-est-desormais-de-30-morts-annonce-la-premiere-ministre-sanae-takaichi_8127887.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/industrie/la-chine-accelere-dans-la-course-aux-puces-electroniques-avec-le-lancement-de-ses-premieres-machines-de-gravure_8126804.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/economie/industrie/la-chine-accelere-dans-la-course-aux-puces-electroniques-avec-le-lancement-de-ses-premieres-machines-de-gravure_8126804.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-m-en-voudrai-toute-ma-vie-dans-le-var-face-au-traumatisme-la-cellule-medico-psychologique-aide-les-sinistres-des-incendies-a-ne-pas-culpabiliser_8100791.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-syndicat-national-du-personnel-navigant-de-l-aeronautique-civile-denonce-des-problemes-de-maintenance-des-canadair_8128142.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/50-a-70-hectares-brules-aux-portes-de-dijon-plus-de-150-pompiers-mobilises-toute-la-nuit-pour-stopper-l-avancee-du-feu-3394294.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/zones-brulees-hectares-partis-en-fumee-visualisez-et-suivez-les-incendies-dans-l-hexagone-au-fil-de-l-ete_8116688.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-gouvernement-souhaite-faire-emerger-une-filiere-composee-d-industriels-impliques-dans-la-lutte-contre-les-incendies_8100752.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-des-benevoles-venus-aider-les-pompiers-a-lutter-contre-les-incendies-ont-ils-vraiment-ete-refoules-comme-le-racontent-des-internautes_8069558.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/medias/arrete-d-expulsion-visant-xenia-fedorova-le-rn-ne-partage-pas-les-positions-de-la-chroniqueuse-et-appelle-a-se-proteger-des-differentes-ingerences-lance-thomas-menage_8128283.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/giovanni-infantino/le-projet-de-vente-de-parts-de-la-coupe-du-monde-de-football-a-des-investisseurs-prives-est-une-opportunite-mais-pas-une-obligation-se-defend-gianni-infantino_8128253.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/apres-la-mort-d-une-femme-dans-un-institut-de-beaute-de-nice-la-piste-d-une-injection-illegale-de-botox-envisagee_8128073.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/migrants/quatre-migrants-ont-ete-retrouves-morts-apres-des-tentatives-de-traversee-de-la-manche_8128376.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-plusieurs-secteurs-de-la-foret-de-fontainebleau-fermes-en-raison-d-un-incendie-qui-a-brule-800-hectares_6720911_3244.html",
-   "https://www.lemonde.fr/politique/article/2026/07/13/emmanuel-macron-et-les-armees-dix-ans-de-relations-entre-defiance-espoirs-et-non-dits_6723032_823448.html",
-   "https://www.lemonde.fr/planete/article/2026/07/13/des-traces-d-acetamipride-et-d-autres-neonicotinoides-dans-le-nutella-et-des-miels-importes_6723039_3244.html",
-   "https://www.lemonde.fr/international/article/2026/07/13/la-diplomatie-americaine-impuissante-face-a-la-reprise-des-hostilites-entre-l-iran-et-les-etats-unis_6723050_3210.html",
-   "https://www.lemonde.fr/disparitions/article/2026/07/13/sam-neill-celebre-pour-son-role-dans-jurassic-park-est-mort_6723059_3382.html",
    "https://www.lemonde.fr/sport/article/2026/07/13/france-espagne-pourquoi-les-bleus-se-sont-surnommes-les-mechants-a-la-coupe-du-monde-2026_6723057_3242.html",
    "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-font-trois-morts-dans-la-region-de-moscou_6722853_3210.html",
    "https://www.lemonde.fr/international/article/2026/07/13/etats-unis-l-administration-trump-multiplie-les-procedures-judiciaires-a-l-encontre-des-journalistes_6723052_3210.html",
@@ -601,12 +596,16 @@
    "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-la-russie-bombarde-les-villes-de-kiev-lviv-et-kryvy-rih_6732775_3210.html",
    "https://www.lemonde.fr/series-d-ete/article/2026/07/30/louise-perrone-et-la-courgette-un-terrain-d-expression-fou_6736654_3451060.html",
    "https://www.lemonde.fr/actualite-medias/article/2026/07/29/le-journaliste-jean-quatremer-quitte-liberation-et-rejoint-marianne_6736401_3236.html",
-   "https://www.lemonde.fr/international/article/2026/07/30/seisme-au-japon-les-secours-toujours-a-la-recherche-de-survivants-pieges-dans-un-centre-commercial-apres-le-seisme-a-kumamoto-qui-a-fait-au-moins-28-morts_6736366_3211.html"
+   "https://www.lemonde.fr/international/article/2026/07/30/seisme-au-japon-les-secours-toujours-a-la-recherche-de-survivants-pieges-dans-un-centre-commercial-apres-le-seisme-a-kumamoto-qui-a-fait-au-moins-28-morts_6736366_3211.html",
+   "https://www.lemonde.fr/sciences/article/2026/07/30/en-chine-la-mort-cachee-d-une-enfant-dans-un-essai-clinique-souleve-de-nombreuses-questions_6736653_1650684.html",
+   "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-l-ex-ministre-de-la-defense-ukrainien-mykhailo-fedorov-affirme-que-son-eviction-est-liee-a-la-resistance-suscitee-par-ses-reformes_6732775_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/30/en-pologne-le-parti-ultraconservateur-droit-et-justice-vole-en-eclats-a-un-peu-plus-d-un-an-des-elections-legislatives_6736737_3210.html",
+   "https://www.lemonde.fr/economie/article/2026/07/30/en-france-un-rebond-en-trompe-l-il-de-l-economie-au-deuxieme-trimestre_6736703_3234.html",
+   "https://www.lemonde.fr/culture/article/2026/07/30/bts-renonce-aux-grammy-awards-2027-en-desaccord-avec-la-nouvelle-categorie-pop-asiatique_6736773_3246.html",
+   "https://www.lemonde.fr/afrique/article/2026/07/30/c-est-comme-si-j-etais-prisonnier-dans-un-paradis-le-cap-vert-refuge-precaire-pour-de-nombreux-homosexuels-africains-persecutes_6736659_3212.html",
+   "https://www.lemonde.fr/societe/article/2026/07/30/la-courte-echelle-l-association-du-juge-youssef-badr-poursuit-son-combat-pour-plus-de-diversite-dans-la-magistrature-malgre-les-pressions-de-l-extreme-droite_6736740_3224.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/actualite-france/recruteur-de-filles-ne-en-algerie-plainte-pour-viol-qui-est-daniel-siad-rabatteur-presume-de-jeffrey-epstein-20260210",
-   "https://madame.lefigaro.fr/societe/a-ton-avis-qu-est-ce-qu-elles-ont-fait-pour-gagner-autant-d-argent-le-temoignage-glacant-d-une-victime-du-rabatteur-d-epstein-20260212",
-   "https://www.lefigaro.fr/international/incendie-en-espagne-32-000-hectares-brules-a-100-km-au-nord-de-madrid-espoir-de-stabiliser-l-incendie-d-ici-jeudi-20260722",
    "https://www.lefigaro.fr/flash-actu/jusqu-a-42-0c-attendus-vendredi-decouvrez-en-carte-la-meteo-a-venir-20260722",
    "https://sante.lefigaro.fr/social/sante-publique/canicules-a-repetition-pourquoi-nos-organismes-sont-ils-aussi-durablement-eprouves-20260722",
    "https://www.lefigaro.fr/meteo/vague-de-chaleur-en-france-se-dirige-t-on-vers-nouvelle-canicule-debut-aout-20260722",
@@ -903,7 +902,10 @@
    "https://www.lefigaro.fr/international/guerre-au-moyen-orient-en-irak-premieres-frappes-conjointes-des-etats-unis-et-de-l-arabie-saoudite-20260729",
    "https://www.lefigaro.fr/secteur/high-tech/nous-ne-voulons-pas-que-ca-se-sache-anthropic-a-detruit-dans-l-ombre-des-millions-de-livres-pour-alimenter-son-ia-20260730",
    "https://www.lefigaro.fr/international/guerre-en-ukraine-explosions-a-kiev-apres-une-alerte-aux-missiles-20260730",
-   "https://www.lefigaro.fr/meteo/direct-incendies-gironde-feux-evacues-canicule-chaleur-feux-temperatures-pompiers-foret-fontainebleau-var-landes-dijon-20260730"
+   "https://www.lefigaro.fr/meteo/direct-incendies-gironde-feux-evacues-canicule-chaleur-feux-temperatures-pompiers-foret-fontainebleau-var-landes-dijon-20260730",
+   "https://www.lefigaro.fr/cinema/evacues-de-leur-propriete-dans-le-var-george-clooney-et-sa-famille-assurent-brignolles-et-le-var-de-leur-soutien-20260730",
+   "https://www.lefigaro.fr/vox/societe/theophane-le-mene-apres-les-megafeux-en-gironde-cessons-de-planter-des-bombes-a-retardement-20260730",
+   "https://www.lefigaro.fr/actualite-france/incendies-en-france-le-megafeu-reste-stabilise-jeudi-matin-la-meteo-s-annonce-favorable-20260730"
   ],
   "https://www.france24.com/fr/rss": [
    "0d56d940-85af-11f1-92a0-d13250b1822a",
@@ -2572,56 +2574,92 @@
  "evenements_attente": [
   {
    "faits": [
-    "Incendies majeurs en Europe depuis début juillet 2026, affectant Espagne, Italie, Portugal, France",
-    "En Gironde : incendie majeur ravageant la commune du Porge avec environ 200 maisons détruites",
-    "Incendie en Gironde déclaré stabilisé le 30 juillet",
-    "Incendie dans le Var à Brignoles (environ 100 hectares) déclaré fixé le 30 juillet vers 5h30",
-    "Reprise de feu fixée en forêt de Fontainebleau",
-    "Évacuations en cours en Crète (environ 8000 personnes)",
-    "Situation favorable en région de Madrid",
-    "Sécheresse et températures exceptionnelles favorisant les incendies",
-    "La PDG de Météo-France annonce une multiplication par 5 des vagues de chaleur d'ici 2050"
+    "L'économie française a rebondi de 0,2% au deuxième trimestre 2026 après un recul de 0,1% au premier trimestre",
+    "Ce rebond est largement dû aux exportations, notamment en aéronautique",
+    "L'industrie tient tandis que les ménages demeurent prudents"
    ],
-   "qui": "Sécurité civile française, pompiers, population",
-   "ou": "Espagne, Italie, Portugal, France (Gironde, Var, Fontainebleau), Grèce (Crète), Madrid",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
+   "qui": null,
+   "ou": "France",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 88,
    "sources": [
-    "franceinfo",
     "Le Monde",
-    "Le Figaro"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 95,
-   "empreinte": "641079bd7937e0c5",
-   "score": 100,
+   "importance": 68,
+   "empreinte": "3ba93a0ea4507518",
+   "score": 95,
    "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-30T06:46:39.175608+00:00"
+   "nb_sources": 2,
+   "depuis": "2026-07-30T09:22:45.718648+00:00"
   },
   {
    "faits": [
-    "Gianni Infantino défend un projet de privatisation partielle de la Coupe du monde",
-    "Infantino voit ce projet comme une opportunité mais pas une obligation",
-    "Le projet serait validé dans un cadre démocratique"
+    "Quatre migrants sont morts après des tentatives de traversée de la Manche",
+    "Un homme est mort au large d'Hardelot (Pas-de-Calais)",
+    "Trois personnes ont péri près de Dunkerque (Nord)"
    ],
-   "qui": "Gianni Infantino, FIFA",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
+   "qui": null,
+   "ou": "Manche, Hardelot (Pas-de-Calais), Dunkerque (Nord)",
+   "categorie": "faits_divers",
+   "sensible": true,
+   "confiance": 88,
    "sources": [
-    "France 24",
-    "L'Équipe"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 50,
-   "empreinte": "3493db4b7d175cb8",
-   "score": 88,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-30T01:06:11.986864+00:00"
+   "importance": 75,
+   "empreinte": "d2c0d171a398b48c",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:45.718652+00:00"
+  },
+  {
+   "faits": [
+    "En Pologne, le parti ultraconservateur Droit et justice (PiS) connaît une scission majeure",
+    "L'ancien premier ministre Mateusz Morawiecki a formé son propre groupe parlementaire",
+    "40 des 186 députés du PiS ont rejoint le nouveau groupe"
+   ],
+   "qui": "Mateusz Morawiecki, Droit et Justice (PiS)",
+   "ou": "Pologne",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "8e71afe152cf9556",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:45.718654+00:00"
+  },
+  {
+   "faits": [
+    "Trois personnes ont été mises en examen après la mort d'une jeune femme de 25 ans dans un salon de beauté à Nice",
+    "La mort est survenue suite à un arrêt cardio-respiratoire après l'injection d'un anesthésiant",
+    "Une enquête est ouverte pour homicide involontaire"
+   ],
+   "qui": "Trois personnes (non nommées), victime de 25 ans",
+   "ou": "Nice",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "acf7cf0aae25fa68",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:45.718656+00:00"
   },
   {
    "faits": [
@@ -2666,6 +2704,49 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T04:17:24.535988+00:00"
+  },
+  {
+   "faits": [
+    "Le Syndicat national du personnel navigant de l'aéronautique civile dénonce des problèmes de maintenance des Canadair depuis dix ans",
+    "Les Canadair manquent de disponibilité pendant les périodes de feux"
+   ],
+   "qui": "Syndicat national du personnel navigant de l'aéronautique civile, Eric Durand (secrétaire général adjoint)",
+   "ou": "France",
+   "categorie": "faits_divers",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "0e652ec864a60723",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:45.718663+00:00"
+  },
+  {
+   "faits": [
+    "En Chine, une fillette de 6 ans nommée « Mei » est morte après une thérapie génique expérimentale en 2025",
+    "L'enfant était atteinte d'une maladie non létale avant le traitement",
+    "Cette mort a été révélée par une enquête de la revue « Science »"
+   ],
+   "qui": "Enfant « Mei » (6 ans)",
+   "ou": "Chine",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "3044859ea4ebe06a",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:45.718664+00:00"
   },
   {
    "faits": [
@@ -2719,6 +2800,29 @@
   },
   {
    "faits": [
+    "Le groupe de K-pop BTS ne participera pas aux Grammy Awards",
+    "La protestation est contre la nouvelle catégorie « pop asiatique »",
+    "BTS estime que la musique ne doit pas être classée selon la langue ou l'origine géographique",
+    "Son album « Arirang » était pressenti pour plusieurs récompenses majeures"
+   ],
+   "qui": "BTS",
+   "ou": null,
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "793eae7b3a0e788b",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:45.718670+00:00"
+  },
+  {
+   "faits": [
     "Un mandat d'arrêt a été émis contre l'ex-président bolivien Evo Morales",
     "Morales est accusé de 'soulèvement armé' et de 'terrorisme' pour son rôle dans les manifestations antigouvernementales",
     "Morales s'est retranché dans sa région du Chapare, une région rurale du centre du pays"
@@ -2741,6 +2845,29 @@
   },
   {
    "faits": [
+    "L'ex-ministre de la défense ukrainien Mykhaïlo Fedorov affirme que son éviction est liée à la résistance suscitée par ses réformes",
+    "Son départ avait mené à d'importantes mobilisations dans la rue en Ukraine"
+   ],
+   "qui": "Mykhaïlo Fedorov (ex-ministre de la défense ukrainien)",
+   "ou": "Ukraine",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Les véritables raisons de son départ"
+   ],
+   "importance": 70,
+   "empreinte": "2027e051e6a06131",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:45.718674+00:00"
+  },
+  {
+   "faits": [
     "La FIFA a annoncé son intention de créer une société commerciale pour maximiser ses revenus",
     "Le projet vise notamment à augmenter les revenus de la Coupe du monde",
     "L'UEFA critique cette évolution en la qualifiant de 'vente' du football"
@@ -2760,29 +2887,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T04:17:24.535998+00:00"
-  },
-  {
-   "faits": [
-    "Cuba a réduit drastiquement le nombre d'activités interdites aux entreprises privées par décret",
-    "Les secteurs ouverts au privé incluent les stations-service, les pharmacies et les ports",
-    "Cuba connaît une profonde crise économique depuis plusieurs années",
-    "Cuba est soumise à une pression de la part de Washington"
-   ],
-   "qui": "Cuba (gouvernement)",
-   "ou": "Cuba",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "90ad19570201aeaf",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T01:06:26.382299+00:00"
   },
   {
    "faits": [
@@ -2830,6 +2934,98 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-30T04:17:13.941141+00:00"
+  },
+  {
+   "faits": [
+    "Le Cap-Vert est l'État d'Afrique le plus tolérant envers les LGBT+",
+    "L'archipel abrite de nombreux Africains qui fuient la répression liée à leur orientation sexuelle",
+    "L'absence de politique d'asile au Cap-Vert empêche ces migrants d'obtenir des titres de séjour"
+   ],
+   "qui": null,
+   "ou": "Cap-Vert, Afrique",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "cbfdaf99a71dc3b8",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:45.718677+00:00"
+  },
+  {
+   "faits": [
+    "L'association « La Courte Echelle » fondée par le juge Youssef Badr poursuit son combat pour plus de diversité dans la magistrature",
+    "L'association a été reconnue d'utilité publique en 2025",
+    "Son objectif est de soutenir les étudiants en droit d'origine modeste",
+    "Son fondateur est devenu une cible de pressions de l'extrême droite"
+   ],
+   "qui": "Youssef Badr, association La Courte Echelle",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "623ae0a23ac9f805",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:45.718679+00:00"
+  },
+  {
+   "faits": [
+    "Un arrêté d'expulsion a été pris à l'encontre de Xenia Fedorova, ancienne présidente du média RT France",
+    "Le RN déclare ne pas partager les positions de Xenia Fedorova",
+    "Xenia Fedorova conteste la décision d'expulsion"
+   ],
+   "qui": "Xenia Fedorova, RN (Thomas Ménagé)",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "Les critères exacts menant à l'expulsion"
+   ],
+   "importance": 65,
+   "empreinte": "c0a94a1b1ab7d03d",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:39.520539+00:00"
+  },
+  {
+   "faits": [
+    "George Clooney et sa famille ont été évacués de leur propriété dans le Var",
+    "Un nouvel incendie a parcouru 130 hectares près de Brignoles",
+    "L'acteur s'est installé dans le Var en 2021",
+    "Le feu est maintenant maîtrisé"
+   ],
+   "qui": "George Clooney",
+   "ou": "Brignoles (Var)",
+   "categorie": "faits_divers",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "f132065bc9693f8b",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T09:22:45.718681+00:00"
   },
   {
    "faits": [
@@ -2922,51 +3118,6 @@
   },
   {
    "faits": [
-    "Un double séisme a frappé le Venezuela le 24 juin 2026",
-    "Le séisme a causé plus de 5 500 morts",
-    "Le séisme a causé d'énormes dégâts",
-    "L'ONU remettra un rapport sur la reconstruction sous 60 jours"
-   ],
-   "qui": "Venezuela (gouvernement), ONU",
-   "ou": "Venezuela",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "5f832577ae389bf6",
-   "score": 79,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T01:06:10.798915+00:00"
-  },
-  {
-   "faits": [
-    "Deux ultras de l'OGC Nice ont agressé des joueurs de l'OGC Nice en novembre 2025",
-    "Le parquet a requis des peines allant d'un à deux ans de prison ferme",
-    "Une audience est prévue en septembre"
-   ],
-   "qui": "OGC Nice (ultras, joueurs)",
-   "ou": null,
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "220c5f12884683f3",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T01:06:10.799171+00:00"
-  },
-  {
-   "faits": [
     "Le groupe sud-coréen BTS renonce aux Grammy Awards 2027",
     "Raison : introduction d'une nouvelle catégorie réservée à la pop asiatique",
     "BTS était pressenti pour briguer plusieurs prix prestigieux dont l'album de l'année"
@@ -2986,73 +3137,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-30T06:46:51.304680+00:00"
-  },
-  {
-   "faits": [
-    "L'OL s'est incliné 0-4 face au Betis Séville en amical mercredi",
-    "Ce match amical intervient moins d'une semaine avant le troisième tour préliminaire aller de la Ligue des champions de l'OL sur le terrain du Sparta Prague"
-   ],
-   "qui": "Olympique Lyonnais, Betis Séville, Sparta Prague",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "e39df567a40a64b6",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T01:06:26.382309+00:00"
-  },
-  {
-   "faits": [
-    "Le taux du livret A et du LDDS augmente en août 2026",
-    "Les tarifs réglementés de l'électricité augmentent",
-    "Le démarchage téléphonique prend fin en août 2026",
-    "L'allocation de rentrée scolaire sera versée en août 2026"
-   ],
-   "qui": null,
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "3ba93a0ea4507518",
-   "score": 77,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T04:17:24.536014+00:00"
-  },
-  {
-   "faits": [
-    "Fenerbahçe s'est qualifié pour le 3e tour préliminaire de la Ligue des champions",
-    "Kairat Almaty s'est qualifié pour le 3e tour préliminaire de la Ligue des champions",
-    "Slovan Bratislava s'est qualifié pour le 3e tour préliminaire de la Ligue des champions",
-    "Aarhus a battu le Lech Poznan aux tirs au but après une remontée"
-   ],
-   "qui": "Fenerbahçe, Kairat Almaty, Slovan Bratislava, Aarhus, Lech Poznan",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "cdb0174f2c2cea09",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T01:06:26.382310+00:00"
   },
   {
    "faits": [
@@ -3078,54 +3162,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-30T04:17:24.536017+00:00"
-  },
-  {
-   "faits": [
-    "Un feu de forêt s'est déclaré mercredi après-midi près de Dijon",
-    "Le feu a parcouru 125 hectares",
-    "Aucun blessé n'a été signalé",
-    "Aucune habitation n'a été endommagée"
-   ],
-   "qui": null,
-   "ou": "Dijon, Côte-d'Or",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 80,
-   "sources": [
-    "Ouest-France"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "dda2dc7eaf717351",
-   "score": 75,
-   "fiab_max": 80,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T01:06:26.382312+00:00"
-  },
-  {
-   "faits": [
-    "De violentes rafales de vent ont frappé le Brésil ce mercredi",
-    "Les vents violents ont fait au moins cinq morts",
-    "Rio de Janeiro et l'État de São Paulo ont été affectés",
-    "Les intempéries ont provoqué des perturbations des transports",
-    "Les intempéries ont provoqué des coupures d'électricité",
-    "Les intempéries ont provoqué de nombreux dégâts"
-   ],
-   "qui": null,
-   "ou": "Brésil (Rio de Janeiro, São Paulo)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "7cea697732dc8105",
-   "score": 73,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T01:06:10.799031+00:00"
   },
   {
    "faits": [
@@ -3180,14 +3216,6 @@
   }
  ],
  "publies_48h": [
-  [
-   "ff0ebcfb7f825bcf",
-   "2026-07-28T07:21:33.210444+00:00"
-  ],
-  [
-   "b5722c697e26825c",
-   "2026-07-28T07:21:37.216064+00:00"
-  ],
   [
    "3dbf76bb3b563ddb",
    "2026-07-28T22:45:41.529329+00:00"
@@ -3263,17 +3291,13 @@
   [
    "8190e6b6b2255456",
    "2026-07-30T06:46:56.199476+00:00"
+  ],
+  [
+   "30aa033aa98858f9",
+   "2026-07-30T09:22:46.881158+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "6d0ed8e965abfeb9",
-   "2026-07-28T07:21:28.715622+00:00"
-  ],
-  [
-   "0269aa570882b5fa",
-   "2026-07-28T07:21:32.027491+00:00"
-  ],
   [
    "c603f8d6ee622da5",
    "2026-07-28T22:45:35.247297+00:00"
@@ -3349,6 +3373,10 @@
   [
    "8a4bacc5fe6538f8",
    "2026-07-30T06:46:51.304653+00:00"
+  ],
+  [
+   "1015f58ef889507b",
+   "2026-07-30T09:22:45.718638+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -3360,12 +3388,13 @@
   "⚡ FLASH — Au moins huit personnes, dont deux enfants, ont été tuées jeudi lors de frappes russes en Ukraine. Six membres d'une famille ont péri près de Kryvyï Rig. Le président Zelensky avait prévenu mercredi d'une frappe massive imminente. (Le Figaro)",
   "Hadi Matar reconnu coupable de terrorisme mercredi par la justice fédérale américaine pour l'agression au couteau de l'écrivain Salman Rushdie en 2022. Il risque la réclusion à perpétuité. (Le Monde)",
   "Un séisme de magnitude 7,1 frappe Kyushu au Japon le 29 juillet. Bilan : 30 morts selon la Première ministre. Un centre commercial s'effondre partiellement à Kumamoto. Plus de 84 000 foyers sont sans eau.",
-  "Les États-Unis ont frappé le 30 juillet des installations iraniennes à Abadan et Qeshm, visant le corps des gardiens de la révolution. Au moins 3 personnes tuées. L'Iran a riposté en tirant des missiles sur la Jordanie, dont 5 abattus."
+  "Les États-Unis ont frappé le 30 juillet des installations iraniennes à Abadan et Qeshm, visant le corps des gardiens de la révolution. Au moins 3 personnes tuées. L'Iran a riposté en tirant des missiles sur la Jordanie, dont 5 abattus.",
+  "Depuis fin juillet, des incendies ravagent le Sud-Ouest français. En Côte-d'Or, un foyer a brûlé 141 hectares. Le Var enregistre aussi des sinistres majeurs. Le gouvernement veut créer une filière industrielle pour renforcer la lutte contre les incendies."
  ],
  "recap_date": "2026-07-29",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-30",
-  "publies": 9
+  "publies": 10
  }
 }
