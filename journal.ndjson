@@ -9135,3 +9135,47 @@
 {"decision": "publier", "evt": "bf4f8bd9b69893d3", "score": 80, "categorie": "autre", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-30T11:28:06+00:00"}
 {"decision": "publier", "evt": "067aa555ceef3ed3", "score": 78, "categorie": "culture", "sensible": false, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-30T11:28:06+00:00"}
 {"decision": "attente", "evt": "4c7fcaf555efa22b", "score": 68, "categorie": "sciences", "sensible": true, "confiance": 50, "sources": ["Le Monde"], "ts": "2026-07-30T11:28:06+00:00"}
+{"decision": "abandon_attente", "evt": "dd11cdcfe8ef700f", "categorie": "international", "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "abandon_attente", "evt": "26e763b35dd67eaa", "categorie": "deces_personnalite", "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "abandon_attente", "evt": "85a7b8b080ec8583", "categorie": "justice", "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "abandon_attente", "evt": "9c8c9fdbbbed9176", "categorie": "economie", "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "abandon_attente", "evt": "bf4f8bd9b69893d3", "categorie": "autre", "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "abandon_attente", "evt": "067aa555ceef3ed3", "categorie": "culture", "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "abandon_attente", "evt": "4c7fcaf555efa22b", "categorie": "sciences", "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "1b3f783070a9b8a2", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo", "France 24", "Le Figaro"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "395b531260afcc2c", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "8b336be67ef1831d", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "98d5363fd981de3c", "score": 76, "categorie": "politique", "sensible": true, "confiance": 75, "sources": ["franceinfo"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "1c8854b9bfa326c2", "score": 93, "categorie": "sante", "sensible": false, "confiance": 85, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "85739da239bf4076", "score": 80, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 82, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "c0dfc2ea36f2ee21", "score": 78, "categorie": "international", "sensible": true, "confiance": 70, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "292e2a603621bea1", "score": 80, "categorie": "economie", "sensible": false, "confiance": 82, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "0bf6e4ac98f5b2be", "score": 82, "categorie": "faits_divers", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "1bbb36d278f855f1", "score": 84, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "c43026cbb5242382", "score": 79, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 80, "sources": ["Le Figaro"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "43c542d3e05d1187", "score": 84, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "6645251fd0ea60d3", "score": 85, "categorie": "politique", "sensible": false, "confiance": 90, "sources": ["France 24"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "794a8703f3bf9fd8", "score": 77, "categorie": "culture", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "0f42f6907a4ff2a9", "score": 73, "categorie": "culture", "sensible": false, "confiance": 78, "sources": ["France 24"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "e1c4cf5c0f31c03e", "score": 77, "categorie": "sport", "sensible": false, "confiance": 82, "sources": ["France 24"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "827d6f28fa090500", "score": 85, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["France 24"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "e29a10b6e5f82a88", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 92, "sources": ["franceinfo", "Le Monde", "Le Figaro", "France 24"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "3ba93a0ea4507518", "score": 95, "categorie": "economie", "sensible": false, "confiance": 88, "sources": ["Le Monde", "Ouest-France"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "dfd311fbfb88d6d9", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "d2c0d171a398b48c", "score": 86, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "8e71afe152cf9556", "score": 86, "categorie": "politique", "sensible": false, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "208a0180e25e84a7", "score": 85, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["Le Figaro"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "acf7cf0aae25fa68", "score": 85, "categorie": "justice", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "0e652ec864a60723", "score": 84, "categorie": "faits_divers", "sensible": false, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "3044859ea4ebe06a", "score": 84, "categorie": "sante", "sensible": true, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "793eae7b3a0e788b", "score": 83, "categorie": "culture", "sensible": false, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "509a7ee491a64052", "score": 82, "categorie": "international", "sensible": true, "confiance": 78, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "2027e051e6a06131", "score": 82, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "5711b60ba7040391", "score": 81, "categorie": "politique", "sensible": true, "confiance": 82, "sources": ["France 24"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "cbfdaf99a71dc3b8", "score": 81, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "623ae0a23ac9f805", "score": 81, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "c0a94a1b1ab7d03d", "score": 80, "categorie": "politique", "sensible": true, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "f132065bc9693f8b", "score": 80, "categorie": "faits_divers", "sensible": false, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "4d9325c037d4b1ab", "score": 79, "categorie": "international", "sensible": true, "confiance": 70, "sources": ["franceinfo"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "attente", "evt": "fcb754c4f12ded3c", "score": 79, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-30T13:12:11+00:00"}
+{"decision": "publier", "evt": "ad932735f2a2d953", "score": 79, "categorie": "justice", "sensible": false, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-30T13:12:11+00:00"}
