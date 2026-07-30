@@ -8966,3 +8966,51 @@
 {"decision": "controle", "evt": "2f7fcbfb8459932a", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-30T01:06:21+00:00"}
 {"decision": "controle", "evt": "9208d4670ffa46d5", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-30T01:06:26+00:00"}
 {"decision": "publie", "empreinte": "9dee9f1df6341338", "post_id": "2082633888648589408", "carte": true, "texte": "Des explosions ont été entendues à Kiev dans la nuit du 29 juillet. Les autorités ukrainiennes ont déclenché une alerte aux missiles russes dans la capitale. Le président Zelensky avait préalablement averti que les Russes préparaient une attaque massive. (Le Monde)", "ts": "2026-07-30T01:06:27+00:00"}
+{"decision": "abandon_attente", "evt": "a2fe027136e36460", "categorie": "meteo_catastrophe", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "abandon_attente", "evt": "13060e9bd71a70b1", "categorie": "economie", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "abandon_attente", "evt": "c7696e1d45e6931b", "categorie": "economie", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "abandon_attente", "evt": "036ca3cf763b2540", "categorie": "meteo_catastrophe", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "abandon_attente", "evt": "11abcb55815fe04e", "categorie": "economie", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "abandon_attente", "evt": "0b54dbb0574b3643", "categorie": "international", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "abandon_attente", "evt": "61eb9ae8d001db39", "categorie": "meteo_catastrophe", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "abandon_attente", "evt": "5843d6db715c3958", "categorie": "international", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "abandon_attente", "evt": "d43eb6d934a8f0f1", "categorie": "politique", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "abandon_attente", "evt": "19b47900b187c519", "categorie": "international", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "abandon_attente", "evt": "2fe1b4a46538a840", "categorie": "politique", "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "ec4f2f4e2e71022c", "score": 85, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "f6321cabca62ae3d", "score": 82, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "b66586a7dab81e18", "score": 80, "categorie": "sante", "sensible": false, "confiance": 82, "sources": ["Le Monde"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "9db8c1e1de78242a", "score": 83, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "bd97a9f89c99aefa", "score": 96, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["Le Monde", "France 24", "Ouest-France"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "b1671d5b95c76169", "score": 80, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "ead8ed5dc5772eb2", "score": 76, "categorie": "sciences", "sensible": false, "confiance": 75, "sources": ["Le Figaro"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "276c18f1558b716d", "score": 97, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["Le Figaro", "Ouest-France"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "fe0b0973a75adff7", "score": 96, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["France 24", "Ouest-France"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "a94eefb8aa0613b1", "score": 96, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["France 24", "Ouest-France"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "attente", "evt": "52fb374ac1a52743", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["RFI"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "attente", "evt": "4e3eb4326d5c85af", "score": 81, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "attente", "evt": "5e56f39d40001f7e", "score": 71, "categorie": "sport", "sensible": false, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "3ba93a0ea4507518", "score": 77, "categorie": "economie", "sensible": false, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "3493db4b7d175cb8", "score": 88, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["France 24", "L'Équipe"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "158d886cffe332a3", "score": 86, "categorie": "international", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "5d13ddee2cecd80d", "score": 85, "categorie": "faits_divers", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "864da154546b1711", "score": 85, "categorie": "sciences", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "attente", "evt": "376dcb2833ea0e20", "score": 84, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "f627ff839786b4d9", "score": 83, "categorie": "sante", "sensible": false, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "90ad19570201aeaf", "score": 82, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "attente", "evt": "6b77737ba05022e8", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["BFMTV"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "01f8834809279850", "score": 80, "categorie": "politique", "sensible": false, "confiance": 82, "sources": ["RFI"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "b8c4984ffb86a098", "score": 80, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "attente", "evt": "5f832577ae389bf6", "score": 79, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "attente", "evt": "220c5f12884683f3", "score": 79, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "attente", "evt": "30ad740acbd85cfe", "score": 79, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["BFMTV"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "e88524de427ef65d", "score": 79, "categorie": "sport", "sensible": false, "confiance": 82, "sources": ["L'Équipe"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "attente", "evt": "b734b38d744f1409", "score": 78, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 82, "sources": ["BFMTV"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "e39df567a40a64b6", "score": 78, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "cdb0174f2c2cea09", "score": 77, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "publier", "evt": "dda2dc7eaf717351", "score": 75, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 80, "sources": ["Ouest-France"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "attente", "evt": "7cea697732dc8105", "score": 73, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-30T04:17:13+00:00"}
+{"decision": "controle", "evt": "276c18f1558b716d", "motif": "ok_sim_0.36+alerte_retrogradee", "ts": "2026-07-30T04:17:19+00:00"}
+{"decision": "controle", "evt": "bd97a9f89c99aefa", "motif": "ok_sim_0.42", "ts": "2026-07-30T04:17:24+00:00"}
+{"decision": "publie", "empreinte": "65a81fe027932c14", "post_id": "2082681947868868654", "carte": true, "texte": "⚡ FLASH — Au moins huit personnes, dont deux enfants, ont été tuées jeudi lors de frappes russes en Ukraine. Six membres d'une famille ont péri près de Kryvyï Rig. Le président Zelensky avait prévenu mercredi d'une frappe massive imminente. (Le Figaro)", "ts": "2026-07-30T04:17:25+00:00"}
+{"decision": "publie", "empreinte": "5e672d25030a1424", "post_id": "2082681964725743844", "carte": true, "texte": "Hadi Matar reconnu coupable de terrorisme mercredi par la justice fédérale américaine pour l'agression au couteau de l'écrivain Salman Rushdie en 2022. Il risque la réclusion à perpétuité. (Le Monde)", "ts": "2026-07-30T04:17:29+00:00"}
