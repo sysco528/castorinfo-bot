@@ -892,7 +892,6 @@
    "https://www.lefigaro.fr/international/guerre-au-moyen-orient-en-irak-premieres-frappes-conjointes-des-etats-unis-et-de-l-arabie-saoudite-20260729"
   ],
   "https://www.france24.com/fr/rss": [
-   "2785009a-85bd-11f1-880a-c18d5c108b12",
    "6a0a0542-85bc-11f1-bfee-b5310f59216a",
    "36702d18-85af-11f1-bd0b-339938c7a831",
    "89e83ca6-85af-11f1-b5f9-339938c7a831",
@@ -1191,7 +1190,8 @@
    "027b70d6-8b8a-11f1-ba90-ef2096710b2d",
    "32ddd29c-8b9d-11f1-b623-9d58e6ab6f3c",
    "76f8bcb8-8b9c-11f1-b5c6-833646d24108",
-   "656a7c98-8b97-11f1-b951-531fdc313cc1"
+   "656a7c98-8b97-11f1-b951-531fdc313cc1",
+   "cbb3b1b4-8b69-11f1-86ec-2bf2df4a93fc"
   ],
   "https://www.rfi.fr/fr/rss": [
    "dc15b6e2-81d2-11f1-b54e-bd66ef183a97",
@@ -1496,8 +1496,6 @@
    "a6a2e1f2-8a96-11f1-ba8f-b9dc43c918c2"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-22/quiz-etes-vous-fort-en-sciences-d2915a43-4c68-43bb-a9f5-534b7a277bb7?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-22/au-coeur-de-la-jungle-sur-le-toit-d-un-gratte-ciel-voici-les-dix-piscines-les-plus-spectaculaires-du-monde-514a4e6d-c3fd-4535-be93-b9aa1045ee0c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-22/elle-a-voulu-denoncer-le-scandale-du-watergate-mais-personne-ne-l-a-crue-qui-etait-martha-mitchell-869c5a23-7176-40f6-b438-f9fbf252a48c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-22/comment-un-rate-en-plein-concert-a-precipite-la-chute-de-milli-vanilli-et-revele-l-arnaque-du-groupe-de-musique-25310789-6578-4c92-b820-f1ab63e02ebc?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/etats-unis/jeffrey-epstein/exclusif-affaire-epstein-lassociation-innocence-en-danger-attaque-letat-francais-pour-deni-de-justice-8c7a185c-85fc-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1795,7 +1793,9 @@
    "https://www.ouest-france.fr/sport/cyclisme/thibaut-pinot/pour-combattre-les-incendies-les-pompiers-ont-eu-un-soutien-inattendu-celui-de-lancien-coureur-thibaut-pinot-13404f50-8b89-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/formule-1/f1-kimi-antonelli-poursuivi-en-justice-par-son-ancien-manager-95f81aa4-8b89-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/faits-divers/incendie/reprise-de-feu-en-foret-de-fontainebleau-six-hectares-brules-4133be98-8b97-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/coupe-du-monde/apres-la-coupe-du-monde-la-fifa-ouvre-plusieurs-procedures-disciplinaires-contre-largentine-et-gavi-94242220-8b95-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/sport/coupe-du-monde/apres-la-coupe-du-monde-la-fifa-ouvre-plusieurs-procedures-disciplinaires-contre-largentine-et-gavi-94242220-8b95-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/venezuela/seismes-au-venezuela-lonu-remettra-un-rapport-sur-la-reconstruction-sous-60-jours-ca088090-8bac-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/bourgogne-franche-comte/dijon-21000/incendies-un-feu-de-foret-parcourt-125-hectares-pres-de-dijon-8859e6ee-8bab-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2047,7 +2047,10 @@
    "https://www.20minutes.fr/monde/ukraine/4236903-20260729-guerre-ukraine-xenia-fedorova-menacee-expulsion-zelensky-compte-sanctions-americaines?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/arts-stars/television/4236937-20260729-cnews-arcom-inflige-amende-200-000-euros-deux-sequences-2025?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/gaming/4236567-20260729-quoi-exactement-champion-pokemon?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/monde/etats-unis/4236945-20260730-etats-unis-malgre-inflation-elevee-fed-maintient-taux-plait-trump?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/monde/etats-unis/4236945-20260730-etats-unis-malgre-inflation-elevee-fed-maintient-taux-plait-trump?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/canicule/4236959-20260730-incendies-fontainebleau-alerte-feu-repris-desormais-fixe?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/bresil/4236960-20260730-bresil-vents-violents-rio-region-sao-paulo-font-moins-cinq-morts?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sante/4236958-20260730-dit-tout-projet-doctolib-utiliser-donnees-sante-ia?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2542,82 +2545,39 @@
    "https://www.lequipe.fr/Football/Actualites/Amical-en-finale-de-la-como-cup-lens-defiera-villarreal-qualifie-aux-depens-de-come/1707877",
    "https://www.lequipe.fr/Football/Actualites/Mercato-herve-koffi-devrait-etre-prete-a-l-union-saint-gilloise-par-le-rc-lens/1707875",
    "https://www.lequipe.fr/Football/Actualites/La-concacaf-preoccupee-par-le-manque-de-respect-des-procedures-legales-du-projet-de-gianni-infantino-de-vendre-des-parts-de-la-coupe-du-monde/1707871",
-   "https://www.lequipe.fr/Football/Actualites/En-finale-de-coupe-du-monde-2006-zidane-marquait-la-seule-et-unique-panenka-de-sa-carriere/1681198"
+   "https://www.lequipe.fr/Football/Actualites/En-finale-de-coupe-du-monde-2006-zidane-marquait-la-seule-et-unique-panenka-de-sa-carriere/1681198",
+   "https://www.lequipe.fr/Football/Actualites/Fenerbahce-se-qualifie-pour-le-3e-tour-preliminaire-de-la-ligue-des-champions-aarhus-poursuit-son-parcours-apres-une-folle-remontee/1707867",
+   "https://www.lequipe.fr/Football/Article/Grand-recit-zinedine-zidane-et-ses-selectionneurs-entre-respect-implication-et-bonne-distance/1707692",
+   "https://www.lequipe.fr/Football/Actualites/Corrige-par-le-betis-seville-en-match-amical-l-ol-inquiete-a-six-jours-de-son-troisieme-tour-preliminaire-de-ligue-des-champions/1707865",
+   "https://www.lequipe.fr/Football/Actualites/De-la-prison-ferme-requise-contre-deux-ultras-de-l-ogc-nice-pour-violences-sur-des-joueurs/1707863",
+   "https://www.lequipe.fr/Football/Article/Projet-de-societe-commerciale-de-la-fifa-l-ex-conseiller-sport-d-emmanuel-macron-denonce-une-financiarisation-totalement-debridee/1707853",
+   "https://www.lequipe.fr/Football/Actualites/-c-est-une-opportunite-mais-pas-une-obligation-gianni-infantino-defend-son-projet-de-vente-de-la-coupe-du-monde/1707860"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
   {
    "faits": [
-    "La Fifa annonce un projet d'ouverture aux investisseurs privés via la création d'une société dédiée",
-    "Les fédérations européennes du football tiennent une réunion d'urgence le 29 juillet sous l'égide de l'UEFA",
-    "L'UEFA et l'Union européenne sont en première ligne des critiques",
-    "Le projet promettrait une manne de 10 milliards de dollars pour financer le développement du football",
-    "Le projet serait lié à la famille élargie de Donald Trump"
+    "Gianni Infantino défend un projet de privatisation partielle de la Coupe du monde",
+    "Infantino voit ce projet comme une opportunité mais pas une obligation",
+    "Le projet serait validé dans un cadre démocratique"
    ],
-   "qui": "Fifa, Gianni Infantino, UEFA, Union européenne, fédérations nationales",
-   "ou": "Monde",
+   "qui": "Gianni Infantino, FIFA",
+   "ou": null,
    "categorie": "sport",
    "sensible": false,
-   "confiance": 80,
+   "confiance": 85,
    "sources": [
     "France 24",
-    "RFI"
+    "L'Équipe"
    ],
-   "non_confirme": [
-    "Lien précis avec Trump"
-   ],
-   "importance": 60,
-   "empreinte": "a9cabe45da898b0f",
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "3493db4b7d175cb8",
    "score": 88,
    "fiab_max": 85,
    "nb_sources": 2,
-   "depuis": "2026-07-29T17:54:03.363715+00:00"
-  },
-  {
-   "faits": [
-    "Des explosions sont entendues à Kiev",
-    "Les autorités ukrainiennes ont déclenché une alerte aux missiles russes dans la capitale",
-    "Le président Volodymyr Zelensky avait averti que les Russes avaient préparé une attaque massive et qu'il y avait une forte probabilité que la frappe soit menée la nuit du 29 juillet"
-   ],
-   "qui": "Russie, Ukraine, Volodymyr Zelensky",
-   "ou": "Kiev, Ukraine",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "67ec5a0804e0ed4c",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T23:47:23.941778+00:00"
-  },
-  {
-   "faits": [
-    "La Réserve fédérale américaine maintient ses taux inchangés",
-    "Cette décision est maintenue malgré une forte inflation",
-    "Le comité affiche un niveau de dissension inédit",
-    "Une pression croissante en faveur d'une politique monétaire plus restrictive existe aux États-Unis"
-   ],
-   "qui": "Réserve fédérale américaine",
-   "ou": "États-Unis",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "2f7fcbfb8459932a",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T22:44:17.860424+00:00"
+   "depuis": "2026-07-30T01:06:11.986864+00:00"
   },
   {
    "faits": [
@@ -2642,51 +2602,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-29T19:39:25.840056+00:00"
-  },
-  {
-   "faits": [
-    "LCI organise le premier débat de la campagne présidentielle 2027",
-    "Le débat aura lieu le 27 août à Roland-Garros",
-    "7 candidats déclarés ou présumés participeront",
-    "Amélie Carrouër présentera le débat"
-   ],
-   "qui": "LCI, candidats à la présidentielle",
-   "ou": "Roland-Garros, France",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "94e23f6ef49ed09a",
-   "score": 86,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T17:54:03.362505+00:00"
-  },
-  {
-   "faits": [
-    "Les États-Unis annoncent de nouvelles sanctions contre des entités iraniennes liées aux Gardiens de la révolution",
-    "Ces sanctions visent des entités accusées d'imposer des « assurances » aux navires transitant par le détroit d'Ormuz",
-    "Donald Trump a averti que les États-Unis allaient frapper « fort » l'Iran suite à des tirs iraniens contre des bases américaines en Jordanie"
-   ],
-   "qui": "États-Unis, Iran, Donald Trump",
-   "ou": "Détroit d'Ormuz, Jordanie",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "9208d4670ffa46d5",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T23:47:23.941783+00:00"
   },
   {
    "faits": [
@@ -2755,28 +2670,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-29T19:39:25.840835+00:00"
-  },
-  {
-   "faits": [
-    "Volodymyr Zelensky a rencontré Donald Tusk en Pologne",
-    "La rencontre a eu lieu à Lublin, après le retour de Zelensky des États-Unis",
-    "Les deux dirigeants ont évoqué la coopération antibalistique selon Donald Tusk"
-   ],
-   "qui": "Volodymyr Zelensky (président ukrainien), Donald Tusk (premier ministre polonais)",
-   "ou": "Lublin, Pologne",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "f3b05845743fc486",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T17:54:03.363730+00:00"
   },
   {
    "faits": [
@@ -2870,31 +2763,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-29T19:39:25.840848+00:00"
-  },
-  {
-   "faits": [
-    "La Cour suprême brésilienne somme Jair Bolsonaro de s'expliquer sur un deepfake électoral",
-    "Le deepfake serait en soutien de son fils candidat à la présidentielle",
-    "Bolsonaro a interdiction de s'exprimer publiquement",
-    "Bolsonaro purge une peine de 27 ans de prison à son domicile pour tentative de coup d'État après sa défaite en 2022"
-   ],
-   "qui": "Jair Bolsonaro, Cour suprême brésilienne, fils de Bolsonaro",
-   "ou": "Brésil",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Lien exact du deepfake avec le fils de Bolsonaro"
-   ],
-   "importance": 65,
-   "empreinte": "0a1c8c8fb813964a",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T17:54:03.363740+00:00"
   },
   {
    "faits": [
@@ -3044,6 +2912,29 @@
   },
   {
    "faits": [
+    "Cuba a réduit drastiquement le nombre d'activités interdites aux entreprises privées par décret",
+    "Les secteurs ouverts au privé incluent les stations-service, les pharmacies et les ports",
+    "Cuba connaît une profonde crise économique depuis plusieurs années",
+    "Cuba est soumise à une pression de la part de Washington"
+   ],
+   "qui": "Cuba (gouvernement)",
+   "ou": "Cuba",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "90ad19570201aeaf",
+   "score": 82,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T01:06:26.382299+00:00"
+  },
+  {
+   "faits": [
     "Un incendie s'est déclaré à Brignoles dans le Var le 29 juillet",
     "100 hectares ont été ravagés",
     "Deux pompiers ont été blessés",
@@ -3164,6 +3055,51 @@
   },
   {
    "faits": [
+    "Un double séisme a frappé le Venezuela le 24 juin 2026",
+    "Le séisme a causé plus de 5 500 morts",
+    "Le séisme a causé d'énormes dégâts",
+    "L'ONU remettra un rapport sur la reconstruction sous 60 jours"
+   ],
+   "qui": "Venezuela (gouvernement), ONU",
+   "ou": "Venezuela",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "5f832577ae389bf6",
+   "score": 79,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T01:06:10.798915+00:00"
+  },
+  {
+   "faits": [
+    "Deux ultras de l'OGC Nice ont agressé des joueurs de l'OGC Nice en novembre 2025",
+    "Le parquet a requis des peines allant d'un à deux ans de prison ferme",
+    "Une audience est prévue en septembre"
+   ],
+   "qui": "OGC Nice (ultras, joueurs)",
+   "ou": null,
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "220c5f12884683f3",
+   "score": 79,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T01:06:10.799171+00:00"
+  },
+  {
+   "faits": [
     "Deux nouveaux feux de forêt se sont déclarés à Fontainebleau le 29 juillet, deux semaines après un feu précédent",
     "Le premier feu a parcouru trois hectares et est désormais stabilisé",
     "Une « importante reprise de feu » s'est déclarée le 29 juillet en forêt de Fontainebleau en Seine-et-Marne",
@@ -3211,30 +3147,6 @@
   },
   {
    "faits": [
-    "Gianni Infantino défend son projet de créer une société commerciale à la Fifa ouverte aux investisseurs privés",
-    "Ce projet a suscité un tollé",
-    "Infantino affirme qu'il s'agit d'une proposition et non d'une obligation"
-   ],
-   "qui": "Gianni Infantino, Fifa",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [
-    "Acceptation ou rejet final du projet par les États-membres"
-   ],
-   "importance": 55,
-   "empreinte": "3493db4b7d175cb8",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-29T22:44:17.860447+00:00"
-  },
-  {
-   "faits": [
     "Plusieurs incendies se déclarent en Gironde avec plus d'une dizaine de reprises de feu",
     "Une nouvelle vague de chaleur est prévue le 29 juillet dans plusieurs départements en proie aux incendies",
     "23 départements sont placés en vigilance orange « canicule » pour la journée du 30 juillet",
@@ -3255,6 +3167,98 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-29T23:47:13.784370+00:00"
+  },
+  {
+   "faits": [
+    "L'OL s'est incliné 0-4 face au Betis Séville en amical mercredi",
+    "Ce match amical intervient moins d'une semaine avant le troisième tour préliminaire aller de la Ligue des champions de l'OL sur le terrain du Sparta Prague"
+   ],
+   "qui": "Olympique Lyonnais, Betis Séville, Sparta Prague",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "e39df567a40a64b6",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T01:06:26.382309+00:00"
+  },
+  {
+   "faits": [
+    "Fenerbahçe s'est qualifié pour le 3e tour préliminaire de la Ligue des champions",
+    "Kairat Almaty s'est qualifié pour le 3e tour préliminaire de la Ligue des champions",
+    "Slovan Bratislava s'est qualifié pour le 3e tour préliminaire de la Ligue des champions",
+    "Aarhus a battu le Lech Poznan aux tirs au but après une remontée"
+   ],
+   "qui": "Fenerbahçe, Kairat Almaty, Slovan Bratislava, Aarhus, Lech Poznan",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 45,
+   "empreinte": "cdb0174f2c2cea09",
+   "score": 77,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T01:06:26.382310+00:00"
+  },
+  {
+   "faits": [
+    "Un feu de forêt s'est déclaré mercredi après-midi près de Dijon",
+    "Le feu a parcouru 125 hectares",
+    "Aucun blessé n'a été signalé",
+    "Aucune habitation n'a été endommagée"
+   ],
+   "qui": null,
+   "ou": "Dijon, Côte-d'Or",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 80,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "dda2dc7eaf717351",
+   "score": 75,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T01:06:26.382312+00:00"
+  },
+  {
+   "faits": [
+    "De violentes rafales de vent ont frappé le Brésil ce mercredi",
+    "Les vents violents ont fait au moins cinq morts",
+    "Rio de Janeiro et l'État de São Paulo ont été affectés",
+    "Les intempéries ont provoqué des perturbations des transports",
+    "Les intempéries ont provoqué des coupures d'électricité",
+    "Les intempéries ont provoqué de nombreux dégâts"
+   ],
+   "qui": null,
+   "ou": "Brésil (Rio de Janeiro, São Paulo)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "7cea697732dc8105",
+   "score": 73,
+   "fiab_max": 75,
+   "nb_sources": 1,
+   "depuis": "2026-07-30T01:06:10.799031+00:00"
   }
  ],
  "publies_48h": [
@@ -3337,6 +3341,10 @@
   [
    "76b1936698856029",
    "2026-07-29T23:47:28.938199+00:00"
+  ],
+  [
+   "9dee9f1df6341338",
+   "2026-07-30T01:06:27.475491+00:00"
   ]
  ],
  "evenements_48h": [
@@ -3419,18 +3427,23 @@
   [
    "f9ac3c4f5031c9a6",
    "2026-07-29T23:47:23.941768+00:00"
+  ],
+  [
+   "67ec5a0804e0ed4c",
+   "2026-07-30T01:06:15.717900+00:00"
   ]
  ],
  "depeches_du_jour": [
   "🌡️ Un incendie en Gironde a ravagé 42 000 hectares. Le vent et la chaleur ont favorisé des reprises de feu menaçant Lanton. Hélicoptères, Canadair et pompiers ont stoppé la progression.",
   "🌡️ L'incendie en Gironde n'a pas progressé mercredi malgré les fortes chaleurs. La préfète envisage un retour à la normalité si l'accalmie se confirme. La SNCF annule les TGV au sud de Bordeaux jusqu'à dimanche.",
   "⚡ FLASH — La France connaît une vague de chaleur avec 53 incendies déclarés. La Gironde subit plus d'une dizaine de reprises de feu, notamment au Porge. Des foyers ravagent aussi le Var et les Landes. (France 24, BFMTV)",
-  "🇫🇷 Le mégafeu en Gironde a brûlé 42 000 hectares depuis le 22 juillet. De nouvelles reprises de feu ont éclaté le 29 juillet à Lanton et Lège-Cap-Ferret, désormais stabilisées. (France 24, RFI)"
+  "🇫🇷 Le mégafeu en Gironde a brûlé 42 000 hectares depuis le 22 juillet. De nouvelles reprises de feu ont éclaté le 29 juillet à Lanton et Lège-Cap-Ferret, désormais stabilisées. (France 24, RFI)",
+  "Des explosions ont été entendues à Kiev dans la nuit du 29 juillet. Les autorités ukrainiennes ont déclenché une alerte aux missiles russes dans la capitale. Le président Zelensky avait préalablement averti que les Russes préparaient une attaque massive. (Le Monde)"
  ],
  "recap_date": "2026-07-29",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-30",
-  "publies": 4
+  "publies": 5
  }
 }
