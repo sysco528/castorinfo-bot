@@ -9488,3 +9488,41 @@
 {"decision": "controle", "evt": "eb9f33ec42e9f99d", "motif": "ok_sim_0.12", "ts": "2026-07-30T23:46:51+00:00"}
 {"decision": "publie", "empreinte": "32e3624c97e0998b", "post_id": "2082976249790795810", "carte": true, "texte": "🇺🇸 Les États-Unis ont mené une « lourde série » de bombardements sur l'Iran en représailles. Des explosions ont été rapportées dans deux provinces iraniennes. Le Pakistan affirme que les belligérants négocient une désescalade. (Le Monde, RFI)", "ts": "2026-07-30T23:46:52+00:00"}
 {"decision": "publie", "empreinte": "c95ebcc6b488000d", "post_id": "2082976266131816809", "carte": true, "texte": "⚠️ Vigilance orange canicule vendredi : 21 départements sont en alerte, avec des températures attendues jusqu'à 40 °C dans le Sud-Est. Des orages violents sont prévus du sud-ouest au nord-est, susceptibles d'apporter grêle et fortes rafales. (Météo-France)", "ts": "2026-07-30T23:46:56+00:00"}
+{"decision": "abandon_attente", "evt": "67f6a7a5be61996e", "categorie": "faits_divers", "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "abandon_attente", "evt": "c659041a46c8fa0d", "categorie": "meteo_catastrophe", "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "abandon_attente", "evt": "a35c54087c24e5cd", "categorie": "economie", "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "be3cfc69a5c3506b", "score": 92, "categorie": "international", "sensible": true, "confiance": 72, "sources": ["Le Monde", "Le Figaro"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "c55c92ad16ce4f8e", "score": 84, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "a129b98344a17182", "score": 82, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "attente", "evt": "8bb9903595f122f0", "score": 79, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "cdd66c91278140f6", "score": 94, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Le Monde", "L'Équipe"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "573b7213168685fa", "score": 79, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "1a824c6ef45a3c7f", "score": 78, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "ba0428ad45647f3a", "score": 79, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "77a4b9810a2f4ea6", "score": 77, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "0a8368af2d1304c2", "score": 80, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "d304d9e03bbed438", "score": 94, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["franceinfo", "Ouest-France"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "d235f120dc2c054e", "score": 93, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["France 24", "20 Minutes"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "791408b04e51cb02", "score": 89, "categorie": "international", "sensible": true, "confiance": 72, "sources": ["Le Figaro", "France 24", "Ouest-France"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "21fc1fb2f9062d12", "score": 87, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "959f0e798249b03a", "score": 87, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "761e38d667694687", "score": 86, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "6e3b221641ed6c90", "score": 85, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "attente", "evt": "6d1240b8d6b0bb39", "score": 84, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["France 24"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "b4c2b76127bcaac1", "score": 84, "categorie": "economie", "sensible": false, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "attente", "evt": "54dc81967609ea2d", "score": 82, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "attente", "evt": "bb5cbed365ece222", "score": 82, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "attente", "evt": "74825926cf2b3ab8", "score": 82, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "372ac549febd619a", "score": 82, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["RFI"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "72dc9d6437349eed", "score": 82, "categorie": "autre", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "df19d179de7ad852", "score": 82, "categorie": "sport", "sensible": false, "confiance": 87, "sources": ["RFI"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "attente", "evt": "568ce71a06b904a7", "score": 81, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 82, "sources": ["RFI"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "attente", "evt": "3683a9dd8a1f0022", "score": 76, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "publier", "evt": "9368fdafab869932", "score": 75, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "attente", "evt": "4236fa67d97d87ce", "score": 71, "categorie": "politique", "sensible": false, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "attente", "evt": "6b60976d9eb5fec3", "score": 70, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 70, "sources": ["BFMTV"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "attente", "evt": "3987e6f66e510c6c", "score": 66, "categorie": "international", "sensible": false, "confiance": 65, "sources": ["20 Minutes"], "ts": "2026-07-31T01:18:35+00:00"}
+{"decision": "controle", "evt": "cdd66c91278140f6", "motif": "ok_sim_0.50", "ts": "2026-07-31T01:18:41+00:00"}
+{"decision": "controle", "evt": "d304d9e03bbed438", "motif": "ok_sim_0.11", "ts": "2026-07-31T01:18:45+00:00"}
+{"decision": "publie", "empreinte": "b8dccc5f498627b3", "post_id": "2082999377744797808", "carte": true, "texte": "⚽ John Textor, ancien président de l'OL, assigne le club devant le tribunal de commerce de Lyon et réclame 20 millions d'euros. L'homme d'affaires a été évincé après de graves problèmes budgétaires. (Le Monde, L'Équipe)", "ts": "2026-07-31T01:18:46+00:00"}
+{"decision": "publie", "empreinte": "5a546bcc2db4921d", "post_id": "2082999394396201464", "carte": true, "texte": "L'Italie menace de suspendre l'Espagne de l'espace Schengen après l'arrivée de migrants à Ceuta. Madrid convoque l'ambassadeur italien et dénonce la « démagogie » de Rome. (franceinfo)", "ts": "2026-07-31T01:18:50+00:00"}
