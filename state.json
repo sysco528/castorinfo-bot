@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/tour-de-france/impressionnant-tadej-pogacar-ec-ure-les-echappes-et-s-impose-brillamment-au-sommet-de-l-alpe-d-huez-a-l-issue-de-la-19e-etape-du-tour-de-france_8120942.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/basket/nba/lebron-james-annonce-s-engager-a-philadelphie-a-41-ans-je-suis-vraiment-impatient-de-me-lancer-une-derniere-fois-dans-cette-incroyable-aventure_8120984.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/economie/info-franceinfo-l-unedic-alerte-sebastien-lecornu-sur-une-dette-aggravee-par-les-prelevements-de-l-etat_8121008.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/royaume-uni/a-londres-des-policiers-fluviaux-tombent-a-l-eau-apres-avoir-percute-un-pont-sur-la-tamise-cinq-agents-blesses_8121083.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/justice-proces/cinq-nouvelles-plaintes-contre-jacques-leveugle-le-septuagenaire-soupconne-de-viols-pendant-des-decennies-apres-l-appel-a-temoins-lance-par-le-parquet-de-grenoble_8121053.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/il-n-y-a-pas-de-nuit-on-ne-dort-pas-aux-cotes-des-soldats-du-feu-en-gironde_8121161.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/un-surveillant-de-college-de-24-ans-mis-en-examen-pour-viol-sur-mineur-dans-le-pas-de-calais_8121200.html#xtor=RSS-3-[lestitres]",
    "https://la1ere.franceinfo.fr/guadeloupe/explosion-a-la-distillerie-de-montebello-a-petit-bourg-cinq-blesses-1722610.html#xtor=RSS-3-[lestitres]",
@@ -301,16 +296,14 @@
    "https://www.franceinfo.fr/decouverte/vacances/la-circulation-sur-les-routes-sera-extremement-difficile-dans-le-sens-des-departs-en-vacances-samedi_8130221.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-gard-s-ajoutera-samedi-a-la-liste-des-21-departements-deja-places-en-vigilance-orange-canicule_8130290.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-trafic-ferroviaire-au-sud-de-bordeaux-reprendra-samedi-annonce-la-sncf_8130140.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/accord-trouve-entre-le-fonds-britannique-sparta-capital-et-les-girondins-de-bordeaux-pour-la-vente-du-club_8130158.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/foot/accord-trouve-entre-le-fonds-britannique-sparta-capital-et-les-girondins-de-bordeaux-pour-la-vente-du-club_8130158.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/apres-la-decouverte-de-cinq-nouveau-nes-morts-a-orange-la-mere-de-famille-mise-en-examen-et-placee-en-detention-provisoire_8130455.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/grece/la-grece-frappee-par-de-nouveaux-incendies-une-banlieue-d-athenes-evacuee_8130416.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/cela-va-nous-permettre-de-realiser-des-projets-sur-oleron-le-conseil-constitutionnel-valide-l-amende-de-8-6-millions-d-euros-infligee-a-airbnb-3395236.html#xtor=RSS-3-[lestitres]",
+   "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/il-nous-aura-fait-courir-votre-chat-cette-association-sauve-les-animaux-domestiques-et-sauvages-victimes-oubliees-de-l-incendie-en-gironde-3395125.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/halterophilie/je-suis-raciste-et-je-l-ai-fait-expres-une-halterophile-manque-le-sacre-mondial-apres-qu-un-assistant-avoue-avoir-deliberement-penalise-sa-performance_8120840.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/un-si-proche-orient/article/2026/07/19/netanyahou-considere-toujours-comme-des-heros-les-poseurs-de-bombes-de-l-hotel-king-david-en-1946-a-jerusalem_6725413_6116995.html",
-   "https://www.lemonde.fr/international/article/2026/07/19/a-gaza-des-frappes-israeliennes-tuent-onze-personnes-dont-trois-enfants-annonce-la-defense-civile_6725264_3210.html",
-   "https://www.lemonde.fr/sport/article/2026/07/20/apres-des-semaines-dans-l-ombre-donald-trump-prend-la-lumiere-sous-les-huees-lors-de-la-finale-de-la-coupe-du-monde-2026_6726877_3242.html",
-   "https://www.lemonde.fr/planete/article/2026/07/20/incendies-en-france-27-departements-places-en-risque-eleve-de-feux-de-foret-six-departements-en-vigilance-orange-canicule_6726844_3244.html",
-   "https://www.lemonde.fr/series-d-ete/article/2026/07/20/le-senegal-nouvelle-plaque-tournante-de-la-cocaine-consommee-en-europe_6726704_3451060.html",
-   "https://www.lemonde.fr/societe/article/2026/07/20/affaire-jubillar-apres-la-decouverte-des-ossements-de-delphine-aussaguel-dans-un-champ-du-tarn-incertitudes-sur-le-proces-en-appel_6726566_3224.html",
-   "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-bombarde-l-iran-pour-la-neuvieme-nuit-consecutive-la-ville-de-bouchehr-dans-le-sud-ouest-du-pays-visee_6725301_3210.html",
    "https://www.lemonde.fr/campus/article/2026/07/20/avec-un-physique-comme-ca-vous-devriez-faire-autre-chose-le-visage-un-concentre-de-prejuges-au-travail_6726633_4401467.html",
    "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-la-region-de-moscou-visee-par-plus-de-400-drones-la-plupart-interceptes-selon-le-maire-de-la-capitale-russe_6725306_3210.html",
    "https://www.lemonde.fr/economie/article/2026/07/20/en-pleine-frenesie-de-megadeals-les-entreprises-mondiales-font-fi-des-tensions-geopolitiques_6726636_3234.html",
@@ -603,13 +596,16 @@
    "https://www.lemonde.fr/international/article/2026/07/31/apres-l-arabie-saoudite-la-coree-du-sud-demande-elle-aussi-aux-etats-unis-d-avoir-le-droit-d-enrichir-de-l-uranium_6737144_3210.html",
    "https://www.lemonde.fr/argent/article/2026/07/31/ou-acheter-en-france-pour-beneficier-d-une-vie-culturelle-riche_6737089_1657007.html",
    "https://www.lemonde.fr/international/article/2026/07/31/la-slovaquie-refuse-d-enregistrer-les-mariages-homosexuels-conclus-a-l-etranger_6737145_3210.html",
-   "https://www.lemonde.fr/afrique/article/2026/07/31/ebola-en-rdc-plus-de-3-500-cas-recenses-en-quelques-mois-plus-que-lors-de-l-epidemie-la-plus-meurtriere-de-l-histoire-du-pays_6737141_3212.html"
+   "https://www.lemonde.fr/afrique/article/2026/07/31/ebola-en-rdc-plus-de-3-500-cas-recenses-en-quelques-mois-plus-que-lors-de-l-epidemie-la-plus-meurtriere-de-l-histoire-du-pays_6737141_3212.html",
+   "https://www.lemonde.fr/planete/article/2026/07/31/incendie-en-gironde-sophie-brocas-prefete-et-marc-vermeulen-patron-des-pompiers-du-departement-racontent-dix-jours-de-lutte-contre-le-feu-et-expliquent-leurs-choix_6737157_3244.html",
+   "https://www.lemonde.fr/international/live/2026/07/31/en-direct-ceuta-37-500-des-50-000-personnes-entrees-illegalement-a-ceuta-sont-rentrees-au-maroc-face-aux-critiques-pedro-sanchez-appelle-a-l-unite-des-europeens_6737133_3210.html",
+   "https://www.lemonde.fr/sport/article/2026/07/31/au-pakistan-sur-les-pentes-du-broad-peak-les-difficiles-recherches-pour-retrouver-les-dix-alpinistes-ensevelis-dont-nirmal-purja_6737151_3242.html",
+   "https://www.lemonde.fr/politique/article/2026/07/31/un-responsable-de-la-fnsea-presente-ses-excuses-a-marine-tondelier-apres-l-avoir-insultee_6737126_823449.html",
+   "https://www.lemonde.fr/afrique/article/2026/07/31/quand-le-gouvernement-americain-publie-une-carte-fantaisiste-de-l-afrique_6737154_3212.html",
+   "https://www.lemonde.fr/societe/article/2026/07/31/la-mere-des-cinq-bebes-morts-decouverts-a-orange-a-ete-mise-en-examen-et-placee-en-detention-provicoire_6737159_3224.html",
+   "https://www.lemonde.fr/politique/article/2026/07/31/en-nouvelle-caledonie-un-nouveau-president-de-gouvernement-sans-majorite-et-avec-des-defis-majeurs_6737146_823448.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://avis-vin.lefigaro.fr/terroir-viticulture/on-ne-peut-plus-rester-les-bras-croises-dans-les-pyrenees-orientales-l-appel-des-vignerons-pour-planter-des-vignes-coupe-feu-20241119",
-   "https://www.lefigaro.fr/faits-divers/malhonnetes-et-empreints-d-une-grande-perversion-l-amant-de-delphine-jubillar-sort-du-silence-et-balaye-les-aveux-de-cedric-jubillar-20260723",
-   "https://www.lefigaro.fr/faits-divers/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-juge-20260721",
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-le-recital-carapaz-la-bataille-des-favoris-n-a-pas-eu-lieu-inquietude-chez-uae-les-tops-et-les-flops-de-la-18e-etape-20260723",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-l-equatorien-richard-carapaz-s-offre-un-succes-de-prestige-a-orcieres-merlette-les-favoris-se-neutralisent-avant-l-alpe-d-huez-20260723",
    "https://www.lefigaro.fr/international/jetes-dans-des-trous-tortures-et-annules-la-sale-guerre-de-poutine-un-business-criminel-et-mafieux-qui-exploite-et-broie-ses-propres-soldats-20260723",
    "https://www.lefigaro.fr/international/ukraine-limoge-l-ex-ministre-de-la-defense-insiste-pour-reintegrer-ses-fonctions-20260723",
@@ -905,13 +901,13 @@
    "https://www.lefigaro.fr/international/l-italie-ne-restera-pas-les-bras-croises-derriere-l-afflux-migratoire-a-ceuta-une-crise-diplomatique-ouverte-entre-madrid-et-rome-20260731",
    "https://www.lefigaro.fr/international/l-accord-de-schengen-peut-il-vraiment-etre-suspendu-avec-l-espagne-comme-le-demande-l-italie-20260731",
    "https://www.lefigaro.fr/international/en-2021-des-milliers-de-migrants-deferlaient-deja-sur-ceuta-a-la-faveur-d-un-relachement-des-controles-marocains-20260731",
-   "https://www.lefigaro.fr/international/vague-migratoire-massive-a-ceuta-donald-trump-evoque-des-images-terribles-20260731"
+   "https://www.lefigaro.fr/international/vague-migratoire-massive-a-ceuta-donald-trump-evoque-des-images-terribles-20260731",
+   "https://www.lefigaro.fr/international/un-chaos-absolu-a-ceuta-le-symbole-d-une-espagne-debordee-face-a-l-afflux-de-migrants-illegaux-20260731",
+   "https://www.lefigaro.fr/international/ceuta-cette-enclave-autonome-espagnole-au-coeur-des-tensions-migratoires-20260731",
+   "https://www.lefigaro.fr/societes/incendies-en-gironde-le-trafic-ferroviaire-va-reprendre-a-partir-de-samedi-au-sud-de-bordeaux-20260731",
+   "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260731"
   ],
   "https://www.france24.com/fr/rss": [
-   "a0d3787a-85fc-11f1-81c3-fda11fdbb396",
-   "964623be-8622-11f1-8d3b-a53119035be2",
-   "972b7af4-8640-11f1-a849-cf23467db470",
-   "62a9b328-863a-11f1-a851-d767be3f72a3",
    "19b82a50-8658-11f1-9f01-cfff3918505a",
    "afd1fdae-8658-11f1-9c02-0571ab935a08",
    "d31a2014-865a-11f1-a09f-cfff3918505a",
@@ -1207,7 +1203,11 @@
    "d8fc182c-8c89-11f1-a47a-55fae7668579",
    "a77d7414-8c6e-11f1-8e6b-bbfd745c0923",
    "deefb566-8cae-11f1-bb93-5ba8de91bb98",
-   "6907d076-8ca5-11f1-b9b1-ffe5bcc40af6"
+   "6907d076-8ca5-11f1-b9b1-ffe5bcc40af6",
+   "809e91f4-8cf8-11f1-b93b-d105dd1b7a3f",
+   "a15ae534-8cf6-11f1-b7c8-8b20a881bfb7",
+   "143e2dfe-8cf7-11f1-817b-8b20a881bfb7",
+   "e0d20acc-8cf5-11f1-847a-8b20a881bfb7"
   ],
   "https://www.rfi.fr/fr/rss": [
    "35dfdfac-822a-11f1-8554-cf2e8c47f12c",
@@ -2610,29 +2610,84 @@
  "evenements_attente": [
   {
    "faits": [
-    "Près de 50 000 migrants sont entrés illégalement à Ceuta depuis le Maroc",
-    "Au moins 9 migrants sont morts noyés en tentant de rejoindre Ceuta",
-    "L'armée a été déployée pour débloquer les routes",
-    "Le premier ministre espagnol Pedro Sánchez se rend à Ceuta",
-    "Madrid envoie de nouveaux renforts de forces de l'ordre",
-    "La France renforce les contrôles à la frontière espagnole avec activation de la Force Frontière d'intervention rapide"
+    "Cinq nouveau-nés morts découverts à Orange (Vaucluse)",
+    "Les ossements de quatre nourrissons et le corps d'un nouveau-né retrouvés dans un appartement",
+    "La mère de famille mise en examen et placée en détention provisoire",
+    "Son compagnon remis en liberté vendredi matin",
+    "La femme a accouché dimanche d'un bébé en bonne santé"
    ],
-   "qui": "Espagne, Maroc, France",
-   "ou": "Ceuta (enclave espagnole), frontière Maroc-Espagne",
-   "categorie": "international",
+   "qui": "Mère de famille (non nommée)",
+   "ou": "Orange, Vaucluse",
+   "categorie": "justice",
    "sensible": true,
-   "confiance": 92,
+   "confiance": 95,
    "sources": [
     "franceinfo",
-    "Le Figaro"
+    "Le Monde"
    ],
    "non_confirme": [],
    "importance": 85,
-   "empreinte": "5c28d3a72d03f20f",
+   "empreinte": "6efddb889eeb0d9e",
    "score": 100,
    "fiab_max": 90,
    "nb_sources": 2,
-   "depuis": "2026-07-31T10:23:46.401963+00:00"
+   "depuis": "2026-07-31T16:54:51.631451+00:00"
+  },
+  {
+   "faits": [
+    "Incendie en Gironde depuis le 22 juillet",
+    "42 000 hectares détruits",
+    "160 000 personnes autorisées à regagner leur domicile",
+    "Le feu est désormais contenu",
+    "Trafic ferroviaire doit reprendre samedi au sud de Bordeaux",
+    "L'infrastructure ferroviaire a été épargnée"
+   ],
+   "qui": null,
+   "ou": "Gironde, bassin d'Arcachon",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "Le Monde",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 88,
+   "empreinte": "e31a17d08fcd3f9d",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-31T16:54:51.631455+00:00"
+  },
+  {
+   "faits": [
+    "Crise migratoire à Ceuta : afflux massif de migrants depuis le Maroc",
+    "Environ 60 000 migrants sont entrés dans l'enclave espagnole en trois jours",
+    "Plus de 48 000 personnes sont déjà rentrées au Maroc selon le gouvernement espagnol",
+    "57 migrants sont morts en tentant de rejoindre le territoire à la nage",
+    "Pedro Sanchez appelle à l'unité des Européens face aux critiques",
+    "Emmanuel Macron demande le renforcement des contrôles à la frontière avec l'Espagne",
+    "L'Italie souhaite suspendre Madrid de l'espace Schengen",
+    "Le gouvernement espagnol a convoqué l'ambassadeur de l'Italie"
+   ],
+   "qui": "Gouvernement espagnol, Pedro Sanchez, Emmanuel Macron, gouvernement italien",
+   "ou": "Ceuta, Maroc",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Le Monde",
+    "Le Figaro",
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 90,
+   "empreinte": "244c426625c57cad",
+   "score": 100,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-31T16:54:51.631458+00:00"
   },
   {
    "faits": [
@@ -2699,31 +2754,6 @@
   },
   {
    "faits": [
-    "Un mégafeu sévit en Gironde depuis le 22 juillet",
-    "Une unité spéciale de police traque les cambrioleurs des maisons évacuées",
-    "22 enquêtes ont été ouvertes",
-    "Le parquet de Bordeaux a annoncé l'ouverture de nouvelles enquêtes pour incendies volontaires et vols par effraction",
-    "Des vols par effraction ont été commis dans les zones évacuées"
-   ],
-   "qui": "Parquet de Bordeaux, unité spéciale de police",
-   "ou": "Gironde",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo",
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "21273366596ce3bf",
-   "score": 97,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-31T10:23:46.401966+00:00"
-  },
-  {
-   "faits": [
     "En RDC, plus de 3 500 cas d'Ebola ont été confirmés en quelques mois",
     "C'est plus que lors de l'épidémie la plus meurtrière de l'histoire du pays",
     "3 532 cas confirmés dans cinq provinces du pays",
@@ -2771,25 +2801,29 @@
   },
   {
    "faits": [
-    "L'inflation en France dépasse les 2% sur un an en juillet",
-    "Les prix sont tirés à la hausse par ceux de l'énergie dans un contexte de guerre au Moyen-Orient",
-    "Les prix des services d'hébergement et de communication augmentent également"
+    "Dix alpinistes pris dans une avalanche jeudi",
+    "L'avalanche s'est produite sur les pentes du Broad Peak dans la chaîne du Karakoram",
+    "Parmi les victimes : Nirmal Purja, alpiniste népalais connu pour avoir gravi les 14 plus hauts sommets du monde en temps record",
+    "Quatre corps ont été repérés",
+    "Les recherches reprendront samedi"
    ],
-   "qui": "INSEE",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 92,
+   "qui": "Nirmal Purja et 9 autres alpinistes",
+   "ou": "Broad Peak, Karakoram, Pakistan",
+   "categorie": "deces_personnalite",
+   "sensible": true,
+   "confiance": 88,
    "sources": [
-    "franceinfo"
+    "Le Monde"
    ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "ea7e7ae9545a8e2f",
-   "score": 87,
+   "non_confirme": [
+    "Situation exacte des 6 alpinistes toujours portés disparus"
+   ],
+   "importance": 75,
+   "empreinte": "762480f6472de1f4",
+   "score": 86,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401968+00:00"
+   "depuis": "2026-07-31T16:54:51.631467+00:00"
   },
   {
    "faits": [
@@ -2835,28 +2869,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T12:31:06.808477+00:00"
-  },
-  {
-   "faits": [
-    "Dix départements du Centre et de l'Est sont placés en vigilance orange aux orages",
-    "La vigilance aux orages entre en vigueur à partir de 14 heures",
-    "21 départements sont concernés par une alerte orange à la canicule"
-   ],
-   "qui": "Météo-France",
-   "ou": "Centre et Est de la France",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 92,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "1adf6fc803865ae7",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401970+00:00"
   },
   {
    "faits": [
@@ -2929,77 +2941,6 @@
   },
   {
    "faits": [
-    "La Gironde a vu une partie importante de sa forêt reculer au profit des habitations",
-    "Cette modification du territoire a pu augmenter le risque d'incendie",
-    "L'artificialisation des sols a progressé dans les régions les plus sensibles au risque d'incendie"
-   ],
-   "qui": "Christine Bouisset (géographe)",
-   "ou": "Gironde",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "a5b5d3a201dc333d",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401974+00:00"
-  },
-  {
-   "faits": [
-    "Rebeca Grynspan prend la tête de la course au poste de secrétaire générale de l'ONU",
-    "Un premier vote indicatif du Conseil de sécurité a donné l'avantage à Rebeca Grynspan et à Carolyn Rodrigues-Birkett",
-    "Rebeca Grynspan est l'ancienne vice-présidente du Costa Rica",
-    "Carolyn Rodrigues-Birkett est l'ex-ministre des affaires étrangères du Guyana",
-    "Les deux candidates doivent s'assurer de ne faire l'objet d'aucun veto des cinq membres permanents"
-   ],
-   "qui": "Rebeca Grynspan, Carolyn Rodrigues-Birkett",
-   "ou": "ONU",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Absence de veto des cinq membres permanents du Conseil de sécurité"
-   ],
-   "importance": 70,
-   "empreinte": "3cedb80b13400e24",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401975+00:00"
-  },
-  {
-   "faits": [
-    "Au Sénégal, une vague d'arrestations cible les lesbiennes après avoir ciblé les gays",
-    "Plus d'une centaine d'hommes ont été arrêtés depuis l'adoption d'une loi en mi-mars réprimant plus durement l'homosexualité",
-    "Huit femmes ont été interpellées le mercredi 29 juillet",
-    "La répression de l'homosexualité s'élargit"
-   ],
-   "qui": "Autorités sénégalaises",
-   "ou": "Sénégal",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "dc5e4e60cd38c518",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401976+00:00"
-  },
-  {
-   "faits": [
     "L'Iran affirme avoir frappé deux pétroliers sous escorte aérienne américaine dans le détroit d'Ormuz",
     "Les hostilités au Moyen-Orient ont repris entre les Etats-Unis et l'Iran depuis mercredi (29 juillet 2026)"
    ],
@@ -3021,6 +2962,28 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T15:06:15.580546+00:00"
+  },
+  {
+   "faits": [
+    "La Grèce frappée par de nouveaux incendies",
+    "Une banlieue d'Athènes a été évacuée",
+    "Environ 8 000 personnes avaient déjà dû être évacuées mercredi soir en Crète"
+   ],
+   "qui": null,
+   "ou": "Grèce, Athènes, Crète",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "452fba398d74c91c",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T16:54:51.631475+00:00"
   },
   {
    "faits": [
@@ -3145,29 +3108,6 @@
   },
   {
    "faits": [
-    "Les régions s'opposent aux coupes budgétaires dans l'apprentissage et la formation",
-    "Le gouvernement entend supprimer les financements accordés aux centres de formation des apprentis (CFA)",
-    "Le gouvernement envisage de mettre un terme aux pactes d'investissement de compétences",
-    "Ces pactes sont destinés à former des demandeurs d'emploi et des personnes peu qualifiées"
-   ],
-   "qui": "Gouvernement français, régions",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "1cfb567acdb051a9",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401978+00:00"
-  },
-  {
-   "faits": [
     "La Slovaquie refuse d'enregistrer les mariages homosexuels conclus à l'étranger",
     "La Cour de justice de l'Union européenne avait conclu en novembre 2025 que tout pays de l'UE était tenu de reconnaître une union entre personnes de même sexe conclue dans un autre État membre"
    ],
@@ -3186,55 +3126,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T15:06:15.582079+00:00"
-  },
-  {
-   "faits": [
-    "Les pompiers de Gironde ont déposé plainte pour arnaques et fausses collectes de dons",
-    "Des imposteurs font du porte-à-porte à bord d'anciens camions du Sdis",
-    "Il n'y a pas de collecte officielle émanant des sapeurs-pompiers de la Gironde"
-   ],
-   "qui": "Pompiers de Gironde, imposteurs (non identifiés)",
-   "ou": "Gironde",
-   "categorie": "faits_divers",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "cfd05ea646039532",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401979+00:00"
-  },
-  {
-   "faits": [
-    "Dix alpinistes, dont Nirmal Purja, disparaissent dans une avalanche sur le Broad Peak",
-    "Le Broad Peak est la 12e montagne la plus haute de la planète",
-    "L'avalanche a eu lieu jeudi en pleine ascension du sommet",
-    "Le sommet est situé dans le nord du Pakistan",
-    "La police a retrouvé quatre corps depuis sans les identifier"
-   ],
-   "qui": "Nirmal Purja et neuf autres alpinistes",
-   "ou": "Broad Peak, nord du Pakistan",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Identification des quatre corps retrouvés",
-    "Localisation et état des six autres alpinistes"
-   ],
-   "importance": 70,
-   "empreinte": "8ce052679cac35d7",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401700+00:00"
   },
   {
    "faits": [
@@ -3326,6 +3217,124 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-31T12:31:06.808497+00:00"
+  },
+  {
+   "faits": [
+    "Conseil constitutionnel valide la constitutionnalité des lois sanctionnant Airbnb",
+    "Après cinq ans de procédure",
+    "La communauté de communes de l'île d'Oléron remporte cette bataille",
+    "Une amende de 8,6 millions d'euros devrait être finalement payée"
+   ],
+   "qui": "Conseil constitutionnel, communauté de communes de l'île d'Oléron, Airbnb",
+   "ou": "Oléron",
+   "categorie": "justice",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "a192831f279f8621",
+   "score": 81,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T16:54:51.631492+00:00"
+  },
+  {
+   "faits": [
+    "Haltérophile belge Sonita Muluh était proche d'un titre mondial en powerlifting en Lituanie en juin",
+    "Sa performance a été pénalisée par un assistant",
+    "L'assistant s'est revendiqué raciste et a déclaré avoir délibérément pénalisé sa performance"
+   ],
+   "qui": "Sonita Muluh (haltérophile belge), assistant non nommé",
+   "ou": "Lituanie",
+   "categorie": "sport",
+   "sensible": true,
+   "confiance": 78,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "f8e50792944612fb",
+   "score": 80,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T16:54:51.630422+00:00"
+  },
+  {
+   "faits": [
+    "En Nouvelle-Calédonie, Milakulo Tukumuli, président de l'Eveil océanien, a été désigné président du gouvernement collégial",
+    "Il a 41 ans",
+    "Son élection est fruit d'un accord avec les non-indépendantistes",
+    "Il n'a pas de majorité garantie",
+    "Il fait face à des défis majeurs pour faire passer ses réformes"
+   ],
+   "qui": "Milakulo Tukumuli, Eveil océanien",
+   "ou": "Nouvelle-Calédonie",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "Capacité de Tukumuli à faire passer ses réformes sans majorité"
+   ],
+   "importance": 55,
+   "empreinte": "de57b0b25142c9b4",
+   "score": 79,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T16:54:51.631493+00:00"
+  },
+  {
+   "faits": [
+    "En République démocratique du Congo, une loi référendaire a été validée",
+    "Cette loi relance le débat sur un possible 3e mandat de Félix Tshisekedi",
+    "L'opposition dénonce une remise en cause de la Constitution",
+    "L'opposition appelle à la mobilisation"
+   ],
+   "qui": "Félix Tshisekedi, opposition congolaise",
+   "ou": "République démocratique du Congo",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "f84e1a555802b896",
+   "score": 78,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T16:54:51.630657+00:00"
+  },
+  {
+   "faits": [
+    "Un responsable agricole FNSEA de l'Oise a insulté Marine Tondelier",
+    "Il l'avait traitée de « grosse salope » sur sa page privée",
+    "L'insulte a suivi l'adoption de la loi d'urgence agricole",
+    "Marine Tondelier, candidate écologiste, avait exigé des excuses en menaçant de poursuites judiciaires",
+    "Ce responsable agricole présente ses excuses"
+   ],
+   "qui": "Responsable FNSEA de l'Oise (non nommé), Marine Tondelier",
+   "ou": "Oise",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 82,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "abbc7f02f65162e1",
+   "score": 78,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T16:54:51.631495+00:00"
   }
  ],
  "publies_48h": [
