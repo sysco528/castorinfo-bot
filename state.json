@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/un-surveillant-de-college-de-24-ans-mis-en-examen-pour-viol-sur-mineur-dans-le-pas-de-calais_8121200.html#xtor=RSS-3-[lestitres]",
-   "https://la1ere.franceinfo.fr/guadeloupe/explosion-a-la-distillerie-de-montebello-a-petit-bourg-cinq-blesses-1722610.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/internet/google/l-ue-va-payer-un-tres-lourd-prix-pour-l-amende-record-qu-elle-a-infligee-a-google-menace-donald-trump_8121134.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/ca-fait-tres-mal-au-c-ur-c-est-notre-terrain-la-detresse-des-habitants-contraints-d-evacuer-face-aux-incendies-qui-ravagent-le-sud-ouest_8121194.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/justice/le-procureur-de-la-cpi-karim-khan-vise-par-des-allegations-d-agression-sexuelle-releve-de-ses-fonctions_8121227.html#xtor=RSS-3-[lestitres]",
@@ -301,12 +299,11 @@
    "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/cela-va-nous-permettre-de-realiser-des-projets-sur-oleron-le-conseil-constitutionnel-valide-l-amende-de-8-6-millions-d-euros-infligee-a-airbnb-3395236.html#xtor=RSS-3-[lestitres]",
    "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/il-nous-aura-fait-courir-votre-chat-cette-association-sauve-les-animaux-domestiques-et-sauvages-victimes-oubliees-de-l-incendie-en-gironde-3395125.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/halterophilie/je-suis-raciste-et-je-l-ai-fait-expres-une-halterophile-manque-le-sacre-mondial-apres-qu-un-assistant-avoue-avoir-deliberement-penalise-sa-performance_8120840.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/internet/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-moins-de-quatre-ans-apres-le-lancement-de-chatgpt_8130446.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/internet/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-moins-de-quatre-ans-apres-le-lancement-de-chatgpt_8130446.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/education/potentiel-vol-de-donnees-personnelles-d-un-nombre-important-d-agents-de-l-education-nationale_8130599.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/italie/l-italie-enregistre-un-seisme-de-magnitude-4-7-pres-de-naples_8130629.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/politique/article/2026/07/21/le-projet-de-loi-d-urgence-agricole-adopte-dans-la-cacophonie-par-une-assemblee-nationale-fracturee-sur-les-pesticides_6728117_823448.html",
-   "https://www.lemonde.fr/afrique/live/2026/07/21/ebola-en-rdc-posez-vos-questions-a-nos-journalistes-morgane-le-cam-et-philemon-barbier-de-retour-de-reportage-dans-l-epicentre-de-l-epidemie_6728461_3212.html",
-   "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html",
    "https://www.lemonde.fr/politique/article/2026/07/21/a-grenoble-la-gauche-se-divise-apres-l-interruption-du-concert-de-barbara-butch-boycottee-par-des-militants-locaux-lfi_6728356_823448.html",
    "https://www.lemonde.fr/campus/article/2026/07/21/un-corps-noir-dans-un-espace-blanc-c-est-un-accident-industriel-la-peau-un-nuancier-de-discriminations-au-travail_6728152_4401467.html",
    "https://www.lemonde.fr/afrique/article/2026/07/21/certains-ont-ete-licencies-d-autres-sont-expulses-de-leur-logement-des-dizaines-de-milliers-d-etrangers-chasses-d-afrique-du-sud_6728223_3212.html",
@@ -603,11 +600,12 @@
    "https://www.lemonde.fr/planete/article/2026/07/31/el-nino-qui-se-renforce-attise-une-planete-deja-en-feu-s-alarme-le-chef-de-l-onu_6737163_3244.html",
    "https://www.lemonde.fr/actualite-medias/article/2026/07/31/les-journalistes-de-marianne-affirment-que-jean-quatremer-pourrait-tordre-l-adn-du-magazine-et-brusquer-ses-lecteurs_6737160_3236.html",
    "https://www.lemonde.fr/societe/article/2026/07/31/surpopulation-carcerale-au-1-juillet-le-nombre-de-detenus-dans-les-prisons-francaises-atteint-89-446-un-nouveau-record_6737164_3224.html",
-   "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-trafic-maritime-est-toujours-impossible-dans-le-detroit-d-ormuz-affirme-l-iran_6737099_3210.html"
+   "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-trafic-maritime-est-toujours-impossible-dans-le-detroit-d-ormuz-affirme-l-iran_6737099_3210.html",
+   "https://www.lemonde.fr/sport/article/2026/07/31/gianni-infantino-desavoue-par-ses-proches-a-la-fifa-son-plan-d-ouverture-aux-investisseurs-prives-est-le-projet-d-une-seule-personne_6737167_3242.html",
+   "https://www.lemonde.fr/afrique/article/2026/07/31/remis-en-liberte-le-rappeur-et-cineaste-marocain-mehdi-black-wind-espere-retrouver-son-autre-port-d-attache-marseille_6737173_3212.html",
+   "https://www.lemonde.fr/planete/article/2026/07/31/decontaminer-l-eau-potable-des-residus-de-pesticides-et-des-pfas-pourrait-couter-jusqu-a-5-7-milliards-d-euros-par-an-selon-un-rapport_6737169_3244.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/musique/un-concert-du-chanteur-franco-israelien-amir-annule-pour-raisons-de-securite-a-marseille-apres-des-appels-au-boycott-propalestinien-20260723",
-   "https://www.lefigaro.fr/international/incendies-en-espagne-3500-personnes-evacuees-d-une-localite-a-60-km-de-madrid-20260723",
    "https://www.lefigaro.fr/international/guerre-en-ukraine-la-fuite-en-avant-de-vladimir-poutine-20260723",
    "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-le-prix-de-la-guerre-de-poutine-20260723",
    "https://www.lefigaro.fr/conso/exces-de-cadmium-des-melons-vendus-chez-carrefour-rappeles-dans-toute-la-france-20260723",
@@ -905,11 +903,11 @@
    "https://www.lefigaro.fr/politique/allez-vous-croiser-un-ministre-cet-ete-decouvrez-la-carte-des-vacances-du-gouvernement-20260731",
    "https://www.lefigaro.fr/international/a-moins-de-trois-mois-des-elections-legislatives-israel-reste-sceptique-apres-l-accord-sur-le-desarmement-du-hamas-a-gaza-20260731",
    "https://www.lefigaro.fr/societes/dans-la-tempete-la-surprenante-acceleration-des-fleurons-du-cac-40-20260731",
-   "https://www.lefigaro.fr/economie/la-moindre-deception-se-paie-cher-pourquoi-la-bourse-reagit-aussi-violemment-aux-bonnes-et-aux-mauvaises-surprises-20260731"
+   "https://www.lefigaro.fr/economie/la-moindre-deception-se-paie-cher-pourquoi-la-bourse-reagit-aussi-violemment-aux-bonnes-et-aux-mauvaises-surprises-20260731",
+   "https://www.lefigaro.fr/conjoncture/35-milliards-de-dollars-envoles-en-quelques-jours-la-chute-vertigineuse-du-nostradamus-de-l-ia-emporte-par-son-pari-fou-a-wall-street-20260731",
+   "https://www.lefigaro.fr/international/contrariee-par-un-tweet-l-administration-trump-veut-bloquer-la-nomination-du-futur-ambassadeur-francais-a-washington-20260731"
   ],
   "https://www.france24.com/fr/rss": [
-   "e33bf140-8685-11f1-a56b-a90349697956",
-   "df56beb8-867e-11f1-8e80-3124adb8251c",
    "2e1a0f16-866e-11f1-971d-8b91e7fe4f70",
    "db8cf5e2-8677-11f1-84b8-6ff3aff177dc",
    "f0907546-8676-11f1-9176-579a71d41a78",
@@ -1207,20 +1205,11 @@
    "74a7273a-8d02-11f1-b230-a9c0ee6f7e94",
    "b4317fe2-8cf1-11f1-8dbb-8b20a881bfb7",
    "fb6be006-8cf5-11f1-9f4d-8b20a881bfb7",
-   "7af4d940-8cf1-11f1-85dd-8b20a881bfb7"
+   "7af4d940-8cf1-11f1-85dd-8b20a881bfb7",
+   "c3c15684-8d15-11f1-aed5-912f6367ec8c",
+   "def51e9a-8d15-11f1-b620-8d404618b839"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "35dfdfac-822a-11f1-8554-cf2e8c47f12c",
-   "4eff4d92-8293-11f1-8f1e-7313728c1c34",
-   "b75e0034-8281-11f1-a8c2-45facf4300bb",
-   "c6a19f52-828a-11f1-aa5b-795de9ea34c4",
-   "be6cf546-8287-11f1-b575-71ddfd7cf90c",
-   "3bdd8c66-8102-11f1-a75d-a3a0502c6dc1",
-   "6e9f24a4-827c-11f1-859a-45facf4300bb",
-   "6d0a9358-81eb-11f1-9d98-f1e11bcbb1e6",
-   "9274a44e-8277-11f1-9311-fde11afd947a",
-   "61c99182-81e7-11f1-8d0c-1ba9267f3992",
-   "069f82b4-81cc-11f1-85c2-89b974b82784",
    "cd3d0820-829d-11f1-bbcf-b7dd12542a41",
    "abc7148c-8299-11f1-b6df-952aa7b6bac4",
    "97995dd8-829b-11f1-a712-9d04a9dc03f4",
@@ -1509,7 +1498,18 @@
    "41eb2432-8c93-11f1-a3ef-fb417fbe5ea6",
    "46fc467a-8c6d-11f1-bf56-fdcaddaa7286",
    "0d848614-8c81-11f1-89e4-db3f6e9a889b",
-   "0d196d50-8c7e-11f1-bf50-db3f6e9a889b"
+   "0d196d50-8c7e-11f1-bf50-db3f6e9a889b",
+   "4725832a-8cde-11f1-86cc-0b9b6fc7e5a3",
+   "47bf822e-8d13-11f1-9cd2-d110ad064812",
+   "a851ab16-8ce2-11f1-aa7b-3f6957d9727c",
+   "715f3f56-8cf1-11f1-ba06-ff37416a6ee7",
+   "39e2ae74-8cc8-11f1-8caa-69bfde5d3c03",
+   "e669d76e-8cad-11f1-ae36-897b56b12f1f",
+   "c8eec5e4-8cc3-11f1-adb4-dd19f77b313a",
+   "ce563b52-8cff-11f1-851a-41bdebbf4798",
+   "689f8a60-8cec-11f1-908a-f108b5f7bcc9",
+   "144add2c-8cfe-11f1-b4a6-898e0bbec71b",
+   "bf9de896-8cf3-11f1-a2f6-ff37416a6ee7"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/societe/maltraitance-animale/marineland-le-transfert-de-huit-dauphins-vers-lespagne-a-commence-ccc0b4e6-85f9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -2888,6 +2888,55 @@
   },
   {
    "faits": [
+    "Environ 60 000 migrants ont rejoint l'enclave espagnole de Ceuta depuis le Maroc en quelques jours",
+    "Plus de 48 000 migrants sont déjà retournés au Maroc",
+    "Crise diplomatique européenne concernant la potentielle suspension de l'Espagne de l'espace Schengen",
+    "Pedro Sánchez a dénoncé une violation de l'intégrité territoriale de l'Espagne",
+    "L'afflux s'est transformé en crise diplomatique intra-européenne"
+   ],
+   "qui": "Espagne, Maroc, Pedro Sánchez, institutions de l'UE",
+   "ou": "Ceuta, enclave espagnole au Maroc",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [
+    "nombre exact de migrants retournés"
+   ],
+   "importance": 85,
+   "empreinte": "6ea0c76103ddc1bc",
+   "score": 86,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T20:12:46.449212+00:00"
+  },
+  {
+   "faits": [
+    "Gianni Infantino désavoué par ses proches collaborateurs à la FIFA",
+    "Plan d'ouverture aux investisseurs privés dans le football mondial",
+    "L'UEFA a annoncé un boycott des compétitions de la FIFA si le plan poursuivait",
+    "Le projet a été conçu dans le plus grand secret, y compris de la FIFA"
+   ],
+   "qui": "Gianni Infantino, FIFA, UEFA",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "bed3d59616abec18",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T20:12:46.450390+00:00"
+  },
+  {
+   "faits": [
     "Dix alpinistes pris dans une avalanche jeudi",
     "L'avalanche s'est produite sur les pentes du Broad Peak dans la chaîne du Karakoram",
     "Parmi les victimes : Nirmal Purja, alpiniste népalais connu pour avoir gravi les 14 plus hauts sommets du monde en temps record",
@@ -2936,6 +2985,77 @@
   },
   {
    "faits": [
+    "Incendie en Gironde maîtrisé, situation qui s'améliore de jour en jour",
+    "Feu en Gironde n'est pas fixé mais progression rapportée",
+    "Des milliers de personnes évacuées ont été autorisées à revenir dans deux nouvelles communes",
+    "Incendie redémarré vendredi 31 juillet dans le Var",
+    "Feu dans le Var a pris de l'ampleur et forcé l'évacuation de 2 500 personnes"
+   ],
+   "qui": "Préfète Sophie Brocas, autorités locales, préfet du Var",
+   "ou": "Gironde et Var, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 80,
+   "empreinte": "1a0429a1c5aba3c8",
+   "score": 85,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T20:12:46.449309+00:00"
+  },
+  {
+   "faits": [
+    "Intrusion frauduleuse dans un système d'information du ministère de l'Education nationale",
+    "Vol potentiel de données personnelles d'un nombre important d'agents de l'Education nationale",
+    "Le système compromis ne contenait ni données bancaires, ni mots de passe, ni données relatives aux élèves"
+   ],
+   "qui": "Ministère de l'Education nationale",
+   "ou": "France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "ampleur exacte du vol",
+    "identité des auteurs"
+   ],
+   "importance": 75,
+   "empreinte": "83a2a31aebce4494",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T20:12:46.450394+00:00"
+  },
+  {
+   "faits": [
+    "Rapport d'une mission d'inspection interministérielle publié",
+    "Décontamination de l'eau potable des résidus de pesticides et PFAS pourrait coûter 1,3 à 5,7 milliards d'euros par an",
+    "Quatre scénarios de dépollution identifiés"
+   ],
+   "qui": "Mission d'inspection interministérielle française",
+   "ou": "France",
+   "categorie": "sante",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "f13fb871ada90c16",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T20:12:46.450396+00:00"
+  },
+  {
+   "faits": [
     "Paris accueille les championnats d'Europe de natation du 31 juillet au 16 août 2026",
     "C'est la première édition en France depuis 39 ans",
     "Léon Marchand participe à la compétition"
@@ -2977,6 +3097,30 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T15:06:15.582063+00:00"
+  },
+  {
+   "faits": [
+    "Lula (Luiz Inácio Lula da Silva), 80 ans, doit être officiellement investi ce dimanche comme candidat du Parti des travailleurs",
+    "Élection présidentielle brésilienne en octobre",
+    "Lula brigue un quatrième mandat",
+    "Contexte de forte polarisation politique",
+    "Son principal rival : Flávio Bolsonaro, fils de l'ancien président d'extrême droite Jair Bolsonaro"
+   ],
+   "qui": "Luiz Inácio Lula da Silva, Flávio Bolsonaro, Parti des travailleurs",
+   "ou": "Brésil",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "4d879b9e5be40454",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T20:12:46.449245+00:00"
   },
   {
    "faits": [
@@ -3145,191 +3289,48 @@
   },
   {
    "faits": [
-    "La série serbe « Opération Sabre » retrace l'assassinat du premier ministre Zoran Djindjic",
-    "La série retrace l'enquête qui a suivi cet assassinat",
-    "La série a attiré 1 million de spectateurs chaque semaine",
-    "La série a ravivé les débats sur la corruption, le nationalisme et l'héritage des années Milosevic"
+    "Administration Trump veut bloquer la nomination du futur ambassadeur français à Washington",
+    "L'irritation provient d'un tweet de la mission française à l'ONU accusant les États-Unis de ne plus être un phare des droits de l'homme",
+    "L'ambassadeur désigné est Aurélien Lechevallier"
    ],
-   "qui": "Producteurs de la série « Opération Sabre »",
-   "ou": "Serbie",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "803d14a458bd6e4b",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.411025+00:00"
-  },
-  {
-   "faits": [
-    "L'association Départements de France alerte sur les besoins croissants des sapeurs-pompiers",
-    "Les départements, premiers financeurs des pompiers, sont en mauvaise posture financière",
-    "L'association déclare : 'Nous avons atteint un point de rupture'",
-    "Les moyens des pompiers seraient 'à bout de souffle'"
-   ],
-   "qui": "Départements de France (association d'élus), sapeurs-pompiers",
-   "ou": "France",
+   "qui": "Administration Trump, France, Aurélien Lechevallier",
+   "ou": "Washington, États-Unis",
    "categorie": "politique",
-   "sensible": false,
-   "confiance": 85,
+   "sensible": true,
+   "confiance": 82,
    "sources": [
-    "Le Monde"
+    "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 60,
-   "empreinte": "51ca9ef42585e2f4",
+   "importance": 75,
+   "empreinte": "a68a1de09e6bf1e6",
    "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T15:06:15.582082+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump a annoncé un « deal historique » sur le désarmement du Hamas à Gaza",
-    "Ce deal doit être accompagné par un retrait militaire progressif de l'armée israélienne",
-    "À moins de trois mois des élections législatives, Israël reste sceptique"
-   ],
-   "qui": "Donald Trump, Hamas, Israël",
-   "ou": "Gaza, Israël",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 78,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "l'acceptation finale de cet accord par toutes les parties"
-   ],
-   "importance": 80,
-   "empreinte": "d5ea6d2a6ed8517b",
-   "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.410612+00:00"
+   "depuis": "2026-07-31T20:12:46.449108+00:00"
   },
   {
    "faits": [
-    "En Somalie, l'avenir de la mission AUSSOM (Union africaine pour la stabilisation) est incertain",
-    "Les États-Unis mettront fin à leur financement de l'AUSSOM d'ici fin 2026",
-    "La menace Shabab persiste",
-    "À la frontière avec l'Éthiopie, des civils continuent de fuir les violences"
+    "Macky Sall, ancien président sénégalais, candidat au poste de secrétaire général de l'ONU",
+    "Olara Otunnu, homme politique ougandais et ex-secrétaire général adjoint de l'ONU, également candidat",
+    "La règle tacite était que le prochain secrétaire général serait une femme originaire d'Amérique latine",
+    "Macky Sall et Olara Otunnu ont été largement désavoués lors d'un premier vote indicatif le 30 juillet"
    ],
-   "qui": "États-Unis, Union africaine, Shabab",
-   "ou": "Somalie, Éthiopie",
+   "qui": "Macky Sall, Olara Otunnu, Antonio Guterres, ONU",
+   "ou": "ONU",
    "categorie": "international",
    "sensible": true,
    "confiance": 85,
    "sources": [
-    "France 24"
+    "RFI"
    ],
-   "non_confirme": [
-    "le sort de la mission AUSSOM après la fin du financement américain"
-   ],
-   "importance": 65,
-   "empreinte": "62828687191e025f",
-   "score": 81,
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "596577c4d4990edc",
+   "score": 82,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.410632+00:00"
-  },
-  {
-   "faits": [
-    "Les profits cumulés des principaux groupes du CAC 40 ont bondi de près de 50 % au premier semestre",
-    "Presque tous les groupes ont vu leur activité croître",
-    "Cela survient malgré la guerre en Iran"
-   ],
-   "qui": "Groupes du CAC 40",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "5f4da7259215f96e",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.411028+00:00"
-  },
-  {
-   "faits": [
-    "Conseil constitutionnel valide la constitutionnalité des lois sanctionnant Airbnb",
-    "Après cinq ans de procédure",
-    "La communauté de communes de l'île d'Oléron remporte cette bataille",
-    "Une amende de 8,6 millions d'euros devrait être finalement payée"
-   ],
-   "qui": "Conseil constitutionnel, communauté de communes de l'île d'Oléron, Airbnb",
-   "ou": "Oléron",
-   "categorie": "justice",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "a192831f279f8621",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T16:54:51.631492+00:00"
-  },
-  {
-   "faits": [
-    "Haltérophile belge Sonita Muluh était proche d'un titre mondial en powerlifting en Lituanie en juin",
-    "Sa performance a été pénalisée par un assistant",
-    "L'assistant s'est revendiqué raciste et a déclaré avoir délibérément pénalisé sa performance"
-   ],
-   "qui": "Sonita Muluh (haltérophile belge), assistant non nommé",
-   "ou": "Lituanie",
-   "categorie": "sport",
-   "sensible": true,
-   "confiance": 78,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "f8e50792944612fb",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T16:54:51.630422+00:00"
-  },
-  {
-   "faits": [
-    "Jean Quatremer quitte le journal Libération",
-    "Jean Quatremer arrive au magazine Marianne",
-    "Les journalistes de Marianne affirment que Quatremer pourrait « tordre » l'ADN du magazine et « brusquer » ses lecteurs",
-    "La directrice de la rédaction Eve Szeftel assure que Quatremer « ne va exercer aucun rôle dans la direction de la rédaction, ni l'orientation du journal »",
-    "Quatremer « va exprimer une opinion »"
-   ],
-   "qui": "Jean Quatremer, Eve Szeftel, magazine Marianne",
-   "ou": "France",
-   "categorie": "culture",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "le rôle exact que Quatremer jouera à Marianne"
-   ],
-   "importance": 50,
-   "empreinte": "5443030d5ac3a544",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.411031+00:00"
+   "depuis": "2026-07-31T20:12:46.449278+00:00"
   }
  ],
  "publies_48h": [
