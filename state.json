@@ -2,15 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/cap-ferret-des-milliers-de-vacanciers-evacues-face-a-la-progression-des-flammes_8120636.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-le-peloton-gravit-le-col-du-noyer-avant-de-s-attaquer-aux-pentes-de-la-mythique-alpe-d-huez-suivez-la-19e-etape-avec-nous_8118983.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/un-feu-imprevisible-et-vorace-on-fait-le-recit-en-images-des-incendies-en-gironde-et-dans-les-landes_8120582.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/incendies-dans-le-sud-ouest-des-plans-blancs-declenches-dans-les-hopitaux-en-gironde-et-dans-les-landes_8120822.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/palestine/un-israelien-et-quatre-palestiniens-tues-dans-des-affrontements-en-cisjordanie-l-armee-israelienne-annonce-se-preparer-a-mener-une-vaste-operation-antiterroriste_8120618.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/proche-orient/guerre/direct-guerre-au-moyen-orient-nouvelles-frappes-de-l-armee-americaine-en-iran-pour-la-treizieme-nuit-consecutive_8120123.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/foot/can/coupe-d-afrique-des-nations-l-appel-du-senegal-declare-perdant-de-la-finale-2026-sur-tapis-vert-examine-par-le-tribunal-arbitral-du-sport-le-8-octobre_8120852.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-suivez-au-fil-des-heures-l-avancee-des-incendies-qui-ravagent-la-gironde-et-les-landes_8120696.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/espagne/c-est-une-catastrophe-19-000-personnes-evacuees-ou-confinees-dans-la-region-de-madrid-ou-sevit-le-pire-incendie-de-l-histoire-de-la-zone_8120666.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/impressionnant-tadej-pogacar-ec-ure-les-echappes-et-s-impose-brillamment-au-sommet-de-l-alpe-d-huez-a-l-issue-de-la-19e-etape-du-tour-de-france_8120942.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/sports/basket/nba/lebron-james-annonce-s-engager-a-philadelphie-a-41-ans-je-suis-vraiment-impatient-de-me-lancer-une-derniere-fois-dans-cette-incroyable-aventure_8120984.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/economie/info-franceinfo-l-unedic-alerte-sebastien-lecornu-sur-une-dette-aggravee-par-les-prelevements-de-l-etat_8121008.html#xtor=RSS-3-[lestitres]",
@@ -301,16 +292,18 @@
    "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/vaucluse/avignon/cinq-corps-de-bebes-retrouves-morts-la-mere-deferee-en-vue-de-sa-mise-en-examen-pour-meurtre-le-pere-libere-3394993.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/il-faut-que-l-etat-decide-de-ce-moratoire-les-petitions-se-multiplient-pour-reclamer-une-regle-nationale-sur-la-chasse-apres-les-incendies_8130107.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendie/des-esprits-malveillants-des-chats-errants-ont-ils-ete-tortures-pour-provoquer-des-incendies-en-italie_8128499.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/harcelement-sexuel/un-responsable-d-un-centre-periscolaire-pres-d-orleans-vise-par-une-plainte-pour-atteinte-sexuelle-sur-mineur-un-appel-a-temoignages-lance_8130065.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/societe/harcelement-sexuel/un-responsable-d-un-centre-periscolaire-pres-d-orleans-vise-par-une-plainte-pour-atteinte-sexuelle-sur-mineur-un-appel-a-temoignages-lance_8130065.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/natation/championnats-d-europe-de-natation/leon-marchand-au-rendez-vous-la-seine-de-retour-en-ecrin-apres-les-jo-ce-qu-il-faut-savoir-avant-le-debut-des-championnats-d-europe-de-natation-a-paris_8120330.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/medias/xenia-fedorova-denonce-une-pression-politique-apres-l-arrete-d-expulsion-et-le-gel-de-ses-avoirs-par-le-gouvernement_8130182.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/giovanni-infantino/menace-de-boycott-recours-juridiques-qu-est-ce-qui-pourrait-empecher-la-fifa-de-mener-a-bien-son-projet-de-vente-de-parts-de-la-coupe-du-monde_8130197.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-affirme-avoir-frappe-deux-petroliers-sous-escorte-aerienne-americaine-dans-le-detroit-d-ormuz_8130260.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/derriere-l-afflux-de-migrants-a-ceuta-l-espagne-soupconne-un-acte-de-coercition-politique-du-maroc_8130227.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/decouverte/vacances/la-circulation-sur-les-routes-sera-extremement-difficile-dans-le-sens-des-departs-en-vacances-samedi_8130221.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-gard-s-ajoutera-samedi-a-la-liste-des-21-departements-deja-places-en-vigilance-orange-canicule_8130290.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-trafic-ferroviaire-au-sud-de-bordeaux-reprendra-samedi-annonce-la-sncf_8130140.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/accord-trouve-entre-le-fonds-britannique-sparta-capital-et-les-girondins-de-bordeaux-pour-la-vente-du-club_8130158.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/planete/article/2026/07/19/apres-les-feux-le-lent-retour-de-la-foret-on-a-le-sentiment-qu-il-n-y-a-plus-du-tout-de-vie-mais-en-realite-il-y-en-a-encore_6725302_3244.html",
-   "https://www.lemonde.fr/international/article/2026/07/19/si-on-peut-aider-des-civils-a-ne-pas-se-faire-tuer-l-histoire-des-pecheurs-bretons-dont-les-filets-capturent-les-drones-russes-en-ukraine_6725309_3210.html",
-   "https://www.lemonde.fr/sciences/article/2026/07/19/la-division-du-travail-chez-les-fourmis-livre-ses-secrets_6725304_1650684.html",
-   "https://www.lemonde.fr/le-monde-des-religions/article/2026/07/19/la-bible-un-livre-terrifiant-trois-recits-effrayants-du-texte-sacre-des-juifs-et-des-chretiens_6725310_6038514.html",
-   "https://www.lemonde.fr/series-d-ete/article/2026/07/19/certaines-blessures-n-ont-pas-ete-refermees-le-difficile-travail-de-memoire-des-cambodgiens-d-annonay_6725305_3451060.html",
-   "https://www.lemonde.fr/international/article/2026/07/19/l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-aux-etats-unis-a-la-demande-du-royaume-uni-qui-reclame-leur-extradition_6725297_3210.html",
-   "https://www.lemonde.fr/planete/article/2026/07/19/incendies-a-fontainebleau-le-dispositif-des-pompiers-allege-apres-une-stabilisation-de-la-situation_6725132_3244.html",
    "https://www.lemonde.fr/un-si-proche-orient/article/2026/07/19/netanyahou-considere-toujours-comme-des-heros-les-poseurs-de-bombes-de-l-hotel-king-david-en-1946-a-jerusalem_6725413_6116995.html",
    "https://www.lemonde.fr/international/article/2026/07/19/a-gaza-des-frappes-israeliennes-tuent-onze-personnes-dont-trois-enfants-annonce-la-defense-civile_6725264_3210.html",
    "https://www.lemonde.fr/sport/article/2026/07/20/apres-des-semaines-dans-l-ombre-donald-trump-prend-la-lumiere-sous-les-huees-lors-de-la-finale-de-la-coupe-du-monde-2026_6726877_3242.html",
@@ -603,13 +596,16 @@
    "https://www.lemonde.fr/politique/article/2026/07/31/marine-tondelier-exige-des-excuses-publiques-apres-avoir-ete-insultee-sur-facebook-par-un-responsable-de-la-fnsea_6737126_823448.html",
    "https://www.lemonde.fr/sport/article/2026/07/31/malgre-la-pression-la-fifa-souhaite-poursuivre-son-plan-d-ouverture-aux-investisseurs-prives_6737109_3242.html",
    "https://www.lemonde.fr/politique/article/2026/07/31/chantier-de-la-basilique-saint-denis-apres-l-election-de-stephane-bern-bally-bagayoko-denonce-une-rupture-inedite_6737122_823448.html",
-   "https://www.lemonde.fr/afrique/article/2026/07/31/la-rdc-annonce-avoir-negocie-la-reddition-des-fdlr-dans-l-est-point-d-achoppement-du-processus-de-paix-avec-le-rwanda_6737101_3212.html"
+   "https://www.lemonde.fr/afrique/article/2026/07/31/la-rdc-annonce-avoir-negocie-la-reddition-des-fdlr-dans-l-est-point-d-achoppement-du-processus-de-paix-avec-le-rwanda_6737101_3212.html",
+   "https://www.lemonde.fr/politique/article/2026/07/31/les-moyens-des-pompiers-sont-a-bout-de-souffle-le-financement-de-la-securite-civile-en-question_6737107_823448.html",
+   "https://www.lemonde.fr/international/article/2026/07/31/avec-l-argent-europeen-kiev-multiplie-les-acquisitions-d-equipements-militaires-de-derniere-generation_6737086_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/31/ce-que-vivent-les-palestiniens-en-cisjordanie-occupee-depasse-la-violence-ordinaire-et-correspond-exactement-a-la-definition-du-terrorisme_6737138_3210.html",
+   "https://www.lemonde.fr/international/article/2026/07/31/apres-l-arabie-saoudite-la-coree-du-sud-demande-elle-aussi-aux-etats-unis-d-avoir-le-droit-d-enrichir-de-l-uranium_6737144_3210.html",
+   "https://www.lemonde.fr/argent/article/2026/07/31/ou-acheter-en-france-pour-beneficier-d-une-vie-culturelle-riche_6737089_1657007.html",
+   "https://www.lemonde.fr/international/article/2026/07/31/la-slovaquie-refuse-d-enregistrer-les-mariages-homosexuels-conclus-a-l-etranger_6737145_3210.html",
+   "https://www.lemonde.fr/afrique/article/2026/07/31/ebola-en-rdc-plus-de-3-500-cas-recenses-en-quelques-mois-plus-que-lors-de-l-epidemie-la-plus-meurtriere-de-l-histoire-du-pays_6737141_3212.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/nice/la-mortalite-routiere-en-hausse-au-mois-de-juin-dans-le-departement-des-alpes-maritimes-20260723",
-   "https://www.lefigaro.fr/bordeaux/c-est-comme-une-guerre-en-gironde-aux-cotes-des-pompiers-qui-luttent-contre-un-incendie-imprevisible-menacant-la-presqu-ile-du-cap-ferret-20260723",
-   "https://www.lefigaro.fr/meteo/jusqu-a-400c-dans-le-sud-ouest-un-risque-d-incendie-encore-eleve-decouvrez-la-meteo-du-vendredi-24-juillet-20260723",
-   "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260723",
    "https://avis-vin.lefigaro.fr/terroir-viticulture/on-ne-peut-plus-rester-les-bras-croises-dans-les-pyrenees-orientales-l-appel-des-vignerons-pour-planter-des-vignes-coupe-feu-20241119",
    "https://www.lefigaro.fr/faits-divers/malhonnetes-et-empreints-d-une-grande-perversion-l-amant-de-delphine-jubillar-sort-du-silence-et-balaye-les-aveux-de-cedric-jubillar-20260723",
    "https://www.lefigaro.fr/faits-divers/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-juge-20260721",
@@ -905,7 +901,11 @@
    "https://www.lefigaro.fr/international/c-est-une-invasion-toutes-les-limites-ont-ete-franchies-la-classe-politique-europeenne-inquiete-et-en-colere-devant-la-vague-migratoire-massive-de-ceuta-20260731",
    "https://www.lefigaro.fr/international/ceuta-la-politique-de-l-espagne-risque-t-elle-de-declencher-une-vague-migratoire-en-europe-20260731",
    "https://www.lefigaro.fr/sciences/apres-les-incendies-des-landes-et-de-la-gironde-comment-faire-renaitre-la-foret-20260731",
-   "https://www.lefigaro.fr/societes/incendies-totalenergies-va-payer-la-facture-de-carburant-des-pompiers-francais-pour-tout-l-ete-20260731"
+   "https://www.lefigaro.fr/societes/incendies-totalenergies-va-payer-la-facture-de-carburant-des-pompiers-francais-pour-tout-l-ete-20260731",
+   "https://www.lefigaro.fr/international/l-italie-ne-restera-pas-les-bras-croises-derriere-l-afflux-migratoire-a-ceuta-une-crise-diplomatique-ouverte-entre-madrid-et-rome-20260731",
+   "https://www.lefigaro.fr/international/l-accord-de-schengen-peut-il-vraiment-etre-suspendu-avec-l-espagne-comme-le-demande-l-italie-20260731",
+   "https://www.lefigaro.fr/international/en-2021-des-milliers-de-migrants-deferlaient-deja-sur-ceuta-a-la-faveur-d-un-relachement-des-controles-marocains-20260731",
+   "https://www.lefigaro.fr/international/vague-migratoire-massive-a-ceuta-donald-trump-evoque-des-images-terribles-20260731"
   ],
   "https://www.france24.com/fr/rss": [
    "a0d3787a-85fc-11f1-81c3-fda11fdbb396",
@@ -2636,6 +2636,36 @@
   },
   {
    "faits": [
+    "Environ 60 000 migrants sont entrés illégalement à Ceuta en 24 heures",
+    "L'Espagne soupçonne une tentative de coercition politique de la part du Maroc",
+    "Ceuta a une population de 85 000 habitants pour 20 km²",
+    "L'Espagne soupçonne un lien avec son rapprochement avec l'Algérie",
+    "Giorgia Meloni réclame une suspension de l'Espagne de l'espace Schengen",
+    "L'Italie estime que l'accord de Schengen peut être suspendu",
+    "Des tensions diplomatiques se creusent entre Madrid et Rome"
+   ],
+   "qui": "Espagne, Maroc, Italie, migrants",
+   "ou": "Ceuta (enclave espagnole au Maroc)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "franceinfo",
+    "Le Figaro"
+   ],
+   "non_confirme": [
+    "intention précise du Maroc",
+    "effectif exact des migrants"
+   ],
+   "importance": 90,
+   "empreinte": "b43e9c0dc68f1c8b",
+   "score": 99,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-31T15:06:15.582041+00:00"
+  },
+  {
+   "faits": [
     "Plus de 60 000 migrants ont traversé la frontière vers Ceuta en quelques heures",
     "34 migrants sont morts selon le président de l'enclave espagnole Juan Jesus Vivas",
     "La population locale de Ceuta est estimée à environ 85 000 habitants",
@@ -2694,29 +2724,26 @@
   },
   {
    "faits": [
-    "Le Hamas et Israël ont annoncé un accord sur la deuxième phase de leur trêve",
-    "L'accord lie le désarmement du Hamas au retrait israélien de la bande de Gaza",
-    "Donald Trump a qualifié cet accord d'étape monumentale",
-    "Selon le Hamas, si Israël n'applique pas l'accord, le mouvement ne le fera pas non plus"
+    "En RDC, plus de 3 500 cas d'Ebola ont été confirmés en quelques mois",
+    "C'est plus que lors de l'épidémie la plus meurtrière de l'histoire du pays",
+    "3 532 cas confirmés dans cinq provinces du pays",
+    "1 556 personnes sont mortes parmi ces 3 532 cas"
    ],
-   "qui": "Hamas, Israël, Donald Trump",
-   "ou": "Gaza, Moyen-Orient",
-   "categorie": "international",
+   "qui": "Autorités congolaises, population RDC",
+   "ou": "RDC (République démocratique du Congo), cinq provinces",
+   "categorie": "sante",
    "sensible": true,
-   "confiance": 85,
+   "confiance": 90,
    "sources": [
-    "franceinfo",
-    "Le Figaro"
+    "Le Monde"
    ],
-   "non_confirme": [
-    "Les détails précis de mise en œuvre de l'accord"
-   ],
-   "importance": 82,
-   "empreinte": "8875c6b7c73eb1e3",
-   "score": 96,
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "2bf4a127f3ae64be",
+   "score": 89,
    "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-31T07:41:37.960427+00:00"
+   "nb_sources": 1,
+   "depuis": "2026-07-31T15:06:15.582047+00:00"
   },
   {
    "faits": [
@@ -2766,6 +2793,28 @@
   },
   {
    "faits": [
+    "22 départements seront en vigilance orange 'canicule' samedi",
+    "Le Gard s'ajoute aux 21 départements déjà placés en vigilance orange canicule",
+    "10 départements sont en vigilance orange aux orages vendredi après-midi"
+   ],
+   "qui": "Météo France",
+   "ou": "France (22 départements)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 70,
+   "empreinte": "00720fadbe971364",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T15:06:15.582056+00:00"
+  },
+  {
+   "faits": [
     "Des habitants de Biganos et d'Audenge (Gironde) ont été autorisés à réintégrer leur commune",
     "Ces deux communes s'ajoutent à douze autres pour lesquelles des mesures de réintégration ont déjà été prises",
     "Les résidents de campings, résidences de tourisme et villages vacances de Lacanau ont également été autorisés à revenir",
@@ -2811,28 +2860,6 @@
   },
   {
    "faits": [
-    "Antoni Lallican, photojournaliste français, a été tué en Ukraine",
-    "Il a reçu la Légion d'honneur à titre posthume",
-    "Le reporter accompagnait une unité militaire près du front"
-   ],
-   "qui": "Antoni Lallican (photojournaliste français)",
-   "ou": "Ukraine",
-   "categorie": "deces_personnalite",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "174719bc1206d50b",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T07:41:37.960430+00:00"
-  },
-  {
-   "faits": [
     "L'Iran a mené une attaque présentée comme 'préventive' le 29 juillet contre les forces américaines en Jordanie",
     "Cette action marque une inflexion : l'Iran sort de la logique de représailles aux frappes américaines",
     "Le conflit s'élargit géographiquement",
@@ -2855,6 +2882,50 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T12:31:06.807356+00:00"
+  },
+  {
+   "faits": [
+    "Paris accueille les championnats d'Europe de natation du 31 juillet au 16 août 2026",
+    "C'est la première édition en France depuis 39 ans",
+    "Léon Marchand participe à la compétition"
+   ],
+   "qui": "Léon Marchand, fédération européenne de natation",
+   "ou": "Paris, France",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "c234428be1fee815",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T15:06:15.582061+00:00"
+  },
+  {
+   "faits": [
+    "L'Ukraine commande des équipements militaires de dernière génération grâce au prêt de 90 milliards d'euros de l'UE",
+    "Les acquisitions incluent des avions de chasse et des systèmes antiaériens",
+    "Les pays européens ne sont pas capables de fournir tous les matériels nécessaires"
+   ],
+   "qui": "Ukraine, Union européenne",
+   "ou": "Ukraine, Europe",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "1bdfb6b538ce51e0",
+   "score": 85,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T15:06:15.582063+00:00"
   },
   {
    "faits": [
@@ -2926,6 +2997,80 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T10:23:46.401976+00:00"
+  },
+  {
+   "faits": [
+    "L'Iran affirme avoir frappé deux pétroliers sous escorte aérienne américaine dans le détroit d'Ormuz",
+    "Les hostilités au Moyen-Orient ont repris entre les Etats-Unis et l'Iran depuis mercredi (29 juillet 2026)"
+   ],
+   "qui": "Iran, États-Unis",
+   "ou": "Détroit d'Ormuz, Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 80,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "dégâts causés aux pétroliers",
+    "victimes éventuelles"
+   ],
+   "importance": 85,
+   "empreinte": "f4af9dfc806c0a47",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T15:06:15.580546+00:00"
+  },
+  {
+   "faits": [
+    "La Fifa et Gianni Infantino ont annoncé un projet de création d'une filiale commerciale",
+    "Cette filiale vendrait des parts de la Coupe du monde à des investisseurs privés",
+    "Le projet est vivement critiqué",
+    "Des menaces de boycott et des recours juridiques pourraient empêcher sa réalisation"
+   ],
+   "qui": "Fifa, Gianni Infantino",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "si le projet sera finalement bloqué"
+   ],
+   "importance": 70,
+   "empreinte": "1d8676c966b62e4c",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T15:06:15.582070+00:00"
+  },
+  {
+   "faits": [
+    "La Corée du Sud demande aux États-Unis le droit d'enrichir de l'uranium",
+    "Washington vient d'annoncer un accord autorisant l'Arabie saoudite à se doter de ses propres moyens d'enrichissement",
+    "Washington refuse toujours ce droit à la Corée du Sud",
+    "Séoul justifie sa demande par des besoins énergétiques croissants et le développement de sous-marins à propulsion nucléaire"
+   ],
+   "qui": "Corée du Sud, États-Unis, Arabie saoudite",
+   "ou": null,
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "issue de la demande sud-coréenne"
+   ],
+   "importance": 70,
+   "empreinte": "e2bac640acd3654a",
+   "score": 84,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T15:06:15.582071+00:00"
   },
   {
    "faits": [
@@ -3023,6 +3168,27 @@
   },
   {
    "faits": [
+    "La Slovaquie refuse d'enregistrer les mariages homosexuels conclus à l'étranger",
+    "La Cour de justice de l'Union européenne avait conclu en novembre 2025 que tout pays de l'UE était tenu de reconnaître une union entre personnes de même sexe conclue dans un autre État membre"
+   ],
+   "qui": "Slovaquie, Cour de justice de l'Union européenne",
+   "ou": "Slovaquie, Union européenne",
+   "categorie": "politique",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "320b207a747974bb",
+   "score": 83,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T15:06:15.582079+00:00"
+  },
+  {
+   "faits": [
     "Les pompiers de Gironde ont déposé plainte pour arnaques et fausses collectes de dons",
     "Des imposteurs font du porte-à-porte à bord d'anciens camions du Sdis",
     "Il n'y a pas de collecte officielle émanant des sapeurs-pompiers de la Gironde"
@@ -3069,6 +3235,29 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T10:23:46.401700+00:00"
+  },
+  {
+   "faits": [
+    "L'association Départements de France alerte sur les besoins croissants des sapeurs-pompiers",
+    "Les départements, premiers financeurs des pompiers, sont en mauvaise posture financière",
+    "L'association déclare : 'Nous avons atteint un point de rupture'",
+    "Les moyens des pompiers seraient 'à bout de souffle'"
+   ],
+   "qui": "Départements de France (association d'élus), sapeurs-pompiers",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "51ca9ef42585e2f4",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T15:06:15.582082+00:00"
   },
   {
    "faits": [
@@ -3137,194 +3326,6 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-31T12:31:06.808497+00:00"
-  },
-  {
-   "faits": [
-    "Le conseiller principal de Gianni Infantino à la Fifa démissionne",
-    "La démission concerne un désaccord avec le projet de vente de parts de la Coupe du monde",
-    "La Fifa envisage de créer une filiale commerciale pour gérer les droits commerciaux de la Coupe du monde",
-    "Des parts de cette filiale seraient vendues à des investisseurs privés"
-   ],
-   "qui": "Gianni Infantino, conseiller principal de la Fifa (non nommé)",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "17791bcd091d6170",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401980+00:00"
-  },
-  {
-   "faits": [
-    "La confédération asiatique s'oppose au projet de la Fifa d'ouverture aux investisseurs privés pour la Coupe du monde",
-    "L'UEFA et la Concacaf soutiennent cette opposition",
-    "La confédération asiatique a publié un communiqué d'opposition"
-   ],
-   "qui": "Confédération asiatique, UEFA, Concacaf",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "23b09940c5926808",
-   "score": 81,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401983+00:00"
-  },
-  {
-   "faits": [
-    "La Fifa maintient son projet de création d'une société commerciale ouverte aux investisseurs étrangers",
-    "L'UEFA a annoncé un boycott des prochaines Coupes du monde de football en réaction",
-    "Le projet a suscité des critiques"
-   ],
-   "qui": "Fifa, UEFA",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 86,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "f6321cabca62ae3d",
-   "score": 81,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T07:41:37.960439+00:00"
-  },
-  {
-   "faits": [
-    "Téhéran affirme avoir visé des infrastructures américaines au Koweït",
-    "L'attaque d'infrastructures militaires de la base aérienne d'Al-Ahmad Al-Jaber, au Koweït, est revendiquée par Téhéran",
-    "Aucun bombardement américain n'a été signalé en Iran durant la nuit",
-    "L'attaque n'a pas été confirmée par les autorités koweïtiennes"
-   ],
-   "qui": "Téhéran, autorités koweïtiennes, États-Unis",
-   "ou": "Koweït, Iran, base aérienne d'Al-Ahmad Al-Jaber",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 75,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Confirmation officielle de l'attaque par les autorités koweïtiennes",
-    "Ampleur réelle des dégâts"
-   ],
-   "importance": 75,
-   "empreinte": "0ab045cb3b06c85d",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401654+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump affirme ne pas avoir décidé d'autoriser la production de missiles Patriot en Ukraine",
-    "Cette déclaration intervient deux jours après une rencontre avec Volodymyr Zelensky à la Maison Blanche",
-    "Zelensky avait déclaré après cette rencontre que Washington était prêt à délivrer les licences nécessaires"
-   ],
-   "qui": "Donald Trump, Volodymyr Zelensky",
-   "ou": "Maison Blanche, Ukraine",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Décision définitive de Trump sur l'autorisation de production de missiles Patriot"
-   ],
-   "importance": 75,
-   "empreinte": "b395a2d9ce5c5d4f",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401986+00:00"
-  },
-  {
-   "faits": [
-    "Près de 18% des fumeurs reconnaissent jeter leur mégot par la fenêtre sur l'autoroute",
-    "Un sondage de la Fondation Vinci Autoroutes a publié cette étude le vendredi",
-    "Le constat est qualifié d'« alarmant »"
-   ],
-   "qui": "Fondation Vinci Autoroutes",
-   "ou": "France, autoroutes",
-   "categorie": "autre",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "bca8dfbd2c791fff",
-   "score": 80,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T10:23:46.401987+00:00"
-  },
-  {
-   "faits": [
-    "Latécoère s'associe à Hynaero pour développer un avion bombardier d'eau français",
-    "Hynaero est basée à Istres près de Marseille",
-    "Le projet porte sur le Fregate-F100",
-    "L'objectif est une entrée en service en 2031"
-   ],
-   "qui": "Latécoère, Hynaero",
-   "ou": "France (Istres)",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "934c3952ed0e7eff",
-   "score": 80,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T07:41:37.960442+00:00"
-  },
-  {
-   "faits": [
-    "La RDC annonce avoir négocié la reddition des FDLR",
-    "Un protocole d'accord sur la reddition du groupe armé a été annoncé",
-    "Les FDLR sont un point d'achoppement du processus de paix avec le Rwanda",
-    "Kinshasa veut mettre Kigali au pied du mur avec cette annonce",
-    "Kinshasa cherche à montrer au médiateur américain que les engagements pris sont respectés"
-   ],
-   "qui": "RDC (République Démocratique du Congo), Rwanda, FDLR (groupe armé)",
-   "ou": "Est de la RDC, Rwanda",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 78,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Caractère contraignant et effectivité du protocole d'accord annoncé"
-   ],
-   "importance": 62,
-   "empreinte": "f8c1a4d26f17bb12",
-   "score": 79,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T12:31:06.807500+00:00"
   }
  ],
  "publies_48h": [
