@@ -9526,3 +9526,46 @@
 {"decision": "controle", "evt": "d304d9e03bbed438", "motif": "ok_sim_0.11", "ts": "2026-07-31T01:18:45+00:00"}
 {"decision": "publie", "empreinte": "b8dccc5f498627b3", "post_id": "2082999377744797808", "carte": true, "texte": "⚽ John Textor, ancien président de l'OL, assigne le club devant le tribunal de commerce de Lyon et réclame 20 millions d'euros. L'homme d'affaires a été évincé après de graves problèmes budgétaires. (Le Monde, L'Équipe)", "ts": "2026-07-31T01:18:46+00:00"}
 {"decision": "publie", "empreinte": "5a546bcc2db4921d", "post_id": "2082999394396201464", "carte": true, "texte": "L'Italie menace de suspendre l'Espagne de l'espace Schengen après l'arrivée de migrants à Ceuta. Madrid convoque l'ambassadeur italien et dénonce la « démagogie » de Rome. (franceinfo)", "ts": "2026-07-31T01:18:50+00:00"}
+{"decision": "abandon_attente", "evt": "959f0e798249b03a", "categorie": "international", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "761e38d667694687", "categorie": "meteo_catastrophe", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "6e3b221641ed6c90", "categorie": "meteo_catastrophe", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "6d1240b8d6b0bb39", "categorie": "meteo_catastrophe", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "b4c2b76127bcaac1", "categorie": "economie", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "54dc81967609ea2d", "categorie": "politique", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "bb5cbed365ece222", "categorie": "meteo_catastrophe", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "74825926cf2b3ab8", "categorie": "justice", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "372ac549febd619a", "categorie": "international", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "72dc9d6437349eed", "categorie": "autre", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "df19d179de7ad852", "categorie": "sport", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "abandon_attente", "evt": "568ce71a06b904a7", "categorie": "meteo_catastrophe", "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "98a80c1783f4ff29", "score": 100, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 95, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "daea31d10fe612b3", "score": 100, "categorie": "international", "sensible": true, "confiance": 92, "sources": ["franceinfo", "France 24", "RFI"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "8bb9903595f122f0", "score": 97, "categorie": "faits_divers", "sensible": true, "confiance": 95, "sources": ["Le Monde", "Ouest-France"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "df93ae18d2bf403a", "score": 85, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "30424bfa3b1be431", "score": 96, "categorie": "sciences", "sensible": false, "confiance": 90, "sources": ["Le Monde", "France 24"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "19656de54f6cedff", "score": 82, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "09423c7e8091dc56", "score": 86, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "aec0aad8443f0b3f", "score": 81, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "attente", "evt": "df352c2f193e96bf", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "ccaf4fb0c2b85995", "score": 79, "categorie": "politique", "sensible": false, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "4a8293d816231908", "score": 77, "categorie": "sport", "sensible": false, "confiance": 78, "sources": ["franceinfo"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "7fc1d70d1f4bc5e8", "score": 76, "categorie": "politique", "sensible": false, "confiance": 75, "sources": ["Le Figaro"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "871e5eff83dd4824", "score": 76, "categorie": "economie", "sensible": false, "confiance": 75, "sources": ["RFI"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "791408b04e51cb02", "score": 89, "categorie": "international", "sensible": true, "confiance": 72, "sources": ["Le Figaro", "France 24", "Ouest-France"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "21fc1fb2f9062d12", "score": 87, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "c55c92ad16ce4f8e", "score": 84, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "a129b98344a17182", "score": 82, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "0a8368af2d1304c2", "score": 80, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "573b7213168685fa", "score": 79, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "ba0428ad45647f3a", "score": 79, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "1a824c6ef45a3c7f", "score": 78, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "77a4b9810a2f4ea6", "score": 77, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["L'Équipe"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "attente", "evt": "3683a9dd8a1f0022", "score": 76, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "publier", "evt": "9368fdafab869932", "score": 75, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "attente", "evt": "4236fa67d97d87ce", "score": 71, "categorie": "politique", "sensible": false, "confiance": 75, "sources": ["20 Minutes"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "attente", "evt": "6b60976d9eb5fec3", "score": 70, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 70, "sources": ["BFMTV"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "attente", "evt": "3987e6f66e510c6c", "score": 66, "categorie": "international", "sensible": false, "confiance": 65, "sources": ["20 Minutes"], "ts": "2026-07-31T04:48:50+00:00"}
+{"decision": "controle", "evt": "98a80c1783f4ff29", "motif": "ok_sim_0.36", "ts": "2026-07-31T04:48:56+00:00"}
+{"decision": "controle", "evt": "daea31d10fe612b3", "motif": "ok_sim_0.41", "ts": "2026-07-31T04:49:03+00:00"}
+{"decision": "publie", "empreinte": "b57e824c43c0b524", "post_id": "2083052300495401008", "carte": true, "texte": "🇫🇷 Un incendie ravage la Gironde depuis neuf jours, dévastant 42 000 hectares. La commune du Porge, épicentre du sinistre avec 3 500 habitants, s'interroge sur son avenir. Un centre opérationnel coordonne les opérations à Bordeaux. (franceinfo)", "ts": "2026-07-31T04:49:04+00:00"}
+{"decision": "publie", "empreinte": "6dd6209f4c4c0fd8", "post_id": "2083052317469770125", "carte": true, "texte": "🇺🇸 Donald Trump annonce un accord sur le désarmement du Hamas et le retrait israélien de Gaza. Le Hamas confirme cet accord, qui marque la deuxième phase de la trêve entre les deux parties. (franceinfo, France 24, RFI)", "ts": "2026-07-31T04:49:08+00:00"}

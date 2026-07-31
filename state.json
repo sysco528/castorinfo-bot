@@ -2,11 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/faits-divers/un-mineur-etranger-mis-en-examen-et-ecroue-pour-le-viol-d-une-octogenaire-a-rennes_8119790.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/justice/en-charente-maritime-la-justice-ordonne-le-demantelement-de-quatre-bassines-d-ici-3-ans_8119850.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-enquete-ouverte-contre-un-agent-du-secret-service-de-j-d-vance-pour-fuite-presumee-d-informations_8119859.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/justice/une-enquete-ouverte-a-paris-contre-le-reseau-libertin-wyylde-soupconne-d-avoir-ete-utilise-dans-une-affaire-de-viols-collectifs-filmes-en-gironde_8119871.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/justice/soupconne-de-faire-partie-de-la-flotte-fantome-russe-le-petrolier-immobilise-a-marseille-autorise-a-repartir-apres-paiement-d-une-amende_8119811.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/face-aux-incendies-emmanuel-macron-demande-l-activation-du-mecanisme-de-protection-civile-de-l-ue-des-renforts-aeriens-europeens-attendus-rapidement_8119946.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-comparez-l-ampleur-de-la-surface-brulee-cette-annee-par-les-incendies-avec-la-taille-de-votre-commune_8117633.html#xtor=RSS-3-[lestitres]",
@@ -301,15 +296,14 @@
    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/apres-les-incendies-144-000-habitants-des-communes-evacuees-sont-de-retour-chez-eux-en-gironde_8129063.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/italie/l-italie-veut-suspendre-l-espagne-de-l-espace-schengen-apres-que-des-centaines-de-migrants-sont-arrives-a-ceuta-madrid-denonce-la-demagogie-de-rome_8129171.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/les-efforts-qui-sont-menes-depuis-plusieurs-jours-commencent-a-payer-declare-le-porte-parole-de-la-securite-civile-a-propos-de-la-lutte-contre-les-flammes-en-gironde_8129123.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/dans-les-landes-l-incendie-de-biscarrosse-est-maitrise_8129201.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/dans-les-landes-l-incendie-de-biscarrosse-est-maitrise_8129201.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/faits-divers/incendie/reportage-c-est-fini-pour-nous-on-part-au-porge-epicentre-du-gigantesque-incendie-en-gironde-la-douloureuse-question-de-l-apres_8128640.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/palestine/gaza/treve-a-gaza-donald-trump-annonce-un-accord-sur-le-desarmement-du-hamas-et-le-retrait-des-troupes-israeliennes-le-mouvement-palestinien-confirme_8129429.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/societe/demarchage-telephonique-prix-de-l-electricite-taux-des-livrets-d-epargne-ce-va-changer-au-mois-d-aout_8125109.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/tour-de-france/femmes/ferrand-prevot-kerbaol-squiban-gery-d-ou-vient-la-densite-de-talents-tricolores-sur-le-tour-de-france-femmes-2026_8124266.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/il-faut-abandonner-le-soleil-du-portugal-pour-soutenir-la-gironde-apres-les-incendies-appelle-l-union-des-entreprises-de-proximite_8129426.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/international/article/2026/07/17/donald-trump-livre-un-discours-aux-accents-complotistes-sur-la-vulnerabilite-du-systeme-electoral-americain-et-accuse-la-chine-d-ingerence_6724151_3210.html",
-   "https://www.lemonde.fr/planete/article/2026/07/17/au-dela-des-dommages-faits-a-la-foret-le-feu-de-fontainebleau-suscite-une-profonde-tristesse_6724121_3244.html",
-   "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-les-attaques-americaines-de-la-nuit-en-iran-ont-fait-huit-morts-et-20-blesses_6722873_3210.html",
-   "https://www.lemonde.fr/politique/article/2026/07/17/presidentielle-2027-entre-une-fidelite-contrariee-a-leur-parti-et-la-tentation-edouard-philippe-les-ministres-lr-cherchent-leur-place_6724083_823448.html",
-   "https://www.lemonde.fr/pixels/article/2026/07/17/les-liens-troubles-avec-la-russie-d-un-gestionnaire-de-mots-de-passe-europeen_6724124_4408996.html",
-   "https://www.lemonde.fr/pixels/article/2026/07/17/xi-jinping-appelle-a-une-cooperation-mondiale-sur-l-ia-avec-une-approche-centree-sur-l-humain_6724134_4408996.html",
    "https://www.lemonde.fr/societe/article/2026/07/17/protection-de-l-enfance-l-assemblee-nationale-adopte-le-controle-d-honorabilite-pour-tous-les-adultes-en-contact-avec-des-mineurs-et-la-creation-d-une-liste-noire_6724142_3224.html",
    "https://www.lemonde.fr/politique/article/2026/07/17/gel-des-retraites-agirc-arrco-la-cfe-cgc-et-la-cgt-saisissent-la-justice_6724137_823448.html",
    "https://www.lemonde.fr/sport/article/2026/07/17/mondial-2026-la-fifa-annonce-une-enquete-apres-la-banderole-sur-les-malouines-brandie-par-des-joueurs-argentins_6723983_3242.html",
@@ -603,11 +597,15 @@
    "https://www.lemonde.fr/international/article/2026/07/31/bande-de-gaza-donald-trump-annonce-un-accord-sur-le-desarmement-du-hamas_6737076_3210.html",
    "https://www.lemonde.fr/international/article/2026/07/31/un-afflux-massif-de-migrants-a-ceuta-ravive-les-tensions-entre-madrid-et-rabat_6737073_3210.html",
    "https://www.lemonde.fr/international/article/2026/07/31/la-nomination-du-futur-ambassadeur-de-france-a-washington-compromise-par-les-humeurs-de-l-administration-trump_6737075_3210.html",
-   "https://www.lemonde.fr/sport/article/2026/07/31/john-textor-ancien-president-de-l-ol-reclame-20-millions-d-euros-a-la-nouvelle-direction-du-club_6737074_3242.html"
+   "https://www.lemonde.fr/sport/article/2026/07/31/john-textor-ancien-president-de-l-ol-reclame-20-millions-d-euros-a-la-nouvelle-direction-du-club_6737074_3242.html",
+   "https://www.lemonde.fr/planete/article/2026/07/31/incendie-en-gironde-a-la-prefecture-de-bordeaux-une-gestion-de-crise-jour-et-nuit_6737084_3244.html",
+   "https://www.lemonde.fr/sport/article/2026/07/31/en-menacant-la-fifa-de-boycott-de-la-coupe-du-monde-l-uefa-met-sous-pression-gianni-infantino_6737079_3242.html",
+   "https://www.lemonde.fr/pixels/article/2026/07/31/anthropic-des-modeles-d-ia-ont-accede-sans-autorisation-aux-systemes-d-autres-organisations_6737077_4408996.html",
+   "https://www.lemonde.fr/outre-mer/article/2026/07/31/guadeloupe-un-batiment-en-travaux-s-effondre-a-pointe-a-pitre-tuant-un-ouvrier_6737078_1840826.html",
+   "https://www.lemonde.fr/sport/article/2026/07/31/avalanche-au-pakistan-nirmal-purja-et-neuf-alpinistes-portes-disparus-sur-le-broad-peak_6737096_3242.html",
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/30/reinhold-messner-le-collectionneur-apres-les-quatorze-sommets-de-plus-de-8-000-metres-sept-chateaux-et-musees-a-son-nom_6737036_3451060.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/guerre-en-ukraine-lavrov-met-en-garde-rubio-contre-des-livraisons-inadmissibles-d-armes-americaines-20260723",
-   "https://www.lefigaro.fr/elections/stature-presidentielle-francois-hollande-prend-le-pouvoir-a-gauche-20260723",
    "https://www.lefigaro.fr/nantes/nantes-un-nouvel-incendie-ravage-un-campement-rom-aux-portes-de-la-ville-8-hectares-brules-20260723",
    "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260714",
    "https://www.lefigaro.fr/faits-divers/meurtre-de-thomas-a-crepol-la-circonstance-aggravante-de-racisme-finalement-retenue-par-les-juges-20260723",
@@ -905,11 +903,11 @@
    "https://www.lefigaro.fr/placement/comment-tirer-des-revenus-de-sa-residence-principale-sans-la-vendre-20260730",
    "https://immobilier.lefigaro.fr/article/ou-acheter-une-residence-secondaire-dans-les-cevennes-decouvrez-notre-classement-20260730",
    "https://www.lefigaro.fr/international/donald-trump-annonce-un-accord-sur-le-desarmement-complet-du-hamas-a-gaza-20260731",
-   "https://www.lefigaro.fr/international/des-hauts-places-du-hamas-confirment-un-accord-sur-les-armes-du-mouvement-et-le-retrait-graduel-d-israel-de-gaza-20260731"
+   "https://www.lefigaro.fr/international/des-hauts-places-du-hamas-confirment-un-accord-sur-les-armes-du-mouvement-et-le-retrait-graduel-d-israel-de-gaza-20260731",
+   "https://www.lefigaro.fr/international/voici-ce-qui-se-passait-sous-biden-la-maison-blanche-utilise-des-images-des-migrants-a-ceuta-pour-defendre-sa-politique-20260731",
+   "https://www.lefigaro.fr/international/maroc-des-centaines-de-personnes-en-route-pour-la-frontiere-avec-l-enclave-espagnole-de-ceuta-20260730"
   ],
   "https://www.france24.com/fr/rss": [
-   "df572e92-85e9-11f1-b012-d3f1c38d6aaa",
-   "bad753c4-8609-11f1-80d6-23cdb201d611",
    "27d9c512-85fe-11f1-b041-fda11fdbb396",
    "85756ac2-85ff-11f1-ad0f-fda11fdbb396",
    "a0d3787a-85fc-11f1-81c3-fda11fdbb396",
@@ -1207,14 +1205,11 @@
    "7abb34ce-8c51-11f1-90ed-a1d83ec6435a",
    "1ff18236-8c61-11f1-8d87-d51adcfbf5d7",
    "2d286950-8c6c-11f1-9236-4f37b99bd6b3",
-   "769a7200-8c6b-11f1-8bb1-4f37b99bd6b3"
+   "769a7200-8c6b-11f1-8bb1-4f37b99bd6b3",
+   "d8fc182c-8c89-11f1-a47a-55fae7668579",
+   "a77d7414-8c6e-11f1-8e6b-bbfd745c0923"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "addd5f74-8226-11f1-a5cc-e7390293f388",
-   "c6dafd14-820e-11f1-b43c-8703e6ad948b",
-   "3274910c-8250-11f1-beeb-2d225d7cc1e8",
-   "7e34edf4-8245-11f1-ad8b-6755eccd534c",
-   "a9e1bf96-8230-11f1-969a-0df2f1a899a9",
    "35dfdfac-822a-11f1-8554-cf2e8c47f12c",
    "4eff4d92-8293-11f1-8f1e-7313728c1c34",
    "b75e0034-8281-11f1-a8c2-45facf4300bb",
@@ -1509,7 +1504,12 @@
    "b3a6eff8-8c42-11f1-b578-5df8005fc696",
    "aebe2048-8c64-11f1-a365-5b0d490536d9",
    "1ebaf402-8c1f-11f1-a853-9d2841158487",
-   "ab74dd82-8c64-11f1-8d64-5b0d490536d9"
+   "ab74dd82-8c64-11f1-8d64-5b0d490536d9",
+   "9fbfe53a-8c92-11f1-a5cd-e3cba1e70889",
+   "41eb2432-8c93-11f1-a3ef-fb417fbe5ea6",
+   "46fc467a-8c6d-11f1-bf56-fdcaddaa7286",
+   "0d848614-8c81-11f1-89e4-db3f6e9a889b",
+   "0d196d50-8c7e-11f1-bf50-db3f6e9a889b"
   ],
   "https://www.ouest-france.fr/rss/une": [
    "https://www.ouest-france.fr/societe/maltraitance-animale/marineland-le-transfert-de-huit-dauphins-vers-lespagne-a-commence-ccc0b4e6-85f9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -2662,98 +2662,50 @@
   },
   {
    "faits": [
-    "Missile présumé russe tombe en Pologne",
-    "Violation de l'espace aérien de l'Union européenne",
-    "Le chancelier allemand Friedrich Merz dénonce 'l'irresponsabilité de la Russie et sa volonté d'escalade'",
-    "La présidente de la Commission européenne Ursula von der Leyen fustige une 'violation inacceptable'",
-    "L'OTAN en 'contact étroit' avec les autorités polonaises"
+    "L'UEFA menace la FIFA de boycott de la Coupe du monde",
+    "La menace survient deux jours après l'annonce du projet de la FIFA de lancer une société commerciale",
+    "L'UEFA assure qu'aucune équipe continentale ne prendrait part à des compétitions de la FIFA tant que ces propositions resteront d'actualité"
    ],
-   "qui": "Russie, Friedrich Merz, Ursula von der Leyen, OTAN",
-   "ou": "Pologne, Union européenne",
-   "categorie": "international",
+   "qui": "UEFA, FIFA, Gianni Infantino",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "09423c7e8091dc56",
+   "score": 86,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T04:49:03.572086+00:00"
+  },
+  {
+   "faits": [
+    "Nirmal Purja, alpiniste népalo-britannique âgé de 43 ans, et neuf autres alpinistes sont portés disparus sur le Broad Peak",
+    "Une avalanche s'est produite au Pakistan",
+    "Nirmal Purja avait enchaîné les quatorze sommets de plus de 8 000 mètres dans un temps record",
+    "Son exploit avait fait l'objet d'un documentaire Netflix en 2021 intitulé « 14 x 8000 : Aux sommets de l'impossible »"
+   ],
+   "qui": "Nirmal Purja, neuf alpinistes",
+   "ou": "Broad Peak, Pakistan",
+   "categorie": "faits_divers",
    "sensible": true,
    "confiance": 88,
    "sources": [
     "Le Monde"
    ],
    "non_confirme": [
-    "missile présumé russe"
+    "Statut exact des disparus"
    ],
-   "importance": 78,
-   "empreinte": "959f0e798249b03a",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T22:45:28.450271+00:00"
-  },
-  {
-   "faits": [
-    "144 000 habitants de neuf communes en Gironde autorisés à rentrer chez eux",
-    "Ces habitants avaient été évacués en raison des incendies",
-    "La préfète de Gironde qualifie le 30 juillet de 'première journée optimiste'",
-    "Le combat contre les incendies n'est pas terminé"
-   ],
-   "qui": "Préfète de Gironde, 144 000 habitants",
-   "ou": "Gironde, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
    "importance": 70,
-   "empreinte": "761e38d667694687",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T21:37:11.550043+00:00"
-  },
-  {
-   "faits": [
-    "Feu de forêt en Côte d'Or à proximité de Dijon, démarré mercredi après-midi",
-    "Le feu a parcouru 150 hectares, dont 90 ont été brûlés",
-    "Rafales de vent pouvant aller jusqu'à 70 km/h",
-    "Le feu est à présent fixé selon la préfecture"
-   ],
-   "qui": "Préfecture de Côte d'Or",
-   "ou": "Côte d'Or, proximité de Dijon, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "6e3b221641ed6c90",
+   "empreinte": "df93ae18d2bf403a",
    "score": 85,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-30T21:37:11.550044+00:00"
-  },
-  {
-   "faits": [
-    "Incendies en France et Espagne avec accalmie espérée",
-    "France et Espagne ont connu certains des incendies les plus violents de leur histoire récente",
-    "Centaines de milliers de personnes ont été évacuées",
-    "Nouveaux feux de forêt gagnent l'Europe, notamment en Grèce, Royaume-Uni, Portugal et Turquie"
-   ],
-   "qui": null,
-   "ou": "France, Espagne, Grèce, Royaume-Uni, Portugal, Turquie, Europe",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "6d1240b8d6b0bb39",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T21:37:11.548491+00:00"
+   "depuis": "2026-07-31T04:49:03.572089+00:00"
   },
   {
    "faits": [
@@ -2779,93 +2731,50 @@
   },
   {
    "faits": [
-    "Air France KLM a compensé 85 % de la hausse du coût des carburants en augmentant ses prix",
-    "Les compagnies aériennes résistent à la crise du kérosène en augmentant leurs prix",
-    "Augmentation particulièrement marquée dans les catégories de sièges les plus chères"
+    "Des frappes aériennes menées par Africa Corps, sous contrôle russe, ont tué des civils à Kirnya au Mali",
+    "Les bombardements ont eu lieu le 15 juin 2026 sur le village de Kirnya dans la région de Mopti",
+    "Human Rights Watch a publié une enquête révélant ces frappes",
+    "Des jihadistes du Jnim, liés à al-Qaïda, étaient présents à Kirnya ce jour-là"
    ],
-   "qui": "Air France KLM, compagnies aériennes",
-   "ou": null,
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 90,
+   "qui": "Africa Corps (entité russe), armée malienne, Human Rights Watch",
+   "ou": "Kirnya, Mopti, Mali",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
    "sources": [
-    "Le Monde"
+    "RFI"
    ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "b4c2b76127bcaac1",
-   "score": 84,
-   "fiab_max": 90,
+   "non_confirme": [
+    "Nombre exact de civils tués"
+   ],
+   "importance": 72,
+   "empreinte": "df352c2f193e96bf",
+   "score": 82,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-30T21:37:11.550054+00:00"
+   "depuis": "2026-07-31T04:48:50.721387+00:00"
   },
   {
    "faits": [
-    "117 000 hectares partis en fumée en France depuis le début de 2026",
-    "Débat politique sur la gestion des incendies à neuf mois de l'élection présidentielle française",
-    "Le Rassemblement national, la France insoumise et les Écologistes s'accusent mutuellement d'avoir bloqué des mesures de lutte contre les feux de forêt et d'avoir affaibli la sécurité civile"
+    "Anthropic a versé 1,5 milliard de dollars de réparations pour avoir enfreint la législation sur les droits d'auteurs aux États-Unis",
+    "L'entreprise avait acquis près de 500 000 œuvres auprès de bibliothèques pirates",
+    "Anthropic continue d'entraîner son modèle d'IA par l'acquisition de millions de livres qu'elle détruit ensuite en toute légalité"
    ],
-   "qui": "Rassemblement national, France insoumise, Écologistes",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": true,
+   "qui": "Anthropic",
+   "ou": "États-Unis",
+   "categorie": "economie",
+   "sensible": false,
    "confiance": 85,
    "sources": [
     "RFI"
    ],
    "non_confirme": [],
    "importance": 68,
-   "empreinte": "54dc81967609ea2d",
+   "empreinte": "19656de54f6cedff",
    "score": 82,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-30T22:45:16.860658+00:00"
-  },
-  {
-   "faits": [
-    "Incendie de forêt en Espagne a ravagé plus de 25 000 hectares",
-    "Les deux dernières communes de la région de Madrid évacuées ont été autorisées à regagner leur domicile mercredi 29 juillet 2026",
-    "Les autorités estiment le feu désormais 'stabilisé'",
-    "Alerte face au risque de reprise lié à la vague de chaleur",
-    "Certains habitants ont refusé d'évacuer pour protéger leurs maisons, notamment à San Martín de Valdeiglesias"
-   ],
-   "qui": "Habitants, autorités espagnoles",
-   "ou": "Espagne, région de Madrid, San Martín de Valdeiglesias",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "bb5cbed365ece222",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T21:37:11.548544+00:00"
-  },
-  {
-   "faits": [
-    "Pavel Durov, patron de Telegram, a été classé sur la liste russe des personnalités désignées comme 'terroristes' ou 'extrémistes'",
-    "La Russie a déclenché mercredi 29 juillet une procédure de recherche internationale contre Pavel Durov pour 'complicité de terrorisme'",
-    "Classification effectuée le jeudi 30 juillet"
-   ],
-   "qui": "Pavel Durov (patron de Telegram), Russie",
-   "ou": "Russie",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "74825926cf2b3ab8",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T21:37:11.548810+00:00"
+   "depuis": "2026-07-31T04:49:03.572093+00:00"
   },
   {
    "faits": [
@@ -2892,100 +2801,25 @@
   },
   {
    "faits": [
-    "Sauvetage de migrants par l'Ocean Viking affrété par SOS Méditerranée",
-    "38 migrants secourus le 18 juillet 2026",
-    "Migrants principalement issus d'Érythrée, du Soudan et de Somalie",
-    "Bateau patrouillant dans les eaux internationales au large de la Libye",
-    "Migrants voyageaient sur une barque de fortune sans eau et quasiment à court de carburant"
+    "Plus de 1 500 migrants ont traversé la frontière marocaine vers l'enclave espagnole de Ceuta ces derniers jours",
+    "Le passage en force a créé un appel d'air auprès d'autres candidats à l'émigration vers l'Europe",
+    "Des centaines de personnes sont en route pour la frontière avec Ceuta"
    ],
-   "qui": "SOS Méditerranée, Ocean Viking",
-   "ou": "Eaux internationales au large de la Libye, Méditerranée",
+   "qui": "Migrants marocains",
+   "ou": "Maroc, Ceuta",
    "categorie": "international",
    "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "372ac549febd619a",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T22:45:28.450289+00:00"
-  },
-  {
-   "faits": [
-    "Une grève surprise a été annoncée à la SNCF",
-    "Le trafic ferroviaire sera perturbé en Normandie entre vendredi et dimanche",
-    "Des suppressions de trains sont attendues sur plusieurs axes majeurs en Normandie",
-    "La grève coïncide avec un week-end de « chassé-croisé » (grands départs)"
-   ],
-   "qui": "SNCF, syndicats de cheminots",
-   "ou": "Normandie, France",
-   "categorie": "autre",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Revendications exactes des grévistes",
-    "Ampleur précise du mouvement"
-   ],
-   "importance": 60,
-   "empreinte": "72dc9d6437349eed",
-   "score": 82,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T20:08:53.574863+00:00"
-  },
-  {
-   "faits": [
-    "Les fédérations membres de l'UEFA ont menacé « à l'unanimité » de boycotter la Coupe du monde et autres compétitions de la Fifa",
-    "La menace survient en réaction au projet du président de la Fifa Gianni Infantino de céder des parts à des investisseurs extérieurs",
-    "Le projet concerne une filiale chargée d'organiser les tournois de la Fifa",
-    "Le vote de l'UEFA s'est déroulé le 30 juillet 2026"
-   ],
-   "qui": "UEFA, Gianni Infantino (président de la Fifa), fédérations membres de l'UEFA",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 87,
-   "sources": [
-    "RFI"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "df19d179de7ad852",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T20:08:53.574864+00:00"
-  },
-  {
-   "faits": [
-    "Venezuela commence le dynamitage d'immeubles affectés par un double séisme",
-    "Double séisme du 24 juin 2026",
-    "Plus de 5 500 morts",
-    "Milliers de disparus",
-    "Dynamitages commencés le 30 juillet"
-   ],
-   "qui": "Gouvernement vénézuélien",
-   "ou": "La Guaira, Caracas, Venezuela",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
    "confiance": 82,
    "sources": [
-    "RFI"
+    "Le Figaro"
    ],
    "non_confirme": [],
    "importance": 70,
-   "empreinte": "568ce71a06b904a7",
+   "empreinte": "aec0aad8443f0b3f",
    "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-30T22:45:16.860814+00:00"
+   "depuis": "2026-07-31T04:49:03.572096+00:00"
   },
   {
    "faits": [
@@ -3011,26 +2845,26 @@
   },
   {
    "faits": [
-    "Un ouvrier d'une vingtaine d'années a perdu la vie dans l'effondrement d'un immeuble en démolition",
-    "Trois autres personnes ont été blessées",
-    "L'accident s'est produit jeudi à Pointe-à-Pitre",
-    "Une enquête a été ouverte pour déterminer les circonstances de l'accident"
+    "Le mois d'août marque le début du durcissement des règles pour les professionnels délivrant les cartes grises",
+    "Le mois d'août voit le début du versement de l'allocation de rentrée scolaire",
+    "Des changements concernent le démarchage téléphonique et les prix de l'électricité",
+    "Des changements concernent les taux des livrets d'épargne"
    ],
    "qui": null,
-   "ou": "Pointe-à-Pitre, Guadeloupe",
-   "categorie": "faits_divers",
-   "sensible": true,
-   "confiance": 88,
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 80,
    "sources": [
-    "Ouest-France"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 55,
-   "empreinte": "8bb9903595f122f0",
+   "importance": 58,
+   "empreinte": "ccaf4fb0c2b85995",
    "score": 79,
-   "fiab_max": 80,
+   "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-31T01:18:35.937294+00:00"
+   "depuis": "2026-07-31T04:49:03.572100+00:00"
   },
   {
    "faits": [
@@ -3102,6 +2936,28 @@
   },
   {
    "faits": [
+    "Les coureuses françaises jouent les premiers rôles au Tour de France femmes 2026",
+    "Le Tour de France femmes 2025 a enregistré quatre victoires d'étape et le maillot jaune pour les Françaises",
+    "Ferrand-Prévôt, Kerbaol, Squiban, Géry font partie des talents tricolores du peloton"
+   ],
+   "qui": "Coureuses françaises (Ferrand-Prévôt, Kerbaol, Squiban, Géry)",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 78,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [],
+   "importance": 52,
+   "empreinte": "4a8293d816231908",
+   "score": 77,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T04:49:03.572108+00:00"
+  },
+  {
+   "faits": [
     "Nabil Bentaleb, libre depuis début juillet, prolonge de deux ans son contrat à Lille",
     "Bentaleb a 31 ans",
     "Il est revenu à Lille en 2023, son club formateur"
@@ -3146,6 +3002,50 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-30T23:46:43.393668+00:00"
+  },
+  {
+   "faits": [
+    "La Maison-Blanche utilise des images de migrants à Ceuta pour défendre sa politique",
+    "Deux hauts responsables de la Maison-Blanche se sont saisis jeudi d'images du passage de centaines de migrants du Maroc vers Ceuta",
+    "Les images sont utilisées pour alerter sur un éventuel retour au pouvoir des démocrates"
+   ],
+   "qui": "Maison-Blanche, responsables américains",
+   "ou": "États-Unis, Ceuta, Maroc",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "Le Figaro"
+   ],
+   "non_confirme": [],
+   "importance": 62,
+   "empreinte": "7fc1d70d1f4bc5e8",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T04:49:03.572112+00:00"
+  },
+  {
+   "faits": [
+    "Le Nouveau-Mexique engrange des milliards de dollars avec la flambée des prix du pétrole",
+    "Certains États américains bénéficient d'une manne financière due à la hausse des prix du pétrole",
+    "Certains élus locaux ne savent pas quoi faire de cette manne financière"
+   ],
+   "qui": "État du Nouveau-Mexique, élus locaux",
+   "ou": "Nouveau-Mexique, États-Unis",
+   "categorie": "economie",
+   "sensible": false,
+   "confiance": 75,
+   "sources": [
+    "RFI"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "871e5eff83dd4824",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T04:49:03.572113+00:00"
   },
   {
    "faits": [
@@ -3250,14 +3150,6 @@
  ],
  "publies_48h": [
   [
-   "e54f706eb3eb051f",
-   "2026-07-29T04:37:50.161292+00:00"
-  ],
-  [
-   "fd907eab52c56f34",
-   "2026-07-29T04:37:54.070942+00:00"
-  ],
-  [
    "173b3e9b7dcc6790",
    "2026-07-29T07:30:22.141859+00:00"
   ],
@@ -3328,17 +3220,17 @@
   [
    "5a546bcc2db4921d",
    "2026-07-31T01:18:50.821722+00:00"
+  ],
+  [
+   "b57e824c43c0b524",
+   "2026-07-31T04:49:04.623534+00:00"
+  ],
+  [
+   "6dd6209f4c4c0fd8",
+   "2026-07-31T04:49:08.654911+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "070f818e30436776",
-   "2026-07-29T04:37:44.240419+00:00"
-  ],
-  [
-   "5aaf845424310144",
-   "2026-07-29T04:37:49.158136+00:00"
-  ],
   [
    "4f368f989568b208",
    "2026-07-29T07:30:17.151552+00:00"
@@ -3410,6 +3302,14 @@
   [
    "d304d9e03bbed438",
    "2026-07-31T01:18:45.794834+00:00"
+  ],
+  [
+   "98a80c1783f4ff29",
+   "2026-07-31T04:48:56.384819+00:00"
+  ],
+  [
+   "daea31d10fe612b3",
+   "2026-07-31T04:49:03.572071+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -3418,12 +3318,14 @@
   "🇺🇸 Les États-Unis ont mené une « lourde série » de bombardements sur l'Iran en représailles. Des explosions ont été rapportées dans deux provinces iraniennes. Le Pakistan affirme que les belligérants négocient une désescalade. (Le Monde, RFI)",
   "⚠️ Vigilance orange canicule vendredi : 21 départements sont en alerte, avec des températures attendues jusqu'à 40 °C dans le Sud-Est. Des orages violents sont prévus du sud-ouest au nord-est, susceptibles d'apporter grêle et fortes rafales. (Météo-France)",
   "⚽ John Textor, ancien président de l'OL, assigne le club devant le tribunal de commerce de Lyon et réclame 20 millions d'euros. L'homme d'affaires a été évincé après de graves problèmes budgétaires. (Le Monde, L'Équipe)",
-  "L'Italie menace de suspendre l'Espagne de l'espace Schengen après l'arrivée de migrants à Ceuta. Madrid convoque l'ambassadeur italien et dénonce la « démagogie » de Rome. (franceinfo)"
+  "L'Italie menace de suspendre l'Espagne de l'espace Schengen après l'arrivée de migrants à Ceuta. Madrid convoque l'ambassadeur italien et dénonce la « démagogie » de Rome. (franceinfo)",
+  "🇫🇷 Un incendie ravage la Gironde depuis neuf jours, dévastant 42 000 hectares. La commune du Porge, épicentre du sinistre avec 3 500 habitants, s'interroge sur son avenir. Un centre opérationnel coordonne les opérations à Bordeaux. (franceinfo)",
+  "🇺🇸 Donald Trump annonce un accord sur le désarmement du Hamas et le retrait israélien de Gaza. Le Hamas confirme cet accord, qui marque la deuxième phase de la trêve entre les deux parties. (franceinfo, France 24, RFI)"
  ],
  "recap_date": "2026-07-30",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-31",
-  "publies": 6
+  "publies": 8
  }
 }
