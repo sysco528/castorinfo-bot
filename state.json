@@ -2,8 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/internet/google/l-ue-va-payer-un-tres-lourd-prix-pour-l-amende-record-qu-elle-a-infligee-a-google-menace-donald-trump_8121134.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendie/ca-fait-tres-mal-au-c-ur-c-est-notre-terrain-la-detresse-des-habitants-contraints-d-evacuer-face-aux-incendies-qui-ravagent-le-sud-ouest_8121194.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/justice/le-procureur-de-la-cpi-karim-khan-vise-par-des-allegations-d-agression-sexuelle-releve-de-ses-fonctions_8121227.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/en-irlande-une-bombe-trouvee-par-la-police-dans-un-vehicule-la-conductrice-inculpee_8121254.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/venezuela/le-venezuela-annonce-son-retrait-definitif-de-la-cour-penale-internationale-accusee-de-concentrer-son-action-sur-les-pays-africains-et-latino-americains_8121266.html#xtor=RSS-3-[lestitres]",
@@ -301,10 +299,11 @@
    "https://www.franceinfo.fr/sports/halterophilie/je-suis-raciste-et-je-l-ai-fait-expres-une-halterophile-manque-le-sacre-mondial-apres-qu-un-assistant-avoue-avoir-deliberement-penalise-sa-performance_8120840.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/internet/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-moins-de-quatre-ans-apres-le-lancement-de-chatgpt_8130446.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/education/potentiel-vol-de-donnees-personnelles-d-un-nombre-important-d-agents-de-l-education-nationale_8130599.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/italie/l-italie-enregistre-un-seisme-de-magnitude-4-7-pres-de-naples_8130629.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/monde/italie/l-italie-enregistre-un-seisme-de-magnitude-4-7-pres-de-naples_8130629.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/devises-les-arnaques-au-taux-de-change-dans-les-aeroports_8130623.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/montfort-sur-argens-a-ete-entoure-par-des-flammes-qui-faisaient-plus-de-25-metres-de-haut-selon-le-sdis-du-var_8130626.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/politique/article/2026/07/21/a-grenoble-la-gauche-se-divise-apres-l-interruption-du-concert-de-barbara-butch-boycottee-par-des-militants-locaux-lfi_6728356_823448.html",
    "https://www.lemonde.fr/campus/article/2026/07/21/un-corps-noir-dans-un-espace-blanc-c-est-un-accident-industriel-la-peau-un-nuancier-de-discriminations-au-travail_6728152_4401467.html",
    "https://www.lemonde.fr/afrique/article/2026/07/21/certains-ont-ete-licencies-d-autres-sont-expulses-de-leur-logement-des-dizaines-de-milliers-d-etrangers-chasses-d-afrique-du-sud_6728223_3212.html",
    "https://www.lemonde.fr/international/article/2026/07/21/andy-burnham-entre-a-downing-street-et-choisit-l-ex-ministre-de-la-defense-john-healey-comme-chancelier-de-l-echiquier_6728014_3210.html",
@@ -603,10 +602,10 @@
    "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-trafic-maritime-est-toujours-impossible-dans-le-detroit-d-ormuz-affirme-l-iran_6737099_3210.html",
    "https://www.lemonde.fr/sport/article/2026/07/31/gianni-infantino-desavoue-par-ses-proches-a-la-fifa-son-plan-d-ouverture-aux-investisseurs-prives-est-le-projet-d-une-seule-personne_6737167_3242.html",
    "https://www.lemonde.fr/afrique/article/2026/07/31/remis-en-liberte-le-rappeur-et-cineaste-marocain-mehdi-black-wind-espere-retrouver-son-autre-port-d-attache-marseille_6737173_3212.html",
-   "https://www.lemonde.fr/planete/article/2026/07/31/decontaminer-l-eau-potable-des-residus-de-pesticides-et-des-pfas-pourrait-couter-jusqu-a-5-7-milliards-d-euros-par-an-selon-un-rapport_6737169_3244.html"
+   "https://www.lemonde.fr/planete/article/2026/07/31/decontaminer-l-eau-potable-des-residus-de-pesticides-et-des-pfas-pourrait-couter-jusqu-a-5-7-milliards-d-euros-par-an-selon-un-rapport_6737169_3244.html",
+   "https://www.lemonde.fr/international/live/2026/07/31/en-direct-ceuta-plus-de-48-000-personnes-sont-deja-rentrees-au-maroc-annonce-le-gouvernement-espagnol-l-integrite-de-l-espace-schengen-est-absolument-garantie-affirme-le-ministre-des-affaires-etrangeres_6737133_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/international/guerre-en-ukraine-la-fuite-en-avant-de-vladimir-poutine-20260723",
    "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-le-prix-de-la-guerre-de-poutine-20260723",
    "https://www.lefigaro.fr/conso/exces-de-cadmium-des-melons-vendus-chez-carrefour-rappeles-dans-toute-la-france-20260723",
    "https://www.lefigaro.fr/international/pris-dans-le-piege-iranien-donald-trump-tente-par-l-escalade-20260723",
@@ -905,12 +904,10 @@
    "https://www.lefigaro.fr/societes/dans-la-tempete-la-surprenante-acceleration-des-fleurons-du-cac-40-20260731",
    "https://www.lefigaro.fr/economie/la-moindre-deception-se-paie-cher-pourquoi-la-bourse-reagit-aussi-violemment-aux-bonnes-et-aux-mauvaises-surprises-20260731",
    "https://www.lefigaro.fr/conjoncture/35-milliards-de-dollars-envoles-en-quelques-jours-la-chute-vertigineuse-du-nostradamus-de-l-ia-emporte-par-son-pari-fou-a-wall-street-20260731",
-   "https://www.lefigaro.fr/international/contrariee-par-un-tweet-l-administration-trump-veut-bloquer-la-nomination-du-futur-ambassadeur-francais-a-washington-20260731"
+   "https://www.lefigaro.fr/international/contrariee-par-un-tweet-l-administration-trump-veut-bloquer-la-nomination-du-futur-ambassadeur-francais-a-washington-20260731",
+   "https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260731"
   ],
   "https://www.france24.com/fr/rss": [
-   "2e1a0f16-866e-11f1-971d-8b91e7fe4f70",
-   "db8cf5e2-8677-11f1-84b8-6ff3aff177dc",
-   "f0907546-8676-11f1-9176-579a71d41a78",
    "ca4bacaa-869b-11f1-8dd0-c1197a591d55",
    "52d426a2-8691-11f1-9d1e-2dcd50b46637",
    "d0e1ae98-8691-11f1-964d-2dcd50b46637",
@@ -1207,7 +1204,10 @@
    "fb6be006-8cf5-11f1-9f4d-8b20a881bfb7",
    "7af4d940-8cf1-11f1-85dd-8b20a881bfb7",
    "c3c15684-8d15-11f1-aed5-912f6367ec8c",
-   "def51e9a-8d15-11f1-b620-8d404618b839"
+   "def51e9a-8d15-11f1-b620-8d404618b839",
+   "211b4066-8d1a-11f1-8a79-1d34ba72877b",
+   "e67355be-8d1b-11f1-812b-a3110d1cd55c",
+   "1755d516-8d1d-11f1-9665-a3110d1cd55c"
   ],
   "https://www.rfi.fr/fr/rss": [
    "cd3d0820-829d-11f1-bbcf-b7dd12542a41",
@@ -1512,16 +1512,6 @@
    "bf9de896-8cf3-11f1-a2f6-ff37416a6ee7"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/societe/maltraitance-animale/marineland-le-transfert-de-huit-dauphins-vers-lespagne-a-commence-ccc0b4e6-85f9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/tennis/hugo-gaston/atp-250-destoril-hugo-gaston-domine-titouan-droguet-dans-un-choc-100-pourcent-francais-et-file-en-quart-de-finale-28e3b464-8611-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/hauts-de-france/lens-62300/un-homme-simmole-par-le-feu-dans-le-pas-de-calais-sa-compagne-et-leur-nouveau-ne-gravement-blesses-40dcb7de-860a-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/economie/trains-supprimes-reacteurs-a-larret-la-facture-des-canicules-se-precise-52cebea4-85ee-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/faits-divers/incendie/du-var-a-la-gironde-les-pompiers-se-battent-contre-deux-incendies-dampleur-9ad59ef4-8623-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/sport/cyclisme/temoignage-je-suis-dans-une-impasse-gravement-blesse-et-en-fin-de-contrat-damien-touze-pousse-vers-la-retraite-536f567c-6035-11f1-b0fc-ddf25559701c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-douzieme-nuit-de-frappes-americaines-iran-et-houthis-prets-a-riposter-les-dernieres-infos-9f503804-85e7-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-le-faux-depart-de-la-ministre-monique-barbut-464a4f40-85e9-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/societe/justice/loi-sur-la-justice-criminelle-le-conseil-constitutionnel-censure-le-recours-judiciaire-a-la-genealogie-juridique-b3ea7b02-86c4-11f1-a762-b8ec18c1787d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/leditiondusoir/2026-07-23/qu-est-ce-que-l-allegorie-de-la-grenouille-et-comment-illustre-t-elle-notre-inaction-face-au-changement-climatique-bf542747-8a81-4e62-b0dd-82302a8fd08a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/culture/patrimoine/notre-dame-de-paris/je-suis-emerveillee-dans-cet-atelier-sont-crees-les-futurs-vitraux-de-notre-dame-de-paris-55c9ca96-86bf-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/canoe-kayak/canoe-kayak-champion-du-monde-en-titre-en-k1-titouan-castryck-elimine-des-les-demi-finales-55761480-86c1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-23/oubliez-musees-et-monuments-ce-lieu-que-tout-le-monde-evite-en-vacances-devient-une-nouvelle-facon-de-visiter-un-pays-2c09788c-5b4c-4c7b-8158-df5deae1c885?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1811,7 +1801,17 @@
    "https://www.ouest-france.fr/sport/boxe/boxe-nouvelle-levee-dinterdiction-pour-les-combattants-russes-autorises-a-combattre-sous-leurs-couleurs-nationales-669c4790-8c50-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/olympique-lyonnais/ol-john-textor-assigne-la-nouvelle-direction-lyonnaise-et-reclame-plus-de-20-millions-deuros-78591b52-8c5f-11f1-8f47-ec3d1e1ec01b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/gaza/gaza-trump-annonce-un-accord-historique-pour-le-desarmement-du-hamas-b0886afc-8c6c-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/region-guadeloupe/guadeloupe-un-ouvrier-tue-dans-leffondrement-dun-immeuble-en-demolition-94456b40-8c6e-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/region-guadeloupe/guadeloupe-un-ouvrier-tue-dans-leffondrement-dun-immeuble-en-demolition-94456b40-8c6e-11f1-ae39-071763a6d211?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/ligue-1/om-psg-lyon-tous-les-resultats-des-matchs-amicaux-des-clubs-de-ligue-1-f369d2b8-6659-11f1-99fc-6db54956824f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/coupe-d-afrique-des-nations/can-2026-feminine-le-calendrier-complet-et-tous-les-resultats-de-la-competition-5c02221a-89bb-11f1-abec-0816624751ff?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/belgique/attentat-dejoue-contre-bank-of-america-a-paris-une-belge-ecrouee-dans-lenquete-7907a9c6-8d1b-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/monde/catastrophes/seisme/italie-la-region-volcanique-de-naples-secouee-par-un-seisme-de-magnitude-4-7-11bf1d2c-8d1a-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/equitation/jumping-de-dinard/equitation-une-generation-qui-peut-aller-loin-les-jeunes-commencent-a-semparer-de-lequipe-de-france-9b1031aa-8cda-11f1-91ed-1c452045cb8b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/basket/victor-wembanyama/nba-victor-wembanyama-prolonge-laventure-chez-nike-et-soffre-sa-premiere-chaussure-personnalisee-fffa4878-8d14-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/fifa/je-nen-ai-jamais-parle-avec-lui-donald-trump-nie-etre-implique-dans-le-projet-polemique-de-gianni-infantino-3ab95050-8d0e-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/sport/football/espagne/fc-barcelone/mercato-fc-barcelone-jesse-bisiwu-prometteur-ailier-belge-de-18-ans-sengage-jusquen-2031-5b6a06d6-8d14-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/leditiondusoir/2026-07-31/sa-legende-a-inspire-le-manga-one-piece-qui-est-francois-l-olonnais-le-pirate-le-plus-sanguinaire-de-son-temps-d6a4ff88-c02e-4096-80d6-badecc61e5d2?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/politique/affaire-barbara-butch-la-ministre-de-la-culture-veut-renforcer-les-sanctions-contre-le-delit-dentrave-culturel-ba856176-8d12-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2078,7 +2078,10 @@
    "https://www.20minutes.fr/monde/ukraine/4237092-20260730-guerre-ukraine-zelensky-accuse-coree-nord-missile-russe-ecrase-pologne?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4237120-20260731-guerre-moyen-orient-stocks-effondrent-si-etats-unis-plus-missiles?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4237116-20260730-xenia-fedorova-laurent-nunez-affirme-arrete-expulsion-atteinte-liberte-expression?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/societe/4237057-20260730-incendies-plus-7-000-candidatures-recues-24-heures-syndicat-pompiers-volontaires?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/societe/4237057-20260730-incendies-plus-7-000-candidatures-recues-24-heures-syndicat-pompiers-volontaires?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/gaming/jeux_video/4236867-20260730-esports-world-cup-jeux-mobiles-poule-ufs-or-esport-mondial?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/monde/4237219-20260731-crise-ceuta-60-000-migrants-entres-34-morts-renforts-fait-point?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/planete/canicule/4237132-20260731-direct-incendies-retour-vers-vie-normale-pire-derriere-enfin-bonnes-nouvelles?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2610,6 +2613,33 @@
  "evenements_attente": [
   {
    "faits": [
+    "Des incendies ravagent plusieurs régions de France, notamment la Gironde et le Var",
+    "Environ 117 000 hectares ont été parcourus par les incendies en France en 2026",
+    "Dans le Var, un feu a parcouru 1 000 hectares en six heures",
+    "À Montfort-sur-Argens (Var), des flammes dépassaient 25 mètres de haut",
+    "Un incendie fixé mardi dans le Var a repris vendredi",
+    "2 500 personnes ont été évacuées"
+   ],
+   "qui": null,
+   "ou": "France (Gironde, Var)",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 95,
+   "sources": [
+    "Le Figaro",
+    "Ouest-France",
+    "20 Minutes"
+   ],
+   "non_confirme": [],
+   "importance": 90,
+   "empreinte": "38d34638ca4edc15",
+   "score": 100,
+   "fiab_max": 85,
+   "nb_sources": 3,
+   "depuis": "2026-07-31T21:32:32.159167+00:00"
+  },
+  {
+   "faits": [
     "Cinq nouveau-nés morts découverts à Orange (Vaucluse)",
     "Les ossements de quatre nourrissons et le corps d'un nouveau-né retrouvés dans un appartement",
     "La mère de famille mise en examen et placée en détention provisoire",
@@ -2691,36 +2721,6 @@
   },
   {
    "faits": [
-    "Environ 60 000 migrants sont entrés illégalement à Ceuta en 24 heures",
-    "L'Espagne soupçonne une tentative de coercition politique de la part du Maroc",
-    "Ceuta a une population de 85 000 habitants pour 20 km²",
-    "L'Espagne soupçonne un lien avec son rapprochement avec l'Algérie",
-    "Giorgia Meloni réclame une suspension de l'Espagne de l'espace Schengen",
-    "L'Italie estime que l'accord de Schengen peut être suspendu",
-    "Des tensions diplomatiques se creusent entre Madrid et Rome"
-   ],
-   "qui": "Espagne, Maroc, Italie, migrants",
-   "ou": "Ceuta (enclave espagnole au Maroc)",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "franceinfo",
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "intention précise du Maroc",
-    "effectif exact des migrants"
-   ],
-   "importance": 90,
-   "empreinte": "b43e9c0dc68f1c8b",
-   "score": 99,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-31T15:06:15.582041+00:00"
-  },
-  {
-   "faits": [
     "OpenAI annonce avoir dépassé le milliard d'utilisateurs actifs",
     "Cela représente moins de quatre ans après le lancement de ChatGPT",
     "OpenAI compte désormais deux millions de clients entreprise"
@@ -2741,6 +2741,36 @@
    "fiab_max": 90,
    "nb_sources": 2,
    "depuis": "2026-07-31T18:42:01.411005+00:00"
+  },
+  {
+   "faits": [
+    "Environ 60 000 migrants ont rejoint l'enclave espagnole de Ceuta en quelques jours",
+    "Les migrants proviennent de la ville marocaine de Fnideq",
+    "L'afflux a été alimenté par des rumeurs virales sur les réseaux sociaux",
+    "Plus de 48 000 personnes sont déjà retournées au Maroc selon le gouvernement espagnol",
+    "34 à 60 morts ont été signalés selon différentes sources",
+    "L'Italie a temporairement fermé l'espace Schengen à l'Espagne",
+    "Les autorités marocaines coopèrent pour le rapatriement des migrants"
+   ],
+   "qui": "Gouvernement espagnol, autorités marocaines",
+   "ou": "Ceuta (enclave espagnole au Maroc), Fnideq (Maroc)",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "Le Monde",
+    "France 24",
+    "20 Minutes"
+   ],
+   "non_confirme": [
+    "Bilan exact des morts (34 à 60 selon les sources)"
+   ],
+   "importance": 85,
+   "empreinte": "8ac7fc6ee2e754ca",
+   "score": 97,
+   "fiab_max": 90,
+   "nb_sources": 3,
+   "depuis": "2026-07-31T21:32:32.159177+00:00"
   },
   {
    "faits": [
@@ -2792,29 +2822,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T18:42:01.411008+00:00"
-  },
-  {
-   "faits": [
-    "En RDC, plus de 3 500 cas d'Ebola ont été confirmés en quelques mois",
-    "C'est plus que lors de l'épidémie la plus meurtrière de l'histoire du pays",
-    "3 532 cas confirmés dans cinq provinces du pays",
-    "1 556 personnes sont mortes parmi ces 3 532 cas"
-   ],
-   "qui": "Autorités congolaises, population RDC",
-   "ou": "RDC (République démocratique du Congo), cinq provinces",
-   "categorie": "sante",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "2bf4a127f3ae64be",
-   "score": 89,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T15:06:15.582047+00:00"
   },
   {
    "faits": [
@@ -2885,6 +2892,30 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T18:42:01.411013+00:00"
+  },
+  {
+   "faits": [
+    "Une Belge de 24 ans a été inculpée pour implication présumée dans un projet d'attentat",
+    "L'attentat visait le siège parisien de Bank of America",
+    "La personne a été placée en détention provisoire",
+    "Cinq personnes sont poursuivies dans ce dossier",
+    "L'affaire est liée à une campagne d'actions violentes revendiquée par un groupuscule islamiste en Europe"
+   ],
+   "qui": "Une Belge de 24 ans (non nommée)",
+   "ou": "Paris, France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 90,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "73d67c9600fd45f8",
+   "score": 86,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T21:32:32.158098+00:00"
   },
   {
    "faits": [
@@ -2963,28 +2994,6 @@
   },
   {
    "faits": [
-    "22 départements seront en vigilance orange 'canicule' samedi",
-    "Le Gard s'ajoute aux 21 départements déjà placés en vigilance orange canicule",
-    "10 départements sont en vigilance orange aux orages vendredi après-midi"
-   ],
-   "qui": "Météo France",
-   "ou": "France (22 départements)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "00720fadbe971364",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T15:06:15.582056+00:00"
-  },
-  {
-   "faits": [
     "Incendie en Gironde maîtrisé, situation qui s'améliore de jour en jour",
     "Feu en Gironde n'est pas fixé mais progression rapportée",
     "Des milliers de personnes évacuées ont été autorisées à revenir dans deux nouvelles communes",
@@ -3056,50 +3065,6 @@
   },
   {
    "faits": [
-    "Paris accueille les championnats d'Europe de natation du 31 juillet au 16 août 2026",
-    "C'est la première édition en France depuis 39 ans",
-    "Léon Marchand participe à la compétition"
-   ],
-   "qui": "Léon Marchand, fédération européenne de natation",
-   "ou": "Paris, France",
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "c234428be1fee815",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T15:06:15.582061+00:00"
-  },
-  {
-   "faits": [
-    "L'Ukraine commande des équipements militaires de dernière génération grâce au prêt de 90 milliards d'euros de l'UE",
-    "Les acquisitions incluent des avions de chasse et des systèmes antiaériens",
-    "Les pays européens ne sont pas capables de fournir tous les matériels nécessaires"
-   ],
-   "qui": "Ukraine, Union européenne",
-   "ou": "Ukraine, Europe",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "1bdfb6b538ce51e0",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T15:06:15.582063+00:00"
-  },
-  {
-   "faits": [
     "Lula (Luiz Inácio Lula da Silva), 80 ans, doit être officiellement investi ce dimanche comme candidat du Parti des travailleurs",
     "Élection présidentielle brésilienne en octobre",
     "Lula brigue un quatrième mandat",
@@ -3146,27 +3111,28 @@
   },
   {
    "faits": [
-    "L'Iran affirme avoir frappé deux pétroliers sous escorte aérienne américaine dans le détroit d'Ormuz",
-    "Les hostilités au Moyen-Orient ont repris entre les Etats-Unis et l'Iran depuis mercredi (29 juillet 2026)"
+    "Donald Trump a déclaré que les États-Unis n'avaient pas accepté que l'Ukraine construise des missiles Patriot",
+    "Trump avait annoncé avoir donné cette autorisation en marge du sommet de l'Otan le 8 juillet",
+    "Des discussions seraient toujours en cours",
+    "Trump a déclaré que Washington devait faire 'très attention' avant de laisser quiconque en fabriquer"
    ],
-   "qui": "Iran, États-Unis",
-   "ou": "Détroit d'Ormuz, Moyen-Orient",
+   "qui": "Donald Trump (président américain)",
+   "ou": "États-Unis, Ukraine",
    "categorie": "international",
-   "sensible": true,
-   "confiance": 80,
+   "sensible": false,
+   "confiance": 88,
    "sources": [
-    "franceinfo"
+    "France 24"
    ],
    "non_confirme": [
-    "dégâts causés aux pétroliers",
-    "victimes éventuelles"
+    "État final des discussions sur la fabrication de missiles Patriot"
    ],
-   "importance": 85,
-   "empreinte": "f4af9dfc806c0a47",
+   "importance": 75,
+   "empreinte": "fb6bd41062793c22",
    "score": 84,
-   "fiab_max": 90,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-31T15:06:15.580546+00:00"
+   "depuis": "2026-07-31T21:32:32.159192+00:00"
   },
   {
    "faits": [
@@ -3189,56 +3155,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T16:54:51.631475+00:00"
-  },
-  {
-   "faits": [
-    "La Fifa et Gianni Infantino ont annoncé un projet de création d'une filiale commerciale",
-    "Cette filiale vendrait des parts de la Coupe du monde à des investisseurs privés",
-    "Le projet est vivement critiqué",
-    "Des menaces de boycott et des recours juridiques pourraient empêcher sa réalisation"
-   ],
-   "qui": "Fifa, Gianni Infantino",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [
-    "si le projet sera finalement bloqué"
-   ],
-   "importance": 70,
-   "empreinte": "1d8676c966b62e4c",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T15:06:15.582070+00:00"
-  },
-  {
-   "faits": [
-    "La Corée du Sud demande aux États-Unis le droit d'enrichir de l'uranium",
-    "Washington vient d'annoncer un accord autorisant l'Arabie saoudite à se doter de ses propres moyens d'enrichissement",
-    "Washington refuse toujours ce droit à la Corée du Sud",
-    "Séoul justifie sa demande par des besoins énergétiques croissants et le développement de sous-marins à propulsion nucléaire"
-   ],
-   "qui": "Corée du Sud, États-Unis, Arabie saoudite",
-   "ou": null,
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "issue de la demande sud-coréenne"
-   ],
-   "importance": 70,
-   "empreinte": "e2bac640acd3654a",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T15:06:15.582071+00:00"
   },
   {
    "faits": [
@@ -3265,27 +3181,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T18:42:01.411022+00:00"
-  },
-  {
-   "faits": [
-    "La Slovaquie refuse d'enregistrer les mariages homosexuels conclus à l'étranger",
-    "La Cour de justice de l'Union européenne avait conclu en novembre 2025 que tout pays de l'UE était tenu de reconnaître une union entre personnes de même sexe conclue dans un autre État membre"
-   ],
-   "qui": "Slovaquie, Cour de justice de l'Union européenne",
-   "ou": "Slovaquie, Union européenne",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 65,
-   "empreinte": "320b207a747974bb",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T15:06:15.582079+00:00"
   },
   {
    "faits": [
@@ -3331,6 +3226,119 @@
    "fiab_max": 85,
    "nb_sources": 1,
    "depuis": "2026-07-31T20:12:46.449278+00:00"
+  },
+  {
+   "faits": [
+    "Un tremblement de terre de magnitude 4,7 a secoué le sud de l'Italie",
+    "Le séisme a touché la région volcanique de Naples",
+    "Aucune demande de secours n'a été envoyée aux autorités"
+   ],
+   "qui": null,
+   "ou": "Naples, Italie",
+   "categorie": "meteo_catastrophe",
+   "sensible": false,
+   "confiance": 92,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "378b8c7327a7ad7f",
+   "score": 81,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T21:32:32.159197+00:00"
+  },
+  {
+   "faits": [
+    "Victor Wembanyama a prolongé son contrat avec Nike",
+    "Nike travaille sur une paire de baskets personnalisée nommée 'Wemby 1'",
+    "Victor Wembanyama est pivot des San Antonio Spurs"
+   ],
+   "qui": "Victor Wembanyama (pivot français des Spurs), Nike",
+   "ou": "États-Unis",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "8b048dcbf4fb53e0",
+   "score": 80,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T21:32:32.159198+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump a déclaré n'avoir jamais échangé avec Gianni Infantino sur la vente de parts de la Fifa",
+    "Le projet du patron de la Fifa porte sur une vente de parts à des investisseurs privés",
+    "Joshua Kushner (frère du gendre de Trump) serait impliqué dans un investissement massif",
+    "Les informations ont été dévoilées le 28 juillet par le Times"
+   ],
+   "qui": "Donald Trump, Gianni Infantino, Joshua Kushner",
+   "ou": "Camp David, Maryland, États-Unis",
+   "categorie": "autre",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [
+    "La nature exacte de la collaboration entre Joshua Kushner et Gianni Infantino"
+   ],
+   "importance": 65,
+   "empreinte": "9f88becc79fb4d7e",
+   "score": 79,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T21:32:32.159200+00:00"
+  },
+  {
+   "faits": [
+    "Le FC Barcelone a annoncé la signature de l'ailier belge Jesse Bisiwu",
+    "Jesse Bisiwu a 18 ans",
+    "Le joueur s'est engagé jusqu'en 2031"
+   ],
+   "qui": "Jesse Bisiwu (ailier belge), FC Barcelone",
+   "ou": "Barcelone, Espagne",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "082b242706d340ef",
+   "score": 78,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T21:32:32.159201+00:00"
+  },
+  {
+   "faits": [
+    "La ministre de la Culture souhaite renforcer les sanctions contre le 'délit d'entrave' culturel",
+    "Deux circulaires seront envoyées aux préfets et magistrats du parquet",
+    "Cette mesure vise à renforcer l'application des sanctions contre l'entrave à l'expression artistique"
+   ],
+   "qui": "Ministre de la Culture (non nommée)",
+   "ou": "France",
+   "categorie": "politique",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "Ouest-France"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "bc24cc0e2b2e1021",
+   "score": 78,
+   "fiab_max": 80,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T21:32:32.159203+00:00"
   }
  ],
  "publies_48h": [
