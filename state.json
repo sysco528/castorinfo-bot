@@ -2,14 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/face-aux-incendies-emmanuel-macron-demande-l-activation-du-mecanisme-de-protection-civile-de-l-ue-des-renforts-aeriens-europeens-attendus-rapidement_8119946.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-comparez-l-ampleur-de-la-surface-brulee-cette-annee-par-les-incendies-avec-la-taille-de-votre-commune_8117633.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/reportage-il-y-a-de-la-fumee-la-bas-a-marseille-des-scouts-sillonnent-les-calanques-pour-traquer-les-incendies_8116745.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/monde/usa/midterms-2018/si-les-prix-a-la-pompe-continuent-d-augmenter-ce-sera-un-vrai-probleme-la-guerre-avec-l-iran-pourrait-elle-couter-cher-a-donald-trump-lors-des-elections-de-mi-mandat_8117624.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/societe/drogue/ce-que-l-on-sait-de-la-video-des-hommes-cagoules-qui-se-presentent-comme-etant-des-membres-de-la-dz-mafia-et-nient-avoir-menace-le-maire-d-ales_8119217.html#xtor=RSS-3-[lestitres]",
-   "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/tour-de-france-2026-horaires-parcours-routes-barrees-tout-savoir-sur-l-etape-du-25-juillet-entre-le-bourg-d-oisans-et-l-alpe-d-huez-3380917.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/temoignages-on-se-demande-si-ce-n-est-pas-la-fin-du-monde-en-gironde-les-evacues-du-cap-ferret-temoignent-de-scenes-impressionnantes-limites-apocalyptiques_8120234.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/culture/musique/electro/un-dispositif-de-securite-specifique-prevu-pour-la-representation-de-la-dj-barbara-butch-dans-l-yonne_8120084.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-l-heure-des-grandes-man-uvres-entre-pogacar-evenepoel-del-toro-et-seixas-pour-une-explication-au-sommet-de-l-alpe-d-huez-la-19e-etape-en-questions_8116304.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-l-ukraine-cible-des-entrepots-du-geant-de-l-e-commerce-wildberries-connu-comme-l-amazon-russe_8118971.html#xtor=RSS-3-[lestitres]",
@@ -301,13 +293,17 @@
    "https://www.franceinfo.fr/monde/palestine/gaza/treve-a-gaza-donald-trump-annonce-un-accord-sur-le-desarmement-du-hamas-et-le-retrait-des-troupes-israeliennes-le-mouvement-palestinien-confirme_8129429.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/societe/demarchage-telephonique-prix-de-l-electricite-taux-des-livrets-d-epargne-ce-va-changer-au-mois-d-aout_8125109.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/tour-de-france/femmes/ferrand-prevot-kerbaol-squiban-gery-d-ou-vient-la-densite-de-talents-tricolores-sur-le-tour-de-france-femmes-2026_8124266.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/il-faut-abandonner-le-soleil-du-portugal-pour-soutenir-la-gironde-apres-les-incendies-appelle-l-union-des-entreprises-de-proximite_8129426.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/il-faut-abandonner-le-soleil-du-portugal-pour-soutenir-la-gironde-apres-les-incendies-appelle-l-union-des-entreprises-de-proximite_8129426.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-est-contenu-dans-son-perimetre-rapporte-la-prefecture_8129489.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-que-faut-il-faire-pour-se-proteger-des-fumees-toxiques-degagees-par-les-incendies_8069555.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/replay-radio/l-il-de-marion/incendies-en-gironde-un-projet-de-panneaux-solaires-devient-le-carburant-d-une-theorie-du-complot_8092304.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/la-federation-nationale-des-associations-d-usagers-des-transports-espere-une-remise-en-service-de-tous-les-trains-dimanche-en-gironde_8129609.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/proche-orient/ce-que-l-on-sait-de-l-accord-sur-le-desarmement-du-hamas-et-le-retrait-des-troupes-israeliennes_8129528.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/economie/medias/le-gouvernement-gele-les-avoirs-de-la-chroniqueuse-russe-xenia-fedorova-pour-six-mois_8129573.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-photojournaliste-francais-antoni-lallican-tue-en-ukraine-a-recu-la-legion-d-honneur-a-titre-posthume_8129642.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/sports/foot/le-footballeur-italien-franco-baresi-defenseur-legendaire-de-l-ac-milan-est-mort-a-l-age-de-66-ans_8129558.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/societe/article/2026/07/17/protection-de-l-enfance-l-assemblee-nationale-adopte-le-controle-d-honorabilite-pour-tous-les-adultes-en-contact-avec-des-mineurs-et-la-creation-d-une-liste-noire_6724142_3224.html",
-   "https://www.lemonde.fr/politique/article/2026/07/17/gel-des-retraites-agirc-arrco-la-cfe-cgc-et-la-cgt-saisissent-la-justice_6724137_823448.html",
-   "https://www.lemonde.fr/sport/article/2026/07/17/mondial-2026-la-fifa-annonce-une-enquete-apres-la-banderole-sur-les-malouines-brandie-par-des-joueurs-argentins_6723983_3242.html",
-   "https://www.lemonde.fr/planete/article/2026/07/17/orages-deux-personnes-sont-mortes-dans-les-intemperies-en-haute-vienne-et-dans-l-isere_6724149_3244.html",
    "https://www.lemonde.fr/societe/article/2026/07/17/le-maire-d-ales-dans-le-gard-menace-de-mort-par-la-dz-mafia_6723851_3224.html",
    "https://www.lemonde.fr/planete/article/2026/07/18/apres-trois-canicules-des-francais-sideres-et-inquiets-l-annee-prochaine-ca-va-etre-pire-comment-on-va-faire_6724357_3244.html",
    "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-frappe-des-infrastructures-militaires-et-des-depots-d-armes-souterrains-en-iran_6722873_3210.html",
@@ -603,15 +599,13 @@
    "https://www.lemonde.fr/pixels/article/2026/07/31/anthropic-des-modeles-d-ia-ont-accede-sans-autorisation-aux-systemes-d-autres-organisations_6737077_4408996.html",
    "https://www.lemonde.fr/outre-mer/article/2026/07/31/guadeloupe-un-batiment-en-travaux-s-effondre-a-pointe-a-pitre-tuant-un-ouvrier_6737078_1840826.html",
    "https://www.lemonde.fr/sport/article/2026/07/31/avalanche-au-pakistan-nirmal-purja-et-neuf-alpinistes-portes-disparus-sur-le-broad-peak_6737096_3242.html",
-   "https://www.lemonde.fr/series-d-ete/article/2026/07/30/reinhold-messner-le-collectionneur-apres-les-quatorze-sommets-de-plus-de-8-000-metres-sept-chateaux-et-musees-a-son-nom_6737036_3451060.html"
+   "https://www.lemonde.fr/series-d-ete/article/2026/07/30/reinhold-messner-le-collectionneur-apres-les-quatorze-sommets-de-plus-de-8-000-metres-sept-chateaux-et-musees-a-son-nom_6737036_3451060.html",
+   "https://www.lemonde.fr/economie/article/2026/07/31/autour-de-la-dune-du-pilat-malgre-le-retour-des-touristes-les-plaies-de-l-incendie-de-2022-ne-sont-pas-toutes-refermees_6737091_3234.html",
+   "https://www.lemonde.fr/politique/article/2026/07/31/la-france-gele-les-avoirs-de-xenia-fedorova-propagandiste-pro-poutine-visee-par-un-arrete-d-expulsion_6737102_823448.html",
+   "https://www.lemonde.fr/disparitions/article/2026/07/31/franco-baresi-legendaire-defenseur-italien-est-mort_6737104_3382.html",
+   "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-point-sur-la-situation_6737099_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/nantes/nantes-un-nouvel-incendie-ravage-un-campement-rom-aux-portes-de-la-ville-8-hectares-brules-20260723",
-   "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260714",
-   "https://www.lefigaro.fr/faits-divers/meurtre-de-thomas-a-crepol-la-circonstance-aggravante-de-racisme-finalement-retenue-par-les-juges-20260723",
-   "https://tvmag.lefigaro.fr/programme-tv/people/on-attend-les-consignes-julien-courbet-et-ses-chevaux-en-proie-aux-flammes-au-cap-ferret-20260723",
-   "https://www.lefigaro.fr/actualite-france/la-france-est-elle-suffisamment-equipee-en-moyens-aeriens-pour-lutter-contre-les-incendies-de-forets-20260723",
-   "https://www.lefigaro.fr/faits-divers/ils-ont-resolu-deux-cold-cases-en-deux-jours-pres-de-bayonne-l-incroyable-operation-de-plongeurs-americains-dans-l-adour-20260723",
    "https://www.lefigaro.fr/cinema/l-odyssee-fait-chavirer-le-public-francais-en-enregistrant-1-84-million-d-entrees-en-une-semaine-20260723",
    "https://www.lefigaro.fr/international/ses-convictions-ressemblent-a-celles-d-un-americain-moyen-joe-rogan-le-roi-des-podcasteurs-faiseur-d-opinion-debride-20260723",
    "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-les-grimpeurs-attendus-une-premiere-victoire-tricolore-possible-a-orcieres-merlette-suivez-la-18e-etape-20260723",
@@ -905,11 +899,15 @@
    "https://www.lefigaro.fr/international/donald-trump-annonce-un-accord-sur-le-desarmement-complet-du-hamas-a-gaza-20260731",
    "https://www.lefigaro.fr/international/des-hauts-places-du-hamas-confirment-un-accord-sur-les-armes-du-mouvement-et-le-retrait-graduel-d-israel-de-gaza-20260731",
    "https://www.lefigaro.fr/international/voici-ce-qui-se-passait-sous-biden-la-maison-blanche-utilise-des-images-des-migrants-a-ceuta-pour-defendre-sa-politique-20260731",
-   "https://www.lefigaro.fr/international/maroc-des-centaines-de-personnes-en-route-pour-la-frontiere-avec-l-enclave-espagnole-de-ceuta-20260730"
+   "https://www.lefigaro.fr/international/maroc-des-centaines-de-personnes-en-route-pour-la-frontiere-avec-l-enclave-espagnole-de-ceuta-20260730",
+   "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
+   "https://www.lefigaro.fr/conso/en-france-pres-d-un-fumeur-sur-cinq-admet-jeter-son-megot-par-la-fenetre-en-voiture-20260731",
+   "https://www.lefigaro.fr/societes/train-laveur-inspection-des-catenaires-comment-la-sncf-prepare-la-reprise-du-trafic-apres-l-incendie-en-gironde-20260731",
+   "https://www.lefigaro.fr/societes/latecoere-s-associe-a-hynaero-pour-developper-un-avion-bombardier-d-eau-francais-20260730",
+   "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-annonce-un-accord-sur-le-desarmement-du-hamas-a-gaza-20260731",
+   "https://www.lefigaro.fr/international/une-etape-monumentale-selon-donald-trump-ce-que-l-on-sait-sur-l-accord-annonce-pour-le-desarmement-du-hamas-20260731"
   ],
   "https://www.france24.com/fr/rss": [
-   "27d9c512-85fe-11f1-b041-fda11fdbb396",
-   "85756ac2-85ff-11f1-ad0f-fda11fdbb396",
    "a0d3787a-85fc-11f1-81c3-fda11fdbb396",
    "964623be-8622-11f1-8d3b-a53119035be2",
    "972b7af4-8640-11f1-a849-cf23467db470",
@@ -1207,7 +1205,9 @@
    "2d286950-8c6c-11f1-9236-4f37b99bd6b3",
    "769a7200-8c6b-11f1-8bb1-4f37b99bd6b3",
    "d8fc182c-8c89-11f1-a47a-55fae7668579",
-   "a77d7414-8c6e-11f1-8e6b-bbfd745c0923"
+   "a77d7414-8c6e-11f1-8e6b-bbfd745c0923",
+   "deefb566-8cae-11f1-bb93-5ba8de91bb98",
+   "6907d076-8ca5-11f1-b9b1-ffe5bcc40af6"
   ],
   "https://www.rfi.fr/fr/rss": [
    "35dfdfac-822a-11f1-8554-cf2e8c47f12c",
@@ -2610,55 +2610,51 @@
  "evenements_attente": [
   {
    "faits": [
-    "Donald Trump annonce qu'un accord a été conclu pour le désarmement complet du Hamas",
-    "L'accord prévoit le désarmement des combattants du Hamas et d'autres groupes armés dans la bande de Gaza",
-    "Trump qualifie cela d'« étape monumentale » dans la mise en œuvre de son plan de paix",
-    "Trump affirme qu'Israël quitterait Gaza une fois le Hamas désarmé",
-    "Un processus doit ouvrir la voie à un retrait progressif des forces israéliennes et au déploiement d'une force internationale de stabilisation"
+    "Le Hamas et Israël ont annoncé un accord sur la deuxième phase de leur trêve",
+    "L'accord lie le désarmement du Hamas au retrait israélien de la bande de Gaza",
+    "Donald Trump a qualifié cet accord d'étape monumentale",
+    "Selon le Hamas, si Israël n'applique pas l'accord, le mouvement ne le fera pas non plus"
    ],
-   "qui": "Donald Trump",
-   "ou": "Gaza",
+   "qui": "Hamas, Israël, Donald Trump",
+   "ou": "Gaza, Moyen-Orient",
    "categorie": "international",
    "sensible": true,
-   "confiance": 72,
+   "confiance": 85,
    "sources": [
-    "Le Figaro",
-    "France 24",
-    "Ouest-France"
+    "franceinfo",
+    "Le Figaro"
    ],
    "non_confirme": [
-    "Caractère réel de l'accord (annoncé par Trump, pas d'annonce confirmée du Hamas ou d'intermédiaires indépendants)",
-    "Modalités concrètes de mise en œuvre"
+    "Les détails précis de mise en œuvre de l'accord"
    ],
-   "importance": 85,
-   "empreinte": "791408b04e51cb02",
-   "score": 89,
-   "fiab_max": 85,
-   "nb_sources": 3,
-   "depuis": "2026-07-30T23:46:51.648953+00:00"
+   "importance": 82,
+   "empreinte": "8875c6b7c73eb1e3",
+   "score": 96,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-31T07:41:37.960427+00:00"
   },
   {
    "faits": [
-    "Colin Gray, 55 ans, a donné un fusil d'assaut à son fils Colt pour Noël en 2023",
-    "Le fils avait préalablement menacé d'ouvrir le feu dans une école",
-    "Colin Gray a été condamné à quinze ans de prison",
-    "C'est le premier parent américain reconnu coupable d'un tel crime"
+    "Antoni Lallican, photojournaliste français, a été tué en Ukraine",
+    "Il a reçu la Légion d'honneur à titre posthume",
+    "Le reporter accompagnait une unité militaire près du front"
    ],
-   "qui": "Colin Gray",
-   "ou": "États-Unis",
-   "categorie": "justice",
+   "qui": "Antoni Lallican (photojournaliste français)",
+   "ou": "Ukraine",
+   "categorie": "deces_personnalite",
    "sensible": true,
-   "confiance": 90,
+   "confiance": 88,
    "sources": [
-    "Le Monde"
+    "franceinfo"
    ],
    "non_confirme": [],
-   "importance": 75,
-   "empreinte": "21fc1fb2f9062d12",
-   "score": 87,
+   "importance": 72,
+   "empreinte": "174719bc1206d50b",
+   "score": 86,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-30T23:46:51.648955+00:00"
+   "depuis": "2026-07-31T07:41:37.960430+00:00"
   },
   {
    "faits": [
@@ -2709,28 +2705,6 @@
   },
   {
    "faits": [
-    "Des centaines de migrants ont soudainement rejoint par la mer l'enclave espagnole de Ceuta depuis le Maroc jeudi",
-    "Les migrants sont dans leur immense majorité des jeunes hommes et des adolescents",
-    "Cet afflux ravive les tensions entre Madrid et Rabat"
-   ],
-   "qui": "Espagne, Maroc",
-   "ou": "Ceuta",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 70,
-   "empreinte": "c55c92ad16ce4f8e",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T01:18:45.794855+00:00"
-  },
-  {
-   "faits": [
     "Des frappes aériennes menées par Africa Corps, sous contrôle russe, ont tué des civils à Kirnya au Mali",
     "Les bombardements ont eu lieu le 15 juin 2026 sur le village de Kirnya dans la région de Mopti",
     "Human Rights Watch a publié une enquête révélant ces frappes",
@@ -2778,26 +2752,25 @@
   },
   {
    "faits": [
-    "La nomination du futur ambassadeur de France à Washington est compromise",
-    "Aurélien Lechevallier devait partir aux États-Unis en septembre",
-    "Son départ sera ajouné voire bloqué en raison d'un désaccord diplomatique",
-    "Le désaccord porte sur la non-reconduction de Volker Türk à la tête du Haut-Commissariat aux droits de l'homme des Nations unies"
+    "La Fifa maintient son projet de création d'une société commerciale ouverte aux investisseurs étrangers",
+    "L'UEFA a annoncé un boycott des prochaines Coupes du monde de football en réaction",
+    "Le projet a suscité des critiques"
    ],
-   "qui": "France, administration Trump, Aurélien Lechevallier, Volker Türk",
-   "ou": "Washington",
-   "categorie": "politique",
+   "qui": "Fifa, UEFA",
+   "ou": null,
+   "categorie": "sport",
    "sensible": false,
-   "confiance": 85,
+   "confiance": 86,
    "sources": [
-    "Le Monde"
+    "France 24"
    ],
    "non_confirme": [],
-   "importance": 60,
-   "empreinte": "a129b98344a17182",
-   "score": 82,
-   "fiab_max": 90,
+   "importance": 62,
+   "empreinte": "f6321cabca62ae3d",
+   "score": 81,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-31T01:18:45.794859+00:00"
+   "depuis": "2026-07-31T07:41:37.960439+00:00"
   },
   {
    "faits": [
@@ -2823,25 +2796,75 @@
   },
   {
    "faits": [
-    "Les 41 membres de la Concacaf ont rejeté la proposition de Gianni Infantino de privatiser une partie de la Coupe du monde",
-    "Le projet porterait sur la vente d'une partie de la Coupe du monde à des investisseurs privés",
-    "La Concacaf a annoncé son « rejet » du projet"
+    "Latécoère s'associe à Hynaero pour développer un avion bombardier d'eau français",
+    "Hynaero est basée à Istres près de Marseille",
+    "Le projet porte sur le Fregate-F100",
+    "L'objectif est une entrée en service en 2031"
    ],
-   "qui": "Concacaf, Gianni Infantino, FIFA",
-   "ou": null,
-   "categorie": "sport",
+   "qui": "Latécoère, Hynaero",
+   "ou": "France (Istres)",
+   "categorie": "economie",
    "sensible": false,
    "confiance": 88,
    "sources": [
-    "L'Équipe"
+    "Le Figaro"
    ],
    "non_confirme": [],
    "importance": 55,
-   "empreinte": "0a8368af2d1304c2",
+   "empreinte": "934c3952ed0e7eff",
    "score": 80,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-31T01:18:45.794866+00:00"
+   "depuis": "2026-07-31T07:41:37.960442+00:00"
+  },
+  {
+   "faits": [
+    "Les Gardiens de la révolution iraniens ont affirmé avoir visé une base américaine à Bahreïn",
+    "L'Iran a revendiqué la destruction de trois F-35 sur une base américaine en Jordanie",
+    "L'armée américaine a démenti la destruction des trois F-35"
+   ],
+   "qui": "Iran, États-Unis",
+   "ou": "Bahreïn, Jordanie, Moyen-Orient",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 75,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "La destruction des trois F-35 selon l'Iran (démenti par les États-Unis)"
+   ],
+   "importance": 70,
+   "empreinte": "3c97692270270b7c",
+   "score": 79,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T07:41:26.700744+00:00"
+  },
+  {
+   "faits": [
+    "Une théorie du complot circule sur les réseaux sociaux (TikTok, Facebook, X)",
+    "Cette théorie affirme que les incendies du Sud-Ouest auraient été déclenchés intentionnellement",
+    "L'objectif supposé serait de permettre l'installation d'un vaste parc photovoltaïque au sud de Bordeaux",
+    "Cette théorie se propage depuis plusieurs jours"
+   ],
+   "qui": null,
+   "ou": "Gironde, France",
+   "categorie": "autre",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "franceinfo"
+   ],
+   "non_confirme": [
+    "L'affirmation que les incendies auraient été délibérément déclenchés"
+   ],
+   "importance": 45,
+   "empreinte": "2e927a882f2206c2",
+   "score": 79,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T07:41:37.960444+00:00"
   },
   {
    "faits": [
@@ -2868,74 +2891,6 @@
   },
   {
    "faits": [
-    "Le Maroc a battu l'Algérie 1-0 en deuxième match de la CAN féminine",
-    "Le but a été marqué suite à une passe de Hanane Ait El Haj",
-    "Le Maroc remporte sa deuxième victoire du tournoi",
-    "Le Sénégal a battu le Kenya sur le même score (1-0)"
-   ],
-   "qui": "Maroc, Algérie, Sénégal, Kenya",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "573b7213168685fa",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T01:18:45.794868+00:00"
-  },
-  {
-   "faits": [
-    "Le Real Madrid débourse 25 millions d'euros pour engager Carlos Espi",
-    "Carlos Espi (21 ans) est débauché à Levante",
-    "Le contrat est de cinq ans",
-    "Cet engagement intervient face à la perte potentielle de Gonzalo Garcia"
-   ],
-   "qui": "Real Madrid, Carlos Espi, Levante",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 50,
-   "empreinte": "ba0428ad45647f3a",
-   "score": 79,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T01:18:45.794869+00:00"
-  },
-  {
-   "faits": [
-    "Benfica a battu Saint-Gall 5-0 au 2e tour retour de qualification de la Ligue Europa",
-    "Vangelis Pavlidis a brillé dans cette victoire",
-    "Le club letton d'Auda, entraîné par le Français Didier Zanetti, a éliminé le FCSB roumain en Ligue Conférence"
-   ],
-   "qui": "Benfica, Saint-Gall, Auda, FCSB, Vangelis Pavlidis, Didier Zanetti",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 45,
-   "empreinte": "1a824c6ef45a3c7f",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T01:18:45.794871+00:00"
-  },
-  {
-   "faits": [
     "Les coureuses françaises jouent les premiers rôles au Tour de France femmes 2026",
     "Le Tour de France femmes 2025 a enregistré quatre victoires d'étape et le maillot jaune pour les Françaises",
     "Ferrand-Prévôt, Kerbaol, Squiban, Géry font partie des talents tricolores du peloton"
@@ -2955,53 +2910,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T04:49:03.572108+00:00"
-  },
-  {
-   "faits": [
-    "Nabil Bentaleb, libre depuis début juillet, prolonge de deux ans son contrat à Lille",
-    "Bentaleb a 31 ans",
-    "Il est revenu à Lille en 2023, son club formateur"
-   ],
-   "qui": "Nabil Bentaleb, Lille",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "L'Équipe"
-   ],
-   "non_confirme": [],
-   "importance": 40,
-   "empreinte": "77a4b9810a2f4ea6",
-   "score": 77,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T01:18:45.794873+00:00"
-  },
-  {
-   "faits": [
-    "Un nouveau feu virulent s'est déclaré au sud-est de Brignoles dans le Var",
-    "Cet incendie a parcouru 130 hectares en moins de 24 heures après la fixation du feu du massif du Gros Bessillon",
-    "Le massif du Gros Bessillon reste sous haute surveillance",
-    "Le maire de Brignoles évoque la possible implication de la main de l'homme"
-   ],
-   "qui": null,
-   "ou": "Brignoles, Var (France)",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Confirmation de l'origine du feu"
-   ],
-   "importance": 70,
-   "empreinte": "3683a9dd8a1f0022",
-   "score": 76,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T23:46:43.393668+00:00"
   },
   {
    "faits": [
@@ -3049,114 +2957,28 @@
   },
   {
    "faits": [
-    "Centaines de migrants sont arrivés jeudi 30 juillet à Ceuta (enclave espagnole) en provenance du Maroc",
-    "La cheffe du gouvernement italien Giorgia Meloni s'est dit prête à suspendre l'accord de Schengen avec l'Espagne",
-    "L'Espagne a dénoncé la « démagogie » de l'Italie",
-    "L'Espagne a convoqué l'ambassadeur italien"
+    "Près d'un fumeur sur cinq admet jeter son mégot par la fenêtre en voiture",
+    "La Fondation Vinci Autoroutes dénonce ces comportements comme alarmants",
+    "Ces pratiques présentent un risque majeur d'incendie"
    ],
-   "qui": "Giorgia Meloni (Italie), gouvernement espagnol",
-   "ou": "Ceuta (Espagne), Maroc",
-   "categorie": "international",
+   "qui": "Fondation Vinci Autoroutes",
+   "ou": "France",
+   "categorie": "autre",
    "sensible": false,
    "confiance": 80,
    "sources": [
-    "BFMTV"
+    "Le Figaro"
    ],
-   "non_confirme": [
-    "Nombre exact de migrants arrivés"
-   ],
-   "importance": 65,
-   "empreinte": "9368fdafab869932",
+   "non_confirme": [],
+   "importance": 48,
+   "empreinte": "718615538adaad51",
    "score": 75,
-   "fiab_max": 75,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-30T23:46:51.648969+00:00"
-  },
-  {
-   "faits": [
-    "Xenia Fedorova est accusée de relayer la propagande russe",
-    "Un arrêté d'expulsion a été pris à son encontre",
-    "Laurent Nuñez, ministre de l'Intérieur, affirme que cet arrêté n'est pas une atteinte à la liberté d'expression"
-   ],
-   "qui": "Xenia Fedorova, Laurent Nuñez (ministre de l'Intérieur)",
-   "ou": "France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 75,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "Nature précise des allégations contre Xenia Fedorova"
-   ],
-   "importance": 55,
-   "empreinte": "4236fa67d97d87ce",
-   "score": 71,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T23:46:43.393641+00:00"
-  },
-  {
-   "faits": [
-    "Un double séisme a frappé le Venezuela",
-    "Les opérations de dynamitage des immeubles touchés ont commencé le 30 juillet"
-   ],
-   "qui": null,
-   "ou": "Venezuela",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 70,
-   "sources": [
-    "BFMTV"
-   ],
-   "non_confirme": [
-    "Magnitude exacte des séismes",
-    "Nombre de décès et blessés",
-    "Nombre d'immeubles endommagés"
-   ],
-   "importance": 60,
-   "empreinte": "6b60976d9eb5fec3",
-   "score": 70,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T23:46:43.393716+00:00"
-  },
-  {
-   "faits": [
-    "Les stocks de missiles des États-Unis sont au cœur des inquiétudes après plusieurs mois de guerre avec l'Iran",
-    "Un rapport alerte sur une baisse des réserves de missiles et ses conséquences pour la défense du pays",
-    "Trump donne des assurances sur les stocks"
-   ],
-   "qui": "États-Unis, Donald Trump, Iran",
-   "ou": "États-Unis",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 65,
-   "sources": [
-    "20 Minutes"
-   ],
-   "non_confirme": [
-    "Nature exacte de la « guerre avec l'Iran »",
-    "Chiffres précis des stocks",
-    "Teneur exacte du rapport"
-   ],
-   "importance": 50,
-   "empreinte": "3987e6f66e510c6c",
-   "score": 66,
-   "fiab_max": 75,
-   "nb_sources": 1,
-   "depuis": "2026-07-30T23:46:43.393740+00:00"
+   "depuis": "2026-07-31T07:41:37.960451+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "173b3e9b7dcc6790",
-   "2026-07-29T07:30:22.141859+00:00"
-  ],
-  [
-   "8f9069a5275ece92",
-   "2026-07-29T07:30:26.154350+00:00"
-  ],
   [
    "7fbd6de06220f33f",
    "2026-07-29T22:44:19.010687+00:00"
@@ -3228,17 +3050,17 @@
   [
    "6dd6209f4c4c0fd8",
    "2026-07-31T04:49:08.654911+00:00"
+  ],
+  [
+   "282185a294034a5b",
+   "2026-07-31T07:41:39.079850+00:00"
+  ],
+  [
+   "b7e46d7fc7e23c33",
+   "2026-07-31T07:41:43.017817+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "4f368f989568b208",
-   "2026-07-29T07:30:17.151552+00:00"
-  ],
-  [
-   "8155529635d43531",
-   "2026-07-29T07:30:21.089328+00:00"
-  ],
   [
    "de0f8c6491c66c53",
    "2026-07-29T22:44:12.699924+00:00"
@@ -3310,6 +3132,14 @@
   [
    "daea31d10fe612b3",
    "2026-07-31T04:49:03.572071+00:00"
+  ],
+  [
+   "c659041a46c8fa0d",
+   "2026-07-31T07:41:32.556033+00:00"
+  ],
+  [
+   "54774f0f763f1741",
+   "2026-07-31T07:41:37.960419+00:00"
   ]
  ],
  "depeches_du_jour": [
@@ -3320,12 +3150,14 @@
   "⚽ John Textor, ancien président de l'OL, assigne le club devant le tribunal de commerce de Lyon et réclame 20 millions d'euros. L'homme d'affaires a été évincé après de graves problèmes budgétaires. (Le Monde, L'Équipe)",
   "L'Italie menace de suspendre l'Espagne de l'espace Schengen après l'arrivée de migrants à Ceuta. Madrid convoque l'ambassadeur italien et dénonce la « démagogie » de Rome. (franceinfo)",
   "🇫🇷 Un incendie ravage la Gironde depuis neuf jours, dévastant 42 000 hectares. La commune du Porge, épicentre du sinistre avec 3 500 habitants, s'interroge sur son avenir. Un centre opérationnel coordonne les opérations à Bordeaux. (franceinfo)",
-  "🇺🇸 Donald Trump annonce un accord sur le désarmement du Hamas et le retrait israélien de Gaza. Le Hamas confirme cet accord, qui marque la deuxième phase de la trêve entre les deux parties. (franceinfo, France 24, RFI)"
+  "🇺🇸 Donald Trump annonce un accord sur le désarmement du Hamas et le retrait israélien de Gaza. Le Hamas confirme cet accord, qui marque la deuxième phase de la trêve entre les deux parties. (franceinfo, France 24, RFI)",
+  "🌡️ Après une semaine d'incendies en Gironde, la situation se stabilise. Bien que 42 000 hectares aient brûlé, le feu reste contenu. Le trafic ferroviaire interrompu au sud de Bordeaux reprendra après inspection des voies. (franceinfo)",
+  "Franco Baresi, légende défensive de l'AC Milan, est décédé à 66 ans. Le footballeur italien a passé toute sa carrière au club milanais, dont il fut capitaine durant ses années glorieuses de la fin des années 1980. (franceinfo, Le Monde)"
  ],
  "recap_date": "2026-07-30",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-31",
-  "publies": 8
+  "publies": 10
  }
 }

@@ -9569,3 +9569,41 @@
 {"decision": "controle", "evt": "daea31d10fe612b3", "motif": "ok_sim_0.41", "ts": "2026-07-31T04:49:03+00:00"}
 {"decision": "publie", "empreinte": "b57e824c43c0b524", "post_id": "2083052300495401008", "carte": true, "texte": "🇫🇷 Un incendie ravage la Gironde depuis neuf jours, dévastant 42 000 hectares. La commune du Porge, épicentre du sinistre avec 3 500 habitants, s'interroge sur son avenir. Un centre opérationnel coordonne les opérations à Bordeaux. (franceinfo)", "ts": "2026-07-31T04:49:04+00:00"}
 {"decision": "publie", "empreinte": "6dd6209f4c4c0fd8", "post_id": "2083052317469770125", "carte": true, "texte": "🇺🇸 Donald Trump annonce un accord sur le désarmement du Hamas et le retrait israélien de Gaza. Le Hamas confirme cet accord, qui marque la deuxième phase de la trêve entre les deux parties. (franceinfo, France 24, RFI)", "ts": "2026-07-31T04:49:08+00:00"}
+{"decision": "abandon_attente", "evt": "791408b04e51cb02", "categorie": "international", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "21fc1fb2f9062d12", "categorie": "justice", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "c55c92ad16ce4f8e", "categorie": "international", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "a129b98344a17182", "categorie": "politique", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "0a8368af2d1304c2", "categorie": "sport", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "573b7213168685fa", "categorie": "sport", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "ba0428ad45647f3a", "categorie": "sport", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "1a824c6ef45a3c7f", "categorie": "sport", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "77a4b9810a2f4ea6", "categorie": "sport", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "3683a9dd8a1f0022", "categorie": "meteo_catastrophe", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "9368fdafab869932", "categorie": "international", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "4236fa67d97d87ce", "categorie": "politique", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "6b60976d9eb5fec3", "categorie": "meteo_catastrophe", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "abandon_attente", "evt": "3987e6f66e510c6c", "categorie": "international", "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "df637756318ca27b", "score": 98, "categorie": "justice", "sensible": true, "confiance": 92, "sources": ["franceinfo", "Le Figaro"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "c659041a46c8fa0d", "score": 99, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo", "France 24", "Le Figaro"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "2e927a882f2206c2", "score": 79, "categorie": "autre", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "8da605d32026835c", "score": 96, "categorie": "politique", "sensible": true, "confiance": 90, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "174719bc1206d50b", "score": 86, "categorie": "deces_personnalite", "sensible": true, "confiance": 88, "sources": ["franceinfo"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "54774f0f763f1741", "score": 99, "categorie": "deces_personnalite", "sensible": true, "confiance": 95, "sources": ["franceinfo", "Le Monde"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "8875c6b7c73eb1e3", "score": 96, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["franceinfo", "Le Figaro"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "attente", "evt": "3c97692270270b7c", "score": 79, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["Le Monde"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "934c3952ed0e7eff", "score": 80, "categorie": "economie", "sensible": false, "confiance": 88, "sources": ["Le Figaro"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "f6321cabca62ae3d", "score": 81, "categorie": "sport", "sensible": false, "confiance": 86, "sources": ["France 24"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "718615538adaad51", "score": 75, "categorie": "autre", "sensible": false, "confiance": 80, "sources": ["Le Figaro"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "09423c7e8091dc56", "score": 86, "categorie": "sport", "sensible": false, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "df93ae18d2bf403a", "score": 85, "categorie": "faits_divers", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "attente", "evt": "df352c2f193e96bf", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "19656de54f6cedff", "score": 82, "categorie": "economie", "sensible": false, "confiance": 85, "sources": ["RFI"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "aec0aad8443f0b3f", "score": 81, "categorie": "international", "sensible": false, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "ccaf4fb0c2b85995", "score": 79, "categorie": "politique", "sensible": false, "confiance": 80, "sources": ["franceinfo"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "4a8293d816231908", "score": 77, "categorie": "sport", "sensible": false, "confiance": 78, "sources": ["franceinfo"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "7fc1d70d1f4bc5e8", "score": 76, "categorie": "politique", "sensible": false, "confiance": 75, "sources": ["Le Figaro"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "publier", "evt": "871e5eff83dd4824", "score": 76, "categorie": "economie", "sensible": false, "confiance": 75, "sources": ["RFI"], "ts": "2026-07-31T07:41:26+00:00"}
+{"decision": "controle", "evt": "c659041a46c8fa0d", "motif": "ok_signal_retrograde_sim_0.32", "ts": "2026-07-31T07:41:32+00:00"}
+{"decision": "controle", "evt": "54774f0f763f1741", "motif": "ok_sim_0.43", "ts": "2026-07-31T07:41:37+00:00"}
+{"decision": "publie", "empreinte": "282185a294034a5b", "post_id": "2083095730324177262", "carte": true, "texte": "🌡️ Après une semaine d'incendies en Gironde, la situation se stabilise. Bien que 42 000 hectares aient brûlé, le feu reste contenu. Le trafic ferroviaire interrompu au sud de Bordeaux reprendra après inspection des voies. (franceinfo)", "ts": "2026-07-31T07:41:39+00:00"}
+{"decision": "publie", "empreinte": "b7e46d7fc7e23c33", "post_id": "2083095746837172711", "carte": true, "texte": "Franco Baresi, légende défensive de l'AC Milan, est décédé à 66 ans. Le footballeur italien a passé toute sa carrière au club milanais, dont il fut capitaine durant ses années glorieuses de la fin des années 1980. (franceinfo, Le Monde)", "ts": "2026-07-31T07:41:43+00:00"}
