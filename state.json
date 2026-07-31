@@ -2,7 +2,6 @@
  "version": 2,
  "flux_vus": {
   "https://www.franceinfo.fr/titres.rss": [
-   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/il-n-y-a-pas-de-nuit-on-ne-dort-pas-aux-cotes-des-soldats-du-feu-en-gironde_8121161.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/faits-divers/un-surveillant-de-college-de-24-ans-mis-en-examen-pour-viol-sur-mineur-dans-le-pas-de-calais_8121200.html#xtor=RSS-3-[lestitres]",
    "https://la1ere.franceinfo.fr/guadeloupe/explosion-a-la-distillerie-de-montebello-a-petit-bourg-cinq-blesses-1722610.html#xtor=RSS-3-[lestitres]",
    "https://www.franceinfo.fr/internet/google/l-ue-va-payer-un-tres-lourd-prix-pour-l-amende-record-qu-elle-a-infligee-a-google-menace-donald-trump_8121134.html#xtor=RSS-3-[lestitres]",
@@ -301,17 +300,10 @@
    "https://www.franceinfo.fr/monde/grece/la-grece-frappee-par-de-nouveaux-incendies-une-banlieue-d-athenes-evacuee_8130416.html#xtor=RSS-3-[lestitres]",
    "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/cela-va-nous-permettre-de-realiser-des-projets-sur-oleron-le-conseil-constitutionnel-valide-l-amende-de-8-6-millions-d-euros-infligee-a-airbnb-3395236.html#xtor=RSS-3-[lestitres]",
    "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/il-nous-aura-fait-courir-votre-chat-cette-association-sauve-les-animaux-domestiques-et-sauvages-victimes-oubliees-de-l-incendie-en-gironde-3395125.html#xtor=RSS-3-[lestitres]",
-   "https://www.franceinfo.fr/sports/halterophilie/je-suis-raciste-et-je-l-ai-fait-expres-une-halterophile-manque-le-sacre-mondial-apres-qu-un-assistant-avoue-avoir-deliberement-penalise-sa-performance_8120840.html#xtor=RSS-3-[lestitres]"
+   "https://www.franceinfo.fr/sports/halterophilie/je-suis-raciste-et-je-l-ai-fait-expres-une-halterophile-manque-le-sacre-mondial-apres-qu-un-assistant-avoue-avoir-deliberement-penalise-sa-performance_8120840.html#xtor=RSS-3-[lestitres]",
+   "https://www.franceinfo.fr/internet/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-moins-de-quatre-ans-apres-le-lancement-de-chatgpt_8130446.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/campus/article/2026/07/20/avec-un-physique-comme-ca-vous-devriez-faire-autre-chose-le-visage-un-concentre-de-prejuges-au-travail_6726633_4401467.html",
-   "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-la-region-de-moscou-visee-par-plus-de-400-drones-la-plupart-interceptes-selon-le-maire-de-la-capitale-russe_6725306_3210.html",
-   "https://www.lemonde.fr/economie/article/2026/07/20/en-pleine-frenesie-de-megadeals-les-entreprises-mondiales-font-fi-des-tensions-geopolitiques_6726636_3234.html",
-   "https://www.lemonde.fr/international/article/2026/07/20/au-royaume-uni-nigel-farage-englue-dans-un-duel-contre-le-comte-a-tete-de-poubelle_6726565_3210.html",
-   "https://www.lemonde.fr/argent/article/2026/07/20/credit-immobilier-des-taux-stables-cet-ete_6726708_1657007.html",
-   "https://www.lemonde.fr/afrique/article/2026/07/20/la-guinee-demande-a-la-france-la-restitution-de-manuscrits-pilles-pendant-la-colonisation_6726912_3212.html",
-   "https://www.lemonde.fr/international/article/2026/07/20/en-inde-la-police-disperse-une-manifestation-contre-les-fraudes-aux-examens_6726913_3210.html",
-   "https://www.lemonde.fr/international/article/2026/07/21/face-aux-etats-unis-l-iran-parie-sur-une-guerre-d-usure_6728460_3210.html",
    "https://www.lemonde.fr/politique/article/2026/07/21/le-projet-de-loi-d-urgence-agricole-adopte-dans-la-cacophonie-par-une-assemblee-nationale-fracturee-sur-les-pesticides_6728117_823448.html",
    "https://www.lemonde.fr/afrique/live/2026/07/21/ebola-en-rdc-posez-vos-questions-a-nos-journalistes-morgane-le-cam-et-philemon-barbier-de-retour-de-reportage-dans-l-epicentre-de-l-epidemie_6728461_3212.html",
    "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html",
@@ -603,14 +595,17 @@
    "https://www.lemonde.fr/politique/article/2026/07/31/un-responsable-de-la-fnsea-presente-ses-excuses-a-marine-tondelier-apres-l-avoir-insultee_6737126_823449.html",
    "https://www.lemonde.fr/afrique/article/2026/07/31/quand-le-gouvernement-americain-publie-une-carte-fantaisiste-de-l-afrique_6737154_3212.html",
    "https://www.lemonde.fr/societe/article/2026/07/31/la-mere-des-cinq-bebes-morts-decouverts-a-orange-a-ete-mise-en-examen-et-placee-en-detention-provicoire_6737159_3224.html",
-   "https://www.lemonde.fr/politique/article/2026/07/31/en-nouvelle-caledonie-un-nouveau-president-de-gouvernement-sans-majorite-et-avec-des-defis-majeurs_6737146_823448.html"
+   "https://www.lemonde.fr/politique/article/2026/07/31/en-nouvelle-caledonie-un-nouveau-president-de-gouvernement-sans-majorite-et-avec-des-defis-majeurs_6737146_823448.html",
+   "https://www.lemonde.fr/planete/live/2026/07/31/en-direct-incendies-2-000-personnes-evacuees-dans-le-var-apres-une-reprise-de-feu-en-gironde-la-crise-n-est-pas-finie-le-feu-n-est-pas-fixe-mais-on-progresse-declare-la-prefete_6737097_3244.html",
+   "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-donald-trump-dit-vouloir-faire-tres-attention-avant-d-autoriser-kiev-a-produire-des-missiles-patriot_6732775_3210.html",
+   "https://www.lemonde.fr/idees/article/2026/07/31/en-inde-loin-de-verser-dans-la-violence-les-jeunes-manifestants-ont-opte-pour-le-rire-la-danse-et-le-chant_6737165_3232.html",
+   "https://www.lemonde.fr/culture/article/2026/07/31/en-serbie-la-serie-operation-sabre-ravive-les-fantomes-du-passe_6737162_3246.html",
+   "https://www.lemonde.fr/planete/article/2026/07/31/el-nino-qui-se-renforce-attise-une-planete-deja-en-feu-s-alarme-le-chef-de-l-onu_6737163_3244.html",
+   "https://www.lemonde.fr/actualite-medias/article/2026/07/31/les-journalistes-de-marianne-affirment-que-jean-quatremer-pourrait-tordre-l-adn-du-magazine-et-brusquer-ses-lecteurs_6737160_3236.html",
+   "https://www.lemonde.fr/societe/article/2026/07/31/surpopulation-carcerale-au-1-juillet-le-nombre-de-detenus-dans-les-prisons-francaises-atteint-89-446-un-nouveau-record_6737164_3224.html",
+   "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-trafic-maritime-est-toujours-impossible-dans-le-detroit-d-ormuz-affirme-l-iran_6737099_3210.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
-   "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-l-equatorien-richard-carapaz-s-offre-un-succes-de-prestige-a-orcieres-merlette-les-favoris-se-neutralisent-avant-l-alpe-d-huez-20260723",
-   "https://www.lefigaro.fr/international/jetes-dans-des-trous-tortures-et-annules-la-sale-guerre-de-poutine-un-business-criminel-et-mafieux-qui-exploite-et-broie-ses-propres-soldats-20260723",
-   "https://www.lefigaro.fr/international/ukraine-limoge-l-ex-ministre-de-la-defense-insiste-pour-reintegrer-ses-fonctions-20260723",
-   "https://www.lefigaro.fr/actualite-france/promotion-de-la-polygamie-femmes-qui-doivent-raser-les-murs-et-se-plier-au-devoir-conjugal-les-derives-d-un-predicateur-islamiste-sur-les-reseaux-20260723",
-   "https://www.lefigaro.fr/gastronomie/marion-cotillard-pharrell-williams-et-meme-robert-de-niro-comment-jean-imbert-est-devenu-le-cuisinier-des-stars-avant-de-se-bruler-les-ailes-20260723",
    "https://www.lefigaro.fr/musique/un-concert-du-chanteur-franco-israelien-amir-annule-pour-raisons-de-securite-a-marseille-apres-des-appels-au-boycott-propalestinien-20260723",
    "https://www.lefigaro.fr/international/incendies-en-espagne-3500-personnes-evacuees-d-une-localite-a-60-km-de-madrid-20260723",
    "https://www.lefigaro.fr/international/guerre-en-ukraine-la-fuite-en-avant-de-vladimir-poutine-20260723",
@@ -905,15 +900,14 @@
    "https://www.lefigaro.fr/international/un-chaos-absolu-a-ceuta-le-symbole-d-une-espagne-debordee-face-a-l-afflux-de-migrants-illegaux-20260731",
    "https://www.lefigaro.fr/international/ceuta-cette-enclave-autonome-espagnole-au-coeur-des-tensions-migratoires-20260731",
    "https://www.lefigaro.fr/societes/incendies-en-gironde-le-trafic-ferroviaire-va-reprendre-a-partir-de-samedi-au-sud-de-bordeaux-20260731",
-   "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260731"
+   "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260731",
+   "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-l-europe-face-a-une-nouvelle-tempete-migratoire-20260731",
+   "https://www.lefigaro.fr/politique/allez-vous-croiser-un-ministre-cet-ete-decouvrez-la-carte-des-vacances-du-gouvernement-20260731",
+   "https://www.lefigaro.fr/international/a-moins-de-trois-mois-des-elections-legislatives-israel-reste-sceptique-apres-l-accord-sur-le-desarmement-du-hamas-a-gaza-20260731",
+   "https://www.lefigaro.fr/societes/dans-la-tempete-la-surprenante-acceleration-des-fleurons-du-cac-40-20260731",
+   "https://www.lefigaro.fr/economie/la-moindre-deception-se-paie-cher-pourquoi-la-bourse-reagit-aussi-violemment-aux-bonnes-et-aux-mauvaises-surprises-20260731"
   ],
   "https://www.france24.com/fr/rss": [
-   "19b82a50-8658-11f1-9f01-cfff3918505a",
-   "afd1fdae-8658-11f1-9c02-0571ab935a08",
-   "d31a2014-865a-11f1-a09f-cfff3918505a",
-   "64e847e0-85ee-11f1-b1e8-03741cba6343",
-   "4a25dad6-8633-11f1-b6c5-17bbd799bba4",
-   "c05cdb8c-8688-11f1-b908-a90349697956",
    "e33bf140-8685-11f1-a56b-a90349697956",
    "df56beb8-867e-11f1-8e80-3124adb8251c",
    "2e1a0f16-866e-11f1-971d-8b91e7fe4f70",
@@ -1207,7 +1201,13 @@
    "809e91f4-8cf8-11f1-b93b-d105dd1b7a3f",
    "a15ae534-8cf6-11f1-b7c8-8b20a881bfb7",
    "143e2dfe-8cf7-11f1-817b-8b20a881bfb7",
-   "e0d20acc-8cf5-11f1-847a-8b20a881bfb7"
+   "e0d20acc-8cf5-11f1-847a-8b20a881bfb7",
+   "bbd4ad92-8d09-11f1-99fa-c345683a967f",
+   "d56b38da-8cef-11f1-83df-8b20a881bfb7",
+   "74a7273a-8d02-11f1-b230-a9c0ee6f7e94",
+   "b4317fe2-8cf1-11f1-8dbb-8b20a881bfb7",
+   "fb6be006-8cf5-11f1-9f4d-8b20a881bfb7",
+   "7af4d940-8cf1-11f1-85dd-8b20a881bfb7"
   ],
   "https://www.rfi.fr/fr/rss": [
    "35dfdfac-822a-11f1-8554-cf2e8c47f12c",
@@ -2721,36 +2721,77 @@
   },
   {
    "faits": [
-    "Plus de 60 000 migrants ont traversé la frontière vers Ceuta en quelques heures",
-    "34 migrants sont morts selon le président de l'enclave espagnole Juan Jesus Vivas",
-    "La population locale de Ceuta est estimée à environ 85 000 habitants",
-    "25 000 migrants étaient déjà repartis au Maroc vendredi selon le ministère de l'Intérieur espagnol",
-    "Le Premier ministre espagnol Pedro Sanchez s'est rendu sur place",
-    "L'Espagne dénonce une 'attaque' contre son intégrité territoriale",
-    "Des rumeurs lancées par des 'mafias de trafiquants d'êtres humains' auraient déclenché cet afflux",
-    "Emmanuel Macron a demandé au ministre de l'Intérieur Laurent Nunez de renforcer les contrôles à la frontière franco-espagnole",
-    "La France propose un appui à l'Espagne, potentiellement via Frontex",
-    "Le déploiement de la 'Force Frontière d'intervention rapide' a été annoncé"
+    "OpenAI annonce avoir dépassé le milliard d'utilisateurs actifs",
+    "Cela représente moins de quatre ans après le lancement de ChatGPT",
+    "OpenAI compte désormais deux millions de clients entreprise"
    ],
-   "qui": "Juan Jesus Vivas (président de Ceuta), Pedro Sanchez (Premier ministre espagnol), Emmanuel Macron (président français)",
-   "ou": "Ceuta (enclave espagnole), Maroc, frontière franco-espagnole",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 85,
+   "qui": "OpenAI",
+   "ou": null,
+   "categorie": "sciences",
+   "sensible": false,
+   "confiance": 92,
    "sources": [
     "franceinfo",
-    "Le Monde",
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "d603c7b769de3f10",
+   "score": 98,
+   "fiab_max": 90,
+   "nb_sources": 2,
+   "depuis": "2026-07-31T18:42:01.411005+00:00"
+  },
+  {
+   "faits": [
+    "Environ 60 000 migrants sont arrivés dans l'enclave espagnole de Ceuta depuis le Maroc",
+    "Le Premier ministre espagnol Pedro Sanchez a qualifié cet afflux d'« attaque » et de « violation de l'intégrité territoriale de l'Espagne »",
+    "Plusieurs hypothèses sont évoquées : des rumeurs d'ouverture d'un poste frontière, la politique migratoire de Pedro Sanchez, l'inaction des autorités marocaines",
+    "Une décision de justice récente concernant la reconduite des migrants arrivés par la mer aurait été interprétée de manière malhonnête « par les mafias »"
+   ],
+   "qui": "Migrants, Pedro Sanchez, autorités marocaines",
+   "ou": "Ceuta, Maroc, Espagne",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "France 24",
     "Le Figaro"
    ],
    "non_confirme": [
-    "Responsabilité directe des 'mafias de trafiquants' dans le déclenchement de l'afflux"
+    "les causes exactes de l'afflux massif de migrants"
    ],
-   "importance": 92,
-   "empreinte": "79e8864dfffa6642",
-   "score": 98,
+   "importance": 80,
+   "empreinte": "4b4fff79cc811153",
+   "score": 95,
+   "fiab_max": 85,
+   "nb_sources": 2,
+   "depuis": "2026-07-31T18:42:01.411007+00:00"
+  },
+  {
+   "faits": [
+    "Incendies en France : 2 000 personnes évacuées dans le Var après une reprise de feu",
+    "Le feu du Gros Bessillon a repris dans l'après-midi",
+    "Les nouvelles évacuations concernent les communes de Correns et de Montfort-sur-Argens",
+    "Le feu est attisé par un fort mistral",
+    "En Gironde, environ 200 000 personnes ont pu rentrer chez elles dans une vingtaine de communes sur 220 000 déplacés",
+    "La préfète de Gironde déclare que la crise n'est pas finie et le feu n'est pas fixé"
+   ],
+   "qui": "Préfecture de Gironde (Sophie Brocas)",
+   "ou": "Var, Gironde, France",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 85,
+   "empreinte": "16f2aaa6e4ba69bc",
+   "score": 90,
    "fiab_max": 90,
-   "nb_sources": 3,
-   "depuis": "2026-07-31T12:31:06.808469+00:00"
+   "nb_sources": 1,
+   "depuis": "2026-07-31T18:42:01.411008+00:00"
   },
   {
    "faits": [
@@ -2777,27 +2818,73 @@
   },
   {
    "faits": [
-    "Cinq nourrissons ont été retrouvés morts dans un appartement à Orange",
-    "La découverte a eu lieu lundi 27 juillet",
-    "La mère a été déférée vendredi matin devant un juge d'instruction",
-    "La mère est visée pour mise en examen pour meurtre sur mineur de moins de 15 ans",
-    "Le compagnon de la mère a été libéré après garde à vue"
+    "El Niño se renforce",
+    "Le chef de l'ONU s'alarme en déclarant que ce phénomène « attise une planète déjà en feu »",
+    "Ce phénomène naturel revient tous les deux à sept ans",
+    "Les eaux de surface dans le centre et l'est de l'océan Pacifique équatorial se réchauffent",
+    "Cela entraîne pendant plusieurs mois des modifications majeures des régimes de vent, de pression et de précipitations à l'échelle mondiale"
    ],
-   "qui": "Mère des nourrissons (identité non précisée), compagnon",
-   "ou": "Orange",
-   "categorie": "justice",
+   "qui": "ONU, chef de l'ONU",
+   "ou": "Océan Pacifique équatorial",
+   "categorie": "sciences",
    "sensible": true,
    "confiance": 90,
    "sources": [
-    "franceinfo"
+    "Le Monde"
    ],
    "non_confirme": [],
-   "importance": 78,
-   "empreinte": "bb82b1f204e306d4",
+   "importance": 82,
+   "empreinte": "40dddb9d9740aa8a",
    "score": 88,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-31T12:31:06.808474+00:00"
+   "depuis": "2026-07-31T18:42:01.411010+00:00"
+  },
+  {
+   "faits": [
+    "Donald Trump déclare vouloir faire très attention avant d'autoriser Kiev à produire des missiles Patriot",
+    "Trump exprime sa préoccupation que la technologie donnée à l'Ukraine pourrait un jour se retourner contre les États-Unis",
+    "Trump avait annoncé le 8 juillet son intention d'autoriser l'Ukraine à fabriquer des missiles Patriot à l'issue du sommet de l'OTAN à Ankara"
+   ],
+   "qui": "Donald Trump, Ukraine",
+   "ou": "Camp David, États-Unis",
+   "categorie": "international",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [
+    "autorisation finale de la production de missiles Patriot en Ukraine"
+   ],
+   "importance": 78,
+   "empreinte": "53ec0d95d79da9e6",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T18:42:01.411012+00:00"
+  },
+  {
+   "faits": [
+    "Au 1er juillet, le nombre de détenus dans les prisons françaises atteint 89 446",
+    "Ce chiffre est inédit (record)",
+    "Le taux de suroccupation dans les prisons et maisons d'arrêt était de 141,3 % au 1er juillet"
+   ],
+   "qui": "Administration pénitentiaire française",
+   "ou": "France",
+   "categorie": "justice",
+   "sensible": true,
+   "confiance": 92,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 72,
+   "empreinte": "31eab99989a8a659",
+   "score": 87,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T18:42:01.411013+00:00"
   },
   {
    "faits": [
@@ -2849,54 +2936,6 @@
   },
   {
    "faits": [
-    "Des habitants de Biganos et d'Audenge (Gironde) ont été autorisés à réintégrer leur commune",
-    "Ces deux communes s'ajoutent à douze autres pour lesquelles des mesures de réintégration ont déjà été prises",
-    "Les résidents de campings, résidences de tourisme et villages vacances de Lacanau ont également été autorisés à revenir",
-    "Plusieurs points chauds persistent autour du Cap-Ferret et de Lacanau"
-   ],
-   "qui": null,
-   "ou": "Gironde (Biganos, Audenge, Lacanau, Cap-Ferret)",
-   "categorie": "meteo_catastrophe",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 68,
-   "empreinte": "a7a191c94d853e33",
-   "score": 86,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T12:31:06.808477+00:00"
-  },
-  {
-   "faits": [
-    "L'Iran a mené une attaque présentée comme 'préventive' le 29 juillet contre les forces américaines en Jordanie",
-    "Cette action marque une inflexion : l'Iran sort de la logique de représailles aux frappes américaines",
-    "Le conflit s'élargit géographiquement",
-    "L'Iran cherche à prendre l'initiative dans le conflit"
-   ],
-   "qui": "Iran, États-Unis",
-   "ou": "Jordanie, Iran",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 82,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "Qualification de l'attaque comme 'préventive' (interprétation iranienne)"
-   ],
-   "importance": 85,
-   "empreinte": "a533a2941ef066df",
-   "score": 85,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T12:31:06.807356+00:00"
-  },
-  {
-   "faits": [
     "Paris accueille les championnats d'Europe de natation du 31 juillet au 16 août 2026",
     "C'est la première édition en France depuis 39 ans",
     "Léon Marchand participe à la compétition"
@@ -2938,6 +2977,28 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T15:06:15.582063+00:00"
+  },
+  {
+   "faits": [
+    "Un incendie de forêt près d'Athènes a provoqué un ordre d'évacuation préventive",
+    "L'île de Crète était toujours la proie des flammes",
+    "Les vents sont violents mais il y a une certaine amélioration selon les pompiers"
+   ],
+   "qui": "Protection civile grecque",
+   "ou": "Grèce, Athènes, Crète",
+   "categorie": "meteo_catastrophe",
+   "sensible": true,
+   "confiance": 88,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [],
+   "importance": 75,
+   "empreinte": "130af7fde2c7efe6",
+   "score": 84,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T18:42:01.410591+00:00"
   },
   {
    "faits": [
@@ -3037,74 +3098,29 @@
   },
   {
    "faits": [
-    "Un spéléologue a été secouru à 350 mètres de profondeur",
-    "L'homme était bloqué avec plusieurs traumatismes depuis mercredi 29 juillet",
-    "Le gouffre est situé à Arette La Pierre-Saint-Martin dans les Pyrénées-Atlantiques",
-    "L'évacuation a eu lieu vendredi 31 juillet",
-    "Les secours ont utilisé un important dispositif d'intervention en milieu souterrain"
+    "En Inde, des mobilisations d'étudiants ont eu lieu",
+    "Le ministre de l'éducation indien a démissionné le 25 juillet",
+    "Les jeunes manifestants ont opté pour le rire, la danse et le chant plutôt que la violence",
+    "Ces mobilisations révèlent une crise sociale profonde",
+    "L'issue politique reste incertaine"
    ],
-   "qui": null,
-   "ou": "Arette La Pierre-Saint-Martin, Pyrénées-Atlantiques",
-   "categorie": "faits_divers",
+   "qui": "Étudiants et manifestants indiens, ministre de l'éducation indien",
+   "ou": "Inde",
+   "categorie": "international",
    "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "b310810210ebdba2",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T12:31:06.808487+00:00"
-  },
-  {
-   "faits": [
-    "Un responsable d'un centre périscolaire près d'Orléans est visé par une plainte",
-    "La plainte porte sur 'atteinte sexuelle sur mineur'",
-    "L'enfant concerné a 5 ans",
-    "L'enfant aurait raconté des attouchements répétés subis dans les toilettes du centre",
-    "Un appel à témoignages a été lancé"
-   ],
-   "qui": "Responsable du centre périscolaire (identité non précisée)",
-   "ou": "Près d'Orléans",
-   "categorie": "justice",
-   "sensible": true,
    "confiance": 85,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "888a22eb57d9571d",
-   "score": 84,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T12:31:06.808488+00:00"
-  },
-  {
-   "faits": [
-    "La FIFA entend poursuivre son plan d'ouverture aux investisseurs privés",
-    "Carlos Cordeiro, proche conseiller de Gianni Infantino, a quitté son poste en signe de protestation vendredi",
-    "L'UEFA a annoncé qu'elle boycotterait les futures compétitions, dont les Coupes du monde, si le projet n'était pas abandonné",
-    "La FIFA dénonce que 'personne n'est en train de vendre le football'"
-   ],
-   "qui": "Gianni Infantino (président FIFA), Carlos Cordeiro (conseiller FIFA), UEFA",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 88,
    "sources": [
     "Le Monde"
    ],
-   "non_confirme": [],
-   "importance": 64,
-   "empreinte": "5d16f5a0b04c8af5",
-   "score": 84,
+   "non_confirme": [
+    "l'issue politique de la crise"
+   ],
+   "importance": 65,
+   "empreinte": "e8c43551a7533e0e",
+   "score": 83,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-31T12:31:06.808489+00:00"
+   "depuis": "2026-07-31T18:42:01.411022+00:00"
   },
   {
    "faits": [
@@ -3126,6 +3142,29 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T15:06:15.582079+00:00"
+  },
+  {
+   "faits": [
+    "La série serbe « Opération Sabre » retrace l'assassinat du premier ministre Zoran Djindjic",
+    "La série retrace l'enquête qui a suivi cet assassinat",
+    "La série a attiré 1 million de spectateurs chaque semaine",
+    "La série a ravivé les débats sur la corruption, le nationalisme et l'héritage des années Milosevic"
+   ],
+   "qui": "Producteurs de la série « Opération Sabre »",
+   "ou": "Serbie",
+   "categorie": "culture",
+   "sensible": false,
+   "confiance": 88,
+   "sources": [
+    "Le Monde"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "803d14a458bd6e4b",
+   "score": 82,
+   "fiab_max": 90,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T18:42:01.411025+00:00"
   },
   {
    "faits": [
@@ -3152,71 +3191,74 @@
   },
   {
    "faits": [
-    "Marine Tondelier exige des 'excuses publiques' après avoir été insultée sur Facebook",
-    "Un responsable agricole de l'Oise l'a traitée de 'grosse salope' sur sa page privée",
-    "L'insulte a suivi l'adoption de la loi d'urgence agricole",
-    "Marine Tondelier a reçu le soutien de nombreux responsables de gauche"
+    "Donald Trump a annoncé un « deal historique » sur le désarmement du Hamas à Gaza",
+    "Ce deal doit être accompagné par un retrait militaire progressif de l'armée israélienne",
+    "À moins de trois mois des élections législatives, Israël reste sceptique"
    ],
-   "qui": "Marine Tondelier (candidate écologiste), responsable agricole de l'Oise (identité non précisée)",
-   "ou": "Oise, France",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 88,
+   "qui": "Donald Trump, Hamas, Israël",
+   "ou": "Gaza, Israël",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 78,
    "sources": [
-    "Le Monde"
+    "Le Figaro"
    ],
-   "non_confirme": [],
-   "importance": 55,
-   "empreinte": "5ea4e0c09a82054c",
-   "score": 82,
-   "fiab_max": 90,
+   "non_confirme": [
+    "l'acceptation finale de cet accord par toutes les parties"
+   ],
+   "importance": 80,
+   "empreinte": "d5ea6d2a6ed8517b",
+   "score": 81,
+   "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-31T12:31:06.808494+00:00"
+   "depuis": "2026-07-31T18:42:01.410612+00:00"
   },
   {
    "faits": [
-    "Environ 45 000 hectares de forêts ont été dévastés par les incendies dans les Landes et la Gironde",
-    "Emmanuel Macron a appelé à 'rebâtir une forêt différente'",
-    "Plusieurs solutions de régénération forestière sont préconisées par les chercheurs",
-    "Ces solutions ne sont pas toujours entendues par les décideurs"
+    "En Somalie, l'avenir de la mission AUSSOM (Union africaine pour la stabilisation) est incertain",
+    "Les États-Unis mettront fin à leur financement de l'AUSSOM d'ici fin 2026",
+    "La menace Shabab persiste",
+    "À la frontière avec l'Éthiopie, des civils continuent de fuir les violences"
    ],
-   "qui": "Emmanuel Macron",
-   "ou": "Landes, Gironde",
-   "categorie": "meteo_catastrophe",
+   "qui": "États-Unis, Union africaine, Shabab",
+   "ou": "Somalie, Éthiopie",
+   "categorie": "international",
+   "sensible": true,
+   "confiance": 85,
+   "sources": [
+    "France 24"
+   ],
+   "non_confirme": [
+    "le sort de la mission AUSSOM après la fin du financement américain"
+   ],
+   "importance": 65,
+   "empreinte": "62828687191e025f",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-07-31T18:42:01.410632+00:00"
+  },
+  {
+   "faits": [
+    "Les profits cumulés des principaux groupes du CAC 40 ont bondi de près de 50 % au premier semestre",
+    "Presque tous les groupes ont vu leur activité croître",
+    "Cela survient malgré la guerre en Iran"
+   ],
+   "qui": "Groupes du CAC 40",
+   "ou": "France",
+   "categorie": "economie",
    "sensible": false,
    "confiance": 85,
    "sources": [
     "Le Figaro"
    ],
    "non_confirme": [],
-   "importance": 70,
-   "empreinte": "5ff725fda51da638",
-   "score": 82,
+   "importance": 65,
+   "empreinte": "5f4da7259215f96e",
+   "score": 81,
    "fiab_max": 85,
    "nb_sources": 1,
-   "depuis": "2026-07-31T12:31:06.808496+00:00"
-  },
-  {
-   "faits": [
-    "TotalEnergies va payer la facture de carburant des pompiers français pour tout l'été",
-    "L'entreprise offre aux SDIS et à la Sécurité civile l'équivalent de leurs dépenses en carburant en juillet et août",
-    "Cette contribution prend la forme d'avoirs"
-   ],
-   "qui": "TotalEnergies",
-   "ou": "France",
-   "categorie": "economie",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Figaro"
-   ],
-   "non_confirme": [],
-   "importance": 62,
-   "empreinte": "a99f2ea787295f77",
-   "score": 82,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T12:31:06.808497+00:00"
+   "depuis": "2026-07-31T18:42:01.411028+00:00"
   },
   {
    "faits": [
@@ -3265,76 +3307,29 @@
   },
   {
    "faits": [
-    "En Nouvelle-Calédonie, Milakulo Tukumuli, président de l'Eveil océanien, a été désigné président du gouvernement collégial",
-    "Il a 41 ans",
-    "Son élection est fruit d'un accord avec les non-indépendantistes",
-    "Il n'a pas de majorité garantie",
-    "Il fait face à des défis majeurs pour faire passer ses réformes"
+    "Jean Quatremer quitte le journal Libération",
+    "Jean Quatremer arrive au magazine Marianne",
+    "Les journalistes de Marianne affirment que Quatremer pourrait « tordre » l'ADN du magazine et « brusquer » ses lecteurs",
+    "La directrice de la rédaction Eve Szeftel assure que Quatremer « ne va exercer aucun rôle dans la direction de la rédaction, ni l'orientation du journal »",
+    "Quatremer « va exprimer une opinion »"
    ],
-   "qui": "Milakulo Tukumuli, Eveil océanien",
-   "ou": "Nouvelle-Calédonie",
-   "categorie": "politique",
+   "qui": "Jean Quatremer, Eve Szeftel, magazine Marianne",
+   "ou": "France",
+   "categorie": "culture",
    "sensible": false,
-   "confiance": 82,
+   "confiance": 85,
    "sources": [
     "Le Monde"
    ],
    "non_confirme": [
-    "Capacité de Tukumuli à faire passer ses réformes sans majorité"
+    "le rôle exact que Quatremer jouera à Marianne"
    ],
-   "importance": 55,
-   "empreinte": "de57b0b25142c9b4",
-   "score": 79,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T16:54:51.631493+00:00"
-  },
-  {
-   "faits": [
-    "En République démocratique du Congo, une loi référendaire a été validée",
-    "Cette loi relance le débat sur un possible 3e mandat de Félix Tshisekedi",
-    "L'opposition dénonce une remise en cause de la Constitution",
-    "L'opposition appelle à la mobilisation"
-   ],
-   "qui": "Félix Tshisekedi, opposition congolaise",
-   "ou": "République démocratique du Congo",
-   "categorie": "politique",
-   "sensible": true,
-   "confiance": 80,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 60,
-   "empreinte": "f84e1a555802b896",
-   "score": 78,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T16:54:51.630657+00:00"
-  },
-  {
-   "faits": [
-    "Un responsable agricole FNSEA de l'Oise a insulté Marine Tondelier",
-    "Il l'avait traitée de « grosse salope » sur sa page privée",
-    "L'insulte a suivi l'adoption de la loi d'urgence agricole",
-    "Marine Tondelier, candidate écologiste, avait exigé des excuses en menaçant de poursuites judiciaires",
-    "Ce responsable agricole présente ses excuses"
-   ],
-   "qui": "Responsable FNSEA de l'Oise (non nommé), Marine Tondelier",
-   "ou": "Oise",
-   "categorie": "politique",
-   "sensible": false,
-   "confiance": 82,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
    "importance": 50,
-   "empreinte": "abbc7f02f65162e1",
-   "score": 78,
+   "empreinte": "5443030d5ac3a544",
+   "score": 80,
    "fiab_max": 90,
    "nb_sources": 1,
-   "depuis": "2026-07-31T16:54:51.631495+00:00"
+   "depuis": "2026-07-31T18:42:01.411031+00:00"
   }
  ],
  "publies_48h": [
@@ -3513,7 +3508,7 @@
   "🌡️ Après une semaine d'incendies en Gironde, la situation se stabilise. Bien que 42 000 hectares aient brûlé, le feu reste contenu. Le trafic ferroviaire interrompu au sud de Bordeaux reprendra après inspection des voies. (franceinfo)",
   "Franco Baresi, légende défensive de l'AC Milan, est décédé à 66 ans. Le footballeur italien a passé toute sa carrière au club milanais, dont il fut capitaine durant ses années glorieuses de la fin des années 1980. (franceinfo, Le Monde)"
  ],
- "recap_date": "2026-07-30",
+ "recap_date": "2026-07-31",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-07-31",
