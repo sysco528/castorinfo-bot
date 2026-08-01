@@ -304,7 +304,6 @@
    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-declare-vouloir-faire-tres-attention-avant-d-autoriser-l-ukraine-a-produire-des-missiles-patriot_8130692.html#xtor=RSS-3-[lestitres]"
   ],
   "https://www.lemonde.fr/rss/une.xml": [
-   "https://www.lemonde.fr/m-styles/article/2026/07/21/anna-wintour-et-andre-leon-talley-une-rupture-brutale_6728190_4497319.html",
    "https://www.lemonde.fr/politique/article/2026/07/21/les-deputes-face-a-la-concurrence-des-petitions-citoyennes_6728357_823448.html",
    "https://www.lemonde.fr/politique/article/2026/07/22/le-recul-environnemental-de-trop-la-ministre-de-la-transition-ecologique-monique-barbut-annonce-remettre-sa-demission-apres-le-vote-de-la-loi-d-urgence-agricole_6729994_823448.html",
    "https://www.lemonde.fr/international/article/2026/07/22/la-propagandiste-xenia-fedorova-echappe-aux-sanctions-europeennes-contre-des-personnalites-russes_6730000_3210.html",
@@ -603,7 +602,8 @@
    "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-l-armee-americaine-dement-les-affirmations-iraniennes-faisant-etat-du-blocage-du-trafic-maritime-dans-le-detroit-d-ormuz_6737099_3210.html",
    "https://www.lemonde.fr/planete/live/2026/08/01/en-direct-incendies-dans-le-var-2-500-personnes-evacuees-et-1-000-hectares-parcourus-par-un-feu-qui-depasse-l-entendement-estime-le-prefet_6737097_3244.html",
    "https://www.lemonde.fr/politique/article/2026/08/01/apres-l-affaire-barbara-butch-la-ministre-de-la-culture-veut-renforcer-les-sanctions-contre-le-delit-d-entrave-a-un-spectacle_6737175_823448.html",
-   "https://www.lemonde.fr/societe/article/2026/08/01/le-policier-soupconne-d-avoir-eborgne-le-gilet-jaune-jerome-rodrigues-sera-juge-a-l-ete-2027-plus-de-huit-ans-apres-les-faits_6737174_3224.html"
+   "https://www.lemonde.fr/societe/article/2026/08/01/le-policier-soupconne-d-avoir-eborgne-le-gilet-jaune-jerome-rodrigues-sera-juge-a-l-ete-2027-plus-de-huit-ans-apres-les-faits_6737174_3224.html",
+   "https://www.lemonde.fr/football/article/2026/08/01/sous-pression-gianni-infantino-renonce-a-son-projet-d-ouverture-de-la-fifa-aux-investisseurs-prives_6737176_1616938.html"
   ],
   "https://www.lefigaro.fr/rss/figaro_actualites.xml": [
    "https://www.lefigaro.fr/conso/exces-de-cadmium-des-melons-vendus-chez-carrefour-rappeles-dans-toute-la-france-20260723",
@@ -1210,7 +1210,6 @@
    "1755d516-8d1d-11f1-9665-a3110d1cd55c"
   ],
   "https://www.rfi.fr/fr/rss": [
-   "3734d178-8293-11f1-947e-7313728c1c34",
    "bdd4cefc-82a4-11f1-9a02-3bf33d85ea88",
    "93c8ac08-82b0-11f1-8066-5364877b7453",
    "18079618-82c1-11f1-a2ba-792519af272c",
@@ -1509,10 +1508,10 @@
    "bf9de896-8cf3-11f1-a2f6-ff37416a6ee7",
    "23357824-8d08-11f1-9257-c1ef1d0f05cc",
    "f0f62eba-8d13-11f1-8c6b-d110ad064812",
-   "23d23678-8d08-11f1-aa44-f1608c1673e7"
+   "23d23678-8d08-11f1-aa44-f1608c1673e7",
+   "e08f417e-8d3b-11f1-a7ac-c1be0b686500"
   ],
   "https://www.ouest-france.fr/rss/une": [
-   "https://www.ouest-france.fr/tour-de-france/tour-de-france-evenepoel-sattend-a-une-offensive-de-seixas-et-decathlon-cma-cgm-apres-le-virus-qui-frappe-uae-emirates-31e2c288-86cc-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-un-coureur-percute-par-une-voiture-et-tenu-pour-responsable-par-le-conducteur-558b6da2-86c7-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/leditiondusoir/2026-07-23/l-accroc-qui-a-tout-change-quand-madonna-choquait-une-partie-de-l-amerique-avec-une-prestation-improvisee-20991f35-da8c-4a3d-b30a-0ecffc6840f7?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/tour-de-france/tour-de-france-combien-de-points-reste-t-il-a-distribuer-pour-le-classement-du-maillot-a-pois-e1014704-86c1-11f1-94d8-e478b94a49e4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1811,7 +1810,8 @@
    "https://www.ouest-france.fr/sport/football/paris-sg/mercato-psg-paris-negocie-pour-un-prometteur-ailier-de-lajax-a9e55d66-8d27-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/monde/perou/le-perou-se-joint-au-bouclier-des-ameriques-de-donald-trump-3a8c3096-8d29-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "https://www.ouest-france.fr/sport/football/fifa/vente-de-la-coupe-du-monde-la-conmebol-sort-du-silence-sur-le-projet-polemique-de-gianni-infantino-c9953efe-8d24-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "https://www.ouest-france.fr/monde/iran/donald-trump-menace-liran-de-frappes-tres-fortes-de-nouveaux-bombardements-envisages-e5b3db8c-8d37-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+   "https://www.ouest-france.fr/monde/iran/donald-trump-menace-liran-de-frappes-tres-fortes-de-nouveaux-bombardements-envisages-e5b3db8c-8d37-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-au-moins-quatre-morts-dans-une-attaque-de-missiles-balistiques-sur-kiev-4f0f0f0c-8d42-11f1-bac6-43ee9437487c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
   ],
   "https://www.20minutes.fr/feeds/rss-une.xml": [
    "https://www.20minutes.fr/sport/football/4234178-20260713-coupe-monde-2026-espagne-angleterre-argentine-defaite-pire-avaler-bleus?at_medium=display&at_campaign=149",
@@ -2090,7 +2090,8 @@
    "https://www.20minutes.fr/monde/ukraine/4237260-20260731-guerre-ukraine-trump-hesite-missiles-patriot-kiev-vise-geant-e-commerce-russe?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/societe/4237263-20260731-prisons-france-compte-89-446-detenus-1er-juillet-nouveau-triste-record?at_medium=display&at_campaign=149",
    "https://www.20minutes.fr/monde/etats-unis/4237268-20260801-etats-unis-face-secheresse-administration-trump-impose-restrictions-preserver-fleuve-colorado?at_medium=display&at_campaign=149",
-   "https://www.20minutes.fr/societe/4237267-20260801-ministre-culture-veut-renforcer-sanctions-contre-delit-entrave-expression-artistique?at_medium=display&at_campaign=149"
+   "https://www.20minutes.fr/societe/4237267-20260801-ministre-culture-veut-renforcer-sanctions-contre-delit-entrave-expression-artistique?at_medium=display&at_campaign=149",
+   "https://www.20minutes.fr/sport/football/4237282-20260801-coupe-monde-lache-tout-monde-gianni-infantino-retire-projet-investissements-prives-fifa?at_medium=display&at_campaign=149"
   ],
   "https://www.bfmtv.com/rss/news-24-7/": [
    "https://www.bfmtv.com/paris/14-juillet-le-conseil-d-etat-retablit-le-qr-code-obligatoire-pour-acceder-au-defile-a-paris_AD-202607140273.html",
@@ -2629,179 +2630,21 @@
    "https://www.lequipe.fr/Football/Actualites/La-concacaf-rejette-la-proposition-de-gianni-infantino-de-privatiser-une-partie-de-la-coupe-du-monde/1708042",
    "https://www.lequipe.fr/Football/Article/Grand-recit-zidane-a-la-tete-des-bleus-une-destinee-2-3-sa-vocation-d-entraineur-une-longue-reflexion/1707919",
    "https://www.lequipe.fr/Football/Article/Mercato-mwanga-tincres-maintenant-diarra-et-maja-la-folle-semaine-de-demba-ba-havre/1708149",
-   "https://www.lequipe.fr/Football/Actualites/La-conmebol-demande-des-clarifications-sur-la-structure-que-veut-creer-la-fifa-pour-vendre-des-parts-de-la-coupe-du-monde/1708279"
+   "https://www.lequipe.fr/Football/Actualites/La-conmebol-demande-des-clarifications-sur-la-structure-que-veut-creer-la-fifa-pour-vendre-des-parts-de-la-coupe-du-monde/1708279",
+   "https://www.lequipe.fr/Football/Video/Matches-amicaux-le-resume-video-de-crystal-palace-al-ula/20238519",
+   "https://www.lequipe.fr/Football/Actualites/L-ere-gerard-lopez-terminee-sparta-prend-les-commandes-les-girondins-sont-vendus-mais-pas-encore-sauves/1708240",
+   "https://www.lequipe.fr/Football/Actualites/Avec-sa-recrue-karim-adeyemi-et-un-groupe-rajeuni-le-fc-barcelone-bute-sur-birmingham-en-amical/1708272",
+   "https://www.lequipe.fr/Football/Actualites/Mercato-le-fc-barcelone-officialise-l-arrivee-du-jeune-belge-jesse-bisiwu/1708271",
+   "https://www.lequipe.fr/Football/Actualites/L-homme-d-affaires-dominique-delport-annonce-qu-il-devient-president-des-girondins-de-bordeaux/1708270",
+   "https://www.lequipe.fr/Football/Article/Un-leader-tout-terrain-apres-sa-saison-exceptionnelle-florian-thauvin-ne-veut-pas-s-arreter-la-et-prend-de-plus-en-plus-d-importance-a-lens/1708202",
+   "https://www.lequipe.fr/Football/Actualites/Libre-de-tout-contrat-josh-maja-revient-en-ligue-1-et-rejoint-le-havre/1708263",
+   "https://www.lequipe.fr/Football/Actualites/Pour-la-coupe-du-monde-a-64-la-fifa-presse-le-pas-en-vue-de-l-edition-2030/1708262",
+   "https://www.lequipe.fr/Football/Actualites/Mercato-l-ajax-amsterdam-recrute-julian-brandt-libre-de-son-contrat-avec-le-borussia-dortmund/1708259",
+   "https://www.lequipe.fr/Football/Actualites/Avec-julian-vignolo-et-santiago-hidalgo-toulouse-poursuit-sa-preparation-par-une-victoire-contre-la-real-sociedad/1708255"
   ]
  },
  "en_attente_publication": [],
  "evenements_attente": [
-  {
-   "faits": [
-    "Environ 60 000 migrants sont arrivés dans l'enclave espagnole de Ceuta depuis le Maroc",
-    "Le Premier ministre espagnol Pedro Sanchez a qualifié cet afflux d'« attaque » et de « violation de l'intégrité territoriale de l'Espagne »",
-    "Plusieurs hypothèses sont évoquées : des rumeurs d'ouverture d'un poste frontière, la politique migratoire de Pedro Sanchez, l'inaction des autorités marocaines",
-    "Une décision de justice récente concernant la reconduite des migrants arrivés par la mer aurait été interprétée de manière malhonnête « par les mafias »"
-   ],
-   "qui": "Migrants, Pedro Sanchez, autorités marocaines",
-   "ou": "Ceuta, Maroc, Espagne",
-   "categorie": "international",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24",
-    "Le Figaro"
-   ],
-   "non_confirme": [
-    "les causes exactes de l'afflux massif de migrants"
-   ],
-   "importance": 80,
-   "empreinte": "4b4fff79cc811153",
-   "score": 95,
-   "fiab_max": 85,
-   "nb_sources": 2,
-   "depuis": "2026-07-31T18:42:01.411007+00:00"
-  },
-  {
-   "faits": [
-    "Selon le New York Post, Gianni Infantino et la Fifa vont abandonner le projet de vente de la Coupe du monde",
-    "La décision fait suite à la colère suscitée, notamment auprès de l'UEFA",
-    "L'UEFA a menacé de boycotter les prochains Mondiaux avec ses 55 membres"
-   ],
-   "qui": "Gianni Infantino, Fifa, UEFA",
-   "ou": null,
-   "categorie": "sport",
-   "sensible": false,
-   "confiance": 90,
-   "sources": [
-    "Le Monde",
-    "Ouest-France"
-   ],
-   "non_confirme": [
-    "Confirmation officielle de l'abandon du projet par la Fifa"
-   ],
-   "importance": 60,
-   "empreinte": "bed3d59616abec18",
-   "score": 94,
-   "fiab_max": 90,
-   "nb_sources": 2,
-   "depuis": "2026-07-31T22:39:22.516278+00:00"
-  },
-  {
-   "faits": [
-    "Incendies en France : 2 000 personnes évacuées dans le Var après une reprise de feu",
-    "Le feu du Gros Bessillon a repris dans l'après-midi",
-    "Les nouvelles évacuations concernent les communes de Correns et de Montfort-sur-Argens",
-    "Le feu est attisé par un fort mistral",
-    "En Gironde, environ 200 000 personnes ont pu rentrer chez elles dans une vingtaine de communes sur 220 000 déplacés",
-    "La préfète de Gironde déclare que la crise n'est pas finie et le feu n'est pas fixé"
-   ],
-   "qui": "Préfecture de Gironde (Sophie Brocas)",
-   "ou": "Var, Gironde, France",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 85,
-   "empreinte": "16f2aaa6e4ba69bc",
-   "score": 90,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.411008+00:00"
-  },
-  {
-   "faits": [
-    "Un incendie a démarré vendredi 31 juillet vers 13h30 dans le Var",
-    "Le feu a parcouru 1 000 hectares en six heures",
-    "Le préfet a ordonné l'évacuation de 2 500 personnes"
-   ],
-   "qui": null,
-   "ou": "Var",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "franceinfo"
-   ],
-   "non_confirme": [],
-   "importance": 80,
-   "empreinte": "a88244db87d4dc23",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T22:39:22.516282+00:00"
-  },
-  {
-   "faits": [
-    "El Niño se renforce",
-    "Le chef de l'ONU s'alarme en déclarant que ce phénomène « attise une planète déjà en feu »",
-    "Ce phénomène naturel revient tous les deux à sept ans",
-    "Les eaux de surface dans le centre et l'est de l'océan Pacifique équatorial se réchauffent",
-    "Cela entraîne pendant plusieurs mois des modifications majeures des régimes de vent, de pression et de précipitations à l'échelle mondiale"
-   ],
-   "qui": "ONU, chef de l'ONU",
-   "ou": "Océan Pacifique équatorial",
-   "categorie": "sciences",
-   "sensible": true,
-   "confiance": 90,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 82,
-   "empreinte": "40dddb9d9740aa8a",
-   "score": 88,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.411010+00:00"
-  },
-  {
-   "faits": [
-    "Donald Trump déclare vouloir faire très attention avant d'autoriser Kiev à produire des missiles Patriot",
-    "Trump exprime sa préoccupation que la technologie donnée à l'Ukraine pourrait un jour se retourner contre les États-Unis",
-    "Trump avait annoncé le 8 juillet son intention d'autoriser l'Ukraine à fabriquer des missiles Patriot à l'issue du sommet de l'OTAN à Ankara"
-   ],
-   "qui": "Donald Trump, Ukraine",
-   "ou": "Camp David, États-Unis",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 88,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "autorisation finale de la production de missiles Patriot en Ukraine"
-   ],
-   "importance": 78,
-   "empreinte": "53ec0d95d79da9e6",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.411012+00:00"
-  },
-  {
-   "faits": [
-    "Au 1er juillet, le nombre de détenus dans les prisons françaises atteint 89 446",
-    "Ce chiffre est inédit (record)",
-    "Le taux de suroccupation dans les prisons et maisons d'arrêt était de 141,3 % au 1er juillet"
-   ],
-   "qui": "Administration pénitentiaire française",
-   "ou": "France",
-   "categorie": "justice",
-   "sensible": true,
-   "confiance": 92,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [],
-   "importance": 72,
-   "empreinte": "31eab99989a8a659",
-   "score": 87,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.411013+00:00"
-  },
   {
    "faits": [
     "Une Belge de 24 ans a été inculpée pour implication présumée dans un projet d'attentat",
@@ -2854,26 +2697,27 @@
   },
   {
    "faits": [
-    "Le policier soupçonné d'avoir éborgné Jérôme Rodrigues sera jugé à l'été 2027",
-    "Plus de huit ans se sont écoulés depuis les faits",
-    "Le 26 janvier 2019, Jérôme Rodrigues a été grièvement blessé lors d'une manifestation des gilets jaunes",
-    "Les faits se sont déroulés place de la Bastille à Paris"
+    "Une attaque russe de missiles balistiques a visé Kiev",
+    "Au moins quatre morts et 13 blessés ont été causés par l'attaque",
+    "L'attaque s'est déroulée dans la nuit du 31 juillet au 1er août 2026",
+    "Moscou intensifie ses frappes de longue portée",
+    "L'Ukraine déploie des efforts de défense aérienne"
    ],
-   "qui": "Jérôme Rodrigues (gilet jaune)",
-   "ou": "Paris, place de la Bastille",
-   "categorie": "justice",
+   "qui": "Russie, Ukraine",
+   "ou": "Kiev",
+   "categorie": "international",
    "sensible": true,
-   "confiance": 90,
+   "confiance": 88,
    "sources": [
-    "Le Monde"
+    "Ouest-France"
    ],
    "non_confirme": [],
-   "importance": 72,
-   "empreinte": "3170c399d1dce6a4",
-   "score": 86,
-   "fiab_max": 90,
+   "importance": 85,
+   "empreinte": "97cd0728b7e5d74d",
+   "score": 85,
+   "fiab_max": 80,
    "nb_sources": 1,
-   "depuis": "2026-07-31T23:47:22.926262+00:00"
+   "depuis": "2026-08-01T01:20:06.984808+00:00"
   },
   {
    "faits": [
@@ -2972,28 +2816,6 @@
   },
   {
    "faits": [
-    "Un incendie de forêt près d'Athènes a provoqué un ordre d'évacuation préventive",
-    "L'île de Crète était toujours la proie des flammes",
-    "Les vents sont violents mais il y a une certaine amélioration selon les pompiers"
-   ],
-   "qui": "Protection civile grecque",
-   "ou": "Grèce, Athènes, Crète",
-   "categorie": "meteo_catastrophe",
-   "sensible": true,
-   "confiance": 88,
-   "sources": [
-    "France 24"
-   ],
-   "non_confirme": [],
-   "importance": 75,
-   "empreinte": "130af7fde2c7efe6",
-   "score": 84,
-   "fiab_max": 85,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.410591+00:00"
-  },
-  {
-   "faits": [
     "Des milliers de personnes défilent à Kiev pour réclamer le retour de Mykhaïlo Fedorov au ministère de la Défense",
     "Mykhaïlo Fedorov avait été écarté mi-juillet par Volodymyr Zelensky",
     "L'écartement était dû à des divergences avec le commandant en chef des armées Oleksandr Syrsky",
@@ -3067,6 +2889,30 @@
   },
   {
    "faits": [
+    "La FIFA souhaite mandater une agence indépendante pour évaluer un nouveau format de Coupe du monde",
+    "Le nouveau format propose 64 équipes pour l'édition 2030",
+    "Le format actuel compte 48 équipes pour 2026",
+    "La FIFA décidera de l'agence à mandater le 14 août",
+    "L'agence aura quatre semaines pour rendre ses conclusions"
+   ],
+   "qui": "FIFA",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 65,
+   "empreinte": "1cd7fd7be636e0bf",
+   "score": 83,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-08-01T01:20:17.675885+00:00"
+  },
+  {
+   "faits": [
     "L'Italie a rétabli des contrôles exceptionnels et temporaires à ses frontières avec l'Espagne",
     "Cette mesure fait suite à un afflux de migrants à Ceuta"
    ],
@@ -3085,32 +2931,6 @@
    "fiab_max": 90,
    "nb_sources": 1,
    "depuis": "2026-07-31T22:39:22.516300+00:00"
-  },
-  {
-   "faits": [
-    "En Inde, des mobilisations d'étudiants ont eu lieu",
-    "Le ministre de l'éducation indien a démissionné le 25 juillet",
-    "Les jeunes manifestants ont opté pour le rire, la danse et le chant plutôt que la violence",
-    "Ces mobilisations révèlent une crise sociale profonde",
-    "L'issue politique reste incertaine"
-   ],
-   "qui": "Étudiants et manifestants indiens, ministre de l'éducation indien",
-   "ou": "Inde",
-   "categorie": "international",
-   "sensible": false,
-   "confiance": 85,
-   "sources": [
-    "Le Monde"
-   ],
-   "non_confirme": [
-    "l'issue politique de la crise"
-   ],
-   "importance": 65,
-   "empreinte": "e8c43551a7533e0e",
-   "score": 83,
-   "fiab_max": 90,
-   "nb_sources": 1,
-   "depuis": "2026-07-31T18:42:01.411022+00:00"
   },
   {
    "faits": [
@@ -3182,6 +3002,55 @@
   },
   {
    "faits": [
+    "Dominique Delport annonce devenir le nouveau président des Girondins de Bordeaux",
+    "L'entrepreneur britannique James Bord est l'investisseur derrière la reprise du club",
+    "Gérard Lopez a cédé ses parts au fonds d'investissement britannique Sparta Capital",
+    "Cette cession peut éviter la liquidation judiciaire du club",
+    "La survie du club bordelais n'est pas encore garantie"
+   ],
+   "qui": "Dominique Delport, James Bord, Gérard Lopez, Girondins de Bordeaux",
+   "ou": "Bordeaux",
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [
+    "La survie du club n'est pas encore garantie"
+   ],
+   "importance": 65,
+   "empreinte": "b14e38508497d5ee",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-08-01T01:20:17.675890+00:00"
+  },
+  {
+   "faits": [
+    "L'Ajax Amsterdam annonce la signature du milieu offensif Julian Brandt",
+    "Julian Brandt était libre de son contrat avec le Borussia Dortmund",
+    "Il est un international allemand",
+    "Il s'est engagé pour trois saisons avec l'Ajax"
+   ],
+   "qui": "Julian Brandt, Ajax Amsterdam, Borussia Dortmund",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 55,
+   "empreinte": "436b4808125474ff",
+   "score": 81,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-08-01T01:20:17.675891+00:00"
+  },
+  {
+   "faits": [
     "Un tremblement de terre de magnitude 4,7 a secoué le sud de l'Italie",
     "Le séisme a touché la région volcanique de Naples",
     "Aucune demande de secours n'a été envoyée aux autorités"
@@ -3201,6 +3070,76 @@
    "fiab_max": 80,
    "nb_sources": 1,
    "depuis": "2026-07-31T21:32:32.159197+00:00"
+  },
+  {
+   "faits": [
+    "Le FC Barcelone a joué un match amical contre Birmingham en pré-saison",
+    "Le résultat a été 2-2 après 90 minutes, Birmingham a remporté 3-2 aux tirs au but",
+    "Karim Adeyemi a été titularisé dans son premier match pour Barcelone",
+    "De nombreux jeunes du centre de formation ont également joué",
+    "L'entraîneur Hansi Flick a dirigé l'équipe"
+   ],
+   "qui": "FC Barcelone, Birmingham",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 60,
+   "empreinte": "bb248b2960677409",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-08-01T01:20:17.675895+00:00"
+  },
+  {
+   "faits": [
+    "Le FC Barcelone a officialisé l'arrivée du jeune ailier belge Jesse Bisiwu",
+    "Jesse Bisiwu a 18 ans",
+    "Il provient de la réserve du Club Bruges",
+    "Il a signé un contrat pour cinq saisons"
+   ],
+   "qui": "FC Barcelone, Jesse Bisiwu",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "5e07c9e468e0a9a0",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-08-01T01:20:17.675896+00:00"
+  },
+  {
+   "faits": [
+    "Josh Maja signe avec le Havre en Ligue 1",
+    "L'attaquant nigérian était libre de tout contrat",
+    "Il a signé pour une saison avec une année optionnelle supplémentaire",
+    "Il effectue un retour en Ligue 1"
+   ],
+   "qui": "Josh Maja, Le Havre",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 90,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 50,
+   "empreinte": "9b90ddcc7fb7b941",
+   "score": 80,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-08-01T01:20:17.675898+00:00"
   },
   {
    "faits": [
@@ -3340,21 +3279,32 @@
    "fiab_max": 75,
    "nb_sources": 1,
    "depuis": "2026-07-31T23:47:22.926289+00:00"
+  },
+  {
+   "faits": [
+    "Le Toulouse FC a remporté une victoire contre la Real Sociedad (2-1) en match amical",
+    "Julian Vignolo et Santiago Hidalgo ont participé au match",
+    "Il s'agissait du deuxième match de préparation de Toulouse avant la Ligue 1",
+    "L'équipe s'est montrée cohérente"
+   ],
+   "qui": "Toulouse FC, Real Sociedad",
+   "ou": null,
+   "categorie": "sport",
+   "sensible": false,
+   "confiance": 85,
+   "sources": [
+    "L'Équipe"
+   ],
+   "non_confirme": [],
+   "importance": 40,
+   "empreinte": "f23e7a88ec64ae51",
+   "score": 76,
+   "fiab_max": 85,
+   "nb_sources": 1,
+   "depuis": "2026-08-01T01:20:17.675927+00:00"
   }
  ],
  "publies_48h": [
-  [
-   "b7933662035cca43",
-   "2026-07-29T23:47:25.010587+00:00"
-  ],
-  [
-   "76b1936698856029",
-   "2026-07-29T23:47:28.938199+00:00"
-  ],
-  [
-   "9dee9f1df6341338",
-   "2026-07-30T01:06:27.475491+00:00"
-  ],
   [
    "65a81fe027932c14",
    "2026-07-30T04:17:25.678558+00:00"
@@ -3426,21 +3376,17 @@
   [
    "773f47f945e061bf",
    "2026-07-31T23:47:24.119235+00:00"
+  ],
+  [
+   "4c43592249744285",
+   "2026-08-01T01:20:18.832625+00:00"
+  ],
+  [
+   "f9b53529bcdffcbe",
+   "2026-08-01T01:20:22.813021+00:00"
   ]
  ],
  "evenements_48h": [
-  [
-   "92b1226b6a90fdf8",
-   "2026-07-29T23:47:19.256054+00:00"
-  ],
-  [
-   "f9ac3c4f5031c9a6",
-   "2026-07-29T23:47:23.941768+00:00"
-  ],
-  [
-   "67ec5a0804e0ed4c",
-   "2026-07-30T01:06:15.717900+00:00"
-  ],
   [
    "276c18f1558b716d",
    "2026-07-30T04:17:19.215319+00:00"
@@ -3512,17 +3458,27 @@
   [
    "978993087d5801d1",
    "2026-07-31T23:47:08.811629+00:00"
+  ],
+  [
+   "bed3d59616abec18",
+   "2026-08-01T01:20:15.253608+00:00"
+  ],
+  [
+   "a88244db87d4dc23",
+   "2026-08-01T01:20:17.675863+00:00"
   ]
  ],
  "depeches_du_jour": [
   "⚡ FLASH — Des incendies ravagent la Gironde et le Var. Un feu a parcouru 1 000 hectares en six heures avec des flammes de 25 mètres. Environ 2 500 personnes évacuées. (Le Figaro, Ouest-France)",
   "⚖️ Une mère de famille a été mise en examen et placée en détention provisoire après la découverte de cinq nouveau-nés décédés à Orange, en Vaucluse. Son compagnon a été remis en liberté. (franceinfo, Le Monde)",
-  "⚡ FLASH — Un incendie majeur a repris dans le Var, ravageant 1 000 hectares en six heures. 2 500 personnes évacuées, 500 pompiers mobilisés face aux flammes attisées par un fort mistral. En Gironde, 198 000 personnes ont regagné leur domicile."
+  "⚡ FLASH — Un incendie majeur a repris dans le Var, ravageant 1 000 hectares en six heures. 2 500 personnes évacuées, 500 pompiers mobilisés face aux flammes attisées par un fort mistral. En Gironde, 198 000 personnes ont regagné leur domicile.",
+  "⚽ La Fifa envisage d'abandonner son projet de vente des droits de la Coupe du monde, selon le New York Post. Cette décision intervient après la vive protestation de l'UEFA, dont les 55 membres avaient menacé de boycotter les prochains Mondiaux. (Le Monde)",
+  "Un incendie s'est déclaré vendredi 31 juillet à 13h30 dans le Var. Le feu a parcouru 1 000 hectares en six heures. Le préfet a ordonné l'évacuation de 2 500 personnes. (franceinfo)"
  ],
  "recap_date": "2026-07-31",
  "echecs_extraction": 0,
  "compteur": {
   "date": "2026-08-01",
-  "publies": 3
+  "publies": 5
  }
 }

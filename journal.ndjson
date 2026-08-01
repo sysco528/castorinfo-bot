@@ -9996,3 +9996,47 @@
 {"decision": "controle", "evt": "8ac7fc6ee2e754ca", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-31T23:47:19+00:00"}
 {"decision": "controle", "evt": "d603c7b769de3f10", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-07-31T23:47:22+00:00"}
 {"decision": "publie", "empreinte": "773f47f945e061bf", "post_id": "2083338769223028899", "carte": true, "texte": "⚡ FLASH — Un incendie majeur a repris dans le Var, ravageant 1 000 hectares en six heures. 2 500 personnes évacuées, 500 pompiers mobilisés face aux flammes attisées par un fort mistral. En Gironde, 198 000 personnes ont regagné leur domicile.", "ts": "2026-07-31T23:47:24+00:00"}
+{"decision": "abandon_attente", "evt": "4b4fff79cc811153", "categorie": "international", "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "abandon_attente", "evt": "16f2aaa6e4ba69bc", "categorie": "meteo_catastrophe", "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "abandon_attente", "evt": "40dddb9d9740aa8a", "categorie": "sciences", "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "abandon_attente", "evt": "53ec0d95d79da9e6", "categorie": "international", "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "abandon_attente", "evt": "31eab99989a8a659", "categorie": "justice", "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "abandon_attente", "evt": "130af7fde2c7efe6", "categorie": "meteo_catastrophe", "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "abandon_attente", "evt": "e8c43551a7533e0e", "categorie": "international", "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "3493db4b7d175cb8", "score": 98, "categorie": "sport", "sensible": false, "confiance": 92, "sources": ["Le Monde", "RFI", "Ouest-France", "20 Minutes"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "attente", "evt": "97cd0728b7e5d74d", "score": 85, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["Ouest-France"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "bb248b2960677409", "score": 80, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "5e07c9e468e0a9a0", "score": 80, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["L'Équipe"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "b14e38508497d5ee", "score": 81, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "9b90ddcc7fb7b941", "score": 80, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["L'Équipe"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "436b4808125474ff", "score": 81, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["L'Équipe"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "1cd7fd7be636e0bf", "score": 83, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["L'Équipe"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "f23e7a88ec64ae51", "score": 76, "categorie": "sport", "sensible": false, "confiance": 85, "sources": ["L'Équipe"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "bed3d59616abec18", "score": 94, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Le Monde", "Ouest-France"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "a88244db87d4dc23", "score": 88, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 90, "sources": ["franceinfo"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "attente", "evt": "73d67c9600fd45f8", "score": 86, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "attente", "evt": "6ea0c76103ddc1bc", "score": 86, "categorie": "international", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "3170c399d1dce6a4", "score": 86, "categorie": "justice", "sensible": true, "confiance": 90, "sources": ["Le Monde"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "attente", "evt": "1a0429a1c5aba3c8", "score": 85, "categorie": "meteo_catastrophe", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "83a2a31aebce4494", "score": 85, "categorie": "justice", "sensible": true, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "f13fb871ada90c16", "score": 85, "categorie": "sante", "sensible": true, "confiance": 88, "sources": ["Le Monde"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "attente", "evt": "4d879b9e5be40454", "score": 84, "categorie": "politique", "sensible": true, "confiance": 88, "sources": ["RFI"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "a7fe1e52f92d0c20", "score": 84, "categorie": "politique", "sensible": true, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "ef3558f4bc7e373b", "score": 84, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "fb6bd41062793c22", "score": 84, "categorie": "international", "sensible": false, "confiance": 88, "sources": ["France 24"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "304126baaf347293", "score": 83, "categorie": "international", "sensible": false, "confiance": 85, "sources": ["franceinfo"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "attente", "evt": "a68a1de09e6bf1e6", "score": 82, "categorie": "politique", "sensible": true, "confiance": 82, "sources": ["Le Figaro"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "attente", "evt": "596577c4d4990edc", "score": 82, "categorie": "international", "sensible": true, "confiance": 85, "sources": ["RFI"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "1e15415939ddd2b9", "score": 82, "categorie": "politique", "sensible": false, "confiance": 85, "sources": ["Le Monde"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "378b8c7327a7ad7f", "score": 81, "categorie": "meteo_catastrophe", "sensible": false, "confiance": 92, "sources": ["Ouest-France"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "8b048dcbf4fb53e0", "score": 80, "categorie": "sport", "sensible": false, "confiance": 90, "sources": ["Ouest-France"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "attente", "evt": "7ca7c9d74fd36d8d", "score": 79, "categorie": "international", "sensible": true, "confiance": 75, "sources": ["Ouest-France"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "5dd2610f857fa1a8", "score": 79, "categorie": "justice", "sensible": false, "confiance": 90, "sources": ["20 Minutes"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "9f88becc79fb4d7e", "score": 79, "categorie": "autre", "sensible": false, "confiance": 85, "sources": ["Ouest-France"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "583ce3c6724df9ec", "score": 78, "categorie": "sport", "sensible": false, "confiance": 82, "sources": ["L'Équipe"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "publier", "evt": "7f8b2a88f44ec8a5", "score": 77, "categorie": "international", "sensible": false, "confiance": 80, "sources": ["BFMTV"], "ts": "2026-08-01T01:20:06+00:00"}
+{"decision": "controle", "evt": "3493db4b7d175cb8", "motif": "controle_refuse:{\"faits_exacts\": true, \"invention\": null, \"diffamation_possible\": false, \"signal_justifie\": false, \"publiable\": true}", "ts": "2026-08-01T01:20:11+00:00"}
+{"decision": "controle", "evt": "bed3d59616abec18", "motif": "ok_sim_0.19", "ts": "2026-08-01T01:20:15+00:00"}
+{"decision": "controle", "evt": "a88244db87d4dc23", "motif": "ok_sim_0.00", "ts": "2026-08-01T01:20:17+00:00"}
+{"decision": "publie", "empreinte": "4c43592249744285", "post_id": "2083362151402475859", "carte": true, "texte": "⚽ La Fifa envisage d'abandonner son projet de vente des droits de la Coupe du monde, selon le New York Post. Cette décision intervient après la vive protestation de l'UEFA, dont les 55 membres avaient menacé de boycotter les prochains Mondiaux. (Le Monde)", "ts": "2026-08-01T01:20:18+00:00"}
+{"decision": "publie", "empreinte": "f9b53529bcdffcbe", "post_id": "2083362168058081713", "carte": true, "texte": "Un incendie s'est déclaré vendredi 31 juillet à 13h30 dans le Var. Le feu a parcouru 1 000 hectares en six heures. Le préfet a ordonné l'évacuation de 2 500 personnes. (franceinfo)", "ts": "2026-08-01T01:20:22+00:00"}
